@@ -6,7 +6,7 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 **Phase 1: Research** (complete) — Identified 130+ sources worldwide: datasets, books, academic papers, blogs, institutional programs.
 **Phase 2: Dataset Design** (complete) — Schema designed, all CSV files structured and validated.
-**Phase 3: Data Collection** (in progress) — 378 hand-curated entries with etymology + 1,427 programmatic entries from OSM + 488 from Wikidata.
+**Phase 3: Data Collection** (in progress) — 475 hand-curated transport station entries with etymology + 1,427 programmatic entries from OSM + 488 from Wikidata.
 
 ## What's Here
 
@@ -15,9 +15,9 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 ├── SOURCES.md                             # Master catalogue of all 130+ sources
 ├── data/
 │   ├── schema.md                          # Dataset schema documentation
-│   ├── madrid_metro_stations.csv          # 157 Metro stations with etymology
-│   ├── madrid_cercanias_stations.csv      # 84 Cercanias stations with etymology
-│   ├── madrid_metro_ligero_stations.csv   # 52 Metro Ligero + Tranvia stations
+│   ├── madrid_metro_stations.csv          # 243 Metro stations with etymology (ALL lines 1-12 + Ramal)
+│   ├── madrid_cercanias_stations.csv      # 95 Cercanias stations with etymology (ALL lines)
+│   ├── madrid_metro_ligero_stations.csv   # 52 Metro Ligero + Tranvia stations (ALL lines)
 │   ├── madrid_districts.csv              # All 21 distritos with etymology
 │   ├── madrid_neighbourhoods.csv          # 20 key barrios with etymology
 │   ├── madrid_plazas_parks.csv            # 14 plazas, parks, monuments
@@ -43,17 +43,17 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 | File | Entries | Coverage |
 |------|---------|----------|
-| `madrid_metro_stations.csv` | **157** | ~50% of all 302+ stations, all with etymology |
-| `madrid_cercanias_stations.csv` | **84** | All Cercanias Madrid stations |
-| `madrid_metro_ligero_stations.csv` | **52** | All ML1/ML2/ML3 + Tranvia de Parla stations |
+| `madrid_metro_stations.csv` | **243** | ALL Metro stations (lines 1-12 + Ramal), all with etymology |
+| `madrid_cercanias_stations.csv` | **95** | ALL Cercanias Madrid stations (C-1 to C-10), all with etymology |
+| `madrid_metro_ligero_stations.csv` | **52** | ALL ML1/ML2/ML3 + Tranvia de Parla stations |
 | `madrid_districts.csv` | **21** | All 21 distritos |
 | `madrid_neighbourhoods.csv` | **20** | Key barrios |
 | `madrid_plazas_parks.csv` | **14** | Major plazas, parks, monuments |
 | `madrid_streets.csv` | **30** | Seed streets (hand-curated) |
 | `osm_etymology_processed.csv` | **1,427** | Unique streets with Wikidata etymology IDs (from OSM) |
 | `wikidata_streets_named_after.csv` | **488** | Streets with full biographical "named after" data |
-| **Total hand-curated** | **378** | |
-| **Total with any etymology** | **~2,000** | |
+| **Total hand-curated** | **475** | Transport stations + districts + neighbourhoods + streets |
+| **Total with any etymology** | **~2,100** | |
 
 ## Key Finding
 
@@ -84,11 +84,11 @@ See [SOURCES.md](SOURCES.md) for the complete catalogue of 130+ sources.
 
 | Type | Count | Examples |
 |------|-------|---------|
-| place | 57 | Bilbao, Colombia, Ibiza, Oporto |
-| person | 56 | Goya, Tirso de Molina, Paco de Lucia |
-| historical | 17 | Sol, Embajadores, Tribunal |
-| descriptive | 17 | Cuatro Caminos, Almendrales |
-| religious | 8 | Noviciado, Iglesia, Santo Domingo |
+| place | 90 | Bilbao, Colombia, Ibiza, Oporto, Alcorcon Central, Ascao |
+| person | 64 | Goya, Tirso de Molina, Paco de Lucia, Miguel Hernandez, La Elipa |
+| descriptive | 46 | Cuatro Caminos, Almendrales, Arroyofresno, Arroyo Culebro |
+| historical | 22 | Sol, Embajadores, Tribunal, Aviacion Espanola, La Peseta |
+| religious | 19 | Noviciado, Iglesia, Santo Domingo, San Nicasio, Begona |
 | event | 2 | Callao, Tetuan |
 
 ## License

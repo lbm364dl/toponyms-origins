@@ -134,3 +134,46 @@ All datasets, projects, books, articles, and tools identified during research (2
 | 71 | Ayto Madrid Cartoteca | Official municipal map archive | https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Urbanismo/Cartografia/Cartoteca/ |
 | 72 | IGN Historical Map Comparator | 10 plans from 1622-1940 vs current | https://www.ign.es/ |
 | 73 | CRTM Historical Railway Map 1851-2021 | All railway lines over 170 years | https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf |
+
+## H. Additional Sources Used (2026-03-26 expansion)
+
+Sources consulted during the expansion to cover all 243 Metro, 95 Cercanias, and 52 Metro Ligero/Tranvia stations:
+
+| # | Name | What | URL |
+|---|------|------|-----|
+| 74 | Wikipedia - Individual station articles (es/en) | Etymology and history for ~150 stations | https://es.wikipedia.org/ |
+| 75 | Wikipedia - Line articles (Linea 1-12, Ramal) | Complete station lists and opening dates | https://es.wikipedia.org/ |
+| 76 | Toponomasticon Hispaniae (toponhisp.org) | Academic toponymic database for Spanish place names | https://toponhisp.org/ |
+| 77 | DiccET - Diccionario Etimologico Toponomastico | Vallecas, Valdecarros, and other Madrid toponyms | https://diccet.com/ |
+| 78 | Valdebebas.es | Valdebebas neighbourhood name origin | https://valdebebas.es/blog/valdebebas-origen-nombre |
+| 79 | Memorias de Fuenlabrada (blog) | Loranca hamlet history and street names | http://memoriasfuenlabrada.blogspot.com/ |
+| 80 | Leganes Activo | San Nicasio legend and Leganes history | https://leganesactivo.com/ |
+| 81 | Secretos de Leganes (blog) | Leganes municipality name etymology | https://secretosdeleganes.wordpress.com/ |
+| 82 | Noticias para Municipios | La Fortuna (Leganes) founding history | https://noticiasparamunicipios.com/ |
+| 83 | ECO Leganes | La Fortuna neighbourhood history | https://ecoleganes.org/ |
+| 84 | Madrid No Frills (blog) | Pan Bendito neighbourhood history (EN) | https://madridnofrills.com/ |
+| 85 | Puente de Vallecas Blog | Congosto street history, Vallecas toponyms | https://puentedevallecasblog.wordpress.com/ |
+| 86 | nosolometro (blog) | Ascao station name research | http://nosolometro.blogspot.com/ |
+| 87 | Del Manzanares al Guadarrama (blog) | El Bercial plant etymology | https://delmanzanaresalguadarrama.wordpress.com/ |
+| 88 | Ayuntamiento de Getafe | Los Espartales, Conservatorio, Getafe history | https://getafe.es/ |
+| 89 | Ayuntamiento de Alcorcon | Alcorcon etymology, Joaquin Vilumbrales | https://www.ayto-alcorcon.es/ |
+| 90 | Ayuntamiento de Leganes | San Nicasio, El Carrascal, Casa del Reloj | https://www.leganes.org/ |
+| 91 | Ayuntamiento de Fuenlabrada | Fuenlabrada etymology | https://www.ayto-fuenlabrada.es/ |
+| 92 | lamoraleja.com | La Moraleja historical origins | https://www.lamoraleja.com/ |
+| 93 | Aviacion Digital | Aviacion Espanola station and Cuatro Vientos history | https://aviaciondigital.com/ |
+| 94 | Real Aero Club de Espana | Cuatro Vientos aerodrome centenary | https://realaeroclubdeespana.org/ |
+| 95 | Museo Virtual de Getafe | Arroyo Culebro archaeological site | https://museo.getafe.es/ |
+| 96 | Istituto Italiano di Cultura Madrid | Palacio de Abrantes (Duques de Abrantes) history | https://iicmadrid.esteri.it/ |
+| 97 | Rutaspormadrid.wordpress.com | Vallecas etymological and mythic origins | https://rutaspormadrid.wordpress.com/ |
+| 98 | madridmobilite.com | Arroyofresno station opening history | https://madridmobilite.com/ |
+| 99 | Aena | Cuatro Vientos and Barajas airport history | https://www.aena.es/ |
+| 100 | Auñamendi Eusko Entziklopedia | Ascao/Askao etymology in Bilbao | https://aunamendi.eusko-ikaskuntza.eus/ |
+| 101 | fgacedo (blog) | Calle Askao de Bilbao etymological proposal | http://fgacedo.blogspot.com/ |
+| 102 | deia.eus | Askao street history in Bilbao | https://www.deia.eus/ |
+| 103 | Villar Liebaña, Palaeohispanica (2002) | Pre-Roman *up-/*op- (water/river) toponyms in Hispania | https://dialnet.unirioja.es/servlet/articulo?codigo=670065 |
+| 104 | Carabanchel Historia y Patrimonio (blog) | Carabanchel medieval history, Arroyo de Opañel | https://carabanchelhistoriaypatrimonio.home.blog/ |
+| 105 | eldiario.es | Pitis station history, shantytown and neighbourhood | https://www.eldiario.es/ |
+| 106 | Madrid Secreto | Pitis station renaming campaigns | https://madridsecreto.co/ |
+| 107 | Vocesdelpradillo (blog) | Plaza del Pradillo (Mostoles) historical origins | https://vocesdepradillo.wordpress.com/ |
+| 108 | Memorias de Fuenlabrada (blog) | Loranca medieval village, Fuenlabrada founding | https://memoriasfuenlabrada.blogspot.com/ |
+| 109 | Fundacion Hospital de San Jose | Alonso de Mendoza biography and hospital founding | https://fundacionhospitaldesanjose.es/ |
