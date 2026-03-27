@@ -152,52 +152,80 @@ Estimated total effort: **2-3 focused sessions of ~1 hour each**, not hundreds o
 
 ## Lookup Checklist
 
-Bring this list of ~40 station/place names to the library (the ones with weakest current etymologies):
+Bring this list of station/place names to the library (the ones with weakest current etymologies):
 
-**Metro stations (uncertain/unknown):**
-- [ ] Lavapies (first documented 1495, origin genuinely disputed)
-- [ ] Embajadores
-- [ ] Carabanchel (all variants)
-- [ ] Aluche
-- [ ] Campamento
-- [ ] Eugenia de Montijo
-- [ ] Abrantes
-- [ ] Opanel
-- [ ] Usera
-- [ ] Villaverde (all variants)
-- [ ] San Fermin-Orcasitas
-- [ ] Orcasitas
-- [ ] La Peseta
-- [ ] Pan Bendito
-- [ ] La Elipa
-- [ ] Ciudad de los Angeles
-- [ ] Pavones
+**Metro stations (uncertain — 7 entries):**
+- [ ] Lavapies (first documented **1441**, genuinely disputed: topographical vs Jewish fountain vs posada theory)
+- [ ] Carabanchel (pre-Roman *karav-* vs Arabic *carab* vs garbanzal — 1181 doc in Archivo Catedral de Toledo)
+- [ ] Barajas (Bar Axa vs Latin *varalia* vs pre-Roman — check Nieto Ballester entry)
+- [ ] Opanel (pre-Roman hydronymic *op-* per Villar Liebana — any earlier attestation?)
+- [ ] Pitis (genuinely unknown — no scholarly treatment exists. Check Aparisi Laporta)
+- [ ] Valdecarros (Valle de Carros vs Valle de Navarros — earliest doc 1296)
+- [ ] Getafe Central (very uncertain per Garcia Sanchez — check his Atlas toponimico entry)
 
-**Cercanias stations (uncertain):**
+**Cercanias stations (uncertain — 7 entries):**
+- [ ] Valdemoro (dark valley vs Moor's valley vs blackberry — check Toponomasticon Hispaniae)
+- [ ] Coslada (Celtic *cosla* hazelnut vs Latin *cos* flint — check Menendez Pidal 1952)
+- [ ] La Garena (possibly Old French *garenne* rabbit warren — any local documentation?)
+- [ ] Meco (Celtic vs Arabic — Miacum identification rejected by modern archaeology)
+- [ ] Aravaca (Celtic *ara-* water per Caridad Arias 2004 — check his full article)
+- [ ] Pitis (same as metro — check Aparisi Laporta)
+- [ ] Getafe (same as metro — check Garcia Sanchez Atlas)
+
+**Probable entries worth cross-checking (upgrade to verified?):**
 - [ ] Chamartin (1247 Echamartin doc — verify in Aparisi Laporta)
-- [ ] Getafe (very uncertain per Garcia Sanchez)
-- [ ] Mostoles (possible Mozarabic)
-- [ ] Fuenlabrada
-- [ ] Humanes
-- [ ] Ciempozuelos
-- [ ] Pinto (Latin *pinctus*?)
-- [ ] Valdemoro
-- [ ] Aranjuez (Basque documentary trail)
-- [ ] El Escorial (oak vs slag theory)
-- [ ] Villalba
-- [ ] Cercedilla
-- [ ] Cotos
+- [ ] Mostoles (monisterium theory — check Nieto Ballester)
+- [ ] Pinto (Garcia Sanchez favours Latin *pinctus* over *punctum*)
+- [ ] Alcorcon (hybrid al- + quercus per Garcia Sanchez — check his Atlas)
+- [ ] El Escorial (oak vs slag — Auberson's recent work)
+- [ ] Aranjuez (Basque *arantza* documentary trail)
+- [ ] Humanes (Bascuas 2006, p. 234 — verify paleo-European *um-*)
 - [ ] Colmenar Viejo
 - [ ] Alcobendas
+- [ ] Fuenlabrada
+- [ ] Villalba
+- [ ] Cercedilla
 
 **Districts/Neighbourhoods:**
-- [ ] Chamartin
 - [ ] Hortaleza
-- [ ] Barajas
 - [ ] Vicalvaro
 - [ ] Vallecas
 - [ ] Villaverde
-- [ ] Carabanchel
+
+---
+
+## Downloadable Academic Articles
+
+### Free — download these directly
+
+| # | Article | Author | Where | URL |
+|---|---------|--------|-------|-----|
+| 1 | "Lavapies, barranco y arrabal" (2013) | Bazaco Palacios, Lorenzo Arribas, Real Gallego | Academia.edu | https://www.academia.edu/4588123 |
+| 2 | "En torno a la toponimia madrilena" (2010) | Garcia Sanchez | Academia.edu | https://www.academia.edu/10965316 |
+| 3 | "Los toponimos con *up- (*op-)" (2002) | Villar Liebana | Palaeohispanica PDF | https://ifc.dpz.es/recursos/publicaciones/21/92/14villar.pdf |
+| 4 | CVC Rinconete: Madrid toponyms Part I | Garcia Sanchez | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/06062007_01.htm |
+| 5 | CVC Rinconete: Madrid toponyms Part II | Garcia Sanchez | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/21062007_01.htm |
+| 6 | CVC Rinconete: Madrid toponyms Part III | Garcia Sanchez | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/julio_07/09072007_01.asp |
+| 7 | CVC Rinconete: Madrid toponyms Part IV | Garcia Sanchez | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm |
+| 8 | CVC Rinconete: El Escorial etymology | Garcia Sanchez | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/enero_07/12012007_01.htm |
+| 9 | CVC Rinconete: Lavapies (2008) | Lorenzo Arribas | CVC Cervantes | https://cvc.cervantes.es/el_rinconete/anteriores/noviembre_08/21112008_01.htm |
+| 10 | "Contribucion a la toponomastica arabe" (1944) | Asin Palacios | Academia.edu | https://www.academia.edu/44709789 |
+| 11 | "Miaccum: una mansio romana en la Sierra" | Rodriguez Morales | Academia.edu | https://www.academia.edu/60737360 |
+
+### CSIC/Dialnet access required — check with your institutional account
+
+| # | Article | Author | Journal | Dialnet code |
+|---|---------|--------|---------|-------------|
+| 1 | "Algunos toponimos madrilenos de origen celta" (2004) | Caridad Arias | Anales IEM 44, pp. 821-830 | 3012173 |
+| 2 | "Toponimos madrilenos de origen celta (II)" (2006) | Caridad Arias | Anales IEM 46 | 3015656 |
+| 3 | "Toponimos madrilenos: Barajas" (2007) | Caridad Arias | Anales IEM XLVII | 3017277 |
+| 4 | "Materiales para una toponimia de Madrid (IV)" | Jimenez de Gregorio | Anales IEM | 3012169 |
+| 5 | "Materiales para una toponimia de Madrid" (full 9-part series) | Jimenez de Gregorio | Anales IEM (multiple vols) | search author 125043 |
+| 6 | "El Beneficio (Collado Mediano) y Miaccum" | Jimenez Guijarro | | 5314691 |
+
+Dialnet URL pattern: `https://dialnet.unirioja.es/servlet/articulo?codigo=XXXXXXX`
+
+**Note**: Some Anales del IEM articles marked as paywalled on Dialnet may actually be free. The IEM has been digitizing its back catalogue — check `https://institutoestudiosmadrilenos.es/` for open PDFs. The Caridad Arias 2004 article full text may be at: `https://institutoestudiosmadrilenos.es/wp-content/uploads/2025/07/3012173.pdf`
 
 ---
 
