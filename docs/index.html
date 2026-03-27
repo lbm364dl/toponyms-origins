@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Madrid Toponymy - Why Things Are Named the Way They Are</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>Madrid Toponymy</h1>
+    <p class="subtitle">Why things in Madrid are named the way they are</p>
+    <div class="stats" id="stats"></div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search by name, etymology, person..." autocomplete="off">
+    <div class="filters">
+      <select id="filter-category">
+        <option value="">All categories</option>
+        <option value="metro">Metro</option>
+        <option value="cercanias">Cercanias</option>
+        <option value="metro_ligero">Metro Ligero / Tranvia</option>
+        <option value="districts">Districts</option>
+        <option value="neighbourhoods">Neighbourhoods</option>
+        <option value="plazas_parks">Plazas &amp; Parks</option>
+        <option value="streets">Streets</option>
+      </select>
+      <select id="filter-type">
+        <option value="">All etymology types</option>
+        <option value="person">Person</option>
+        <option value="place">Place</option>
+        <option value="descriptive">Descriptive</option>
+        <option value="historical">Historical</option>
+        <option value="religious">Religious</option>
+        <option value="event">Event</option>
+        <option value="occupation">Occupation</option>
+        <option value="mythological">Mythological</option>
+        <option value="unknown">Unknown</option>
+      </select>
+      <select id="filter-confidence">
+        <option value="">All confidence levels</option>
+        <option value="verified">Verified</option>
+        <option value="probable">Probable</option>
+        <option value="uncertain">Uncertain</option>
+      </select>
+    </div>
+    <div class="result-count" id="result-count"></div>
+  </div>
+
+  <div id="entries" class="entries"></div>
+</main>
+
+<footer>
+  <div class="container">
+    <p>
+      <strong>Madrid Toponymy Dataset</strong> &mdash;
+      <a href="https://github.com/user/toponyms-origin">Source on GitHub</a> &mdash;
+      Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a>
+    </p>
+    <p class="footer-note">
+      475 hand-curated entries covering metro stations, Cercanias, Metro Ligero,
+      districts, neighbourhoods, plazas, parks, and streets of Madrid.
+    </p>
+  </div>
+</footer>
+
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal" id="modal">
+    <button class="modal-close" id="modal-close">&times;</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
