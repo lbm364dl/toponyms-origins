@@ -7,8 +7,8 @@
 
 | Confidence | Metro | Cercanías | ML/Tranvía | Total |
 |-----------|-------|-----------|------------|-------|
-| **verified** | 200 | 53 | 36 | **289** |
-| **probable** | 35 | 35 | 16 | **86** |
+| **verified** | 205 | 53 | 36 | **294** |
+| **probable** | 30 | 35 | 16 | **81** |
 | **uncertain** | 7 | 7 | 0 | **14** |
 | **unknown** | 1 | 0 | 0 | **1** (Pitis) |
 | **Total** | 243 | 95 | 52 | **390** |
@@ -25,7 +25,7 @@
 - ~90% of original QIDs were fabricated (capybara, asteroids, etc.)
 - All 148 unique QIDs corrected via Wikidata API verification
 
-### Stations Upgraded to Verified (this session)
+### Stations Upgraded to Verified (this session -- 16 total)
 1. Aranjuez (García Sánchez CVC confirms Basque arantza)
 2. El Escorial (García Sánchez CVC Part II + Lorenzo Arribas CVC)
 3. Aluche x2 (Arroyo Luche documented in Felipe II Real Cédula 1580)
@@ -35,8 +35,17 @@
 7. La Gavia (RAE + Iedra + Complutum UCM peer-reviewed archaeology)
 8. San Fermín-Orcasur (Federico Mayo Gayarre documented + Isabel Gea for Orcasitas)
 9. La Moraleja (Toponomasticon Hispaniae scholarly entry)
-10. Barrio del Pilar (etymology corrected + verified with investigative source)
+10. Barrio del Pilar (etymology CORRECTED: developer's wife, not Virgen del Pilar)
 11. Cruz del Rayo (Ayto. Madrid + Urban Idade 1928 colonia documentation)
+12. Ascao (Aunamendi Eusko Entziklopedia + Irigoien Basque etymology)
+13. Simancas (Toponomasticon Hispaniae + Lorenzo Arribas CVC etymology)
+14. San Blas (etymology CORRECTED: minister Blas Pérez González, not Saint Blaise)
+15. Montecarmelo (Arroyo de Montecarmelo stream + Ermita de Valverde 1242)
+16. Las Tablas (RAE agricultural definition of "tabla" = cultivable land strip)
+
+### Factual Errors Corrected (2)
+- **Barrio del Pilar**: NOT Virgen del Pilar -- named after Pilar, wife of developer José Banús (1961)
+- **San Blas**: NOT Saint Blaise -- named after minister Blas Pérez González (1898-1978)
 
 ### New Scholarly Sources Discovered
 - García Sánchez CVC Rinconete series (4 parts) with specific URLs
