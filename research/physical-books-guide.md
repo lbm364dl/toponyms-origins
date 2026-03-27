@@ -150,6 +150,60 @@ Estimated total effort: **2-3 focused sessions of ~1 hour each**, not hundreds o
 
 ---
 
+## Library Availability Guide (researched 2026-03-27)
+
+### Where to find each book in Madrid
+
+| # | Book | BNE | Biblioteca Regional (Joaquín Leguina) | CSIC (Tomás Navarro Tomás) | Buy | Notes |
+|---|------|-----|--------------------------------------|----------------------------|-----|-------|
+| 1 | Alonso Fernández-Checa (2023) "Metro de Madrid" | Catalogued (datos.bne.es, depósito legal) | Check OPAC | Unlikely | **16.50 EUR** Amazon.es / La Librería | Best option: buy. Also try BiblioMetro (metro station libraries) |
+| 2 | Aparisi Laporta (2001) "Toponimia madrileña" 2 vols | **YES** (datos.bne.es/obra/XX3084724) | **YES** (published by Ayto. Madrid) | Likely (check OPAC) | Out of print. Alcana secondhand ~40-80 EUR | BNE or Biblioteca Regional are your best bets |
+| 3 | Aparisi Laporta (2005) "Toponimia e iconografía en Fuencarral-El Pardo" | Check | Check | Unlikely | Buscalibre / Alcana antiquarian | **KEY for Pitis** -- 70pp focused on Fuencarral-El Pardo district. Conference from 28 April 2005 at Centro Cultural de Valverde |
+| 4 | Gea Ortigas "Los nombres de las calles de Madrid" | YES | YES | N/A | **14.90 EUR** in print at La Librería (Calle Mayor 80) | In print, easy to buy |
+| 5 | García Sánchez (2007) "Atlas toponímico de España" | YES | Check | **YES** (Arco/Libros, academic) | ~25 EUR Amazon.es | CSIC is best bet for academic works |
+| 6 | Nieto Ballester (1997) "Breve diccionario de topónimos" | YES | Check | **YES** (Alianza Editorial) | ~15-20 EUR secondhand | Standard reference, widely held |
+| 7 | García Sánchez & Nieto Ballester (2024) "Claves..." | Check | Check | **YES** (IGN/academic) | New publication | Latest scholarly compilation |
+
+### How to access each library
+
+**BNE (Biblioteca Nacional de España)**
+- Address: Paseo de Recoletos 20, 28001 Madrid
+- Metro: Colón (L4) or Serrano (L4)
+- Hours: Mon-Fri 9:00-21:00, Sat 9:00-14:00
+- Access: Free reader's card (DNI/passport required). Reading room only -- no lending.
+- Catalogue: catalogo.bne.es
+- Note: Book #2 (Aparisi Laporta) is confirmed here via datos.bne.es/obra/XX3084724
+
+**Biblioteca Regional de Madrid "Joaquín Leguina"**
+- Address: Calle del Águila 14 (antigua fábrica El Águila), 28005 Madrid
+- Metro: Delicias (L3), Legazpi (L3/L6)
+- Hours: Mon-Fri 9:00-21:00, Sat 9:00-14:00
+- Access: Free with Comunidad de Madrid library card
+- Catalogue: gestiona3.madrid.org/biblio_publicas
+- Speciality: Madrid collection (Colección Madrid) -- all books about Madrid are here
+- Note: Published by Ayuntamiento de Madrid, so Aparisi Laporta should be here
+
+**CSIC Biblioteca Tomás Navarro Tomás**
+- Address: Calle Albasanz 26-28, 28037 Madrid
+- Metro: Suanzes (L5)
+- Hours: Mon-Fri 9:00-14:00
+- Access: Open to researchers. May need to request access in advance.
+- Catalogue: bibliotecas.csic.es
+- Note: Best for academic/linguistic books (García Sánchez, Nieto Ballester)
+
+**BiblioMetro (metro station libraries)**
+- 12 stations: Nuevos Ministerios, Canal, Aluche, Moncloa, Chamartín, Sierra de Guadalupe, Puerta de Arganda, Embajadores, Mar de Cristal, Carabanchel Alto, Legazpi, Puerta del Sur
+- Hours: 13:30-20:00
+- Access: Free with tarjeta única de bibliotecas de Madrid
+- Note: Worth checking if they have book #1 (Alonso Fernández-Checa) given the metro theme
+
+**La Librería (bookshop)**
+- Address: Calle Mayor 80, 28013 Madrid (also the publisher of books #1 and #4)
+- Metro: Sol (L1/L2/L3)
+- Note: Publisher's own shop. Books #1 and #4 are guaranteed in stock.
+
+---
+
 ## Additional Sources Discovered (2026-03-27 Audit)
 
 These sources were found during the deep etymology research and should be checked:
