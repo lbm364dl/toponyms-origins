@@ -210,6 +210,38 @@ Also: "En torno a la toponimia madrileña" (De Gruyter 2010, pp. 259-268): acade
 
 ---
 
+## Toponomasticon Hispaniae: Madrid Entries Found
+
+The ToponHisp project (2021-2025, MICINN-funded, 60+ researchers) has the following Madrid-area entries with full scholarly etymological records:
+
+| Toponym | ToponHisp URL | Key finding |
+|---------|--------------|-------------|
+| Alcobendas | toponhisp.org/.../alcobendas | Pre-Roman; Menéndez Pidal's Celtic theory "very little plausible". Docs from 1208. |
+| Cercedilla | toponhisp.org/.../cercedilla | Latin quercetu+ella. Diminutive of Cerceda. Docs from 1544. |
+| Chamartín | toponhisp.org/.../chamartin | Basque aita+Martín CONFIRMED as established. Docs from 1303. |
+| Ciempozuelos | toponhisp.org/.../ciempozuelos | Latin centu+puteolu. Docs from 1575. |
+| Collado Villalba | toponhisp.org/.../collado-villalba | Latin colle+villa alba. "White" = propitious, not literal. |
+| Colmenar Viejo | toponhisp.org/.../colmenar-viejo | Romance colmena+are. Folk etymology about old beekeeper from 1575. |
+| El Escorial | toponhisp.org/.../san-lorenzo-de-el-escorial | Latin scoria+ale. **Favours slag**, citing Dehesa de las Ferrerías. |
+| Fuenlabrada | toponhisp.org/.../fuenlabrada | Latin fonte+laborata. Docs from 1464. |
+| Galapagar | toponhisp.org/.../galapagar | Latin calappăcu+are (place of terrapins). |
+| Guadarrama | toponhisp.org/.../guadarrama | Not yet fetched -- Arabic wadi+ramla. |
+| Leganés | toponhisp.org/.../leganes | légano (mud) or Cantabrian Liébana. Docs from 1476. |
+| Majadahonda | toponhisp.org/.../majadahonda | Pastoral: majada (sheepfold) + honda (deep). |
+| Moraleja | toponhisp.org/.../moraleja | Latin mora+ale+icula (mulberry diminutive collective). |
+| Navacerrada | toponhisp.org/.../navacerrada | NAVA (uncertain) + cerrada (enclosed). "Extraordinarily difficult." |
+| Pinto | toponhisp.org/.../pinto | Already in dataset. |
+| Pozuelo de Alarcón | toponhisp.org/.../pozuelo-de-alarcon | Already in dataset. |
+| Robledo de Chavela | toponhisp.org/.../robledo-de-chavela | Latin roboretu + Basque echa+Germanic vela. |
+| Torrejón de Ardoz | toponhisp.org/.../torrejon-de-ardoz | Tower diminutive + Ardoz hydronym (obscure). |
+| Torrelodones | toponhisp.org/.../torrelodones | Tower + lodón (almez tree). Earliest "Torre de Lodones" c.1340. |
+| Tres Cantos | toponhisp.org/.../tres-cantos | Boundary marker stones at three-municipality meeting point. |
+| Valdemoro | toponhisp.org/.../valdemoro | Latin valle+maura/mauru (dark valley). Docs from 1274. |
+
+Full URLs: `https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/{name}`
+
+---
+
 ## Accessible Online Resources Not Yet Exploited
 
 ### 1. Catastro de Ensenada -- Fuencarral (1749-1753)
