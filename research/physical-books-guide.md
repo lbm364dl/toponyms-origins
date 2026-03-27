@@ -150,6 +150,30 @@ Estimated total effort: **2-3 focused sessions of ~1 hour each**, not hundreds o
 
 ---
 
+## Additional Sources Discovered (2026-03-27 Audit)
+
+These sources were found during the deep etymology research and should be checked:
+
+### Online (free access)
+- **García Sánchez (2010)**: "En torno a la toponimia madrileña," in *Toponimia de España* (De Gruyter), pp. 259-268. Available at: academia.edu/10965316. Key finding: calls Celtic Coslada etymology "más discutible"
+- **Diago Hernando (1993)**: "El protonotario Lucena en su entorno sociopolítico," *Sefarad* 53(2):249-272. Key for La Garena. PDF at: digital.csic.es/bitstream/10261/309604/1/Protonotario_Lucena_entorno_sociopol%C3%ADtico.pdf
+- **García López, "Historia de Coslada a través de las fuentes documentales"**: coslada.es (SSL issues, try direct download)
+- **León Pinelo, Anales de Madrid** (17th c. manuscript, BNE digitized): bdh.bne.es/bnesearch/detalle/bdh0000135757
+- **Goitia Blanco, "Getafe"** (Basque substrate theory): eukele.com/getafe/ -- non-mainstream but novel
+
+### Physical (library visit)
+- **Sánchez González (1989)**: *De Alarnes a Getafe*. Ayto. Getafe.
+  - Museum catalogue: museo.getafe.es/omeka/items/show/3977
+- **García López et al. (1998)**: *Coslada*. Lunwerg. ISBN 84-7782-563-7
+- **García Sánchez & Nieto Ballester (eds.) (2024)**: *Claves en la investigación de la toponimia hispánica*. IGN. 346 pp. (Latest scholarly compilation)
+
+### Archival sources to check for Pitis
+- **Catastro de Ensenada for Fuencarral** (1749-1753): pares.cultura.gob.es
+- **IGN historical planimetries** (1870-1950): ign.es/wms/minutas-cartograficas
+- **Plano de Facundo Cañada López (1900)**: digital.csic.es/handle/10261/28971
+
+---
+
 ## Lookup Checklist
 
 Bring this list of station/place names to the library (the ones with weakest current etymologies):
@@ -224,6 +248,60 @@ Bring this list of station/place names to the library (the ones with weakest cur
 | 6 | "El Beneficio (Collado Mediano) y Miaccum" | Jimenez Guijarro | | 5314691 |
 
 Dialnet URL pattern: `https://dialnet.unirioja.es/servlet/articulo?codigo=XXXXXXX`
+
+---
+
+## Copyright & Digitization Guide
+
+**Question**: Can you digitize and publicly share information from these books in your CC-BY-SA 4.0 dataset?
+
+### What you CAN safely do (no copyright issues):
+
+1. **Extract factual data** (etymologies, dates, linguistic derivations, historical references) and express them **in your own words**. Facts are not copyrightable -- only the specific creative expression is. Writing "García Sánchez (2007) proposes the Arabic 'jata' theory for Getafe" is perfectly fine.
+
+2. **Short quotations** with proper attribution. Spanish copyright law (Ley de Propiedad Intelectual, Art. 32) allows citation for research/criticism purposes as long as the source is identified and the quote is proportional. A sentence or two from a 276-page book is well within fair use.
+
+3. **Bibliographic references**. Listing "Alonso Fernández-Checa, J.F. (2023). Metro de Madrid: ¿Por qué sus estaciones se llaman así? Madrid: La Librería. ISBN 978-84-09-54335-1" is not only legal but expected in scholarly work.
+
+4. **Paraphrase and synthesize** across multiple sources. Your etymology summaries that combine findings from 3-4 sources in your own words are completely fine.
+
+5. **Government/institutional publications**: The Felipe II Relaciones Topográficas, the Fuero de Madrid, Catastro de Ensenada, and other historical crown documents are public domain. The CVC Cervantes articles are published with open access by a public institution.
+
+### What you should AVOID:
+
+1. **Reproducing entire entries verbatim** from books like Aparisi Laporta or Gea Ortigas. Even a single full dictionary entry (e.g., the complete text of the "Pitis" entry if it exists) could be seen as reproducing the creative arrangement and expression.
+
+2. **Scanning/photographing and publishing entire pages** or substantial portions of in-copyright books. Use photos only for your personal research notes.
+
+3. **Reproducing the structure/organization** of a book as your own. If Alonso Fernández-Checa's book organizes stations by line with a specific narrative approach, don't copy that structure.
+
+### Book-by-book assessment:
+
+| Book | Copyright status | Safe to extract facts? | Risk level |
+|------|-----------------|----------------------|------------|
+| **Alonso Fernández-Checa (2023)** | In copyright (author alive, published 2023) | YES -- facts + short quotes with attribution | LOW if you paraphrase |
+| **Aparisi Laporta (2001)** | In copyright (author died 2023, so ©2093 in Spain) | YES -- facts + short quotes | LOW if you paraphrase |
+| **Gea Ortigas (various editions)** | In copyright (author alive) | YES -- facts + short quotes | LOW if you paraphrase |
+| **García Sánchez (2007)** | In copyright | YES -- CVC articles already open access online | NONE for CVC; LOW for book |
+| **Nieto Ballester (1997)** | In copyright | YES -- facts + short quotes | LOW |
+| **Menéndez Pidal (1952)** | In copyright until 2038 (died 1968 + 70 years under Spanish law) | YES -- facts + short quotes | LOW |
+| **Oliver Asín (1959)** | In copyright until 2050 (died 1980) | YES -- facts + short quotes | LOW |
+| **Pedro de Repide (1920s)** | **PUBLIC DOMAIN** (died 1948, 70+ years ago) | YES -- can reproduce freely | NONE |
+| **Asín Palacios (1944)** | **PUBLIC DOMAIN** (died 1944, 70+ years ago) | YES -- can reproduce freely | NONE |
+| **Felipe II Relaciones (1575)** | **PUBLIC DOMAIN** | YES | NONE |
+| **Catastro de Ensenada** | **PUBLIC DOMAIN** | YES | NONE |
+
+### The safe approach for your dataset:
+
+Your current approach is already the right one: write **original etymology summaries** in your own words that synthesize multiple sources, cite all sources in the `source` field, and use `confidence` levels. This is standard scholarly practice and creates no copyright issues.
+
+When you consult the physical books:
+1. Take notes (not verbatim copies)
+2. Write the etymology summary in your own words
+3. Cite the book as a source: "Alonso Fernández-Checa 2023"
+4. If a specific quote is illuminating, keep it short and in quotation marks
+
+**Bottom line**: You will NOT get in trouble if you extract facts, paraphrase, and cite properly. You WOULD get in trouble if you scanned and published entire chapters or entries verbatim. Your dataset's CC-BY-SA license is compatible with this approach because you're creating an original derivative work, not reproducing copyrighted text.
 
 **Note**: Some Anales del IEM articles marked as paywalled on Dialnet may actually be free. The IEM has been digitizing its back catalogue — check `https://institutoestudiosmadrilenos.es/` for open PDFs. The Caridad Arias 2004 article full text may be at: `https://institutoestudiosmadrilenos.es/wp-content/uploads/2025/07/3012173.pdf`
 
