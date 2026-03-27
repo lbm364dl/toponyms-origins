@@ -177,3 +177,34 @@ Sources consulted during the expansion to cover all 243 Metro, 95 Cercanias, and
 | 107 | Vocesdelpradillo (blog) | Plaza del Pradillo (Mostoles) historical origins | https://vocesdepradillo.wordpress.com/ |
 | 108 | Memorias de Fuenlabrada (blog) | Loranca medieval village, Fuenlabrada founding | https://memoriasfuenlabrada.blogspot.com/ |
 | 109 | Fundacion Hospital de San Jose | Alonso de Mendoza biography and hospital founding | https://fundacionhospitaldesanjose.es/ |
+| 110 | CVC Rinconete - Lorenzo Arribas (2008) | Lavapies toponym etymology analysis | https://cvc.cervantes.es/el_rinconete/ |
+| 111 | Turra Historica (2021) | Debunking Jewish quarter myth for Lavapies | https://turrahistorica.es/ |
+| 112 | Chamberi30dias | Five theories for Chamberi neighbourhood name | https://chamberi30dias.es/ |
+| 113 | CVC Rinconete - Garcia Sanchez (Toponimos CM) | Parla, Coslada, Leganes, Mostoles etymologies | https://cvc.cervantes.es/el_rinconete/anteriores/enero_08/28012008_01.htm |
+| 114 | Toponomasticon Hispaniae - Valdemoro | Valdemoro as 'dark valley' (Val + moro adj.) | https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/valdemoro |
+| 115 | Toponomasticon Hispaniae - Robledo de Chavela | Basque Echa + Germanic Vela compound | https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/robledo-de-chavela |
+| 116 | Toponomasticon Hispaniae - El Escorial | Oak theory (esculus) gaining over slag (scoria) | https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/san-lorenzo-de-el-escorial |
+| 117 | CVC Rinconete - El Escorial etymology (2007) | Father Siguenza vs Sarmiento theories | https://cvc.cervantes.es/el_rinconete/anteriores/enero_07/12012007_01.htm |
+| 118 | Patxi Mendiburu blog | Chamartin Basque origin analysis (Echamartin 1247) | https://patximendiburu.blogspot.com/ |
+| 119 | Hispanopedia - Aranjuez | Basque arantza theory and documentary trail | https://es.hispanopedia.com/wiki/Aranjuez |
+| 120 | EducaMadrid - Aranjuez etymology | Note on Aranjuez name origins | https://mediateca.educa.madrid.org/ |
+| 121 | Quadernillos - Torrejon/Meco names | Origin of Torrejon, Meco, Daganzo toponyms | https://quadernillos.com/ |
+| 122 | Cosladaweb | Coslada history and etymology | https://cosladaweb.es/coslada/ |
+| 123 | MadridNorte24horas podcasts | Tres Cantos, Galapagar, Navacerrada, Cercedilla origins | https://www.madridnorte24horas.com/ |
+| 124 | Moncloa.com - Alcobendas name | Menendez Pidal and Villar Liebana theories | https://www.moncloa.com/ |
+| 125 | Telemadrid - Colmenar Viejo | Colmenar Viejo name origin | https://www.telemadrid.es/ |
+| 126 | Etimologias de Chile - Alcala | Arabic al-qal'a fortress etymology | https://etimologias.dechile.net/ |
+| 127 | Ayuntamiento de Colmenar Viejo | Colmenar Viejo historical evolution | https://colmenarviejo.com/ |
+| 128 | Secretos de Madrid - Embajadores | 15th-century ambassadors quartered during plague | https://www.secretosdemadrid.es/ |
+| 129 | Secretos de Madrid - Delicias | Paseo de las Delicias del Rio origins | https://www.secretosdemadrid.es/ |
+| 130 | Mirador Madrid - Piramides obelisks | 1831 Marietegui obelisks at Puente de Toledo | https://www.miradormadrid.com/ |
+| 131 | Corominas etymological dictionary | Atocha from pre-Roman *taucia | via bibliamedieval.es |
+| 132 | Tren de Felipe II - El Escorial | Origin of the word 'Escorial' | https://www.trendefelipeii.com/ |
+| 133 | Guadarramistas - Puerto de Cotos | Carlos III boundary markers (1761) | https://guadarramistas.com/ |
+| 134 | Ediciones La Libreria - Collado Mediano | Collado Mediano name origin | https://edicioneslalibreria.com/ |
+| 135 | Celtiberia.net - Mostoles etymology | Monasteries theory (monisterium > Mostoles) | https://celtiberia.net/ |
+| 136 | Raul Cordero - La ciudad de la ballena | La Ballena (Parla) folk legend | cited in esculturayarte.com |
+| 137 | Cronistas Oficiales - Los ventorrillos | Ventorro del Cano roadside inn history | https://www.cronistasoficiales.com/ |
+| 138 | Ayuntamiento de Pozuelo - History | Pozuelo de Alarcon etymology (1208, Gabriel de Ocana) | https://www.pozuelodealarcon.org/ |
+| 139 | que.madrid - Municipal name origins | Curious origins of Madrid municipality names | https://www.que.madrid/ |
+| 140 | Valdebebas.es - Name origin | Arroyo de Valdebebas stream etymology | https://valdebebas.es/ |

@@ -78,18 +78,18 @@ Metro de Madrid + Real Academia de la Historia collaboration (2015-2016). Biogra
 
 ## Data Sources
 
-See [SOURCES.md](SOURCES.md) for the complete catalogue of 130+ sources.
+See [SOURCES.md](SOURCES.md) for the complete catalogue of 140+ sources.
 
 ## Etymology Type Breakdown (Metro stations)
 
 | Type | Count | Examples |
 |------|-------|---------|
-| place | 90 | Bilbao, Colombia, Ibiza, Oporto, Alcorcon Central, Ascao |
+| place | 91 | Bilbao, Colombia, Ibiza, Oporto, Alcorcon Central, Ciudad de los Angeles |
 | person | 64 | Goya, Tirso de Molina, Paco de Lucia, Miguel Hernandez, La Elipa |
-| descriptive | 46 | Cuatro Caminos, Almendrales, Arroyofresno, Arroyo Culebro |
-| historical | 22 | Sol, Embajadores, Tribunal, Aviacion Espanola, La Peseta |
-| religious | 19 | Noviciado, Iglesia, Santo Domingo, San Nicasio, Begona |
-| event | 2 | Callao, Tetuan |
+| descriptive | 45 | Cuatro Caminos, Almendrales, Arroyofresno, Arroyo Culebro |
+| historical | 21 | Sol, Embajadores, Tribunal, Casa del Reloj, La Peseta |
+| religious | 19 | Noviciado, Iglesia, Santo Domingo, San Nicasio, Pan Bendito |
+| event | 3 | Callao, Tetuan, Aviacion Espanola |
 
 ## License
 
