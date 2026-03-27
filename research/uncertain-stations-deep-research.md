@@ -210,9 +210,61 @@ Also: "En torno a la toponimia madrileña" (De Gruyter 2010, pp. 259-268): acade
 
 ---
 
-## Next Steps
+## Accessible Online Resources Not Yet Exploited
 
-1. **Buy**: Alonso Fernández-Checa (2023), ISBN 978-84-09-54335-1, ~15 EUR Amazon.es
-2. **Library visit**: BNE or CSIC Biblioteca Tomás Navarro Tomás for Aparisi Laporta (2001)
-3. **Online archive**: Catastro de Ensenada for Fuencarral at PARES (pares.cultura.gob.es)
-4. **Online**: IGN historical planimetries (ign.es/wms/minutas-cartograficas) for pre-railway "Pitis" attestation
+### 1. Catastro de Ensenada -- Fuencarral (1749-1753)
+The "Respuestas Generales" for the town of Fuencarral would list local parajes and fincas. If "Pitis" existed as a place name by the 18th century, it should appear here.
+- **Access**: PARES portal: pares.cultura.gob.es/catastro/servlets/ServletController?accion=2&opcion=60
+- **Note**: Madrid villa's own respuestas are NOT preserved, but Fuencarral was a separate municipality with its own entry. The respuestas for the "campo de Madrid" are in Archivo Histórico Nacional, libro 7463 bis.
+- **Format**: Digitized from microfilm, 350,000 images with clear calligraphic handwriting
+- **What to do**: Search for "Fuencarral" in the locality finder, then download/view the scanned pages. Look for any mention of "Pitis" as a paraje, dehesa, or property name.
+
+### 2. IGN Minutas Cartográficas (1870-1950)
+Handwritten manuscript maps at 1:25,000 scale from the Fuencarral municipal area. Would show local paraje names.
+- **Access**: ign.es/wms/minutas-cartograficas (WMS service for GIS)
+- **Viewer**: sigdeletras.com/2016/espana-finisecular-visor-de-consulta-minutas-cartograficas-del-ign/
+- **Also**: datos.gob.es/es/aplicaciones/visualizador-de-mapas-antiguos
+- **What to do**: Navigate to the Fuencarral-El Pardo area (40.495, -3.727) and look for "Pitis" on the manuscript maps.
+
+### 3. Facundo Cañada López Map (1900)
+Most important Madrid cartographic work at 1:7,500 scale, 6 sheets, covering all surrounding municipalities including Fuencarral.
+- **Download**: digital.csic.es/handle/10261/28971 (85 MB PDF, also 195 MB ZIP)
+- **What to do**: Download the PDF, navigate to the Fuencarral area north of Madrid, look for "Pitis" annotation.
+
+### 4. Memoria de Madrid Digital Library
+Municipal archive digitized collections: photographs, maps, municipal records.
+- **Access**: memoriademadrid.es
+- **Key document**: "Diseño, mapa y pintura de los terrenos... de Foncarral (Fuencarral)" -- historical map of Fuencarral lands
+- **Also**: "Libros de acuerdos" for Madrid (Fuencarral) -- municipal meeting records
+- **What to do**: Search for "Pitis", "Opanel", "Fuencarral" in the search engine.
+
+### 5. BNE Hemeroteca Digital
+Historical newspaper archive. Could contain pre-railway references to "Pitis" as a place.
+- **Access**: hemerotecadigital.bne.es
+- **What to do**: Search for "Pitis" + "Madrid" or "Fuencarral". Also try "Pitis" alone with date range before 1964.
+
+### 6. Biblioteca Virtual de la Comunidad de Madrid -- Cartografía
+Classic Madrid cartographic works digitized, including Texeira (1656), Tomás López (1785), Atlas de Madrid (1848).
+- **Access**: bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/cartografia/
+- **What to do**: Check the Atlas de la provincia de Madrid (1848) and any maps covering the Fuencarral road north of Madrid.
+
+### 7. Toponomasticon Hispaniae
+The scholarly toponymy dictionary project. Confirmed: neither Pitis nor Opanel have entries. But Pinto, Pozuelo de Alarcón, and other nearby names ARE covered.
+- **Access**: toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantico/consulta-diccionario/13
+- **Status**: No Pitis entry. Project ongoing (2021-2025 funding). Future entries may be added.
+
+## Not Digitized -- Requires Physical Visit
+
+| Resource | Location | What to look for |
+|----------|----------|-----------------|
+| Aparisi Laporta "Toponimia madrileña" (2001) vol. 2 | BNE / CSIC Biblioteca TNT / Biblioteca Regional de Madrid | Pitis, Opanel, Valdecarros, all uncertain stations |
+| Villar Liébana article (Palaeohispanica 2002) full text | University library with journal access | Does it mention Opanel specifically? |
+| García Sánchez "Atlas toponímico de España" (2007) | CSIC Biblioteca TNT | Getafe, Alcorcón, Coslada entries |
+| García Sánchez & Nieto Ballester "Claves..." (2024) | CSIC / UAH library | Latest scholarly compilation on Hispanic toponymy |
+
+## Next Steps (Priority Order)
+
+1. **Buy** (15 EUR, online): Alonso Fernández-Checa (2023), ISBN 978-84-09-54335-1 on Amazon.es
+2. **Download and examine** (free, 30 min): Facundo Cañada López 1900 map from CSIC
+3. **Search online** (free, 1 hour): PARES Catastro de Ensenada for Fuencarral; IGN minutas viewer; BNE hemeroteca; Memoria de Madrid
+4. **Library visit** (half day): BNE or CSIC for Aparisi Laporta + García Sánchez Atlas
