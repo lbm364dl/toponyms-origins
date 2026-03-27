@@ -13,8 +13,22 @@ const CATEGORY_ICONS = {
 };
 
 async function init() {
-  const res = await fetch('data/entries.json');
-  entries = await res.json();
+  // Try fetch first (works on http://), fall back to inline script (works on file://)
+  if (typeof ENTRIES_DATA !== 'undefined') {
+    entries = ENTRIES_DATA;
+  } else {
+    try {
+      const res = await fetch('data/entries.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      entries = await res.json();
+    } catch (err) {
+      document.getElementById('entries').innerHTML =
+        `<div style="padding:40px;text-align:center;color:var(--text-secondary)">
+          <p>Could not load data. Run: <code>cd docs && python3 -m http.server 8080</code></p>
+        </div>`;
+      return;
+    }
+  }
   renderStats();
   render();
 

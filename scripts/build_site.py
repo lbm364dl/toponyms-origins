@@ -41,7 +41,13 @@ def build():
     with open(os.path.join(out_dir, 'entries.json'), 'w', encoding='utf-8') as f:
         json.dump(all_entries, f, ensure_ascii=False)
 
-    print(f"Built {len(all_entries)} entries -> docs/data/entries.json")
+    # Also generate a JS file so the site works when opened via file://
+    with open(os.path.join(out_dir, 'entries.js'), 'w', encoding='utf-8') as f:
+        f.write('const ENTRIES_DATA = ')
+        json.dump(all_entries, f, ensure_ascii=False)
+        f.write(';')
+
+    print(f"Built {len(all_entries)} entries -> docs/data/entries.json + entries.js")
 
 if __name__ == '__main__':
     build()
