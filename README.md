@@ -4,7 +4,7 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 ## Status
 
-**Phase 1: Research** (complete) — Identified 130+ sources worldwide: datasets, books, academic papers, blogs, institutional programs.
+**Phase 1: Research** (complete) — Identified 140+ sources worldwide: datasets, books, academic papers, blogs, institutional programs.
 **Phase 2: Dataset Design** (complete) — Schema designed, all CSV files structured and validated.
 **Phase 3: Data Collection** (in progress) — 475 hand-curated transport station entries with etymology + 1,427 programmatic entries from OSM + 488 from Wikidata.
 
@@ -12,7 +12,7 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 ```
 ├── README.md                              # This file
-├── SOURCES.md                             # Master catalogue of all 130+ sources
+├── SOURCES.md                             # Master catalogue of all 140+ sources
 ├── data/
 │   ├── schema.md                          # Dataset schema documentation
 │   ├── madrid_metro_stations.csv          # 243 Metro stations with etymology (ALL lines 1-12 + Ramal)
@@ -32,7 +32,8 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 │   ├── transport-stations.md              # Metro/Cercanias/ML deep research (67 KB)
 │   ├── correspondencia-con-la-historia.md # 55 RAH biographical metro stations
 │   ├── toponymy.md                        # Neighbourhood/district toponymy
-│   └── international.md                   # International projects & models
+│   ├── international.md                   # International projects & models
+│   └── physical-books-guide.md            # Library research guide (11 books + articles)
 └── scripts/
     ├── fetch_osm_etymology.sh             # Query OSM Overpass for etymology data
     ├── query_wikidata.sh                  # Query Wikidata SPARQL for "named after"
