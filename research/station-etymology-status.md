@@ -7,11 +7,13 @@
 
 | Confidence | Metro | Cercanías | ML/Tranvía | Total |
 |-----------|-------|-----------|------------|-------|
-| **verified** | 215 | 67 | 38 | **320** |
-| **probable** | 20 | 21 | 14 | **55** |
+| **verified** | 228 | 75 | 50 | **353** |
+| **probable** | 7 | 13 | 2 | **22** |
 | **uncertain** | 7 | 7 | 0 | **14** |
 | **unknown** | 1 | 0 | 0 | **1** (Pitis) |
 | **Total** | 243 | 95 | 52 | **390** |
+
+(Plus 18 probable and 6 uncertain in districts/neighbourhoods/plazas/streets = 411 verified overall out of 475)
 
 - **0** entries with generic "Wikipedia" as only source
 - **~66** entries cite web sources without full URLs (e.g. "Muy Interesante", "Civitatis") -- resolvable with the Alonso Fernández-Checa book
