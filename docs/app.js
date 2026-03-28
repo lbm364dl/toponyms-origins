@@ -287,7 +287,7 @@ function openModal(id) {
       <span class="badge badge-type ${etType}">${t(etType)}</span>
       <span class="badge badge-confidence ${e.confidence || ''}">${t(e.confidence || '')}</span>
     </div>
-    <div class="etymology-summary">${esc((lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || ''))}</div>
+    <div class="etymology-summary">${formatParagraphs((lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || ''))}</div>
     ${details ? `<div class="detail-grid">${details}</div>` : ''}
     ${wikidata}
     <div class="sources"><strong>${t('sources')}</strong><br>${sources}</div>
@@ -298,8 +298,12 @@ function openModal(id) {
 }
 
 function closeModal() {
-  document.getElementById('modal-overlay').classList.remove('active');
-  document.body.style.overflow = '';
+  const overlay = document.getElementById('modal-overlay');
+  overlay.classList.add('closing');
+  setTimeout(() => {
+    overlay.classList.remove('active', 'closing');
+    document.body.style.overflow = '';
+  }, 200);
 }
 
 function formatSources(src) {
@@ -319,6 +323,18 @@ function esc(s) {
   const d = document.createElement('div');
   d.textContent = s;
   return d.innerHTML;
+}
+
+function formatParagraphs(text) {
+  if (!text || text.length < 300) return esc(text);
+  // Split into sentences and group into paragraphs of ~3 sentences
+  const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+  if (sentences.length <= 3) return '<p>' + esc(text) + '</p>';
+  const paragraphs = [];
+  for (let i = 0; i < sentences.length; i += 3) {
+    paragraphs.push(esc(sentences.slice(i, i + 3).join('').trim()));
+  }
+  return paragraphs.map(p => '<p>' + p + '</p>').join('');
 }
 
 // ---- MAP ----
