@@ -2143,10 +2143,10 @@
     "ambiguous": false
   },
   "metro_010": {
-    "place_id": "ChIJjS25M-vMQQwRoYzpeAKXs98",
-    "gmaps_name": "Chamberí",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS25M-vMQQwRoYzpeAKXs98",
-    "query_used": "parada Chamberí"
+    "place_id": "",
+    "gmaps_name": "Estación de Chamberí (museo)",
+    "gmaps_url": "https://www.google.com/maps?q=40.435263,-3.699013",
+    "query_used": "coordinate fallback (closed station)"
   },
   "metro_011": {
     "place_id": "ChIJ6XJ0VHwoQg0RDLS-_d-7IfY",
