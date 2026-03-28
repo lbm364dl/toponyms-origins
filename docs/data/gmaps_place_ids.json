@@ -133,10 +133,10 @@
     "query_used": "Metro Canillejas"
   },
   "metro_067": {
-    "place_id": "ChIJGZsNfqYvQg0RvQmzie8O0ig",
-    "gmaps_name": "Metro Torre Arias",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZsNfqYvQg0RvQmzie8O0ig",
-    "query_used": "Metro Torre Arias"
+    "place_id": "ChIJFZGHfqYvQg0RtqhClFJlZaM",
+    "gmaps_name": "Torre Arias",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZGHfqYvQg0RtqhClFJlZaM",
+    "query_used": "estación de metro Torre Arias"
   },
   "metro_068": {
     "place_id": "ChIJT-R8TEgmQg0RJfAxGhoDUtY",
@@ -152,10 +152,10 @@
     "query_used": "Estación de Delicias"
   },
   "metro_070": {
-    "place_id": "ChIJ1TyUbwAnQg0RxvfyENW8tv4",
-    "gmaps_name": "Metro Mendez Alvaro",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TyUbwAnQg0RxvfyENW8tv4",
-    "query_used": "Metro Méndez Álvaro"
+    "place_id": "ChIJaQ2CjxQmQg0RtI6VRGNCR-s",
+    "gmaps_name": "Méndez Álvaro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQ2CjxQmQg0RtI6VRGNCR-s",
+    "query_used": "estación de metro Méndez Álvaro"
   },
   "metro_071": {
     "place_id": "ChIJlcuUmC0mQg0RMTxunpxER8M",
@@ -455,10 +455,10 @@
     "query_used": "Metro Lago"
   },
   "metro_120": {
-    "place_id": "ChIJQbFr2jWJQQ0RfhwxgiehUhY",
-    "gmaps_name": "Estación de metro Casa de Campo",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbFr2jWJQQ0RfhwxgiehUhY",
-    "query_used": "Estación de Casa de Campo"
+    "place_id": "ChIJSTZ3qw2IQQ0RXGuKr_hhnNk",
+    "gmaps_name": "Casa de Campo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTZ3qw2IQQ0RXGuKr_hhnNk",
+    "query_used": "estación de metro Casa de Campo"
   },
   "metro_121": {
     "place_id": "ChIJ58gOMGUoQg0RD5cSITd7USc",
@@ -599,10 +599,10 @@
     "query_used": "Metro Artilleros"
   },
   "metro_144": {
-    "place_id": "ChIJy4gu56kpQg0RJlkPTL4LOOQ",
-    "gmaps_name": "Metro Avenida de América",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4gu56kpQg0RJlkPTL4LOOQ",
-    "query_used": "Metro Avenida de América"
+    "place_id": "ChIJSbxOvMYoQg0RklRYC9nHTVM",
+    "gmaps_name": "Estación de Avenida de América",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbxOvMYoQg0RklRYC9nHTVM",
+    "query_used": "estación de metro Avenida de América"
   },
   "metro_145": {
     "place_id": "ChIJAT2oVM8oQg0Ri3in1v9TZ_4",
@@ -792,10 +792,10 @@
     "query_used": "Metro Barrio del Puerto"
   },
   "metro_176": {
-    "place_id": "ChIJ96GbS94xQg0R-44YicFdcQ4",
+    "place_id": "ChIJ812QygwwQg0R6ItYWyY-Kj4",
     "gmaps_name": "Coslada Central",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96GbS94xQg0R-44YicFdcQ4",
-    "query_used": "Metro Coslada Central"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ812QygwwQg0R6ItYWyY-Kj4",
+    "query_used": "estación de metro Coslada Central"
   },
   "metro_195": {
     "place_id": "ChIJ8VMZqXswQg0RBCfQynIBspU",
@@ -876,10 +876,10 @@
     "query_used": "Estación de Valdecarros"
   },
   "metro_249": {
-    "place_id": "ChIJNSlz_IwvQg0Rj1QdDhUZs-8",
+    "place_id": "ChIJyVwEB40vQg0R5bUqn5iotxI",
     "gmaps_name": "Metro Las Rosas",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSlz_IwvQg0Rj1QdDhUZs-8",
-    "query_used": "Metro Las Rosas"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVwEB40vQg0R5bUqn5iotxI",
+    "query_used": "parada Las Rosas"
   },
   "metro_250": {
     "place_id": "ChIJcVYjjIUvQg0Ru0zfl0MrrQ4",
@@ -986,10 +986,10 @@
     "query_used": "Metro Begoña"
   },
   "metro_209": {
-    "place_id": "ChIJDfJmcucrQg0R8KLXiVY0IYs",
-    "gmaps_name": "Estación de Fuencarral",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfJmcucrQg0R8KLXiVY0IYs",
-    "query_used": "Estación de Fuencarral"
+    "place_id": "ChIJ8xNn-NcrQg0R-2x5h1TOjDk",
+    "gmaps_name": "Fuencarral",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xNn-NcrQg0R-2x5h1TOjDk",
+    "query_used": "estación de metro Fuencarral"
   },
   "metro_210": {
     "place_id": "ChIJK5l9UfUrQg0RvCi4thJSoz4",
@@ -1010,11 +1010,10 @@
     "query_used": "Metro La Moraleja"
   },
   "metro_213": {
-    "place_id": "ChIJW4W8BeksQg0R73vzwtH5Kx8",
-    "gmaps_name": "Metro Baunatal",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4W8BeksQg0R73vzwtH5Kx8",
-    "query_used": "Metro Baunatal",
-    "ambiguous": true
+    "place_id": "ChIJmztoD-ksQg0RfCWYNZaGGsg",
+    "gmaps_name": "Baunatal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmztoD-ksQg0RfCWYNZaGGsg",
+    "query_used": "estación de metro Baunatal"
   },
   "metro_214": {
     "place_id": "ChIJr3aYMz0tQg0RvmQ0pH-KqjM",
@@ -1149,10 +1148,10 @@
     "query_used": "Metro Getafe Central"
   },
   "metro_236": {
-    "place_id": "ChIJO00xCgAhQg0RHTlvLbXZeEc",
-    "gmaps_name": "Estación de Metro El Casar",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO00xCgAhQg0RHTlvLbXZeEc",
-    "query_used": "Metro El Casar"
+    "place_id": "ChIJ1S9OTdogQg0RzPYeKAzSULc",
+    "gmaps_name": "El Casar",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S9OTdogQg0RzPYeKAzSULc",
+    "query_used": "metro El Casar madrid estación"
   },
   "metro_237": {
     "place_id": "ChIJFXOgNMkgQg0RA3wVzMKhjwE",
@@ -1240,11 +1239,10 @@
     "query_used": "Cercanías Príncipe Pío"
   },
   "cercanias_009": {
-    "place_id": "ChIJcQe_Y1InQg0RBhU1q2zPKB4",
-    "gmaps_name": "Méndez Álvaro Renfe",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQe_Y1InQg0RBhU1q2zPKB4",
-    "query_used": "Cercanías Méndez Álvaro",
-    "ambiguous": true
+    "place_id": "ChIJaQ2CjxQmQg0RtI6VRGNCR-s",
+    "gmaps_name": "Méndez Álvaro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQ2CjxQmQg0RtI6VRGNCR-s",
+    "query_used": "estación de metro Méndez Álvaro"
   },
   "cercanias_010": {
     "place_id": "ChIJhz0mgDAmQg0ROg1Hq25ND00",
@@ -1325,10 +1323,10 @@
     "query_used": "Cercanías El Casar"
   },
   "cercanias_023": {
-    "place_id": "ChIJXcE0HYIfQg0RPq_FpzrjaSk",
-    "gmaps_name": "Estación de Cercanías de Pinto",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcE0HYIfQg0RPq_FpzrjaSk",
-    "query_used": "Cercanías Pinto"
+    "place_id": "ChIJKyBlb4IfQg0Rps2eNbyWhTY",
+    "gmaps_name": "Pinto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyBlb4IfQg0Rps2eNbyWhTY",
+    "query_used": "estación de metro Pinto"
   },
   "cercanias_024": {
     "place_id": "ChIJd-yXisweQg0RpfrJ8RPdkgw",
@@ -1367,10 +1365,10 @@
     "query_used": "Cercanías Cantoblanco Universidad"
   },
   "cercanias_030": {
-    "place_id": "ChIJi6VHNQAtQg0RZOeCg1n-ibI",
-    "gmaps_name": "Estación cercanías Alcobendas - San Sebastián de los Reyes",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6VHNQAtQg0RZOeCg1n-ibI",
-    "query_used": "Alcobendas-San Sebastián de los Reyes cercanías Madrid"
+    "place_id": "ChIJlVQzxfEsQg0R_wjUqtSJ8Yw",
+    "gmaps_name": "Alcobendas-San Sebastián de los Reyes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVQzxfEsQg0R_wjUqtSJ8Yw",
+    "query_used": "metro Alcobendas-San Sebastián de los Reyes madrid estación"
   },
   "cercanias_031": {
     "place_id": "ChIJs1k-P8MqQg0RT6bhya1oGag",
@@ -1452,10 +1450,10 @@
     "ambiguous": true
   },
   "cercanias_044": {
-    "place_id": "ChIJ1VH9rGVNQg0Re7zzY53L3XM",
-    "gmaps_name": "Estación Renfe Cercanías Azuqueca",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VH9rGVNQg0Re7zzY53L3XM",
-    "query_used": "Cercanías Azuqueca"
+    "place_id": "ChIJMRF1B6RNQg0RnSqOzFkjA7k",
+    "gmaps_name": "Azuqueca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRF1B6RNQg0RnSqOzFkjA7k",
+    "query_used": "estación de metro Azuqueca"
   },
   "cercanias_045": {
     "place_id": "ChIJkXuGKHesQw0R2PcUU9ZT5Is",
@@ -1550,11 +1548,10 @@
     "query_used": "Cercanías La Serna-Fuenlabrada"
   },
   "cercanias_060": {
-    "place_id": "ChIJM8XfoaiMQQ0RM5gNjRnUczE",
-    "gmaps_name": "Renfe Humanes",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8XfoaiMQQ0RM5gNjRnUczE",
-    "query_used": "Cercanías Humanes",
-    "ambiguous": true
+    "place_id": "ChIJjx_XnqiMQQ0RIwrxYHNLHTU",
+    "gmaps_name": "Humanes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjx_XnqiMQQ0RIwrxYHNLHTU",
+    "query_used": "estación de metro Humanes"
   },
   "cercanias_061": {
     "place_id": "ChIJK6d64lSGQQ0RXIgc85WI5Hs",
@@ -1569,10 +1566,10 @@
     "query_used": "Cercanías El Barrial-Centro Comercial Pozuelo"
   },
   "cercanias_063": {
-    "place_id": "ChIJL0YjxV6GQQ0RBXYjaSYWDhw",
-    "gmaps_name": "Estación Renfe Pozuelo",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0YjxV6GQQ0RBXYjaSYWDhw",
-    "query_used": "Cercanías Pozuelo"
+    "place_id": "ChIJGe3K2l6GQQ0R2E6v3H7LWU8",
+    "gmaps_name": "Pozuelo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGe3K2l6GQQ0R2E6v3H7LWU8",
+    "query_used": "estación de metro Pozuelo"
   },
   "cercanias_064": {
     "place_id": "ChIJqf89VGuEQQ0RbVWYG4ZJqI0",
@@ -2023,10 +2020,10 @@
     "query_used": "Metro Ligero Iglesia Centro"
   },
   "ml_043": {
-    "place_id": "ChIJI9mtxrz1QQ0RUYzGJIBWQ8M",
-    "gmaps_name": "Bulevar Sur-Bulevar Miguel Ángel Blanco",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9mtxrz1QQ0RUYzGJIBWQ8M",
-    "query_used": "Metro Ligero Bulevar Sur-Miguel Ángel Blanco"
+    "place_id": "ChIJ2e_nHTv1QQ0RdQR64N4OP3k",
+    "gmaps_name": "Bulevar Sur",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2e_nHTv1QQ0RdQR64N4OP3k",
+    "query_used": "estación de metro Bulevar Sur-Miguel Ángel Blanco"
   },
   "ml_044": {
     "place_id": "ChIJiQ9PWeIsQg0RTU0qD8nLpmo",
@@ -2053,10 +2050,10 @@
     "query_used": "Metro Ligero Avenida Sistema Solar"
   },
   "ml_048": {
-    "place_id": "ChIJFXrbtHqGQQ0R8l-1Af2xNUc",
-    "gmaps_name": "Metro Ligero Oeste",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXrbtHqGQQ0R8l-1Af2xNUc",
-    "query_used": "Metro Ligero Tierra"
+    "place_id": "ChIJ-WZfLEP1QQ0RGQr09VSgsLE",
+    "gmaps_name": "Estrella Polar Sur",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WZfLEP1QQ0RGQr09VSgsLE",
+    "query_used": "estación de metro Tierra"
   },
   "ml_049": {
     "place_id": "ChIJAxDDwGf1QQ0RYoP5Z1wRr4c",
@@ -2146,11 +2143,10 @@
     "ambiguous": false
   },
   "metro_010": {
-    "place_id": "ChIJQ31lb4soQg0RqD5sySBBwYQ",
-    "gmaps_name": "Cervecería Chamberi - Bar Restaurante",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ31lb4soQg0RqD5sySBBwYQ",
-    "query_used": "Chamberí Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJjS25M-vMQQwRoYzpeAKXs98",
+    "gmaps_name": "Chamberí",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjS25M-vMQQwRoYzpeAKXs98",
+    "query_used": "parada Chamberí"
   },
   "metro_011": {
     "place_id": "ChIJ6XJ0VHwoQg0RDLS-_d-7IfY",
@@ -2391,10 +2387,9 @@
     "ambiguous": true
   },
   "metro_204": {
-    "place_id": "ChIJZbGD_EaJQQ0Rr34RP4HofbI",
-    "gmaps_name": "Estación de Puerta del Sur alcorcon",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbGD_EaJQQ0Rr34RP4HofbI",
-    "query_used": "Puerta del Sur Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJJeApVkaJQQ0Rc-1GxWBJuH0",
+    "gmaps_name": "Puerta del Sur",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeApVkaJQQ0Rc-1GxWBJuH0",
+    "query_used": "estación de metro Puerta del Sur"
   }
 }
