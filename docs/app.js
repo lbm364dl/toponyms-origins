@@ -356,45 +356,38 @@ function updateMap() {
   const filtered = getFiltered();
   const bounds = [];
 
-  // Group stations by line to draw connecting lines
-  const byLine = {};
-  const stationCoords = {};
-  filtered.forEach(e => {
-    if (!e.latitude || !e.longitude) return;
-    stationCoords[e.name] = [parseFloat(e.latitude), parseFloat(e.longitude)];
-    if (!e.line) return;
-    e.line.split(';').forEach(l => {
-      l = l.trim();
-      if (!byLine[l]) byLine[l] = [];
-      byLine[l].push({ name: e.name, lat: parseFloat(e.latitude), lng: parseFloat(e.longitude) });
+  // Draw line traces
+  // When a specific line is filtered, only draw THAT line
+  // When no line filter, draw all lines that have 2+ visible stations
+  const linesToDraw = activeLine ? [activeLine] : [];
+
+  if (!activeLine) {
+    // Collect all lines from visible stations
+    const allLines = new Set();
+    filtered.forEach(e => {
+      if (e.line) e.line.split(';').forEach(l => allLines.add(l.trim()));
     });
+    linesToDraw.push(...allLines);
+  }
+
+  // Build coord lookup from ALL entries (not just filtered) so line traces are complete
+  const allStationCoords = {};
+  entries.forEach(e => {
+    if (e.latitude && e.longitude) {
+      allStationCoords[e.name] = [parseFloat(e.latitude), parseFloat(e.longitude)];
+    }
   });
 
-  // Draw line traces using proper station order if available
-  Object.entries(byLine).forEach(([lineName, stations]) => {
-    if (stations.length < 2) return;
-    let coords;
-    if (typeof LINE_ORDERS !== 'undefined' && LINE_ORDERS[lineName]) {
-      // Use known station order
-      const order = LINE_ORDERS[lineName];
-      const ordered = [];
-      order.forEach(name => {
-        const s = stations.find(st => st.name === name);
-        if (s) ordered.push([s.lat, s.lng]);
-      });
-      // Add any stations not in order list at the end
-      stations.forEach(s => {
-        if (!order.includes(s.name)) ordered.push([s.lat, s.lng]);
-      });
-      coords = ordered;
-    } else {
-      // Fallback: sort by lat/lng
-      stations.sort((a, b) => a.lat - b.lat || a.lng - b.lng);
-      coords = stations.map(s => [s.lat, s.lng]);
-    }
+  linesToDraw.forEach(lineName => {
+    if (typeof LINE_ORDERS === 'undefined' || !LINE_ORDERS[lineName]) return;
+    const order = LINE_ORDERS[lineName];
+    const coords = [];
+    order.forEach(name => {
+      if (allStationCoords[name]) coords.push(allStationCoords[name]);
+    });
     if (coords.length >= 2) {
       const color = LINE_COLORS[lineName] || '#999';
-      L.polyline(coords, { color, weight: 3, opacity: 0.5 }).addTo(lineLayer);
+      L.polyline(coords, { color, weight: 3.5, opacity: 0.6 }).addTo(lineLayer);
     }
   });
 
