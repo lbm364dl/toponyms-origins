@@ -1,0 +1,402 @@
+{
+  "metro_001": {
+    "name": "Sol",
+    "latitude": 40.4169,
+    "longitude": -3.7036,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Sol%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Sol%2C%20Madrid/@40.4169,-3.7036,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4169,-3.7036"
+  },
+  "metro_002": {
+    "name": "Gran Vía",
+    "latitude": 40.419912,
+    "longitude": -3.701619,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Gran%20V%C3%ADa%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Gran%20V%C3%ADa%2C%20Madrid/@40.419912,-3.701619,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.419912,-3.701619"
+  },
+  "metro_003": {
+    "name": "Tirso de Molina",
+    "latitude": 40.412361,
+    "longitude": -3.704585,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Tirso%20de%20Molina%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Tirso%20de%20Molina%2C%20Madrid/@40.412361,-3.704585,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.412361,-3.704585"
+  },
+  "metro_004": {
+    "name": "La Latina",
+    "latitude": 40.411291,
+    "longitude": -3.708309,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20La%20Latina%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20La%20Latina%2C%20Madrid/@40.411291,-3.708309,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.411291,-3.708309"
+  },
+  "metro_005": {
+    "name": "Goya",
+    "latitude": 40.424699,
+    "longitude": -3.6762,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Goya%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Goya%2C%20Madrid/@40.424699,-3.6762,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.424699,-3.6762"
+  },
+  "metro_006": {
+    "name": "Argüelles",
+    "latitude": 40.430727,
+    "longitude": -3.716172,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Arg%C3%BCelles%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Arg%C3%BCelles%2C%20Madrid/@40.430727,-3.716172,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.430727,-3.716172"
+  },
+  "metro_007": {
+    "name": "Chueca",
+    "latitude": 40.42267,
+    "longitude": -3.697674,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Chueca%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Chueca%2C%20Madrid/@40.42267,-3.697674,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.42267,-3.697674"
+  },
+  "metro_008": {
+    "name": "Embajadores",
+    "latitude": 40.404812,
+    "longitude": -3.702273,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Embajadores%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Embajadores%2C%20Madrid/@40.404812,-3.702273,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.404812,-3.702273"
+  },
+  "metro_009": {
+    "name": "Lavapiés",
+    "latitude": 40.4087,
+    "longitude": -3.7004,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Lavapi%C3%A9s%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Lavapi%C3%A9s%2C%20Madrid/@40.4087,-3.7004,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4087,-3.7004"
+  },
+  "metro_010": {
+    "name": "Chamberí",
+    "latitude": 40.4349,
+    "longitude": -3.7044,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Chamber%C3%AD%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Chamber%C3%AD%2C%20Madrid/@40.4349,-3.7044,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4349,-3.7044"
+  },
+  "metro_011": {
+    "name": "Callao",
+    "latitude": 40.42,
+    "longitude": -3.7062,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Callao%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Callao%2C%20Madrid/@40.4200,-3.7062,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4200,-3.7062"
+  },
+  "metro_012": {
+    "name": "Ópera",
+    "latitude": 40.417983,
+    "longitude": -3.709415,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20%C3%93pera%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20%C3%93pera%2C%20Madrid/@40.417983,-3.709415,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.417983,-3.709415"
+  },
+  "metro_013": {
+    "name": "Príncipe de Vergara",
+    "latitude": 40.422649,
+    "longitude": -3.680369,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Pr%C3%ADncipe%20de%20Vergara%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Pr%C3%ADncipe%20de%20Vergara%2C%20Madrid/@40.422649,-3.680369,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.422649,-3.680369"
+  },
+  "metro_014": {
+    "name": "Alfonso XIII",
+    "latitude": 40.448222,
+    "longitude": -3.667892,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Alfonso%20XIII%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Alfonso%20XIII%2C%20Madrid/@40.448222,-3.667892,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.448222,-3.667892"
+  },
+  "metro_015": {
+    "name": "Gregorio Marañón",
+    "latitude": 40.437994,
+    "longitude": -3.691213,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Gregorio%20Mara%C3%B1%C3%B3n%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Gregorio%20Mara%C3%B1%C3%B3n%2C%20Madrid/@40.437994,-3.691213,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.437994,-3.691213"
+  },
+  "metro_016": {
+    "name": "Paco de Lucía",
+    "latitude": 40.495,
+    "longitude": -3.712,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Paco%20de%20Luc%C3%ADa%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Paco%20de%20Luc%C3%ADa%2C%20Madrid/@40.4950,-3.7120,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4950,-3.7120"
+  },
+  "metro_017": {
+    "name": "Manuela Malasaña",
+    "latitude": 40.315,
+    "longitude": -3.78,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Manuela%20Malasa%C3%B1a%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Manuela%20Malasa%C3%B1a%2C%20Madrid/@40.315,-3.780,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.315,-3.780"
+  },
+  "metro_018": {
+    "name": "Príncipe Pío",
+    "latitude": 40.420962,
+    "longitude": -3.719333,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Pr%C3%ADncipe%20P%C3%ADo%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Pr%C3%ADncipe%20P%C3%ADo%2C%20Madrid/@40.420962,-3.719333,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.420962,-3.719333"
+  },
+  "metro_019": {
+    "name": "Eugenia de Montijo",
+    "latitude": 40.384416,
+    "longitude": -3.751063,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Eugenia%20de%20Montijo%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Eugenia%20de%20Montijo%2C%20Madrid/@40.384416,-3.751063,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.384416,-3.751063"
+  },
+  "metro_020": {
+    "name": "Guzmán el Bueno",
+    "latitude": 40.446274,
+    "longitude": -3.713169,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Guzm%C3%A1n%20el%20Bueno%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Guzm%C3%A1n%20el%20Bueno%2C%20Madrid/@40.446274,-3.713169,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.446274,-3.713169"
+  },
+  "metro_021": {
+    "name": "Alonso Martínez",
+    "latitude": 40.427406,
+    "longitude": -3.695983,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Alonso%20Mart%C3%ADnez%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Alonso%20Mart%C3%ADnez%2C%20Madrid/@40.427406,-3.695983,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.427406,-3.695983"
+  },
+  "metro_022": {
+    "name": "Diego de León",
+    "latitude": 40.434474,
+    "longitude": -3.67472,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Diego%20de%20Le%C3%B3n%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Diego%20de%20Le%C3%B3n%2C%20Madrid/@40.434474,-3.67472,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.434474,-3.67472"
+  },
+  "metro_023": {
+    "name": "Vicente Aleixandre",
+    "latitude": 40.446506,
+    "longitude": -3.719044,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Vicente%20Aleixandre%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Vicente%20Aleixandre%2C%20Madrid/@40.446506,-3.719044,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.446506,-3.719044"
+  },
+  "metro_024": {
+    "name": "Concha Espina",
+    "latitude": 40.451329,
+    "longitude": -3.677608,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Concha%20Espina%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Concha%20Espina%2C%20Madrid/@40.451329,-3.677608,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.451329,-3.677608"
+  },
+  "metro_025": {
+    "name": "Santiago Bernabeu",
+    "latitude": 40.4518,
+    "longitude": -3.6886,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Santiago%20Bernabeu%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Santiago%20Bernabeu%2C%20Madrid/@40.4518,-3.6886,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4518,-3.6886"
+  },
+  "metro_026": {
+    "name": "Estación del Arte",
+    "latitude": 40.408839,
+    "longitude": -3.691475,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Estaci%C3%B3n%20del%20Arte%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Estaci%C3%B3n%20del%20Arte%2C%20Madrid/@40.408839,-3.691475,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.408839,-3.691475"
+  },
+  "metro_027": {
+    "name": "Feria de Madrid",
+    "latitude": 40.464,
+    "longitude": -3.616309,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Feria%20de%20Madrid%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Feria%20de%20Madrid%2C%20Madrid/@40.464,-3.616309,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.464,-3.616309"
+  },
+  "metro_028": {
+    "name": "Estadio Metropolitano",
+    "latitude": 40.4338,
+    "longitude": -3.600962,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Estadio%20Metropolitano%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Estadio%20Metropolitano%2C%20Madrid/@40.4338,-3.600962,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4338,-3.600962"
+  },
+  "metro_029": {
+    "name": "Atocha",
+    "latitude": 40.406975,
+    "longitude": -3.688601,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Atocha%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Atocha%2C%20Madrid/@40.406975,-3.688601,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.406975,-3.688601"
+  },
+  "metro_030": {
+    "name": "Pirámides",
+    "latitude": 40.402043,
+    "longitude": -3.711941,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Pir%C3%A1mides%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Pir%C3%A1mides%2C%20Madrid/@40.402043,-3.711941,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.402043,-3.711941"
+  },
+  "metro_031": {
+    "name": "Tribunal",
+    "latitude": 40.4263,
+    "longitude": -3.7012,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Tribunal%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Tribunal%2C%20Madrid/@40.4263,-3.7012,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4263,-3.7012"
+  },
+  "metro_032": {
+    "name": "Noviciado",
+    "latitude": 40.424773,
+    "longitude": -3.707385,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Noviciado%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Noviciado%2C%20Madrid/@40.424773,-3.707385,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.424773,-3.707385"
+  },
+  "metro_033": {
+    "name": "Bilbao",
+    "latitude": 40.4293,
+    "longitude": -3.7023,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Bilbao%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Bilbao%2C%20Madrid/@40.4293,-3.7023,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.4293,-3.7023"
+  },
+  "metro_034": {
+    "name": "Quevedo",
+    "latitude": 40.433181,
+    "longitude": -3.704493,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Quevedo%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Quevedo%2C%20Madrid/@40.433181,-3.704493,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.433181,-3.704493"
+  },
+  "metro_035": {
+    "name": "Islas Filipinas",
+    "latitude": 40.439043,
+    "longitude": -3.713978,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Islas%20Filipinas%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Islas%20Filipinas%2C%20Madrid/@40.439043,-3.713978,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.439043,-3.713978"
+  },
+  "metro_036": {
+    "name": "Moncloa",
+    "latitude": 40.43502,
+    "longitude": -3.719236,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Moncloa%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Moncloa%2C%20Madrid/@40.43502,-3.719236,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.43502,-3.719236"
+  },
+  "metro_037": {
+    "name": "Ventas",
+    "latitude": 40.431064,
+    "longitude": -3.663542,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Ventas%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Ventas%2C%20Madrid/@40.431064,-3.663542,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.431064,-3.663542"
+  },
+  "metro_038": {
+    "name": "Manuel Becerra",
+    "latitude": 40.428143,
+    "longitude": -3.668711,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Manuel%20Becerra%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Manuel%20Becerra%2C%20Madrid/@40.428143,-3.668711,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.428143,-3.668711"
+  },
+  "metro_039": {
+    "name": "O'Donnell",
+    "latitude": 40.422202,
+    "longitude": -3.669063,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20O%27Donnell%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20O%27Donnell%2C%20Madrid/@40.422202,-3.669063,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.422202,-3.669063"
+  },
+  "metro_040": {
+    "name": "Ibiza",
+    "latitude": 40.418366,
+    "longitude": -3.678137,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Ibiza%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Ibiza%2C%20Madrid/@40.418366,-3.678137,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.418366,-3.678137"
+  },
+  "metro_041": {
+    "name": "Pacífico",
+    "latitude": 40.401396,
+    "longitude": -3.674883,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Pac%C3%ADfico%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Pac%C3%ADfico%2C%20Madrid/@40.401396,-3.674883,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.401396,-3.674883"
+  },
+  "metro_042": {
+    "name": "Menéndez Pelayo",
+    "latitude": 40.404297,
+    "longitude": -3.681101,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Men%C3%A9ndez%20Pelayo%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Men%C3%A9ndez%20Pelayo%2C%20Madrid/@40.404297,-3.681101,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.404297,-3.681101"
+  },
+  "metro_043": {
+    "name": "Ríos Rosas",
+    "latitude": 40.441594,
+    "longitude": -3.701592,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20R%C3%ADos%20Rosas%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20R%C3%ADos%20Rosas%2C%20Madrid/@40.441594,-3.701592,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.441594,-3.701592"
+  },
+  "metro_044": {
+    "name": "Iglesia",
+    "latitude": 40.435263,
+    "longitude": -3.699013,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Iglesia%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Iglesia%2C%20Madrid/@40.435263,-3.699013,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.435263,-3.699013"
+  },
+  "metro_045": {
+    "name": "Cruz del Rayo",
+    "latitude": 40.444483,
+    "longitude": -3.678463,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Cruz%20del%20Rayo%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Cruz%20del%20Rayo%2C%20Madrid/@40.444483,-3.678463,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.444483,-3.678463"
+  },
+  "metro_046": {
+    "name": "Prosperidad",
+    "latitude": 40.444209,
+    "longitude": -3.674851,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Prosperidad%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Prosperidad%2C%20Madrid/@40.444209,-3.674851,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.444209,-3.674851"
+  },
+  "metro_047": {
+    "name": "Cuatro Caminos",
+    "latitude": 40.446781,
+    "longitude": -3.703964,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Cuatro%20Caminos%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Cuatro%20Caminos%2C%20Madrid/@40.446781,-3.703964,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.446781,-3.703964"
+  },
+  "metro_048": {
+    "name": "Tetuán",
+    "latitude": 40.460855,
+    "longitude": -3.698226,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Tetu%C3%A1n%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Tetu%C3%A1n%2C%20Madrid/@40.460855,-3.698226,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.460855,-3.698226"
+  },
+  "metro_049": {
+    "name": "Estrecho",
+    "latitude": 40.454514,
+    "longitude": -3.702757,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Estrecho%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Estrecho%2C%20Madrid/@40.454514,-3.702757,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.454514,-3.702757"
+  },
+  "metro_050": {
+    "name": "Valdeacederas",
+    "latitude": 40.464526,
+    "longitude": -3.694999,
+    "gmaps_search": "https://www.google.com/maps/search/?api=1&query=Metro%20Valdeacederas%2C%20Madrid%2C%20Spain",
+    "gmaps_place": "https://www.google.com/maps/place/Estaci%C3%B3n%20de%20metro%20Valdeacederas%2C%20Madrid/@40.464526,-3.694999,17z",
+    "gmaps_pin": "https://www.google.com/maps?q=40.464526,-3.694999"
+  }
+}
