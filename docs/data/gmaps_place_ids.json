@@ -1,0 +1,2400 @@
+{
+  "metro_044": {
+    "place_id": "ChIJS7SalPQoQg0R4GLSdM1OIKA",
+    "gmaps_name": "Iglesia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7SalPQoQg0R4GLSdM1OIKA",
+    "query_used": "Estación de Iglesia"
+  },
+  "metro_045": {
+    "place_id": "ChIJJdy8stwoQg0RY75WB3bP6Qg",
+    "gmaps_name": "Cruz del Rayo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdy8stwoQg0RY75WB3bP6Qg",
+    "query_used": "Estación de Cruz del Rayo"
+  },
+  "metro_046": {
+    "place_id": "ChIJaTUbK8UoQg0RDxkUJc8HHRQ",
+    "gmaps_name": "Prosperidad",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaTUbK8UoQg0RDxkUJc8HHRQ",
+    "query_used": "Estación de Prosperidad"
+  },
+  "metro_048": {
+    "place_id": "ChIJCfSmmwYpQg0RabAimogN0UA",
+    "gmaps_name": "Tetuán",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfSmmwYpQg0RabAimogN0UA",
+    "query_used": "Metro Tetuán"
+  },
+  "metro_049": {
+    "place_id": "ChIJOb3Ip6opQg0R8NN7JzwBev8",
+    "gmaps_name": "Estrecho",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOb3Ip6opQg0R8NN7JzwBev8",
+    "query_used": "Metro Estrecho"
+  },
+  "metro_050": {
+    "place_id": "ChIJBWa-gw8pQg0R8gFoCdKJuck",
+    "gmaps_name": "Valdeacederas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWa-gw8pQg0R8gFoCdKJuck",
+    "query_used": "Metro Valdeacederas"
+  },
+  "metro_051": {
+    "place_id": "ChIJBYoGkK0pQg0Rm6MmlZ8awPs",
+    "gmaps_name": "Francos Rodríguez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYoGkK0pQg0Rm6MmlZ8awPs",
+    "query_used": "Metro Francos Rodríguez"
+  },
+  "metro_052": {
+    "place_id": "ChIJD9zQH_UnQg0Rc1kn4cDBF1M",
+    "gmaps_name": "Carpetana",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9zQH_UnQg0Rc1kn4cDBF1M",
+    "query_used": "Metro Carpetana"
+  },
+  "metro_053": {
+    "place_id": "ChIJhcovUJInQg0Rp-Pkzh2-i-E",
+    "gmaps_name": "Oporto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcovUJInQg0Rp-Pkzh2-i-E",
+    "query_used": "Metro Oporto"
+  },
+  "metro_054": {
+    "place_id": "ChIJ2yuOCosnQg0RoG6hclUmWVc",
+    "gmaps_name": "Vista Alegre",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yuOCosnQg0RoG6hclUmWVc",
+    "query_used": "Estación de Vista Alegre"
+  },
+  "metro_055": {
+    "place_id": "ChIJG2bh7CCIQQ0RhaD8vIjbs7E",
+    "gmaps_name": "Carabanchel",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2bh7CCIQQ0RhaD8vIjbs7E",
+    "query_used": "Estación de Carabanchel"
+  },
+  "metro_056": {
+    "place_id": "ChIJj0QFF9YuQg0RNIev60iWpAA",
+    "gmaps_name": "Arturo Soria",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0QFF9YuQg0RNIev60iWpAA",
+    "query_used": "Metro Arturo Soria",
+    "ambiguous": true
+  },
+  "metro_057": {
+    "place_id": "ChIJrUGNld4uQg0R3gbIOcd9OVI",
+    "gmaps_name": "Esperanza",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUGNld4uQg0R3gbIOcd9OVI",
+    "query_used": "Metro Esperanza"
+  },
+  "metro_058": {
+    "place_id": "ChIJSQtStuUuQg0R9_1vzL1X_pw",
+    "gmaps_name": "Canillas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQtStuUuQg0R9_1vzL1X_pw",
+    "query_used": "Metro Canillas"
+  },
+  "metro_059": {
+    "place_id": "ChIJ-3KYFekuQg0RJRA6LI_jzCg",
+    "gmaps_name": "Mar de Cristal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3KYFekuQg0RJRA6LI_jzCg",
+    "query_used": "Mar de Cristal metro Madrid"
+  },
+  "metro_060": {
+    "place_id": "ChIJbWALKT4pQg0R6nxibfBqHDc",
+    "gmaps_name": "Estación de Madrid-Chamartín-Clara Campoamor",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWALKT4pQg0R6nxibfBqHDc",
+    "query_used": "Estación de Chamartín"
+  },
+  "metro_061": {
+    "place_id": "ChIJdxJKJScpQg0RsD_IQIMGA_4",
+    "gmaps_name": "Colombia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxJKJScpQg0RsD_IQIMGA_4",
+    "query_used": "Metro Colombia"
+  },
+  "metro_062": {
+    "place_id": "ChIJl05g2eQoQg0RxUzptEglylA",
+    "gmaps_name": "Estación de Nuevos Ministerios",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl05g2eQoQg0RxUzptEglylA",
+    "query_used": "Metro Nuevos Ministerios"
+  },
+  "metro_063": {
+    "place_id": "ChIJSzgwMJMoQg0RyeB_mAkFjxE",
+    "gmaps_name": "Rubén Darío",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzgwMJMoQg0RyeB_mAkFjxE",
+    "query_used": "Metro Rubén Darío"
+  },
+  "metro_064": {
+    "place_id": "ChIJGa2HDL8oQg0RlCd1bu0L2Xc",
+    "gmaps_name": "Núñez de Balboa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa2HDL8oQg0RlCd1bu0L2Xc",
+    "query_used": "Metro Núñez de Balboa"
+  },
+  "metro_065": {
+    "place_id": "ChIJFeRYXSAuQg0RALpdT6amn2U",
+    "gmaps_name": "Barajas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeRYXSAuQg0RALpdT6amn2U",
+    "query_used": "Metro Barajas"
+  },
+  "metro_066": {
+    "place_id": "ChIJrSuAGbEvQg0Rxvswre-3j-c",
+    "gmaps_name": "Canillejas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSuAGbEvQg0Rxvswre-3j-c",
+    "query_used": "Metro Canillejas"
+  },
+  "metro_067": {
+    "place_id": "ChIJGZsNfqYvQg0RvQmzie8O0ig",
+    "gmaps_name": "Metro Torre Arias",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZsNfqYvQg0RvQmzie8O0ig",
+    "query_used": "Metro Torre Arias"
+  },
+  "metro_068": {
+    "place_id": "ChIJT-R8TEgmQg0RJfAxGhoDUtY",
+    "gmaps_name": "Legazpi",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-R8TEgmQg0RJfAxGhoDUtY",
+    "query_used": "Metro Legazpi",
+    "ambiguous": true
+  },
+  "metro_069": {
+    "place_id": "ChIJf0tZ8jAmQg0RCNfaRO_UW5E",
+    "gmaps_name": "Delicias",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0tZ8jAmQg0RCNfaRO_UW5E",
+    "query_used": "Estación de Delicias"
+  },
+  "metro_070": {
+    "place_id": "ChIJ1TyUbwAnQg0RxvfyENW8tv4",
+    "gmaps_name": "Metro Mendez Alvaro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1TyUbwAnQg0RxvfyENW8tv4",
+    "query_used": "Metro Méndez Álvaro"
+  },
+  "metro_071": {
+    "place_id": "ChIJlcuUmC0mQg0RMTxunpxER8M",
+    "gmaps_name": "Palos de La Frontera",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcuUmC0mQg0RMTxunpxER8M",
+    "query_used": "Palos de la Frontera metro Madrid"
+  },
+  "metro_072": {
+    "place_id": "ChIJzZLPOpElQg0RXMS6j65tS4g",
+    "gmaps_name": "Pavones",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZLPOpElQg0RXMS6j65tS4g",
+    "query_used": "Metro Pavones"
+  },
+  "metro_073": {
+    "place_id": "ChIJIa9e_nUlQg0RXq-Mr9PGK1A",
+    "gmaps_name": "Valdebernardo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIa9e_nUlQg0RXq-Mr9PGK1A",
+    "query_used": "Metro Valdebernardo"
+  },
+  "metro_074": {
+    "place_id": "ChIJl9WbC28lQg0RFZyJNzOOQ6Q",
+    "gmaps_name": "Vicálvaro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9WbC28lQg0RFZyJNzOOQ6Q",
+    "query_used": "Metro Vicálvaro"
+  },
+  "metro_075": {
+    "place_id": "ChIJZbDfMGglQg0RBw7l8WkWvgQ",
+    "gmaps_name": "San Cipriano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbDfMGglQg0RBw7l8WkWvgQ",
+    "query_used": "Metro San Cipriano"
+  },
+  "metro_076": {
+    "place_id": "ChIJi0o_-FYmQg0RW9-olnxlelI",
+    "gmaps_name": "Estación de Hospital 12 de Octubre",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0o_-FYmQg0RW9-olnxlelI",
+    "query_used": "Hospital 12 de Octubre metro Madrid"
+  },
+  "metro_077": {
+    "place_id": "ChIJdVsp300mQg0RABw82xCmw88",
+    "gmaps_name": "Almendrales",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVsp300mQg0RABw82xCmw88",
+    "query_used": "Metro Almendrales"
+  },
+  "metro_078": {
+    "place_id": "ChIJ2wZb9LMnQg0R45jTk6Nxrs0",
+    "gmaps_name": "Usera",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wZb9LMnQg0R45jTk6Nxrs0",
+    "query_used": "Estación de Usera"
+  },
+  "metro_079": {
+    "place_id": "ChIJ13MlfLwnQg0R-YH9kWAiRgU",
+    "gmaps_name": "Plaza Elíptica",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13MlfLwnQg0R-YH9kWAiRgU",
+    "query_used": "Metro Plaza Elíptica"
+  },
+  "metro_080": {
+    "place_id": "ChIJ_-qABEQlQg0RJ3GoE_8GBQo",
+    "gmaps_name": "Puerta de Arganda",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-qABEQlQg0RJ3GoE_8GBQo",
+    "query_used": "Metro Puerta de Arganda"
+  },
+  "metro_081": {
+    "place_id": "ChIJyY49Kw8_Qg0RssvXtF_eIsU",
+    "gmaps_name": "Arganda del Rey",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY49Kw8_Qg0RssvXtF_eIsU",
+    "query_used": "Metro Arganda del Rey"
+  },
+  "metro_082": {
+    "place_id": "ChIJozaey8E-Qg0R6K8Ue4L1ta8",
+    "gmaps_name": "La Poveda",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJozaey8E-Qg0R6K8Ue4L1ta8",
+    "query_used": "Metro La Poveda"
+  },
+  "metro_083": {
+    "place_id": "ChIJqVci4tArQg0Ri7k8CmScwls",
+    "gmaps_name": "Tres Olivos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVci4tArQg0Ri7k8CmScwls",
+    "query_used": "Metro Tres Olivos"
+  },
+  "metro_084": {
+    "place_id": "ChIJSbEtLs4rQg0RiyNNRvUr-CQ",
+    "gmaps_name": "Montecarmelo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbEtLs4rQg0RiyNNRvUr-CQ",
+    "query_used": "Estación de Montecarmelo"
+  },
+  "metro_085": {
+    "place_id": "ChIJe8d-A_ErQg0RfpZQCckcfrQ",
+    "gmaps_name": "Las Tablas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8d-A_ErQg0RfpZQCckcfrQ",
+    "query_used": "Metro Las Tablas"
+  },
+  "metro_086": {
+    "place_id": "ChIJofgF-EspQg0RFaHEBttIl48",
+    "gmaps_name": "Pinar de Chamartín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJofgF-EspQg0RFaHEBttIl48",
+    "query_used": "Metro Pinar de Chamartín"
+  },
+  "metro_087": {
+    "place_id": "ChIJs0c7ciomQg0RESKWt1XSy4g",
+    "gmaps_name": "Antón Martín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0c7ciomQg0RESKWt1XSy4g",
+    "query_used": "Metro Antón Martín"
+  },
+  "metro_088": {
+    "place_id": "ChIJDWKXGZkoQg0RIBjUTC-p43s",
+    "gmaps_name": "Retiro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWKXGZkoQg0RIBjUTC-p43s",
+    "query_used": "Estación de Retiro"
+  },
+  "metro_089": {
+    "place_id": "ChIJOZ0IjIQoQg0R30l3FPmBQtY",
+    "gmaps_name": "Banco de España",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ0IjIQoQg0R30l3FPmBQtY",
+    "query_used": "Metro Banco de España"
+  },
+  "metro_090": {
+    "place_id": "ChIJ4QgoNYEoQg0RWruWQ3Ec1dI",
+    "gmaps_name": "Sevilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QgoNYEoQg0RWruWQ3Ec1dI",
+    "query_used": "Metro Sevilla"
+  },
+  "metro_091": {
+    "place_id": "ChIJI5YAnnwoQg0R14wi5dk6UmI",
+    "gmaps_name": "Santo Domingo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5YAnnwoQg0R14wi5dk6UmI",
+    "query_used": "Metro Santo Domingo"
+  },
+  "metro_092": {
+    "place_id": "ChIJvUSnCmEoQg0RUmMQ-6-pdk0",
+    "gmaps_name": "Metro San Bernardo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUSnCmEoQg0RUmMQ-6-pdk0",
+    "query_used": "Metro San Bernardo"
+  },
+  "metro_093": {
+    "place_id": "ChIJIYkCy1goQg0R_PdahQ_tJHI",
+    "gmaps_name": "Canal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYkCy1goQg0R_PdahQ_tJHI",
+    "query_used": "Metro Canal"
+  },
+  "metro_094": {
+    "place_id": "ChIJcbE8Wm8oQg0Rd5Md362ndPE",
+    "gmaps_name": "Ventura Rodríguez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbE8Wm8oQg0Rd5Md362ndPE",
+    "query_used": "Metro Ventura Rodríguez"
+  },
+  "metro_095": {
+    "place_id": "ChIJk2iKlNAnQg0RZZ5eoDndfFc",
+    "gmaps_name": "Estación de Puerta de Toledo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2iKlNAnQg0RZZ5eoDndfFc",
+    "query_used": "Estación de Puerta de Toledo"
+  },
+  "metro_096": {
+    "place_id": "ChIJsZ0eQNInQg0RAoXdEHMw1B4",
+    "gmaps_name": "Acacias",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZ0eQNInQg0RAoXdEHMw1B4",
+    "query_used": "Metro Acacias"
+  },
+  "metro_097": {
+    "place_id": "ChIJGYydKcQnQg0R0hynIjjKnF8",
+    "gmaps_name": "Marqués de Vadillo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYydKcQnQg0R0hynIjjKnF8",
+    "query_used": "Metro Marqués de Vadillo"
+  },
+  "metro_098": {
+    "place_id": "ChIJsyyI8AQmQg0R5ZtcMaNcOTw",
+    "gmaps_name": "Conde de Casal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyyI8AQmQg0R5ZtcMaNcOTw",
+    "query_used": "Metro Conde de Casal"
+  },
+  "metro_099": {
+    "place_id": "ChIJMcegyakoQg0RspVg2Ts-oGA",
+    "gmaps_name": "Sainz de Baranda",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcegyakoQg0RspVg2Ts-oGA",
+    "query_used": "Metro Sáinz de Baranda",
+    "ambiguous": true
+  },
+  "metro_100": {
+    "place_id": "ChIJVfB0KpEoQg0RASP1x-TvLIY",
+    "gmaps_name": "Metro Serrano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfB0KpEoQg0RASP1x-TvLIY",
+    "query_used": "Metro Serrano"
+  },
+  "metro_101": {
+    "place_id": "ChIJI9cL3pcoQg0R57O6P27ly5c",
+    "gmaps_name": "Velázquez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9cL3pcoQg0R57O6P27ly5c",
+    "query_used": "Metro Velázquez"
+  },
+  "metro_102": {
+    "place_id": "ChIJKSS0fbkoQg0RLSQJxXlCq0Y",
+    "gmaps_name": "Lista",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSS0fbkoQg0RLSQJxXlCq0Y",
+    "query_used": "Metro Lista"
+  },
+  "metro_103": {
+    "place_id": "ChIJBe1dRpAoQg0RH1hSxM-Ps5E",
+    "gmaps_name": "Metro Colón",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBe1dRpAoQg0RH1hSxM-Ps5E",
+    "query_used": "Metro Colón"
+  },
+  "metro_104": {
+    "place_id": "ChIJQRFcdOgoQg0RxBVo0iF5uuk",
+    "gmaps_name": "República Argentina",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRFcdOgoQg0RxBVo0iF5uuk",
+    "query_used": "Metro República Argentina"
+  },
+  "metro_105": {
+    "place_id": "ChIJgbhhIPQoQg0Ry4eZSsMB72Y",
+    "gmaps_name": "Alonso Cano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbhhIPQoQg0Ry4eZSsMB72Y",
+    "query_used": "Metro Alonso Cano"
+  },
+  "metro_106": {
+    "place_id": "ChIJacixZBwpQg0RTvGJ1kdHr1s",
+    "gmaps_name": "Cuzco",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJacixZBwpQg0RTvGJ1kdHr1s",
+    "query_used": "Metro Cuzco"
+  },
+  "metro_107": {
+    "place_id": "ChIJ2UZ8PREpQg0RI839DSPtHzg",
+    "gmaps_name": "Estación de Plaza de Castilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UZ8PREpQg0RI839DSPtHzg",
+    "query_used": "Estación de Plaza de Castilla"
+  },
+  "metro_108": {
+    "place_id": "ChIJnd9rj1UoQg0R2fRxMzWR_rE",
+    "gmaps_name": "Alvarado",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd9rj1UoQg0R2fRxMzWR_rE",
+    "query_used": "Metro Alvarado"
+  },
+  "metro_109": {
+    "place_id": "ChIJAclCeQ4mQg0Rdv6S3_iX3rk",
+    "gmaps_name": "Estación de Puente de Vallecas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAclCeQ4mQg0Rdv6S3_iX3rk",
+    "query_used": "Estación de Puente de Vallecas"
+  },
+  "metro_110": {
+    "place_id": "ChIJG_Gi7womQg0R8ix0fUNK4Dk",
+    "gmaps_name": "Nueva Numancia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_Gi7womQg0R8ix0fUNK4Dk",
+    "query_used": "Metro Nueva Numancia"
+  },
+  "metro_111": {
+    "place_id": "ChIJVxyAP94lQg0RWCLK2y3bLcY",
+    "gmaps_name": "Portazgo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxyAP94lQg0RWCLK2y3bLcY",
+    "query_used": "Metro Portazgo"
+  },
+  "metro_112": {
+    "place_id": "ChIJ99i8OQooQg0RYIuxP0Av10A",
+    "gmaps_name": "Puerta del Ángel",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99i8OQooQg0RYIuxP0Av10A",
+    "query_used": "Metro Puerta del Ángel"
+  },
+  "metro_113": {
+    "place_id": "ChIJre1bcP4nQg0RjwAk8pDITl4",
+    "gmaps_name": "Alto de Extremadura",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJre1bcP4nQg0RjwAk8pDITl4",
+    "query_used": "Metro Alto de Extremadura",
+    "ambiguous": true
+  },
+  "metro_114": {
+    "place_id": "ChIJU0XrRwKIQQ0RBsUvma9IamM",
+    "gmaps_name": "Lucero",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0XrRwKIQQ0RBsUvma9IamM",
+    "query_used": "Metro Lucero",
+    "ambiguous": true
+  },
+  "metro_115": {
+    "place_id": "ChIJ2Rq2cB2IQQ0RuoWf41dcqRU",
+    "gmaps_name": "Laguna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Rq2cB2IQQ0RuoWf41dcqRU",
+    "query_used": "Metro Laguna"
+  },
+  "metro_116": {
+    "place_id": "ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "gmaps_name": "Aluche",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "query_used": "Metro Aluche"
+  },
+  "metro_117": {
+    "place_id": "ChIJ0TrK72uIQQ0RPMMc3B_dM-I",
+    "gmaps_name": "Campamento",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0TrK72uIQQ0RPMMc3B_dM-I",
+    "query_used": "Metro Campamento"
+  },
+  "metro_118": {
+    "place_id": "ChIJn23_FgaIQQ0RVzwYiEqfsQA",
+    "gmaps_name": "Batán",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn23_FgaIQQ0RVzwYiEqfsQA",
+    "query_used": "Estación de Batán"
+  },
+  "metro_119": {
+    "place_id": "ChIJSxOOfAYoQg0R7VZdFklbDcM",
+    "gmaps_name": "Lago",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxOOfAYoQg0R7VZdFklbDcM",
+    "query_used": "Metro Lago"
+  },
+  "metro_120": {
+    "place_id": "ChIJQbFr2jWJQQ0RfhwxgiehUhY",
+    "gmaps_name": "Estación de metro Casa de Campo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbFr2jWJQQ0RfhwxgiehUhY",
+    "query_used": "Estación de Casa de Campo"
+  },
+  "metro_121": {
+    "place_id": "ChIJ58gOMGUoQg0RD5cSITd7USc",
+    "gmaps_name": "Plaza de España",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58gOMGUoQg0RD5cSITd7USc",
+    "query_used": "Estación de Plaza de España"
+  },
+  "metro_122": {
+    "place_id": "ChIJdbFoaTcoQg0RjWSl8mWwAt0",
+    "gmaps_name": "Ciudad Universitaria",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbFoaTcoQg0RjWSl8mWwAt0",
+    "query_used": "Metro Ciudad Universitaria"
+  },
+  "metro_123": {
+    "place_id": "ChIJKTDW7iQpQg0RJ36JPtrSnqs",
+    "gmaps_name": "Pío XII",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTDW7iQpQg0RJ36JPtrSnqs",
+    "query_used": "Metro Pío XII"
+  },
+  "metro_124": {
+    "place_id": "ChIJMxtDWzwpQg0RbzDazKziQgo",
+    "gmaps_name": "Duque de Pastrana",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxtDWzwpQg0RbzDazKziQgo",
+    "query_used": "Metro Duque de Pastrana"
+  },
+  "metro_125": {
+    "place_id": "ChIJ-x1eWoMpQg0R0GCVfDJgkQs",
+    "gmaps_name": "Herrera Oria",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x1eWoMpQg0R0GCVfDJgkQs",
+    "query_used": "Metro Herrera Oria"
+  },
+  "metro_126": {
+    "place_id": "ChIJAaI7KZ4pQg0REHaV2J6lXbg",
+    "gmaps_name": "Barrio del Pilar",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaI7KZ4pQg0REHaV2J6lXbg",
+    "query_used": "Metro Barrio del Pilar"
+  },
+  "metro_127": {
+    "place_id": "ChIJO-JELwwpQg0RamdglcrnwyQ",
+    "gmaps_name": "Ventilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-JELwwpQg0RamdglcrnwyQ",
+    "query_used": "Metro Ventilla"
+  },
+  "metro_128": {
+    "place_id": "ChIJpd_6CIkpQg0RPuLkicpuH9Y",
+    "gmaps_name": "Mirasierra",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpd_6CIkpQg0RPuLkicpuH9Y",
+    "query_used": "Mirasierra metro Madrid"
+  },
+  "metro_129": {
+    "place_id": "ChIJH1zNoDgmQg0R2MvdPzaO72Q",
+    "gmaps_name": "Arganzuela-Planetario",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1zNoDgmQg0R2MvdPzaO72Q",
+    "query_used": "Metro Arganzuela-Planetario"
+  },
+  "metro_130": {
+    "place_id": "ChIJR3W5qg4vQg0RmunnxjHJaZA",
+    "gmaps_name": "Suanzes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3W5qg4vQg0RmunnxjHJaZA",
+    "query_used": "Metro Suanzes"
+  },
+  "metro_131": {
+    "place_id": "ChIJS1jsYBQvQg0RJ1t611jfq0o",
+    "gmaps_name": "Ciudad Lineal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1jsYBQvQg0RJ1t611jfq0o",
+    "query_used": "Metro Ciudad Lineal"
+  },
+  "metro_132": {
+    "place_id": "ChIJr4rKNUcvQg0R_X4xaguuTBM",
+    "gmaps_name": "Quintana",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4rKNUcvQg0R_X4xaguuTBM",
+    "query_used": "Metro Quintana"
+  },
+  "metro_133": {
+    "place_id": "ChIJA0D100svQg0R0VhfGfseY8s",
+    "gmaps_name": "El Carmen",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0D100svQg0R0VhfGfseY8s",
+    "query_used": "Metro El Carmen"
+  },
+  "metro_134": {
+    "place_id": "ChIJuz16SG4vQg0RPcOfdNFqEG4",
+    "gmaps_name": "García Noblejas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz16SG4vQg0RPcOfdNFqEG4",
+    "query_used": "Metro García Noblejas"
+  },
+  "metro_135": {
+    "place_id": "ChIJVVFhIHcvQg0ReBIFmxvokp0",
+    "gmaps_name": "Simancas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVFhIHcvQg0ReBIFmxvokp0",
+    "query_used": "Metro Simancas"
+  },
+  "metro_136": {
+    "place_id": "ChIJMUtI7ZYvQg0R99j2u3C3fak",
+    "gmaps_name": "Las Musas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUtI7ZYvQg0R99j2u3C3fak",
+    "query_used": "Metro Las Musas"
+  },
+  "metro_137": {
+    "place_id": "ChIJSe1Lc5svQg0RfoYQNXiIMro",
+    "gmaps_name": "San Blas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSe1Lc5svQg0RfoYQNXiIMro",
+    "query_used": "Metro San Blas"
+  },
+  "metro_138": {
+    "place_id": "ChIJv2dK8D8vQg0Ro2HfO63SD2Q",
+    "gmaps_name": "Pueblo Nuevo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2dK8D8vQg0Ro2HfO63SD2Q",
+    "query_used": "Metro Pueblo Nuevo"
+  },
+  "metro_139": {
+    "place_id": "ChIJizn69cQuQg0RMeoBWIgCSiE",
+    "gmaps_name": "Pinar del Rey",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJizn69cQuQg0RMeoBWIgCSiE",
+    "query_used": "Metro Pinar del Rey"
+  },
+  "metro_140": {
+    "place_id": "ChIJi2jxIkcpQg0RIfqPgl3jDzU",
+    "gmaps_name": "Bambú",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2jxIkcpQg0RIfqPgl3jDzU",
+    "query_used": "Metro Bambú"
+  },
+  "metro_141": {
+    "place_id": "ChIJTUOhLf4lQg0RNSXX5_Ot934",
+    "gmaps_name": "Estrella",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUOhLf4lQg0RNSXX5_Ot934",
+    "query_used": "Metro Estrella"
+  },
+  "metro_142": {
+    "place_id": "ChIJi3W-5fklQg0RrvZzDm792Ec",
+    "gmaps_name": "Vinateros",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3W-5fklQg0RrvZzDm792Ec",
+    "query_used": "Metro Vinateros"
+  },
+  "metro_143": {
+    "place_id": "ChIJt0cTUo0lQg0RUZID34izK2o",
+    "gmaps_name": "Artilleros",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0cTUo0lQg0RUZID34izK2o",
+    "query_used": "Metro Artilleros"
+  },
+  "metro_144": {
+    "place_id": "ChIJy4gu56kpQg0RJlkPTL4LOOQ",
+    "gmaps_name": "Metro Avenida de América",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4gu56kpQg0RJlkPTL4LOOQ",
+    "query_used": "Metro Avenida de América"
+  },
+  "metro_145": {
+    "place_id": "ChIJAT2oVM8oQg0Ri3in1v9TZ_4",
+    "gmaps_name": "Cartagena",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAT2oVM8oQg0Ri3in1v9TZ_4",
+    "query_used": "Metro Cartagena"
+  },
+  "metro_146": {
+    "place_id": "ChIJ192QJbwpQg0RMFi7DV-VVPg",
+    "gmaps_name": "Antonio Machado",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ192QJbwpQg0RMFi7DV-VVPg",
+    "query_used": "Metro Antonio Machado"
+  },
+  "metro_147": {
+    "place_id": "ChIJi8Q4XLopQg0R9_cwhJKuxVE",
+    "gmaps_name": "Valdezarza",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8Q4XLopQg0R9_cwhJKuxVE",
+    "query_used": "Metro Valdezarza"
+  },
+  "metro_148": {
+    "place_id": "ChIJacohjmWIQQ0RVjO0Z-ych-c",
+    "gmaps_name": "Colonia Jardín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJacohjmWIQQ0RVjO0Z-ych-c",
+    "query_used": "Metro Colonia Jardín"
+  },
+  "metro_149": {
+    "place_id": "ChIJNYg3AL4nQg0R2IDwcAh-3N0",
+    "gmaps_name": "Opañel",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYg3AL4nQg0R2IDwcAh-3N0",
+    "query_used": "Metro Opañel"
+  },
+  "metro_150": {
+    "place_id": "ChIJL_Iwy3I8Qg0RR5HzZZb5lCQ",
+    "gmaps_name": "Rivas Vaciamadrid",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_Iwy3I8Qg0RR5HzZZb5lCQ",
+    "query_used": "Estación de Rivas Vaciamadrid"
+  },
+  "metro_151": {
+    "place_id": "ChIJ-ebM9fmJQQ0RaFU5JJTuSJk",
+    "gmaps_name": "Julián Besteiro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ebM9fmJQQ0RaFU5JJTuSJk",
+    "query_used": "Metro Julián Besteiro"
+  },
+  "metro_152": {
+    "place_id": "ChIJr-x9a8AgQg0Rmu6Bn84qsYE",
+    "gmaps_name": "Juan de La Cierva",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-x9a8AgQg0Rmu6Bn84qsYE",
+    "query_used": "Metro Juan de la Cierva"
+  },
+  "metro_153": {
+    "place_id": "ChIJ3XjlPJsgQg0R5If5ltjJW9w",
+    "gmaps_name": "Alonso de Mendoza",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XjlPJsgQg0R5If5ltjJW9w",
+    "query_used": "Metro Alonso de Mendoza"
+  },
+  "metro_154": {
+    "place_id": "ChIJ6X_ZnSOKQQ0R-u3KkS1MnMo",
+    "gmaps_name": "Hospital Severo Ochoa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6X_ZnSOKQQ0R-u3KkS1MnMo",
+    "query_used": "Metro Hospital Severo Ochoa"
+  },
+  "metro_155": {
+    "place_id": "ChIJiQ9PWeIsQg0RTU0qD8nLpmo",
+    "gmaps_name": "Reyes Católicos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ9PWeIsQg0RTU0qD8nLpmo",
+    "query_used": "Metro Reyes Católicos"
+  },
+  "metro_156": {
+    "place_id": "ChIJ37qK3pMsQg0Ruyxqp0u7CF8",
+    "gmaps_name": "Manuel de Falla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37qK3pMsQg0Ruyxqp0u7CF8",
+    "query_used": "Manuel de Falla metro Madrid"
+  },
+  "metro_157": {
+    "place_id": "ChIJBSYVGfQsQg0Rw-X2oGzfgkQ",
+    "gmaps_name": "Marqués de La Valdavia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSYVGfQsQg0Rw-X2oGzfgkQ",
+    "query_used": "Estación de Marqués de la Valdavia"
+  },
+  "metro_158": {
+    "place_id": "ChIJtXFbwCovQg0Rijrm5iyweF0",
+    "gmaps_name": "Avenida de La Paz",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXFbwCovQg0Rijrm5iyweF0",
+    "query_used": "Metro Avenida de la Paz",
+    "ambiguous": true
+  },
+  "metro_177": {
+    "place_id": "ChIJLdDI4eouQg0R7p6AonsTC2Y",
+    "gmaps_name": "San Lorenzo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdDI4eouQg0R7p6AonsTC2Y",
+    "query_used": "Metro San Lorenzo"
+  },
+  "metro_160": {
+    "place_id": "ChIJd9-YEr8uQg0RAT_8zJofkl0",
+    "gmaps_name": "Parque de Sta. María",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9-YEr8uQg0RAT_8zJofkl0",
+    "query_used": "Metro Parque de Santa María"
+  },
+  "metro_161": {
+    "place_id": "ChIJYRk1AsguQg0RuRl6lxvJer4",
+    "gmaps_name": "Hortaleza",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRk1AsguQg0RuRl6lxvJer4",
+    "query_used": "Metro Hortaleza"
+  },
+  "metro_162": {
+    "place_id": "ChIJHSBqz0opQg0Ree3cRU3nshQ",
+    "gmaps_name": "Manoteras",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSBqz0opQg0Ree3cRU3nshQ",
+    "query_used": "Metro Manoteras"
+  },
+  "metro_163": {
+    "place_id": "ChIJu5kWnmqIQQ0R96GGJU7QTZw",
+    "gmaps_name": "Empalme",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5kWnmqIQQ0R96GGJU7QTZw",
+    "query_used": "Metro Empalme"
+  },
+  "metro_182": {
+    "place_id": "ChIJr4IWmeonQg0Rte469_zN7Bk",
+    "gmaps_name": "Urgel",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4IWmeonQg0Rte469_zN7Bk",
+    "query_used": "Metro Urgel"
+  },
+  "metro_165": {
+    "place_id": "ChIJHzJoS8wvQg0RCDYvC6Y8EC8",
+    "gmaps_name": "El Capricho",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzJoS8wvQg0RCDYvC6Y8EC8",
+    "query_used": "Metro El Capricho"
+  },
+  "metro_166": {
+    "place_id": "ChIJ82DrtywuQg0RzwS3jb5qcjI",
+    "gmaps_name": "Alameda de Osuna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82DrtywuQg0RzwS3jb5qcjI",
+    "query_used": "Estación de Alameda de Osuna"
+  },
+  "metro_167": {
+    "place_id": "ChIJ34ftyh8qQg0RlcMNFs6vMlE",
+    "gmaps_name": "Estación de Pitis",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34ftyh8qQg0RlcMNFs6vMlE",
+    "query_used": "Estación de Pitis"
+  },
+  "metro_168": {
+    "place_id": "ChIJx-ihVPQpQg0R6B9l8lSQ4aY",
+    "gmaps_name": "Arroyofresno",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-ihVPQpQg0R6B9l8lSQ4aY",
+    "query_used": "Estación de Arroyofresno"
+  },
+  "metro_169": {
+    "place_id": "ChIJ3UuHNI0pQg0RWyo8G1wBBi0",
+    "gmaps_name": "Lacoma",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3UuHNI0pQg0RWyo8G1wBBi0",
+    "query_used": "Estación de Lacoma"
+  },
+  "metro_188": {
+    "place_id": "ChIJb1yt3pMpQg0RUtliRINx6MY",
+    "gmaps_name": "Avenida de la Ilustración",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1yt3pMpQg0RUtliRINx6MY",
+    "query_used": "Metro Avenida de la Ilustración"
+  },
+  "metro_171": {
+    "place_id": "ChIJ4yy2VZYpQg0Rr_U6Hj6Gr64",
+    "gmaps_name": "Peñagrande",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yy2VZYpQg0Rr_U6Hj6Gr64",
+    "query_used": "Metro Peñagrande"
+  },
+  "metro_172": {
+    "place_id": "ChIJpf8qWMsoQg0R_VK56I29TzY",
+    "gmaps_name": "Parque de Las Avenidas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpf8qWMsoQg0R_VK56I29TzY",
+    "query_used": "Metro Parque de las Avenidas"
+  },
+  "metro_173": {
+    "place_id": "ChIJhxux4zkvQg0RYH1tCb6EHoA",
+    "gmaps_name": "Barrio de la Concepción",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxux4zkvQg0RYH1tCb6EHoA",
+    "query_used": "Metro Barrio de la Concepción"
+  },
+  "metro_174": {
+    "place_id": "ChIJ4XVtHmovQg0RjxjghBc6obo",
+    "gmaps_name": "Ascao",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XVtHmovQg0RjxjghBc6obo",
+    "query_used": "Metro Ascao"
+  },
+  "metro_175": {
+    "place_id": "ChIJZ5AJLg8wQg0RYxqDCzChLuw",
+    "gmaps_name": "Barrio del Puerto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5AJLg8wQg0RYxqDCzChLuw",
+    "query_used": "Metro Barrio del Puerto"
+  },
+  "metro_176": {
+    "place_id": "ChIJ96GbS94xQg0R-44YicFdcQ4",
+    "gmaps_name": "Coslada Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96GbS94xQg0R-44YicFdcQ4",
+    "query_used": "Metro Coslada Central"
+  },
+  "metro_195": {
+    "place_id": "ChIJ8VMZqXswQg0RBCfQynIBspU",
+    "gmaps_name": "La Rambla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VMZqXswQg0RBCfQynIBspU",
+    "query_used": "Metro La Rambla"
+  },
+  "metro_178": {
+    "place_id": "ChIJp5S0GIQwQg0R52Qge9Mt_9U",
+    "gmaps_name": "San Fernando",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5S0GIQwQg0R52Qge9Mt_9U",
+    "query_used": "Metro San Fernando"
+  },
+  "metro_179": {
+    "place_id": "ChIJFz5mqJ4wQg0R5jsd6XDAAdA",
+    "gmaps_name": "Jarama",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFz5mqJ4wQg0R5jsd6XDAAdA",
+    "query_used": "Metro Jarama"
+  },
+  "metro_180": {
+    "place_id": "ChIJp7dQI3Y6Qg0RCOLxg5-YXOc",
+    "gmaps_name": "Henares",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7dQI3Y6Qg0RCOLxg5-YXOc",
+    "query_used": "Estación de Henares"
+  },
+  "metro_181": {
+    "place_id": "ChIJ7_WTong6Qg0Ry9Bgc_hZfOo",
+    "gmaps_name": "Hospital del Henares",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_WTong6Qg0Ry9Bgc_hZfOo",
+    "query_used": "Estación de Hospital del Henares"
+  },
+  "metro_243": {
+    "place_id": "ChIJc4mDHd0lQg0R3_qO05xk5ZI",
+    "gmaps_name": "Buenos Aires",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4mDHd0lQg0R3_qO05xk5ZI",
+    "query_used": "Metro Buenos Aires"
+  },
+  "metro_159": {
+    "place_id": "ChIJTzcoMMElQg0RqeJBdcjCKLw",
+    "gmaps_name": "Alto del Arenal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzcoMMElQg0RqeJBdcjCKLw",
+    "query_used": "Alto del Arenal metro Madrid"
+  },
+  "metro_244": {
+    "place_id": "ChIJh2N2ArklQg0RoQ_d9JDcCiM",
+    "gmaps_name": "Miguel Hernández",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2N2ArklQg0RoQ_d9JDcCiM",
+    "query_used": "Estación de Miguel Hernández"
+  },
+  "metro_245": {
+    "place_id": "ChIJbyBHAqklQg0RO5h2pOkVr1U",
+    "gmaps_name": "Sierra de Guadalupe",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyBHAqklQg0RO5h2pOkVr1U",
+    "query_used": "Metro Sierra de Guadalupe"
+  },
+  "metro_246": {
+    "place_id": "ChIJ_zq1rQAlQg0R8gCWQZInKBo",
+    "gmaps_name": "Villa de Vallecas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zq1rQAlQg0R8gCWQZInKBo",
+    "query_used": "Metro Villa de Vallecas"
+  },
+  "metro_247": {
+    "place_id": "ChIJScxCVv4kQg0RADyNoYd7s0I",
+    "gmaps_name": "Congosto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJScxCVv4kQg0RADyNoYd7s0I",
+    "query_used": "Metro Congosto"
+  },
+  "metro_164": {
+    "place_id": "ChIJD6ukRPskQg0RzXV5ZBoEs1U",
+    "gmaps_name": "La Gavia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6ukRPskQg0RzXV5ZBoEs1U",
+    "query_used": "Metro La Gavia"
+  },
+  "metro_248": {
+    "place_id": "ChIJKW0Cd8YkQg0RkfLnDG_Dk-8",
+    "gmaps_name": "Valdecarros",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW0Cd8YkQg0RkfLnDG_Dk-8",
+    "query_used": "Estación de Valdecarros"
+  },
+  "metro_249": {
+    "place_id": "ChIJNSlz_IwvQg0Rj1QdDhUZs-8",
+    "gmaps_name": "Metro Las Rosas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSlz_IwvQg0Rj1QdDhUZs-8",
+    "query_used": "Metro Las Rosas"
+  },
+  "metro_250": {
+    "place_id": "ChIJcVYjjIUvQg0Ru0zfl0MrrQ4",
+    "gmaps_name": "Avenida de Guadalajara",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVYjjIUvQg0Ru0zfl0MrrQ4",
+    "query_used": "Metro Avenida de Guadalajara"
+  },
+  "metro_251": {
+    "place_id": "ChIJJ-LWDn8vQg0R16VMSFKQSU4",
+    "gmaps_name": "Alsacia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-LWDn8vQg0R16VMSFKQSU4",
+    "query_used": "Metro Alsacia"
+  },
+  "metro_252": {
+    "place_id": "ChIJRexxSWYvQg0RQRwUr1p6xIU",
+    "gmaps_name": "La Almudena",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRexxSWYvQg0RQRwUr1p6xIU",
+    "query_used": "Metro La Almudena"
+  },
+  "metro_170": {
+    "place_id": "ChIJ3afgEUUvQg0RX-YYyYu16II",
+    "gmaps_name": "La Elipa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3afgEUUvQg0RX-YYyYu16II",
+    "query_used": "Metro La Elipa"
+  },
+  "metro_253": {
+    "place_id": "ChIJyzDiSvgmQg0Rb5GkFblxLcw",
+    "gmaps_name": "San Fermín-Orcasur",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzDiSvgmQg0Rb5GkFblxLcw",
+    "query_used": "Metro San Fermín-Orcasur"
+  },
+  "metro_254": {
+    "place_id": "ChIJw_TJneUmQg0R_3GR09EpJOc",
+    "gmaps_name": "Ciudad de los Angeles",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_TJneUmQg0R_3GR09EpJOc",
+    "query_used": "Metro Ciudad de los Ángeles",
+    "ambiguous": true
+  },
+  "metro_255": {
+    "place_id": "ChIJh4VutcImQg0RQXffwqdqvAY",
+    "gmaps_name": "Villaverde Bajo-Cruce",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4VutcImQg0RQXffwqdqvAY",
+    "query_used": "Metro Villaverde Bajo-Cruce"
+  },
+  "metro_256": {
+    "place_id": "ChIJV5pHAdAmQg0RDngAqjJn6d8",
+    "gmaps_name": "Metro San Cristóbal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5pHAdAmQg0RDngAqjJn6d8",
+    "query_used": "Metro San Cristóbal"
+  },
+  "metro_257": {
+    "place_id": "ChIJ99N09S8nQg0R7IV_ggFFt4M",
+    "gmaps_name": "Villaverde Alto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99N09S8nQg0R7IV_ggFFt4M",
+    "query_used": "Metro Villaverde Alto"
+  },
+  "metro_200": {
+    "place_id": "ChIJ0RqVaMUxQg0RzmEGI0b6uFs",
+    "gmaps_name": "Aeropuerto T1-T2-T3",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RqVaMUxQg0RzmEGI0b6uFs",
+    "query_used": "Metro Aeropuerto T1-T2-T3"
+  },
+  "metro_201": {
+    "place_id": "ChIJrSH10gguQg0RwH8ispgXMmw",
+    "gmaps_name": "Estación de Aeropuerto T4",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSH10gguQg0RwH8ispgXMmw",
+    "query_used": "Estación de Aeropuerto T4"
+  },
+  "metro_202": {
+    "place_id": "ChIJLzzLYQ87Qg0RX9YbWv9BgQc",
+    "gmaps_name": "Rivas Urbanizaciones",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzzLYQ87Qg0RX9YbWv9BgQc",
+    "query_used": "Metro Rivas-Urbanizaciones"
+  },
+  "metro_203": {
+    "place_id": "ChIJz3M37os7Qg0RfRuBdYDokWU",
+    "gmaps_name": "Rivas Futura",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz3M37os7Qg0RfRuBdYDokWU",
+    "query_used": "Metro Rivas Futura"
+  },
+  "metro_205": {
+    "place_id": "ChIJkVqqCz-JQQ0RtFxFj3HJIPk",
+    "gmaps_name": "Joaquín Vilumbrales",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVqqCz-JQQ0RtFxFj3HJIPk",
+    "query_used": "Metro Joaquín Vilumbrales",
+    "ambiguous": true
+  },
+  "metro_206": {
+    "place_id": "ChIJ0WiZWfqIQQ0R_69vfZNhrNg",
+    "gmaps_name": "Cuatro Vientos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WiZWfqIQQ0R_69vfZNhrNg",
+    "query_used": "Metro Cuatro Vientos"
+  },
+  "metro_207": {
+    "place_id": "ChIJV06-oViIQQ0RY8O_RMApMCU",
+    "gmaps_name": "Aviación Española",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV06-oViIQQ0RY8O_RMApMCU",
+    "query_used": "Metro Aviación Española"
+  },
+  "metro_208": {
+    "place_id": "ChIJuWteRW8pQg0RIO3T4BOj5zk",
+    "gmaps_name": "Metro Begoña",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWteRW8pQg0RIO3T4BOj5zk",
+    "query_used": "Metro Begoña"
+  },
+  "metro_209": {
+    "place_id": "ChIJDfJmcucrQg0R8KLXiVY0IYs",
+    "gmaps_name": "Estación de Fuencarral",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfJmcucrQg0R8KLXiVY0IYs",
+    "query_used": "Estación de Fuencarral"
+  },
+  "metro_210": {
+    "place_id": "ChIJK5l9UfUrQg0RvCi4thJSoz4",
+    "gmaps_name": "Ronda de la Comunicación",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5l9UfUrQg0RvCi4thJSoz4",
+    "query_used": "Metro Ronda de la Comunicación"
+  },
+  "metro_211": {
+    "place_id": "ChIJubWJlnksQg0RWP9rcqogQ0s",
+    "gmaps_name": "Granja-Est.La Granja",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJubWJlnksQg0RWP9rcqogQ0s",
+    "query_used": "Estación de La Granja"
+  },
+  "metro_212": {
+    "place_id": "ChIJaWeA31ssQg0RITg1sTs7_co",
+    "gmaps_name": "La Moraleja",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWeA31ssQg0RITg1sTs7_co",
+    "query_used": "Metro La Moraleja"
+  },
+  "metro_213": {
+    "place_id": "ChIJW4W8BeksQg0R73vzwtH5Kx8",
+    "gmaps_name": "Metro Baunatal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4W8BeksQg0R73vzwtH5Kx8",
+    "query_used": "Metro Baunatal",
+    "ambiguous": true
+  },
+  "metro_214": {
+    "place_id": "ChIJr3aYMz0tQg0RvmQ0pH-KqjM",
+    "gmaps_name": "Hospital Infanta Sofía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3aYMz0tQg0RvmQ0pH-KqjM",
+    "query_used": "Metro Hospital Infanta Sofía"
+  },
+  "metro_215": {
+    "place_id": "ChIJ3-FSx6WJQQ0Rkff0ZWfDijY",
+    "gmaps_name": "La Fortuna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-FSx6WJQQ0Rkff0ZWfDijY",
+    "query_used": "Estación de La Fortuna"
+  },
+  "metro_216": {
+    "place_id": "ChIJSyhiks6JQQ0Rl8HBqKsm_Ic",
+    "gmaps_name": "La Peseta",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyhiks6JQQ0Rl8HBqKsm_Ic",
+    "query_used": "Metro La Peseta"
+  },
+  "metro_217": {
+    "place_id": "ChIJfYCtFy2IQQ0RIqKDgk7BzNg",
+    "gmaps_name": "Carabanchel Alto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYCtFy2IQQ0RIqKDgk7BzNg",
+    "query_used": "Metro Carabanchel Alto"
+  },
+  "metro_218": {
+    "place_id": "ChIJ6ZTxd4EnQg0RVZ6pcGfB4P4",
+    "gmaps_name": "San Francisco",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZTxd4EnQg0RVZ6pcGfB4P4",
+    "query_used": "Estación de San Francisco"
+  },
+  "metro_219": {
+    "place_id": "ChIJAdzLW4MnQg0RFfHZsaJf0-o",
+    "gmaps_name": "Pan Bendito",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdzLW4MnQg0RFfHZsaJf0-o",
+    "query_used": "Metro Pan Bendito"
+  },
+  "metro_220": {
+    "place_id": "ChIJdeq48JknQg0RMjHy5YTxsKM",
+    "gmaps_name": "Abrantes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeq48JknQg0RMjHy5YTxsKM",
+    "query_used": "Metro Abrantes"
+  },
+  "metro_221": {
+    "place_id": "ChIJleUGuTWJQQ0Ru4W57ZH6sGg",
+    "gmaps_name": "Parque Lisboa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJleUGuTWJQQ0Ru4W57ZH6sGg",
+    "query_used": "Metro Parque Lisboa"
+  },
+  "metro_222": {
+    "place_id": "ChIJB5GUp8mOQQ0RAZ9Miuj087k",
+    "gmaps_name": "Alcorcon Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5GUp8mOQQ0RAZ9Miuj087k",
+    "query_used": "Estación de Alcorcón Central"
+  },
+  "metro_223": {
+    "place_id": "ChIJYSDTvZSOQQ0Rri3LuL-djZ0",
+    "gmaps_name": "Parque Oeste",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSDTvZSOQQ0Rri3LuL-djZ0",
+    "query_used": "Metro Parque Oeste"
+  },
+  "metro_224": {
+    "place_id": "ChIJFbNTOXuOQQ0R4wMG8MGo_QA",
+    "gmaps_name": "Universidad Rey Juan Carlos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbNTOXuOQQ0R4wMG8MGo_QA",
+    "query_used": "Metro Universidad Rey Juan Carlos"
+  },
+  "metro_225": {
+    "place_id": "ChIJmdoSV4COQQ0RU2E-0IzehSA",
+    "gmaps_name": "Móstoles Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdoSV4COQQ0RU2E-0IzehSA",
+    "query_used": "Móstoles Central metro Madrid"
+  },
+  "metro_226": {
+    "place_id": "ChIJ92pWRSuMQQ0RpQ46MuZ6I9U",
+    "gmaps_name": "Pradillo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92pWRSuMQQ0RpQ46MuZ6I9U",
+    "query_used": "Metro Pradillo"
+  },
+  "metro_227": {
+    "place_id": "ChIJlcmlFtCNQQ0RB4llcSkxLtk",
+    "gmaps_name": "Hospital de Móstoles",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcmlFtCNQQ0RB4llcSkxLtk",
+    "query_used": "Metro Hospital de Móstoles"
+  },
+  "metro_228": {
+    "place_id": "ChIJmT7ZeG-MQQ0Rn0r0G0mcVJU",
+    "gmaps_name": "Loranca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT7ZeG-MQQ0Rn0r0G0mcVJU",
+    "query_used": "Metro Loranca"
+  },
+  "metro_229": {
+    "place_id": "ChIJR3lJaHiLQQ0RURkrYGQ5awk",
+    "gmaps_name": "Hospital de Fuenlabrada",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3lJaHiLQQ0RURkrYGQ5awk",
+    "query_used": "Metro Hospital de Fuenlabrada"
+  },
+  "metro_230": {
+    "place_id": "ChIJ-9EjG3WLQQ0RRlNnKHDs0Yo",
+    "gmaps_name": "Parque Europa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9EjG3WLQQ0RRlNnKHDs0Yo",
+    "query_used": "Metro Parque Europa"
+  },
+  "metro_231": {
+    "place_id": "ChIJoQri4guLQQ0RrA6iH3Ab0rg",
+    "gmaps_name": "Estación de Fuenlabrada Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQri4guLQQ0RrA6iH3Ab0rg",
+    "query_used": "Estación de Fuenlabrada Central"
+  },
+  "metro_232": {
+    "place_id": "ChIJA1uOiwCLQQ0RLi4W5J4CLs0",
+    "gmaps_name": "Parque de los Estados",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1uOiwCLQQ0RLi4W5J4CLs0",
+    "query_used": "Metro Parque de los Estados"
+  },
+  "metro_233": {
+    "place_id": "ChIJs1KB14mKQQ0RSXBYknDPfe8",
+    "gmaps_name": "Arroyo Culebro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1KB14mKQQ0RSXBYknDPfe8",
+    "query_used": "Metro Arroyo Culebro"
+  },
+  "metro_234": {
+    "place_id": "ChIJIRF6IX-KQQ0R0zdaIZNeteI",
+    "gmaps_name": "Conservatorio",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRF6IX-KQQ0R0zdaIZNeteI",
+    "query_used": "Metro Conservatorio"
+  },
+  "metro_235": {
+    "place_id": "ChIJr88SqKIgQg0RGj23cS1Kmms",
+    "gmaps_name": "Getafe Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr88SqKIgQg0RGj23cS1Kmms",
+    "query_used": "Metro Getafe Central"
+  },
+  "metro_236": {
+    "place_id": "ChIJO00xCgAhQg0RHTlvLbXZeEc",
+    "gmaps_name": "Estación de Metro El Casar",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO00xCgAhQg0RHTlvLbXZeEc",
+    "query_used": "Metro El Casar"
+  },
+  "metro_237": {
+    "place_id": "ChIJFXOgNMkgQg0RA3wVzMKhjwE",
+    "gmaps_name": "Los Espartales",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXOgNMkgQg0RA3wVzMKhjwE",
+    "query_used": "Metro Los Espartales"
+  },
+  "metro_238": {
+    "place_id": "ChIJw9fnFLMgQg0RH9JwgzRTj9A",
+    "gmaps_name": "El Bercial",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9fnFLMgQg0RH9JwgzRTj9A",
+    "query_used": "Metro El Bercial"
+  },
+  "metro_239": {
+    "place_id": "ChIJRbQg7VYnQg0Rpy9aaL5FssA",
+    "gmaps_name": "El Carrascal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbQg7VYnQg0Rpy9aaL5FssA",
+    "query_used": "Metro El Carrascal"
+  },
+  "metro_240": {
+    "place_id": "ChIJm-1vjx6KQQ0RnQHGDP8RC2M",
+    "gmaps_name": "Casa del Reloj",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-1vjx6KQQ0RnQHGDP8RC2M",
+    "query_used": "Metro Casa del Reloj"
+  },
+  "metro_241": {
+    "place_id": "ChIJF-jagSeKQQ0RuymcxlyPSNs",
+    "gmaps_name": "Leganés Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-jagSeKQQ0RuymcxlyPSNs",
+    "query_used": "Metro Leganés Central"
+  },
+  "metro_242": {
+    "place_id": "ChIJ0w1kpYWJQQ0Rxzl9M70ba2s",
+    "gmaps_name": "San Nicasio",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0w1kpYWJQQ0Rxzl9M70ba2s",
+    "query_used": "Metro San Nicasio"
+  },
+  "cercanias_001": {
+    "place_id": "ChIJlWJNnZooQg0RFRoyrFNHp6Y",
+    "gmaps_name": "Recoletos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWJNnZooQg0RFRoyrFNHp6Y",
+    "query_used": "Cercanías Recoletos"
+  },
+  "cercanias_002": {
+    "place_id": "ChIJf-YYGX4oQg0RRvnJ0KBzhDM",
+    "gmaps_name": "Sol",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-YYGX4oQg0RRvnJ0KBzhDM",
+    "query_used": "Cercanías Sol",
+    "ambiguous": true
+  },
+  "cercanias_003": {
+    "place_id": "ChIJF9jNRSQmQg0RWwNljcL5Rzk",
+    "gmaps_name": "Estación Madrid - Puerta de Atocha",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9jNRSQmQg0RWwNljcL5Rzk",
+    "query_used": "Cercanías Atocha"
+  },
+  "cercanias_004": {
+    "place_id": "ChIJwdHqfxUpQg0RVpK7cgUW6yk",
+    "gmaps_name": "Chamartín-Clara Campoamor",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdHqfxUpQg0RVpK7cgUW6yk",
+    "query_used": "Estación de Cercanías Chamartín-Clara Campoamor"
+  },
+  "cercanias_005": {
+    "place_id": "ChIJZ_CdPuUoQg0RzHbOEuQj6SA",
+    "gmaps_name": "Nuevos Ministerios - Cercanías",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_CdPuUoQg0RzHbOEuQj6SA",
+    "query_used": "Cercanías Nuevos Ministerios"
+  },
+  "cercanias_006": {
+    "place_id": "ChIJ_RDaRE0pQg0RMVyzc4rP1EI",
+    "gmaps_name": "Fuente de la Mora",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RDaRE0pQg0RMVyzc4rP1EI",
+    "query_used": "Cercanías Fuente de la Mora"
+  },
+  "cercanias_007": {
+    "place_id": "ChIJiRU8JA8uQg0R23wUDGLmoeo",
+    "gmaps_name": "Aeropuerto T4",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRU8JA8uQg0R23wUDGLmoeo",
+    "query_used": "Cercanías Aeropuerto T4"
+  },
+  "cercanias_008": {
+    "place_id": "ChIJn_Hd820oQg0RgOhjR0WLNbk",
+    "gmaps_name": "Príncipe Pío",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_Hd820oQg0RgOhjR0WLNbk",
+    "query_used": "Cercanías Príncipe Pío"
+  },
+  "cercanias_009": {
+    "place_id": "ChIJcQe_Y1InQg0RBhU1q2zPKB4",
+    "gmaps_name": "Méndez Álvaro Renfe",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQe_Y1InQg0RBhU1q2zPKB4",
+    "query_used": "Cercanías Méndez Álvaro",
+    "ambiguous": true
+  },
+  "cercanias_010": {
+    "place_id": "ChIJhz0mgDAmQg0ROg1Hq25ND00",
+    "gmaps_name": "Delicias",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhz0mgDAmQg0ROg1Hq25ND00",
+    "query_used": "Cercanías Delicias"
+  },
+  "cercanias_011": {
+    "place_id": "ChIJD3LgJtAnQg0REkusFhF3_Ew",
+    "gmaps_name": "Pirámides",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3LgJtAnQg0REkusFhF3_Ew",
+    "query_used": "Cercanías Pirámides"
+  },
+  "cercanias_012": {
+    "place_id": "ChIJ6eQxKi0mQg0RpzPMa8LPjJc",
+    "gmaps_name": "Embajadores",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eQxKi0mQg0RpzPMa8LPjJc",
+    "query_used": "Cercanías Embajadores"
+  },
+  "cercanias_013": {
+    "place_id": "ChIJJ8F4w1MmQg0RYB6Xo_E11DE",
+    "gmaps_name": "Doce de Octubre",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8F4w1MmQg0RYB6Xo_E11DE",
+    "query_used": "Cercanías Doce de Octubre"
+  },
+  "cercanias_014": {
+    "place_id": "ChIJUx3DIAInQg0R260M78Pqg1U",
+    "gmaps_name": "Orcasitas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJUx3DIAInQg0R260M78Pqg1U",
+    "query_used": "Cercanías Orcasitas"
+  },
+  "cercanias_015": {
+    "place_id": "ChIJuaEySiAnQg0Rrvvyixgp41k",
+    "gmaps_name": "Puente Alcocer",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuaEySiAnQg0Rrvvyixgp41k",
+    "query_used": "Cercanías Puente Alcocer"
+  },
+  "cercanias_016": {
+    "place_id": "ChIJbZ2H4McmQg0RYWW09YmgN94",
+    "gmaps_name": "San Cristóbal de los Ángeles",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ2H4McmQg0RYWW09YmgN94",
+    "query_used": "Cercanías San Cristóbal de los Ángeles"
+  },
+  "cercanias_017": {
+    "place_id": "ChIJNXVEsdQmQg0RDh4k2OgMMTo",
+    "gmaps_name": "San Cristóbal Industrial",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXVEsdQmQg0RDh4k2OgMMTo",
+    "query_used": "Cercanías San Cristóbal Industrial"
+  },
+  "cercanias_018": {
+    "place_id": "ChIJFcOv_uMgQg0RyEfGaIfWENE",
+    "gmaps_name": "Getafe Industrial",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcOv_uMgQg0RyEfGaIfWENE",
+    "query_used": "Cercanías Getafe Industrial"
+  },
+  "cercanias_019": {
+    "place_id": "ChIJr88SqKIgQg0RGj23cS1Kmms",
+    "gmaps_name": "Getafe Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJr88SqKIgQg0RGj23cS1Kmms",
+    "query_used": "Estación de Cercanías Getafe Centro"
+  },
+  "cercanias_020": {
+    "place_id": "ChIJVcl46n0gQg0RLKWf47qokJI",
+    "gmaps_name": "Getafe Sector 3",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcl46n0gQg0RLKWf47qokJI",
+    "query_used": "Cercanías Getafe Sector 3"
+  },
+  "cercanias_021": {
+    "place_id": "ChIJQau52LYgQg0RJuHfW7yktt8",
+    "gmaps_name": "Las Margaritas-Universidad",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQau52LYgQg0RJuHfW7yktt8",
+    "query_used": "Cercanías Las Margaritas Universidad"
+  },
+  "cercanias_022": {
+    "place_id": "ChIJ1S9OTdogQg0RzPYeKAzSULc",
+    "gmaps_name": "El Casar",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1S9OTdogQg0RzPYeKAzSULc",
+    "query_used": "Cercanías El Casar"
+  },
+  "cercanias_023": {
+    "place_id": "ChIJXcE0HYIfQg0RPq_FpzrjaSk",
+    "gmaps_name": "Estación de Cercanías de Pinto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcE0HYIfQg0RPq_FpzrjaSk",
+    "query_used": "Cercanías Pinto"
+  },
+  "cercanias_024": {
+    "place_id": "ChIJd-yXisweQg0RpfrJ8RPdkgw",
+    "gmaps_name": "Valdemoro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJd-yXisweQg0RpfrJ8RPdkgw",
+    "query_used": "Cercanías Valdemoro"
+  },
+  "cercanias_025": {
+    "place_id": "ChIJufmF7joaQg0RWhezfaRjO3g",
+    "gmaps_name": "Ciempozuelos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJufmF7joaQg0RWhezfaRjO3g",
+    "query_used": "Estación de Cercanías Ciempozuelos"
+  },
+  "cercanias_026": {
+    "place_id": "ChIJaVRSsbMFQg0ReZIac8V9SEI",
+    "gmaps_name": "Aranjuez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVRSsbMFQg0ReZIac8V9SEI",
+    "query_used": "Cercanías Aranjuez"
+  },
+  "cercanias_027": {
+    "place_id": "ChIJV5nQ_DP1QQ0Rvnw6thhNV50",
+    "gmaps_name": "Parla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5nQ_DP1QQ0Rvnw6thhNV50",
+    "query_used": "Cercanías Parla"
+  },
+  "cercanias_028": {
+    "place_id": "ChIJEURaYecrQg0Ry2e_FJHaXik",
+    "gmaps_name": "Fuencarral",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEURaYecrQg0Ry2e_FJHaXik",
+    "query_used": "Cercanías Fuencarral"
+  },
+  "cercanias_029": {
+    "place_id": "ChIJ337eHwMrQg0RbezeFRLxs70",
+    "gmaps_name": "Cantoblanco Universidad",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ337eHwMrQg0RbezeFRLxs70",
+    "query_used": "Cercanías Cantoblanco Universidad"
+  },
+  "cercanias_030": {
+    "place_id": "ChIJi6VHNQAtQg0RZOeCg1n-ibI",
+    "gmaps_name": "Estación cercanías Alcobendas - San Sebastián de los Reyes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6VHNQAtQg0RZOeCg1n-ibI",
+    "query_used": "Alcobendas-San Sebastián de los Reyes cercanías Madrid"
+  },
+  "cercanias_031": {
+    "place_id": "ChIJs1k-P8MqQg0RT6bhya1oGag",
+    "gmaps_name": "El Goloso",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1k-P8MqQg0RT6bhya1oGag",
+    "query_used": "Cercanías El Goloso"
+  },
+  "cercanias_032": {
+    "place_id": "ChIJ4Ylp23p-QQ0R3Dici_04giA",
+    "gmaps_name": "Colmenar Viejo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ylp23p-QQ0R3Dici_04giA",
+    "query_used": "Cercanías Colmenar Viejo"
+  },
+  "cercanias_033": {
+    "place_id": "ChIJO2EuJXomQg0RNrajmkhsmns",
+    "gmaps_name": "Asamblea de Madrid-Entrevías",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2EuJXomQg0RNrajmkhsmns",
+    "query_used": "Cercanías Asamblea de Madrid-Entrevías"
+  },
+  "cercanias_034": {
+    "place_id": "ChIJ7TYNdNMlQg0RRJQQ1wBV-V8",
+    "gmaps_name": "El Pozo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TYNdNMlQg0RRJQQ1wBV-V8",
+    "query_used": "Cercanías El Pozo"
+  },
+  "cercanias_035": {
+    "place_id": "ChIJU0889hAlQg0RGmqYmgfEGq4",
+    "gmaps_name": "Santa Eugenia",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0889hAlQg0RGmqYmgfEGq4",
+    "query_used": "Estación de Cercanías Santa Eugenia"
+  },
+  "cercanias_036": {
+    "place_id": "ChIJ812QygwwQg0R6ItYWyY-Kj4",
+    "gmaps_name": "Coslada Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ812QygwwQg0R6ItYWyY-Kj4",
+    "query_used": "Cercanías Coslada"
+  },
+  "cercanias_037": {
+    "place_id": "ChIJB1H-xfMwQg0RZewT9r6_A84",
+    "gmaps_name": "San Fernando",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1H-xfMwQg0RZewT9r6_A84",
+    "query_used": "Cercanías San Fernando"
+  },
+  "cercanias_038": {
+    "place_id": "ChIJ_6Lbrxg3Qg0RpMFr5i3bXzc",
+    "gmaps_name": "Torrejón de Ardoz",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_6Lbrxg3Qg0RpMFr5i3bXzc",
+    "query_used": "Cercanías Torrejón de Ardoz"
+  },
+  "cercanias_039": {
+    "place_id": "ChIJcZHQ7Uo2Qg0RiHAeGSko0qI",
+    "gmaps_name": "Soto del Henares",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZHQ7Uo2Qg0RiHAeGSko0qI",
+    "query_used": "Cercanías Soto del Henares"
+  },
+  "cercanias_040": {
+    "place_id": "ChIJlwZGNrxJQg0RoASdnhPVEA0",
+    "gmaps_name": "La Garena",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwZGNrxJQg0RoASdnhPVEA0",
+    "query_used": "Cercanías La Garena"
+  },
+  "cercanias_041": {
+    "place_id": "ChIJfVroK2xJQg0RDh30lwqC63g",
+    "gmaps_name": "Alcalá de Henares",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVroK2xJQg0RDh30lwqC63g",
+    "query_used": "Cercanías Alcalá de Henares"
+  },
+  "cercanias_042": {
+    "place_id": "ChIJmRnedapOQg0RIJ0oyEWSZVU",
+    "gmaps_name": "Alcalá de Henares-Universidad",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmRnedapOQg0RIJ0oyEWSZVU",
+    "query_used": "Cercanías Alcalá de Henares Universidad"
+  },
+  "cercanias_043": {
+    "place_id": "ChIJfzclK01MQg0R-yBKRzBotcg",
+    "gmaps_name": "Meco",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzclK01MQg0R-yBKRzBotcg",
+    "query_used": "Cercanías Meco",
+    "ambiguous": true
+  },
+  "cercanias_044": {
+    "place_id": "ChIJ1VH9rGVNQg0Re7zzY53L3XM",
+    "gmaps_name": "Estación Renfe Cercanías Azuqueca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VH9rGVNQg0Re7zzY53L3XM",
+    "query_used": "Cercanías Azuqueca"
+  },
+  "cercanias_045": {
+    "place_id": "ChIJkXuGKHesQw0R2PcUU9ZT5Is",
+    "gmaps_name": "Guadalajara",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXuGKHesQw0R2PcUU9ZT5Is",
+    "query_used": "Cercanías Guadalajara",
+    "ambiguous": true
+  },
+  "cercanias_046": {
+    "place_id": "ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "gmaps_name": "Aluche",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "query_used": "Cercanías Aluche"
+  },
+  "cercanias_047": {
+    "place_id": "ChIJz0fzm0aIQQ0R64vX3ST0BlU",
+    "gmaps_name": "Maestra Justa Freire-Polideportivo Aluche",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0fzm0aIQQ0R64vX3ST0BlU",
+    "query_used": "Cercanías Maestra Justa Freire-Polideportivo Aluche"
+  },
+  "cercanias_048": {
+    "place_id": "ChIJ0QtBlVmIQQ0REM_3Z1st4lw",
+    "gmaps_name": "Las Águilas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QtBlVmIQQ0REM_3Z1st4lw",
+    "query_used": "Estación de Cercanías Las Águilas"
+  },
+  "cercanias_049": {
+    "place_id": "ChIJ0WiZWfqIQQ0R_69vfZNhrNg",
+    "gmaps_name": "Cuatro Vientos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WiZWfqIQQ0R_69vfZNhrNg",
+    "query_used": "Cercanías Cuatro Vientos",
+    "ambiguous": true
+  },
+  "cercanias_050": {
+    "place_id": "ChIJ2Rq2cB2IQQ0RuoWf41dcqRU",
+    "gmaps_name": "Laguna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Rq2cB2IQQ0RuoWf41dcqRU",
+    "query_used": "Cercanías Laguna"
+  },
+  "cercanias_051": {
+    "place_id": "ChIJB5GUp8mOQQ0RAZ9Miuj087k",
+    "gmaps_name": "Alcorcon Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5GUp8mOQQ0RAZ9Miuj087k",
+    "query_used": "Cercanías Alcorcón"
+  },
+  "cercanias_052": {
+    "place_id": "ChIJ3R8uaDCJQQ0RgrfnkoZ0EvE",
+    "gmaps_name": "San José de Valderas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3R8uaDCJQQ0RgrfnkoZ0EvE",
+    "query_used": "Cercanías San José de Valderas"
+  },
+  "cercanias_053": {
+    "place_id": "ChIJKyqXK7yOQQ0RPGqcQYH6jj4",
+    "gmaps_name": "Las Retamas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyqXK7yOQQ0RPGqcQYH6jj4",
+    "query_used": "Cercanías Las Retamas"
+  },
+  "cercanias_054": {
+    "place_id": "ChIJHaPui3OOQQ0RbjmDYyzUDrM",
+    "gmaps_name": "Móstoles-El Soto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaPui3OOQQ0RbjmDYyzUDrM",
+    "query_used": "Cercanías Móstoles"
+  },
+  "cercanias_055": {
+    "place_id": "ChIJHaPui3OOQQ0RbjmDYyzUDrM",
+    "gmaps_name": "Móstoles-El Soto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaPui3OOQQ0RbjmDYyzUDrM",
+    "query_used": "Cercanías Móstoles-El Soto"
+  },
+  "cercanias_056": {
+    "place_id": "ChIJF-jagSeKQQ0RuymcxlyPSNs",
+    "gmaps_name": "Leganés Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-jagSeKQQ0RuymcxlyPSNs",
+    "query_used": "Cercanías Leganés"
+  },
+  "cercanias_057": {
+    "place_id": "ChIJVY12uTSKQQ0ROgI669pv33k",
+    "gmaps_name": "Parque Polvoranca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVY12uTSKQQ0ROgI669pv33k",
+    "query_used": "Cercanías Parque Polvoranca"
+  },
+  "cercanias_058": {
+    "place_id": "ChIJbTQ8UgmLQQ0RFBL7OuOGSzU",
+    "gmaps_name": "Fuenlabrada Central",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTQ8UgmLQQ0RFBL7OuOGSzU",
+    "query_used": "Cercanías Fuenlabrada"
+  },
+  "cercanias_059": {
+    "place_id": "ChIJ5Wnqx6-LQQ0RsnJ8_zpKxAY",
+    "gmaps_name": "La Serna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Wnqx6-LQQ0RsnJ8_zpKxAY",
+    "query_used": "Cercanías La Serna-Fuenlabrada"
+  },
+  "cercanias_060": {
+    "place_id": "ChIJM8XfoaiMQQ0RM5gNjRnUczE",
+    "gmaps_name": "Renfe Humanes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8XfoaiMQQ0RM5gNjRnUczE",
+    "query_used": "Cercanías Humanes",
+    "ambiguous": true
+  },
+  "cercanias_061": {
+    "place_id": "ChIJK6d64lSGQQ0RXIgc85WI5Hs",
+    "gmaps_name": "Aravaca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6d64lSGQQ0RXIgc85WI5Hs",
+    "query_used": "Cercanías Aravaca"
+  },
+  "cercanias_062": {
+    "place_id": "ChIJX2UViJOGQQ0RkZfP1jlCYag",
+    "gmaps_name": "El Barrial-Centro Comercial-Pozuelo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2UViJOGQQ0RkZfP1jlCYag",
+    "query_used": "Cercanías El Barrial-Centro Comercial Pozuelo"
+  },
+  "cercanias_063": {
+    "place_id": "ChIJL0YjxV6GQQ0RBXYjaSYWDhw",
+    "gmaps_name": "Estación Renfe Pozuelo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0YjxV6GQQ0RBXYjaSYWDhw",
+    "query_used": "Cercanías Pozuelo"
+  },
+  "cercanias_064": {
+    "place_id": "ChIJqf89VGuEQQ0RbVWYG4ZJqI0",
+    "gmaps_name": "Majadahonda",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf89VGuEQQ0RbVWYG4ZJqI0",
+    "query_used": "Cercanías Majadahonda"
+  },
+  "cercanias_065": {
+    "place_id": "ChIJcwXiJn-DQQ0R1QUY2l3OIn0",
+    "gmaps_name": "Las Rozas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwXiJn-DQQ0R1QUY2l3OIn0",
+    "query_used": "Cercanías Las Rozas"
+  },
+  "cercanias_066": {
+    "place_id": "ChIJc1xqExmDQQ0RcaiQjy1qgd4",
+    "gmaps_name": "Pinar de Las Rozas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1xqExmDQQ0RcaiQjy1qgd4",
+    "query_used": "Cercanías Pinar",
+    "ambiguous": true
+  },
+  "cercanias_067": {
+    "place_id": "ChIJS4tZaLeCQQ0RIKpfKdUBsAE",
+    "gmaps_name": "Las Matas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4tZaLeCQQ0RIKpfKdUBsAE",
+    "query_used": "Cercanías Las Matas"
+  },
+  "cercanias_068": {
+    "place_id": "ChIJHzBqdy92QQ0R2PbPyLsKx-0",
+    "gmaps_name": "Torrelodones",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzBqdy92QQ0R2PbPyLsKx-0",
+    "query_used": "Cercanías Torrelodones"
+  },
+  "cercanias_069": {
+    "place_id": "ChIJn4sVxHt2QQ0R19s0w-gw9V8",
+    "gmaps_name": "Galapagar-La Navata",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4sVxHt2QQ0R19s0w-gw9V8",
+    "query_used": "Cercanías Galapagar-La Navata"
+  },
+  "cercanias_070": {
+    "place_id": "ChIJmUAlVfZ0QQ0R64nEMINa5IY",
+    "gmaps_name": "San Yago",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUAlVfZ0QQ0R64nEMINa5IY",
+    "query_used": "Cercanías San Yago"
+  },
+  "cercanias_071": {
+    "place_id": "ChIJh10BPz8KQQ0Rp1chM0Wy1IU",
+    "gmaps_name": "El Escorial",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh10BPz8KQQ0Rp1chM0Wy1IU",
+    "query_used": "Cercanías El Escorial"
+  },
+  "cercanias_072": {
+    "place_id": "ChIJ1acUhWOoQQ0RI0V8x1OTkYA",
+    "gmaps_name": "Robledo de Chavela",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1acUhWOoQQ0RI0V8x1OTkYA",
+    "query_used": "Cercanías Robledo de Chavela"
+  },
+  "cercanias_073": {
+    "place_id": "ChIJlQYUf5wHQQ0R58NSE16oyQA",
+    "gmaps_name": "Santa María de la Alameda Peguerinos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQYUf5wHQQ0R58NSE16oyQA",
+    "query_used": "Cercanías Santa María de la Alameda-Peguerinos"
+  },
+  "cercanias_074": {
+    "place_id": "ChIJDf0fp3t0QQ0RkzTtaUYqEQU",
+    "gmaps_name": "Los Negrales",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf0fp3t0QQ0RkzTtaUYqEQU",
+    "query_used": "Cercanías Los Negrales"
+  },
+  "cercanias_075": {
+    "place_id": "ChIJJc7h33BzQQ0RkPMC0Wpu9RE",
+    "gmaps_name": "Alpedrete",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc7h33BzQQ0RkPMC0Wpu9RE",
+    "query_used": "Cercanías Alpedrete"
+  },
+  "cercanias_076": {
+    "place_id": "ChIJaW1jpPtyQQ0RMxZ0y6BnblI",
+    "gmaps_name": "Collado Mediano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW1jpPtyQQ0RMxZ0y6BnblI",
+    "query_used": "Cercanías Collado Mediano"
+  },
+  "cercanias_077": {
+    "place_id": "ChIJh7YOqbVyQQ0RQQAKWhWJdRg",
+    "gmaps_name": "Los Molinos-Guadarrama",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7YOqbVyQQ0RQQAKWhWJdRg",
+    "query_used": "Cercanías Los Molinos"
+  },
+  "cercanias_078": {
+    "place_id": "ChIJQwDNQTVtQQ0RFN6AHGJPud0",
+    "gmaps_name": "Cercedilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwDNQTVtQQ0RFN6AHGJPud0",
+    "query_used": "Cercanías Cercedilla"
+  },
+  "cercanias_079": {
+    "place_id": "ChIJIS6BwT5sQQ0RoMCQynY8cAo",
+    "gmaps_name": "Puerto de Navacerrada",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIS6BwT5sQQ0RoMCQynY8cAo",
+    "query_used": "Cercanías Puerto de Navacerrada",
+    "ambiguous": true
+  },
+  "cercanias_080": {
+    "place_id": "ChIJqdGyrjlpQQ0RQdciBCQ7z30",
+    "gmaps_name": "Cotos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdGyrjlpQQ0RQdciBCQ7z30",
+    "query_used": "Cotos cercanías Madrid"
+  },
+  "cercanias_081": {
+    "place_id": "ChIJj9UZty4qQg0RGvv4mK6-bug",
+    "gmaps_name": "Mirasierra-Paco de Lucía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9UZty4qQg0RGvv4mK6-bug",
+    "query_used": "Cercanías Mirasierra-Paco de Lucía",
+    "ambiguous": true
+  },
+  "cercanias_082": {
+    "place_id": "ChIJe4u_cnspQg0Rb1JlISWrIQk",
+    "gmaps_name": "Ramón y Cajal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4u_cnspQg0Rb1JlISWrIQk",
+    "query_used": "Cercanías Ramón y Cajal"
+  },
+  "cercanias_083": {
+    "place_id": "ChIJ34ftyh8qQg0RlcMNFs6vMlE",
+    "gmaps_name": "Estación de Pitis",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34ftyh8qQg0RlcMNFs6vMlE",
+    "query_used": "Cercanías Pitis",
+    "ambiguous": true
+  },
+  "cercanias_084": {
+    "place_id": "ChIJS612_RbVQw0R28J04ohvA98",
+    "gmaps_name": "Tres Cantos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJS612_RbVQw0R28J04ohvA98",
+    "query_used": "Cercanías Tres Cantos"
+  },
+  "cercanias_085": {
+    "place_id": "ChIJT3l4BGQuQg0RbjCkqf_c_ZU",
+    "gmaps_name": "Valdebebas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3l4BGQuQg0RbjCkqf_c_ZU",
+    "query_used": "Cercanías Valdebebas"
+  },
+  "cercanias_086": {
+    "place_id": "ChIJQ__pAaklQg0R5A6ujTEfbg0",
+    "gmaps_name": "Vallecas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ__pAaklQg0R5A6ujTEfbg0",
+    "query_used": "Cercanías Vallecas"
+  },
+  "cercanias_087": {
+    "place_id": "ChIJrUGcBEQlQg0R_9l2NsSJvCk",
+    "gmaps_name": "Vicálvaro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUGcBEQlQg0R_9l2NsSJvCk",
+    "query_used": "Cercanías Vicálvaro"
+  },
+  "cercanias_088": {
+    "place_id": "ChIJlVw8n-omQg0RtSx4w2FqivM",
+    "gmaps_name": "Villaverde Bajo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVw8n-omQg0RtSx4w2FqivM",
+    "query_used": "Cercanías Villaverde Bajo"
+  },
+  "cercanias_089": {
+    "place_id": "ChIJ99N09S8nQg0R7IV_ggFFt4M",
+    "gmaps_name": "Villaverde Alto",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99N09S8nQg0R7IV_ggFFt4M",
+    "query_used": "Cercanías Villaverde Alto"
+  },
+  "cercanias_090": {
+    "place_id": "ChIJAybyOhUrQg0R2GIGPSEqnF0",
+    "gmaps_name": "Universidad Pontificia de Comillas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAybyOhUrQg0R2GIGPSEqnF0",
+    "query_used": "Cercanías Universidad P. Comillas"
+  },
+  "cercanias_091": {
+    "place_id": "ChIJ11fG25osQg0Rhlh8D0NA5b8",
+    "gmaps_name": "Valdelasfuentes",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ11fG25osQg0Rhlh8D0NA5b8",
+    "query_used": "Cercanías Valdelasfuentes"
+  },
+  "cercanias_092": {
+    "place_id": "ChIJHzqNWeOJQQ0RXyj3kzoqFsI",
+    "gmaps_name": "Zarzaquemada",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzqNWeOJQQ0RXyj3kzoqFsI",
+    "query_used": "Cercanías Zarzaquemada"
+  },
+  "cercanias_093": {
+    "place_id": "ChIJ9QWqVRV0QQ0RICQJoCj0xKc",
+    "gmaps_name": "Villalba de Guadarrama",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9QWqVRV0QQ0RICQJoCj0xKc",
+    "query_used": "Cercanías Villalba"
+  },
+  "cercanias_094": {
+    "place_id": "ChIJpR3SLeF0QQ0RRZEx_9m-A9Y",
+    "gmaps_name": "Las Zorreras",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpR3SLeF0QQ0RRZEx_9m-A9Y",
+    "query_used": "Cercanías Las Zorreras"
+  },
+  "cercanias_095": {
+    "place_id": "ChIJT0c-OTanQQ0RlXQ1R4Dcke8",
+    "gmaps_name": "Zarzalejo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0c-OTanQQ0RlXQ1R4Dcke8",
+    "query_used": "Cercanías Zarzalejo"
+  },
+  "ml_001": {
+    "place_id": "ChIJofgF-EspQg0RFaHEBttIl48",
+    "gmaps_name": "Pinar de Chamartín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJofgF-EspQg0RFaHEBttIl48",
+    "query_used": "Estación Pinar de Chamartín"
+  },
+  "ml_002": {
+    "place_id": "ChIJ_RDaRE0pQg0RMVyzc4rP1EI",
+    "gmaps_name": "Fuente de la Mora",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RDaRE0pQg0RMVyzc4rP1EI",
+    "query_used": "Estación Fuente de la Mora"
+  },
+  "ml_003": {
+    "place_id": "ChIJt6AfGK0uQg0Rp6C60TnNRRk",
+    "gmaps_name": "Virgen del Cortijo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6AfGK0uQg0Rp6C60TnNRRk",
+    "query_used": "Metro Ligero Virgen del Cortijo"
+  },
+  "ml_004": {
+    "place_id": "ChIJGXa4IbAuQg0Rt0q0LPq7AVc",
+    "gmaps_name": "Antonio Saura",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXa4IbAuQg0Rt0q0LPq7AVc",
+    "query_used": "Metro Ligero Antonio Saura"
+  },
+  "ml_005": {
+    "place_id": "ChIJN2L7kKUuQg0R8qCQKr_O9D0",
+    "gmaps_name": "Álvarez de Villaamil",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2L7kKUuQg0R8qCQKr_O9D0",
+    "query_used": "Metro Ligero Álvarez de Villaamil"
+  },
+  "ml_006": {
+    "place_id": "ChIJ_05UoqkuQg0Ry2DG9NHLHls",
+    "gmaps_name": "Blasco Ibáñez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_05UoqkuQg0Ry2DG9NHLHls",
+    "query_used": "Metro Ligero Blasco Ibáñez"
+  },
+  "ml_007": {
+    "place_id": "ChIJpXE4uQEsQg0RtK6uSm6TseA",
+    "gmaps_name": "María Tudor",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXE4uQEsQg0RtK6uSm6TseA",
+    "query_used": "Metro Ligero María Tudor"
+  },
+  "ml_008": {
+    "place_id": "ChIJowdP1PkrQg0Recnze0GuBJs",
+    "gmaps_name": "Palas de Rey",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJowdP1PkrQg0Recnze0GuBJs",
+    "query_used": "Estación Palas de Rey"
+  },
+  "ml_009": {
+    "place_id": "ChIJfcd-A_ErQg0RcGEVuxBTtxE",
+    "gmaps_name": "Estación de Las Tablas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcd-A_ErQg0RcGEVuxBTtxE",
+    "query_used": "Estación Las Tablas"
+  },
+  "ml_010": {
+    "place_id": "ChIJacohjmWIQQ0RVjO0Z-ych-c",
+    "gmaps_name": "Colonia Jardín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJacohjmWIQQ0RVjO0Z-ych-c",
+    "query_used": "Metro Ligero Colonia Jardín"
+  },
+  "ml_011": {
+    "place_id": "ChIJOdaX-3yIQQ0RJIIm08LfhwQ",
+    "gmaps_name": "Prado de la Vega",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdaX-3yIQQ0RJIIm08LfhwQ",
+    "query_used": "Metro Ligero Prado de la Vega"
+  },
+  "ml_012": {
+    "place_id": "ChIJZ_Jzg4CIQQ0RIcZItNyhMTg",
+    "gmaps_name": "Colonia de los Ángeles",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_Jzg4CIQQ0RIcZItNyhMTg",
+    "query_used": "Metro Ligero Colonia de los Ángeles"
+  },
+  "ml_013": {
+    "place_id": "ChIJ-7oqdyqGQQ0RZV-Dz0qYyfk",
+    "gmaps_name": "Prado del Rey",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7oqdyqGQQ0RZV-Dz0qYyfk",
+    "query_used": "Metro Ligero Prado del Rey"
+  },
+  "ml_014": {
+    "place_id": "ChIJM2klMi-GQQ0RACyKAey-5jg",
+    "gmaps_name": "Somosaguas Sur",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2klMi-GQQ0RACyKAey-5jg",
+    "query_used": "Metro Ligero Somosaguas Sur"
+  },
+  "ml_015": {
+    "place_id": "ChIJqc8EsCSGQQ0R-7zyHCSQF1U",
+    "gmaps_name": "Somosaguas Centro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc8EsCSGQQ0R-7zyHCSQF1U",
+    "query_used": "Metro Ligero Somosaguas Centro"
+  },
+  "ml_016": {
+    "place_id": "ChIJ5dMniD2GQQ0Rkv6Us_6O94k",
+    "gmaps_name": "Pozuelo Oeste",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dMniD2GQQ0Rkv6Us_6O94k",
+    "query_used": "Estación Pozuelo Oeste"
+  },
+  "ml_017": {
+    "place_id": "ChIJaRgSJWuGQQ0RSJ6TJux7pGo",
+    "gmaps_name": "Bélgica",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRgSJWuGQQ0RSJ6TJux7pGo",
+    "query_used": "Metro Ligero Bélgica"
+  },
+  "ml_018": {
+    "place_id": "ChIJLUbi_UCGQQ0RNGgB1pQnRWE",
+    "gmaps_name": "Dos Castillas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUbi_UCGQQ0RNGgB1pQnRWE",
+    "query_used": "Metro Ligero Dos Castillas"
+  },
+  "ml_019": {
+    "place_id": "ChIJgWOxMEaGQQ0RvgmqHXfFELI",
+    "gmaps_name": "Campus de Somosaguas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWOxMEaGQQ0RvgmqHXfFELI",
+    "query_used": "Metro Ligero Campus de Somosaguas"
+  },
+  "ml_020": {
+    "place_id": "ChIJ0S2g6k-GQQ0RHONhidcBMKY",
+    "gmaps_name": "Avenida de Europa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S2g6k-GQQ0RHONhidcBMKY",
+    "query_used": "Metro Ligero Avenida de Europa"
+  },
+  "ml_021": {
+    "place_id": "ChIJkbYmJVGGQQ0RMXn4Z_iqq5c",
+    "gmaps_name": "Berna",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbYmJVGGQQ0RMXn4Z_iqq5c",
+    "query_used": "Metro Ligero Berna"
+  },
+  "ml_022": {
+    "place_id": "ChIJ0zSG4lSGQQ0R4AGjK10cN8s",
+    "gmaps_name": "Estación de Aravaca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zSG4lSGQQ0R4AGjK10cN8s",
+    "query_used": "Metro Ligero Estación de Aravaca"
+  },
+  "ml_023": {
+    "place_id": "ChIJ3f79eGKIQQ0RPQKmG72NVps",
+    "gmaps_name": "Ciudad de la Imagen",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3f79eGKIQQ0RPQKmG72NVps",
+    "query_used": "Estación Ciudad de la Imagen"
+  },
+  "ml_024": {
+    "place_id": "ChIJeQ2ZpY6IQQ0Rm_wguTE__xE",
+    "gmaps_name": "José Isbert",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ2ZpY6IQQ0Rm_wguTE__xE",
+    "query_used": "Metro Ligero José Isbert"
+  },
+  "ml_025": {
+    "place_id": "ChIJ84X0H5KIQQ0RJaZ8iAAkKa4",
+    "gmaps_name": "Ciudad del Cine",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84X0H5KIQQ0RJaZ8iAAkKa4",
+    "query_used": "Metro Ligero Ciudad del Cine"
+  },
+  "ml_026": {
+    "place_id": "ChIJxbVVLZaIQQ0RAKcXkKh6RRQ",
+    "gmaps_name": "Cocheras",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbVVLZaIQQ0RAKcXkKh6RRQ",
+    "query_used": "Metro Ligero Cocheras"
+  },
+  "ml_027": {
+    "place_id": "ChIJoYIuKbCIQQ0RCwQqMtzz7Ro",
+    "gmaps_name": "Retamares",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYIuKbCIQQ0RCwQqMtzz7Ro",
+    "query_used": "Metro Ligero Retamares"
+  },
+  "ml_028": {
+    "place_id": "ChIJ0x__TkWPQQ0RnRXjQqvMn2Q",
+    "gmaps_name": "Montepríncipe",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0x__TkWPQQ0RnRXjQqvMn2Q",
+    "query_used": "Estación Montepríncipe"
+  },
+  "ml_029": {
+    "place_id": "ChIJ899IN0SPQQ0RwbYZG_WEEp4",
+    "gmaps_name": "Ventorro del Cano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ899IN0SPQQ0RwbYZG_WEEp4",
+    "query_used": "Metro Ligero Ventorro del Cano"
+  },
+  "ml_030": {
+    "place_id": "ChIJ0YNkB2mPQQ0Rj_aJPyC5fG4",
+    "gmaps_name": "Prado del Espino",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YNkB2mPQQ0Rj_aJPyC5fG4",
+    "query_used": "Metro Ligero Prado del Espino"
+  },
+  "ml_031": {
+    "place_id": "ChIJLXSiyXePQQ0RJqj9BUsS9Is",
+    "gmaps_name": "Cantabria",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXSiyXePQQ0RJqj9BUsS9Is",
+    "query_used": "Metro Ligero Cantabria"
+  },
+  "ml_032": {
+    "place_id": "ChIJbefeyo6PQQ0RM2mkfxOONR8",
+    "gmaps_name": "Ferial de Boadilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbefeyo6PQQ0RM2mkfxOONR8",
+    "query_used": "Metro Ligero Ferial de Boadilla"
+  },
+  "ml_033": {
+    "place_id": "ChIJ_TAwCGKFQQ0RjHbjUYcR6oQ",
+    "gmaps_name": "Boadilla Centro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TAwCGKFQQ0RjHbjUYcR6oQ",
+    "query_used": "Metro Ligero Boadilla Centro"
+  },
+  "ml_034": {
+    "place_id": "ChIJ9Tp8tYqPQQ0RdZ38YI9alP8",
+    "gmaps_name": "Nuevo Mundo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Tp8tYqPQQ0RdZ38YI9alP8",
+    "query_used": "Metro Ligero Nuevo Mundo"
+  },
+  "ml_035": {
+    "place_id": "ChIJCXW7RvaPQQ0R4hbW9o7WIik",
+    "gmaps_name": "Siglo XXI",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXW7RvaPQQ0R4hbW9o7WIik",
+    "query_used": "Metro Ligero Siglo XXI"
+  },
+  "ml_036": {
+    "place_id": "ChIJW-24cviPQQ0RDN-7_MBtvgY",
+    "gmaps_name": "Infante Don Luis",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-24cviPQQ0RDN-7_MBtvgY",
+    "query_used": "Metro Ligero Infante Don Luis"
+  },
+  "ml_037": {
+    "place_id": "ChIJIcloClWFQQ0RBPsgoXgdR-c",
+    "gmaps_name": "Puerta de Boadilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcloClWFQQ0RBPsgoXgdR-c",
+    "query_used": "Estación Puerta de Boadilla"
+  },
+  "ml_038": {
+    "place_id": "ChIJ72YNFUz1QQ0Rd6M4oV8mSBY",
+    "gmaps_name": "Plaza de Toros",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72YNFUz1QQ0Rd6M4oV8mSBY",
+    "query_used": "Metro Ligero Plaza de Toros"
+  },
+  "ml_039": {
+    "place_id": "ChIJQ-2K9Ur1QQ0RPuhnhgI79MI",
+    "gmaps_name": "Julio Romero de Torres",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-2K9Ur1QQ0RPuhnhgI79MI",
+    "query_used": "Metro Ligero Julio Romero de Torres"
+  },
+  "ml_040": {
+    "place_id": "ChIJ0SV8HTX1QQ0RqVCy9U2LhjA",
+    "gmaps_name": "La Ballena",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SV8HTX1QQ0RqVCy9U2LhjA",
+    "query_used": "Metro Ligero La Ballena"
+  },
+  "ml_041": {
+    "place_id": "ChIJRY5_MDH1QQ0R910kMLrZijQ",
+    "gmaps_name": "Parla Centro - Bulevar Norte",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRY5_MDH1QQ0R910kMLrZijQ",
+    "query_used": "Metro Ligero Parla Centro-Bulevar Norte"
+  },
+  "ml_042": {
+    "place_id": "ChIJZ01ynDD1QQ0RGK-JDikZrag",
+    "gmaps_name": "Iglesia Centro",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ01ynDD1QQ0RGK-JDikZrag",
+    "query_used": "Metro Ligero Iglesia Centro"
+  },
+  "ml_043": {
+    "place_id": "ChIJI9mtxrz1QQ0RUYzGJIBWQ8M",
+    "gmaps_name": "Bulevar Sur-Bulevar Miguel Ángel Blanco",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9mtxrz1QQ0RUYzGJIBWQ8M",
+    "query_used": "Metro Ligero Bulevar Sur-Miguel Ángel Blanco"
+  },
+  "ml_044": {
+    "place_id": "ChIJiQ9PWeIsQg0RTU0qD8nLpmo",
+    "gmaps_name": "Reyes Católicos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQ9PWeIsQg0RTU0qD8nLpmo",
+    "query_used": "Estación Reyes Católicos"
+  },
+  "ml_045": {
+    "place_id": "ChIJL-21aj_1QQ0ReAVrQg4_9D0",
+    "gmaps_name": "Isabel II",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-21aj_1QQ0ReAVrQg4_9D0",
+    "query_used": "Estación Isabel II"
+  },
+  "ml_046": {
+    "place_id": "ChIJL9V7MkD1QQ0RNH_L9BOy0ak",
+    "gmaps_name": "Parque Parla Este",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9V7MkD1QQ0RNH_L9BOy0ak",
+    "query_used": "Metro Ligero Parque Parla Este"
+  },
+  "ml_047": {
+    "place_id": "ChIJ-7btmWv1QQ0RX7klfiG1uVY",
+    "gmaps_name": "Avenida Sistema Solar",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7btmWv1QQ0RX7klfiG1uVY",
+    "query_used": "Metro Ligero Avenida Sistema Solar"
+  },
+  "ml_048": {
+    "place_id": "ChIJFXrbtHqGQQ0R8l-1Af2xNUc",
+    "gmaps_name": "Metro Ligero Oeste",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXrbtHqGQQ0R8l-1Af2xNUc",
+    "query_used": "Metro Ligero Tierra"
+  },
+  "ml_049": {
+    "place_id": "ChIJAxDDwGf1QQ0RYoP5Z1wRr4c",
+    "gmaps_name": "Venus Norte",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxDDwGf1QQ0RYoP5Z1wRr4c",
+    "query_used": "Metro Ligero Venus"
+  },
+  "ml_050": {
+    "place_id": "ChIJm9gKql31QQ0Rg2JJrtB8bLY",
+    "gmaps_name": "Estrella Polar Norte",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm9gKql31QQ0Rg2JJrtB8bLY",
+    "query_used": "Metro Ligero Estrella Polar"
+  },
+  "ml_051": {
+    "place_id": "ChIJebxX6lv1QQ0Rp60WWLFKd2U",
+    "gmaps_name": "Jaime I Norte",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJebxX6lv1QQ0Rp60WWLFKd2U",
+    "query_used": "Metro Ligero Jaime I"
+  },
+  "ml_052": {
+    "place_id": "ChIJO8q6mlD1QQ0RggL6mK76KPI",
+    "gmaps_name": "Poligono Industrial Ciudad de Parla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8q6mlD1QQ0RggL6mK76KPI",
+    "query_used": "Metro Ligero Polígono Industrial Ciudad de Parla"
+  },
+  "metro_001": {
+    "place_id": "ChIJf-YYGX4oQg0RRvnJ0KBzhDM",
+    "gmaps_name": "Sol",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-YYGX4oQg0RRvnJ0KBzhDM",
+    "query_used": "Sol Madrid metro",
+    "ambiguous": true
+  },
+  "metro_002": {
+    "place_id": "ChIJQXdKcIcoQg0RhhvxnOPR2m0",
+    "gmaps_name": "Metro Gran Vía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXdKcIcoQg0RhhvxnOPR2m0",
+    "query_used": "Gran Vía Madrid metro",
+    "ambiguous": true
+  },
+  "metro_003": {
+    "place_id": "ChIJI5kBZdUnQg0RNo77LQDRx54",
+    "gmaps_name": "Estación de Tirso de Molina",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5kBZdUnQg0RNo77LQDRx54",
+    "query_used": "Tirso de Molina Madrid metro",
+    "ambiguous": true
+  },
+  "metro_004": {
+    "place_id": "ChIJM1FWdNYnQg0RqexuceK8OVI",
+    "gmaps_name": "La Latina",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1FWdNYnQg0RqexuceK8OVI",
+    "query_used": "La Latina Madrid metro",
+    "ambiguous": false
+  },
+  "metro_005": {
+    "place_id": "ChIJc2ymMLsoQg0RtRQ6-3Bm5a8",
+    "gmaps_name": "Goya",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2ymMLsoQg0RtRQ6-3Bm5a8",
+    "query_used": "Goya Madrid metro",
+    "ambiguous": false
+  },
+  "metro_006": {
+    "place_id": "ChIJv5K-rmkoQg0RM7w_cTINTSA",
+    "gmaps_name": "Argüelles",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5K-rmkoQg0RM7w_cTINTSA",
+    "query_used": "Argüelles Madrid metro",
+    "ambiguous": false
+  },
+  "metro_007": {
+    "place_id": "ChIJTUSc_oUoQg0RrAraXZMMog0",
+    "gmaps_name": "Chueca",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUSc_oUoQg0RrAraXZMMog0",
+    "query_used": "Chueca Madrid metro",
+    "ambiguous": true
+  },
+  "metro_008": {
+    "place_id": "ChIJ6eQxKi0mQg0RpzPMa8LPjJc",
+    "gmaps_name": "Embajadores",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eQxKi0mQg0RpzPMa8LPjJc",
+    "query_used": "Embajadores Madrid metro",
+    "ambiguous": false
+  },
+  "metro_009": {
+    "place_id": "ChIJ0190cCsmQg0RY9JGCic0gg8",
+    "gmaps_name": "Lavapiés",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0190cCsmQg0RY9JGCic0gg8",
+    "query_used": "Lavapiés Madrid metro",
+    "ambiguous": false
+  },
+  "metro_010": {
+    "place_id": "ChIJQ31lb4soQg0RqD5sySBBwYQ",
+    "gmaps_name": "Cervecería Chamberi - Bar Restaurante",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ31lb4soQg0RqD5sySBBwYQ",
+    "query_used": "Chamberí Madrid metro",
+    "ambiguous": true
+  },
+  "metro_011": {
+    "place_id": "ChIJ6XJ0VHwoQg0RDLS-_d-7IfY",
+    "gmaps_name": "Callao",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XJ0VHwoQg0RDLS-_d-7IfY",
+    "query_used": "Callao Madrid metro",
+    "ambiguous": false
+  },
+  "metro_012": {
+    "place_id": "ChIJm4wp3HsoQg0R5JKPIWVkVxQ",
+    "gmaps_name": "Ópera",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4wp3HsoQg0R5JKPIWVkVxQ",
+    "query_used": "Ópera Madrid metro",
+    "ambiguous": false
+  },
+  "metro_013": {
+    "place_id": "ChIJRSFsL6MoQg0RqVNSlw8N7co",
+    "gmaps_name": "Metro Príncipe de Vergara",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSFsL6MoQg0RqVNSlw8N7co",
+    "query_used": "Príncipe de Vergara Madrid metro",
+    "ambiguous": true
+  },
+  "metro_014": {
+    "place_id": "ChIJT0w5X9EoQg0RwtQiJ4GOc04",
+    "gmaps_name": "Estación de Alfonso XIII",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0w5X9EoQg0RwtQiJ4GOc04",
+    "query_used": "Alfonso XIII Madrid metro",
+    "ambiguous": false
+  },
+  "metro_015": {
+    "place_id": "ChIJgVOH3u0oQg0RORzTmkrjAc0",
+    "gmaps_name": "Estación de Gregorio Marañón",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVOH3u0oQg0RORzTmkrjAc0",
+    "query_used": "Gregorio Marañón Madrid metro",
+    "ambiguous": false
+  },
+  "metro_016": {
+    "place_id": "ChIJ3XkOty4qQg0RczQTYT2nZnU",
+    "gmaps_name": "Paco de Lucía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XkOty4qQg0RczQTYT2nZnU",
+    "query_used": "Paco de Lucía Madrid metro",
+    "ambiguous": false
+  },
+  "metro_017": {
+    "place_id": "ChIJz5rq6DSMQQ0RP4W1OYIm7yI",
+    "gmaps_name": "Manuela Malasaña",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5rq6DSMQQ0RP4W1OYIm7yI",
+    "query_used": "Manuela Malasaña Madrid metro",
+    "ambiguous": false
+  },
+  "metro_018": {
+    "place_id": "ChIJn_Hd820oQg0RgOhjR0WLNbk",
+    "gmaps_name": "Príncipe Pío",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_Hd820oQg0RgOhjR0WLNbk",
+    "query_used": "Príncipe Pío Madrid metro",
+    "ambiguous": true
+  },
+  "metro_019": {
+    "place_id": "ChIJz2q-9SSIQQ0REMqzgU6Yp5M",
+    "gmaps_name": "Eugenia de Montijo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2q-9SSIQQ0REMqzgU6Yp5M",
+    "query_used": "Eugenia de Montijo Madrid metro",
+    "ambiguous": false
+  },
+  "metro_020": {
+    "place_id": "ChIJK1xyxVEoQg0Rk1UCDbIr388",
+    "gmaps_name": "Guzmán el Bueno",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1xyxVEoQg0Rk1UCDbIr388",
+    "query_used": "Guzmán el Bueno Madrid metro",
+    "ambiguous": false
+  },
+  "metro_021": {
+    "place_id": "ChIJ6UwBkI4oQg0RVy4yDVJ-i-M",
+    "gmaps_name": "Alonso Martínez",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UwBkI4oQg0RVy4yDVJ-i-M",
+    "query_used": "Alonso Martínez Madrid metro",
+    "ambiguous": false
+  },
+  "metro_022": {
+    "place_id": "ChIJpws-hMcoQg0RfP56Q214KNY",
+    "gmaps_name": "Estación de Diego de León",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJpws-hMcoQg0RfP56Q214KNY",
+    "query_used": "Diego de León Madrid metro",
+    "ambiguous": false
+  },
+  "metro_023": {
+    "place_id": "ChIJY6XxFUkoQg0RwZYOd0W6B0U",
+    "gmaps_name": "Vicente Aleixandre",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6XxFUkoQg0RwZYOd0W6B0U",
+    "query_used": "Vicente Aleixandre Madrid metro",
+    "ambiguous": false
+  },
+  "metro_024": {
+    "place_id": "ChIJkYr1LNkoQg0RCNjl-u-Uknk",
+    "gmaps_name": "Concha Espina",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYr1LNkoQg0RCNjl-u-Uknk",
+    "query_used": "Concha Espina Madrid metro",
+    "ambiguous": false
+  },
+  "metro_025": {
+    "place_id": "ChIJ06xU_uIoQg0RPrL8BqES33s",
+    "gmaps_name": "Santiago Bernabéu",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06xU_uIoQg0RPrL8BqES33s",
+    "query_used": "Santiago Bernabeu Madrid metro",
+    "ambiguous": false
+  },
+  "metro_026": {
+    "place_id": "ChIJ1b_fuCUmQg0RVHJEHD5i1FE",
+    "gmaps_name": "Estación del Arte",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b_fuCUmQg0RVHJEHD5i1FE",
+    "query_used": "Estación del Arte Madrid metro",
+    "ambiguous": false
+  },
+  "metro_027": {
+    "place_id": "ChIJebEwKFEuQg0Rng0gj_bl5s8",
+    "gmaps_name": "Feria de Madrid",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJebEwKFEuQg0Rng0gj_bl5s8",
+    "query_used": "Feria de Madrid Madrid metro",
+    "ambiguous": false
+  },
+  "metro_028": {
+    "place_id": "ChIJK5RGGOsvQg0RIfL1-A2P_jo",
+    "gmaps_name": "Estadio Metropolitano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5RGGOsvQg0RIfL1-A2P_jo",
+    "query_used": "Estadio Metropolitano Madrid metro",
+    "ambiguous": false
+  },
+  "metro_029": {
+    "place_id": "ChIJA-pTRiQmQg0RSaADkNa57tI",
+    "gmaps_name": "Atocha",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-pTRiQmQg0RSaADkNa57tI",
+    "query_used": "Atocha Madrid metro",
+    "ambiguous": false
+  },
+  "metro_030": {
+    "place_id": "ChIJD3LgJtAnQg0REkusFhF3_Ew",
+    "gmaps_name": "Pirámides",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3LgJtAnQg0REkusFhF3_Ew",
+    "query_used": "Pirámides Madrid metro",
+    "ambiguous": false
+  },
+  "metro_031": {
+    "place_id": "ChIJ-Q6Hr4koQg0R6Fz47gX82-o",
+    "gmaps_name": "Estación de Tribunal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q6Hr4koQg0R6Fz47gX82-o",
+    "query_used": "Tribunal Madrid metro",
+    "ambiguous": true
+  },
+  "metro_032": {
+    "place_id": "ChIJiYm1emMoQg0RHf6nGz3K1Og",
+    "gmaps_name": "Noviciado",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYm1emMoQg0RHf6nGz3K1Og",
+    "query_used": "Noviciado Madrid metro",
+    "ambiguous": false
+  },
+  "metro_033": {
+    "place_id": "ChIJAWqVEYooQg0RF_BtWEOFyEg",
+    "gmaps_name": "Bilbao",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWqVEYooQg0RF_BtWEOFyEg",
+    "query_used": "Bilbao Madrid metro",
+    "ambiguous": false
+  },
+  "metro_034": {
+    "place_id": "ChIJK5yy4V8oQg0RmdnLXsE9hyg",
+    "gmaps_name": "Quevedo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5yy4V8oQg0RmdnLXsE9hyg",
+    "query_used": "Quevedo Madrid metro",
+    "ambiguous": false
+  },
+  "metro_035": {
+    "place_id": "ChIJC_7OuUQoQg0RKoiIjItBEnw",
+    "gmaps_name": "Islas Filipinas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_7OuUQoQg0RKoiIjItBEnw",
+    "query_used": "Islas Filipinas Madrid metro",
+    "ambiguous": true
+  },
+  "metro_036": {
+    "place_id": "ChIJQRclnkEoQg0Rp1azo5iACag",
+    "gmaps_name": "Moncloa",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRclnkEoQg0Rp1azo5iACag",
+    "query_used": "Moncloa Madrid metro",
+    "ambiguous": false
+  },
+  "metro_037": {
+    "place_id": "ChIJWaBp6rQoQg0RJME5wlQxaPo",
+    "gmaps_name": "Ventas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaBp6rQoQg0RJME5wlQxaPo",
+    "query_used": "Ventas Madrid metro",
+    "ambiguous": false
+  },
+  "metro_038": {
+    "place_id": "ChIJ4-DvF7EoQg0Ruliy_HrLLcA",
+    "gmaps_name": "Manuel Becerra",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-DvF7EoQg0Ruliy_HrLLcA",
+    "query_used": "Manuel Becerra Madrid metro",
+    "ambiguous": true
+  },
+  "metro_039": {
+    "place_id": "ChIJE5ak-64oQg0RESqy-67m-VY",
+    "gmaps_name": "Metro O Donnell",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5ak-64oQg0RESqy-67m-VY",
+    "query_used": "O'Donnell Madrid metro",
+    "ambiguous": false
+  },
+  "metro_040": {
+    "place_id": "ChIJwTIjXKEoQg0RvaE8c5M3gVQ",
+    "gmaps_name": "Ibiza",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTIjXKEoQg0RvaE8c5M3gVQ",
+    "query_used": "Ibiza Madrid metro",
+    "ambiguous": false
+  },
+  "metro_041": {
+    "place_id": "ChIJ17cb_xAmQg0RzC3qcBqbg54",
+    "gmaps_name": "Pacífico",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17cb_xAmQg0RzC3qcBqbg54",
+    "query_used": "Pacífico Madrid metro",
+    "ambiguous": true
+  },
+  "metro_042": {
+    "place_id": "ChIJ-3s3ORgmQg0RvCB_yEkDIWs",
+    "gmaps_name": "Menéndez Pelayo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3s3ORgmQg0RvCB_yEkDIWs",
+    "query_used": "Menéndez Pelayo Madrid metro",
+    "ambiguous": false
+  },
+  "metro_043": {
+    "place_id": "ChIJXTccvvcoQg0RJ86TVNcTALo",
+    "gmaps_name": "Metro Ríos Rosas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTccvvcoQg0RJ86TVNcTALo",
+    "query_used": "Ríos Rosas Madrid metro",
+    "ambiguous": true
+  },
+  "metro_047": {
+    "place_id": "ChIJTWzkFFYoQg0RlnOOjyWeBDY",
+    "gmaps_name": "Cuatro Caminos",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWzkFFYoQg0RlnOOjyWeBDY",
+    "query_used": "Cuatro Caminos Madrid metro",
+    "ambiguous": true
+  },
+  "metro_204": {
+    "place_id": "ChIJZbGD_EaJQQ0Rr34RP4HofbI",
+    "gmaps_name": "Estación de Puerta del Sur alcorcon",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbGD_EaJQQ0Rr34RP4HofbI",
+    "query_used": "Puerta del Sur Madrid metro",
+    "ambiguous": true
+  }
+}
