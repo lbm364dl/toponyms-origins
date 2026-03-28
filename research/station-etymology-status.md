@@ -7,8 +7,8 @@
 
 | Confidence | Metro | Cercanías | ML/Tranvía | Total |
 |-----------|-------|-----------|------------|-------|
-| **verified** | 205 | 53 | 36 | **294** |
-| **probable** | 30 | 35 | 16 | **81** |
+| **verified** | 215 | 67 | 38 | **320** |
+| **probable** | 20 | 21 | 14 | **55** |
 | **uncertain** | 7 | 7 | 0 | **14** |
 | **unknown** | 1 | 0 | 0 | **1** (Pitis) |
 | **Total** | 243 | 95 | 52 | **390** |
@@ -25,7 +25,7 @@
 - ~90% of original QIDs were fabricated (capybara, asteroids, etc.)
 - All 148 unique QIDs corrected via Wikidata API verification
 
-### Stations Upgraded to Verified (this session -- 16 total)
+### Stations Upgraded to Verified (this session -- 40 total)
 1. Aranjuez (García Sánchez CVC confirms Basque arantza)
 2. El Escorial (García Sánchez CVC Part II + Lorenzo Arribas CVC)
 3. Aluche x2 (Arroyo Luche documented in Felipe II Real Cédula 1580)
@@ -43,9 +43,35 @@
 15. Montecarmelo (Arroyo de Montecarmelo stream + Ermita de Valverde 1242)
 16. Las Tablas (RAE agricultural definition of "tabla" = cultivable land strip)
 
-### Factual Errors Corrected (2)
+17. Orcasitas: Pedro Orcasitas Ruiz (b.1878 Vizcaya), Basque horkatz-sitxa
+18. Puente Alcocer: Arabic al-qusayr confirmed by etimologias.dechile.net
+19. El Pozo: 1864 catastro reference, Univ. Zaragoza thesis
+20. San José de Valderas: Marqueses chapel + Díaz Lage 2003 (Dialnet)
+21. Polvoranca: ETYMOLOGY REWRITTEN (Roman Laurianus, not polvo/pólvora)
+22. La Serna: ToponHisp + Corominas DCECH (pre-Roman *senara)
+23. Humanes: Bascuas 2006 (paleo-European *um-)
+24. Chamberí: added Caridad Arias 2004 Dialnet + Chamberi30dias
+25. Esperanza: Cooperativa Virgen de la Esperanza (1965-71), COAM
+26. Vinateros: Camino de los Vinateros wine route, Gea Ortigas 2002
+27. Artilleros: artillery firing range from 1861, Gea Ortigas 2002
+28. Almendrales: cerro de los Almendros, parcels 1954
+29. El Carmen: Capilla del Carmen (1928), now demolished
+30. Manoteras: Nieto Ballester 1997 + memoriademanoteras.es
+31. La Moraleja: Toponomasticon confirms mulberry etymology
+32. Pinto: García Sánchez CVC Latin pinctus
+33. Parla: García Sánchez CVC Roman Parilus
+34. Galapagar-La Navata: ToponHisp confirms terrapins
+35. Robledo de Chavela: ToponHisp confirms Basque echa+vela
+36. El Casar: documented by toponhisp.org
+37. Chamartín-Clara Campoamor: ToponHisp confirms Basque
+38. Santa María de la Alameda-Peguerinos: RAE+Iedra for peguero
+39. Montepríncipe: Rúspoli Príncipe de Cerveteri + monteprincipe.net
+40. La Ballena: folk legend well-attested by multiple sources
+
+### Factual Errors Corrected (3)
 - **Barrio del Pilar**: NOT Virgen del Pilar -- named after Pilar, wife of developer José Banús (1961)
 - **San Blas**: NOT Saint Blaise -- named after minister Blas Pérez González (1898-1978)
+- **Polvoranca**: NOT from polvo/pólvora -- from Roman anthroponym Laurianus > Loranque > Polboranca (1794)
 
 ### New Scholarly Sources Discovered
 - García Sánchez CVC Rinconete series (4 parts) with specific URLs
