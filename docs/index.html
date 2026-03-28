@@ -14,11 +14,17 @@
 <header>
   <div class="hero-bg"></div>
   <div class="container hero-content">
-    <button class="lang-toggle" id="lang-toggle" aria-label="Toggle language">EN</button>
-    <span class="hero-eyebrow">Open dataset</span>
-    <h1>Madrid<br>Toponymy</h1>
-    <p class="subtitle">An etymological atlas of 390 station names — Metro, Cercanías,
-      Metro Ligero &amp; Tranvía — tracing why each is named the way it is.</p>
+    <div class="lang-toggle" id="lang-toggle" role="radiogroup" aria-label="Language">
+      <button class="lang-opt" data-lang="en">EN</button>
+      <button class="lang-opt" data-lang="es">ES</button>
+    </div>
+    <script>!function(){var l=localStorage.getItem('lang')||'es';document.querySelector('.lang-opt[data-lang="'+l+'"]').classList.add('active')}()</script>
+    <div class="hero-left">
+      <span class="hero-eyebrow">Open dataset</span>
+      <h1>Madrid Toponymy</h1>
+      <p class="subtitle">An etymological atlas of 390 station names — Metro, Cercanías,
+        Metro Ligero &amp; Tranvía — tracing why each is named the way it is.</p>
+    </div>
     <div class="stats" id="stats"></div>
   </div>
 </header>
