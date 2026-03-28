@@ -6,6 +6,7 @@ let markers = null;
 let lineLayer = null;
 let currentView = 'list';
 let lang = localStorage.getItem('lang') || 'en';
+let initialized = false;
 
 const CATEGORY_LABELS = {
   en: { metro: 'Metro', cercanias: 'Cercanías', metro_ligero: 'ML / Tranvía' },
@@ -90,16 +91,23 @@ async function init() {
   applyLang();
   renderStats();
   buildLineFilter();
-  render();
-  // Default to map view
-  setView('map');
 
-  document.getElementById('search').addEventListener('input', render);
-  document.getElementById('filter-type').addEventListener('change', render);
-  document.getElementById('filter-confidence').addEventListener('change', render);
+  // Restore state from URL query params
+  restoreFromURL();
+
+  render();
+  // Default to map view unless URL says otherwise
+  if (!new URLSearchParams(window.location.search).has('view')) {
+    setView('map');
+  }
+
+  document.getElementById('search').addEventListener('input', () => { render(); pushURL(); });
+  document.getElementById('filter-type').addEventListener('change', () => { render(); pushURL(); });
+  document.getElementById('filter-confidence').addEventListener('change', () => { render(); pushURL(); });
   document.getElementById('filter-line').addEventListener('change', function() {
     activeLine = this.value;
     render();
+    pushURL();
   });
 
   document.querySelectorAll('#category-pills .pill').forEach(btn => {
@@ -108,6 +116,7 @@ async function init() {
       btn.classList.add('active');
       activeCategory = btn.dataset.v;
       render();
+      pushURL();
     });
   });
 
@@ -120,6 +129,7 @@ async function init() {
   document.getElementById('btn-list').addEventListener('click', () => setView('list'));
   document.getElementById('btn-map').addEventListener('click', () => setView('map'));
   document.getElementById('lang-toggle').addEventListener('click', toggleLang);
+  initialized = true;
 }
 
 function toggleLang() {
@@ -128,6 +138,62 @@ function toggleLang() {
   applyLang();
   renderStats();
   render();
+  pushURL();
+}
+
+function pushURL() {
+  if (!initialized) return;
+  const params = new URLSearchParams();
+  const q = document.getElementById('search').value;
+  if (q) params.set('q', q);
+  if (activeCategory) params.set('cat', activeCategory);
+  if (activeLine) params.set('line', activeLine);
+  const typ = document.getElementById('filter-type').value;
+  if (typ) params.set('type', typ);
+  const conf = document.getElementById('filter-confidence').value;
+  if (conf) params.set('conf', conf);
+  params.set('view', currentView);
+  if (lang !== 'en') params.set('lang', lang);
+  const str = params.toString();
+  const url = str ? `?${str}` : window.location.pathname;
+  history.replaceState(null, '', url);
+}
+
+function restoreFromURL() {
+  const params = new URLSearchParams(window.location.search);
+
+  const q = params.get('q');
+  if (q) document.getElementById('search').value = q;
+
+  const cat = params.get('cat');
+  if (cat) {
+    activeCategory = cat;
+    document.querySelectorAll('#category-pills .pill').forEach(b => {
+      b.classList.toggle('active', b.dataset.v === cat);
+    });
+  }
+
+  const line = params.get('line');
+  if (line) {
+    activeLine = line;
+    document.getElementById('filter-line').value = line;
+  }
+
+  const typ = params.get('type');
+  if (typ) document.getElementById('filter-type').value = typ;
+
+  const conf = params.get('conf');
+  if (conf) document.getElementById('filter-confidence').value = conf;
+
+  const view = params.get('view');
+  if (view) setView(view);
+
+  const urlLang = params.get('lang');
+  if (urlLang && urlLang !== lang) {
+    lang = urlLang;
+    localStorage.setItem('lang', lang);
+    applyLang();
+  }
 }
 
 function applyLang() {
@@ -410,6 +476,7 @@ function setView(view) {
     updateMap();
     setTimeout(() => map.invalidateSize(), 100);
   }
+  pushURL();
 }
 
 function initMap() {
