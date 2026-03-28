@@ -5,7 +5,7 @@ let map = null;
 let markers = null;
 let lineLayer = null;
 let currentView = 'list';
-let lang = localStorage.getItem('lang') || 'en';
+let lang = localStorage.getItem('lang') || 'es';
 let initialized = false;
 
 const CATEGORY_LABELS = {
@@ -128,7 +128,11 @@ async function init() {
 
   document.getElementById('btn-list').addEventListener('click', () => setView('list'));
   document.getElementById('btn-map').addEventListener('click', () => setView('map'));
-  document.getElementById('lang-toggle').addEventListener('click', toggleLang);
+  document.getElementById('lang-toggle').addEventListener('click', e => {
+    const btn = e.target.closest('.lang-opt');
+    if (!btn || btn.dataset.lang === lang) return;
+    toggleLang();
+  });
   initialized = true;
 }
 
@@ -153,7 +157,6 @@ function pushURL() {
   const conf = document.getElementById('filter-confidence').value;
   if (conf) params.set('conf', conf);
   params.set('view', currentView);
-  if (lang !== 'en') params.set('lang', lang);
   const str = params.toString();
   const url = str ? `?${str}` : window.location.pathname;
   history.replaceState(null, '', url);
@@ -188,16 +191,12 @@ function restoreFromURL() {
   const view = params.get('view');
   if (view) setView(view);
 
-  const urlLang = params.get('lang');
-  if (urlLang && urlLang !== lang) {
-    lang = urlLang;
-    localStorage.setItem('lang', lang);
-    applyLang();
-  }
 }
 
 function applyLang() {
-  document.getElementById('lang-toggle').textContent = lang === 'en' ? 'ES' : 'EN';
+  document.querySelectorAll('#lang-toggle .lang-opt').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === lang);
+  });
   document.querySelector('.hero-eyebrow').textContent = t('eyebrow');
   document.querySelector('header h1').innerHTML = t('title');
   document.querySelector('.subtitle').textContent = t('subtitle');
@@ -575,7 +574,7 @@ function updateMap() {
     bounds.push([lat, lng]);
   });
 
-  if (bounds.length > 0) map.fitBounds(bounds, { padding: [30, 30], maxZoom: 14 });
+  if (bounds.length > 0) map.fitBounds(bounds, { padding: [10, 10], maxZoom: 14 });
 }
 
 function closePopupsAndOpen(id) {
