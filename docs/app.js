@@ -266,11 +266,11 @@ function openModal(id) {
   if (e.operator) add(t('operator'), esc(e.operator));
   if (e.municipality) add(t('municipality'), esc(e.municipality));
   if (e.latitude && e.longitude) {
-    const gmapsType = e._category === 'cercanias' ? 'Cercanías' : e._category === 'metro_ligero' ? 'Metro Ligero' : 'Metro';
-    const gmapsQuery = encodeURIComponent(`${gmapsType} ${e.name}, Madrid, Spain`);
+    const gmapsUrl = e.gmaps_url ||
+      `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent((e._category === 'cercanias' ? 'Cercanías' : e._category === 'metro_ligero' ? 'Metro Ligero' : 'Metro') + ' ' + e.name + ', Madrid, Spain')}`;
     add(t('coordinates'),
       `<a class="source-link" href="https://www.openstreetmap.org/?mlat=${e.latitude}&mlon=${e.longitude}#map=16/${e.latitude}/${e.longitude}" target="_blank" rel="noopener">OpenStreetMap</a> · ` +
-      `<a class="source-link" href="https://www.google.com/maps/search/?api=1&query=${gmapsQuery}" target="_blank" rel="noopener">Google Maps</a>`);
+      `<a class="source-link" href="${gmapsUrl}" target="_blank" rel="noopener">Google Maps</a>`);
   }
 
   const sources = formatSources(e.source || '');
