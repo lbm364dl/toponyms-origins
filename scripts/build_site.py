@@ -19,6 +19,7 @@ FILES = {
 TRANSLATIONS_FILE = os.path.join(ROOT, 'docs', 'data', 'translations_es.json')
 LINE_ORDER_FILE = os.path.join(ROOT, 'docs', 'data', 'line_orders.json')
 GMAPS_FILE = os.path.join(ROOT, 'docs', 'data', 'gmaps_place_ids.json')
+NAMED_AFTER_ES_FILE = os.path.join(ROOT, 'docs', 'data', 'named_after_es.json')
 
 def build():
     all_entries = []
@@ -48,6 +49,16 @@ def build():
             if gdata and 'gmaps_url' in gdata:
                 entry['gmaps_url'] = gdata['gmaps_url']
         print(f"  Merged {sum(1 for e in all_entries if 'gmaps_url' in e)} Google Maps Place URLs")
+
+    # Merge named_after Spanish translations
+    if os.path.exists(NAMED_AFTER_ES_FILE):
+        with open(NAMED_AFTER_ES_FILE, 'r', encoding='utf-8') as f:
+            na_es = json.load(f)
+        for entry in all_entries:
+            es_text = na_es.get(entry.get('id', ''))
+            if es_text:
+                entry['named_after_es'] = es_text
+        print(f"  Merged {sum(1 for e in all_entries if 'named_after_es' in e)} named_after ES translations")
 
     # Merge Spanish translations if available
     if os.path.exists(TRANSLATIONS_FILE):

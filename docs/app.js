@@ -251,14 +251,14 @@ function openModal(id) {
     if (value) details += `<div class="detail-label">${label}</div><div class="detail-value">${value}</div>`;
   };
 
-  add(t('namedAfter'), esc(e.named_after || ''));
+  add(t('namedAfter'), esc((lang === 'es' && e.named_after_es) ? e.named_after_es : (e.named_after || '')));
   if (e.etymology_type === 'person') {
     const gender = e.person_gender === 'M' ? t('male') : e.person_gender === 'F' ? t('female') : '';
     if (gender) add(t('gender'), gender);
     if (e.person_birth_year || e.person_death_year)
       add(t('lived'), `${e.person_birth_year || '?'}\u2013${e.person_death_year || '?'}`);
-    add(t('profession'), esc(e.person_profession || ''));
-    add(t('nationality'), esc(e.person_nationality || ''));
+    add(t('profession'), esc(trField(e.person_profession || '', PROF_ES)));
+    add(t('nationality'), esc(trField(e.person_nationality || '', NAT_ES)));
   }
   add(t('district'), esc(e.district || ''));
   add(t('neighbourhood'), esc(e.neighbourhood || ''));
@@ -266,7 +266,10 @@ function openModal(id) {
   if (e.opening_year) add(t('opened'), e.opening_year);
   if (e.naming_date) add(t('namedIn'), e.naming_date);
   if (e.previous_names) add(t('formerNames'), esc(e.previous_names));
-  if (e.operator) add(t('operator'), esc(e.operator));
+  if (e.operator) {
+    const opEs = {'Metro de Madrid':'Metro de Madrid','Renfe Cercanias':'Renfe Cercanías','CRTM':'CRTM','Metro Ligero Madrid':'Metro Ligero Madrid','Metro Ligero Oeste':'Metro Ligero Oeste','Tranvia de Parla':'Tranvía de Parla'};
+    add(t('operator'), esc(lang === 'es' ? (opEs[e.operator] || e.operator) : e.operator));
+  }
   if (e.municipality) add(t('municipality'), esc(e.municipality));
   if (e.latitude && e.longitude) {
     const gmapsUrl = e.gmaps_url ||
@@ -326,6 +329,55 @@ function esc(s) {
   const d = document.createElement('div');
   d.textContent = s;
   return d.innerHTML;
+}
+
+// Field value translations for ES mode
+const PROF_ES = {
+  'architect':'arquitecto','painter':'pintor','poet':'poeta','writer':'escritor',
+  'novelist':'novelista','composer':'compositor','politician':'político',
+  'military':'militar','king':'rey','queen':'reina','monarch':'monarca',
+  'empress':'emperatriz','explorer':'explorador','navigator':'navegante',
+  'conquistador':'conquistador','general':'general','regent':'regente',
+  'senator':'senador','lawyer':'abogado','jurist':'jurista','physician':'médico',
+  'scientist':'científico','historian':'historiador','journalist':'periodista',
+  'playwright':'dramaturgo','sculptor':'escultor','engineer':'ingeniero',
+  'inventor':'inventor','aviator':'aviador','saint':'santo','friar':'fraile',
+  'priest':'sacerdote','bishop':'obispo','deacon':'diácono','martyr':'mártir',
+  'nurse':'enfermero','educator':'educador','pedagogue':'pedagoga','teacher':'maestra',
+  'urban planner':'urbanista','urbanist':'urbanista','developer':'promotor',
+  'landowner':'terrateniente','merchant':'comerciante','nobleman':'noble',
+  'aristocrat':'aristócrata','prince':'príncipe','princess':'princesa',
+  'military officer':'oficial militar','military commander':'comandante militar',
+  'prime minister':'presidente del gobierno','mayor':'alcalde','minister':'ministro',
+  'football club president':'presidente de club de fútbol',
+  'flamenco guitarist':'guitarrista flamenco','guitarist':'guitarrista',
+  'musician':'músico','actor':'actor','literary critic':'crítico literario',
+  'philologist':'filólogo','endocrinologist':'endocrinólogo','hygienist':'higienista',
+  'biochemist':'bioquímico','neuroscientist':'neurocientífico',
+  'Nobel laureate':'Premio Nobel','satirist':'satírico',
+  'INI president':'presidente del INI','naval engineer':'ingeniero naval',
+  'businesswoman':'empresaria','fashion designer':'diseñadora de moda',
+  'philanthropist':'filántropo','financier':'financiero',
+  'real estate developer':'promotor inmobiliario','orator':'orador',
+  'hospital founder':'fundador de hospital','councillor':'concejal',
+  'governor':'gobernador','ceramics historian':'historiador de cerámica',
+  'seamstress':'costurera','mathematician':'matemático',
+};
+const NAT_ES = {
+  'Spanish':'español/a','Italian':'italiano/a','French':'francés/a',
+  'English':'inglés/a','Nicaraguan':'nicaragüense','Roman':'romano/a',
+  'Roman (Gallo-Roman)':'romano (galorromano)','Portuguese/Spanish':'portugués/español',
+  'Genoese/Spanish':'genovés/español','Spanish (Castilian-Leonese)':'español (castellano-leonés)',
+  'Spanish (Basque)':'español (vasco)',
+};
+
+function trField(value, dict) {
+  if (lang !== 'es' || !value) return value;
+  // Translate semicolon-separated values (e.g., "painter; sculptor")
+  return value.split(';').map(v => {
+    v = v.trim();
+    return dict[v] || dict[v.toLowerCase()] || v;
+  }).join('; ');
 }
 
 function formatParagraphs(text) {
