@@ -284,10 +284,10 @@
     "query_used": "Metro Santo Domingo"
   },
   "metro_092": {
-    "place_id": "ChIJvUSnCmEoQg0RUmMQ-6-pdk0",
-    "gmaps_name": "Metro San Bernardo",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUSnCmEoQg0RUmMQ-6-pdk0",
-    "query_used": "Metro San Bernardo"
+    "place_id": "ChIJvwHOB2EoQg0RcHRKIIPreuU",
+    "gmaps_name": "San Bernardo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwHOB2EoQg0RcHRKIIPreuU",
+    "query_used": "acceso metro San Bernardo madrid"
   },
   "metro_093": {
     "place_id": "ChIJIYkCy1goQg0R_PdahQ_tJHI",
@@ -925,10 +925,10 @@
     "query_used": "Metro Villaverde Bajo-Cruce"
   },
   "metro_256": {
-    "place_id": "ChIJV5pHAdAmQg0RDngAqjJn6d8",
-    "gmaps_name": "Metro San Cristóbal",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5pHAdAmQg0RDngAqjJn6d8",
-    "query_used": "Metro San Cristóbal"
+    "place_id": "ChIJB5c6BNAmQg0R1qc28DecIQ0",
+    "gmaps_name": "San Cristóbal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5c6BNAmQg0R1qc28DecIQ0",
+    "query_used": "acceso metro San Cristóbal madrid"
   },
   "metro_257": {
     "place_id": "ChIJ99N09S8nQg0R7IV_ggFFt4M",
@@ -2373,11 +2373,10 @@
     "ambiguous": false
   },
   "metro_043": {
-    "place_id": "ChIJXTccvvcoQg0RJ86TVNcTALo",
-    "gmaps_name": "Metro Ríos Rosas",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTccvvcoQg0RJ86TVNcTALo",
-    "query_used": "Ríos Rosas Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJo41Ev_coQg0R2I9y7DImtHY",
+    "gmaps_name": "Ríos Rosas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo41Ev_coQg0R2I9y7DImtHY",
+    "query_used": "acceso metro Ríos Rosas madrid"
   },
   "metro_047": {
     "place_id": "ChIJTWzkFFYoQg0RlnOOjyWeBDY",
