@@ -16,14 +16,17 @@ const CATEGORY_ICONS = {
 };
 
 async function init() {
+  const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
+
   // Try fetch first (works on http://), fall back to inline script (works on file://)
   if (typeof ENTRIES_DATA !== 'undefined') {
-    entries = ENTRIES_DATA;
+    entries = ENTRIES_DATA.filter(e => STATION_CATEGORIES.has(e._category));
   } else {
     try {
       const res = await fetch('data/entries.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      entries = await res.json();
+      const all = await res.json();
+      entries = all.filter(e => STATION_CATEGORIES.has(e._category));
     } catch (err) {
       document.getElementById('entries').innerHTML =
         `<div style="padding:40px;text-align:center;color:var(--text-secondary)">
