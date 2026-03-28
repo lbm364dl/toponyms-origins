@@ -66,7 +66,7 @@ const LINE_COLORS = {
   'Tranvia Parla':'#5bc236',
   'C-1':'#62a0d8','C-2':'#00806a','C-3':'#a94394','C-4':'#0071ce',
   'C-5':'#f5d327','C-7':'#e77128','C-8':'#c5c625','C-9':'#8d1c8c','C-10':'#0097b5',
-  'C-4b':'#0071ce',
+  'C-3a':'#a94394','C-4a':'#0071ce','C-4b':'#0071ce',
 };
 
 async function init() {
@@ -510,20 +510,35 @@ function updateMap() {
     linesToDraw.push(...allLines);
   }
 
-  // Build coord lookup from ALL entries (not just filtered) so line traces are complete
-  const allStationCoords = {};
+  // Build coord lookup from ALL entries, keyed by name → array of {coords, lines}
+  // This handles name collisions (e.g. "Reyes Católicos" in Line 10 vs Tranvía de Parla)
+  const stationCoordsByName = {};
   entries.forEach(e => {
     if (e.latitude && e.longitude) {
-      allStationCoords[e.name] = [parseFloat(e.latitude), parseFloat(e.longitude)];
+      if (!stationCoordsByName[e.name]) stationCoordsByName[e.name] = [];
+      stationCoordsByName[e.name].push({
+        coords: [parseFloat(e.latitude), parseFloat(e.longitude)],
+        lines: (e.line || '').split(';').map(l => l.trim())
+      });
     }
   });
+
+  function getStationCoords(name, forLine) {
+    const candidates = stationCoordsByName[name];
+    if (!candidates) return null;
+    if (candidates.length === 1) return candidates[0].coords;
+    // Prefer the entry whose line field includes the line being drawn
+    const match = candidates.find(c => c.lines.includes(forLine));
+    return match ? match.coords : candidates[0].coords;
+  }
 
   linesToDraw.forEach(lineName => {
     if (typeof LINE_ORDERS === 'undefined' || !LINE_ORDERS[lineName]) return;
     const order = LINE_ORDERS[lineName];
     const coords = [];
     order.forEach(name => {
-      if (allStationCoords[name]) coords.push(allStationCoords[name]);
+      const c = getStationCoords(name, lineName);
+      if (c) coords.push(c);
     });
     if (coords.length >= 2) {
       const color = LINE_COLORS[lineName] || '#999';
