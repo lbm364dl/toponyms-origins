@@ -39,7 +39,7 @@ const I18N = {
     eyebrow: 'Datos abiertos',
     searchPlaceholder: 'Buscar nombres, etimologías, personas, lugares...',
     allStations: 'Todas', list: 'Lista', map: 'Mapa',
-    allTypes: 'Todos los tipos', allConfidence: 'Toda confianza', allLines: 'Todas las líneas',
+    allTypes: 'Todos los tipos', allConfidence: 'Toda fiabilidad', allLines: 'Todas las líneas',
     person: 'Persona', place: 'Lugar', descriptive: 'Descriptivo', historical: 'Histórico',
     religious: 'Religioso', event: 'Evento', occupation: 'Oficio', mythological: 'Mitológico', unknown: 'Desconocido',
     verified: 'Verificado', probable: 'Probable', uncertain: 'Incierto',
@@ -152,6 +152,9 @@ function applyLang() {
   confOpts.forEach((v, i) => {
     if (confEl.options[i]) confEl.options[i].text = v ? t(v) : t('allConfidence');
   });
+  // Update line filter first option
+  const lineEl = document.getElementById('filter-line');
+  if (lineEl.options[0]) lineEl.options[0].text = t('allLines');
 }
 
 function renderStats() {

@@ -357,8 +357,7 @@ footer a:hover { color: var(--accent); }
 @media (max-width: 640px) {
   header { padding: 40px 0 28px; }
   header h1 { font-size: 2rem; }
-  .hero-content { padding-right: 50px; }
-  .lang-toggle { top: 0; right: 0; }
+  .lang-toggle { top: -4px; right: 24px; }
   .subtitle { font-size: 0.95rem; }
   .stats { gap: 12px; }
   .stat-value { font-size: 1.5rem; }
