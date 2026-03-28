@@ -266,10 +266,11 @@ function openModal(id) {
   if (e.operator) add(t('operator'), esc(e.operator));
   if (e.municipality) add(t('municipality'), esc(e.municipality));
   if (e.latitude && e.longitude) {
-    const gmapsQuery = encodeURIComponent('estación ' + e.name);
+    const typeLabel = e._category === 'cercanias' ? 'Cercanías' : e._category === 'metro_ligero' ? 'metro ligero' : 'metro';
+    const gmapsPlace = encodeURIComponent(`Estación de ${typeLabel} ${e.name}, Madrid`);
     add(t('coordinates'),
       `<a class="source-link" href="https://www.openstreetmap.org/?mlat=${e.latitude}&mlon=${e.longitude}#map=16/${e.latitude}/${e.longitude}" target="_blank" rel="noopener">OpenStreetMap</a> · ` +
-      `<a class="source-link" href="https://www.google.com/maps/search/${gmapsQuery}/@${e.latitude},${e.longitude},17z" target="_blank" rel="noopener">Google Maps</a>`);
+      `<a class="source-link" href="https://www.google.com/maps/place/${gmapsPlace}" target="_blank" rel="noopener">Google Maps</a>`);
   }
 
   const sources = formatSources(e.source || '');
