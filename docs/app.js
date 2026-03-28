@@ -1,5 +1,8 @@
 let entries = [];
 let activeCategory = '';
+let map = null;
+let markers = null;
+let currentView = 'list';
 
 const CATEGORY_LABELS = {
   metro: 'Metro', cercanias: 'Cercanias', metro_ligero: 'ML / Tranvia',
@@ -52,6 +55,10 @@ async function init() {
   });
   document.getElementById('modal-close').addEventListener('click', closeModal);
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  // View toggle
+  document.getElementById('btn-list').addEventListener('click', () => setView('list'));
+  document.getElementById('btn-map').addEventListener('click', () => setView('map'));
 }
 
 function renderStats() {
@@ -209,5 +216,86 @@ function esc(s) {
   d.textContent = s;
   return d.innerHTML;
 }
+
+// ---- MAP ----
+const TYPE_COLORS = {
+  person: '#6d28d9', place: '#1d4ed8', descriptive: '#047857',
+  historical: '#b45309', religious: '#be185d', event: '#dc2626',
+  occupation: '#4338ca', mythological: '#7e22ce', unknown: '#737373'
+};
+
+function setView(view) {
+  currentView = view;
+  document.getElementById('btn-list').classList.toggle('active', view === 'list');
+  document.getElementById('btn-map').classList.toggle('active', view === 'map');
+  document.getElementById('entries').style.display = view === 'list' ? '' : 'none';
+  document.getElementById('map-container').style.display = view === 'map' ? '' : 'none';
+
+  if (view === 'map') {
+    if (!map) initMap();
+    updateMap();
+    setTimeout(() => map.invalidateSize(), 100);
+  }
+}
+
+function initMap() {
+  map = L.map('map').setView([40.42, -3.70], 12);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    maxZoom: 19
+  }).addTo(map);
+  markers = L.layerGroup().addTo(map);
+}
+
+function updateMap() {
+  if (!markers) return;
+  markers.clearLayers();
+  const filtered = getFiltered();
+  const bounds = [];
+
+  filtered.forEach(e => {
+    if (!e.latitude || !e.longitude) return;
+    const lat = parseFloat(e.latitude);
+    const lng = parseFloat(e.longitude);
+    if (isNaN(lat) || isNaN(lng)) return;
+
+    const color = TYPE_COLORS[e.etymology_type] || '#737373';
+    const icon = L.divIcon({
+      className: 'map-marker',
+      html: `<div style="width:10px;height:10px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.3)"></div>`,
+      iconSize: [14, 14],
+      iconAnchor: [7, 7]
+    });
+
+    const catLabel = CATEGORY_LABELS[e._category] || e._category;
+    const summary = e.etymology_summary ? esc(e.etymology_summary).substring(0, 180) + '...' : '';
+    const popup = `
+      <div class="map-popup-name">${esc(e.name)}</div>
+      <div class="map-popup-meta">${catLabel}${e.line ? ' · Line ' + e.line : ''}</div>
+      <div class="map-popup-summary">${summary}</div>
+      <div class="map-popup-link" onclick="closePopupsAndOpen('${e.id}')">Read full etymology →</div>
+    `;
+
+    const marker = L.marker([lat, lng], { icon }).bindPopup(popup);
+    markers.addLayer(marker);
+    bounds.push([lat, lng]);
+  });
+
+  if (bounds.length > 0) {
+    map.fitBounds(bounds, { padding: [30, 30], maxZoom: 14 });
+  }
+}
+
+function closePopupsAndOpen(id) {
+  map.closePopup();
+  openModal(id);
+}
+
+// Re-render map when filters change
+const origRender = render;
+render = function() {
+  origRender();
+  if (currentView === 'map') updateMap();
+};
 
 init();

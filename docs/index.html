@@ -7,6 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700&family=DM+Serif+Display&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 </head>
 <body>
 
@@ -62,6 +63,21 @@
     <div class="result-count" id="result-count"></div>
   </section>
 
+  <div class="view-toggle">
+    <button class="view-btn active" id="btn-list" aria-label="List view">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M2 4h12v1H2zm0 3.5h12v1H2zm0 3.5h12v1H2z"/></svg>
+      List
+    </button>
+    <button class="view-btn" id="btn-map" aria-label="Map view">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M5.5 1L1 3v12l4.5-2L11 15l4-2V1l-4 2L5.5 1zm0 1.3l4.5 1.8v9.6l-4.5-1.8V2.3zM2 3.7l2.5-1.1v9.7L2 13.4V3.7zm12 8.6l-2.5 1.1V3.7L14 2.6v9.7z"/></svg>
+      Map
+    </button>
+  </div>
+
+  <div id="map-container" class="map-container" style="display:none">
+    <div id="map" style="height:600px;border-radius:var(--radius);"></div>
+  </div>
+
   <div id="entries" class="entries"></div>
 </main>
 
@@ -86,6 +102,7 @@
   </div>
 </div>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script src="data/entries.js"></script>
 <script src="app.js"></script>
 </body>

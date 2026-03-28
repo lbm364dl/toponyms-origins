@@ -143,6 +143,32 @@ header .subtitle {
   margin-top: 10px; font-size: 0.8rem; color: var(--text-muted);
 }
 
+/* ---- VIEW TOGGLE ---- */
+.view-toggle {
+  display: flex; gap: 4px; margin: 12px 0 4px;
+}
+.view-btn {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 6px 14px; font-family: var(--font); font-size: 0.8rem; font-weight: 500;
+  border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+  background: var(--surface); color: var(--text-secondary);
+  cursor: pointer; transition: all 0.15s;
+}
+.view-btn:hover { border-color: var(--text-muted); }
+.view-btn.active { background: var(--hero-bg); color: var(--hero-text); border-color: var(--hero-bg); }
+
+/* ---- MAP ---- */
+.map-container { margin-bottom: 16px; }
+.map-container .leaflet-popup-content-wrapper {
+  border-radius: 10px; font-family: var(--font);
+}
+.map-container .leaflet-popup-content { margin: 12px 16px; max-width: 280px; }
+.map-popup-name { font-family: var(--font-display); font-size: 1.05rem; margin-bottom: 4px; }
+.map-popup-meta { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 6px; }
+.map-popup-summary { font-size: 0.8rem; line-height: 1.5; color: var(--text-secondary);
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.map-popup-link { display: inline-block; margin-top: 6px; font-size: 0.75rem; color: var(--accent); cursor: pointer; }
+
 /* ---- ENTRIES ---- */
 .entries {
   display: grid;
