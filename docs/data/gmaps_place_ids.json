@@ -91,10 +91,14 @@
     "query_used": "Mar de Cristal metro Madrid"
   },
   "metro_060": {
-    "place_id": "ChIJbWALKT4pQg0R6nxibfBqHDc",
-    "gmaps_name": "Estación de Madrid-Chamartín-Clara Campoamor",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWALKT4pQg0R6nxibfBqHDc",
-    "query_used": "Estación de Chamartín"
+    "place_id": "ChIJ0ZiXfxUpQg0RAW0xyx-572s",
+    "gmaps_name": "Chamartín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZiXfxUpQg0RAW0xyx-572s",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_061": {
     "place_id": "ChIJdxJKJScpQg0RsD_IQIMGA_4",
@@ -188,10 +192,14 @@
     "query_used": "Metro San Cipriano"
   },
   "metro_076": {
-    "place_id": "ChIJi0o_-FYmQg0RW9-olnxlelI",
-    "gmaps_name": "Estación de Hospital 12 de Octubre",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0o_-FYmQg0RW9-olnxlelI",
-    "query_used": "Hospital 12 de Octubre metro Madrid"
+    "place_id": "ChIJYUo_-FYmQg0RB9MeMhmSFxE",
+    "gmaps_name": "Hospital 12 de Octubre",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUo_-FYmQg0RB9MeMhmSFxE",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_077": {
     "place_id": "ChIJdVsp300mQg0RABw82xCmw88",
@@ -302,10 +310,14 @@
     "query_used": "Metro Ventura Rodríguez"
   },
   "metro_095": {
-    "place_id": "ChIJk2iKlNAnQg0RZZ5eoDndfFc",
-    "gmaps_name": "Estación de Puerta de Toledo",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2iKlNAnQg0RZZ5eoDndfFc",
-    "query_used": "Estación de Puerta de Toledo"
+    "place_id": "ChIJb0FJ0NAnQg0RzMV5ZmZZwMg",
+    "gmaps_name": "Puerta de Toledo",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0FJ0NAnQg0RzMV5ZmZZwMg",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_096": {
     "place_id": "ChIJsZ0eQNInQg0RAoXdEHMw1B4",
@@ -333,10 +345,14 @@
     "ambiguous": true
   },
   "metro_100": {
-    "place_id": "ChIJVfB0KpEoQg0RASP1x-TvLIY",
-    "gmaps_name": "Metro Serrano",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfB0KpEoQg0RASP1x-TvLIY",
-    "query_used": "Metro Serrano"
+    "place_id": "ChIJzaDGPJcoQg0REcyjYnGsJ8Y",
+    "gmaps_name": "Serrano",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaDGPJcoQg0REcyjYnGsJ8Y",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_101": {
     "place_id": "ChIJI9cL3pcoQg0R57O6P27ly5c",
@@ -351,10 +367,14 @@
     "query_used": "Metro Lista"
   },
   "metro_103": {
-    "place_id": "ChIJBe1dRpAoQg0RH1hSxM-Ps5E",
-    "gmaps_name": "Metro Colón",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJBe1dRpAoQg0RH1hSxM-Ps5E",
-    "query_used": "Metro Colón"
+    "place_id": "ChIJD0eeT5AoQg0RKmiDgCNgzAQ",
+    "gmaps_name": "Colón",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0eeT5AoQg0RKmiDgCNgzAQ",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_104": {
     "place_id": "ChIJQRFcdOgoQg0RxBVo0iF5uuk",
@@ -375,10 +395,14 @@
     "query_used": "Metro Cuzco"
   },
   "metro_107": {
-    "place_id": "ChIJ2UZ8PREpQg0RI839DSPtHzg",
-    "gmaps_name": "Estación de Plaza de Castilla",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UZ8PREpQg0RI839DSPtHzg",
-    "query_used": "Estación de Plaza de Castilla"
+    "place_id": "ChIJjXCKHhEpQg0RrYhMTPp19Bg",
+    "gmaps_name": "Plaza de Castilla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXCKHhEpQg0RrYhMTPp19Bg",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_108": {
     "place_id": "ChIJnd9rj1UoQg0R2fRxMzWR_rE",
@@ -443,10 +467,14 @@
     "query_used": "Metro Campamento"
   },
   "metro_118": {
-    "place_id": "ChIJn23_FgaIQQ0RVzwYiEqfsQA",
+    "place_id": "ChIJOybAJAaIQQ0RVT4ZeBmijd4",
     "gmaps_name": "Batán",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJn23_FgaIQQ0RVzwYiEqfsQA",
-    "query_used": "Estación de Batán"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOybAJAaIQQ0RVT4ZeBmijd4",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_119": {
     "place_id": "ChIJSxOOfAYoQg0R7VZdFklbDcM",
@@ -738,10 +766,15 @@
     "query_used": "Estación de Alameda de Osuna"
   },
   "metro_167": {
-    "place_id": "ChIJ34ftyh8qQg0RlcMNFs6vMlE",
-    "gmaps_name": "Estación de Pitis",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34ftyh8qQg0RlcMNFs6vMlE",
-    "query_used": "Estación de Pitis"
+    "place_id": "ChIJXTFiSx4qQg0RjqEcPSxC6Vw",
+    "gmaps_name": "Pitis",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTFiSx4qQg0RjqEcPSxC6Vw",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "train_station",
+      "transit_station",
+      "subway_station"
+    ]
   },
   "metro_168": {
     "place_id": "ChIJx-ihVPQpQg0R6B9l8lSQ4aY",
@@ -792,10 +825,14 @@
     "query_used": "Metro Barrio del Puerto"
   },
   "metro_176": {
-    "place_id": "ChIJ812QygwwQg0R6ItYWyY-Kj4",
+    "place_id": "ChIJFVxiygwwQg0R4B6Obpc2090",
     "gmaps_name": "Coslada Central",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ812QygwwQg0R6ItYWyY-Kj4",
-    "query_used": "estación de metro Coslada Central"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVxiygwwQg0R4B6Obpc2090",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_195": {
     "place_id": "ChIJ8VMZqXswQg0RBCfQynIBspU",
@@ -804,10 +841,14 @@
     "query_used": "Metro La Rambla"
   },
   "metro_178": {
-    "place_id": "ChIJp5S0GIQwQg0R52Qge9Mt_9U",
+    "place_id": "ChIJB1H-xfMwQg0RZewT9r6_A84",
     "gmaps_name": "San Fernando",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5S0GIQwQg0R52Qge9Mt_9U",
-    "query_used": "Metro San Fernando"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJB1H-xfMwQg0RZewT9r6_A84",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "transit_station",
+      "train_station"
+    ]
   },
   "metro_179": {
     "place_id": "ChIJFz5mqJ4wQg0R5jsd6XDAAdA",
@@ -876,10 +917,14 @@
     "query_used": "Estación de Valdecarros"
   },
   "metro_249": {
-    "place_id": "ChIJyVwEB40vQg0R5bUqn5iotxI",
-    "gmaps_name": "Metro Las Rosas",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVwEB40vQg0R5bUqn5iotxI",
-    "query_used": "parada Las Rosas"
+    "place_id": "ChIJkfISHY0vQg0RyuMLGG_ou6A",
+    "gmaps_name": "Las Rosas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfISHY0vQg0RyuMLGG_ou6A",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_250": {
     "place_id": "ChIJcVYjjIUvQg0Ru0zfl0MrrQ4",
@@ -980,10 +1025,14 @@
     "query_used": "Metro Aviación Española"
   },
   "metro_208": {
-    "place_id": "ChIJuWteRW8pQg0RIO3T4BOj5zk",
-    "gmaps_name": "Metro Begoña",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWteRW8pQg0RIO3T4BOj5zk",
-    "query_used": "Metro Begoña"
+    "place_id": "ChIJF-g-bmkpQg0RrWhIxuFfltw",
+    "gmaps_name": "Begoña",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-g-bmkpQg0RrWhIxuFfltw",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_209": {
     "place_id": "ChIJ8xNn-NcrQg0R-2x5h1TOjDk",
@@ -998,10 +1047,14 @@
     "query_used": "Metro Ronda de la Comunicación"
   },
   "metro_211": {
-    "place_id": "ChIJubWJlnksQg0RWP9rcqogQ0s",
-    "gmaps_name": "Granja-Est.La Granja",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJubWJlnksQg0RWP9rcqogQ0s",
-    "query_used": "Estación de La Granja"
+    "place_id": "ChIJ6c01vnksQg0RiBj7xLmZITE",
+    "gmaps_name": "La Granja",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6c01vnksQg0RiBj7xLmZITE",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_212": {
     "place_id": "ChIJaWeA31ssQg0RITg1sTs7_co",
@@ -1203,16 +1256,25 @@
     "ambiguous": true
   },
   "cercanias_003": {
-    "place_id": "ChIJF9jNRSQmQg0RWwNljcL5Rzk",
-    "gmaps_name": "Estación Madrid - Puerta de Atocha",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9jNRSQmQg0RWwNljcL5Rzk",
-    "query_used": "Cercanías Atocha"
+    "place_id": "ChIJA-pTRiQmQg0RSaADkNa57tI",
+    "gmaps_name": "Atocha",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-pTRiQmQg0RSaADkNa57tI",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "train_station",
+      "transit_station",
+      "subway_station"
+    ]
   },
   "cercanias_004": {
-    "place_id": "ChIJwdHqfxUpQg0RVpK7cgUW6yk",
-    "gmaps_name": "Chamartín-Clara Campoamor",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdHqfxUpQg0RVpK7cgUW6yk",
-    "query_used": "Estación de Cercanías Chamartín-Clara Campoamor"
+    "place_id": "ChIJ0ZiXfxUpQg0RAW0xyx-572s",
+    "gmaps_name": "Chamartín",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZiXfxUpQg0RAW0xyx-572s",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_005": {
     "place_id": "ChIJZ_CdPuUoQg0RzHbOEuQj6SA",
@@ -1245,10 +1307,14 @@
     "query_used": "estación de metro Méndez Álvaro"
   },
   "cercanias_010": {
-    "place_id": "ChIJhz0mgDAmQg0ROg1Hq25ND00",
+    "place_id": "ChIJf0tZ8jAmQg0RCNfaRO_UW5E",
     "gmaps_name": "Delicias",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJhz0mgDAmQg0ROg1Hq25ND00",
-    "query_used": "Cercanías Delicias"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0tZ8jAmQg0RCNfaRO_UW5E",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_011": {
     "place_id": "ChIJD3LgJtAnQg0REkusFhF3_Ew",
@@ -1311,10 +1377,14 @@
     "query_used": "Cercanías Getafe Sector 3"
   },
   "cercanias_021": {
-    "place_id": "ChIJQau52LYgQg0RJuHfW7yktt8",
-    "gmaps_name": "Las Margaritas-Universidad",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQau52LYgQg0RJuHfW7yktt8",
-    "query_used": "Cercanías Las Margaritas Universidad"
+    "place_id": "ChIJo_Yv37YgQg0RFE7VQRMGtl4",
+    "gmaps_name": "Las Margaritas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_Yv37YgQg0RFE7VQRMGtl4",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "train_station",
+      "transit_station"
+    ]
   },
   "cercanias_022": {
     "place_id": "ChIJ1S9OTdogQg0RzPYeKAzSULc",
@@ -1353,10 +1423,14 @@
     "query_used": "Cercanías Parla"
   },
   "cercanias_028": {
-    "place_id": "ChIJEURaYecrQg0Ry2e_FJHaXik",
+    "place_id": "ChIJ8xNn-NcrQg0R-2x5h1TOjDk",
     "gmaps_name": "Fuencarral",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJEURaYecrQg0Ry2e_FJHaXik",
-    "query_used": "Cercanías Fuencarral"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xNn-NcrQg0R-2x5h1TOjDk",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_029": {
     "place_id": "ChIJ337eHwMrQg0RbezeFRLxs70",
@@ -1401,10 +1475,14 @@
     "query_used": "Estación de Cercanías Santa Eugenia"
   },
   "cercanias_036": {
-    "place_id": "ChIJ812QygwwQg0R6ItYWyY-Kj4",
+    "place_id": "ChIJFVxiygwwQg0R4B6Obpc2090",
     "gmaps_name": "Coslada Central",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ812QygwwQg0R6ItYWyY-Kj4",
-    "query_used": "Cercanías Coslada"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVxiygwwQg0R4B6Obpc2090",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_037": {
     "place_id": "ChIJB1H-xfMwQg0RZewT9r6_A84",
@@ -1469,10 +1547,15 @@
     "query_used": "Cercanías Aluche"
   },
   "cercanias_047": {
-    "place_id": "ChIJz0fzm0aIQQ0R64vX3ST0BlU",
-    "gmaps_name": "Maestra Justa Freire-Polideportivo Aluche",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0fzm0aIQQ0R64vX3ST0BlU",
-    "query_used": "Cercanías Maestra Justa Freire-Polideportivo Aluche"
+    "place_id": "ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "gmaps_name": "Aluche",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Y70z6IQQ0Rod6ykz1wisc",
+    "query_used": "nearby_search (1m)",
+    "types": [
+      "train_station",
+      "transit_station",
+      "subway_station"
+    ]
   },
   "cercanias_048": {
     "place_id": "ChIJ0QtBlVmIQQ0REM_3Z1st4lw",
@@ -1676,11 +1759,14 @@
     "query_used": "Cotos cercanías Madrid"
   },
   "cercanias_081": {
-    "place_id": "ChIJj9UZty4qQg0RGvv4mK6-bug",
-    "gmaps_name": "Mirasierra-Paco de Lucía",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9UZty4qQg0RGvv4mK6-bug",
-    "query_used": "Cercanías Mirasierra-Paco de Lucía",
-    "ambiguous": true
+    "place_id": "ChIJ3XkOty4qQg0RczQTYT2nZnU",
+    "gmaps_name": "Paco de Lucía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XkOty4qQg0RczQTYT2nZnU",
+    "query_used": "nearby_search (1m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_082": {
     "place_id": "ChIJe4u_cnspQg0Rb1JlISWrIQk",
@@ -1689,11 +1775,15 @@
     "query_used": "Cercanías Ramón y Cajal"
   },
   "cercanias_083": {
-    "place_id": "ChIJ34ftyh8qQg0RlcMNFs6vMlE",
-    "gmaps_name": "Estación de Pitis",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34ftyh8qQg0RlcMNFs6vMlE",
-    "query_used": "Cercanías Pitis",
-    "ambiguous": true
+    "place_id": "ChIJXTFiSx4qQg0RjqEcPSxC6Vw",
+    "gmaps_name": "Pitis",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTFiSx4qQg0RjqEcPSxC6Vw",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "train_station",
+      "transit_station",
+      "subway_station"
+    ]
   },
   "cercanias_084": {
     "place_id": "ChIJS612_RbVQw0R28J04ohvA98",
@@ -1708,22 +1798,34 @@
     "query_used": "Cercanías Valdebebas"
   },
   "cercanias_086": {
-    "place_id": "ChIJQ__pAaklQg0R5A6ujTEfbg0",
-    "gmaps_name": "Vallecas",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ__pAaklQg0R5A6ujTEfbg0",
-    "query_used": "Cercanías Vallecas"
+    "place_id": "ChIJ_zq1rQAlQg0R8gCWQZInKBo",
+    "gmaps_name": "Villa de Vallecas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zq1rQAlQg0R8gCWQZInKBo",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_087": {
-    "place_id": "ChIJrUGcBEQlQg0R_9l2NsSJvCk",
+    "place_id": "ChIJl9WbC28lQg0RFZyJNzOOQ6Q",
     "gmaps_name": "Vicálvaro",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUGcBEQlQg0R_9l2NsSJvCk",
-    "query_used": "Cercanías Vicálvaro"
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9WbC28lQg0RFZyJNzOOQ6Q",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_088": {
-    "place_id": "ChIJlVw8n-omQg0RtSx4w2FqivM",
-    "gmaps_name": "Villaverde Bajo",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVw8n-omQg0RtSx4w2FqivM",
-    "query_used": "Cercanías Villaverde Bajo"
+    "place_id": "ChIJh4VutcImQg0RQXffwqdqvAY",
+    "gmaps_name": "Villaverde Bajo-Cruce",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4VutcImQg0RQXffwqdqvAY",
+    "query_used": "nearby_search (1m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "cercanias_089": {
     "place_id": "ChIJ99N09S8nQg0R7IV_ggFFt4M",
@@ -1816,10 +1918,14 @@
     "query_used": "Estación Palas de Rey"
   },
   "ml_009": {
-    "place_id": "ChIJfcd-A_ErQg0RcGEVuxBTtxE",
-    "gmaps_name": "Estación de Las Tablas",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcd-A_ErQg0RcGEVuxBTtxE",
-    "query_used": "Estación Las Tablas"
+    "place_id": "ChIJe8d-A_ErQg0RfpZQCckcfrQ",
+    "gmaps_name": "Las Tablas",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8d-A_ErQg0RfpZQCckcfrQ",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "ml_010": {
     "place_id": "ChIJacohjmWIQQ0RVjO0Z-ych-c",
@@ -2008,10 +2114,14 @@
     "query_used": "Metro Ligero La Ballena"
   },
   "ml_041": {
-    "place_id": "ChIJRY5_MDH1QQ0R910kMLrZijQ",
-    "gmaps_name": "Parla Centro - Bulevar Norte",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRY5_MDH1QQ0R910kMLrZijQ",
-    "query_used": "Metro Ligero Parla Centro-Bulevar Norte"
+    "place_id": "ChIJV5nQ_DP1QQ0Rvnw6thhNV50",
+    "gmaps_name": "Parla",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5nQ_DP1QQ0Rvnw6thhNV50",
+    "query_used": "nearby_search (1m)",
+    "types": [
+      "transit_station",
+      "train_station"
+    ]
   },
   "ml_042": {
     "place_id": "ChIJZ01ynDD1QQ0RGK-JDikZrag",
@@ -2032,10 +2142,13 @@
     "query_used": "Estación Reyes Católicos"
   },
   "ml_045": {
-    "place_id": "ChIJL-21aj_1QQ0ReAVrQg4_9D0",
-    "gmaps_name": "Isabel II",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-21aj_1QQ0ReAVrQg4_9D0",
-    "query_used": "Estación Isabel II"
+    "place_id": "ChIJOamU7jj1QQ0R4Darq1MGh58",
+    "gmaps_name": "Isabel II-Centro de Salud",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJOamU7jj1QQ0R4Darq1MGh58",
+    "query_used": "nearby_search (1m)",
+    "types": [
+      "transit_station"
+    ]
   },
   "ml_046": {
     "place_id": "ChIJL9V7MkD1QQ0RNH_L9BOy0ak",
@@ -2087,18 +2200,24 @@
     "ambiguous": true
   },
   "metro_002": {
-    "place_id": "ChIJQXdKcIcoQg0RhhvxnOPR2m0",
-    "gmaps_name": "Metro Gran Vía",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXdKcIcoQg0RhhvxnOPR2m0",
-    "query_used": "Gran Vía Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJofJecocoQg0RSPXAS2CmrzI",
+    "gmaps_name": "Gran Vía",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJofJecocoQg0RSPXAS2CmrzI",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_003": {
-    "place_id": "ChIJI5kBZdUnQg0RNo77LQDRx54",
-    "gmaps_name": "Estación de Tirso de Molina",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5kBZdUnQg0RNo77LQDRx54",
-    "query_used": "Tirso de Molina Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJI5kBZdUnQg0RsfDJDrfChEQ",
+    "gmaps_name": "Tirso de Molina",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5kBZdUnQg0RsfDJDrfChEQ",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_004": {
     "place_id": "ChIJM1FWdNYnQg0RqexuceK8OVI",
@@ -2163,25 +2282,34 @@
     "ambiguous": false
   },
   "metro_013": {
-    "place_id": "ChIJRSFsL6MoQg0RqVNSlw8N7co",
-    "gmaps_name": "Metro Príncipe de Vergara",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSFsL6MoQg0RqVNSlw8N7co",
-    "query_used": "Príncipe de Vergara Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJbR2R2KIoQg0RolNGCond4Es",
+    "gmaps_name": "Príncipe de Vergara",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR2R2KIoQg0RolNGCond4Es",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_014": {
-    "place_id": "ChIJT0w5X9EoQg0RwtQiJ4GOc04",
-    "gmaps_name": "Estación de Alfonso XIII",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0w5X9EoQg0RwtQiJ4GOc04",
-    "query_used": "Alfonso XIII Madrid metro",
-    "ambiguous": false
+    "place_id": "ChIJC7i8Z9EoQg0R35y_QjqS0hQ",
+    "gmaps_name": "Alfonso XIII",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7i8Z9EoQg0R35y_QjqS0hQ",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_015": {
-    "place_id": "ChIJgVOH3u0oQg0RORzTmkrjAc0",
-    "gmaps_name": "Estación de Gregorio Marañón",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVOH3u0oQg0RORzTmkrjAc0",
-    "query_used": "Gregorio Marañón Madrid metro",
-    "ambiguous": false
+    "place_id": "ChIJ4Ut95-0oQg0Rb9ofbHZH6jk",
+    "gmaps_name": "Gregorio Marañón",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ut95-0oQg0Rb9ofbHZH6jk",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_016": {
     "place_id": "ChIJ3XkOty4qQg0RczQTYT2nZnU",
@@ -2254,11 +2382,14 @@
     "ambiguous": false
   },
   "metro_026": {
-    "place_id": "ChIJ1b_fuCUmQg0RVHJEHD5i1FE",
+    "place_id": "ChIJNbSXHCYmQg0RUhUT2ytPcTM",
     "gmaps_name": "Estación del Arte",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b_fuCUmQg0RVHJEHD5i1FE",
-    "query_used": "Estación del Arte Madrid metro",
-    "ambiguous": false
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbSXHCYmQg0RUhUT2ytPcTM",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_027": {
     "place_id": "ChIJebEwKFEuQg0Rng0gj_bl5s8",
@@ -2289,11 +2420,14 @@
     "ambiguous": false
   },
   "metro_031": {
-    "place_id": "ChIJ-Q6Hr4koQg0R6Fz47gX82-o",
-    "gmaps_name": "Estación de Tribunal",
-    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q6Hr4koQg0R6Fz47gX82-o",
-    "query_used": "Tribunal Madrid metro",
-    "ambiguous": true
+    "place_id": "ChIJ_5NFsIkoQg0RfAXGpzkK-AM",
+    "gmaps_name": "Tribunal",
+    "gmaps_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5NFsIkoQg0RfAXGpzkK-AM",
+    "query_used": "nearby_search (0m)",
+    "types": [
+      "subway_station",
+      "transit_station"
+    ]
   },
   "metro_032": {
     "place_id": "ChIJiYm1emMoQg0RHf6nGz3K1Og",
