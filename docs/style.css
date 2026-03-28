@@ -55,6 +55,14 @@ header {
     radial-gradient(ellipse 60% 50% at 20% 80%, rgba(29,78,216,0.1), transparent);
 }
 .hero-content { position: relative; z-index: 1; }
+.lang-toggle {
+  position: absolute; top: 0; right: 0;
+  padding: 6px 14px; font-family: var(--font); font-size: 0.75rem; font-weight: 700;
+  letter-spacing: 0.08em; border: 1.5px solid rgba(255,255,255,0.3);
+  border-radius: var(--radius-sm); background: transparent; color: rgba(255,255,255,0.7);
+  cursor: pointer; transition: all 0.15s;
+}
+.lang-toggle:hover { border-color: rgba(255,255,255,0.6); color: white; }
 .hero-eyebrow {
   display: inline-block;
   font-size: 0.75rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase;
@@ -234,7 +242,7 @@ header .subtitle {
 
 /* ---- MODAL ---- */
 .modal-overlay {
-  display: none; position: fixed; inset: 0; z-index: 100;
+  display: none; position: fixed; inset: 0; z-index: 10000;
   background: rgba(26,22,19,0.55); backdrop-filter: blur(4px);
   justify-content: center; align-items: start;
   padding: 5vh 20px 20px;
@@ -326,17 +334,26 @@ footer {
 footer a { color: var(--text-secondary); text-decoration: none; }
 footer a:hover { color: var(--accent); }
 
+/* ---- MAP Z-INDEX ---- */
+.map-container { position: relative; z-index: 1; }
+
 /* ---- RESPONSIVE ---- */
 @media (max-width: 640px) {
   header { padding: 48px 0 36px; }
   header h1 { font-size: 2.2rem; }
-  .stats { gap: 20px; }
+  .lang-toggle { top: -8px; }
+  .stats { gap: 16px; }
   .stat-value { font-size: 1.6rem; }
   .filter-row { flex-direction: column; align-items: stretch; }
-  .filter-selects { margin-left: 0; }
+  .filter-selects { margin-left: 0; flex-wrap: wrap; }
+  .filter-selects select { flex: 1; min-width: 100px; }
+  .filter-pills { overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .entries { grid-template-columns: 1fr; }
+  .view-toggle { flex-wrap: wrap; }
+  #map { height: 400px !important; }
   .modal { padding: 24px 20px; border-radius: 12px; }
   .modal h2 { font-size: 1.4rem; }
   .modal .detail-grid { grid-template-columns: 1fr; }
   .modal .detail-label { font-weight: 600; }
+  .modal .etymology-summary { padding: 14px; font-size: 0.9rem; }
 }
