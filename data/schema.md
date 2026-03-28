@@ -15,7 +15,7 @@ All CSV files use UTF-8 encoding, comma separator, and double-quote escaping.
 | `latitude` | float | no | WGS84 |
 | `longitude` | float | no | WGS84 |
 | `etymology_type` | enum | no | `person` / `event` / `place` / `descriptive` / `historical` / `occupation` / `religious` / `mythological` / `literary` / `unknown` |
-| `etymology_summary` | string | no | 1-3 sentence explanation of name origin |
+| `etymology_summary` | string | no | Narrative explanation of name origin with historical context (typically 3-6 sentences) |
 | `named_after` | string | no | Who/what (human-readable) |
 | `named_after_wikidata` | string | no | Wikidata Q-identifier |
 | `person_gender` | enum | no | `M` / `F` / `NB` (if etymology_type=person) |
