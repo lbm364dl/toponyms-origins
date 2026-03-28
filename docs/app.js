@@ -221,7 +221,7 @@ function render() {
 function cardHTML(e) {
   const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
   const etType = e.etymology_type || 'unknown';
-  const summary = e.etymology_summary || '';
+  const summary = (lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || '');
   const district = e.district || '';
   const line = e.line ? `${t('lines').split('(')[0]} ${e.line}` : '';
   const meta = [catLabel, district, line].filter(Boolean).join(' \u00b7 ');
@@ -285,7 +285,7 @@ function openModal(id) {
       <span class="badge badge-type ${etType}">${t(etType)}</span>
       <span class="badge badge-confidence ${e.confidence || ''}">${t(e.confidence || '')}</span>
     </div>
-    <div class="etymology-summary">${esc(e.etymology_summary || '')}</div>
+    <div class="etymology-summary">${esc((lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || ''))}</div>
     ${details ? `<div class="detail-grid">${details}</div>` : ''}
     ${wikidata}
     <div class="sources"><strong>${t('sources')}</strong><br>${sources}</div>
@@ -358,22 +358,44 @@ function updateMap() {
 
   // Group stations by line to draw connecting lines
   const byLine = {};
+  const stationCoords = {};
   filtered.forEach(e => {
-    if (!e.latitude || !e.longitude || !e.line) return;
+    if (!e.latitude || !e.longitude) return;
+    stationCoords[e.name] = [parseFloat(e.latitude), parseFloat(e.longitude)];
+    if (!e.line) return;
     e.line.split(';').forEach(l => {
       l = l.trim();
       if (!byLine[l]) byLine[l] = [];
-      byLine[l].push([parseFloat(e.latitude), parseFloat(e.longitude)]);
+      byLine[l].push({ name: e.name, lat: parseFloat(e.latitude), lng: parseFloat(e.longitude) });
     });
   });
 
-  // Draw line traces
-  Object.entries(byLine).forEach(([lineName, coords]) => {
-    if (coords.length < 2) return;
-    // Sort roughly by latitude/longitude to approximate route order
-    coords.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
-    const color = LINE_COLORS[lineName] || '#999';
-    L.polyline(coords, { color, weight: 3, opacity: 0.4, dashArray: '6,4' }).addTo(lineLayer);
+  // Draw line traces using proper station order if available
+  Object.entries(byLine).forEach(([lineName, stations]) => {
+    if (stations.length < 2) return;
+    let coords;
+    if (typeof LINE_ORDERS !== 'undefined' && LINE_ORDERS[lineName]) {
+      // Use known station order
+      const order = LINE_ORDERS[lineName];
+      const ordered = [];
+      order.forEach(name => {
+        const s = stations.find(st => st.name === name);
+        if (s) ordered.push([s.lat, s.lng]);
+      });
+      // Add any stations not in order list at the end
+      stations.forEach(s => {
+        if (!order.includes(s.name)) ordered.push([s.lat, s.lng]);
+      });
+      coords = ordered;
+    } else {
+      // Fallback: sort by lat/lng
+      stations.sort((a, b) => a.lat - b.lat || a.lng - b.lng);
+      coords = stations.map(s => [s.lat, s.lng]);
+    }
+    if (coords.length >= 2) {
+      const color = LINE_COLORS[lineName] || '#999';
+      L.polyline(coords, { color, weight: 3, opacity: 0.5 }).addTo(lineLayer);
+    }
   });
 
   // Draw station markers
@@ -392,7 +414,8 @@ function updateMap() {
     });
 
     const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
-    const summary = e.etymology_summary ? esc(e.etymology_summary).substring(0, 180) + '...' : '';
+    const rawSummary = (lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || '');
+    const summary = rawSummary ? esc(rawSummary).substring(0, 180) + '...' : '';
     const popup = `
       <div class="map-popup-name">${esc(e.name)}</div>
       <div class="map-popup-meta">${catLabel}${e.line ? ' · ' + e.line : ''}</div>

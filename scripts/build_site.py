@@ -16,6 +16,9 @@ FILES = {
     'streets': 'data/madrid_streets.csv',
 }
 
+TRANSLATIONS_FILE = os.path.join(ROOT, 'docs', 'data', 'translations_es.json')
+LINE_ORDER_FILE = os.path.join(ROOT, 'docs', 'data', 'line_orders.json')
+
 def build():
     all_entries = []
     for key, relpath in FILES.items():
@@ -35,13 +38,22 @@ def build():
                 entry['_category'] = key
                 all_entries.append(entry)
 
+    # Merge Spanish translations if available
+    if os.path.exists(TRANSLATIONS_FILE):
+        with open(TRANSLATIONS_FILE, 'r', encoding='utf-8') as f:
+            translations = json.load(f)
+        for entry in all_entries:
+            es_text = translations.get(entry.get('id', ''))
+            if es_text:
+                entry['etymology_summary_es'] = es_text
+        print(f"  Merged {sum(1 for e in all_entries if 'etymology_summary_es' in e)} Spanish translations")
+
     out_dir = os.path.join(ROOT, 'docs', 'data')
     os.makedirs(out_dir, exist_ok=True)
 
     with open(os.path.join(out_dir, 'entries.json'), 'w', encoding='utf-8') as f:
         json.dump(all_entries, f, ensure_ascii=False)
 
-    # Also generate a JS file so the site works when opened via file://
     with open(os.path.join(out_dir, 'entries.js'), 'w', encoding='utf-8') as f:
         f.write('const ENTRIES_DATA = ')
         json.dump(all_entries, f, ensure_ascii=False)
