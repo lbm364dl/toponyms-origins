@@ -20,11 +20,12 @@ const I18N = {
     eyebrow: 'Open dataset',
     searchPlaceholder: 'Search names, etymologies, people, places...',
     allStations: 'All stations', list: 'List', map: 'Map',
-    allTypes: 'All types', allConfidence: 'All confidence', allLines: 'All lines',
+    allTypes: 'All types', allConfidence: 'All confidence levels', allLines: 'All lines',
     person: 'Person', place: 'Place', descriptive: 'Descriptive', historical: 'Historical',
     religious: 'Religious', event: 'Event', occupation: 'Occupation', mythological: 'Mythological', unknown: 'Unknown',
     verified: 'Verified', probable: 'Probable', uncertain: 'Uncertain',
     places: 'Stations', sources: 'Sources', namedAfter: 'Named after',
+    footerTitle: 'Madrid Toponymy Dataset',
     gender: 'Gender', male: 'Male', female: 'Female', lived: 'Lived',
     profession: 'Profession', nationality: 'Nationality', district: 'District',
     neighbourhood: 'Neighbourhood', lines: 'Line(s)', opened: 'Opened',
@@ -40,12 +41,13 @@ const I18N = {
     eyebrow: 'Datos abiertos',
     searchPlaceholder: 'Buscar nombres, etimologías, personas, lugares...',
     allStations: 'Todas', list: 'Lista', map: 'Mapa',
-    allTypes: 'Todos los tipos', allConfidence: 'Toda fiabilidad', allLines: 'Todas las líneas',
+    allTypes: 'Todos los tipos', allConfidence: 'Todos los niveles', allLines: 'Todas las líneas',
     person: 'Persona', place: 'Lugar', descriptive: 'Descriptivo', historical: 'Histórico',
     religious: 'Religioso', event: 'Evento', occupation: 'Oficio', mythological: 'Mitológico', unknown: 'Desconocido',
     verified: 'Verificado', probable: 'Probable', uncertain: 'Incierto',
-    places: 'Estaciones', sources: 'Fuentes', namedAfter: 'Nombrado por',
-    gender: 'Género', male: 'Hombre', female: 'Mujer', lived: 'Vivió',
+    places: 'Estaciones', sources: 'Fuentes', namedAfter: 'Origen del nombre',
+    footerTitle: 'Dataset de Toponimia de Madrid',
+    gender: 'Género', male: 'Masculino', female: 'Femenino', lived: 'Vivió',
     profession: 'Profesión', nationality: 'Nacionalidad', district: 'Distrito',
     neighbourhood: 'Barrio', lines: 'Línea(s)', opened: 'Inauguración',
     namedIn: 'Nombrado en', formerNames: 'Nombres anteriores', operator: 'Operador',
@@ -205,6 +207,7 @@ function applyLang() {
   document.getElementById('btn-list').lastChild.textContent = ' ' + t('list');
   document.getElementById('btn-map').lastChild.textContent = ' ' + t('map');
   document.querySelector('.footer-note').textContent = t('footer');
+  document.getElementById('footer-title').textContent = t('footerTitle');
 
   // Update selects
   const typeOpts = ['', 'person','place','descriptive','historical','religious','event','occupation','mythological','unknown'];
@@ -408,7 +411,7 @@ const PROF_ES = {
   'playwright':'dramaturgo','sculptor':'escultor','engineer':'ingeniero',
   'inventor':'inventor','aviator':'aviador','saint':'santo','friar':'fraile',
   'priest':'sacerdote','bishop':'obispo','deacon':'diácono','martyr':'mártir',
-  'nurse':'enfermero','educator':'educador','pedagogue':'pedagoga','teacher':'maestra',
+  'nurse':'enfermero/a','educator':'educador/a','pedagogue':'pedagogo/a','teacher':'maestro/a',
   'urban planner':'urbanista','urbanist':'urbanista','developer':'promotor',
   'landowner':'terrateniente','merchant':'comerciante','nobleman':'noble',
   'aristocrat':'aristócrata','prince':'príncipe','princess':'princesa',
@@ -427,6 +430,7 @@ const PROF_ES = {
   'hospital founder':'fundador de hospital','councillor':'concejal',
   'governor':'gobernador','ceramics historian':'historiador de cerámica',
   'seamstress':'costurera','mathematician':'matemático',
+  'royal':'real','corregidor (chief magistrate)':'corregidor','military; regent':'militar; regente',
 };
 const NAT_ES = {
   'Spanish':'español/a','Italian':'italiano/a','French':'francés/a',
