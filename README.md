@@ -15,8 +15,8 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 ├── SOURCES.md                             # Master catalogue of all 140+ sources
 ├── data/
 │   ├── schema.md                          # Dataset schema documentation
-│   ├── madrid_metro_stations.csv          # 242 Metro stations with etymology (ALL lines 1-12 + Ramal)
-│   ├── madrid_cercanias_stations.csv      # 76 Cercanias stations with etymology (all lines)
+│   ├── madrid_metro_stations.csv          # 243 Metro stations with etymology (ALL lines 1-12 + Ramal)
+│   ├── madrid_cercanias_stations.csv      # 77 Cercanias stations with etymology (all lines)
 │   ├── madrid_metro_ligero_stations.csv   # 48 Metro Ligero + Tranvia stations (ALL lines)
 │   ├── madrid_districts.csv              # All 21 distritos with etymology
 │   ├── madrid_neighbourhoods.csv          # 20 key barrios with etymology
@@ -55,8 +55,8 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 | File | Entries | Coverage |
 |------|---------|----------|
-| `madrid_metro_stations.csv` | **242** | ALL Metro stations (lines 1-12 + Ramal), all with etymology |
-| `madrid_cercanias_stations.csv` | **76** | Cercanias Madrid stations (all lines), all with etymology |
+| `madrid_metro_stations.csv` | **243** | ALL Metro stations (lines 1-12 + Ramal), all with etymology |
+| `madrid_cercanias_stations.csv` | **77** | Cercanias Madrid stations (all lines), all with etymology |
 | `madrid_metro_ligero_stations.csv` | **48** | ALL ML1/ML2/ML3 + Tranvia de Parla stations |
 | `madrid_districts.csv` | **21** | All 21 distritos |
 | `madrid_neighbourhoods.csv` | **20** | Key barrios |
@@ -64,7 +64,7 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 | `madrid_streets.csv` | **30** | Seed streets (hand-curated) |
 | `osm_etymology_processed.csv` | **1,427** | Unique streets with Wikidata etymology IDs (from OSM) |
 | `wikidata_streets_named_after.csv` | **1,559** | Streets with full biographical "named after" data |
-| **Total hand-curated** | **451** | Transport stations + districts + neighbourhoods + streets |
+| **Total hand-curated** | **453** | Transport stations + districts + neighbourhoods + streets |
 | **Total with any etymology** | **~2,000** | (OSM and Wikidata datasets overlap significantly) |
 
 ## Key Finding

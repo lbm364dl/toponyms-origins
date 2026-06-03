@@ -71,6 +71,9 @@ const LINE_COLORS = {
   'C-3a':'#a94394','C-4a':'#0071ce','C-4b':'#0071ce',
 };
 
+const LOOP_LINES = new Set(['6', '12', 'Tranvia Parla']);
+const LINE_ALIAS_PARENTS = { 'C-4a': 'C-4', 'C-4b': 'C-4' };
+
 async function init() {
   const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
   if (typeof ENTRIES_DATA !== 'undefined') {
@@ -510,6 +513,9 @@ function updateMap() {
     filtered.forEach(e => {
       if (e.line) e.line.split(';').forEach(l => allLines.add(l.trim()));
     });
+    Object.entries(LINE_ALIAS_PARENTS).forEach(([alias, parent]) => {
+      if (allLines.has(parent)) allLines.delete(alias);
+    });
     linesToDraw.push(...allLines);
   }
 
@@ -537,16 +543,22 @@ function updateMap() {
 
   linesToDraw.forEach(lineName => {
     if (typeof LINE_ORDERS === 'undefined' || !LINE_ORDERS[lineName]) return;
-    const order = LINE_ORDERS[lineName];
-    const coords = [];
-    order.forEach(name => {
-      const c = getStationCoords(name, lineName);
-      if (c) coords.push(c);
+    const rawOrder = LINE_ORDERS[lineName];
+    const branches = Array.isArray(rawOrder[0]) ? rawOrder : [rawOrder];
+    branches.forEach(order => {
+      const coords = [];
+      order.forEach(name => {
+        const c = getStationCoords(name, lineName);
+        if (c) coords.push(c);
+      });
+      if (LOOP_LINES.has(lineName) && coords.length >= 3) {
+        coords.push(coords[0]);
+      }
+      if (coords.length >= 2) {
+        const color = LINE_COLORS[lineName] || '#999';
+        L.polyline(coords, { color, weight: 3.5, opacity: 0.6 }).addTo(lineLayer);
+      }
     });
-    if (coords.length >= 2) {
-      const color = LINE_COLORS[lineName] || '#999';
-      L.polyline(coords, { color, weight: 3.5, opacity: 0.6 }).addTo(lineLayer);
-    }
   });
 
   // Draw station markers
