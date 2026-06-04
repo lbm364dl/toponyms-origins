@@ -1,0 +1,97 @@
+{
+  "id": "metro_002",
+  "name": "Gran Vía",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Gran Vía",
+  "previous_names": "Gran Vía (1919-1940; projected/location name Red de San Luis), José Antonio (1940-1983)",
+  "naming_date": "17 October 1919; restored 27 June 1983",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos Metro - Estaciones con historia: Gran Vía",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-gran-via.pdf",
+      "type": "official",
+      "relevance_en": "Metro de Madrid's historical file gives the key station chronology: opening in 1919, renaming to José Antonio in 1940, Line 5 interchange in 1970, recovery of Gran Vía in 1983, and the Red de San Luis project/location context.",
+      "relevance_es": "La ficha histórica de Metro de Madrid aporta la cronología clave de la estación: apertura en 1919, cambio a José Antonio en 1940, intercambio con la línea 5 en 1970, recuperación de Gran Vía en 1983 y contexto de Red de San Luis como nombre de proyecto o localización."
+    },
+    {
+      "title": "Madrid Destino / esmadrid - Entrance to Gran Vía Metro station",
+      "url": "https://www.esmadrid.com/en/tourist-information/entrance-gran-metro-station",
+      "type": "official",
+      "relevance_en": "The city tourism page confirms the reconstructed Gran Vía Metro entrance, the Red de San Luis reference, the original pavilion's 1920-1970 life, and the 2021 reopening context.",
+      "relevance_es": "La página turística municipal confirma el templete reconstruido de la estación de Gran Vía, la referencia a la Red de San Luis, la existencia del templete original entre 1920 y 1970 y el contexto de la reapertura de 2021."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Paseo por la Gran Vía",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/ficheros/H19PaseoPorLaGranVia.pdf",
+      "type": "official",
+      "relevance_en": "This municipal educational publication explains the urban need for the avenue, Carlos Velasco's 1886 proposal, the 1901 Salaberry-Octavio project, the 1,316-metre route, and the 4 April 1910 start of works.",
+      "relevance_es": "Esta publicación educativa municipal explica la necesidad urbana de la avenida, el proyecto de Carlos Velasco de 1886, el proyecto de Salaberry y Octavio de 1901, el trazado de 1.316 metros y el inicio de las obras el 4 de abril de 1910."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Acuerdos del Pleno, sesión ordinaria 27 April 2016",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UDCPleno/Actividad/Pleno/2016/2016-04-27/AC_PO_27_04_16.pdf",
+      "type": "official",
+      "relevance_en": "The municipal plenary document summarizes the democratic street-name policy and states that the 25 January 1980 agreement changed Avenida de José Antonio to Gran Vía.",
+      "relevance_es": "El documento del Pleno municipal resume la política democrática de recuperación del callejero y señala que el acuerdo del 25 de enero de 1980 cambió la Avenida de José Antonio por Gran Vía."
+    },
+    {
+      "title": "El País - Cambian de nombre las estaciones de metro de José Antonio, Elvas y General Mola",
+      "url": "https://elpais.com/diario/1983/06/22/madrid/425129061_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press evidence reports that José Antonio station would become Gran Vía from the following Monday in June 1983, aligning Metro station names with the official street names.",
+      "relevance_es": "La noticia contemporánea informa de que la estación de José Antonio pasaría a llamarse Gran Vía el lunes siguiente de junio de 1983, adaptando los nombres de Metro a la denominación oficial de las calles."
+    },
+    {
+      "title": "Instituto Geográfico Nacional - La Gran Vía de Madrid, Carlos Velasco project catalogue record",
+      "url": "https://www.ign.es/web/catalogo-cartoteca/resources/pdfcards/card001626.pdf",
+      "type": "archive",
+      "relevance_en": "The IGN cartographic catalogue records a plan related to the Gran Vía project presented by architect Carlos Velasco to Madrid City Council, useful for the prehistory of the avenue.",
+      "relevance_es": "El catálogo cartográfico del IGN registra un plano relacionado con el proyecto de Gran Vía presentado por el arquitecto Carlos Velasco al Ayuntamiento de Madrid, útil para la prehistoria de la avenida."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the name as a place-name after the avenue, not merely as a descriptive phrase meaning 'great way'.",
+      "es": "Conviene clasificar el nombre como topónimo de lugar por la avenida, no solo como una frase descriptiva equivalente a 'gran vía'."
+    },
+    {
+      "en": "The station recovered the name Gran Vía in 1983; the street-name restoration was a separate municipal process agreed on 25 January 1980.",
+      "es": "La estación recuperó el nombre Gran Vía en 1983; la recuperación del nombre de la calle fue un proceso municipal distinto acordado el 25 de enero de 1980."
+    },
+    {
+      "en": "Red de San Luis should be presented as the project/location name documented by Metro de Madrid, while Metro's own historical timeline states that the station opened as Gran Vía in 1919.",
+      "es": "Red de San Luis debe presentarse como nombre de proyecto o de localización documentado por Metro de Madrid, mientras que la propia cronología histórica de Metro indica que la estación abrió como Gran Vía en 1919."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival check of Metro de Madrid's 1919 public timetables, tickets or signage could further clarify whether Red de San Luis ever appeared as a public station name immediately before or at opening.",
+      "es": "Una revisión archivística completa de horarios, billetes o rotulación pública de Metro de Madrid de 1919 podría aclarar aún más si Red de San Luis llegó a figurar como nombre público de la estación antes de la apertura o en el momento inicial."
+    },
+    {
+      "en": "Secondary sources differ between 1980, 1981 and 1982 for the avenue's final official unification as Gran Vía; the strongest inspected municipal source supports the 25 January 1980 agreement.",
+      "es": "Las fuentes secundarias discrepan entre 1980, 1981 y 1982 para la unificación oficial definitiva de la avenida como Gran Vía; la fuente municipal más sólida consultada respalda el acuerdo del 25 de enero de 1980."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_002/en/summary.short.md",
+      "summary": "content/stations/metro_002/en/summary.md",
+      "story": "content/stations/metro_002/en/story.md",
+      "confidence": "content/stations/metro_002/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_002/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_002/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_002/es/summary.short.md",
+      "summary": "content/stations/metro_002/es/summary.md",
+      "story": "content/stations/metro_002/es/story.md",
+      "confidence": "content/stations/metro_002/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_002/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_002/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The central claim is correct: the station is named for Gregorio Marañón y Posadillo, the Spanish physician, endocrinologist, historian and humanist. Some biographical flourishes in the row are weakly sourced or imprecise, and the station chronology needs correction from 1988 to 1998.

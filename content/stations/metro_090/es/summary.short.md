@@ -1,0 +1,1 @@
+La estación de Sevilla se llama así por la calle de Sevilla, la vía corta situada junto a su acceso de Alcalá. Esa calle sustituyó al antiguo nombre de calle Ancha de los Peligros por acuerdo municipal del 4 de mayo de 1849.

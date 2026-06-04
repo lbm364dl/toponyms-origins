@@ -1,0 +1,1 @@
+Named for Manuela Malasaña Oñoro, remembered as one of the popular victims and heroines of Madrid’s uprising against Napoleonic troops on 2 May 1808. The best-supported account says she was executed after French soldiers found the embroidery scissors of her trade and treated them as a weapon.

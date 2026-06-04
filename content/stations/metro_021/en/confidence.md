@@ -1,0 +1,1 @@
+Metro de Madrid directly states that the station is under Plaza de Alonso Martínez and that the plaza changed from Glorieta de Santa Bárbara to its present name in honor of Manuel Alonso Martínez. Official parliamentary and legal sources confirm the identity and public career of the named person.

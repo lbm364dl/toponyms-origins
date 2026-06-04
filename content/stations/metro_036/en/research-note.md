@@ -1,0 +1,1 @@
+The input row’s station opening_year field says 1973, but multiple transport references place Moncloa Line 3 on 17 July 1963. The same chronology records a distinct 2006 event: closure of the old Line 3 Moncloa station on 3 June 2006 and reopening on 30 September 2006 in a new alignment. This likely explains confusion between opening, interchange construction, and later works.

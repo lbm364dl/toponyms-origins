@@ -1,0 +1,1 @@
+Valdebernardo station is named after the Valdebernardo area of Vicálvaro, a place-name already attached to the land before the 1990s urban development. Linguistically it reads as “Bernardo’s valley,” but the identity of that Bernardo is not securely sourced.

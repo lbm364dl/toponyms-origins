@@ -1,0 +1,1 @@
+The core claim is correct: the station name refers to Eugenia de Montijo, the Spanish-born Empress of the French. The row should be tightened because the station opened in 1999, not 2007, and some colorful details, such as the chapel remark, are anecdotal rather than necessary for the name origin.

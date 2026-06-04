@@ -1,0 +1,1 @@
+La denominación inmediata por el lugar de Barajas está verificada por descripciones oficiales de la infraestructura que sitúan la estación en Barajas y por documentación municipal/BOE sobre Barajas como antiguo municipio anexionado a Madrid. Esa confianza no se extiende a una etimología remota única del topónimo, que sigue discutida.

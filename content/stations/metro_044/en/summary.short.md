@@ -1,0 +1,1 @@
+Iglesia takes its name from the nearby Church of Santa Teresa y Santa Isabel, the parish landmark of Chamberí at today’s Glorieta del Pintor Sorolla. The station was planned as Martínez Campos but opened in 1919 as Iglesia, with a Civil War interval as Sorolla.

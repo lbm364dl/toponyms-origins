@@ -1,0 +1,1 @@
+Serrano station is named for Calle de Serrano, which in turn commemorates Francisco Serrano y Domínguez, the 19th-century general and statesman who became regent after the 1868 Glorious Revolution. The street had earlier names, including Isabel II and Narváez, before taking Serrano's name after 1868.

@@ -1,0 +1,1 @@
+La estación de Banco de España debe su nombre a la sede del banco central que preside la esquina de la calle de Alcalá, el paseo del Prado y la plaza de Cibeles. Se abrió con la línea 2 en junio de 1924, después de que el nombre de proyecto Castelar fuese sustituido durante la construcción.

@@ -1,0 +1,1 @@
+La estación de Chamartín toma su nombre del distrito y antiguo municipio de Chamartín de la Rosa, anexionado a Madrid por decreto en 1947 e incorporado en 1948. El topónimo antiguo es probablemente un nombre de repoblación de origen antroponímico formado por Echa, nombre medieval relacionado con el vasco aita, y Martín.

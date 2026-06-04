@@ -1,0 +1,1 @@
+The etymology is best expressed as a two-step urban toponym: station name from Vía Carpetana, and the avenue name from the Carpetani/Carpetania. This avoids implying that the station was independently named after the ancient people by a separate commemorative act. The fossil display is an important station story, but it is not the origin of the station name.

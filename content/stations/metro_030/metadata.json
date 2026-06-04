@@ -1,0 +1,104 @@
+{
+  "id": "metro_030",
+  "name": "Pirámides",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Two 1831 obelisks at the Glorieta de las Pirámides, designed by Francisco Javier de Mariategui near the Puente de Toledo",
+  "previous_names": "Glorieta del Puente de Toledo (reported as the official street-directory name from 1903 before the later name Glorieta de las Pirámides)",
+  "naming_date": "Reported municipal agreement: 28 December 1944 for the roundabout name; Metro station opened with the name in 1968; Cercanías station entered service in 1996",
+  "sources": [
+    {
+      "title": "Obeliscos-Pirámides - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Monumentos-urbanos/Obeliscos-Piramides/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=01b8091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal heritage record for the monuments: confirms the title Obeliscos-Pirámides, location at Glorieta de Pirámides, author Francisco Javier de Mariategui, date 1831, dimensions of 14 metres, materials, intended inscriptions, later relocation, and 1995-1996 restoration.",
+      "relevance_es": "Ficha oficial municipal de los monumentos: confirma la denominación Obeliscos-Pirámides, la ubicación en la glorieta de Pirámides, el autor Francisco Javier de Mariategui, la fecha de 1831, las dimensiones de 14 metros, los materiales, las inscripciones previstas, el traslado posterior y la restauración de 1995-1996."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport history confirming Line 5 entered service in 1968 with Pirámides among its original stations, and that the Renfe station at Pirámides had been in service since 1996 before the 1999 connection works.",
+      "relevance_es": "Historia oficial regional del transporte que confirma que la línea 5 entró en servicio en 1968 con Pirámides entre sus estaciones iniciales, y que la estación de Renfe en Pirámides estaba en servicio desde 1996 antes de las obras de conexión de 1999."
+    },
+    {
+      "title": "Estación de Pirámides - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/386489",
+      "type": "archive",
+      "relevance_en": "Archive record from Memoria de Madrid using Metro de Madrid photographic material; confirms the Metro station opened to the public in 1968 with the Callao-Carabanchel Line 5 opening, and that the Cercanías station entered service in 1996 during the Pasillo Verde railway works.",
+      "relevance_es": "Registro de Memoria de Madrid con material fotográfico de Metro de Madrid; confirma que la estación de Metro abrió al público en 1968 con la inauguración de la línea 5 entre Callao y Carabanchel, y que la estación de Cercanías entró en servicio en 1996 con las obras del Pasillo Verde ferroviario."
+    },
+    {
+      "title": "Ficha de estación PIRAMIDES - Renfe Viajeros",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion18005.pdf",
+      "type": "official",
+      "relevance_en": "Official Renfe station data sheet confirming the current station name PIRAMIDES, operator Renfe Viajeros, Cercanías Madrid area, location, coordinates, and commercial lines C10 and C1.",
+      "relevance_es": "Ficha oficial de estación de Renfe que confirma el nombre actual PIRAMIDES, el explotador Renfe Viajeros, el área de Cercanías Madrid, la ubicación, las coordenadas y las líneas comerciales C10 y C1."
+    },
+    {
+      "title": "Nombres curiosos de estaciones en Cercanías Madrid - Renfe Blog",
+      "url": "https://blog.renfe.com/nombres-curiosos-de-estaciones-en-cercanias-madrid/",
+      "type": "official",
+      "relevance_en": "Renfe's public-facing article explains that Pirámides comes from the nearby Glorieta de Pirámides and its two obelisks by Francisco Javier de Marietegui, gives 1831 and 1944, and notes their 14-metre height and 1990s restoration.",
+      "relevance_es": "Artículo divulgativo de Renfe que explica que Pirámides procede de la cercana glorieta de Pirámides y de sus dos obeliscos de Francisco Javier de Marietegui, da las fechas de 1831 y 1944, y menciona su altura de 14 metros y la restauración de los años noventa."
+    },
+    {
+      "title": "Arquitectos y obras municipales. Madrid, primer tercio del siglo XIX - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/MuseosMunicipales/0_Becas%20Investigaci%C3%B3n/Becas%202019/Cap%C3%ADtulos%20contenidos/ficheros/Arquitectos_y_obras_municipales_Primer_tercio_XIX.pdf",
+      "type": "official",
+      "relevance_en": "Large municipal archival guide that identifies files for works at the Glorieta del Puente de Toledo, including an 1834 Mariategui file concerning the works and placement of sculptures; useful archival support for the older place-name and project context.",
+      "relevance_es": "Amplia guía archivística municipal que identifica expedientes sobre obras en la Glorieta del Puente de Toledo, incluido un expediente de Mariategui de 1834 relativo a las obras y la colocación de esculturas; aporta contexto archivístico sobre el topónimo anterior y el proyecto urbano."
+    },
+    {
+      "title": "La Glorieta de las (falsas) Pirámides - El Diario de Madrid",
+      "url": "https://www.eldiariodemadrid.es/articulo/cuenta-madrid-otros-lugares/glorieta-falsas-piramides/20250801104625106962.html",
+      "type": "press",
+      "relevance_en": "Recent local-history article that discusses the misleading 'pyramids' name, repeats the reported 28 December 1944 municipal naming agreement, and adds context about the earlier Glorieta del Puente de Toledo designation.",
+      "relevance_es": "Artículo reciente de historia local que comenta el carácter equívoco del nombre 'pirámides', repite el acuerdo municipal del 28 de diciembre de 1944 y aporta contexto sobre la denominación anterior de Glorieta del Puente de Toledo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The dataset opening_year value of 1936 does not match the inspected transport sources: Metro Pirámides opened with Line 5 in 1968, while the Cercanías station entered service in 1996.",
+      "es": "El valor opening_year de 1936 en el conjunto de datos no coincide con las fuentes de transporte consultadas: Metro Pirámides abrió con la línea 5 en 1968 y la estación de Cercanías entró en servicio en 1996."
+    },
+    {
+      "en": "Describe the name as referring to obelisks with pyramidal needles, not simply as a two-century 'mistake'; the official monument record itself uses the compound label Obeliscos-Pirámides.",
+      "es": "Conviene describir el nombre como alusión a obeliscos con agujas piramidales, no solo como un 'error' de dos siglos; la propia ficha oficial del monumento usa la denominación compuesta Obeliscos-Pirámides."
+    },
+    {
+      "en": "The phrase 'before that it was known as Glorieta del Puente de Toledo' should be made more precise: the consulted sources say that this was the official street-directory name from 1903, not necessarily the only earlier informal name.",
+      "es": "La frase 'antes se la conocía como Glorieta del Puente de Toledo' debe precisarse: las fuentes consultadas indican que ese fue el nombre oficial en el callejero desde 1903, no necesariamente la única denominación informal anterior."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Ayuntamiento de Madrid municipal agreement of 28 December 1944, or a historical street-directory record, to confirm the exact legal naming date without relying on secondary repetition.",
+      "es": "Conviene revisar el acuerdo municipal original del Ayuntamiento de Madrid del 28 de diciembre de 1944, o un registro histórico del callejero, para confirmar la fecha legal exacta sin depender de repeticiones secundarias."
+    },
+    {
+      "en": "Some sources mention 1830 for completion while the official municipal monument page gives 1831; the recommended dataset value should use 1831 unless an archival construction file proves a different completion date.",
+      "es": "Algunas fuentes mencionan 1830 como fecha de conclusión, mientras que la ficha municipal oficial del monumento da 1831; el valor recomendado para el conjunto de datos debe ser 1831 salvo que un expediente de obra demuestre otra fecha de finalización."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_030/en/summary.short.md",
+      "summary": "content/stations/metro_030/en/summary.md",
+      "story": "content/stations/metro_030/en/story.md",
+      "confidence": "content/stations/metro_030/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_030/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_030/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_030/es/summary.short.md",
+      "summary": "content/stations/metro_030/es/summary.md",
+      "story": "content/stations/metro_030/es/story.md",
+      "confidence": "content/stations/metro_030/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_030/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_030/es/research-note.md"
+    }
+  }
+}

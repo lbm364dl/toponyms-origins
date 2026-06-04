@@ -1,0 +1,1 @@
+La estación de Quevedo toma su nombre de la glorieta de Quevedo situada sobre ella, una plaza de Chamberí dedicada en el siglo XIX al escritor madrileño del Siglo de Oro Francisco de Quevedo y Villegas. La estación abrió en la línea 2 el 21 de octubre de 1925 como cabecera noroccidental de la prolongación Sol-Quevedo.

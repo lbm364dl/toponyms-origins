@@ -1,0 +1,104 @@
+{
+  "id": "metro_055",
+  "name": "Carabanchel",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Carabanchel district, from the former municipalities of Carabanchel Bajo and Carabanchel Alto",
+  "previous_names": "",
+  "naming_date": "5 June 1968",
+  "sources": [
+    {
+      "title": "Inauguración tramo Callao-Carabanchel de línea 5",
+      "url": "https://www.memoriademadrid.es/view/387887/inauguracion-tramo-callao-carabanchel-de-linea-5",
+      "type": "archive",
+      "relevance_en": "Madrid municipal archive record from Metro de Madrid’s photographic archive; documents the Line 5 Callao-Carabanchel inauguration on 5 June 1968 and describes the section as connecting Carabanchel to central Madrid.",
+      "relevance_es": "Registro del archivo municipal procedente del archivo fotográfico de Metro de Madrid; documenta la inauguración del tramo Callao-Carabanchel de la línea 5 el 5 de junio de 1968 y lo describe como conexión de Carabanchel con el centro de Madrid."
+    },
+    {
+      "title": "Carabanchel - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Carabanchel/Carabanchel/?vgnextchannel=a48aca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=42665969e83b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Official district page explaining that Carabanchel originated in Carabanchel de Abajo and Carabanchel de Arriba, later Bajo and Alto, and that they were annexed to Madrid in 1948.",
+      "relevance_es": "Página oficial del distrito que explica que Carabanchel tuvo su origen en Carabanchel de Abajo y Carabanchel de Arriba, después Bajo y Alto, y que fueron anexionados a Madrid en 1948."
+    },
+    {
+      "title": "Zonas verdes y árboles singulares: Carabanchel",
+      "url": "https://pongamosquehablodemadrid.com/wp-content/uploads/2020/01/zonas-verdes-de-carabanchel-catalogo-ayuntamiento-de-madrid.pdf",
+      "type": "official",
+      "relevance_en": "Municipal publication giving historical context, the 1 January 1181 first mention, the Toledo Cathedral archive parchment, the 1191 sale, the 29 April 1948 incorporation, and the later 1971 district division.",
+      "relevance_es": "Publicación municipal que aporta contexto histórico, la primera mención del 1 de enero de 1181, el pergamino del archivo de la catedral de Toledo, la venta de 1191, la incorporación del 29 de abril de 1948 y la división distrital de 1971."
+    },
+    {
+      "title": "Joaquín Caridad Arias, Algunos topónimos madrileños de origen celta: Aravaca, Alcobendas, Carabanchel, Carabaña, Chamberí, Las Vistillas, Vallecas",
+      "url": "https://agora.edu.es/descarga/articulo/3012173.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article in Anales del Instituto de Estudios Madrileños, XLIV (2004), pp. 821-830; argues that Carabanchel is based on Carabantius or Caravantius and discusses related Celtic or ancient name forms.",
+      "relevance_es": "Artículo académico en Anales del Instituto de Estudios Madrileños, XLIV (2004), pp. 821-830; defiende que Carabanchel se basa en Carabantius o Caravantius y comenta formas emparentadas célticas o antiguas."
+    },
+    {
+      "title": "Historia Medieval en Alicante: Artículo de Revista Universitaria",
+      "url": "https://studylib.es/doc/6828474/historia-medieval-4-5---rua",
+      "type": "academic",
+      "relevance_en": "Digitized academic text summarizing Menéndez Pidal’s discussion of Carabanchel, Carauanchiel in 1264, Caramanchel, and the *carau- stone/rock proposal.",
+      "relevance_es": "Texto académico digitalizado que resume la discusión de Menéndez Pidal sobre Carabanchel, Carauanchiel en 1264, Caramanchel y la propuesta *carau- relacionada con piedra o roca."
+    },
+    {
+      "title": "BOE núm. 31, 31 de enero de 1948",
+      "url": "https://www.boe.es/gazeta/dias/1948/01/31/pdfs/BOE-1948-31.pdf",
+      "type": "official",
+      "relevance_en": "Official gazette containing the Decree of 9 January 1948 approving the total annexation of the municipal terms of Carabanchel Bajo and Carabanchel Alto to Madrid.",
+      "relevance_es": "Boletín oficial que contiene el Decreto de 9 de enero de 1948 por el que se aprueba la anexión total de los términos municipales de Carabanchel Bajo y Carabanchel Alto a Madrid."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Network chronology listing 5 June 1968 for Line 5 Callao-Carabanchel and noting Carabanchel among the stations of that original section.",
+      "relevance_es": "Cronología de la red que recoge el 5 de junio de 1968 para el tramo Callao-Carabanchel de la línea 5 e incluye Carabanchel entre las estaciones de ese tramo inicial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Separate the station-name origin from the deeper place-name etymology: the station is named after the district, while the origin of the word Carabanchel is not settled.",
+      "es": "Conviene separar el origen del nombre de la estación de la etimología profunda del topónimo: la estación se llama por el distrito, mientras que el origen de la palabra Carabanchel no está resuelto."
+    },
+    {
+      "en": "Do not present the *kar-/*carau- “stone” explanation as fully accepted; it is an important Menéndez Pidal line, but Caridad Arias argues for a Celtic personal-name base.",
+      "es": "No debe presentarse la explicación *kar-/*carau- de “piedra” como plenamente aceptada; es una línea importante de Menéndez Pidal, pero Caridad Arias defiende una base de antropónimo céltico."
+    },
+    {
+      "en": "The chickpea/garbanzal explanation should be framed as folk or popular etymology, not as a strong linguistic derivation.",
+      "es": "La explicación por garbanzo/garbanzal debe presentarse como etimología popular o tradicional, no como una derivación lingüística fuerte."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A human reviewer could inspect the original 1181 Toledo Cathedral parchment or a diplomatic edition to confirm the exact medieval spelling used there.",
+      "es": "Una revisión humana podría consultar el pergamino original de 1181 de la catedral de Toledo o una edición diplomática para confirmar la grafía medieval exacta usada allí."
+    },
+    {
+      "en": "Jaime Oliver Asín’s precise publication on the Arabic carab proposal should be identified and checked before treating that theory as more than secondary tradition.",
+      "es": "Habría que identificar y revisar la publicación exacta de Jaime Oliver Asín sobre la propuesta árabe carab antes de tratar esa teoría como algo más que tradición secundaria."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_055/en/summary.short.md",
+      "summary": "content/stations/metro_055/en/summary.md",
+      "story": "content/stations/metro_055/en/story.md",
+      "confidence": "content/stations/metro_055/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_055/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_055/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_055/es/summary.short.md",
+      "summary": "content/stations/metro_055/es/summary.md",
+      "story": "content/stations/metro_055/es/story.md",
+      "confidence": "content/stations/metro_055/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_055/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_055/es/research-note.md"
+    }
+  }
+}

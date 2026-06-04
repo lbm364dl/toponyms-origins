@@ -1,0 +1,1 @@
+El nombre queda verificado por material histórico de Metro que muestra Manuel Becerra como estación del tramo de 1924 de la línea 2, por documentación de historia urbana de Madrid que registra el cambio municipal de la plaza en 1905 en honor de Manuel Becerra y por fuentes biográficas institucionales que identifican al homenajeado.

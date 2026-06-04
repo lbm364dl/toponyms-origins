@@ -1,0 +1,1 @@
+Pavones toma su nombre del topónimo local Pavones, conservado hoy en el barrio y en la calle de la Hacienda de Pavones, en Moratalaz. El nombre procede de una antigua finca agrícola, documentada como Pavones o Pabones, cuyos terrenos quedaron absorbidos por la expansión urbana del este de Madrid.

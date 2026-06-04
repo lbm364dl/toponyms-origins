@@ -1,0 +1,1 @@
+La estación toma su nombre del municipio de Arganda del Rey, al sureste de Madrid. 'Arganda' es probablemente un topónimo prerromano o céltico relacionado con la raíz indoeuropea *arg- 'claro, blanco, brillante', mientras que 'del Rey' recuerda la incorporación de la villa a la jurisdicción real de Felipe II entre 1580 y 1583.

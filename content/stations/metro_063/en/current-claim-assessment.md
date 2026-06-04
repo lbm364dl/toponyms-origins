@@ -1,0 +1,1 @@
+The core claim is correct: the station name ultimately honors the Nicaraguan poet Rubén Darío. The wording should be tightened because the station appears to take its name from the adjacent Glorieta de Rubén Darío, and the claim that he 'single-handedly' founded Modernismo is too absolute.

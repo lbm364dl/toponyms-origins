@@ -1,0 +1,101 @@
+{
+  "id": "metro_051",
+  "name": "Francos Rodríguez",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "José Francos Rodríguez",
+  "previous_names": "",
+  "naming_date": "12 de febrero de 1999",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 7 de Metro de Madrid. Tramo: Canal-Valdezarza",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-canal-valdezarza",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid source confirming the Line 7 extension entered service on 12 February 1999 and created the Francos Rodríguez station, with location and access details.",
+      "relevance_es": "Fuente oficial de la Comunidad de Madrid que confirma la puesta en servicio de la prolongación de la línea 7 el 12 de febrero de 1999 y la creación de la estación de Francos Rodríguez, con datos de ubicación y accesos."
+    },
+    {
+      "title": "José Francos Rodríguez - Historia Hispánica / Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/17279-jose-francos-rodriguez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry identifying Francos Rodríguez as a Madrid-born writer, journalist and politician, with offices including mayor of Madrid and minister.",
+      "relevance_es": "Entrada biográfica autorizada que identifica a Francos Rodríguez como escritor, periodista y político nacido en Madrid, con cargos como alcalde de Madrid y ministro."
+    },
+    {
+      "title": "José Francos Rodríguez | Académico | Real Academia Española",
+      "url": "https://www.rae.es/academico/jose-francos-rodriguez",
+      "type": "official",
+      "relevance_en": "Official RAE profile confirming his RAE membership, journalism career, medical training, newspaper directorships, political offices, and pen name Juan Palomo; also shows one of the conflicting death-date traditions.",
+      "relevance_es": "Perfil oficial de la RAE que confirma su condición de académico, su carrera periodística, su formación médica, la dirección de periódicos, cargos políticos y el seudónimo Juan Palomo; también muestra una de las tradiciones contradictorias sobre su fallecimiento."
+    },
+    {
+      "title": "José Francos Rodríguez (Madrid, 1862-1931) - Asociación de la Prensa de Madrid",
+      "url": "https://www.apmadrid.es/personas/jose-francos-rodriguez-madrid-1862-1931/",
+      "type": "official",
+      "relevance_en": "APM biographical source stating that Madrid remembers him with a street and a Metro station and summarizing his role in journalism, politics and the Palacio de la Prensa.",
+      "relevance_es": "Fuente biográfica de la APM que indica que Madrid lo recuerda con una calle y una estación de metro, y resume su papel en el periodismo, la política y el Palacio de la Prensa."
+    },
+    {
+      "title": "Historia de la APM de 1919 a 1938",
+      "url": "https://www.apmadrid.es/sobre-la-apm/historia-de-la-apm/1919-a-1938/",
+      "type": "official",
+      "relevance_en": "APM institutional history giving context for his presidency, the Federation of Press Associations, the Palacio de la Prensa, and the Hoja del Lunes.",
+      "relevance_es": "Historia institucional de la APM que contextualiza su presidencia, la Federación de Asociaciones de la Prensa, el Palacio de la Prensa y la Hoja del Lunes."
+    },
+    {
+      "title": "Calle de Francos Rodríguez, Madrid - Wikidata, citing Los nombres de las calles de Madrid",
+      "url": "https://www.wikidata.org/wiki/Q26810988",
+      "type": "reference",
+      "relevance_en": "Secondary index pointing to Los nombres de las calles de Madrid, p. 217, for the street and its naming after José Francos Rodríguez; useful cue for later inspection of the printed source.",
+      "relevance_es": "Índice secundario que remite a Los nombres de las calles de Madrid, p. 217, para la calle y su dedicación a José Francos Rodríguez; es una pista útil para revisar después la fuente impresa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station name should be described as coming directly from Calle de Francos Rodríguez; the street commemorates José Francos Rodríguez.",
+      "es": "Conviene formular el origen directo como procedente de la calle de Francos Rodríguez; la calle es la que conmemora a José Francos Rodríguez."
+    },
+    {
+      "en": "The APM presidency is not consistently dated as starting in 1922: APM's own biographical and historical pages state that he succeeded Miguel Moya in 1920.",
+      "es": "La presidencia de la APM no debe fecharse sin matiz en 1922: las propias páginas biográficas e históricas de la APM indican que sucedió a Miguel Moya en 1920."
+    },
+    {
+      "en": "The Palacio de la Prensa detail should distinguish between the APM's move or installation around 1928 and the formal royal inauguration in April 1930.",
+      "es": "El dato del Palacio de la Prensa debe distinguir entre el traslado o instalación de la APM en torno a 1928 y la inauguración formal por los reyes en abril de 1930."
+    },
+    {
+      "en": "Published death dates conflict: RAH gives 11 July 1931, RAE gives 11 December 1931, while press-based accounts commonly give 13 July 1931.",
+      "es": "Las fechas publicadas de fallecimiento no coinciden: la RAH da el 11 de julio de 1931, la RAE el 11 de diciembre de 1931 y varias fuentes basadas en prensa dan habitualmente el 13 de julio de 1931."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Madrid municipal street-naming file or the printed work Los nombres de las calles de Madrid, p. 217, to confirm the exact date when Calle de Francos Rodríguez received its name.",
+      "es": "Conviene revisar el expediente municipal del callejero madrileño o la obra impresa Los nombres de las calles de Madrid, p. 217, para confirmar la fecha exacta en que la calle de Francos Rodríguez recibió su nombre."
+    },
+    {
+      "en": "A civil registry or cemetery record should be consulted if the exact death date is needed for final biographical metadata.",
+      "es": "Si se necesita fijar la fecha exacta de fallecimiento en los metadatos biográficos, habría que consultar el registro civil o documentación cementerial."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_051/en/summary.short.md",
+      "summary": "content/stations/metro_051/en/summary.md",
+      "story": "content/stations/metro_051/en/story.md",
+      "confidence": "content/stations/metro_051/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_051/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_051/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_051/es/summary.short.md",
+      "summary": "content/stations/metro_051/es/summary.md",
+      "story": "content/stations/metro_051/es/story.md",
+      "confidence": "content/stations/metro_051/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_051/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_051/es/research-note.md"
+    }
+  }
+}

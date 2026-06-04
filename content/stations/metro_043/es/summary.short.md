@@ -1,0 +1,1 @@
+Ríos Rosas toma su nombre de la cercana calle de Ríos Rosas, dedicada a Antonio Sánchez del Río y López de la Rosa, célebre jurista, orador y político español del siglo XIX. La estación se inauguró el 17 de octubre de 1919 dentro del primer tramo de la línea 1 del Metro de Madrid.

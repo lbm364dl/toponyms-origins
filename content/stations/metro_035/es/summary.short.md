@@ -1,0 +1,1 @@
+Islas Filipinas toma su nombre de las islas Filipinas, a través de la cercana avenida de Filipinas y de su denominación antigua o popular. El nombre español del archipiélago honra en último término al príncipe Felipe, futuro Felipe II, tras la expedición de Villalobos de 1543.

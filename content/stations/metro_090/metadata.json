@@ -1,0 +1,111 @@
+{
+  "id": "metro_090",
+  "name": "Sevilla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Sevilla, ultimately the city of Seville",
+  "previous_names": "Calle Ancha de los Peligros for the street; no former station name found",
+  "naming_date": "14 June 1924 for the station name in service; 4 May 1849 for the Calle de Sevilla street renaming",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Sevilla",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-sevilla.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical file: gives the station location by Calle de Sevilla, the Ventas-Sol inaugural section, the 14 June 1924 date, and the original Line 2 station list including Sevilla.",
+      "relevance_es": "Ficha histórica de Metro: aporta la ubicación junto a la calle de Sevilla, el tramo inaugural Ventas-Sol, la fecha de 14 de junio de 1924 y la lista original de estaciones de la línea 2 con Sevilla."
+    },
+    {
+      "title": "CRTM - Sevilla station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_34",
+      "type": "official",
+      "relevance_en": "Confirms the current operational station, Line 2 correspondence, and current accesses on Calle de Alcalá.",
+      "relevance_es": "Confirma la estación en servicio, la correspondencia con la línea 2 y los accesos actuales en la calle de Alcalá."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 2 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-2-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional history of Line 2; confirms the early Sol-Ventas opening context, though it gives 16 June 1924 rather than the 14 June date used by Metro's historical file.",
+      "relevance_es": "Historia oficial regional de la línea 2; confirma el contexto de apertura del tramo Sol-Ventas, aunque da el 16 de junio de 1924 frente al 14 de junio de la ficha histórica de Metro."
+    },
+    {
+      "title": "Anales del Instituto de Estudios Madrileños - article on Carrera de San Jerónimo and adjacent streets",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3006811.pdf",
+      "type": "academic",
+      "relevance_en": "Documents that Calle de Sevilla was formerly Calle Ancha de los Peligros and says Madrid City Council agreed on 4 May 1849 to change its name to avoid confusion with Angosta de los Peligros; also documents the 1861 widening approval.",
+      "relevance_es": "Documenta que la calle de Sevilla fue antes la calle Ancha de los Peligros e indica que el Ayuntamiento acordó el 4 de mayo de 1849 cambiar su nombre para evitar la confusión con la Angosta de los Peligros; también documenta el ensanche aprobado en 1861."
+    },
+    {
+      "title": "memoriademadrid - Calle de Peligros",
+      "url": "https://www.memoriademadrid.es/view/350282/calle-de-peligros",
+      "type": "archive",
+      "relevance_en": "Municipal archive record noting the distinction between Calle Angosta de Peligros and Calle Ancha de Peligros, today Calle de Sevilla.",
+      "relevance_es": "Registro del archivo municipal que señala la distinción entre la calle Angosta de Peligros y la calle Ancha de Peligros, hoy calle de Sevilla."
+    },
+    {
+      "title": "Arquitectura de Madrid, COAM - Palacio de la Equitativa",
+      "url": "https://fcoam.eu/guia/F1/F1.174.htm",
+      "type": "reference",
+      "relevance_en": "Authoritative architectural reference for the Palacio de la Equitativa at Alcalá 14 and Sevilla 3-5, with project and construction dates 1887-1891.",
+      "relevance_es": "Referencia arquitectónica autorizada sobre el Palacio de la Equitativa en Alcalá 14 y Sevilla 3-5, con fechas de proyecto y obra de 1887-1891."
+    },
+    {
+      "title": "Arquitectura de Madrid, COAM - Banco Hispano Americano",
+      "url": "https://fcoam.eu/guia/F1/F1.213.htm",
+      "type": "reference",
+      "relevance_en": "Authoritative architectural reference for the former Banco Hispano Americano building on Plaza de Canalejas and Calle de Sevilla, with Eduardo de Adaro's 1902 project.",
+      "relevance_es": "Referencia arquitectónica autorizada del antiguo Banco Hispano Americano en la plaza de Canalejas y la calle de Sevilla, con proyecto de Eduardo de Adaro en 1902."
+    },
+    {
+      "title": "memoriademadrid - Las calles de Madrid. Noticias, tradiciones y curiosidades",
+      "url": "https://www.memoriademadrid.es/view/402083",
+      "type": "book",
+      "relevance_en": "Bibliographic and archive record for the classic 1889 street-history work by Hilario Peñasco de la Puente and Carlos Cambronero, useful for further confirmation of Calle de Sevilla's historical naming.",
+      "relevance_es": "Registro bibliográfico y de archivo de la obra clásica de 1889 de Hilario Peñasco de la Puente y Carlos Cambronero sobre las calles de Madrid, útil para confirmar con más detalle la historia nominal de la calle de Sevilla."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station is named after Calle de Sevilla first, not directly after the city alone.",
+      "es": "Conviene aclarar que la estación toma el nombre primero de la calle de Sevilla, no directamente de la ciudad sin intermediación."
+    },
+    {
+      "en": "Add the documented street-renaming date: 4 May 1849.",
+      "es": "Añadir la fecha documentada del cambio de nombre de la calle: 4 de mayo de 1849."
+    },
+    {
+      "en": "Treat 1902 as the start/project date for the Banco Hispano Americano building rather than the whole building chronology.",
+      "es": "Tratar 1902 como fecha de inicio o proyecto del edificio del Banco Hispano Americano, no como toda su cronología constructiva."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The claim that Calle de Sevilla was previously also called Calle de Panaderos appears in some secondary material, but I did not find a strong primary source for it in this pass.",
+      "es": "La afirmación de que la calle de Sevilla se llamó antes calle de Panaderos aparece en algunos materiales secundarios, pero en esta revisión no localicé una fuente primaria sólida para confirmarla."
+    },
+    {
+      "en": "A full inspection of Madrid City Council's historical street-name file could further document the 1849 agreement and any earlier names.",
+      "es": "Una consulta completa del expediente histórico del callejero municipal podría documentar mejor el acuerdo de 1849 y posibles nombres anteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_090/en/summary.short.md",
+      "summary": "content/stations/metro_090/en/summary.md",
+      "story": "content/stations/metro_090/en/story.md",
+      "confidence": "content/stations/metro_090/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_090/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_090/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_090/es/summary.short.md",
+      "summary": "content/stations/metro_090/es/summary.md",
+      "story": "content/stations/metro_090/es/story.md",
+      "confidence": "content/stations/metro_090/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_090/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_090/es/research-note.md"
+    }
+  }
+}

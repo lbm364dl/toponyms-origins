@@ -1,0 +1,1 @@
+El origen lingüístico de la fila está bien respaldado por la RAE/ASALE y Corominas, y las formas antiguas Toia/Tocha están apoyadas por la tradición del Fuero. La cronología del transporte debe precisarse: esta parada de Metro es la antigua Atocha Renfe, renombrada Atocha en 2021/2022, no la estación de Metro de 1921 que hoy se llama Estación del Arte.

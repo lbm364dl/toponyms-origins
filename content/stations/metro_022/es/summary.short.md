@@ -1,0 +1,1 @@
+La estación de Diego de León toma su nombre de la calle de Diego de León, vía del distrito de Salamanca dedicada en 1880 al general Diego Antonio de León y Navarrete. Fue un célebre militar liberal de caballería en la Primera Guerra Carlista y murió fusilado en Madrid tras la fallida sublevación de 1841 contra Espartero.

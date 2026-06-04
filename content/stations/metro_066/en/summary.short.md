@@ -1,0 +1,1 @@
+Canillejas station takes its name from the old village and municipality of Canillejas, absorbed into Madrid in 1950. The place-name is probably linked to canilla/canillas, words associated with small pipes, spouts or conduits, fitting an area tied to Madrid's historic underground water supply.

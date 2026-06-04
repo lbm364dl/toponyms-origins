@@ -1,0 +1,1 @@
+Canal is named for the Canal de Isabel II, Madrid's historic water-supply system and the nearby Canal facilities in Chamberí. The name points to the 1851 project that brought Lozoya River water to Madrid and transformed the city's growth.

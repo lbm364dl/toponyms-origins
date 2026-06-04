@@ -1,0 +1,1 @@
+Canal recibe su nombre del Canal de Isabel II, el sistema histórico de abastecimiento de agua de Madrid y las instalaciones del Canal cercanas en Chamberí. El nombre remite al proyecto de 1851 que llevó a Madrid el agua del río Lozoya y transformó el crecimiento de la ciudad.

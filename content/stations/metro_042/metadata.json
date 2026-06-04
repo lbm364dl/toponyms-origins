@@ -1,0 +1,111 @@
+{
+  "id": "metro_042",
+  "name": "Menéndez Pelayo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Avenida de Menéndez Pelayo, named for Marcelino Menéndez y Pelayo",
+  "previous_names": "No previous station name found. Earlier names for sections of the avenue: Calle de Muñoz; Ronda de Vicálvaro; Ronda de Vallecas.",
+  "naming_date": "Station opened with this name on 8 May 1923; avenue name reportedly assigned in 1915.",
+  "sources": [
+    {
+      "title": "CRTM station page: Menéndez Pelayo",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_17/",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport station, Line 1 correspondence, and accesses on Avenida de Menéndez Pelayo and Calle de Gutenberg.",
+      "relevance_es": "Confirma la estación actual de transporte público, la correspondencia con la línea 1 y los accesos en la avenida de Menéndez Pelayo y la calle de Gutenberg."
+    },
+    {
+      "title": "Metro de Madrid Museums: Huellas del pasado - Menéndez Pelayo",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-menendez-pelayo.pdf",
+      "type": "official",
+      "relevance_en": "Gives the station's historical chronology, opening on 8 May 1923, location under the former Calle del Pacífico, and states that the name recalls the Cantabrian writer-scholar.",
+      "relevance_es": "Aporta la cronología histórica de la estación, su apertura el 8 de mayo de 1923, la ubicación bajo la antigua calle del Pacífico y la explicación de que el nombre recuerda al escritor y erudito cántabro."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 1 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-1-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the Atocha-Puente de Vallecas section of Line 1 opened on 8 May 1923.",
+      "relevance_es": "Confirma que el tramo Atocha-Puente de Vallecas de la línea 1 se inauguró el 8 de mayo de 1923."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the official street Avenida de Menéndez Pelayo, its numbering, districts, and endpoints between Calle de Alcalá and Avenida de la Ciudad de Barcelona.",
+      "relevance_es": "Confirma la vía oficial avenida de Menéndez Pelayo, su numeración, distritos y extremos entre la calle de Alcalá y la avenida de la Ciudad de Barcelona."
+    },
+    {
+      "title": "Real Academia de la Historia: Marcelino Menéndez Pelayo",
+      "url": "https://historia-hispanica.rah.es/biografias/30222-marcelino-menendez-pelayo",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical source for Menéndez Pelayo's identity, dates, academic career and major works.",
+      "relevance_es": "Fuente biográfica autorizada para la identidad, fechas, carrera académica y principales obras de Menéndez Pelayo."
+    },
+    {
+      "title": "Biblioteca Nacional de España: Histórico de directores de la BNE",
+      "url": "https://bne.es/es/sobre-nosotros/organizacion/historia/directores-bne",
+      "type": "official",
+      "relevance_en": "Confirms Marcelino Menéndez y Pelayo's tenure as director of the Biblioteca Nacional from 7 July 1898 to 8 June 1912.",
+      "relevance_es": "Confirma el mandato de Marcelino Menéndez y Pelayo como director de la Biblioteca Nacional entre el 7 de julio de 1898 y el 8 de junio de 1912."
+    },
+    {
+      "title": "NobelPrize.org Nomination Archive: Marcelino Menéndez y Pelayo",
+      "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=6179",
+      "type": "reference",
+      "relevance_en": "Confirms the Nobel Literature nomination detail and specifies five nominations.",
+      "relevance_es": "Confirma el dato de las nominaciones al Nobel de Literatura y precisa que fueron cinco."
+    },
+    {
+      "title": "Madripedia: Avenida de Menéndez Pelayo",
+      "url": "https://madripedia.wikis.cc/wiki/Avenida_de_Men%C3%A9ndez_Pelayo",
+      "type": "reference",
+      "relevance_en": "Secondary street-name source, based on María Isabel Gea's Diccionario Enciclopédico de Madrid, for the avenue's older section names and the reported 1915 naming.",
+      "relevance_es": "Fuente secundaria de callejero, basada en el Diccionario Enciclopédico de Madrid de María Isabel Gea, para los nombres anteriores de los tramos de la avenida y la fecha indicada de 1915."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The avenue runs along the eastern side of Retiro park, not the western side.",
+      "es": "La avenida discurre por el lado oriental del parque del Retiro, no por el occidental."
+    },
+    {
+      "en": "The station is documented by Metro in the Retiro district and Pacífico area; describing it as connecting Atocha with the Ibiza neighbourhood is an imprecise simplification.",
+      "es": "Metro documenta la estación en el distrito de Retiro y en el entorno de Pacífico; describirla como una conexión entre Atocha y el barrio de Ibiza es una simplificación imprecisa."
+    },
+    {
+      "en": "The Nobel detail can be made more precise: NobelPrize.org records five Literature nominations for Marcelino Menéndez y Pelayo, in 1903, 1905, 1907 and 1910.",
+      "es": "El dato del Nobel puede precisarse: NobelPrize.org registra cinco nominaciones de Literatura para Marcelino Menéndez y Pelayo, en 1903, 1905, 1907 y 1910."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal act assigning the name Avenida de Menéndez Pelayo in 1915 was not inspected directly; a physical or digitized Ayuntamiento naming record would strengthen that date.",
+      "es": "No se ha consultado directamente el acuerdo municipal exacto que asignó el nombre de avenida de Menéndez Pelayo en 1915; un expediente físico o digitalizado del Ayuntamiento reforzaría esa fecha."
+    },
+    {
+      "en": "No evidence of a previous station name was found; historical Metro signage or opening-day press could be checked for additional confirmation.",
+      "es": "No se ha encontrado evidencia de un nombre anterior de la estación; la cartelería histórica de Metro o la prensa del día de la inauguración podrían revisarse para confirmarlo aún más."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_042/en/summary.short.md",
+      "summary": "content/stations/metro_042/en/summary.md",
+      "story": "content/stations/metro_042/en/story.md",
+      "confidence": "content/stations/metro_042/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_042/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_042/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_042/es/summary.short.md",
+      "summary": "content/stations/metro_042/es/summary.md",
+      "story": "content/stations/metro_042/es/story.md",
+      "confidence": "content/stations/metro_042/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_042/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_042/es/research-note.md"
+    }
+  }
+}

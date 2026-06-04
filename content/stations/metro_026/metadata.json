@@ -1,0 +1,104 @@
+{
+  "id": "metro_026",
+  "name": "Estación del Arte",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Paseo del Arte and the nearby Museo del Prado, Museo Reina Sofía and Museo Nacional Thyssen-Bornemisza",
+  "previous_names": "Atocha (1921-2018)",
+  "naming_date": "1 December 2018",
+  "sources": [
+    {
+      "title": "La Comunidad cambia el nombre de la estación de Metropolitano por Vicente Aleixandre y el de Atocha por Estación del Arte",
+      "url": "https://www.comunidad.madrid/press-releases/download/32822",
+      "type": "official",
+      "relevance_en": "Primary 28 November 2018 Community of Madrid press note: states the Atocha-to-Estación del Arte change, effective from 1 December 2018, and explains both the confusion with Atocha/Atocha Renfe and the association with the Prado, Thyssen-Bornemisza and Reina Sofía.",
+      "relevance_es": "Nota de prensa primaria de la Comunidad de Madrid del 28 de noviembre de 2018: indica el cambio de Atocha a Estación del Arte, efectivo desde el 1 de diciembre de 2018, y explica tanto la confusión con Atocha/Atocha Renfe como la asociación con el Prado, Thyssen-Bornemisza y Reina Sofía."
+    },
+    {
+      "title": "MM Estaciones con Historia: Estación del Arte",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-atocha.pdf",
+      "type": "official",
+      "relevance_en": "Metro museum/history sheet: confirms the station opened as Atocha in 1921, changed name in 2018 in reference to the Paseo del Prado museums, and explains the former rail connection and later role of Atocha-Renfe.",
+      "relevance_es": "Ficha histórica de Museos de Metro: confirma que la estación se inauguró como Atocha en 1921, cambió de nombre en 2018 en referencia a los museos del Paseo del Prado, y explica la antigua conexión ferroviaria y el papel posterior de Atocha-Renfe."
+    },
+    {
+      "title": "Garrido anuncia que los más de 1,2 millones de titulares del Abono Joven podrán acceder a los 3 principales museos de Madrid de forma gratuita",
+      "url": "https://www.comunidad.madrid/press-releases/download/25773",
+      "type": "official",
+      "relevance_en": "Official 23 May 2018 presentation of the art-themed station project: documents the collaboration with the Prado, Reina Sofía and Thyssen-Bornemisza and the planned 36 reproductions, 12 from each museum.",
+      "relevance_es": "Presentación oficial del 23 de mayo de 2018 del proyecto de estación tematizada: documenta la colaboración con el Prado, el Reina Sofía y el Thyssen-Bornemisza y las 36 reproducciones previstas, 12 de cada museo."
+    },
+    {
+      "title": "Díaz Ayuso presenta las nuevas pinturas que decoran la Estación del Arte de Metro",
+      "url": "https://www.comunidad.madrid/file/283876/download",
+      "type": "official",
+      "relevance_en": "Official 2021 update confirming that the former Atocha became Estación del Arte in 2018 through collaboration with the three main museums and that the station has 36 large-scale reproductions decorating platforms, passages and halls.",
+      "relevance_es": "Actualización oficial de 2021 que confirma que la antigua Atocha pasó a denominarse Estación del Arte en 2018 mediante colaboración con los tres principales museos y que la estación cuenta con 36 reproducciones a escala en andenes, pasillos y vestíbulos."
+    },
+    {
+      "title": "Convenio entre Metro de Madrid, S.A., y la Fundación Colección Thyssen-Bornemisza",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/01/11/BOCM-20210111-42.PDF",
+      "type": "official",
+      "relevance_en": "BOCM publication of a Metro-museum agreement: states that since 1 December 2018 the old Atocha name changed to Estación del Arte to associate the station more clearly with the three nearby main museums.",
+      "relevance_es": "Publicación del BOCM de un convenio entre Metro y un museo: afirma que desde el 1 de diciembre de 2018 la antigua Atocha cambió a Estación del Arte para asociar con más claridad la estación a los tres principales museos cercanos."
+    },
+    {
+      "title": "Paseo del Arte",
+      "url": "https://www.esmadrid.com/paseo-del-arte",
+      "type": "official",
+      "relevance_en": "Official Madrid tourism page identifying the Paseo del Arte as the area where the Prado, Thyssen-Bornemisza and Reina Sofía are concentrated in just over one kilometre.",
+      "relevance_es": "Página oficial de turismo de Madrid que identifica el Paseo del Arte como el área donde se concentran el Prado, el Thyssen-Bornemisza y el Reina Sofía en poco más de un kilómetro."
+    },
+    {
+      "title": "Paisaje de la Luz. Paseo del Prado y Buen Retiro",
+      "url": "https://www.esmadrid.com/paisaje-de-la-luz-madrid-lista-patrimonio-mundial-unesco",
+      "type": "official",
+      "relevance_en": "Official Madrid tourism page confirming the 25 July 2021 UNESCO inscription of the Paseo del Prado and Buen Retiro cultural landscape, including the Atocha end of Paseo del Prado and many nearby cultural institutions.",
+      "relevance_es": "Página oficial de turismo de Madrid que confirma la inscripción UNESCO del 25 de julio de 2021 del paisaje cultural del Paseo del Prado y Buen Retiro, incluido el extremo de Atocha del Paseo del Prado y numerosas instituciones culturales cercanas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 'Paseo del Arte / Paseo del Prado museum axis' rather than 'Barrio de las Artes' as the named-after value; the official sources identify the nearby Prado, Reina Sofía and Thyssen-Bornemisza museums.",
+      "es": "Usar 'Paseo del Arte / eje museístico del Paseo del Prado' en vez de 'Barrio de las Artes' como valor de named_after; las fuentes oficiales identifican los cercanos museos del Prado, Reina Sofía y Thyssen-Bornemisza."
+    },
+    {
+      "en": "The input fields appear swapped or corrupted: naming_date should be 1 December 2018, previous_names should be Atocha, and person_nationality should be empty rather than '2018'.",
+      "es": "Los campos de entrada parecen intercambiados o corruptos: naming_date debe ser 1 de diciembre de 2018, previous_names debe ser Atocha y person_nationality debe quedar vacío, no '2018'."
+    },
+    {
+      "en": "The statement that the three museums hold more than 40,000 works across eight centuries was not verified in the official station-renaming sources and should be omitted or separately sourced.",
+      "es": "La afirmación de que los tres museos reúnen más de 40.000 obras de ocho siglos no se ha verificado en las fuentes oficiales del cambio de nombre y conviene omitirla o documentarla aparte."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The station history sources give 1921 for opening, but official pages vary between the Line 1 extension date and the station public-opening date; a Metro archive timetable or inauguration notice could settle the exact day for dataset precision.",
+      "es": "Las fuentes históricas dan 1921 como año de apertura, pero las páginas oficiales varían entre la fecha de inauguración del tramo de la línea 1 y la de apertura pública de la estación; un horario o aviso de inauguración del archivo de Metro permitiría fijar el día exacto con precisión de base de datos."
+    },
+    {
+      "en": "A formal internal Metro naming resolution, if preserved, would be the strongest possible administrative source for the name assignment, although the public Community of Madrid press note and BOCM texts are already sufficient for the etymology.",
+      "es": "Una resolución interna formal de Metro sobre la denominación, si se conserva, sería la fuente administrativa más fuerte posible para la asignación del nombre, aunque la nota pública de la Comunidad de Madrid y los textos del BOCM ya son suficientes para la etimología."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_026/en/summary.short.md",
+      "summary": "content/stations/metro_026/en/summary.md",
+      "story": "content/stations/metro_026/en/story.md",
+      "confidence": "content/stations/metro_026/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_026/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_026/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_026/es/summary.short.md",
+      "summary": "content/stations/metro_026/es/summary.md",
+      "story": "content/stations/metro_026/es/story.md",
+      "confidence": "content/stations/metro_026/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_026/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_026/es/research-note.md"
+    }
+  }
+}

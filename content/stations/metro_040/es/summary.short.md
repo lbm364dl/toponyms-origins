@@ -1,0 +1,1 @@
+La estación de Ibiza recibe su nombre de la calle de Ibiza, bajo la que se sitúa en Retiro. La calle forma parte de un pequeño patrón de nombres baleares en la zona, con Ibiza y Menorca aún visibles y Mallorca conservada solo de forma indirecta como antiguo nombre viario.

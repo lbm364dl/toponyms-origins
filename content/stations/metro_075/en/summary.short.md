@@ -1,0 +1,1 @@
+San Cipriano station is named for Calle de San Cipriano in Vicálvaro, the street where its accesses are located. The religious name probably refers to Saint Cyprian of Carthage, the third-century bishop and martyr, although the street-naming act has not been located.

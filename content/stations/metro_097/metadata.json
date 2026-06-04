@@ -1,0 +1,111 @@
+{
+  "id": "metro_097",
+  "name": "Marqués de Vadillo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Francisco Antonio de Salcedo y Aguirre, I Marqués de Vadillo",
+  "previous_names": "",
+  "naming_date": "1968",
+  "sources": [
+    {
+      "title": "Marqués de Vadillo - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_94/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 5 correspondence, and accesses on the Glorieta del Marqués de Vadillo.",
+      "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 5 y los accesos en la Glorieta del Marqués de Vadillo."
+    },
+    {
+      "title": "Correspondencia con la Historia - Real Academia de la Historia",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "reference",
+      "relevance_en": "RAH/Metro page listing Marqués de Vadillo among Metro station names with biographies and linking the station to Francisco Antonio de Salcedo y Aguirre.",
+      "relevance_es": "Página RAH/Metro que incluye Marqués de Vadillo entre las estaciones con biografía y vincula la estación con Francisco Antonio de Salcedo y Aguirre."
+    },
+    {
+      "title": "Dionisio Á. Martín Nieto, Don Francisco Antonio de Salcedo y Aguirre (1646-1729), Marqués del Vadillo, Corregidor de Madrid",
+      "url": "https://www.ramhg.es/wp-content/uploads/2024/09/anales-07_2002-2003-05_martin.pdf",
+      "type": "academic",
+      "relevance_en": "Detailed biographical and genealogical study confirming baptism in 1646, death on 24 June 1729, appointment as corregidor in 1715, and his Madrid public works context.",
+      "relevance_es": "Estudio biográfico y genealógico detallado que confirma el bautismo en 1646, la muerte el 24 de junio de 1729, el nombramiento como corregidor en 1715 y el contexto de sus obras públicas madrileñas."
+    },
+    {
+      "title": "Puente de Toledo - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Edificios-singulares/Puente-de-Toledo/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4428f7d9560a4510f7d9560a45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official heritage record stating that the present bridge was commissioned in 1715 by the Marqués de Vadillo and built by Pedro de Ribera, with the main period listed as 1715-1727.",
+      "relevance_es": "Ficha oficial de patrimonio que indica que el puente actual fue encargado en 1715 por el Marqués de Vadillo y realizado por Pedro de Ribera, con periodo principal 1715-1727."
+    },
+    {
+      "title": "Puente de Toledo - Monumentos, Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Puente-de-Toledo/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=26e8091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official monument page describing the Puente de Toledo as a major Madrid Baroque work, built by Pedro de Ribera under commissions from the corregidor Marqués de Vadillo.",
+      "relevance_es": "Ficha oficial del monumento que describe el Puente de Toledo como una gran obra del barroco madrileño, construida por Pedro de Ribera por encargo del corregidor Marqués de Vadillo."
+    },
+    {
+      "title": "Madrid Río información ampliada - Puente de Toledo, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Normativa/Normativa-en-tramitacion/Madrid-Rio-informacion-ampliada/?idCapitulo=5966080&vgnextchannel=6b8ba904ef8f9010VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=5acc7f0917afc110VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official Madrid Río text giving the longer bridge chronology, including the 1715 reconstruction commission, works from 1719 to 1732, and the earlier flood-damaged crossings.",
+      "relevance_es": "Texto oficial de Madrid Río que ofrece la cronología larga del puente, incluido el encargo de reconstrucción de 1715, las obras de 1719 a 1732 y los pasos anteriores dañados por riadas."
+    },
+    {
+      "title": "La Línea 5 del metro de Madrid - Andén 1",
+      "url": "https://anden1.es/instalaciones/lineas/la-linea-5-del-metro-de-madrid",
+      "type": "other",
+      "relevance_en": "Transport-history source giving the opening date of Marqués de Vadillo station as 5 June 1968 and contextualizing the original Line 5 Callao-Carabanchel section.",
+      "relevance_es": "Fuente de historia del transporte que da la fecha de apertura de Marqués de Vadillo como 5 de junio de 1968 y contextualiza el tramo inicial Callao-Carabanchel de la línea 5."
+    },
+    {
+      "title": "Vadillo, El - Despoblados de Soria",
+      "url": "https://despoblados.amigosdelmuseonumantino.es/despoblado-de-soria/vadillo-el/",
+      "type": "reference",
+      "relevance_en": "Provides background on El Vadillo in Soria as the place associated with the marquisate title, useful context for the title but not the direct Metro naming.",
+      "relevance_es": "Aporta contexto sobre El Vadillo en Soria como lugar asociado al título del marquesado, útil para explicar el título aunque no sea la denominación directa del Metro."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the person's birth year c.1660 with 1646; the detailed genealogical article transcribes his baptism in San Andrés de Soria on 17 October 1646.",
+      "es": "Sustituir el año de nacimiento c. 1660 por 1646; el artículo genealógico detallado transcribe su bautismo en San Andrés de Soria el 17 de octubre de 1646."
+    },
+    {
+      "en": "State the naming pathway more precisely: the Metro station is named after the Glorieta del Marqués de Vadillo, which commemorates Francisco Antonio de Salcedo y Aguirre.",
+      "es": "Formular con más precisión la vía del nombre: la estación de Metro toma el nombre de la Glorieta del Marqués de Vadillo, que recuerda a Francisco Antonio de Salcedo y Aguirre."
+    },
+    {
+      "en": "Qualify the Puente de Toledo completion date: Madrid's official heritage pages variously give 1727 for the main work and 1732 for the conclusion of works.",
+      "es": "Matizar la fecha de terminación del Puente de Toledo: las páginas oficiales municipales dan 1727 para la obra principal y 1732 para la conclusión de las obras."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact City Council decision or date that assigned the name Marqués de Vadillo to the roundabout was not located online and would require checking municipal street-name records or historical callejeros.",
+      "es": "No se localizó en línea el acuerdo o la fecha exacta del Ayuntamiento que asignó el nombre Marqués de Vadillo a la glorieta; habría que revisar expedientes municipales de rotulación o callejeros históricos."
+    },
+    {
+      "en": "A primary Metro de Madrid opening document for the station name was not inspected; transport-history sources consistently give the opening as 5 June 1968.",
+      "es": "No se inspeccionó un documento primario de Metro de Madrid sobre la denominación de la estación; las fuentes de historia del transporte dan de forma consistente la apertura el 5 de junio de 1968."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_097/en/summary.short.md",
+      "summary": "content/stations/metro_097/en/summary.md",
+      "story": "content/stations/metro_097/en/story.md",
+      "confidence": "content/stations/metro_097/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_097/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_097/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_097/es/summary.short.md",
+      "summary": "content/stations/metro_097/es/summary.md",
+      "story": "content/stations/metro_097/es/story.md",
+      "confidence": "content/stations/metro_097/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_097/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_097/es/research-note.md"
+    }
+  }
+}

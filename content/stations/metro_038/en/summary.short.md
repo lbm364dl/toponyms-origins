@@ -1,0 +1,1 @@
+Named for Manuel Becerra y Bermúdez, a nineteenth-century Spanish mathematician, politician, minister and parliamentarian. The Metro station inherited the name from the square above it, officially renamed for him in 1905.

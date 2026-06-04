@@ -1,0 +1,1 @@
+La ubicación inmediata de la estación bajo la calle de Ibiza y la entrada del callejero oficial hacen muy probable el origen viario del nombre. La confianza se marca como probable y no como plenamente verificada porque no se consultó un expediente de denominación de Metro ni un acuerdo municipal que declare directamente la dedicatoria de la calle a la isla en una fecha concreta.

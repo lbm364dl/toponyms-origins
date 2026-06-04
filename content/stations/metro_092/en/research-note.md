@@ -1,0 +1,1 @@
+Metro's own station sheet contains a minor hagiographical inaccuracy by calling Saint Bernard the founder of the order of Saint Benedict; for display, it is safer to describe him as a leading Cistercian reformer associated with Clairvaux. The etymology should foreground the Madrid hospital/convent and street/glorieta chain, not the Alcalá monastery.

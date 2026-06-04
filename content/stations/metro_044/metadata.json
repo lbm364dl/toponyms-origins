@@ -1,0 +1,93 @@
+{
+  "id": "metro_044",
+  "name": "Iglesia",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Iglesia de Santa Teresa y Santa Isabel",
+  "previous_names": "Martínez Campos (project name / early formal reference); Sorolla (Civil War-era name)",
+  "naming_date": "1919",
+  "sources": [
+    {
+      "title": "Museos de Metro de Madrid: Estaciones con historia - Iglesia",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-iglesia.pdf",
+      "type": "official",
+      "relevance_en": "Direct Metro historical source confirming the station’s project name Martínez Campos, inauguration as Iglesia in 1919, naming after the church, and Civil War renaming to Sorolla.",
+      "relevance_es": "Fuente histórica directa de Metro que confirma el nombre de proyecto Martínez Campos, la inauguración como Iglesia en 1919, el origen del nombre por la iglesia y el cambio a Sorolla durante la Guerra Civil."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 1 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-1-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms the official inauguration of Line 1 on 17 October 1919, public opening on 31 October 1919, and lists the early stop as Martínez Campos (Glorieta de Iglesia).",
+      "relevance_es": "Confirma la inauguración oficial de la línea 1 el 17 de octubre de 1919, la apertura al público el 31 de octubre de 1919 y recoge la parada temprana como Martínez Campos (Glorieta de Iglesia)."
+    },
+    {
+      "title": "Fundación Arquitectura COAM: Iglesia de Santa Teresa y Santa Isabel",
+      "url": "https://fcoam.eu/guia/L2/L2.501.htm",
+      "type": "reference",
+      "relevance_en": "Architectural reference locating the church at Glorieta Pintor Sorolla and giving the original project/construction chronology of 1842 and 1842-1856, plus post-1936 reconstruction context.",
+      "relevance_es": "Referencia arquitectónica que sitúa la iglesia en la glorieta del Pintor Sorolla y da la cronología original de proyecto y obra, 1842 y 1842-1856, además del contexto de reconstrucción posterior a 1936."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Parroquia Santa Teresa y Santa Isabel",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Parroquia-Santa-Teresa-y-Santa-Isabel/?vgnextchannel=15d3efff228fe410VgnVCM2000000c205a0aRCRD&vgnextfmt=default&vgnextoid=6fc4b069a541f010VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal listing confirming the present parish name, address at Glorieta Pintor Sorolla 2, Chamberí/Trafalgar location, and proximity to Metro Iglesia.",
+      "relevance_es": "Ficha municipal que confirma el nombre actual de la parroquia, la dirección en la glorieta del Pintor Sorolla 2, su ubicación en Chamberí/Trafalgar y la proximidad al Metro Iglesia."
+    },
+    {
+      "title": "Archidiócesis de Madrid: ¿De dónde viene la devoción a la Virgen del Carmen en Chamberí?",
+      "url": "https://www.archimadrid.org/index.php/oficina-de-informacion/noticias-madrid/9042118-de-donde-viene-la-devocion-a-la-virgen-del-carmen-en-chamberi?acm=_19183",
+      "type": "official",
+      "relevance_en": "Church authority source giving local parish context: Chamberí’s small population in 1839, first stone in 1842, opening for the outer-suburb residents in 1856, and the Santa Teresa/Santa Isabel dedication explanation.",
+      "relevance_es": "Fuente eclesiástica oficial que aporta contexto parroquial local: población reducida de Chamberí en 1839, primera piedra en 1842, estreno para los vecinos del arrabal en 1856 y explicación de la doble advocación Santa Teresa/Santa Isabel."
+    },
+    {
+      "title": "Parroquia Santa Teresa y Santa Isabel: La Iglesia de Santa Teresa y Santa Isabel cumple 180 años al servicio de Chamberí",
+      "url": "https://santateresaysantaisabel.es/la-iglesia-de-santa-teresa-y-santa-isabel-cumple-180-anos-al-servicio-de-chamberi/",
+      "type": "official",
+      "relevance_en": "Parish source describing the church as a Chamberí landmark, linking the 1842 first stone to local residents, workshops, factories, donations, and Queen Isabel II’s support.",
+      "relevance_es": "Fuente parroquial que presenta el templo como hito de Chamberí y relaciona la primera piedra de 1842 con vecinos, talleres, fábricas, donativos y el apoyo de Isabel II."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "State Martínez Campos as the project name or early formal reference, not as a public station name definitely used in service before Iglesia.",
+      "es": "Conviene presentar Martínez Campos como nombre de proyecto o referencia formal temprana, no como un nombre de estación usado con seguridad en servicio antes de Iglesia."
+    },
+    {
+      "en": "The old square-name context should mention Glorieta de Martínez Campos as well as Glorieta or Plaza de Iglesia, because official Metro history uses Martínez Campos (Glorieta de Iglesia).",
+      "es": "El contexto del nombre antiguo de la plaza debe mencionar la glorieta de Martínez Campos además de la glorieta o plaza de Iglesia, porque la historia oficial de Metro usa Martínez Campos (Glorieta de Iglesia)."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival check of Metro de Madrid’s 1917-1919 plans and public timetables could pin down exactly when signage, tickets, or maps first used Iglesia rather than Martínez Campos.",
+      "es": "Una revisión completa de los planos y horarios públicos de Metro de Madrid de 1917-1919 permitiría precisar cuándo la señalización, los billetes o los planos empezaron a usar Iglesia en lugar de Martínez Campos."
+    },
+    {
+      "en": "The exact official dates of the wartime Sorolla renaming and postwar restoration were not found in an accessible primary decree during this pass.",
+      "es": "En esta revisión no se encontró un decreto primario accesible con las fechas oficiales exactas del cambio a Sorolla durante la guerra y de la recuperación posterior de Iglesia."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_044/en/summary.short.md",
+      "summary": "content/stations/metro_044/en/summary.md",
+      "story": "content/stations/metro_044/en/story.md",
+      "confidence": "content/stations/metro_044/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_044/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_044/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_044/es/summary.short.md",
+      "summary": "content/stations/metro_044/es/summary.md",
+      "story": "content/stations/metro_044/es/story.md",
+      "confidence": "content/stations/metro_044/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_044/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_044/es/research-note.md"
+    }
+  }
+}

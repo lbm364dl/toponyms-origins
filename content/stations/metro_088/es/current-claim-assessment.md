@@ -1,0 +1,1 @@
+La fila es esencialmente correcta: la estación toma su nombre del cercano Parque del Buen Retiro y se inauguró con la línea 2 el 14 de junio de 1924. La principal corrección es que el Conde-Duque de Olivares debe presentarse como promotor o impulsor del real sitio, no como su diseñador, y el nombre inmediato del proyecto de la estación fue Independencia-Velázquez.

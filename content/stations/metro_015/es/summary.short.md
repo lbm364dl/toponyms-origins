@@ -1,0 +1,1 @@
+La estación de Gregorio Marañón toma su nombre de la cercana plaza del Doctor Marañón y, en último término, de Gregorio Marañón y Posadillo (1887-1960), destacado médico, endocrinólogo, historiador e intelectual español. El intercambiador de Metro se creó en 1998 con la transformación de la línea 10 y la prolongación hacia el oeste de la línea 7.

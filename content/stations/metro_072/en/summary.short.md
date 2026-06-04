@@ -1,0 +1,1 @@
+Pavones is named for the local Pavones place-name in Moratalaz, preserved today in the neighbourhood and Calle de la Hacienda de Pavones. The name comes from an old agricultural estate, recorded as Pavones or Pabones, that occupied land later absorbed into Madrid's eastern urban expansion.

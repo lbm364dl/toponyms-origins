@@ -1,0 +1,1 @@
+The core claim is correct: the station name ultimately refers to Francisco de Goya. The more precise wording is that Metro’s Goya station takes its name from Calle de Goya, officially Calle de Francisco Goya, at its location by Alcalá and Goya.

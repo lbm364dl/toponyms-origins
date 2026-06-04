@@ -1,0 +1,1 @@
+Atocha toma su nombre de un antiguo topónimo madrileño vinculado a la atocha, es decir, el esparto. La RAE/ASALE y Corominas rastrean la palabra por formas mozárabes e hispanoárabes hasta una probable raíz prerromana con el sentido de mata o matorral.

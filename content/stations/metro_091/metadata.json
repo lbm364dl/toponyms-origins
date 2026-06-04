@@ -1,0 +1,97 @@
+{
+  "id": "metro_091",
+  "name": "Santo Domingo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Plaza de Santo Domingo / antiguo Monasterio de Santo Domingo el Real",
+  "previous_names": "",
+  "naming_date": "1925-10-21",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Santo Domingo",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/11/ficha-santo-domingo.pdf",
+      "type": "official",
+      "relevance_en": "Metro de Madrid historical sheet documenting the station, its Line 2 context, the 21 October 1925 opening, location by Plaza de Santo Domingo, original access, and the convent's demolition and later Claudio Coello continuation.",
+      "relevance_es": "Ficha histórica de Metro de Madrid que documenta la estación, su contexto en la línea 2, la inauguración del 21 de octubre de 1925, la localización junto a la plaza de Santo Domingo, el acceso original y el derribo del convento con su continuación posterior en Claudio Coello."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 2 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-2-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional transport infrastructure page confirming that Line 2's extension to Quevedo entered service in October 1925.",
+      "relevance_es": "Página regional de infraestructuras de transporte que confirma que la prolongación de la línea 2 hasta Quevedo entró en servicio en octubre de 1925."
+    },
+    {
+      "title": "Memoria de Madrid - Santo Domingo el Real",
+      "url": "https://www.memoriademadrid.es/view/634021/santo-domingo-el-real",
+      "type": "official",
+      "relevance_en": "Municipal heritage record for a 1991 plaque at Cuesta de Santo Domingo, summarizing the convent's early friar-to-nun tradition, the origin of 'el Real', the 1869 demolition, and its role in forming a medieval suburb.",
+      "relevance_es": "Ficha patrimonial municipal de una placa de 1991 en la cuesta de Santo Domingo, que resume la tradición inicial de frailes y monjas, el origen de 'el Real', el derribo de 1869 y su papel en la formación de un arrabal medieval."
+    },
+    {
+      "title": "Herbert González Zymla, 'El patrimonio medieval de Santo Domingo el Real de Madrid', Madrid. Revista de arte, geografía e historia, n.º 7, 2005",
+      "url": "https://www.madrid.org/bvirtual/BVCM001580.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article giving the most detailed inspected discussion of the foundation chronology, Saint Dominic's likely presence in Madrid in 1219, the convent's royal and artistic importance, and archival documentation concerning the 1869 demolition.",
+      "relevance_es": "Artículo académico que ofrece la discusión más detallada consultada sobre la cronología fundacional, la probable presencia de santo Domingo en Madrid en 1219, la importancia regia y artística del convento y documentación archivística sobre el derribo de 1869."
+    },
+    {
+      "title": "Dominicos - VIII Centenario del Monasterio de Santo Domingo el Real de Madrid: ¿Qué celebramos?",
+      "url": "https://www.dominicos.org/viii-centenario-del-monasterio-de-santo-domingo-el-real-de-madrid/que-celebramos/",
+      "type": "reference",
+      "relevance_en": "Dominican order page explaining the community's own centenary interpretation: 1219 as the monastery's foundation tradition, while distinguishing the 1220 enclosure in a proper building.",
+      "relevance_es": "Página de la Orden de Predicadores que explica la interpretación conmemorativa de la comunidad: 1219 como tradición fundacional del monasterio, distinguiéndola de la clausura en edificio propio en 1220."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Historia de una plaza / Santo Domingo nueva plaza",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2007/04Abril/27Viernes/notasprensa/Alcaldesantodomingo/Santo%20Domingo%20Dossier.pdf",
+      "type": "official",
+      "relevance_en": "Municipal dossier documenting the twentieth-century transformation of Plaza de Santo Domingo, including the 1959 elevated car park and the 2006-2007 recovery of the square as public space.",
+      "relevance_es": "Dossier municipal que documenta la transformación contemporánea de la plaza de Santo Domingo, incluido el aparcamiento elevado de 1959 y la recuperación de 2006-2007 como espacio público."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Plaza de Santo Domingo as the station's immediate source, with the monastery as the deeper origin.",
+      "es": "Conviene usar la plaza de Santo Domingo como fuente inmediata del nombre de la estación, y el monasterio como origen más profundo."
+    },
+    {
+      "en": "Avoid stating a single precise foundation sequence without qualification; inspected sources variously support 1218, 1219 and 1220 for different stages.",
+      "es": "Debe evitarse presentar una única secuencia fundacional exacta sin matices; las fuentes consultadas apoyan 1218, 1219 y 1220 para distintas fases."
+    },
+    {
+      "en": "The claim that Pedro I executed enemies inside the convent was not supported by the stronger sources inspected; the better-supported link is that his remains and funerary monument were associated with Santo Domingo el Real.",
+      "es": "La afirmación de que Pedro I ejecutó enemigos dentro del convento no quedó respaldada por las fuentes más sólidas consultadas; el vínculo mejor documentado es que sus restos y monumento funerario estuvieron asociados a Santo Domingo el Real."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A physical or digitized inspection of classic Madrid street-name works such as Pedro de Répide, Peñasco and Cambronero, and Isabel Gea would help refine the exact municipal history of the square name.",
+      "es": "La consulta física o digital completa de obras clásicas de callejero madrileño, como Pedro de Répide, Peñasco y Cambronero e Isabel Gea, ayudaría a precisar la historia municipal exacta del nombre de la plaza."
+    },
+    {
+      "en": "The station appears to have opened with its current name, but no separate official naming act for the station was found beyond the 1925 opening documentation.",
+      "es": "La estación parece haberse inaugurado con su nombre actual, pero no se ha localizado un acto oficial separado de denominación más allá de la documentación de apertura de 1925."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_091/en/summary.short.md",
+      "summary": "content/stations/metro_091/en/summary.md",
+      "story": "content/stations/metro_091/en/story.md",
+      "confidence": "content/stations/metro_091/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_091/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_091/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_091/es/summary.short.md",
+      "summary": "content/stations/metro_091/es/summary.md",
+      "story": "content/stations/metro_091/es/story.md",
+      "confidence": "content/stations/metro_091/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_091/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_091/es/research-note.md"
+    }
+  }
+}

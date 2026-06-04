@@ -1,0 +1,1 @@
+The direct station-name claim is verified: the Metro stop takes the name of the Carabanchel area. The deeper explanation of the place-name is plausible but overstated, because authoritative sources present several competing pre-Roman, Celtic/anthroponymic, Arabic, and folk-etymological proposals rather than a settled origin.

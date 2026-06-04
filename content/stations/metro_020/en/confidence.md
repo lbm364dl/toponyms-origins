@@ -1,0 +1,1 @@
+The station name, location, lines, and opening chronology are supported by official transport and municipal-archive sources, and the person behind the name is confirmed by the Real Academia de la Historia. Confidence is slightly qualified only for the exact street-naming date and for the legendary embellishments of the Tarifa episode.

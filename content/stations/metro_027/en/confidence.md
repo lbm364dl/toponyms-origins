@@ -1,0 +1,1 @@
+The renaming, its date, and the reason for the change are documented in an official Community of Madrid press release and PDF. The station opening date and former-name chronology are also confirmed by official Community of Madrid Line 8 infrastructure material.

@@ -1,0 +1,1 @@
+La afirmación está sustancialmente respaldada como tradición antigua del callejero madrileño, pero el episodio diplomático medieval procede de cronistas y autores posteriores del callejero, no de un documento del siglo XV inspeccionado directamente.

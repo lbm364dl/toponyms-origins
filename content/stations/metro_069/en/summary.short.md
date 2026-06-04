@@ -1,0 +1,1 @@
+Delicias is named for the Paseo de las Delicias, an 18th-century tree-lined promenade that led from Atocha toward the Manzanares. Its older form, Paseo de las Delicias del Rio, referred to a riverside pleasure area by the Manzanares canal.

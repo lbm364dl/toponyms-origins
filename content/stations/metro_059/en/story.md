@@ -1,0 +1,9 @@
+Mar de Cristal is named after the place directly above it: the Glorieta del Mar de Cristal in Hortaleza. The Community of Madrid’s description of the Line 4 extension says the station is located in the roundabout from which it takes its name, where Ayacucho, Arequipa and the Avenida de los Emigrantes meet.
+
+The roundabout is not an after-the-fact nickname created by the Metro. Madrid’s official street dataset records `GLORIETA DEL MAR DE CRISTAL` as vial code 902, in district 16, with an official existence date of 31 May 1990. Its current address records for numbers 1 to 4 were added on 2 July 1992, several years before the station opened.
+
+The broader setting helps explain why the name feels more urban than ancient. Around the station are streets such as Mar Adriático and other Hortaleza vials with names of seas, straits and faraway places. The inspected municipal inventory even records nearby sea-name streets with earlier official-existence dates in the 1950s, so Mar de Cristal looks most plausibly like part of a local street-naming landscape rather than a preserved medieval or rural toponym.
+
+The station itself arrived during the late-1990s Metro expansion into Hortaleza. Line 4 reached Mar de Cristal on 27 April 1998, with Canillas and Mar de Cristal as the two new stations on the Esperanza-Mar de Cristal extension. Line 8 followed on 24 June 1998, opening the Mar de Cristal-Campo de las Naciones section and turning the station into a northeastern interchange.
+
+The poetic phrase “Mar de Cristal” can also be found in biblical language, especially in Revelation’s image of a sea like glass or crystal. But no inspected planning, street, transport or municipal source connects the Madrid roundabout to that passage. For public display, the safest wording is therefore: the station is certainly named after the Glorieta del Mar de Cristal; the reason that the roundabout received that evocative name remains undocumented.

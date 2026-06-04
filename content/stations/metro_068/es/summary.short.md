@@ -1,0 +1,1 @@
+La estación de Legazpi toma su nombre de la plaza de Legazpi, registrada oficialmente por el callejero madrileño en 1926 y dedicada a Miguel López de Legazpi, el guipuzcoano que dirigió la expedición española que consolidó la presencia colonial en Filipinas y convirtió Manila en capital española en 1571.

@@ -1,0 +1,1 @@
+The core claim is well supported: the station name refers to the Jesuit Noviciado de San Ignacio/Noviciado de la Compañía de Jesús that occupied the San Bernardo block. Some details need nuance: authoritative sources confirm the 1602 foundation and the block, while the Genoese Embassy detail is less directly supported by the strongest sources inspected.

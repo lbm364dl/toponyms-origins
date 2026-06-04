@@ -1,0 +1,1 @@
+Varias fuentes independientes respaldan el origen toponímico directo: páginas oficiales y municipales identifican el complejo, sus autores y cronología, mientras Renfe y fuentes de transporte identifican la estación como el intercambiador que sirve a Nuevos Ministerios. No se encontró una etimología alternativa creíble.

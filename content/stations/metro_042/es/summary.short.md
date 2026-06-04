@@ -1,0 +1,1 @@
+La estación de Menéndez Pelayo toma su nombre de la avenida cercana, dedicada a Marcelino Menéndez y Pelayo, filólogo, historiador de la literatura y crítico nacido en Santander. Se inauguró en la línea 1 el 8 de mayo de 1923, dentro de la prolongación Atocha-Puente de Vallecas.

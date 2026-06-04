@@ -1,0 +1,1 @@
+Feria de Madrid is named for the IFEMA MADRID exhibition grounds beside the station. It was called Campo de las Naciones from its opening on 24 June 1998 until the new name took effect on 26 June 2017.

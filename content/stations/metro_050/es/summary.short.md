@@ -1,0 +1,1 @@
+Valdeacederas conserva el nombre de una antigua calle y de un topónimo local, sustituido después en el callejero por Capitán Blanco Argibay. Lingüísticamente se interpreta como 'valle de las acederas', de val, 'valle', y acederas, plantas de sabor ácido.

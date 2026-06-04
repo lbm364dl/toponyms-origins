@@ -1,0 +1,9 @@
+La estación de San Cipriano toma su nombre directamente de la calle de San Cipriano, en Vicálvaro. La prueba más sólida no procede de una guía posterior, sino de la propia descripción de la Comunidad de Madrid sobre la prolongación de la línea 9: los accesos de la estación están en la calle de San Cipriano y esa calle da nombre a la estación.
+
+El nombre de la calle es religioso. En el uso español, “San Cipriano” suele remitir a san Cipriano de Cartago, obispo norteafricano del siglo III, escritor cristiano y mártir. Fue obispo de Cartago durante las persecuciones de Decio y Valeriano y murió mártir en el año 258.
+
+El nombre de Metro pertenece a la historia contemporánea del transporte en Vicálvaro. La prolongación Pavones-Puerta de Arganda de la línea 9 entró en servicio el 1 de diciembre de 1998 e incorporó las estaciones de Valdebernardo, Vicálvaro, San Cipriano y Puerta de Arganda. La descripción regional de la obra aporta además un detalle físico: San Cipriano se sitúa solo 397 metros después de Vicálvaro, en un tramo de fuerte pendiente diseñado para alcanzar la cota necesaria.
+
+El entorno es bastante anterior al Metro. El callejero oficial de Madrid sitúa la calle de San Cipriano en Vicálvaro, entre la calle de Ambroz y la calle del Jardín de la Duquesa, y el plano de Facundo Cañada de 1900 es una fuente clave para la forma urbana antigua de Vicálvaro y de otros pueblos del entorno madrileño. Vicálvaro siguió siendo municipio independiente hasta su incorporación a Madrid a mediados del siglo XX.
+
+La explicación pública más prudente tiene, por tanto, dos niveles: la estación se llama con seguridad por la calle de San Cipriano; la calle conserva probablemente una advocación de santo, muy posiblemente san Cipriano de Cartago. Lo que queda sin verificar es el acuerdo municipal concreto o la razón local antigua por la que se eligió ese santo para la vía de Vicálvaro.

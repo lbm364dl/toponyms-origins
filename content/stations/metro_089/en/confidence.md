@@ -1,0 +1,1 @@
+Metro de Madrid historical documentation places the station at the Cibeles/Alcalá location, gives the Line 2 opening date, and explicitly says the project name Castelar changed to Banco during construction. Banco de España official sources verify the adjacent headquarters, the institution's name history, the architects, and the 1891 inauguration.

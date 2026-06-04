@@ -1,0 +1,1 @@
+La estación de Vicálvaro toma su nombre del antiguo municipio de Vicálvaro, incorporado a Madrid a mediados del siglo XX y convertido después en distrito propio. El origen más antiguo del topónimo es discutido, normalmente entre un «Vicus Alvar» y un «Vicus Albus» de base latina medieval.

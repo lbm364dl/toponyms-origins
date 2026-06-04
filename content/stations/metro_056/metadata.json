@@ -1,0 +1,115 @@
+{
+  "id": "metro_056",
+  "name": "Arturo Soria",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Arturo Soria y Mata",
+  "previous_names": "",
+  "naming_date": "1979-01-05",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Arturo Soria",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_68/",
+      "type": "official",
+      "relevance_en": "Official transport listing placing Arturo Soria station on Metro line 4 and at Calle de Arturo Soria, 172.",
+      "relevance_es": "Ficha oficial de transporte que sitúa la estación de Arturo Soria en la línea 4 de Metro y en la calle de Arturo Soria, 172."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 4 de Metro de Madrid",
+      "url": "https://pcen.prod.comunidad.madrid/transporte/linea-4-metro-madrid",
+      "type": "official",
+      "relevance_en": "Documents the Line 4 extension from Alfonso XIII to Esperanza, initially planned only to Arturo Soria, inaugurated on 5 January 1979 with three new stations.",
+      "relevance_es": "Documenta la prolongación de la línea 4 desde Alfonso XIII hasta Esperanza, prevista inicialmente solo hasta Arturo Soria, inaugurada el 5 de enero de 1979 con tres estaciones nuevas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Ciudad Lineal",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Ciudad-Lineal/Ciudad-Lineal/?vgnextchannel=38f0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=e417c9c84c3b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal district history stating that Arturo Soria published the Ciudad Lineal project in 1892 and that the CMU was formed in 1894 to build it.",
+      "relevance_es": "Historia municipal del distrito que indica que Arturo Soria publicó el proyecto de Ciudad Lineal en 1892 y que la CMU se constituyó en 1894 para edificarlo."
+    },
+    {
+      "title": "Patrimonio Cultural y Paisaje Urbano de Madrid: Primera Piedra Ciudad Lineal",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Primera-Piedra-Ciudad-Lineal/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=8ac8091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official heritage entry identifying Arturo Soria y Mata as creator of the Ciudad Lineal and giving key dates: 1892 project, 1894 CMU, 1897 works, and the first stone of 16 July 1894.",
+      "relevance_es": "Ficha patrimonial oficial que identifica a Arturo Soria y Mata como creador de la Ciudad Lineal y ofrece fechas clave: proyecto de 1892, CMU de 1894, obras de 1897 y primera piedra del 16 de julio de 1894."
+    },
+    {
+      "title": "Diario del Ayuntamiento de Madrid: El sueño urbanístico de Arturo Soria, presente en Ciudad Lineal",
+      "url": "https://diario.madrid.es/ciudadlineal/2021/04/07/el-sueno-urbanistico-de-arturo-soria-en-ciudad-lineal/",
+      "type": "official",
+      "relevance_en": "Municipal article noting 5.3 kilometres built out of 48 projected, the present street route associated with his name from 1905, and the 1897 urbanism journal.",
+      "relevance_es": "Artículo municipal que menciona 5,3 kilómetros construidos de 48 proyectados, el trazado actual de la calle asociado a su nombre desde 1905 y la revista urbanística de 1897."
+    },
+    {
+      "title": "Pozzati, Alice: Cuando la construcción de una ciudad pasa por las páginas de un periódico",
+      "url": "https://digibug.ugr.es/handle/10481/104312",
+      "type": "academic",
+      "relevance_en": "Academic publication describing La Ciudad Lineal as a 1897 CMU house organ, founded after the CMU of 1894, and clarifying its promotional and informational role.",
+      "relevance_es": "Publicación académica que describe La Ciudad Lineal como órgano de la CMU publicado en 1897 tras la fundación de la compañía en 1894, y aclara su papel informativo y promocional."
+    },
+    {
+      "title": "Real Academia de la Historia, Historia Hispánica: Arturo Soria y Mata",
+      "url": "https://historia-hispanica.rah.es/biografias/41918-arturo-soria-y-mata",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Arturo Soria y Mata's identity and dates; the page was located but returned limited readable text in the browsing tool.",
+      "relevance_es": "Referencia biográfica autorizada para la identidad y fechas de Arturo Soria y Mata; la página fue localizada, aunque devolvió poco texto legible en la herramienta de navegación."
+    },
+    {
+      "title": "Le Corbusier y la Ciudad Lineal. A propósito de un doble centenario",
+      "url": "https://polipapers.upv.es/index.php/LC/article/view/15117",
+      "type": "academic",
+      "relevance_en": "Specialized article supporting the relationship between Le Corbusier and Soria's Ciudad Lineal, useful for replacing weaker broad influence claims.",
+      "relevance_es": "Artículo especializado que respalda la relación entre Le Corbusier y la Ciudad Lineal de Soria, útil para sustituir afirmaciones generales de influencia menos sólidas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "State that the Metro station is named through Calle de Arturo Soria; the immediate transport name is the street name, whose honouree is Arturo Soria y Mata.",
+      "es": "Indicar que la estación de Metro toma el nombre de la calle de Arturo Soria; la denominación inmediata de transporte es la calle, cuyo homenajeado es Arturo Soria y Mata."
+    },
+    {
+      "en": "Replace the phrase that Soria published La Ciudad Lineal until 1932: the journal continued until 1932, but Soria died in 1920.",
+      "es": "Sustituir la frase según la cual Soria publicó La Ciudad Lineal hasta 1932: la revista continuó hasta 1932, pero Soria murió en 1920."
+    },
+    {
+      "en": "Avoid presenting influence on Frank Lloyd Wright as verified unless a stronger source is added; Le Corbusier is much better supported by the sources found.",
+      "es": "Evitar presentar como verificada la influencia en Frank Lloyd Wright salvo que se añada una fuente más sólida; la relación con Le Corbusier está mucho mejor respaldada por las fuentes localizadas."
+    },
+    {
+      "en": "Use a more precise chronology: project in 1892, CMU in 1894, first urbanisation works in 1897, and construction mainly during the first quarter of the twentieth century.",
+      "es": "Usar una cronología más precisa: proyecto en 1892, CMU en 1894, primeros trabajos de urbanización en 1897 y construcción principalmente durante el primer cuarto del siglo XX."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary Metro de Madrid archival source for the station's individual naming act or construction file would be useful to resolve the 4 January versus 5 January 1979 opening-date discrepancy.",
+      "es": "Sería útil una fuente archivística primaria de Metro de Madrid sobre el acto de denominación o el expediente constructivo de la estación para resolver la discrepancia entre el 4 y el 5 de enero de 1979 como fecha de apertura."
+    },
+    {
+      "en": "The direct documentary path by which Calle de Arturo Soria received its name, reportedly matching the current route from 1905, should be checked in municipal street-naming records or Archivo de Villa files.",
+      "es": "Conviene comprobar en expedientes municipales de denominación viaria o en el Archivo de Villa la vía documental directa por la que la calle de Arturo Soria recibió su nombre, al parecer coincidente con el trazado actual desde 1905."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_056/en/summary.short.md",
+      "summary": "content/stations/metro_056/en/summary.md",
+      "story": "content/stations/metro_056/en/story.md",
+      "confidence": "content/stations/metro_056/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_056/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_056/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_056/es/summary.short.md",
+      "summary": "content/stations/metro_056/es/summary.md",
+      "story": "content/stations/metro_056/es/story.md",
+      "confidence": "content/stations/metro_056/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_056/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_056/es/research-note.md"
+    }
+  }
+}

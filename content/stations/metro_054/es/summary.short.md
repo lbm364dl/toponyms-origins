@@ -1,0 +1,1 @@
+Vista Alegre toma su nombre de la histórica Finca de Vista Alegre de Carabanchel, inaugurada como quinta pública de recreo en 1824 y transformada después en posesión real por María Cristina de Borbón. El nombre ya existía antes de la etapa regia.

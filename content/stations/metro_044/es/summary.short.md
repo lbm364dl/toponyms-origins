@@ -1,0 +1,1 @@
+Iglesia toma su nombre de la cercana iglesia de Santa Teresa y Santa Isabel, referencia parroquial de Chamberí en la actual glorieta del Pintor Sorolla. La estación se proyectó como Martínez Campos, pero se inauguró en 1919 como Iglesia y durante la Guerra Civil llevó temporalmente el nombre de Sorolla.

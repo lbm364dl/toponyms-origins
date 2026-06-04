@@ -1,0 +1,1 @@
+La Latina station is named for the surrounding Madrid area, whose name preserves the nickname of Beatriz Galindo. The best-supported story links the name especially to Galindo's Madrid foundations near Calle de Toledo and Plaza de la Cebada.

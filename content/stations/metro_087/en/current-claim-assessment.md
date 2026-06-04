@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes its name from Plaza de Antón Martín, itself named for Antón Martín, founder of the Hospital de Nuestra Señora del Amor de Dios beside Calle de Atocha in 1552. Some biographical details should be tightened: the immediate naming route is through the plaza, and sources differ on exact death date/name form.

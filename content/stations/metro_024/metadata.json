@@ -1,0 +1,115 @@
+{
+  "id": "metro_024",
+  "name": "Concha Espina",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Concha Espina (Concepción Espina y Tagle)",
+  "previous_names": "",
+  "naming_date": "1983-12-30",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Concha Espina station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_168/",
+      "type": "official",
+      "relevance_en": "Confirms the current station, Line 9 connection, fare zone and access points on Calle del Príncipe de Vergara.",
+      "relevance_es": "Confirma la estación actual, la correspondencia con la línea 9, la zona tarifaria y los accesos en la calle del Príncipe de Vergara."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Lists Avenida de Concha Espina in Chamartín, from Paseo de la Castellana to Calle del Príncipe de Vergara.",
+      "relevance_es": "Recoge la avenida de Concha Espina en Chamartín, desde el paseo de la Castellana hasta la calle del Príncipe de Vergara."
+    },
+    {
+      "title": "Real Academia de la Historia / Historia Hispánica: Concepción Espina y Tagle",
+      "url": "https://historia-hispanica.rah.es/biografias/14750-concepcion-espina-y-tagle",
+      "type": "reference",
+      "relevance_en": "Authoritative biography identifying Concha Espina as Concepción Espina y Tagle, born in Santander in 1869 and dead in Madrid in 1955, with a detailed works list.",
+      "relevance_es": "Biografía autorizada que identifica a Concha Espina como Concepción Espina y Tagle, nacida en Santander en 1869 y fallecida en Madrid en 1955, con relación detallada de obras."
+    },
+    {
+      "title": "El País: Ayer se inauguró el nuevo tramo del 'metro' entre Plaza de Castilla y Avenida de América",
+      "url": "https://elpais.com/diario/1983/12/31/madrid/441721454_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report that the Plaza de Castilla-Avenida de América section entered service on 30 December 1983 and included a station named Concha Espina.",
+      "relevance_es": "Crónica contemporánea que indica que el tramo Plaza de Castilla-Avenida de América entró en funcionamiento el 30 de diciembre de 1983 e incluía una estación llamada Concha Espina."
+    },
+    {
+      "title": "Nobel Prize Nomination Archive: Concha Espina de la Serna",
+      "url": "https://www.nobelprize.org/nomination/archive/show_people.php?id=2838",
+      "type": "reference",
+      "relevance_en": "Official Nobel archive recording 25 nominations for Concha Espina in Literature, with years and nominators.",
+      "relevance_es": "Archivo oficial del Nobel que registra 25 nominaciones de Concha Espina en Literatura, con años y proponentes."
+    },
+    {
+      "title": "Biblioteca Nacional de España: Fondos personales y de entidades, Concha Espina",
+      "url": "https://www.bne.es/AP_publico/irVisualizarFondo.do?idFondo=137&volverBusqueda=irBuscarFondos.do",
+      "type": "archive",
+      "relevance_en": "Provides a national-library biographical note and states that La esfinge maragata made her the first woman to win the RAE Fastenrath Prize.",
+      "relevance_es": "Aporta una nota biográfica de la Biblioteca Nacional y señala que La esfinge maragata la convirtió en la primera mujer ganadora del Premio Fastenrath de la RAE."
+    },
+    {
+      "title": "Ayuntamiento de Mazcuerras: Historia del municipio",
+      "url": "https://www.aytomazcuerras.es/el-municipio/historia-del-municipio",
+      "type": "official",
+      "relevance_en": "Shows the Mazcuerras/Luzmela connection and the presence of Concha Espina's house in the locality's heritage narrative.",
+      "relevance_es": "Muestra la relación Mazcuerras/Luzmela y la presencia de la casa de Concha Espina en el relato patrimonial local."
+    },
+    {
+      "title": "BOE-A-1948-9126: Gran Cruz de la Orden Civil de Alfonso X el Sabio",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1948-9126",
+      "type": "official",
+      "relevance_en": "Official record of the 1948 award of the Grand Cross of the Civil Order of Alfonso X the Wise to Concepción Espina Tagle.",
+      "relevance_es": "Registro oficial de la concesión en 1948 de la Gran Cruz de la Orden Civil de Alfonso X el Sabio a Concepción Espina Tagle."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the station's immediate naming context: it is tied to the nearby Avenida de Concha Espina, listed in Madrid's official street directory.",
+      "es": "Añadir el contexto inmediato del nombre: la estación está vinculada a la cercana avenida de Concha Espina, recogida en el callejero oficial de Madrid."
+    },
+    {
+      "en": "Set the station naming/opening date to 30 December 1983 unless a later formal naming act is found.",
+      "es": "Fijar la fecha de denominación/apertura de la estación en el 30 de diciembre de 1983, salvo que aparezca un acto formal posterior de denominación."
+    },
+    {
+      "en": "Replace the loose phrase '25 times across 28 years' with the more precise Nobel Archive wording: 25 Literature nominations in 1926-1932, 1952 and 1954.",
+      "es": "Sustituir la frase imprecisa '25 veces a lo largo de 28 años' por la formulación más precisa del archivo Nobel: 25 nominaciones de Literatura en 1926-1932, 1952 y 1954."
+    },
+    {
+      "en": "Treat the claim that she was among the first Spanish women to live solely by writing as plausible but secondary unless a specialist scholarly source is added.",
+      "es": "Tratar la afirmación de que fue una de las primeras españolas en vivir solo de la escritura como plausible pero secundaria mientras no se añada una fuente académica especializada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming file or historical street-name decree for Avenida de Concha Espina would strengthen the exact date and motive of the avenue's dedication.",
+      "es": "Un expediente municipal de rotulación o un acuerdo histórico de denominación de la avenida de Concha Espina reforzaría la fecha exacta y el motivo de la dedicatoria."
+    },
+    {
+      "en": "A Metro de Madrid internal naming document, if preserved, could confirm whether the station was named explicitly for the writer or simply after the adjacent avenue.",
+      "es": "Un documento interno de Metro de Madrid, si se conserva, podría confirmar si la estación se denominó explícitamente por la escritora o simplemente por la avenida contigua."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_024/en/summary.short.md",
+      "summary": "content/stations/metro_024/en/summary.md",
+      "story": "content/stations/metro_024/en/story.md",
+      "confidence": "content/stations/metro_024/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_024/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_024/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_024/es/summary.short.md",
+      "summary": "content/stations/metro_024/es/summary.md",
+      "story": "content/stations/metro_024/es/story.md",
+      "confidence": "content/stations/metro_024/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_024/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_024/es/research-note.md"
+    }
+  }
+}

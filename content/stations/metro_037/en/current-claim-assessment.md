@@ -1,0 +1,1 @@
+The existing claim is broadly correct, but it over-centres the bullring. The metro name was already in use when the station opened in 1924 and is best explained by the older place-name Las Ventas del Espiritu Santo, associated with roadside inns near the Abroñigal and the road to Alcala/Aragon.

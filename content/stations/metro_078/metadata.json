@@ -1,0 +1,104 @@
+{
+  "id": "metro_078",
+  "name": "Usera",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Marcelo de Usera y Sánchez, via the Usera district",
+  "previous_names": "",
+  "naming_date": "1981-05-07 for the Line 6 Pacífico-Oporto opening according to Comunidad de Madrid; one metro chronology table gives 1981-05-06 for the same extension.",
+  "sources": [
+    {
+      "title": "Marcelo de Usera y Sánchez - Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/43966-marcelo-de-usera-y-sanchez",
+      "type": "reference",
+      "relevance_en": "Authoritative biography giving Marcelo de Usera y Sánchez's full name, dates, military career, rank, and later activity as an urban developer, agriculturalist, and livestock entrepreneur.",
+      "relevance_es": "Biografía autorizada que aporta el nombre completo de Marcelo de Usera y Sánchez, sus fechas, carrera militar, grado y actividad posterior como urbanista, agricultor y ganadero."
+    },
+    {
+      "title": "Diagnóstico Estratégico del Distrito de Usera - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadWeb/UGBBDD/Actividades/Distritos/Usera/DiagnosticoUsera/DiagnosticoUsera.pdf",
+      "type": "official",
+      "relevance_en": "Municipal document explaining that the district name comes from the Usera neighbourhood, itself linked to land of Tío Sordillo, Carmen del Río's marriage to Marcelo Usera, the 1925-1930 subdivision, and the family-based street names.",
+      "relevance_es": "Documento municipal que explica que el nombre del distrito procede de la barriada de Usera, vinculada a terrenos del Tío Sordillo, al matrimonio de Carmen del Río con Marcelo Usera, a la parcelación de 1925-1930 y a los nombres familiares del callejero."
+    },
+    {
+      "title": "Usera - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Usera/Usera/?vgnextchannel=9abaca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=7e245969e83b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Official district page confirming the municipal district was created in the March 1987 restructuring and listing its seven barrios.",
+      "relevance_es": "Página oficial del distrito que confirma que Usera fue creado en la reestructuración municipal de marzo de 1987 y enumera sus siete barrios."
+    },
+    {
+      "title": "La línea 6 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional infrastructure page stating that the Pacífico-Oporto section of Line 6 was added on 7 May 1981, the opening context for Usera station.",
+      "relevance_es": "Página oficial regional de infraestructuras que indica que el tramo Pacífico-Oporto de la línea 6 se añadió el 7 de mayo de 1981, contexto de apertura de la estación de Usera."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid - FCMAF",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Specialist chronology listing Usera among the stations of the Line 6 Pacífico-Oporto section and giving 6 May 1981 for that inauguration, useful for documenting the date discrepancy.",
+      "relevance_es": "Cronología especializada que incluye Usera entre las estaciones del tramo Pacífico-Oporto de la línea 6 y da el 6 de mayo de 1981 como fecha de inauguración, útil para documentar la discrepancia de fechas."
+    },
+    {
+      "title": "Usera - Turismo Madrid / esmadrid.com",
+      "url": "https://www.esmadrid.com/barrios-de-madrid/usera",
+      "type": "official",
+      "relevance_en": "Official tourism page documenting the present-day cultural identity of Usera, including Chinese New Year celebrations and municipal cultural references.",
+      "relevance_es": "Página turística oficial que documenta la identidad cultural actual de Usera, incluidas las celebraciones del Año Nuevo Chino y referencias culturales municipales."
+    },
+    {
+      "title": "Los Usera, la familia con más calles en Madrid - Telemadrid",
+      "url": "https://www.telemadrid.es/noticias/madrid/Los-Usera-la-familia-con-mas-calles-en-Madrid-0-2743225689--20250114064302.html",
+      "type": "press",
+      "relevance_en": "Press synthesis, explicitly based on the RAH description, that details the Usera family and associates represented in the street names and the Colonia Salud y Ahorro / Colonia Moscardó context.",
+      "relevance_es": "Síntesis periodística, explícitamente basada en la descripción de la RAH, que detalla la presencia de la familia Usera y allegados en el callejero y el contexto de la Colonia Salud y Ahorro / Colonia Moscardó."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the more precise name Marcelo de Usera y Sánchez and the RAH rank lieutenant colonel, rather than the looser label colonel.",
+      "es": "Conviene usar el nombre más preciso Marcelo de Usera y Sánchez y el grado de teniente coronel que da la RAH, en lugar de la etiqueta más genérica de coronel."
+    },
+    {
+      "en": "The land should be described as inherited by Carmen del Río Fernández, Marcelo Usera's wife, from her father José del Río, known as Tío Sordillo; Marcelo Usera did not inherit it directly.",
+      "es": "Los terrenos deben describirse como heredados por Carmen del Río Fernández, esposa de Marcelo Usera, de su padre José del Río, conocido como el Tío Sordillo; Marcelo Usera no los heredó directamente."
+    },
+    {
+      "en": "The station name is directly geographic: it refers to the Usera district/neighbourhood, although that place name ultimately comes from a person.",
+      "es": "El nombre de la estación es directamente geográfico: se refiere al distrito o barriada de Usera, aunque ese topónimo proceda en última instancia de una persona."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid or municipal naming resolution for the station was not found; the practical naming date is therefore inferred from the 1981 opening of the Pacífico-Oporto section.",
+      "es": "No se localizó un acuerdo formal de Metro de Madrid o municipal sobre la denominación de la estación; por tanto, la fecha práctica del nombre se infiere de la apertura del tramo Pacífico-Oporto en 1981."
+    },
+    {
+      "en": "There is a minor date discrepancy for the Pacífico-Oporto opening: Comunidad de Madrid gives 7 May 1981, while a specialist metro chronology gives 6 May 1981.",
+      "es": "Existe una pequeña discrepancia de fecha para la apertura del tramo Pacífico-Oporto: la Comunidad de Madrid indica el 7 de mayo de 1981, mientras una cronología especializada del metro da el 6 de mayo de 1981."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_078/en/summary.short.md",
+      "summary": "content/stations/metro_078/en/summary.md",
+      "story": "content/stations/metro_078/en/story.md",
+      "confidence": "content/stations/metro_078/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_078/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_078/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_078/es/summary.short.md",
+      "summary": "content/stations/metro_078/es/summary.md",
+      "story": "content/stations/metro_078/es/story.md",
+      "confidence": "content/stations/metro_078/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_078/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_078/es/research-note.md"
+    }
+  }
+}

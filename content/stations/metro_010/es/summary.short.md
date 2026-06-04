@@ -1,0 +1,1 @@
+La estación de Chamberí toma su nombre de la plaza de Chamberí y del distrito que la rodea. El topónimo madrileño suele vincularse con Chambéry, en Saboya, aunque la transmisión histórica está discutida.

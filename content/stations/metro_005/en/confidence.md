@@ -1,0 +1,1 @@
+The station’s location and opening chronology are documented by Metro de Madrid’s historical station sheet, and Madrid’s official street list identifies the relevant street as Calle de Francisco Goya. This directly supports the chain: station name from Calle de Goya, street name from Francisco de Goya y Lucientes.

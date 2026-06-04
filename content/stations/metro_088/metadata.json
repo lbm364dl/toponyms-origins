@@ -1,0 +1,104 @@
+{
+  "id": "metro_088",
+  "name": "Retiro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque del Buen Retiro",
+  "previous_names": "Independencia-Velázquez (project name during construction)",
+  "naming_date": "1924",
+  "sources": [
+    {
+      "title": "Retiro - Museos Metro Madrid, Huellas del pasado",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-retiro.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro de Madrid museum file documenting the station’s location by the park, its opening on 14 June 1924, the Sol-Ventas Line 2 section, the former project name Independencia-Velázquez, and the unused third track.",
+      "relevance_es": "Ficha oficial de Museos Metro Madrid que documenta la ubicación de la estación junto al parque, su inauguración el 14 de junio de 1924, el tramo Sol-Ventas de la línea 2, el antiguo nombre de proyecto Independencia-Velázquez y la tercera vía no utilizada."
+    },
+    {
+      "title": "Parque de El Retiro - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Edificios-historicos/Parque-de-El-Retiro/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=0528f7d9560a4510f7d9560a45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage entry explaining the park’s seventeenth-century origin around the monastery of Los Jerónimos, promoted by the Count-Duke of Olivares for Felipe IV and the court, and its transfer to the municipality after 1868.",
+      "relevance_es": "Ficha patrimonial municipal que explica el origen del parque en el siglo XVII en torno al monasterio de los Jerónimos, impulsado por el Conde-Duque de Olivares para Felipe IV y la corte, y su paso al municipio tras 1868."
+    },
+    {
+      "title": "Buen Retiro, El - Enciclopedia del Museo Nacional del Prado",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/buen-retiro-el/631e6051-1f25-4723-850e-43ef35a980b3",
+      "type": "reference",
+      "relevance_en": "Authoritative museum reference for the name change from Cuarto Real de San Jerónimo to Casa Real del Buen Retiro after the palace was completed in 1633, and for the 1868-1869 transfer to Madrid.",
+      "relevance_es": "Referencia autorizada del museo sobre el paso del nombre Cuarto Real de San Jerónimo a Casa Real del Buen Retiro tras la conclusión del palacio en 1633, y sobre la transferencia a Madrid en 1868-1869."
+    },
+    {
+      "title": "Iglesia de San Jerónimo el Real - Paisaje de la Luz",
+      "url": "https://www.paisajedelaluz.es/ficha/iglesia-de-san-jeronimo-el-real/",
+      "type": "official",
+      "relevance_en": "Official Landscape of Light page explaining that the royal quarters at San Jerónimo were built as a place of retreat and became the nucleus of the later Buen Retiro palace and royal site.",
+      "relevance_es": "Página oficial del Paisaje de la Luz que explica que el Cuarto Real de San Jerónimo se levantó como lugar de retiro y fue el núcleo del posterior palacio y real sitio del Buen Retiro."
+    },
+    {
+      "title": "Historia de El Retiro - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Gestiones-y-Tramites/Historia-de-El-Retiro/?vgnextchannel=dd5317bc88e2e210VgnVCM2000000c205a0aRCRD&vgnextfmt=default&vgnextoid=7c001d15ba89d210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal history page confirming the park’s passage into municipal ownership in 1868, its declaration as a historic-artistic garden in 1935, and the survival of exhibition buildings such as the Glass Palace.",
+      "relevance_es": "Página histórica municipal que confirma el paso del parque al patrimonio municipal en 1868, su declaración como Jardín Histórico Artístico en 1935 y la pervivencia de edificios expositivos como el Palacio de Cristal."
+    },
+    {
+      "title": "Paseo del Prado and Buen Retiro, a landscape of Arts and Sciences - UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1618/",
+      "type": "official",
+      "relevance_en": "UNESCO World Heritage listing confirming the official property name and inscription year, 2021.",
+      "relevance_es": "Ficha del Centro del Patrimonio Mundial de la UNESCO que confirma el nombre oficial del bien y el año de inscripción, 2021."
+    },
+    {
+      "title": "Palacio de Cristal - Museo Nacional Centro de Arte Reina Sofía",
+      "url": "https://www.museoreinasofia.es/guia-virtual/sedes/palacio-cristal",
+      "type": "official",
+      "relevance_en": "Official museum source confirming that the Glass Palace was conceived as a greenhouse for the 1887 Philippine Islands flora exhibition and designed by Ricardo Velázquez Bosco.",
+      "relevance_es": "Fuente oficial del museo que confirma que el Palacio de Cristal fue concebido como invernadero para la Exposición de Flora de las Islas Filipinas de 1887 y diseñado por Ricardo Velázquez Bosco."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Parque del Retiro' with the fuller formal name 'Parque del Buen Retiro' for the recommended named-after value, while noting that 'Parque del Retiro' is the common short form.",
+      "es": "Sustituir 'Parque del Retiro' por el nombre formal más completo 'Parque del Buen Retiro' en el valor recomendado de named_after, indicando que 'Parque del Retiro' es la forma común abreviada."
+    },
+    {
+      "en": "Do not say that the Count-Duke of Olivares 'designed' the park; authoritative sources describe him as the promoter or originator of the royal leisure site around San Jerónimo.",
+      "es": "No afirmar que el Conde-Duque de Olivares 'diseñó' el parque; las fuentes autorizadas lo presentan como promotor o impulsor del real sitio de recreo en torno a San Jerónimo."
+    },
+    {
+      "en": "Add the former project name Independencia-Velázquez, documented by Metro de Madrid as the name changed to Retiro during construction.",
+      "es": "Añadir el antiguo nombre de proyecto Independencia-Velázquez, documentado por Metro de Madrid como la denominación que se cambió por Retiro durante la construcción."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact administrative act assigning the station name 'Retiro' has not been located; Metro’s historical file documents that the change happened during construction, but not the formal approval date.",
+      "es": "No se ha localizado el acto administrativo exacto que asignó el nombre 'Retiro' a la estación; la ficha histórica de Metro documenta que el cambio se produjo durante la construcción, pero no la fecha formal de aprobación."
+    },
+    {
+      "en": "A deeper archival check of the Archivo Histórico de Metro de Madrid files cited in the station PDF could confirm the precise paper trail for the change from Independencia-Velázquez to Retiro.",
+      "es": "Una revisión archivística más profunda de los expedientes del Archivo Histórico de Metro de Madrid citados en la ficha podría confirmar la traza documental exacta del cambio de Independencia-Velázquez a Retiro."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_088/en/summary.short.md",
+      "summary": "content/stations/metro_088/en/summary.md",
+      "story": "content/stations/metro_088/en/story.md",
+      "confidence": "content/stations/metro_088/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_088/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_088/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_088/es/summary.short.md",
+      "summary": "content/stations/metro_088/es/summary.md",
+      "story": "content/stations/metro_088/es/story.md",
+      "confidence": "content/stations/metro_088/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_088/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_088/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The name origin is directly supported by Metro de Madrid's historical station sheet and by PARES authority data for the Noviciado de San Ignacio. Municipal heritage and academic sources independently confirm the Jesuit novitiate, its founder, location, later conversion into the Universidad Central complex, and the transport chronology.

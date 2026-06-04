@@ -1,0 +1,1 @@
+Ibiza station is named for Calle de Ibiza, the Retiro street under which it sits. The street belongs to a small Balearic-name pattern in the area, with Ibiza and Menorca still visible and Mallorca surviving only indirectly through an older street name.

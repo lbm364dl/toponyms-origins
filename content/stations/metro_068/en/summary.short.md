@@ -1,0 +1,1 @@
+Legazpi station is named for Plaza de Legazpi, officially recorded by Madrid's street database in 1926 and dedicated to Miguel López de Legazpi, the Basque leader of the Spanish expedition that established a lasting colonial base in the Philippines and made Manila a Spanish capital in 1571.

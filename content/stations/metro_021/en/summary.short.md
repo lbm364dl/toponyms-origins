@@ -1,0 +1,1 @@
+Alonso Martínez station is named after the Madrid square above it, which honors Manuel Alonso Martínez, the Burgos-born jurist and politician associated with Spain's 1889 Civil Code. The square had previously been known as the Glorieta de Santa Bárbara.

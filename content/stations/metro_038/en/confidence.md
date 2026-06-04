@@ -1,0 +1,1 @@
+The name is verified by Metro historical material showing Manuel Becerra as a station in the 1924 Line 2 section, by Madrid urban-history material documenting the 1905 municipal renaming of the square for Manuel Becerra, and by institutional biographical sources identifying the honouree.

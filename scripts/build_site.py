@@ -3,8 +3,10 @@
 import csv
 import json
 import os
+from pathlib import Path
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT_PATH = Path(ROOT)
 
 FILES = {
     'metro': 'data/madrid_metro_stations.csv',
@@ -20,9 +22,75 @@ TRANSLATIONS_FILE = os.path.join(ROOT, 'docs', 'data', 'translations_es.json')
 LINE_ORDER_FILE = os.path.join(ROOT, 'docs', 'data', 'line_orders.json')
 GMAPS_FILE = os.path.join(ROOT, 'docs', 'data', 'gmaps_place_ids.json')
 NAMED_AFTER_ES_FILE = os.path.join(ROOT, 'docs', 'data', 'named_after_es.json')
+CONTENT_STATIONS_DIR = ROOT_PATH / 'content' / 'stations'
+
+CONTENT_MARKDOWN_FILES = {
+    'summary.short.md': 'content_summary_short',
+    'summary.md': 'content_summary',
+    'story.md': 'content_story',
+    'confidence.md': 'content_confidence_reason',
+    'current-claim-assessment.md': 'content_current_claim_assessment',
+    'research-note.md': 'content_research_note',
+}
+
+def read_text_if_exists(path):
+    if not path.exists():
+        return ''
+    return path.read_text(encoding='utf-8').strip()
+
+def load_station_content():
+    content = {}
+    if not CONTENT_STATIONS_DIR.exists():
+        return content
+
+    for station_dir in sorted(CONTENT_STATIONS_DIR.iterdir()):
+        if not station_dir.is_dir():
+            continue
+        meta_path = station_dir / 'metadata.json'
+        if not meta_path.exists():
+            continue
+        try:
+            meta = json.loads(meta_path.read_text(encoding='utf-8'))
+        except json.JSONDecodeError:
+            continue
+
+        station_id = meta.get('id') or station_dir.name
+        entry_content = {
+            'has_content_entry': 'true',
+            'content_metadata_path': str(meta_path.relative_to(ROOT_PATH)),
+            'content_status': meta.get('status', ''),
+            'content_confidence': meta.get('confidence', ''),
+            'sources_structured': meta.get('sources', []),
+            'corrections': meta.get('corrections', []),
+            'open_questions': meta.get('open_questions', []),
+        }
+
+        field_map = {
+            'recommended_etymology_type': 'etymology_type',
+            'recommended_named_after': 'named_after',
+            'previous_names': 'previous_names',
+            'naming_date': 'naming_date',
+            'confidence': 'confidence',
+        }
+        for src, dest in field_map.items():
+            value = meta.get(src)
+            if isinstance(value, str) and value.strip():
+                entry_content[dest] = value.strip()
+
+        for lang in ('en', 'es'):
+            lang_dir = station_dir / lang
+            for filename, field_base in CONTENT_MARKDOWN_FILES.items():
+                value = read_text_if_exists(lang_dir / filename)
+                if value:
+                    entry_content[f'{field_base}_{lang}'] = value
+
+        content[station_id] = entry_content
+
+    return content
 
 def build():
     all_entries = []
+    station_content = load_station_content()
     for key, relpath in FILES.items():
         path = os.path.join(ROOT, relpath)
         with open(path, 'r', encoding='utf-8') as f:
@@ -38,6 +106,9 @@ def build():
                     if v:
                         entry[k] = v
                 entry['_category'] = key
+                content_entry = station_content.get(entry.get('id', ''))
+                if content_entry:
+                    entry.update(content_entry)
                 all_entries.append(entry)
 
     # Merge Google Maps Place IDs if available
@@ -82,6 +153,9 @@ def build():
         f.write(';')
 
     print(f"Built {len(all_entries)} entries -> docs/data/entries.json + entries.js")
+    if station_content:
+        merged = sum(1 for e in all_entries if e.get('has_content_entry') == 'true')
+        print(f"  Merged {merged} station content entries from content/stations")
 
 if __name__ == '__main__':
     build()

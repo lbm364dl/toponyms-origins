@@ -1,0 +1,1 @@
+Fuentes oficiales de transporte y memoria municipal confirman el nombre de la estación, su contexto en la línea 5 y la apertura del 18 de enero de 1980. El decreto oficial de BIC documenta directamente el nombre antiguo de la finca, su cronología, sus propietarios y el origen del nombre Torre Arias en el título nobiliario.

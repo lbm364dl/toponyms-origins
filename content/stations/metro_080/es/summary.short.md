@@ -1,0 +1,1 @@
+Puerta de Arganda significa la 'puerta hacia Arganda': la estación es el intercambiador del lado de Madrid para el tramo de la línea 9 que continúa hacia Rivas y Arganda del Rey. Arganda es un topónimo antiguo probablemente relacionado con la raíz indoeuropea *arg-, 'claro, blanco, brillante'.

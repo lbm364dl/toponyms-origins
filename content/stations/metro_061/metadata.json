@@ -1,0 +1,100 @@
+{
+  "id": "metro_061",
+  "name": "Colombia",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Colombia, ultimately Colombia (Republic of Colombia)",
+  "previous_names": "",
+  "naming_date": "30-12-1983",
+  "sources": [
+    {
+      "title": "CRTM - Colombia metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_156/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Zone A, correspondences with Metro lines 8 and 9, and accesses including Calle de Colombia and Plaza de la República Dominicana.",
+      "relevance_es": "Confirma el nombre actual de la estacion, la zona tarifaria A, las correspondencias con las lineas 8 y 9 de Metro y los accesos, incluida la calle de Colombia y la plaza de la Republica Dominicana."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2015 - Calle de Colombia",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Officially records Calle de Colombia in Chamartin, supporting the immediate street-name source of the station.",
+      "relevance_es": "Recoge oficialmente la calle de Colombia en Chamartin, lo que respalda la fuente inmediata del nombre de la estacion."
+    },
+    {
+      "title": "CRTM / FCMAF - Red de Metro y Metro Ligero de la Comunidad de Madrid, September 2025",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Provides the station chronology: Line 9b Plaza de Castilla-Avenida de América opened on 30 December 1983 with Colombia; Line 8 Nuevos Ministerios-Mar de Cristal opened on 21 May 2002 with Colombia as part of the section.",
+      "relevance_es": "Aporta la cronologia de la estacion: el tramo de linea 9b Plaza de Castilla-Avenida de America se abrio el 30 de diciembre de 1983 con Colombia; el tramo de linea 8 Nuevos Ministerios-Mar de Cristal se abrio el 21 de mayo de 2002 con Colombia dentro del tramo."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Describes the works that included the new Colombia station/interchange and Nuevos Ministerios connection, supporting the 2002 Line 8 transformation.",
+      "relevance_es": "Describe las obras que incluyeron la nueva estacion/intercambiador de Colombia y la conexion de Nuevos Ministerios, respaldando la transformacion de 2002 en la linea 8."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Chamartín",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Chamartin/Chamartin/?vgnextchannel=19e2ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=fea734d5320b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Hispanoamerica as one of the areas in the former municipality of Chamartin de la Rosa and notes Chamartin's annexation to Madrid on 14 November 1947.",
+      "relevance_es": "Confirma Hispanoamerica como una de las areas del antiguo municipio de Chamartin de la Rosa y senala la anexion de Chamartin a Madrid el 14 de noviembre de 1947."
+    },
+    {
+      "title": "Telemadrid - Hispanoamérica, en el callejero de Madrid",
+      "url": "https://www.telemadrid.es/la-semana-de/hispanidad/Hispanoamerica-en-el-callejero-de-Madrid-0-2493650630--20221005060000.html",
+      "type": "press",
+      "relevance_en": "Documents the Hispano-American street-name cluster in Chamartin and explicitly lists Calle de Colombia among nearby country and place names.",
+      "relevance_es": "Documenta el conjunto de nombres hispanoamericanos en el callejero de Chamartin y cita expresamente la calle de Colombia entre nombres cercanos de paises y lugares."
+    },
+    {
+      "title": "Cancillería de Colombia - Acerca de Colombia",
+      "url": "https://www.cancilleria.gov.co/acerca-colombia",
+      "type": "official",
+      "relevance_en": "Official Colombian government source identifying the Republic of Colombia and basic national facts, supporting the underlying country referent.",
+      "relevance_es": "Fuente oficial del Gobierno colombiano que identifica la Republica de Colombia y datos nacionales basicos, respaldando el referente ultimo del pais."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct the opening year/date: Colombia station opened on 30 December 1983 on Line 9b, not in 1982.",
+      "es": "Corregir el ano/fecha de apertura: la estacion de Colombia se inauguro el 30 de diciembre de 1983 en la linea 9b, no en 1982."
+    },
+    {
+      "en": "Clarify that the Line 8 interchange was added on 21 May 2002, when the Nuevos Ministerios-Mar de Cristal section opened.",
+      "es": "Aclarar que el transbordo con la linea 8 se incorporo el 21 de mayo de 2002, al abrirse el tramo Nuevos Ministerios-Mar de Cristal."
+    },
+    {
+      "en": "State the naming chain more precisely: the station is named from Calle de Colombia, ultimately after the country, rather than directly from a general Latin American theme.",
+      "es": "Formular con mas precision la cadena del nombre: la estacion toma el nombre de la calle de Colombia, en ultimo termino del pais, no directamente de una tematica latinoamericana generica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming resolution for Calle de Colombia was not located or inspected; checking Ayuntamiento archive files could establish the exact date and wording of the street dedication.",
+      "es": "No se localizo ni se consulto el acuerdo municipal de denominacion de la calle de Colombia; revisar expedientes del archivo del Ayuntamiento podria fijar la fecha exacta y la redaccion de la dedicacion."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_061/en/summary.short.md",
+      "summary": "content/stations/metro_061/en/summary.md",
+      "story": "content/stations/metro_061/en/story.md",
+      "confidence": "content/stations/metro_061/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_061/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_061/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_061/es/summary.short.md",
+      "summary": "content/stations/metro_061/es/summary.md",
+      "story": "content/stations/metro_061/es/story.md",
+      "confidence": "content/stations/metro_061/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_061/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_061/es/research-note.md"
+    }
+  }
+}

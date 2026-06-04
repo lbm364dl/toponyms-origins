@@ -1,0 +1,125 @@
+{
+  "id": "metro_073",
+  "name": "Valdebernardo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Valdebernardo, a pre-existing place-name and later neighbourhood in Vicálvaro",
+  "previous_names": "No former operating name found. Secondary sources say “Lucio de Mingo” was a proposed project name, but it was not found as an official former station name.",
+  "naming_date": "1998-12-01",
+  "sources": [
+    {
+      "title": "CRTM: Valdebernardo station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_179",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 9 service, fare zone, interchanges, and station access locations on Bulevar Indalecio Prieto.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 9, la zona tarifaria, las correspondencias y los accesos en el bulevar de Indalecio Prieto."
+    },
+    {
+      "title": "Valdebernardo 1995-2020: la exposición",
+      "url": "https://diario.madrid.es/vicalvaro/2020/10/23/valdebernardo-1995-2020-la-exposicion/",
+      "type": "official",
+      "relevance_en": "Madrid municipal article summarising the neighbourhood’s origins, rural context, 1985 planning framework, Vicus Albus toponymy proposals, and the 1 December 1998 opening of the Line 9 stops.",
+      "relevance_es": "Artículo municipal de Madrid que resume el origen del barrio, su contexto rural, el marco del Plan General de 1985, las propuestas toponímicas de Vicus Albus y la inauguración de las paradas de la línea 9 el 1 de diciembre de 1998."
+    },
+    {
+      "title": "BOE-A-1989-29226: aprobación definitiva del PAU-4 “Valdebernardo norte y sur”",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1989-29226",
+      "type": "official",
+      "relevance_en": "Shows that “Valdebernardo norte y sur” was the official name of the PAU-4 urban development approved in 1989.",
+      "relevance_es": "Muestra que “Valdebernardo norte y sur” fue la denominación oficial del PAU-4 aprobado en 1989."
+    },
+    {
+      "title": "BOAM nº 8034: creación de los barrios de Valdebernardo, Valderrivas y El Cañaveral",
+      "url": "https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?vgnextchannel=741d814231ede410VgnVCM1000000b205a0aRCRD&vgnextoid=3ff02f84749bf510VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal agreement of 31 October 2017 creating Valdebernardo as an administrative barrio in Vicálvaro.",
+      "relevance_es": "Acuerdo municipal oficial de 31 de octubre de 2017 que crea Valdebernardo como barrio administrativo de Vicálvaro."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Madrid suma 131 barrios con Valdebernardo, Valderrivas y El Cañaveral",
+      "url": "https://diario.madrid.es/vicalvaro/2017/11/10/madrid-suma-131-barrios-con-valdebernardo-valderrivas-y-el-canaveral/",
+      "type": "official",
+      "relevance_en": "Explains the 2017 administrative reorganisation and notes that Valdebernardo had long had its own urban and neighbourhood identity before formal recognition.",
+      "relevance_es": "Explica la reorganización administrativa de 2017 y señala que Valdebernardo ya tenía entidad urbana y vecinal propia antes de su reconocimiento formal."
+    },
+    {
+      "title": "Fundación COAM: Arquitectura de Madrid, Valdebernardo",
+      "url": "https://fcoam.eu/guia/F3/F3.270.htm",
+      "type": "reference",
+      "relevance_en": "Architectural guide stating that Valdebernardo was the name of the land between Moratalaz and the old nucleus of Vicálvaro in the mid-1980s, before the new urban development.",
+      "relevance_es": "Guía arquitectónica que indica que Valdebernardo era el nombre de los terrenos entre Moratalaz y el antiguo núcleo de Vicálvaro a mediados de los años ochenta, antes del nuevo desarrollo urbano."
+    },
+    {
+      "title": "José María Ezquiaga, “El Proyecto del Suelo. Ensanche residencial en Valdebernardo (Madrid)”",
+      "url": "https://www.fundacioncoam.org/media/Default%20Files/fundacion/biblioteca/revista-urbanismo/docs/revista-urbanismo-n19-pag68-74.pdf",
+      "type": "academic",
+      "relevance_en": "Contemporary urban-planning article describing the PAU de Valdebernardo, its 1985 General Plan context, the 1989 regional initiative, and the residential and public-space structure of the project.",
+      "relevance_es": "Artículo urbanístico contemporáneo que describe el PAU de Valdebernardo, su contexto en el Plan General de 1985, la iniciativa regional de 1989 y la estructura residencial y de espacios públicos del proyecto."
+    },
+    {
+      "title": "Vicus Albus: Toponimia Valdebernardo",
+      "url": "https://lbm1948.es/wp-content/uploads/2020/09/Toponimia-Valdebernardo.pdf",
+      "type": "archive",
+      "relevance_en": "Scanned 1990-1991 local historical association proposal on the toponymy of the Valdebernardo urban development; useful for understanding the local argument for preserving rural place-names.",
+      "relevance_es": "Propuesta escaneada de 1990-1991 de la asociación histórica local sobre la toponimia de la actuación urbanística de Valdebernardo; útil para entender la defensa local de conservar nombres rurales."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española: val",
+      "url": "https://dle.rae.es/val",
+      "type": "reference",
+      "relevance_en": "Defines “val” as an apocopated form of “valle,” supporting the linguistic reading of Valdebernardo as “Bernardo’s valley.”",
+      "relevance_es": "Define “val” como apócope de “valle”, lo que respalda la lectura lingüística de Valdebernardo como “valle de Bernardo”."
+    },
+    {
+      "title": "Madripedia: Estación de Valdebernardo",
+      "url": "https://madripedia.wikis.cc/wiki/Estaci%C3%B3n_de_Valdebernardo",
+      "type": "reference",
+      "relevance_en": "Secondary source repeating the Bernardo Gómez and Lucio de Mingo claims; useful only as evidence that those claims circulate, not as proof that they are correct.",
+      "relevance_es": "Fuente secundaria que reproduce las afirmaciones sobre Bernardo Gómez y Lucio de Mingo; útil solo como evidencia de que esas versiones circulan, no como prueba de que sean correctas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as verified that Bernardo was Bernardo Gómez; this attribution is weakly sourced.",
+      "es": "No debe afirmarse como verificado que Bernardo fuera Bernardo Gómez; esa atribución tiene un respaldo documental débil."
+    },
+    {
+      "en": "The station is best classified as named after a place/toponym, not directly after a person.",
+      "es": "La estación debe clasificarse preferentemente como nombrada por un lugar o topónimo, no directamente por una persona."
+    },
+    {
+      "en": "The 2017 date refers to the administrative recognition of Valdebernardo as a separate barrio, not to the origin of the place-name or the station name.",
+      "es": "La fecha de 2017 se refiere al reconocimiento administrativo de Valdebernardo como barrio separado, no al origen del topónimo ni al nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Metro de Madrid or Comunidad de Madrid project files for the Line 9 extension to confirm whether “Lucio de Mingo” was officially proposed and why it was rejected.",
+      "es": "Conviene revisar expedientes de Metro de Madrid o de la Comunidad de Madrid sobre la ampliación de la línea 9 para confirmar si “Lucio de Mingo” fue propuesto oficialmente y por qué se descartó."
+    },
+    {
+      "en": "Check cadastral, notarial, expropriation, or land-registry records for PAU-4 Valdebernardo to verify whether Bernardo Gómez was an actual former owner or ancestor linked to the land.",
+      "es": "Conviene comprobar documentación catastral, notarial, expropiatoria o registral del PAU-4 Valdebernardo para verificar si Bernardo Gómez fue realmente un antiguo propietario o antepasado vinculado a los terrenos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_073/en/summary.short.md",
+      "summary": "content/stations/metro_073/en/summary.md",
+      "story": "content/stations/metro_073/en/story.md",
+      "confidence": "content/stations/metro_073/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_073/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_073/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_073/es/summary.short.md",
+      "summary": "content/stations/metro_073/es/summary.md",
+      "story": "content/stations/metro_073/es/story.md",
+      "confidence": "content/stations/metro_073/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_073/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_073/es/research-note.md"
+    }
+  }
+}

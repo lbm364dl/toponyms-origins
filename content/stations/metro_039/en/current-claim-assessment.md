@@ -1,0 +1,1 @@
+The core claim is correct: the station takes its name from Calle de O'Donnell, which honors Leopoldo O'Donnell y Joris. The main correction is that the demolished enclosure was the early-modern Cerca de Felipe IV, not Madrid's medieval walls.

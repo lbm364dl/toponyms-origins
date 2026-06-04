@@ -1,0 +1,1 @@
+Pirámides debe su nombre a la glorieta de las Pirámides, cuyo hito no son dos pirámides propiamente dichas sino dos obeliscos neoclásicos de 1831 junto al Puente de Toledo. Fueron diseñados por Francisco Javier de Mariategui como parte del eje monumental del puente y la Puerta de Toledo.

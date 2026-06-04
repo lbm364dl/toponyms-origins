@@ -1,0 +1,1 @@
+Named in 2018 for Vicente Aleixandre, the Nobel Prize-winning poet of the Generation of 1927 who lived at nearby Velintonia. The former name, Metropolitano, was dropped partly to avoid confusion with Estadio Metropolitano on Line 7.

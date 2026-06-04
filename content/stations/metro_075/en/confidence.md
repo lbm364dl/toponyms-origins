@@ -1,0 +1,1 @@
+The station-to-street naming is verified by an official Community of Madrid infrastructure page and by the official Madrid street directory. Confidence is only probable, not fully verified, because no primary municipal naming file was found proving that the Vicálvaro street specifically honors Saint Cyprian of Carthage rather than another saint or a more local devotional origin.

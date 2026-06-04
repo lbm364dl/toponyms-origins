@@ -1,0 +1,1 @@
+Paco de Lucía station is a posthumous tribute to the Algeciras-born flamenco guitarist Francisco Sánchez Gómez, known worldwide as Paco de Lucía. The planned Costa Brava station in Mirasierra was renamed after his death in 2014 because of his international cultural stature and his family ties to the neighbourhood.

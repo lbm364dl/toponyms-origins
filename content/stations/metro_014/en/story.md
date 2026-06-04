@@ -1,0 +1,9 @@
+The station name **Alfonso XIII** comes from the nearby Avenida de Alfonso XIII and ultimately honors Alfonso XIII, King of Spain from his birth in 1886 until the proclamation of the Second Republic in 1931. The station sits on Line 4 in the Prosperidad/Ciudad Jardín area of Chamartín, near López de Hoyos, Clara del Rey, and the avenue that carries the royal name.
+
+Alfonso XIII has a special link with Madrid Metro beyond the street name. The original company was known as the **Metropolitano Alfonso XIII**, and official regional sources record that the king inaugurated the first Metro line on 17 October 1919. That first route ran between Puerta del Sol and Cuatro Caminos, covered 3.48 km, and had six intermediate stops, making eight stations in all.
+
+The king's role was not only ceremonial. The Comunidad de Madrid's archival centenary material states that Alfonso XIII personally contributed one million pesetas to help give the project credibility, while Banco de Vizcaya supplied four million toward an eight-million-peseta initial project. This is why the station's name resonates with both monarchy and transport history, even though the station itself belongs to a later expansion.
+
+The current Line 4 station opened on 26 March 1973, when Metro extended the line from Diego de León to Alfonso XIII through Avenida de América and Prosperidad. A Metro de Madrid annual-memory excerpt preserved by Memoria de Madrid describes the new section as 2,544 metres long and lists its three stations: Avenida de América, Prosperidad, and Alfonso XIII.
+
+The evidence supports the identification with King Alfonso XIII, but the public story should avoid implying that this station was part of the 1919 inaugural line. It also should correct a common over-compressed anecdote: the famous 40-second timing refers to the first segment from Cuatro Caminos to Ríos Rosas, not to the entire inaugural journey.

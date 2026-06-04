@@ -1,0 +1,1 @@
+Vicálvaro station is named for the historic municipality of Vicálvaro, absorbed into Madrid in the mid-20th century and later made its own district. The deeper origin of the place-name is debated, usually between a medieval Latin-based 'Vicus Alvar' and 'Vicus Albus'.

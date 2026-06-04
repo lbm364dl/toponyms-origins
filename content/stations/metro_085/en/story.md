@@ -1,0 +1,9 @@
+Las Tablas station is named for the place it serves: the Las Tablas residential area in northern Madrid, within Fuencarral-El Pardo. Today the name appears on both the Metro de Madrid Line 10 station and the ML1 light-rail terminus, with the CRTM listing the interchange and access on Calle de Palas de Rey.
+
+Behind the modern neighbourhood is an urban-planning name: UZI 0.08 Las Tablas. Municipal planning documents identify Las Tablas as one of the large northern developments, and a 2008 municipal tracking sheet records the Programa de Actuación Urbanística and Plan Parcial approvals for Las Tablas before the district was fully built out.
+
+The word itself points back to a rural landscape. In agricultural Spanish, the RAE defines 'tabla' as a strip of land, a planted plot, or a quadrangular piece of land arranged for crops, vines, vegetables, or trees. That meaning fits the open land north of old Fuencarral before the housing, offices, roads, and light rail arrived.
+
+The chronology is more precise than the common shorthand suggests. Las Tablas is often associated with Madrid's 1997 General Plan and the wave of PAUs built in the 2000s, but municipal material records definitive approval of the Las Tablas PAU on 24 May 1995 and of its partial plan on 28 July 1995; the 1997 plan later provided the wider planning framework in which it was incorporated. The Metro station opened with MetroNorte on 26 April 2007, and ML1 reached Las Tablas on 24 May 2007.
+
+A visible landmark of the new Las Tablas is Distrito Telefónica, opened in 2008 in the same area. Telefónica's own centenary site describes its move to Las Tablas and the original name Distrito C, with Rafael de la Hoz's glass-fronted campus and a large solar canopy. That corporate campus is important urban context, but it did not give the station its name: the station name comes from the place-name Las Tablas itself.

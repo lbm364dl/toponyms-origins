@@ -1,0 +1,1 @@
+The core claim that the Metro station name comes from the historic town and present district of Vicálvaro is well supported. The linguistic explanation should be softened: official municipal material presents both Vicus-Alvar and Vicus-Albus as hypotheses, not a settled derivation from 'Álvaro's village'.

@@ -1,0 +1,1 @@
+La estación toma su nombre del estadio Santiago Bernabéu, bautizado en 1955 en honor de Santiago Bernabéu de Yeste, presidente del Real Madrid entre 1943 y 1978. Se inauguró en 1982 como Lima y fue renombrada en diciembre de 1997, en torno al cincuentenario del estadio.

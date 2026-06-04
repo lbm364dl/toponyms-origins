@@ -1,0 +1,104 @@
+{
+  "id": "metro_062",
+  "name": "Nuevos Ministerios",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Nuevos Ministerios government complex",
+  "previous_names": "",
+  "naming_date": "1967 (railway station); 11 October 1979 (Metro Line 6 station)",
+  "sources": [
+    {
+      "title": "Nuevos Ministerios - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Edificios-singulares/Nuevos-Ministerios/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=845f5454dca3e610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage source proving the 1932 Prieto commission to Zuazo, the former hippodrome site, Civil War interruption, postwar completion by others, and 1942 period.",
+      "relevance_es": "Fuente patrimonial municipal que acredita el encargo de Prieto a Zuazo en 1932, el solar del antiguo hipódromo, la interrupción por la Guerra Civil, la terminación de posguerra por otros profesionales y el periodo de 1942."
+    },
+    {
+      "title": "Nuevos Ministerios | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/nuevos-ministerios",
+      "type": "official",
+      "relevance_en": "Official Madrid tourism page confirming the complex, current ministerial use, Zuazo authorship, construction start in 1933, Civil War stoppage, completion in 1942, and Metro/Cercanías access.",
+      "relevance_es": "Página oficial de turismo de Madrid que confirma el complejo, su uso ministerial actual, la autoría de Zuazo, el inicio de obras en 1933, el parón por la Guerra Civil, la finalización en 1942 y el acceso por Metro y Cercanías."
+    },
+    {
+      "title": "Estación de Nuevos Ministerios | Renfe",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-nuevos-ministerios",
+      "type": "official",
+      "relevance_en": "Renfe's station page confirms the current Nuevos Ministerios transport interchange and its Cercanías and Metro connections.",
+      "relevance_es": "La página de estación de Renfe confirma el intercambiador actual de Nuevos Ministerios y sus conexiones de Cercanías y Metro."
+    },
+    {
+      "title": "Conjunto de los Nuevos Ministerios - La Casa de la Arquitectura",
+      "url": "https://lacasadelaarquitectura.es/recurso/conjunto-de-los-nuevos-ministerios/cbd820d5-2c67-45e8-85ea-235ecd86b4f5",
+      "type": "official",
+      "relevance_en": "Architecture catalogue record, with information supplied by COAM's historical service, confirming the work, its administrative character, and the participation of Secundino Zuazo and Eduardo Torroja.",
+      "relevance_es": "Ficha del catálogo de arquitectura, con información aportada por el Servicio Histórico del COAM, que confirma la obra, su carácter administrativo y la participación de Secundino Zuazo y Eduardo Torroja."
+    },
+    {
+      "title": "Los fondos documentales ferroviarios del Archivo del Ministerio de Transportes, Movilidad y Agenda Urbana",
+      "url": "https://www.docutren.com.es/historiaferroviaria/JornadaDifusion2023/pdf/09-Presentacion_ManzanaresMorales_ArchivoMITMA.pdf",
+      "type": "archive",
+      "relevance_en": "Ministry archive presentation tying the Nuevos Ministerios project to the Republican Ministry of Public Works, Indalecio Prieto, Secundino Zuazo, the former Hipódromo Real grounds, and the Atocha-Chamartín railway axis.",
+      "relevance_es": "Presentación del archivo ministerial que relaciona el proyecto de Nuevos Ministerios con el Ministerio de Obras Públicas republicano, Indalecio Prieto, Secundino Zuazo, los terrenos del Hipódromo Real y el eje ferroviario Atocha-Chamartín."
+    },
+    {
+      "title": "Estación de Nuevos Ministerios, un nodo clave de transporte en Madrid | IFEMA Madrid",
+      "url": "https://www.ifema.es/visita-madrid/guias/estacion-nuevos-ministerios",
+      "type": "other",
+      "relevance_en": "Provides a useful transport chronology: railway stop in 1967, Metro Line 6 opening at Nuevos Ministerios on 11 October 1979, later Line 8 and Line 10 additions, and airport-link context.",
+      "relevance_es": "Aporta una cronología útil del transporte: apeadero ferroviario en 1967, apertura de la línea 6 de Metro en Nuevos Ministerios el 11 de octubre de 1979, incorporaciones posteriores de las líneas 8 y 10 y contexto del enlace con el aeropuerto."
+    },
+    {
+      "title": "ETM-108. Conjunto de los Nuevos Ministerios - CEHOPU/CEDEX",
+      "url": "https://cehopu.cedex.es/etm/obras/ETM-108.htm",
+      "type": "official",
+      "relevance_en": "Public works history catalogue identifying the complex as a 1933 project by Secundino Zuazo for the Gabinete Técnico de Accesos y Extrarradio de Madrid, with Eduardo Torroja as engineer and railway-station access integrated into the plan.",
+      "relevance_es": "Catálogo de historia de las obras públicas que identifica el conjunto como proyecto de 1933 de Secundino Zuazo para el Gabinete Técnico de Accesos y Extrarradio de Madrid, con Eduardo Torroja como ingeniero e integración del acceso ferroviario en el plan."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the current Wikipedia-led citation with Madrid City Council heritage, Madrid tourism, Renfe, and archival/ministry sources.",
+      "es": "Sustituir la referencia principal a Wikipedia por fuentes del patrimonio municipal, turismo de Madrid, Renfe y fuentes archivísticas o ministeriales."
+    },
+    {
+      "en": "Add the distinction that the railway stop opened in 1967, while Metro service at Nuevos Ministerios began with Line 6 on 11 October 1979.",
+      "es": "Añadir la distinción de que el apeadero ferroviario abrió en 1967, mientras que el servicio de Metro en Nuevos Ministerios comenzó con la línea 6 el 11 de octubre de 1979."
+    },
+    {
+      "en": "The input line list should be reviewed against current Renfe notation, which now presents service as C1, C2, C3, C3a, C4a, C4b, C7, C8 and C10.",
+      "es": "Conviene revisar la lista de líneas de la fila con la notación actual de Renfe, que presenta el servicio como C1, C2, C3, C3a, C4a, C4b, C7, C8 y C10."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "For a fully documented naming_date, inspect primary railway inauguration records from July 1967 and Metro de Madrid opening documentation for 11 October 1979.",
+      "es": "Para documentar completamente la fecha de asignación del nombre, conviene consultar expedientes primarios de la inauguración ferroviaria de julio de 1967 y documentación de Metro de Madrid sobre la apertura del 11 de octubre de 1979."
+    },
+    {
+      "en": "Some sources distinguish construction completion around 1942 from later ministry occupation or adaptation; a building-history note should avoid treating all administrative use as finished on the same date.",
+      "es": "Algunas fuentes distinguen la finalización constructiva hacia 1942 de la ocupación o adaptación ministerial posterior; una nota histórica debe evitar presentar todos los usos administrativos como terminados en la misma fecha."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_062/en/summary.short.md",
+      "summary": "content/stations/metro_062/en/summary.md",
+      "story": "content/stations/metro_062/en/story.md",
+      "confidence": "content/stations/metro_062/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_062/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_062/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_062/es/summary.short.md",
+      "summary": "content/stations/metro_062/es/summary.md",
+      "story": "content/stations/metro_062/es/story.md",
+      "confidence": "content/stations/metro_062/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_062/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_062/es/research-note.md"
+    }
+  }
+}

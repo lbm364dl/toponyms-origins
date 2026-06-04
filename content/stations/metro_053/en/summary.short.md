@@ -1,0 +1,1 @@
+Oporto is named for the Madrid toponym around Avenida de Oporto, which uses the traditional Spanish name for Porto, Portugal. The station opened on Line 5 in 1968 and became a Line 6 interchange when that line reached Oporto in 1981.

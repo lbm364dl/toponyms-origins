@@ -1,0 +1,1 @@
+Estrecho toma su nombre de la zona de Bravo Murillo y Francos Rodríguez, documentada como El Estrecho en fuentes de comienzos del siglo XX. La explicación mejor apoyada es una alusión popular al Estrecho de Gibraltar: para ir desde Madrid/Cuatro Caminos hacia Tetuán, se decía con guasa que había que cruzar “el Estrecho”.

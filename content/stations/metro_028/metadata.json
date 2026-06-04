@@ -1,0 +1,119 @@
+{
+  "id": "metro_028",
+  "name": "Estadio Metropolitano",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Estadio Metropolitano, the nearby Atlético de Madrid stadium now commercially named Riyadh Air Metropolitano",
+  "previous_names": "Estadio Olímpico",
+  "naming_date": "2017-06-26; official presentation by Comunidad de Madrid on 2017-06-27",
+  "sources": [
+    {
+      "title": "Rollán y Cerezo presentan el nuevo nombre de la estación de Metro Estadio Metropolitano",
+      "url": "https://www.comunidad.madrid/notas-prensa/2017/06/27/rollan-cerezo-presentan-nuevo-nombre-estacion-metro-estadio-metropolitano",
+      "type": "official",
+      "relevance_en": "Official Comunidad de Madrid source confirming the station was formerly Estadio Olímpico, that the Line 7 station was renamed Estadio Metropolitano, and that the name refers to the new Atlético stadium and honors the club's 1923-1966 ground.",
+      "relevance_es": "Fuente oficial de la Comunidad de Madrid que confirma que la estación se llamaba antes Estadio Olímpico, que la parada de la línea 7 pasó a denominarse Estadio Metropolitano y que el nombre alude al nuevo estadio del Atlético y homenajea el campo del club de 1923-1966."
+    },
+    {
+      "title": "Estadio Metropolitano",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_286/",
+      "type": "official",
+      "relevance_en": "CRTM station page confirming the current station name, Line 7 correspondence, zone, accessibility, and accesses on Avenida de Arcentales and Calle de Estocolmo.",
+      "relevance_es": "Página del CRTM que confirma el nombre actual de la estación, la correspondencia con la línea 7, la zona, la accesibilidad y los accesos en avenida de Arcentales y calle de Estocolmo."
+    },
+    {
+      "title": "Our new home's metro station shines with the name Estadio Metropolitano",
+      "url": "https://en.atleticodemadrid.com/noticias/our-new-home-s-metro-station-shines-with-the-name-estadio-metropolitano",
+      "type": "official",
+      "relevance_en": "Atlético de Madrid source dated 26 June 2017 confirming the overnight change from Estadio Olímpico to Estadio Metropolitano and describing the station as the metro stop at the foot of the new stadium.",
+      "relevance_es": "Fuente del Atlético de Madrid fechada el 26 de junio de 2017 que confirma el cambio nocturno de Estadio Olímpico a Estadio Metropolitano y describe la estación como la parada situada a los pies del nuevo estadio."
+    },
+    {
+      "title": "Se cumplen 100 años de la inauguración del Metropolitano",
+      "url": "https://www.atleticodemadrid.com/noticias/se-cumplen-100-anos-de-la-inauguracion-del-metropolitano",
+      "type": "official",
+      "relevance_en": "Atlético's centenary article for the historic Stadium Metropolitano, giving the 13 May 1923 opening, the 1923-1966 period as Atlético's home, the Otamendi brothers' role, and the Sociedad Stadium Metropolitano date of 16 March 1922.",
+      "relevance_es": "Artículo centenario del Atlético sobre el histórico Stadium Metropolitano, con la inauguración del 13 de mayo de 1923, el periodo 1923-1966 como casa rojiblanca, el papel de los hermanos Otamendi y la constitución de la Sociedad Stadium Metropolitano el 16 de marzo de 1922."
+    },
+    {
+      "title": "Nuestro estadio",
+      "url": "https://www.atleticodemadrid.com/atm/proyecto",
+      "type": "official",
+      "relevance_en": "Current Atlético stadium page confirming the Riyadh Air Metropolitano commercial name, 16 September 2017 opening, 2019 Champions League final, current stated capacity, and the recovery of the historic Metropolitano name.",
+      "relevance_es": "Página actual del estadio del Atlético que confirma el nombre comercial Riyadh Air Metropolitano, la inauguración del 16 de septiembre de 2017, la final de la Champions League de 2019, el aforo vigente indicado y la recuperación del nombre histórico Metropolitano."
+    },
+    {
+      "title": "Grupo Cívitas continuará como patrocinador oficial del club",
+      "url": "https://www.atleticodemadrid.com/noticias/grupo-civitas-continuara-como-patrocinador-oficial-del-club",
+      "type": "official",
+      "relevance_en": "Atlético announcement from 9 October 2024 confirming that the stadium's official commercial name changed to Riyadh Air Metropolitano after the Cívitas period.",
+      "relevance_es": "Comunicado del Atlético del 9 de octubre de 2024 que confirma que el nombre comercial oficial del estadio pasó a ser Riyadh Air Metropolitano tras la etapa Cívitas."
+    },
+    {
+      "title": "Estadio Metropolitano",
+      "url": "https://es.uefa.com/news-media/news/0251-0e99a819d563-4052d569911b-1000--estadio-metropolitano/",
+      "type": "official",
+      "relevance_en": "UEFA source for the 2019 Champions League final context, the stadium's opening match on 16 September 2017, Line 7 access via Estadio Metropolitano station, and the tribute to the original stadium.",
+      "relevance_es": "Fuente de la UEFA para el contexto de la final de la Champions League de 2019, el partido inaugural del estadio el 16 de septiembre de 2017, el acceso por línea 7 mediante la estación Estadio Metropolitano y el homenaje al estadio original."
+    },
+    {
+      "title": "Historia del Riyadh Air Metropolitano",
+      "url": "https://www.laliga.com/es-US/noticias/historia-metropolitano-estadio-atletico-de-madrid",
+      "type": "official",
+      "relevance_en": "LALIGA source summarizing the La Peineta/Olympic-bid background, the 2017 Atlético move, naming-rights periods, and the Stadium Metropolitano historical reference.",
+      "relevance_es": "Fuente de LALIGA que resume el antecedente de La Peineta y las candidaturas olímpicas, el traslado del Atlético en 2017, las etapas de patrocinio del nombre y la referencia histórica al Stadium Metropolitano."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Set previous_names to Estadio Olímpico; the input currently leaves previous_names empty and puts the former-name note in naming_date.",
+      "es": "Establecer previous_names como Estadio Olímpico; la entrada actual deja previous_names vacío y coloca la nota del nombre anterior en naming_date."
+    },
+    {
+      "en": "Set naming_date to June 2017, preferably 2017-06-26 for the effective signage change and 2017-06-27 for the official presentation.",
+      "es": "Establecer naming_date en junio de 2017, preferiblemente 2017-06-26 para el cambio efectivo de rotulación y 2017-06-27 para la presentación oficial."
+    },
+    {
+      "en": "Clear person_nationality; the value '2017' is a misplaced date and this is not a person-name etymology.",
+      "es": "Vaciar person_nationality; el valor '2017' es una fecha desplazada y esta etimología no corresponde a una persona."
+    },
+    {
+      "en": "Update the stadium's current commercial name from Civitas Metropolitano to Riyadh Air Metropolitano.",
+      "es": "Actualizar el nombre comercial actual del estadio de Cívitas Metropolitano a Riyadh Air Metropolitano."
+    },
+    {
+      "en": "Treat 68,456 as an earlier/inaugural capacity figure, not the current capacity; Atlético's current stadium page gives 70,692 spectators.",
+      "es": "Tratar 68.456 como una cifra anterior o inicial de aforo, no como el aforo vigente; la página actual del Atlético indica 70.692 espectadores."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid internal resolution or network-change bulletin for the exact legal date of the station rename would be useful if available, although public official and club sources already establish the effective June 2017 change.",
+      "es": "Sería útil localizar una resolución interna de Metro de Madrid o boletín de cambios de red con la fecha legal exacta del cambio, aunque las fuentes públicas oficiales y del club ya establecen el cambio efectivo de junio de 2017."
+    },
+    {
+      "en": "For the older Stadium Metropolitano, a specialist history of the Compañía Metropolitana/Urbanizadora Metropolitana could refine whether the best wording is 'promoted by the Otamendi brothers and metropolitan companies' rather than simply 'funded by the Metro company.'",
+      "es": "Para el antiguo Stadium Metropolitano, una historia especializada de la Compañía Metropolitana/Urbanizadora Metropolitana podría precisar si la mejor formulación es 'promovido por los hermanos Otamendi y empresas metropolitanas' en vez de simplemente 'financiado por la compañía del Metro'."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_028/en/summary.short.md",
+      "summary": "content/stations/metro_028/en/summary.md",
+      "story": "content/stations/metro_028/en/story.md",
+      "confidence": "content/stations/metro_028/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_028/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_028/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_028/es/summary.short.md",
+      "summary": "content/stations/metro_028/es/summary.md",
+      "story": "content/stations/metro_028/es/story.md",
+      "confidence": "content/stations/metro_028/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_028/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_028/es/research-note.md"
+    }
+  }
+}

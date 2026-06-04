@@ -1,0 +1,1 @@
+Las Tablas station is named after the northern Madrid residential development of Las Tablas, officially documented in planning as UZI 0.08 Las Tablas. The older meaning of 'tabla' as a strip or rectangular plot of cultivated land fits the area's pre-urban agrarian landscape, although that link remains an informed interpretation rather than a documented naming act.

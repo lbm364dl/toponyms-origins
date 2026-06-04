@@ -1,0 +1,1 @@
+The identification is supported by the Real Academia de la Historia and Metro Madrid collaboration listing Diego de León station under Diego Antonio de León y Navarrete, by Metro historical material placing the station at Calle de Diego de León from its 1932 opening, and by municipal/street-history sources documenting the street name and its dedication.

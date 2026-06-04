@@ -1,0 +1,111 @@
+{
+  "id": "metro_071",
+  "name": "Palos de la Frontera",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Palos de la Frontera, municipality in Huelva, Andalusia",
+  "previous_names": "Palos de Moguer (from opening on 26 March 1949 until 29 May 1986)",
+  "naming_date": "30 May 1986",
+  "sources": [
+    {
+      "title": "CRTM - Palos de la Frontera station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_45?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Metro Line 3 service, and access on Calle de Palos de la Frontera.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 3 de Metro y los accesos en la calle de Palos de la Frontera."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 3 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-3-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides the official chronology of Line 3, including the Embajadores-Delicias section opened on 26 March 1949.",
+      "relevance_es": "Aporta la cronología oficial de la línea 3, incluido el tramo Embajadores-Delicias inaugurado el 26 de marzo de 1949."
+    },
+    {
+      "title": "Memoria de Madrid - Acceso a la estación de Palos de Moguer",
+      "url": "https://www.memoriademadrid.es/view/387895/acceso-a-la-estacion-de-palos-de-moguer",
+      "type": "archive",
+      "relevance_en": "Archive item from Metro de Madrid's photographic collection confirming the old station name Palos de Moguer and the 26 March 1949 opening under that name.",
+      "relevance_es": "Ficha de archivo procedente de la colección fotográfica de Metro de Madrid que confirma el antiguo nombre Palos de Moguer y la inauguración el 26 de marzo de 1949 con esa denominación."
+    },
+    {
+      "title": "BOAM no. 9239 - Reglamento Orgánico 11/2022, Ayuntamiento de Madrid",
+      "url": "https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?vgnextchannel=741d814231ede410VgnVCM1000000b205a0aRCRD&vgnextoid=f5377fbaac7a3810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official Madrid regulation explaining the Palos de Moguer error, the adoption of Palos de la Frontera by the Huelva town council on 25 May 1642, the 1979 street correction, and Metro's later name change.",
+      "relevance_es": "Norma oficial madrileña que explica el error Palos de Moguer, la adopción de Palos de la Frontera por el concejo onubense el 25 de mayo de 1642, la corrección de la calle en 1979 y el cambio posterior de Metro."
+    },
+    {
+      "title": "El País - La estación del 'metro' Palos de Moguer se llamará Palos de la Frontera",
+      "url": "https://elpais.com/diario/1986/02/13/madrid/508681459_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the 1986 agreement between Metro and the Palos de la Frontera town council to rename the station within three months.",
+      "relevance_es": "Crónica contemporánea del convenio de 1986 entre Metro y el Ayuntamiento de Palos de la Frontera para cambiar el nombre de la estación en un plazo de tres meses."
+    },
+    {
+      "title": "El País - Cambio de nombre en el 'metro'",
+      "url": "https://elpais.com/diario/1986/05/29/madrid/517749866_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary notice establishing that the station would become Palos de la Frontera the next day, 30 May 1986.",
+      "relevance_es": "Nota contemporánea que fija que la estación pasaría a llamarse Palos de la Frontera al día siguiente, el 30 de mayo de 1986."
+    },
+    {
+      "title": "Ayuntamiento de Palos de la Frontera - Historia",
+      "url": "https://palosfrontera.com/la-ciudad-2/historia/",
+      "type": "official",
+      "relevance_en": "Municipal history page linking Palos de la Frontera to Columbus's departure on 3 August 1492 and explaining the local origin from Latin palus/paludi.",
+      "relevance_es": "Página histórica municipal que vincula Palos de la Frontera con la salida de Colón el 3 de agosto de 1492 y explica el origen local desde el latín palus/paludi."
+    },
+    {
+      "title": "Ayuntamiento de Palos de la Frontera - Historical Port of Palos",
+      "url": "https://palosfrontera.com/en/historical-port-of-palos/",
+      "type": "official",
+      "relevance_en": "Official tourism page identifying the old Port of Palos as the river port from which the 1492 expedition sailed and describing its historical and archaeological context.",
+      "relevance_es": "Página turística oficial que identifica el antiguo Puerto de Palos como el puerto fluvial desde el que zarpó la expedición de 1492 y describe su contexto histórico y arqueológico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Record the station renaming as effective on 30 May 1986, not merely 'in 1986'.",
+      "es": "Registrar el cambio de nombre de la estación como efectivo el 30 de mayo de 1986, no solo 'en 1986'."
+    },
+    {
+      "en": "State that the station originally followed the Madrid street name Palos de Moguer; the erroneous toponym is older than the station and was not created by Metro.",
+      "es": "Indicar que la estación tomó originalmente el nombre de la calle madrileña Palos de Moguer; el topónimo erróneo es anterior a la estación y no fue creado por Metro."
+    },
+    {
+      "en": "Use 26 March 1949 for the opening of the station with the Embajadores-Delicias section of Line 3; the 1947 date appearing in one Madrid municipal preamble conflicts with transport sources.",
+      "es": "Usar el 26 de marzo de 1949 para la inauguración de la estación con el tramo Embajadores-Delicias de la línea 3; la fecha de 1947 que aparece en un preámbulo municipal madrileño entra en conflicto con las fuentes de transporte."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspecting Metro de Madrid's internal 1986 agreement or board record would be useful to document the formal administrative act behind the public name change.",
+      "es": "Sería útil consultar el convenio interno o acuerdo societario de Metro de Madrid de 1986 para documentar el acto administrativo formal que sustentó el cambio público de denominación."
+    },
+    {
+      "en": "A primary municipal street-naming record from 1979 should be checked to confirm the exact date on which Calle de Palos de Moguer became Calle de Palos de la Frontera.",
+      "es": "Conviene revisar el expediente municipal primario de 1979 para confirmar la fecha exacta en que la calle Palos de Moguer pasó a llamarse calle de Palos de la Frontera."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_071/en/summary.short.md",
+      "summary": "content/stations/metro_071/en/summary.md",
+      "story": "content/stations/metro_071/en/story.md",
+      "confidence": "content/stations/metro_071/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_071/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_071/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_071/es/summary.short.md",
+      "summary": "content/stations/metro_071/es/summary.md",
+      "story": "content/stations/metro_071/es/story.md",
+      "confidence": "content/stations/metro_071/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_071/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_071/es/research-note.md"
+    }
+  }
+}

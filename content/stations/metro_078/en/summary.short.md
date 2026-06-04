@@ -1,0 +1,1 @@
+Usera station is named for the Madrid district it serves. The district's name ultimately comes from Marcelo de Usera y Sánchez, a military officer and urban developer linked to the subdivision of former Villaverde farmland in the 1920s.

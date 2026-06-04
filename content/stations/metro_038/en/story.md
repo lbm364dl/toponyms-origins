@@ -1,0 +1,9 @@
+Manuel Becerra station is a case where the Metro name follows the city above it. The platforms lie by the Plaza de Manuel Becerra, on Calle de Alcalá, and the station was already listed as Manuel Becerra in the original documentation for the Line 2 Ventas-Sol section, opened on 14 June 1924.
+
+The person behind the name was Manuel Becerra y Bermúdez, born in Castro de Rei, Lugo, and dead in Madrid on 19 December 1896. He was known as a mathematician and public figure, and contemporary institutional records connect him with the Royal Academy of Sciences, parliament, the Senate and several ministerial posts.
+
+The square had an older life before the dedication. Around the start of the twentieth century it was known as the Glorieta de la Alegría, near the eastern edge of the planned Salamanca expansion and beside the old routes of Calle de Alcalá. A Madrid urban-history study records that in 1905 the municipality changed the name to Plaza de Manuel Becerra in honour of the politician, who had been deputy and minister of Ultramar and Fomento.
+
+The place also marks a transport and urban hinge. The old eastern tramway once linked the area of Ventas del Espíritu Santo with Cibeles, while the later Metro made the square part of the underground east-west axis. Line 6 added its platforms on 10 October 1979, turning Manuel Becerra into an interchange.
+
+There is a useful wrinkle in the name history. In 1961 the square was renamed Plaza de Roma, and in 1980 it recovered the Manuel Becerra name; Metro histories indicate that the station's established name did not change. The attribution to Becerra is therefore well supported, but some short biographies overstate or blur his ministerial chronology by placing those ministries under Alfonso XII rather than under the documented governments of 1869-1870, 1872-1873 and 1888-1894.

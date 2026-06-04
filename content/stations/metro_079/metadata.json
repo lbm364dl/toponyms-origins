@@ -1,0 +1,97 @@
+{
+  "id": "metro_079",
+  "name": "Plaza Elíptica",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Plaza Elíptica, Madrid",
+  "previous_names": "Station: no former station name found. Place/square: Plaza de la Puerta Bonita is cited by Madrid's historical-memory report as an older place name; Plaza de Fernández Ladreda was the official plaza name from 1954 until the 2017 restoration of Plaza Elíptica.",
+  "naming_date": "Station opened with the name Plaza Elíptica in 1981; the plaza name Plaza Elíptica was officially restored by Madrid City Council agreement on 4 May 2017.",
+  "sources": [
+    {
+      "title": "El Comisionado de Memoria Histórica propone renombrar 47 calles de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-Comisionado-de-Memoria-Historica-propone-renombrar-47-calles-de-Madrid/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=4a99c4a7f1cda510VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council explains that Plaza Elíptica was created around the 1950s and that the name came from its ellipse shape; it also notes the 1954 renaming to Fernández Ladreda and the persistence of the Metro name.",
+      "relevance_es": "El Ayuntamiento de Madrid explica que Plaza Elíptica se creó hacia los años cincuenta y que el nombre procedía de su forma de elipse; también indica el cambio de 1954 a Fernández Ladreda y la pervivencia del nombre en el Metro."
+    },
+    {
+      "title": "BOAM nº 7900/993: Acuerdo de 4 de mayo de 2017 sobre cambio de denominación de calles, plazas y travesías",
+      "url": "https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?numPagina=1&target=texto&vgnextchannel=257865dd72ede410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=df3f0a21867db510VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the formal 2017 municipal decision to remove Plaza de Fernández Ladreda and use Plaza Elíptica, with inscription in the official street register.",
+      "relevance_es": "Confirma el acuerdo municipal formal de 2017 para retirar Plaza de Fernández Ladreda y usar Plaza Elíptica, con inscripción en el callejero oficial."
+    },
+    {
+      "title": "CRTM: Plaza Elíptica station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_108.aspx?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Metro lines 6 and 11, interchange services and access addresses around Plaza Elíptica/Fernández Ladreda.",
+      "relevance_es": "Confirma el nombre actual de la estación, las líneas 6 y 11 de Metro, los servicios de intercambio y los accesos del entorno Plaza Elíptica/Fernández Ladreda."
+    },
+    {
+      "title": "Comunidad de Madrid: Línea 11. Tramo Plaza Elíptica-Pan Bendito",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-11-tramo-plaza-eliptica-pan-bendito",
+      "type": "official",
+      "relevance_en": "Gives the Line 11 Plaza Elíptica-Pan Bendito opening date as 16 November 1998 and describes the new Line 11 station connection with existing Line 6 at Plaza Elíptica.",
+      "relevance_es": "Da como fecha de puesta en servicio del tramo Plaza Elíptica-Pan Bendito de la línea 11 el 16 de noviembre de 1998 y describe la conexión de la nueva estación de línea 11 con la línea 6 existente en Plaza Elíptica."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Intercambiador de Plaza Elíptica",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/Intercambiador-de-Plaza-Eliptica/?vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=b3a558c0dc52b410VgnVCM100000171f5a0aRCRD",
+      "type": "official",
+      "relevance_en": "Describes the interchange under Glorieta de Fernández Ladreda/Plaza Elíptica, its links with Getafe, Parla and Leganés, and its connection to Metro lines 6 and 11.",
+      "relevance_es": "Describe el intercambiador bajo la Glorieta de Fernández Ladreda/Plaza Elíptica, sus conexiones con Getafe, Parla y Leganés, y su enlace con las líneas 6 y 11 de Metro."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, FCMAF, September 2025",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Provides a metro chronology listing the Line 6 Pacífico-Oporto section in May 1981 with Plaza Elíptica among the stations in the opened section.",
+      "relevance_es": "Aporta una cronología del Metro que recoge el tramo Pacífico-Oporto de la línea 6 en mayo de 1981 e incluye Plaza Elíptica entre las estaciones del tramo inaugurado."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Line 11 was not added at Plaza Elíptica in 2006; the Plaza Elíptica-Pan Bendito section entered service on 16 November 1998. The 2006 date belongs to a later Line 11 extension toward La Peseta.",
+      "es": "La línea 11 no se añadió en Plaza Elíptica en 2006; el tramo Plaza Elíptica-Pan Bendito entró en servicio el 16 de noviembre de 1998. La fecha de 2006 corresponde a una ampliación posterior de la línea 11 hacia La Peseta."
+    },
+    {
+      "en": "The row should mention the official-place-name history: the plaza was officially Plaza de Fernández Ladreda for decades and Plaza Elíptica was restored in the official street register in 2017.",
+      "es": "La fila debería mencionar la historia del nombre oficial del lugar: la plaza fue oficialmente Plaza de Fernández Ladreda durante décadas y Plaza Elíptica se recuperó en el callejero oficial en 2017."
+    },
+    {
+      "en": "The station is best described as being at the Usera-Carabanchel junction or under/around Plaza Elíptica; official transport access data still references addresses on Plaza de Fernández Ladreda.",
+      "es": "Conviene describir la estación como situada en el límite o entorno Usera-Carabanchel, bajo o junto a Plaza Elíptica; los datos oficiales de accesos de transporte aún muestran direcciones en Plaza de Fernández Ladreda."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary Metro de Madrid inauguration document for the Line 6 station should be inspected if exact public-opening date precision is needed; secondary chronologies differ between 6 and 7 May 1981.",
+      "es": "Si se necesita precisión absoluta sobre la fecha de apertura al público de la estación de la línea 6, debería revisarse un documento primario de Metro de Madrid; algunas cronologías secundarias difieren entre el 6 y el 7 de mayo de 1981."
+    },
+    {
+      "en": "The older Plaza de la Puerta Bonita reference is attested in the municipal memory report, but a historical map or street-register entry would be useful to delimit exactly where and when that earlier name applied.",
+      "es": "La referencia anterior a la Plaza de la Puerta Bonita aparece en el informe municipal de memoria, pero sería útil consultar un plano histórico o una ficha de callejero para delimitar exactamente dónde y cuándo se aplicó ese nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_079/en/summary.short.md",
+      "summary": "content/stations/metro_079/en/summary.md",
+      "story": "content/stations/metro_079/en/story.md",
+      "confidence": "content/stations/metro_079/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_079/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_079/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_079/es/summary.short.md",
+      "summary": "content/stations/metro_079/es/summary.md",
+      "story": "content/stations/metro_079/es/story.md",
+      "confidence": "content/stations/metro_079/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_079/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_079/es/research-note.md"
+    }
+  }
+}

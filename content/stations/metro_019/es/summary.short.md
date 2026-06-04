@@ -1,0 +1,1 @@
+La estación Eugenia de Montijo toma su nombre de la calle y del parque cercanos que recuerdan a Eugenia María Guzmán y Portocarrero, aristócrata nacida en Granada que llegó a ser emperatriz de los franceses en 1853. El nombre conecta además con la antigua Quinta de Miranda, la finca de los Montijo en Carabanchel.

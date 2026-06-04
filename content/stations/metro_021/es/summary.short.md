@@ -1,0 +1,1 @@
+La estación de Alonso Martínez toma su nombre de la plaza situada sobre ella, dedicada a Manuel Alonso Martínez, jurista y político burgalés ligado al Código Civil español de 1889. La plaza se había conocido antes como glorieta de Santa Bárbara.

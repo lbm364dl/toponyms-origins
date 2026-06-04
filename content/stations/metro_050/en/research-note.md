@@ -1,0 +1,1 @@
+The station-name claim is stronger than the botanical-growth claim. Transport and archive sources confirm the station facts, while BOE and local historical reporting support the old-street link. For dataset purposes, the best update is to keep the descriptive etymology but phrase the plant abundance cautiously and flag the missing primary toponymic source.

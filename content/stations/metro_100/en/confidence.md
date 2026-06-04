@@ -1,0 +1,1 @@
+The name chain is directly supported by Metro/CRTM location data, Metro historical material for the 1944 station, and Madrid municipal heritage material explicitly stating that Calle de Serrano is named for Francisco Serrano y Domínguez. Biographical and political context is supported by the Real Academia de la Historia and the Congress of Deputies.

@@ -1,0 +1,1 @@
+La denominación directa de la estación por el municipio está verificada por fuentes oficiales de transporte. La explicación histórica de 'del Rey' está sólidamente respaldada por fuentes municipales, mientras que la etimología prerromana *arg- cuenta con una fuente especializada pero sigue siendo una interpretación de un nombre antiguo, no un hecho demostrable al cien por cien.

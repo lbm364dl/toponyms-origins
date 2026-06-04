@@ -1,0 +1,1 @@
+Metro de Madrid afirma directamente que el nombre de la estación procede de la glorieta de Quevedo y que la plaza recibió el nombre del escritor del Siglo de Oro. La cronología oficial de transporte confirma la apertura de 1925 y la prolongación de 1929, y el patrimonio municipal confirma de forma independiente la dedicatoria de la glorieta a Francisco de Quevedo.

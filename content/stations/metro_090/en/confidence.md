@@ -1,0 +1,1 @@
+The station's position beside Calle de Sevilla is confirmed by transport sources, and Metro de Madrid's historical station PDF identifies Sevilla in the original Ventas-Sol Line 2 section. The older street name and the 4 May 1849 municipal renaming are supported by a scholarly article citing municipal records.

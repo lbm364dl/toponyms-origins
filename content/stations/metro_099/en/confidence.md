@@ -1,0 +1,1 @@
+The person behind the name is well supported by the RAH biography, Madrid street and heritage records, and transport authority sources. The only caution is that the station is named through the street, and exact station naming paperwork was not found; nevertheless the name was in use from the station opening.

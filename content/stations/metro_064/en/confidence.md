@@ -1,0 +1,1 @@
+The station's present name and accesses are confirmed by CRTM, the official Madrid street register confirms Calle de Núñez de Balboa, and Madrid City Council material explicitly links the street commemoration to Vasco Núñez de Balboa. The exact municipal date when the street was first named was not found in accessible sources, but the station etymology itself is secure.

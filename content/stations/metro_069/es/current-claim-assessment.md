@@ -1,0 +1,1 @@
+La afirmacion actual es sustancialmente correcta: Delicias es un toponimo local derivado del Paseo de las Delicias, historicamente Paseo de las Delicias del Rio. Los datos de la estacion ferroviaria son correctos, pero conviene presentarlos como contexto del entorno de transporte de Delicias, no como la razon principal del nombre del Metro.

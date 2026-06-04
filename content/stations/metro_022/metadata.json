@@ -1,0 +1,112 @@
+{
+  "id": "metro_022",
+  "name": "Diego de León",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Diego Antonio de León y Navarrete",
+  "previous_names": "No former station name found. Related street context: Calle de Conde de Peñalver was formerly Calle de Torrijos; Calle de Diego de León has borne that name since at least the municipal agreement of 21 July 1880.",
+  "naming_date": "17 September 1932 for the station name at opening; 21 July 1880 for the municipal naming of Calle de Diego de León.",
+  "sources": [
+    {
+      "title": "Real Academia de la Historia - Correspondencia con la Historia",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "official",
+      "relevance_en": "RAH's Metro Madrid collaboration lists the station DIEGO DE LEÓN and links it to Diego Antonio de León y Navarrete, directly supporting the person identification.",
+      "relevance_es": "La colaboración de la RAH con Metro de Madrid enumera la estación DIEGO DE LEÓN y la vincula con Diego Antonio de León y Navarrete, lo que respalda directamente la identificación de la persona."
+    },
+    {
+      "title": "Diego Antonio de León y Navarrete - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/26070-diego-antonio-de-leon-y-navarrete",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical authority for León's identity, family background, military career and historical classification; page was found but only partially inspectable through the crawl.",
+      "relevance_es": "Autoridad biográfica para la identidad de León, su origen familiar, carrera militar y encuadre histórico; la página fue localizada, aunque solo pudo inspeccionarse parcialmente mediante el rastreo."
+    },
+    {
+      "title": "Metro de Madrid Museos - Huellas del pasado: Diego de León",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-diego-de-leon.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical PDF documents the Goya-Diego de León inaugural section, the opening date of 17 September 1932, the station's location by Calle de Diego de León, and the former street name Torrijos for today's Conde de Peñalver.",
+      "relevance_es": "PDF histórico de Metro que documenta el tramo inaugural Goya-Diego de León, la fecha de apertura del 17 de septiembre de 1932, la ubicación de la estación junto a la calle de Diego de León y el antiguo nombre de Torrijos para la actual Conde de Peñalver."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Diego de León",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_63.aspx",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the active station, lines and access at Calle de Diego de León.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma la estación en servicio, sus líneas y el acceso por la calle de Diego de León."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid street list confirming Calle de Diego de León in the Salamanca district, from Calle de Serrano to Calle de Francisco Silvela.",
+      "relevance_es": "Callejero oficial de Madrid que confirma la calle de Diego de León en el distrito de Salamanca, desde la calle de Serrano hasta la calle de Francisco Silvela."
+    },
+    {
+      "title": "Alfonso Cabello Jiménez, 'Diego de León', Boletín de la Real Academia de Córdoba, BRAC 152 (2007)",
+      "url": "https://storage.e.jimdo.com/file/1c2523e3-0e20-4fcd-923a-0f75d4bc5a6f/BRAC-152-16.pdf",
+      "type": "academic",
+      "relevance_en": "Provides the 21 July 1880 municipal street-naming date, biographical chronology, Belascoáin context, the 1841 palace attempt, and a detailed account of the execution tradition.",
+      "relevance_es": "Aporta la fecha del acuerdo municipal de rotulación de la calle, 21 de julio de 1880, la cronología biográfica, el contexto de Belascoáin, el intento palaciego de 1841 y un relato detallado de la tradición sobre el fusilamiento."
+    },
+    {
+      "title": "Calle de Diego de León - Madripedia",
+      "url": "https://madripedia.wikis.cc/wiki/Calle_de_Diego_de_Le%C3%B3n",
+      "type": "reference",
+      "relevance_en": "Secondary Madrid street reference, incorporating María Isabel Gea's Diccionario Enciclopédico de Madrid, stating that the street is dedicated to General Diego de León and summarizing the 1841 episode.",
+      "relevance_es": "Referencia secundaria del callejero madrileño, basada en el Diccionario Enciclopédico de Madrid de María Isabel Gea, que indica que la calle está dedicada al general Diego de León y resume el episodio de 1841."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full recommended name 'Diego Antonio de León y Navarrete' rather than only 'Diego de León'.",
+      "es": "Usar como valor recomendado el nombre completo 'Diego Antonio de León y Navarrete' y no solo 'Diego de León'."
+    },
+    {
+      "en": "State that the station is named via Calle de Diego de León; the street dedication predates the Metro station.",
+      "es": "Indicar que la estación recibe el nombre a través de la calle de Diego de León; la dedicación de la calle es anterior a la estación de Metro."
+    },
+    {
+      "en": "Replace 'rode to the firing squad' with a more cautious account: a detailed source says he was taken in an open carriage toward the Puerta de Toledo area.",
+      "es": "Sustituir 'cabalgó hasta el pelotón' por una formulación más prudente: una fuente detallada dice que fue llevado en un carruaje descubierto hacia la zona de la Puerta de Toledo."
+    },
+    {
+      "en": "Treat the cigarettes detail as unsupported by the stronger inspected sources; the BRAC article instead mentions distributing coins to the soldiers.",
+      "es": "Tratar el detalle de los cigarrillos como no respaldado por las fuentes más sólidas consultadas; el artículo del BRAC habla de repartir monedas entre los soldados."
+    },
+    {
+      "en": "Do not merge the famous declaration with the command to fire; sources give related phrases such as 'Que no os tiemble el pulso', 'Al corazón' and 'No muero como traidor'.",
+      "es": "No fusionar la declaración famosa con la orden de disparar; las fuentes recogen fórmulas relacionadas como 'Que no os tiemble el pulso', 'Al corazón' y 'No muero como traidor'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal minutes of 21 July 1880 to confirm the exact wording of the street-naming agreement.",
+      "es": "Consultar el acta municipal original de Madrid del 21 de julio de 1880 para confirmar la redacción exacta del acuerdo de rotulación de la calle."
+    },
+    {
+      "en": "Compare the Real Academia de la Historia DB-e entry directly if full page access is available, because the current crawl exposed the RAH identity link but not the complete biography text.",
+      "es": "Contrastar directamente la entrada del DB-e de la Real Academia de la Historia si se dispone de acceso completo, porque el rastreo actual mostró el vínculo de identidad de la RAH pero no el texto biográfico completo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_022/en/summary.short.md",
+      "summary": "content/stations/metro_022/en/summary.md",
+      "story": "content/stations/metro_022/en/story.md",
+      "confidence": "content/stations/metro_022/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_022/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_022/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_022/es/summary.short.md",
+      "summary": "content/stations/metro_022/es/summary.md",
+      "story": "content/stations/metro_022/es/story.md",
+      "confidence": "content/stations/metro_022/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_022/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_022/es/research-note.md"
+    }
+  }
+}

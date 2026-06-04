@@ -1,0 +1,1 @@
+Estación del Arte is a modern descriptive name adopted on 1 December 2018 for the former Metro station Atocha. It points riders toward Madrid's major art-museum axis around the Prado, Reina Sofía and Thyssen-Bornemisza, while distinguishing this stop from the railway-linked Atocha station.

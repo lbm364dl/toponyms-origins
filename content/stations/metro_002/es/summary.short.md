@@ -1,0 +1,1 @@
+La estación de Gran Vía lleva el nombre del bulevar que pasa sobre ella, la célebre avenida madrileña abierta de este a oeste a comienzos del siglo XX. La parada de la línea 1 abrió en 1919, fue rebautizada José Antonio en 1940 y recuperó el nombre Gran Vía en 1983.

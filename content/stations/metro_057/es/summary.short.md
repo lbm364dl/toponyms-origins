@@ -1,0 +1,1 @@
+Esperanza toma probablemente su nombre de la Colonia Virgen de la Esperanza, la gran promoción residencial moderna que rodea la estación en Canillas, Hortaleza. La parada de la línea 4 se inauguró el 5 de enero de 1979, con acceso en la calle de Andorra.

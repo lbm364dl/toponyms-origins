@@ -1,0 +1,114 @@
+{
+  "id": "metro_031",
+  "name": "Tribunal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Tribunal de Cuentas",
+  "previous_names": "Hospicio (documented as 1918 project/construction-plan name; public-use duration not firmly verified)",
+  "naming_date": "1919, probable for public use; Hospicio documented on construction plans dated 9 January 1918",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Estaciones con historia: Tribunal",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/11/ficha-tribunal.pdf",
+      "type": "official",
+      "relevance_en": "Metro heritage source showing archive material for Tribunal, including a 1918 construction plan under the name Hospicio and the station location between the Tribunal de Cuentas and the former Hospicio de San Fernando.",
+      "relevance_es": "Fuente patrimonial de Metro que muestra documentación de archivo de Tribunal, incluido un plano de construcción de 1918 con el nombre Hospicio y la ubicación de la estación entre el Tribunal de Cuentas y el antiguo Hospicio de San Fernando."
+    },
+    {
+      "title": "Antonio Palacios: el arquitecto de Metro",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2025/05/CATALOGO-CASTELLANO_WEB-2.pdf",
+      "type": "official",
+      "relevance_en": "Metro centenary catalogue explaining that the station began in the project as Hospicio because of the Real Hospicio General de Pobres opposite the access, and identifying a 9 January 1918 construction plan for Hospicio.",
+      "relevance_es": "Catálogo del centenario de Metro que explica que la estación comenzó en el proyecto como Hospicio por el Real Hospicio General de Pobres situado frente a la boca de acceso, e identifica un plano de construcción de Hospicio fechado el 9 de enero de 1918."
+    },
+    {
+      "title": "La Línea 1 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-1-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional transport history giving the 17 October 1919 inauguration of Line 1 and listing the original route with Hospicio identified as the present Tribunal stop.",
+      "relevance_es": "Historia regional del transporte que da la inauguración de la línea 1 el 17 de octubre de 1919 y enumera el recorrido original con Hospicio identificado como la parada actual de Tribunal."
+    },
+    {
+      "title": "Sedes - Tribunal de Cuentas",
+      "url": "https://www.tcu.es/es/la-institucion/sedes/",
+      "type": "official",
+      "relevance_en": "Official Court of Audit page locating the main headquarters at Calle Fuencarral 81 and describing the building by Francisco Jareño y Alarcón, built between 1860 and 1863.",
+      "relevance_es": "Página oficial del Tribunal de Cuentas que sitúa la sede principal en la calle Fuencarral 81 y describe el edificio de Francisco Jareño y Alarcón, construido entre 1860 y 1863."
+    },
+    {
+      "title": "La Institución - Tribunal de Cuentas",
+      "url": "https://www.tcu.es/es/la-institucion/index.html",
+      "type": "official",
+      "relevance_en": "Official description of the Tribunal de Cuentas as the constitutionally recognized supreme audit body for public-sector accounts and economic management.",
+      "relevance_es": "Descripción oficial del Tribunal de Cuentas como órgano supremo fiscalizador, reconocido en la Constitución, de las cuentas y de la gestión económica del sector público."
+    },
+    {
+      "title": "Tribunal de Cuentas - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Direcciones-y-telefonos/Tribunal-de-Cuentas/?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=9ca01e79ee71c010VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal directory confirms the Court of Audit's address at Calle Fuencarral 81 in Universidad/Centro and lists Tribunal station on Lines 1 and 10 as the nearest Metro.",
+      "relevance_es": "Directorio municipal que confirma la dirección del Tribunal de Cuentas en la calle Fuencarral 81, en Universidad/Centro, y señala la estación de Tribunal de las líneas 1 y 10 como Metro más próximo."
+    },
+    {
+      "title": "Arquitectura de Madrid - Tribunal de Cuentas",
+      "url": "https://fcoam.eu/guia/F1/F1.133.htm",
+      "type": "reference",
+      "relevance_en": "COAM architectural guide corroborating the site, architect, 1860-1863 construction, earlier Conde de Aranda palace site, and long institutional use of the building.",
+      "relevance_es": "Guía arquitectónica del COAM que corrobora el emplazamiento, el arquitecto, la construcción de 1860-1863, el solar anterior del palacio del conde de Aranda y el uso institucional continuado del edificio."
+    },
+    {
+      "title": "Restauración de la Portada del Museo de Historia de Madrid - Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Actuaciones-de-Conservacion-y-Mejora-del-Patrimonio-Cultural/Proyectos-en-ejecucion/Restauracion-de-la-Portada-del-Museo-de-Historia-de-Madrid/?vgnextchannel=f54cf9040a907810VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=6ead8f66bdb07910VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage source confirming that the Museo de Historia de Madrid occupies the surviving restored part of the former Hospicio de San Fernando, an 18th-century work by Pedro de Ribera, with the portal built between 1721 and about 1726.",
+      "relevance_es": "Fuente municipal de patrimonio que confirma que el Museo de Historia de Madrid ocupa la parte salvada y restaurada del antiguo Hospicio de San Fernando, obra del siglo XVIII de Pedro de Ribera, con portada construida entre 1721 y hacia 1726."
+    },
+    {
+      "title": "La Línea 10 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-10-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Regional source documenting the 18 December 1981 Suburbano extension from Plaza de España to Alonso Martínez, creating the connection with Line 1 at Tribunal.",
+      "relevance_es": "Fuente regional que documenta la prolongación del Suburbano de Plaza de España a Alonso Martínez el 18 de diciembre de 1981, creando la conexión con la línea 1 en Tribunal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace “Hospicio (until c.1940s)” with a more cautious wording: Hospicio is documented as the 1918 project/construction-plan name, but its public-use duration remains unverified.",
+      "es": "Sustituir “Hospicio (hasta c. años 1940)” por una fórmula más prudente: Hospicio está documentado como nombre de proyecto o plano de obra de 1918, pero no se ha verificado su duración como nombre público."
+    },
+    {
+      "en": "Describe the Tribunal de Cuentas building as built between 1860 and 1863 and designed by Francisco Jareño y Alarcón, rather than simply “building (1863).”",
+      "es": "Describir el edificio del Tribunal de Cuentas como construido entre 1860 y 1863 y proyectado por Francisco Jareño y Alarcón, no solo como “edificio (1863)”."
+    },
+    {
+      "en": "Give the Real Hospicio chronology as 1721-1726 for the definitive Pedro de Ribera building, with the institution founded earlier, rather than reducing it to 1726 alone.",
+      "es": "Dar la cronología del Real Hospicio como 1721-1726 para el edificio definitivo de Pedro de Ribera, con la institución fundada antes, en lugar de reducirla solo a 1726."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect early Metro operating maps, tickets, signage photographs, or company minutes to determine whether Hospicio was ever used publicly after opening and, if so, when Tribunal officially replaced it.",
+      "es": "Revisar planos de explotación, billetes, fotografías de rótulos o actas de la compañía de los primeros años para determinar si Hospicio se usó públicamente tras la apertura y, en ese caso, cuándo lo sustituyó oficialmente Tribunal."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_031/en/summary.short.md",
+      "summary": "content/stations/metro_031/en/summary.md",
+      "story": "content/stations/metro_031/en/story.md",
+      "confidence": "content/stations/metro_031/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_031/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_031/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_031/es/summary.short.md",
+      "summary": "content/stations/metro_031/es/summary.md",
+      "story": "content/stations/metro_031/es/story.md",
+      "confidence": "content/stations/metro_031/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_031/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_031/es/research-note.md"
+    }
+  }
+}

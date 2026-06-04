@@ -1,0 +1,1 @@
+Valdeacederas keeps the name of an older local street and landscape name, later replaced on the street map by Capitán Blanco Argibay. Linguistically, it reads as 'valley of sorrels,' from val, 'valley,' and acederas, sour-tasting sorrel plants.

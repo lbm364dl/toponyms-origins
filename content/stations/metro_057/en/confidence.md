@@ -1,0 +1,1 @@
+The location, station access, Line 4 opening history, and architectural documentation of the adjacent Colonia Virgen de la Esperanza all support the etymology. Confidence is probable rather than verified because no primary Metro or municipal naming resolution explicitly saying 'the station was named after the colony' was found.

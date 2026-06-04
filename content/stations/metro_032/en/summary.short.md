@@ -1,0 +1,1 @@
+Noviciado is named for the former Jesuit novitiate that stood by Calle de San Bernardo, on the block now associated with the historic Universidad Central. The religious house was founded in 1602 by Ana Félix de Guzmán, Marchioness of Camarasa.

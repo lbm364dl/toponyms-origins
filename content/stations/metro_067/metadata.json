@@ -1,0 +1,108 @@
+{
+  "id": "metro_067",
+  "name": "Torre Arias",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Quinta de Torre Arias",
+  "previous_names": "Estate/place: Quinta de Canillejas. Station: no former station names found.",
+  "naming_date": "18 January 1980",
+  "sources": [
+    {
+      "title": "DECRETO 59/2022, de 13 de julio, por el que se declara Bien de Interés Cultural la Quinta y palacio de Torre Arias",
+      "url": "https://www.comunidad.madrid/sites/default/files/quinta_de_torre_arias.pdf",
+      "type": "official",
+      "relevance_en": "Primary official heritage declaration; documents the estate’s location, older name Quinta de Canillejas, 16th-century origins, ownership chronology, the Torre Arias title as the source of the current estate name, the 2012 municipal transfer, and BIC status.",
+      "relevance_es": "Declaración patrimonial oficial primaria; documenta la localización de la finca, el antiguo nombre Quinta de Canillejas, los orígenes del siglo XVI, la cronología de propietarios, el título Torre Arias como origen del nombre actual de la finca, la transmisión municipal de 2012 y la condición de BIC."
+    },
+    {
+      "title": "La Quinta y Palacio de Torre Arias | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/patrimonio-cultural/quinta-palacio-torre-arias",
+      "type": "official",
+      "relevance_en": "Regional heritage page summarizing the same BIC history and explicitly stating that the VI Count of Torre Arias’s title gives the Quinta its present name.",
+      "relevance_es": "Página patrimonial regional que resume la historia del BIC y afirma explícitamente que el título del VI conde de Torre Arias da a la Quinta su nombre actual."
+    },
+    {
+      "title": "Inauguración tramo de línea 5 Ciudad Lineal-Canillejas | memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/389763",
+      "type": "archive",
+      "relevance_en": "Madrid municipal archive record from Metro de Madrid’s photographic archive; confirms the 18 January 1980 inauguration of the Line 5 extension and lists Suanzes, Torre Arias and Canillejas as its three stations.",
+      "relevance_es": "Registro del archivo municipal memoriademadrid, procedente del Archivo fotográfico de Metro de Madrid; confirma la inauguración del 18 de enero de 1980 del tramo de línea 5 y enumera Suanzes, Torre Arias y Canillejas como sus tres estaciones."
+    },
+    {
+      "title": "Torre Arias | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_75/",
+      "type": "official",
+      "relevance_en": "Current transport authority station page; confirms Torre Arias as a Metro station on Line 5, with accesses on Calle de Alcalá and transport connections.",
+      "relevance_es": "Página actual de la autoridad de transporte; confirma Torre Arias como estación de Metro de la línea 5, con accesos en la calle de Alcalá y correspondencias de transporte."
+    },
+    {
+      "title": "Quinta de Torre Arias | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/quinta-torre-arias",
+      "type": "official",
+      "relevance_en": "Madrid tourism page; confirms the public park identity, address at Calle de Alcalá 551, Metro access by Torre Arias L5, 1986 agreement/donation wording, 2016 public opening and 2022 BIC declaration.",
+      "relevance_es": "Página turística oficial de Madrid; confirma la identidad del parque público, la dirección en la calle de Alcalá 551, el acceso por Metro Torre Arias L5, la referencia al convenio/donación de 1986, la apertura pública de 2016 y la declaración BIC de 2022."
+    },
+    {
+      "title": "La Quinta de Torre Arias, en el camino de ser Bien de Interés Cultural | Diario de Madrid",
+      "url": "https://diario.madrid.es/blog/2021/02/09/la-quinta-de-torre-arias-en-el-camino-de-ser-bien-de-interes-cultural/",
+      "type": "official",
+      "relevance_en": "Madrid City Council news article; gives accessible municipal context on the estate’s 17 hectares, architectural and agricultural elements, 1986 transfer with usufruct, partial public opening in 2016 and BIC process.",
+      "relevance_es": "Artículo del Ayuntamiento de Madrid; aporta contexto municipal divulgativo sobre las 17 hectáreas, los elementos arquitectónicos y agropecuarios, la transmisión de 1986 con usufructo, la apertura parcial en 2016 y el proceso de declaración BIC."
+    },
+    {
+      "title": "Torre-Arias, condes de | PARES, Archivos Españoles",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/55698",
+      "type": "archive",
+      "relevance_en": "Spanish archival authority record for the Counts of Torre Arias; supports the noble-title context and identifies Ildefonso Pérez de Guzmán el Bueno y Gordón as VI Count of Torre Arias.",
+      "relevance_es": "Registro de autoridad archivística española de los condes de Torre-Arias; respalda el contexto del título nobiliario e identifica a Ildefonso Pérez de Guzmán el Bueno y Gordón como VI conde de Torre Arias."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from person to place: the station is named directly after the Quinta de Torre Arias, although that estate name derives from a noble title.",
+      "es": "Cambiar el tipo etimológico de persona a lugar: la estación toma directamente el nombre de la Quinta de Torre Arias, aunque el nombre de la finca derive de un título nobiliario."
+    },
+    {
+      "en": "Correct 'late 18th century' to 'late 19th century': the estate passed to María de los Dolores de Salabert Arteaga in 1895, and her husband was Ildefonso Pérez de Guzmán el Bueno, VI Count of Torre Arias.",
+      "es": "Corregir 'finales del siglo XVIII' por 'finales del siglo XIX': la finca pasó a María de los Dolores de Salabert Arteaga en 1895, y su marido era Ildefonso Pérez de Guzmán el Bueno, VI conde de Torre Arias."
+    },
+    {
+      "en": "Soften the wording about 1580: the official decree says the first house is believed to have been built around that date, known from the first Count of Villamor’s will, rather than presenting every detail as certain.",
+      "es": "Matizar la redacción sobre 1580: el decreto oficial dice que se cree que la primera casa fue edificada hacia esa fecha, dato conocido por el testamento del primer conde de Villamor, no que todos los detalles estén plenamente probados."
+    },
+    {
+      "en": "Describe the 1986 transfer carefully: official sources refer to an agreement with Madrid City Council and usufruct until Tatiana Pérez de Guzmán el Bueno’s death in 2012; some public-facing sources call it a donation, but the legal mechanism should be reviewed before using only that word.",
+      "es": "Describir con cuidado la transmisión de 1986: las fuentes oficiales hablan de un convenio con el Ayuntamiento de Madrid y usufructo hasta la muerte de Tatiana Pérez de Guzmán el Bueno en 2012; algunas fuentes divulgativas lo llaman donación, pero conviene revisar el mecanismo jurídico antes de usar solo esa palabra."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A station-naming resolution from Metro de Madrid or the transport authority was not found; the naming is inferred from the adjacent Quinta/park and from the station opening records using the same name.",
+      "es": "No se encontró una resolución específica de denominación de Metro de Madrid o de la autoridad de transporte; el nombre se infiere por la Quinta/parque colindante y por los registros de apertura que ya usan esa denominación."
+    },
+    {
+      "en": "The exact legal wording of the 1986 agreement should be checked in the original municipal file if the dataset needs to distinguish donation, exchange agreement, transfer and usufruct precisely.",
+      "es": "La redacción jurídica exacta del convenio de 1986 debería comprobarse en el expediente municipal original si la base de datos necesita distinguir con precisión donación, permuta, transmisión y usufructo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_067/en/summary.short.md",
+      "summary": "content/stations/metro_067/en/summary.md",
+      "story": "content/stations/metro_067/en/story.md",
+      "confidence": "content/stations/metro_067/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_067/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_067/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_067/es/summary.short.md",
+      "summary": "content/stations/metro_067/es/summary.md",
+      "story": "content/stations/metro_067/es/story.md",
+      "confidence": "content/stations/metro_067/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_067/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_067/es/research-note.md"
+    }
+  }
+}

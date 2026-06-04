@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station name is a local place-name tied to the Pavones area and Calle de la Hacienda de Pavones. The stronger evidence points beyond the modern neighbourhood to the older rural estate or hacienda called Pavones or Pabones, documented well before the Metro station opened.

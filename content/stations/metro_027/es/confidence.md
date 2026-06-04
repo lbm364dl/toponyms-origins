@@ -1,0 +1,1 @@
+El cambio de nombre, su fecha y el motivo están documentados en una nota de prensa oficial de la Comunidad de Madrid y en su PDF. La fecha de apertura de la estación y la cronología del nombre anterior también están confirmadas por material oficial de infraestructuras de la línea 8 de la Comunidad de Madrid.

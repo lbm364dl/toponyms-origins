@@ -1,0 +1,111 @@
+{
+  "id": "metro_064",
+  "name": "Núñez de Balboa",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Vasco Núñez de Balboa",
+  "previous_names": "",
+  "naming_date": "1970 for the Line 5 station name; Line 9 interchange added in 1986",
+  "sources": [
+    {
+      "title": "CRTM: Núñez de Balboa",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_83?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Metro lines 5 and 9, fare zone, and accesses including Calle de Núñez de Balboa 85.",
+      "relevance_es": "Confirma el nombre actual de la estación, las líneas 5 y 9, la zona tarifaria y los accesos, incluido el de calle de Núñez de Balboa 85."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Una placa en homenaje a Núñez de Balboa",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Una-placa-en-homenaje-a-Nunez-de-Balboa/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=3d7874d9f2cb1410VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council explicitly identifies Vasco Núñez de Balboa as the figure commemorated by a plaque placed on Calle Núñez de Balboa 2 in 2013 and summarizes his association with the Pacific.",
+      "relevance_es": "El Ayuntamiento de Madrid identifica expresamente a Vasco Núñez de Balboa como la figura conmemorada por una placa colocada en la calle Núñez de Balboa 2 en 2013 y resume su relación con el Pacífico."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Confirms Calle de Núñez de Balboa as an official Madrid street, its route from Calle de Alcalá to Calle de Pedro de Valdivia in the alphabetical listing, and its districts and numbering.",
+      "relevance_es": "Confirma la calle de Núñez de Balboa como vía oficial de Madrid, su recorrido desde la calle de Alcalá hasta la calle de Pedro de Valdivia en la relación alfabética, y sus distritos y numeración."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 5 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/node/30046",
+      "type": "official",
+      "relevance_en": "Provides official chronology for Line 5, including the 2 March 1970 inauguration of the Callao-Ventas section to which Núñez de Balboa belongs.",
+      "relevance_es": "Aporta la cronología oficial de la línea 5, incluida la inauguración el 2 de marzo de 1970 del tramo Callao-Ventas al que pertenece Núñez de Balboa."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 9 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-9-metro-madrid",
+      "type": "official",
+      "relevance_en": "Documents the 25 February 1986 opening of the Avenida de América-Sainz de Baranda section and notes the escalators and moving walkways installed at Núñez de Balboa for the Line 5-Line 9 interchange.",
+      "relevance_es": "Documenta la inauguración del tramo Avenida de América-Sainz de Baranda el 25 de febrero de 1986 y menciona las escaleras mecánicas y pasillos rodantes instalados en Núñez de Balboa para el enlace entre las líneas 5 y 9."
+    },
+    {
+      "title": "Ministerio de Cultura: Presentación de 'Pacífico. España y la aventura de la Mar del Sur'",
+      "url": "https://www.cultura.gob.es/va/cultura/areas/archivos/mc/archivos/agi/exposiciones-y-actividades/exposiciones/exposicion-pacifico/presentacion.html",
+      "type": "official",
+      "relevance_en": "Official cultural source stating that in September 1513 Balboa sighted a new ocean for Europeans from the Panamanian isthmus and named it the Mar del Sur.",
+      "relevance_es": "Fuente cultural oficial que señala que en septiembre de 1513 Balboa divisó desde el istmo panameño un nuevo océano para el mundo europeo y lo bautizó como Mar del Sur."
+    },
+    {
+      "title": "Casa de América: La exploración del Pacífico: 500 años de historia",
+      "url": "https://www.casamerica.es/index.php/exposiciones/la-exploracion-del-pacifico-500-anos-de-historia",
+      "type": "official",
+      "relevance_en": "Documents the 2013-2014 fifth-centenary exhibition programme organized by Casa de América and the Museo Naval around Balboa's arrival at the Pacific.",
+      "relevance_es": "Documenta el programa expositivo del quinto centenario de 2013-2014 organizado por Casa de América y el Museo Naval en torno a la llegada de Balboa al Pacífico."
+    },
+    {
+      "title": "Castillo and Palacios, 'Vasco Núñez de Balboa: de la grandeza al olvido', TSN Transatlantic Studies Network",
+      "url": "https://revistas.uma.es/index.php/transatlantic-studies-network/article/view/19505",
+      "type": "academic",
+      "relevance_en": "Provides scholarly context for Balboa's reputation, his role as discoverer and adelantado of the Mar del Sur, and archival references in the Archivo General de Indias.",
+      "relevance_es": "Aporta contexto académico sobre la reputación de Balboa, su papel como descubridor y adelantado de la Mar del Sur, y referencias archivísticas del Archivo General de Indias."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station name as derived from Calle de Núñez de Balboa, not as a direct commemorative act by Metro independent of the street.",
+      "es": "Debe tratarse el nombre de la estación como derivado de la calle de Núñez de Balboa, no como un homenaje directo de Metro independiente de la vía."
+    },
+    {
+      "en": "Replace the categorical phrase 'false charges of treason' with a more cautious description: he was tried and executed for treason and usurpation under Pedrarias Dávila in a politically charged conflict.",
+      "es": "Conviene sustituir la frase categórica 'falsos cargos de traición' por una descripción más prudente: fue procesado y ejecutado por traición y usurpación bajo Pedrarias Dávila en un conflicto políticamente cargado."
+    },
+    {
+      "en": "Add transport chronology: the station opened on Line 5 in 1970, while the Line 9 interchange was added with the Avenida de América-Sainz de Baranda link in 1986.",
+      "es": "Debe añadirse la cronología de transporte: la estación abrió en la línea 5 en 1970, mientras que el enlace con la línea 9 se incorporó con el tramo Avenida de América-Sainz de Baranda en 1986."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal approval date for the street name Calle de Núñez de Balboa was not found; it may require consulting the Ayuntamiento de Madrid street-name historical file or Archivo de Villa records.",
+      "es": "No se ha localizado la fecha exacta de aprobación municipal del nombre de la calle de Núñez de Balboa; puede requerir consulta del expediente histórico del callejero municipal o del Archivo de Villa."
+    },
+    {
+      "en": "Some modern summaries introduce nuance about whether Balboa personally was the first European to see the Pacific or whether a companion first glimpsed it; the station etymology is unaffected, but a specialist historical display should verify this point against primary chronicles.",
+      "es": "Algunos resúmenes modernos introducen matices sobre si Balboa fue personalmente el primer europeo que vio el Pacífico o si lo divisó antes un acompañante; la etimología de la estación no cambia, pero un texto histórico especializado debería contrastar este punto con crónicas primarias."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_064/en/summary.short.md",
+      "summary": "content/stations/metro_064/en/summary.md",
+      "story": "content/stations/metro_064/en/story.md",
+      "confidence": "content/stations/metro_064/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_064/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_064/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_064/es/summary.short.md",
+      "summary": "content/stations/metro_064/es/summary.md",
+      "story": "content/stations/metro_064/es/story.md",
+      "confidence": "content/stations/metro_064/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_064/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_064/es/research-note.md"
+    }
+  }
+}

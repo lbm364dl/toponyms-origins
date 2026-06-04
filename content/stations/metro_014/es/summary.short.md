@@ -1,0 +1,1 @@
+La estación Alfonso XIII toma su nombre de la cercana avenida de Alfonso XIII y, en último término, del rey Alfonso XIII de España, el monarca que inauguró la primera línea del Metro de Madrid en 1919. La estación de la línea 4 se abrió mucho después, en 1973, dentro de la prolongación Diego de León-Alfonso XIII.

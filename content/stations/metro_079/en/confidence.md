@@ -1,0 +1,1 @@
+The descriptive origin is directly supported by Madrid City Council documentation, which states that Plaza Elíptica came from the plaza's ellipse shape. The 2017 official renaming is confirmed in BOAM, and transport sources confirm the station's current lines and the 1998 Line 11 date.

@@ -1,0 +1,122 @@
+{
+  "id": "metro_082",
+  "name": "La Poveda",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Poveda neighbourhood, a poplar-grove place-name",
+  "previous_names": "",
+  "naming_date": "1999-04-07",
+  "sources": [
+    {
+      "title": "CRTM zonal map: Metro La Poveda",
+      "url": "https://crtm.es/media/qddmqvyy/plano_zonal_metro_lapoveda.pdf",
+      "type": "official",
+      "relevance_en": "Official transport map locating the Metro station in La Poveda, in the municipality of Arganda del Rey.",
+      "relevance_es": "Plano oficial de transporte que sitúa la estación de Metro en La Poveda, dentro del término municipal de Arganda del Rey."
+    },
+    {
+      "title": "Line 9 reaches Arganda del Rey",
+      "url": "https://www.railwaygazette.com/news/line-9-reaches-arganda-del-rey/28250.article",
+      "type": "press",
+      "relevance_en": "Contemporary rail-industry report giving the 7 April 1999 inauguration of the Puerta de Arganda-Arganda del Rey extension and listing La Poveda as an intermediate station.",
+      "relevance_es": "Información ferroviaria contemporánea que da la inauguración del tramo Puerta de Arganda-Arganda del Rey el 7 de abril de 1999 e incluye La Poveda como estación intermedia."
+    },
+    {
+      "title": "Plan General de Ordenación Urbana de Arganda del Rey: Memoria de Información",
+      "url": "https://www.argandadelrey.es/wp-content/uploads/2023/03/DI.1-MEMORIA-DE-INFORMACION_ARGANDA-PGOU-AV_parte3.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document stating that the sugar factory installed in 1900 and its worker housing are the origin of the La Poveda population nucleus.",
+      "relevance_es": "Documento urbanístico municipal que afirma que la instalación de la fábrica azucarera en 1900 y las viviendas de sus trabajadores son el origen del núcleo de La Poveda."
+    },
+    {
+      "title": "Conmemoramos el 125 aniversario de La Poveda",
+      "url": "https://www.argandadelrey.es/noticias/arganda-conmemora-el-125-aniversario-de-la-poveda-y-anuncia-una-exposicion-para-el-verano-que-recorrera-la-historia-del-barrio/",
+      "type": "official",
+      "relevance_en": "Arganda town-council notice commemorating 13 January 1900 as the laying of the first stone of the La Poveda sugar factory.",
+      "relevance_es": "Noticia del Ayuntamiento de Arganda que conmemora el 13 de enero de 1900 como fecha de colocación de la primera piedra de la Azucarera de La Poveda."
+    },
+    {
+      "title": "120 años de historia de La Poveda: un barrio cohesionado con identidad propia",
+      "url": "https://www.diariodearganda.es/120-anos-historia-la-poveda/",
+      "type": "press",
+      "relevance_en": "Local historical article explaining that the area was known as Poveda because it was populated by poplars or white poplars, and describing the factory as the germ of the modern neighbourhood.",
+      "relevance_es": "Artículo histórico local que explica que la zona era conocida como Poveda por estar poblada de chopos o álamos, y describe la fábrica como germen del barrio moderno."
+    },
+    {
+      "title": "Toponimia de origen vegetal en la provincia de Segovia a partir de los datos del Catastro de Rústica",
+      "url": "https://www.catastro.hacienda.gob.es/documentos/publicaciones/ct/ct56/04-CATASTRO_56.pdf",
+      "type": "academic",
+      "relevance_en": "Toponymic study linking forms such as La Poveda, La Pobeda and El Pobo with poplar species Populus nigra and Populus alba and vernacular names alamo, chopo and pobo.",
+      "relevance_es": "Estudio toponímico que relaciona formas como La Poveda, La Pobeda y El Pobo con las especies Populus nigra y Populus alba y los nombres vernáculos álamo, chopo y pobo."
+    },
+    {
+      "title": "El tren de la azucarera Ciempozuelos-La Poveda. Un caso de arqueología industrial",
+      "url": "https://www.docutren.com/historiaferroviaria/Aranjuez2001/pdf/21.pdf",
+      "type": "academic",
+      "relevance_en": "Railway-history paper documenting the post-1898 sugar-beet context, the Azucarera de Madrid S.A. dates, the La Poveda factory and its industrial railway network.",
+      "relevance_es": "Estudio de historia ferroviaria que documenta el contexto remolachero posterior a 1898, las fechas de Azucarera de Madrid S.A., la fábrica de La Poveda y su red ferroviaria industrial."
+    },
+    {
+      "title": "Turismo en Arganda del Rey",
+      "url": "https://www.argandadelrey.es/la-ciudad/turismo/",
+      "type": "official",
+      "relevance_en": "Municipal tourism page documenting the Arganda train saying, its 30 July 1886 inauguration, the 1997 closure, and the surviving La Poveda-Laguna del Campillo historic section.",
+      "relevance_es": "Página municipal de turismo que documenta el dicho del tren de Arganda, su inauguración el 30 de julio de 1886, el cierre en 1997 y el tramo histórico conservado entre La Poveda y la Laguna del Campillo."
+    },
+    {
+      "title": "Caseta del Guarda de la Azucarera de La Poveda",
+      "url": "https://www.diariodearganda.es/azucarera-la-poveda-arganda/",
+      "type": "press",
+      "relevance_en": "Documents the rehabilitation of the surviving guard house as an interpretation point for the cultural and environmental heritage of La Poveda and the Jarama valley.",
+      "relevance_es": "Documenta la rehabilitación de la caseta del guarda conservada como punto de interpretación del patrimonio cultural y medioambiental de La Poveda y del valle del Jarama."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the name as a place-name rather than simply descriptive: Metro named the station after the La Poveda neighbourhood.",
+      "es": "Conviene clasificar el nombre como topónimo de lugar, no solo como descriptivo: Metro nombró la estación por el barrio de La Poveda."
+    },
+    {
+      "en": "The linguistic chain should be stated more carefully: Poveda is related to poplar names such as pobo and to collective poplar-grove formations, not derived 'via alameda' as if alameda were an intermediate form.",
+      "es": "La cadena lingüística debe formularse con más precisión: Poveda se relaciona con nombres del álamo como pobo y con formaciones colectivas de chopera, no deriva 'a través de alameda' como si alameda fuera una forma intermedia."
+    },
+    {
+      "en": "For the sugar-factory chronology, use 13 January 1900 for the first stone and note separately that Azucarera de Madrid S.A. was constituted on 28 October 1899 and began activity on 19 November 1900, according to the railway-history paper.",
+      "es": "Para la cronología de la azucarera, use el 13 de enero de 1900 para la primera piedra y distinga que Azucarera de Madrid S.A. se constituyó el 28 de octubre de 1899 e inició actividad el 19 de noviembre de 1900, según el estudio ferroviario."
+    },
+    {
+      "en": "The wine, cherry and Vinos de Madrid details are not necessary to explain this station name and should be treated as broader Arganda context rather than etymological evidence.",
+      "es": "Los datos sobre vino, cerezos y Vinos de Madrid no son necesarios para explicar el nombre de esta estación y deben tratarse como contexto general de Arganda, no como prueba etimológica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A stronger station-specific source would be an old municipal map, cadastral record or archival document showing La Poveda as a named paraje before the sugar factory.",
+      "es": "Una fuente más sólida y específica sería un mapa municipal antiguo, registro catastral o documento de archivo que muestre La Poveda como paraje antes de la azucarera."
+    },
+    {
+      "en": "The exact administrative moment when Metro or the concessionaire fixed the station name was not found beyond the 7 April 1999 opening of the Arganda extension.",
+      "es": "No se ha localizado el acto administrativo exacto por el que Metro o la concesionaria fijó el nombre de la estación, más allá de la inauguración de la prolongación a Arganda el 7 de abril de 1999."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_082/en/summary.short.md",
+      "summary": "content/stations/metro_082/en/summary.md",
+      "story": "content/stations/metro_082/en/story.md",
+      "confidence": "content/stations/metro_082/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_082/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_082/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_082/es/summary.short.md",
+      "summary": "content/stations/metro_082/es/summary.md",
+      "story": "content/stations/metro_082/es/story.md",
+      "confidence": "content/stations/metro_082/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_082/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_082/es/research-note.md"
+    }
+  }
+}

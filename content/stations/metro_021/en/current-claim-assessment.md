@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for Plaza de Alonso Martínez, which honors Manuel Alonso Martínez. However, the input overstates his personal authorship of the Civil Code and appears to give the number of bases incorrectly.

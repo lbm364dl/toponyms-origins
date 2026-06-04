@@ -1,0 +1,97 @@
+{
+  "id": "metro_008",
+  "name": "Embajadores",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Glorieta/Calle/Portillo de Embajadores, ultimately the traditional Campo de Embajadores",
+  "previous_names": "No former station name found. Related place/street names reported: Paseo Real de Embajadores; calle de la Dehesa de la Villa; Paseo Blanco for a later stretch; Manuel Jáimez for one prolongation from 1931 to 1941.",
+  "naming_date": "1936",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos: Embajadores, Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-embajadores.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro historical sheet documenting the station chronology, its location at Glorieta de Embajadores, the Portillo de Embajadores context, and the 1989 Cercanías station opening.",
+      "relevance_es": "Ficha histórica oficial de Metro que documenta la cronología de la estación, su ubicación en la Glorieta de Embajadores, el contexto del Portillo de Embajadores y la apertura de la estación de Cercanías en 1989."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 3 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-3-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Official regional transport page stating that the first Line 3 section, Embajadores-Lavapiés-Sol, opened in August 1936 and explaining the southward expansion toward Lavapiés and Embajadores.",
+      "relevance_es": "Página oficial regional de transporte que indica que el primer tramo de la línea 3, Embajadores-Lavapiés-Sol, se inauguró en agosto de 1936 y explica la expansión hacia Lavapiés y Embajadores."
+    },
+    {
+      "title": "Juana de José Prades, Teatro clásico en el Pavón, Anales del Instituto de Estudios Madrileños",
+      "url": "https://xn--institutoestudiosmadrileos-4rc.es/wp-content/uploads/2025/11/3009326.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article summarizing the traditional origin of Calle de Embajadores, naming the ambassadors and lodgings, noting variant chronicle versions, and citing Capmany, Quintana and Répide.",
+      "relevance_es": "Artículo académico que resume el origen tradicional de la calle de Embajadores, nombra a los embajadores y sus alojamientos, señala variantes cronísticas y cita a Capmany, Quintana y Répide."
+    },
+    {
+      "title": "Madripedia: Calle de Embajadores",
+      "url": "https://madripedia.wikis.cc/wiki/Calle_de_Embajadores",
+      "type": "reference",
+      "relevance_en": "Reference entry derived from María Isabel Gea’s Diccionario Enciclopédico de Madrid, giving the Campo de Embajadores explanation and related former street/stretch names.",
+      "relevance_es": "Entrada de referencia derivada del Diccionario Enciclopédico de Madrid de María Isabel Gea, que recoge la explicación del Campo de Embajadores y antiguos nombres de la calle o sus tramos."
+    },
+    {
+      "title": "Biblioteca Digital Hispánica: Topographia de la Villa de Madrid / Pedro Texeira, 1656",
+      "url": "https://bdh.bne.es/bnesearch/detalle/bdh0000061128",
+      "type": "archive",
+      "relevance_en": "BNE record for the 1656 Texeira map, a key cartographic witness for seventeenth-century Madrid and the early urban context of Embajadores.",
+      "relevance_es": "Registro de la BNE del plano de Texeira de 1656, testimonio cartográfico clave del Madrid del siglo XVII y del contexto urbano temprano de Embajadores."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Plan Integral de Barrio de Embajadores",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/1_Inversion_Territorial/03_Distritos/Centro/Embajadores/Embajadores.pdf",
+      "type": "official",
+      "relevance_en": "Municipal source for present-day Embajadores as a Centro district barrio and for broad historical context around Lavapiés and the neighborhood’s development.",
+      "relevance_es": "Fuente municipal sobre Embajadores como barrio actual del distrito Centro y sobre el contexto histórico general de Lavapiés y la configuración del barrio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the medieval ambassadors story as a well-established tradition, not as fully verified primary-source history.",
+      "es": "Conviene tratar la historia medieval de los embajadores como una tradición bien asentada, no como historia plenamente verificada en fuente primaria."
+    },
+    {
+      "en": "The station is most directly named after the Glorieta/Portillo/Calle de Embajadores, not only after Calle de Embajadores in isolation.",
+      "es": "La estación se llama de forma más directa por la Glorieta/Portillo/Calle de Embajadores, no solo por la calle de Embajadores de manera aislada."
+    },
+    {
+      "en": "Official transport sources differ on the exact Metro opening day, with Metro’s historical sheet giving 8 August 1936 and the Comunidad de Madrid page giving 9 August 1936.",
+      "es": "Las fuentes oficiales de transporte difieren en el día exacto de apertura del Metro: la ficha histórica de Metro indica el 8 de agosto de 1936 y la página de la Comunidad de Madrid el 9 de agosto de 1936."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Capmany y Montpalau, Origen histórico y etimológico de las calles de Madrid, p. 195, and Peñasco/Cambronero directly to confirm the exact wording and any date variants.",
+      "es": "Revisar directamente Capmany y Montpalau, Origen histórico y etimológico de las calles de Madrid, p. 195, y Peñasco/Cambronero para confirmar la redacción exacta y posibles variantes de fecha."
+    },
+    {
+      "en": "A fifteenth-century documentary source for the epidemic lodging episode was not located; the best current evidence is later toponymic and chronicle tradition.",
+      "es": "No se localizó una fuente documental del siglo XV para el episodio de alojamiento durante la epidemia; la mejor evidencia actual es la tradición toponímica y cronística posterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_008/en/summary.short.md",
+      "summary": "content/stations/metro_008/en/summary.md",
+      "story": "content/stations/metro_008/en/story.md",
+      "confidence": "content/stations/metro_008/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_008/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_008/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_008/es/summary.short.md",
+      "summary": "content/stations/metro_008/es/summary.md",
+      "story": "content/stations/metro_008/es/story.md",
+      "confidence": "content/stations/metro_008/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_008/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_008/es/research-note.md"
+    }
+  }
+}

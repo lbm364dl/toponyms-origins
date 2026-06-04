@@ -1,0 +1,1 @@
+El nombre de la estacion, su ubicacion, sus lineas y la cronologia de apertura estan respaldados por fuentes oficiales de transporte y archivo municipal, y la persona que hay detras del nombre esta confirmada por la Real Academia de la Historia. La confianza solo se matiza por la fecha exacta de denominacion de la calle y por los elementos legendarios del episodio de Tarifa.

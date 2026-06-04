@@ -1,0 +1,1 @@
+Ventas toma su nombre de la antigua zona de Las Ventas del Espíritu Santo, un paraje de ventas, merenderos y posadas junto al arroyo Abroñigal en la salida de Madrid. La plaza de toros hizo que esa forma abreviada quedara fijada en la memoria urbana.

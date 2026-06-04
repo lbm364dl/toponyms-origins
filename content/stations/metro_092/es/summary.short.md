@@ -1,0 +1,1 @@
+La estación de San Bernardo recibió el nombre de la antigua glorieta de San Bernardo, hoy glorieta de Ruiz Giménez, y de la cercana calle de San Bernardo. El nombre de la calle madrileña procede de un antiguo hospital y convento de San Bernardo, vinculado a san Bernardo de Claraval, no del célebre monasterio de las Bernardas de Alcalá de Henares.

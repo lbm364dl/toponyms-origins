@@ -1,0 +1,1 @@
+Estrecho is named for the local area around Bravo Murillo and Francos Rodríguez, already called El Estrecho in early twentieth-century sources. The best-supported explanation is a popular allusion to the Strait of Gibraltar: to go from Madrid/Cuatro Caminos toward Tetuán, one jokingly had to cross “the Strait.”

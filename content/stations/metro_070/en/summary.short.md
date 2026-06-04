@@ -1,0 +1,1 @@
+Méndez Álvaro is named for the street beside the interchange, Calle de Méndez Álvaro, which honors Francisco Méndez Álvaro (1806-1883), a leading Spanish physician, hygienist, medical journalist and former mayor of Madrid. The station name therefore preserves a nineteenth-century public-health figure through Madrid's street map.

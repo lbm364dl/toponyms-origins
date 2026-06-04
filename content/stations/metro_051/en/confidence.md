@@ -1,0 +1,1 @@
+The station's name origin is strongly supported by the station's location on or by Calle de Francos Rodríguez, by APM's statement that Madrid remembers José Francos Rodríguez with both a street and a Metro station, and by authoritative biographies identifying the honoree. Remaining uncertainty concerns biographical dates, not the etymology.

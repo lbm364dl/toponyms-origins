@@ -1,0 +1,1 @@
+El cambio de nombre y su motivo están confirmados directamente por la Comunidad de Madrid y por el Atlético de Madrid, mientras que el CRTM confirma el nombre actual de la estación y su correspondencia con la línea 7. Fuentes del Atlético, la UEFA y LALIGA corroboran la cronología del estadio y la referencia al histórico Stadium Metropolitano.

@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación remite a la avenida de Menéndez Pelayo, que conmemora a Marcelino Menéndez y Pelayo. Conviene corregir la geografía: la avenida discurre por el borde oriental, no occidental, del Retiro, y la estación se sitúa en el entorno de Pacífico, no en el barrio de Ibiza.

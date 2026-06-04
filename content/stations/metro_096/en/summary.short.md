@@ -1,0 +1,1 @@
+Acacias is named for the Paseo de las Acacias, the Madrid street and surrounding Arganzuela barrio whose name refers to acacia trees. The Line 5 station opened with the first Callao-Carabanchel section on 5 June 1968.

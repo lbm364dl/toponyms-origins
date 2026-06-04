@@ -1,0 +1,111 @@
+{
+  "id": "metro_035",
+  "name": "Islas Filipinas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Philippine Islands",
+  "previous_names": "No former station name found. Street context: an earlier stretch was called Lozoya; the later expanded street was Islas Filipinas before the official name Avenida de Filipinas from 1977, while Islas Filipinas remained in popular use.",
+  "naming_date": "12 February 1999",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 7 de Metro de Madrid. Tramo: Canal-Valdezarza",
+      "url": "https://www.comunidad.madrid/servicios/transporte/prolongacion-linea-7-metro-madrid-tramo-canal-valdezarza",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page confirming the Line 7 extension, its opening date of 12 February 1999, and the creation of Islas Filipinas as one of the new stations.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que confirma la ampliación de la línea 7, su puesta en servicio el 12 de febrero de 1999 y la creación de Islas Filipinas como una de las nuevas estaciones."
+    },
+    {
+      "title": "Islas Filipinas - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_145/?lang=en",
+      "type": "official",
+      "relevance_en": "Current transport authority station page confirming the station name, Line 7 service, accessibility, and interchange context.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma el nombre de la estación, el servicio de la línea 7, la accesibilidad y el contexto de conexiones."
+    },
+    {
+      "title": "Avenida de Filipinas - Madripedia, incorporating María Isabel Gea's Diccionario Enciclopédico de Madrid",
+      "url": "https://madripedia.wikis.cc/wiki/Avenida_de_Filipinas",
+      "type": "reference",
+      "relevance_en": "Provides the local street-name history: earlier Lozoya stretch, later Islas Filipinas name, official Avenida de Filipinas since 1977, and the Philippine Islands explanation.",
+      "relevance_es": "Aporta la historia local del nombre de la vía: tramo anterior llamado Lozoya, denominación posterior Islas Filipinas, nombre oficial avenida de Filipinas desde 1977 y explicación ligada a las islas Filipinas."
+    },
+    {
+      "title": "José Rizal Mercado - Patrimonio cultural y paisaje urbano de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Jose-Rizal-Mercado/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=2d28091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage page confirming the 1996 Rizal monument, its donation by the Philippine government, its connection to the centenary of Rizal’s death, and its model in Manila.",
+      "relevance_es": "Página municipal de patrimonio que confirma el monumento a Rizal de 1996, su donación por el gobierno filipino, su relación con el centenario de la muerte de Rizal y su modelo en Manila."
+    },
+    {
+      "title": "History of the Philippines - Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/history-of-Philippines",
+      "type": "reference",
+      "relevance_en": "Reference source stating that the Philippines takes its name from Philip II and summarizing the Spanish historical background.",
+      "relevance_es": "Fuente de referencia que indica que Filipinas toma su nombre de Felipe II y resume el contexto histórico español."
+    },
+    {
+      "title": "Philippines: The Spanish Period - Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Philippines/The-Spanish-period",
+      "type": "reference",
+      "relevance_en": "Confirms that the islands are named for Philip II and that Legazpi established the first permanent Spanish settlement in Cebu in 1565.",
+      "relevance_es": "Confirma que las islas llevan el nombre de Felipe II y que Legazpi estableció el primer asentamiento español permanente en Cebú en 1565."
+    },
+    {
+      "title": "De Málaga a las islas Filipinas: El viaje del explorador Ruy López de Villalobos entre 1542 y 1546",
+      "url": "https://www.revistas.uma.es/index.php/transatlantic-studies-network/article/view/14347",
+      "type": "academic",
+      "relevance_en": "Academic article on the Villalobos expedition, useful for the 1542-1546 chronology and for the statement that Villalobos left the name Filipinas to a nation.",
+      "relevance_es": "Artículo académico sobre la expedición de Villalobos, útil para la cronología de 1542-1546 y para la afirmación de que Villalobos legó el nombre Filipinas a una nación."
+    },
+    {
+      "title": "Treaty of Peace Between the United States and Spain; December 10, 1898 - Avalon Project",
+      "url": "https://avalon.law.yale.edu/19th_century/sp1898.asp",
+      "type": "archive",
+      "relevance_en": "Primary treaty text for the 1898 transfer of the Philippine Islands from Spain to the United States, supporting the end date of Spanish sovereignty.",
+      "relevance_es": "Texto primario del tratado de 1898 por el que las islas Filipinas pasaron de España a Estados Unidos, respaldando la fecha final de la soberanía española."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station preserves the form Islas Filipinas, while the adjacent road is officially Avenida de Filipinas; the street-name source says the official avenue name dates from 1977.",
+      "es": "Aclarar que la estación conserva la forma Islas Filipinas, mientras que la vía contigua se denomina oficialmente avenida de Filipinas; la fuente del callejero indica que el nombre oficial de la avenida data de 1977."
+    },
+    {
+      "en": "Clarify that the name Filipinas was first applied during the Villalobos expedition to islands encountered in 1543 and was later extended to the whole archipelago, rather than being a single immediate naming of the entire modern country.",
+      "es": "Aclarar que el nombre Filipinas se aplicó primero durante la expedición de Villalobos a islas encontradas en 1543 y después se extendió a todo el archipiélago, en lugar de ser una denominación inmediata de todo el país moderno."
+    },
+    {
+      "en": "Avoid repeating the street-entry claim that Magellan discovered the islands in 1522; standard chronologies place Magellan’s arrival in the Philippines in 1521, while Spanish colonization began with Legazpi’s settlement in Cebu in 1565.",
+      "es": "Evitar repetir la afirmación del callejero de que Magallanes descubrió las islas en 1522; las cronologías estándar sitúan la llegada de Magallanes a Filipinas en 1521, mientras que la colonización española comenzó con el asentamiento de Legazpi en Cebú en 1565."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or BOAM entry for the 1977 change to Avenida de Filipinas would strengthen the exact legal chronology of the street name.",
+      "es": "Un expediente municipal de rotulación o una entrada del BOAM sobre el cambio de 1977 a avenida de Filipinas reforzaría la cronología legal exacta del nombre de la vía."
+    },
+    {
+      "en": "A Metro de Madrid or Comunidad de Madrid naming-resolution document for the 1999 Line 7 extension could confirm whether the station name was chosen specifically for the older street form or simply for local recognizability.",
+      "es": "Un documento de Metro de Madrid o de la Comunidad de Madrid sobre la denominación de la ampliación de la línea 7 de 1999 podría confirmar si el nombre de la estación se eligió específicamente por la forma antigua de la vía o simplemente por reconocimiento local."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_035/en/summary.short.md",
+      "summary": "content/stations/metro_035/en/summary.md",
+      "story": "content/stations/metro_035/en/story.md",
+      "confidence": "content/stations/metro_035/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_035/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_035/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_035/es/summary.short.md",
+      "summary": "content/stations/metro_035/es/summary.md",
+      "story": "content/stations/metro_035/es/story.md",
+      "confidence": "content/stations/metro_035/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_035/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_035/es/research-note.md"
+    }
+  }
+}

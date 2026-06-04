@@ -1,0 +1,1 @@
+Sol station is named after Puerta del Sol, the square above it. The square's name preserves an older eastern postern or gate of Madrid's medieval wall, traditionally said to have been decorated with a sun.

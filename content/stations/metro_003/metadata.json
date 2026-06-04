@@ -1,0 +1,122 @@
+{
+  "id": "metro_003",
+  "name": "Tirso de Molina",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Tirso de Molina",
+  "previous_names": "Progreso (26 December 1921-10 July 1939)",
+  "naming_date": "10 July 1939",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid - Tirso de Molina",
+      "url": "https://museosmetromadrid.es/tirso-de-molina/",
+      "type": "official",
+      "relevance_en": "Metro de Madrid's museum page states that the station opened on 26 December 1921 under the name Progreso, following the square's name at the time, and describes its historic Antonio Palacios vestibule.",
+      "relevance_es": "La página museística de Metro de Madrid indica que la estación se inauguró el 26 de diciembre de 1921 con el nombre de Progreso, siguiendo la denominación de la plaza en aquel momento, y describe su vestíbulo histórico de Antonio Palacios."
+    },
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Tirso de Molina (PDF)",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-tirso-de-molina.pdf",
+      "type": "official",
+      "relevance_en": "This Metro museum PDF gives the station timeline: 1921 opening as Progreso, 1939 change to Tirso de Molina, and explains that Plaza del Progreso stood on the former Convento de la Merced site.",
+      "relevance_es": "Este PDF de Museos Metro ofrece la cronología de la estación: inauguración en 1921 como Progreso, cambio a Tirso de Molina en 1939, y explica que la plaza del Progreso se levantó sobre el antiguo solar del convento de la Merced."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12 (2025)",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "The metro chronology records the precise name change: on 10 July 1939, the Line 1 station Tirso de Molina replaced the former station name Progreso.",
+      "relevance_es": "La cronología del metro registra el cambio de nombre exacto: el 10 de julio de 1939, la estación de línea 1 Tirso de Molina sustituyó el nombre anterior Progreso."
+    },
+    {
+      "title": "PARES - Molina, Tirso de (1579-1648)",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/67483/imprimir",
+      "type": "official",
+      "relevance_en": "The Spanish Archives authority record identifies Tirso de Molina as the pseudonym of Fray Gabriel Téllez, gives dates and places, and summarizes his Mercedarian, literary and Madrid connections.",
+      "relevance_es": "El registro de autoridad de los Archivos Españoles identifica a Tirso de Molina como seudónimo de fray Gabriel Téllez, aporta fechas y lugares, y resume sus vínculos mercedarios, literarios y madrileños."
+    },
+    {
+      "title": "Real Academia de la Historia - Gabriel Téllez, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/43428-gabriel-tellez",
+      "type": "reference",
+      "relevance_en": "The RAH indexed biography identifies Gabriel Téllez as Tirso de Molina, a Madrid-born Mercedarian, preacher, chronicler and dramatist, and notes that older claims about his life contain errors and uncertainties.",
+      "relevance_es": "La biografía indexada por la RAH identifica a Gabriel Téllez como Tirso de Molina, mercedario madrileño, predicador, cronista y dramaturgo, y advierte de errores e incertidumbres en las noticias antiguas sobre su vida."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Tirso de Molina",
+      "url": "https://www.cervantesvirtual.com/portales/tirso_de_molina/?autor=tirso&conten=estudios",
+      "type": "academic",
+      "relevance_en": "The Cervantes Virtual portal presents Tirso's place in Golden Age theatre and highlights El burlador de Sevilla as the origin of the Don Juan myth.",
+      "relevance_es": "El portal de la Biblioteca Virtual Miguel de Cervantes presenta el lugar de Tirso en el teatro del Siglo de Oro y destaca El burlador de Sevilla como origen del mito de Don Juan."
+    },
+    {
+      "title": "memoriademadrid - Reforma de alineaciones de la botica Mercedarios Calzados, actual plaza de Tirso de Molina",
+      "url": "https://www.memoriademadrid.es/view/410327",
+      "type": "archive",
+      "relevance_en": "This municipal archive record documents the Mercedarian convent occupying the site of today's Plaza de Tirso de Molina in the eighteenth century, helping explain the local convent connection behind the name.",
+      "relevance_es": "Este registro del archivo municipal documenta que el convento de mercedarios ocupaba en el siglo XVIII el solar de la actual plaza de Tirso de Molina, lo que ayuda a explicar la conexión local conventual del nombre."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - DS_Monumentos: Tirso de Molina",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/DS-Monumentos/?page=71&vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=fb9e993ae322b610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "The municipal monuments listing records a statue of Tirso de Molina in Plaza de Tirso de Molina dated 1943, reflecting the postwar symbolic replacement in the square.",
+      "relevance_es": "El listado municipal de monumentos registra una estatua de Tirso de Molina en la plaza de Tirso de Molina fechada en 1943, reflejo de la sustitución simbólica de posguerra en la plaza."
+    },
+    {
+      "title": "A Text with No Name? The Rise and Fall of Tirso's Attribution of El burlador de Sevilla",
+      "url": "https://gredos.usal.es/handle/10366/157580?locale-attribute=en",
+      "type": "academic",
+      "relevance_en": "This academic record documents that the attribution of El burlador de Sevilla to Tirso has been questioned by modern scholarship, supporting cautious wording about Don Juan.",
+      "relevance_es": "Este registro académico documenta que la atribución de El burlador de Sevilla a Tirso ha sido cuestionada por la crítica moderna, lo que respalda una formulación prudente sobre Don Juan."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the documented station renaming date: Progreso became Tirso de Molina on 10 July 1939.",
+      "es": "Añadir la fecha documentada del cambio de nombre de la estación: Progreso pasó a llamarse Tirso de Molina el 10 de julio de 1939."
+    },
+    {
+      "en": "Clarify that the station was named through the square above it, not as an isolated metro-only honorific.",
+      "es": "Aclarar que la estación tomó el nombre a través de la plaza situada encima, no como un homenaje aislado propio solo del metro."
+    },
+    {
+      "en": "Qualify the convent statement: Tirso entered the Mercedarian order in 1600 and took the habit in Guadalajara; his connection with the Madrid Mercedarian convent is real but should not be simplified as the whole novitiate or profession occurring there.",
+      "es": "Matizar la afirmación sobre el convento: Tirso ingresó en la orden mercedaria en 1600 y tomó los hábitos en Guadalajara; su conexión con el convento mercedario de Madrid es real, pero no conviene simplificar diciendo que todo el noviciado o la profesión ocurrieron allí."
+    },
+    {
+      "en": "Mention that El burlador de Sevilla is traditionally attributed to Tirso and central to the Don Juan tradition, while its authorship has been contested in modern scholarship.",
+      "es": "Indicar que El burlador de Sevilla se atribuye tradicionalmente a Tirso y es central para la tradición de Don Juan, aunque su autoría ha sido discutida por la crítica moderna."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming decree or council record for the plaza's 1939 change would further strengthen the plaza-specific chronology.",
+      "es": "Un decreto municipal o acta del Ayuntamiento sobre el cambio de nombre de la plaza en 1939 reforzaría aún más la cronología específica de la plaza."
+    },
+    {
+      "en": "Specialist biographical works by Luis Vázquez Fernández or the RAH full DB-e entry should be checked for the most precise wording on Tirso's Madrid convent residence.",
+      "es": "Conviene revisar las obras biográficas especializadas de Luis Vázquez Fernández o la entrada completa del DB-e de la RAH para precisar mejor la residencia de Tirso en el convento madrileño."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_003/en/summary.short.md",
+      "summary": "content/stations/metro_003/en/summary.md",
+      "story": "content/stations/metro_003/en/story.md",
+      "confidence": "content/stations/metro_003/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_003/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_003/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_003/es/summary.short.md",
+      "summary": "content/stations/metro_003/es/summary.md",
+      "story": "content/stations/metro_003/es/story.md",
+      "confidence": "content/stations/metro_003/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_003/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_003/es/research-note.md"
+    }
+  }
+}

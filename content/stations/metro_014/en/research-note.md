@@ -1,0 +1,1 @@
+The station's etymology is a layered urban reference: the immediate source is very likely Avenida de Alfonso XIII, while the ultimate honoree is the king. This distinction matters because the current station opened in 1973, more than five decades after the royal inauguration of Metro, so the 1919 material explains why the name is meaningful but not the station's opening event.

@@ -1,0 +1,1 @@
+Bilbao station is named for the Glorieta de Bilbao, which inherited its name from the old Puerta de Bilbao. Madrid dedicated that gate in 1837 to the defenders and liberators of Bilbao after the city resisted Carlist sieges.

@@ -1,0 +1,1 @@
+The core claim is correct: the station is associated with Diego Antonio de León y Navarrete, a nineteenth-century Spanish cavalry officer. However, the safest wording is that the station takes its name from Calle de Diego de León, itself dedicated to him, and some dramatic details in the current row are traditional or imprecise.

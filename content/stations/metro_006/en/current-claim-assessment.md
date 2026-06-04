@@ -1,0 +1,1 @@
+The existing claim is substantially correct: Metro de Madrid directly links the station name to Agustín Argüelles, and municipal and regional sources support the main biographical points. The row should add that the station inherited the already established district/place name, centered on the Argüelles monument and area, rather than being an isolated honorific naming.

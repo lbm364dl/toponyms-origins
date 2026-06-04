@@ -1,0 +1,1 @@
+Ópera toma su nombre del Teatro Real, el gran teatro de ópera de Madrid junto a la plaza de Isabel II. El nombre se adoptó por primera vez en 1931, fue interrumpido por la denominación Fermín Galán durante la Guerra Civil y se recuperó en 1939.

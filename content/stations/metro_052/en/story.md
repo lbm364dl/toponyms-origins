@@ -1,0 +1,9 @@
+Carpetana is a station name borrowed from the street above it: Vía Carpetana. Metro de Madrid's historical sheet for the station states the chain plainly: the station is located on Vía Carpetana, and that avenue takes its name from the Carpetani, a people of ancient central Iberia.
+
+The Carpetani belonged to the historical geography of Carpetania, a pre-Roman region around the central Tagus basin. Spain's official cultural heritage thesaurus places Carpetania in the area of present-day Toledo, Madrid, Guadalajara, Cuenca and part of Ciudad Real, and notes that the Carpetani appear in classical sources around Hannibal's expedition of 221-220 BC.
+
+The station itself opened with the Oporto-Laguna section of Line 6 in 1983. Metro de Madrid describes it as part of the southwestern expansion of Line 6, a step toward the later completion of the circular line, which was finally closed on 10 May 1995.
+
+Carpetana has a second, very different layer of history underground. During accessibility and modernization works in 2008, excavations revealed a major Middle Miocene fossil site; by June 2009 more than 10,000 fossil remains had been recovered. The station now includes Metro's Yacimiento de Carpetana display, with reproductions, murals and reconstructions of animals such as mastodons, rhinoceroses, primitive horses, giant tortoises and large carnivores that lived here about 14 million years ago.
+
+The name origin is therefore secure, but two cautions matter. First, the fossils were not found during the original 1983 construction of the station, but during later works in 2008-2009. Second, while Metro's sheet calls the Carpetani a Celtic people, the official heritage thesaurus says their ethnic-linguistic affiliation is not currently clear, so public text should use the safer wording 'pre-Roman people' unless explaining the debate.

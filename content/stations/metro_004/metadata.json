@@ -1,0 +1,108 @@
+{
+  "id": "metro_004",
+  "name": "La Latina",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Beatriz Galindo, apodada La Latina",
+  "previous_names": "",
+  "naming_date": "1968-06-05",
+  "sources": [
+    {
+      "title": "La Latina | Turismo Madrid",
+      "url": "https://www.esmadrid.com/barrios-de-madrid/latina",
+      "type": "official",
+      "relevance_en": "Madrid's official tourism site states that La Latina owes its name to Beatriz Galindo and links the name to the Hospital de La Latina near Calle de Toledo and Plaza de la Cebada.",
+      "relevance_es": "El portal oficial de turismo de Madrid afirma que La Latina debe su nombre a Beatriz Galindo y relaciona el topónimo con el Hospital de La Latina junto a la calle de Toledo y la plaza de la Cebada."
+    },
+    {
+      "title": "Beatriz Galindo 'La Latina' - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Historicos/Monumentos-urbanos/Beatriz-Galindo-La-Latina-/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=0718091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "The City of Madrid heritage page connects the La Latina name with Beatriz Galindo's nickname and her residence and activities in the area.",
+      "relevance_es": "La página patrimonial del Ayuntamiento de Madrid conecta el nombre de La Latina con el sobrenombre de Beatriz Galindo y con su residencia y actividades en la zona."
+    },
+    {
+      "title": "Beatriz Galindo - Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/18843-beatriz-galindo",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry giving Galindo's dates, nickname, humanist/Latinist profile, Madrid foundations, and a cautious correction that her supposed teaching role was probably limited to Latin conversations with the queen.",
+      "relevance_es": "Ficha biográfica autorizada que ofrece fechas, sobrenombre, perfil de humanista y latinista, fundaciones madrileñas y una corrección prudente: su supuesto magisterio probablemente se limitó a conversaciones en latín con la reina."
+    },
+    {
+      "title": "Mujer y formación regia: Beatriz Galindo 'La Latina' - Centro de Información Documental de Archivos, Ministerio de Cultura",
+      "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/mujeres-pioneras/septiembre-beatriz-galindo.html",
+      "type": "official",
+      "relevance_en": "Official cultural-archive guide stating that documentation does not support the claim that Galindo was Queen Isabel's Latin preceptor, while confirming her privileged place among the queen's servants and the hospital foundation associated with Francisco Ramírez's will.",
+      "relevance_es": "Guía archivística oficial que indica que la documentación no respalda que Galindo fuera preceptora de latín de Isabel, aunque confirma su posición privilegiada entre las criadas de la reina y la fundación hospitalaria ligada al testamento de Francisco Ramírez."
+    },
+    {
+      "title": "Los problemas de interpretación de las fuentes documentales sobre Beatriz Galindo, La Latina",
+      "url": "https://revistas.usal.es/uno/index.php/Studia_Historica/article/download/shhmo202143271104/27135/101092",
+      "type": "academic",
+      "relevance_en": "Ana María Carabias Torres's 2021 academic article is the key recent source challenging the traditional teacher-of-queens narrative and explaining the documentary problems behind Galindo's later legend.",
+      "relevance_es": "El artículo académico de Ana María Carabias Torres de 2021 es una fuente clave reciente que cuestiona el relato tradicional de la maestra de reinas y explica los problemas documentales que originaron la leyenda posterior."
+    },
+    {
+      "title": "Licencias y privilegios para la Fundación del Hospital de la Latina por Beatriz Galindo - PARES",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/description/3986342",
+      "type": "archive",
+      "relevance_en": "Archival catalogue record for licences and privileges concerning the Hospital de La Latina foundation, useful for grounding the hospital link in documentary material.",
+      "relevance_es": "Registro archivístico de licencias y privilegios relativos a la fundación del Hospital de La Latina, útil para fundamentar el vínculo hospitalario en documentación."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Metro network chronology listing La Latina among the 11 stations of the Line 5 Callao-Carabanchel section inaugurated on 5 June 1968.",
+      "relevance_es": "Cronología de la red de Metro que enumera La Latina entre las 11 estaciones del tramo Callao-Carabanchel de la línea 5 inaugurado el 5 de junio de 1968."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station is in the Centro district, in the traditional La Latina area near Plaza de la Cebada; it should not be assigned to the modern Latina district.",
+      "es": "La estación está en el distrito Centro, en la zona tradicional de La Latina junto a la plaza de la Cebada; no debe asignarse al distrito moderno de Latina."
+    },
+    {
+      "en": "Replace the claim that Galindo lectured at the University of Salamanca before age twelve with a cautious statement that her early education and Latin training are partly uncertain.",
+      "es": "Conviene sustituir la afirmación de que Galindo impartió clases en la Universidad de Salamanca antes de los doce años por una formulación prudente sobre una formación temprana y conocimientos de latín parcialmente inciertos."
+    },
+    {
+      "en": "Avoid stating as fact that she taught five queens; recent scholarship disputes the formal teaching role and the RAH limits it to Latin conversations with Queen Isabel.",
+      "es": "Debe evitarse afirmar como hecho que enseñó a cinco reinas; la investigación reciente discute ese magisterio formal y la RAH lo limita a conversaciones en latín con la reina Isabel."
+    },
+    {
+      "en": "The Madrid institution tied to the name is the Hospital de La Latina or Hospital of the Conception, associated with Beatriz Galindo and Francisco Ramírez de Madrid, not a clearly documented 'Hospital de la Santa Cruz' founded in 1506.",
+      "es": "La institución madrileña vinculada al nombre es el Hospital de La Latina u Hospital de la Concepción, asociado a Beatriz Galindo y Francisco Ramírez de Madrid, no un 'Hospital de la Santa Cruz' fundado en 1506 claramente documentado."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary Metro or municipal naming act for the station name was not found; the 1968 opening chronology shows the station already listed as La Latina.",
+      "es": "No se localizó un acuerdo primario de Metro o municipal que asignara el nombre de la estación; la cronología de apertura de 1968 ya la enumera como La Latina."
+    },
+    {
+      "en": "The strongest documentary debate concerns Galindo's biography, not the station etymology; further review of the original household accounts and Bornos family documents would refine the biography.",
+      "es": "El debate documental más importante afecta a la biografía de Galindo, no a la etimología de la estación; revisar las cuentas originales de la Casa de la Reina y los documentos de la casa de Bornos permitiría afinar la biografía."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_004/en/summary.short.md",
+      "summary": "content/stations/metro_004/en/summary.md",
+      "story": "content/stations/metro_004/en/story.md",
+      "confidence": "content/stations/metro_004/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_004/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_004/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_004/es/summary.short.md",
+      "summary": "content/stations/metro_004/es/summary.md",
+      "story": "content/stations/metro_004/es/story.md",
+      "confidence": "content/stations/metro_004/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_004/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_004/es/research-note.md"
+    }
+  }
+}

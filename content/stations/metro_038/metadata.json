@@ -1,0 +1,111 @@
+{
+  "id": "metro_038",
+  "name": "Manuel Becerra",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Manuel Becerra y Bermúdez",
+  "previous_names": "The station appears to have kept the name Manuel Becerra; the square was formerly Glorieta de la Alegría and was Plaza de Roma between 1961 and 1980.",
+  "naming_date": "Station name in use at opening on 1924-06-14; square renamed Plaza de Manuel Becerra by municipal agreement in 1905.",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Estaciones con historia: Manuel Becerra",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/11/ficha-manuel-becerra.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical sheet showing the 1924 project documentation for the Ventas-Sol section and listing Manuel Becerra as one of the eight stations.",
+      "relevance_es": "Ficha histórica de Metro que muestra documentación del proyecto de 1924 del tramo Ventas-Sol y enumera Manuel Becerra entre sus ocho estaciones."
+    },
+    {
+      "title": "AURAs periféricas y Ejes del Plan Director para la Calidad del Paisaje Urbano de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/FWProjects/monumenta/ficheros/AURAs%20perif%C3%A9ricas%20y%20Ejes%20del%20Plan%20Director%20para%20la%20Calidad%20del%20Paisaje%20Urbano%20de%20Madrid.pdf",
+      "type": "official",
+      "relevance_en": "Madrid urban-history study documenting the square's older name, the 1905 municipal renaming for Manuel Becerra, the 1961 Plaza de Roma change, and recovery of the Manuel Becerra name in 1980.",
+      "relevance_es": "Estudio municipal de historia urbana que documenta el nombre anterior de la plaza, el cambio municipal de 1905 en honor de Manuel Becerra, el paso a plaza de Roma en 1961 y la recuperación del nombre Manuel Becerra en 1980."
+    },
+    {
+      "title": "Congreso de los Diputados - Histórico de diputados: Becerra Bermúdez, Manuel",
+      "url": "https://www.congreso.es/es/historico-diputados?_historicodiputados_mvcRenderCommandName=mostrarDetalle&_historicodiputados_nume=27234&p_p_id=historicodiputados&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "type": "official",
+      "relevance_en": "Parliamentary source for Becerra's public offices, including precise ministerial dates for Ultramar, Fomento and interim State duties.",
+      "relevance_es": "Fuente parlamentaria para los cargos públicos de Becerra, con fechas precisas de sus ministerios de Ultramar, Fomento y Estado interino."
+    },
+    {
+      "title": "Museo Nacional del Prado - Manuel Becerra, ministro de Ultramar",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/manuel-becerra-ministro-de-ultramar/716f09b5-f39f-48d9-a7a2-e8ced0f52aae",
+      "type": "official",
+      "relevance_en": "Identifies Manuel Becerra y Bermúdez as a mathematician and engineer, gives life dates, and summarizes his role as Minister of Ultramar and his abolitionist and religious-freedom positions in overseas policy.",
+      "relevance_es": "Identifica a Manuel Becerra y Bermúdez como matemático e ingeniero, aporta fechas vitales y resume su papel como ministro de Ultramar y sus posiciones abolicionistas y de libertad de culto en Ultramar."
+    },
+    {
+      "title": "Real Academia de Ciencias - Relación de académicos",
+      "url": "https://rac.es/ficheros/doc/00186.pdf",
+      "type": "reference",
+      "relevance_en": "Confirms Becerra as a professor of mathematics, member of scientific and literary societies, deputy, senator, Minister of Ultramar and Fomento, and academy member.",
+      "relevance_es": "Confirma a Becerra como profesor de Matemáticas, miembro de sociedades científicas y literarias, diputado, senador, ministro de Ultramar y Fomento, y académico."
+    },
+    {
+      "title": "UNED Museo Virtual de Historia de la Masonería - La crisis de la masonería española a fines del XIX",
+      "url": "https://www.uned.es/universidad/inicio/unidad/museo-virtual-historia-masoneria/sala-v-historia-de-la-masoneria-en-espana/la-crisis-de-la-masoneria-espa%C3%B1ola-a-fines-del-xix.html",
+      "type": "academic",
+      "relevance_en": "Academic museum page supporting the claim that Manuel Becerra was elected Grand Master of the Gran Oriente de España in 1884 and resigned in 1886.",
+      "relevance_es": "Página académica museística que respalda que Manuel Becerra fue elegido Gran Maestre del Gran Oriente de España en 1884 y dimitió en 1886."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronological rail reference documenting the Line 2 Ventas-Sol opening on 14 June 1924 with Manuel Becerra, and the Line 6 Cuatro Caminos-Pacífico opening on 10 October 1979 with Manuel Becerra.",
+      "relevance_es": "Referencia cronológica ferroviaria que documenta la apertura del tramo Ventas-Sol de la línea 2 el 14 de junio de 1924 con Manuel Becerra, y la apertura del tramo Cuatro Caminos-Pacífico de la línea 6 el 10 de octubre de 1979 con Manuel Becerra."
+    },
+    {
+      "title": "Diario de Madrid - El callejero de Madrid a golpe de clic",
+      "url": "https://diario.madrid.es/blog/2019/02/25/el-callejero-de-madrid-a-golpe-de-clic/",
+      "type": "official",
+      "relevance_en": "Municipal article confirming that Plaza de Manuel Becerra has had the historical names Glorieta de la Alegría and Plaza de Roma.",
+      "relevance_es": "Artículo municipal que confirma que la plaza de Manuel Becerra tuvo los nombres históricos de glorieta de la Alegría y plaza de Roma."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the short form 'Manuel Becerra Bermúdez' with the fuller documented form 'Manuel Becerra y Bermúdez'.",
+      "es": "Sustituir la forma abreviada «Manuel Becerra Bermúdez» por la forma documentada más completa «Manuel Becerra y Bermúdez»."
+    },
+    {
+      "en": "Do not state without qualification that he served as minister under Alfonso XII; the Congress chronology documents ministries in 1869-1870, 1872-1873 and 1888-1894, including the Serrano regency, Amadeo I, the First Republic and María Cristina's regency.",
+      "es": "No afirmar sin matiz que fue ministro bajo Alfonso XII; la cronología del Congreso documenta ministerios en 1869-1870, 1872-1873 y 1888-1894, incluyendo la regencia de Serrano, Amadeo I, la Primera República y la regencia de María Cristina."
+    },
+    {
+      "en": "Add the place-name chain: Glorieta de la Alegría, Plaza de Manuel Becerra from 1905, Plaza de Roma from 1961, and recovery of Manuel Becerra in 1980.",
+      "es": "Añadir la secuencia toponímica: Glorieta de la Alegría, plaza de Manuel Becerra desde 1905, plaza de Roma desde 1961 y recuperación de Manuel Becerra en 1980."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary municipal minute or gazette entry for the 1905 naming agreement should be inspected if the dataset needs archival-level proof of the exact day.",
+      "es": "Conviene revisar el acta municipal o boletín primario del acuerdo de 1905 si la base de datos necesita prueba archivística del día exacto."
+    },
+    {
+      "en": "The exact station signage policy during the Plaza de Roma period is best documented in Metro archives; secondary accounts say the station name did not change.",
+      "es": "La política exacta de rotulación de la estación durante el periodo de plaza de Roma se documentaría mejor en el archivo de Metro; las fuentes secundarias indican que el nombre de la estación no cambió."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_038/en/summary.short.md",
+      "summary": "content/stations/metro_038/en/summary.md",
+      "story": "content/stations/metro_038/en/story.md",
+      "confidence": "content/stations/metro_038/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_038/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_038/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_038/es/summary.short.md",
+      "summary": "content/stations/metro_038/es/summary.md",
+      "story": "content/stations/metro_038/es/story.md",
+      "confidence": "content/stations/metro_038/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_038/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_038/es/research-note.md"
+    }
+  }
+}

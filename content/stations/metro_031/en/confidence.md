@@ -1,0 +1,1 @@
+The naming target is supported by Metro heritage material, the location of the Court of Audit headquarters, and official institutional/municipal sources. Confidence is lower only for the exact status and duration of the name Hospicio, which is documented in project material but not verified as lasting until the 1940s.

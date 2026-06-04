@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for José Francos Rodríguez, through the Madrid street where it is located. Some biographical details need refinement, especially the APM presidency date, the Palacio de la Prensa chronology, and conflicting published death dates.

@@ -1,0 +1,9 @@
+La Poveda station takes its name from the La Poveda neighbourhood of Arganda del Rey, where the station stands on Metro Line 9. It is a place-name station: the metro did not create the name, but adopted the name of the local settlement it serves.
+
+The deeper origin of La Poveda points to vegetation. Local accounts describe the area, before its urban growth, as a place with poplars or white poplars, and explain Poveda as an alameda or poplar grove. That reading fits wider Spanish toponymy: studies of plant-based place names list La Poveda and La Pobeda among names associated with Populus alba and Populus nigra, the white and black poplars, also known in some areas as pobo.
+
+The present neighbourhood is much younger than the name suggests. Its decisive urban origin was the sugar factory of La Poveda: Arganda's planning documentation states that the factory installed in 1900, together with housing for its workers, gave rise to the population nucleus. The town council commemorated 13 January 1900 as the date of the laying of the first stone of the factory, marking 125 years in 2025.
+
+Railway history then reinforced La Poveda's identity. The old Arganda train, inaugurated on 30 July 1886 to link Madrid and Arganda and remembered in the saying that it "whistled more than it moved", later left a preserved railway landscape around La Poveda. Today the historic Tren de Arganda route uses the surviving section between La Poveda and the Laguna del Campillo area, close to the metro station and the railway museum.
+
+The metro station opened on 7 April 1999 with the extension of Line 9 from Puerta de Arganda to Arganda del Rey. There is no evidence of a former metro name. The best-supported explanation is therefore layered: Metro named the station after the neighbourhood; the neighbourhood preserves an older poplar-grove toponym; and the modern settlement took shape around the sugar factory and railway infrastructure.

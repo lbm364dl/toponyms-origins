@@ -1,0 +1,1 @@
+Multiple independent sources support the direct place-name origin: official and municipal pages identify the complex, its architects and chronology, while Renfe and transport-oriented sources identify the station as the interchange serving Nuevos Ministerios. No credible alternative etymology was found.

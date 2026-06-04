@@ -1,0 +1,1 @@
+The immediate naming chain is strong: the station is at Glorieta de Embajadores and transport sources document the station there from the opening of Line 3. The older explanation is widely repeated in Madrid toponymy works and summarized in an academic article, but it relies on later chronicles with variant details and a noted bibliographic uncertainty around Capmany’s source.

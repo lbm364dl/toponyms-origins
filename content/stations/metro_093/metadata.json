@@ -1,0 +1,104 @@
+{
+  "id": "metro_093",
+  "name": "Canal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Canal de Isabel II",
+  "previous_names": "",
+  "naming_date": "1998-10-16",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 7 de Metro de Madrid. Tramo: Gregorio Marañón-Canal",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-gregorio-maranon-canal",
+      "type": "official",
+      "relevance_en": "Confirms the Canal station was put into service on 16 October 1998, connected Line 7 with Line 2, was created between Quevedo and Cuatro Caminos on Line 2, and served nearby Canal de Isabel II facilities.",
+      "relevance_es": "Confirma que la estación de Canal se puso en servicio el 16 de octubre de 1998, conectó la línea 7 con la línea 2, se creó entre Quevedo y Cuatro Caminos en la línea 2 y daba servicio a instalaciones cercanas del Canal de Isabel II."
+    },
+    {
+      "title": "Gaceta de Madrid, núm. 6185, 20 de junio de 1851",
+      "url": "https://www.boe.es/gazeta/dias/1851/06/20/pdfs/GMD-1851-6185.pdf",
+      "type": "archive",
+      "relevance_en": "Primary publication of the royal decree of 18 June 1851 ordering the Lozoya-derived canal works for Madrid and explicitly naming the canal 'Canal de Isabel II'.",
+      "relevance_es": "Publicación primaria del real decreto de 18 de junio de 1851 que ordena las obras del canal derivado del Lozoya para Madrid y fija expresamente el nombre 'Canal de Isabel II'."
+    },
+    {
+      "title": "Algunos hitos en la historia de Canal de Isabel II",
+      "url": "https://www.fundacioncanal.com/somosagua/canal-de-isabel-ii/algunos-hitos-en-la-historia-de-canal-de-isabel-ii/",
+      "type": "official",
+      "relevance_en": "Summarizes official Canal milestones, including the 18 June 1851 decree, the first stone at Pontón de la Oliva, and the arrival of the waters in Madrid on 24 June 1858.",
+      "relevance_es": "Resume hitos oficiales del Canal, incluido el decreto de 18 de junio de 1851, la primera piedra en el Pontón de la Oliva y la llegada de las aguas a Madrid el 24 de junio de 1858."
+    },
+    {
+      "title": "Historia del Canal de Isabel II",
+      "url": "https://www.fundacioncanal.com/historia-canal-de-isabel-ii/pdf/HISTORIA%20DEL%20CANAL%20DE%20ISABEL%20II_LW.pdf",
+      "type": "book",
+      "relevance_en": "Official historical monograph by Rosario Martínez Vázquez de Parga; provides detailed context on the 1851 decree, the construction of the Canal, the 1858 arrival of the waters, and the later Third Reservoir history.",
+      "relevance_es": "Monografía histórica oficial de Rosario Martínez Vázquez de Parga; aporta contexto detallado sobre el decreto de 1851, la construcción del Canal, la llegada de las aguas en 1858 y la historia posterior del Tercer Depósito."
+    },
+    {
+      "title": "Tercer depósito del Canal de Isabel II",
+      "url": "https://fcoam.eu/guia/F2/F2.7C.htm",
+      "type": "reference",
+      "relevance_en": "Architecture guide supported by COAM, Madrid City Council and Comunidad de Madrid; gives the Third Reservoir chronology, including excavation in 1893-1897, Ribera's 1903-1905 phase, the 1905 collapse, and the 1907-1915 completion phase.",
+      "relevance_es": "Guía de arquitectura respaldada por COAM, Ayuntamiento de Madrid y Comunidad de Madrid; ofrece la cronología del Tercer Depósito, incluida la excavación de 1893-1897, la fase de Ribera de 1903-1905, el hundimiento de 1905 y la fase de finalización de 1907-1915."
+    },
+    {
+      "title": "Fuente del río Lozoya - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Monumentos-urbanos/Fuente-del-rio-Lozoya/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=c598091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage page linking the first reservoir and Lozoya fountain to the Canal project, its engineers, the 1851-1858 works and the 24 June 1858 inauguration.",
+      "relevance_es": "Página patrimonial municipal de Madrid que relaciona el primer depósito y la fuente del Lozoya con el proyecto del Canal, sus ingenieros, las obras de 1851-1858 y la inauguración del 24 de junio de 1858."
+    },
+    {
+      "title": "Celebramos el 170 aniversario de la creación de Canal de Isabel II",
+      "url": "https://www.comunidad.madrid/noticias/2021/06/26/celebramos-170-aniversario-creacion-canal-isabel-ii",
+      "type": "official",
+      "relevance_en": "Community of Madrid source confirming the modern scale of Canal de Isabel II's service and infrastructure in the region.",
+      "relevance_es": "Fuente de la Comunidad de Madrid que confirma la escala moderna del servicio e infraestructuras del Canal de Isabel II en la región."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace Wikipedia as the main evidence with official transport documentation, the 1851 Gaceta de Madrid decree, and Canal/Fundacion Canal historical sources.",
+      "es": "Sustituir Wikipedia como prueba principal por documentación oficial de transporte, el decreto de la Gaceta de Madrid de 1851 y fuentes históricas del Canal/Fundación Canal."
+    },
+    {
+      "en": "Nuance the Third Reservoir statement: the final 1907-1915 phase is real, but excavation and earlier works began in the 1890s and the 1905 collapse of Ribera's reinforced-concrete roof is a major part of its history.",
+      "es": "Matizar la afirmación sobre el Tercer Depósito: la fase final de 1907-1915 es real, pero la excavación y trabajos previos empezaron en la década de 1890 y el hundimiento de 1905 de la cubierta de hormigón armado de Ribera es una parte esencial de su historia."
+    },
+    {
+      "en": "The inspected authoritative sources did not verify the specific 'more than 1,500 columns' and 'subterranean cathedral' wording, so it should be used cautiously or sourced separately.",
+      "es": "Las fuentes autorizadas inspeccionadas no verificaron específicamente la formulación de 'más de 1.500 columnas' ni la comparación con una 'catedral subterránea', por lo que debería usarse con cautela o documentarse aparte."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid internal naming record or signage file could confirm whether the name was formally assigned before or exactly on the public opening date of 16 October 1998.",
+      "es": "Un expediente interno de denominación o señalética de Metro de Madrid podría confirmar si el nombre se asignó formalmente antes o exactamente en la fecha de apertura al público, el 16 de octubre de 1998."
+    },
+    {
+      "en": "If the public display wants to keep the '1,500 columns' detail, a technical plan, heritage inventory or Canal publication should be inspected to verify the exact number.",
+      "es": "Si el texto público quiere mantener el dato de las '1.500 columnas', debería revisarse un plano técnico, inventario patrimonial o publicación del Canal que verifique la cifra exacta."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_093/en/summary.short.md",
+      "summary": "content/stations/metro_093/en/summary.md",
+      "story": "content/stations/metro_093/en/story.md",
+      "confidence": "content/stations/metro_093/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_093/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_093/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_093/es/summary.short.md",
+      "summary": "content/stations/metro_093/es/summary.md",
+      "story": "content/stations/metro_093/es/story.md",
+      "confidence": "content/stations/metro_093/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_093/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_093/es/research-note.md"
+    }
+  }
+}

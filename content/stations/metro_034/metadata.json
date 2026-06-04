@@ -1,0 +1,97 @@
+{
+  "id": "metro_034",
+  "name": "Quevedo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Glorieta de Quevedo / Francisco de Quevedo y Villegas",
+  "previous_names": "No former station name found; the underlying place is the Glorieta de Quevedo, named for the writer by the mid-nineteenth century.",
+  "naming_date": "1925-10-21 for the station opening under the name Quevedo; the square name is described by Metro de Madrid as mid-nineteenth century.",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Huellas del pasado: Quevedo",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-quevedo.pdf",
+      "type": "official",
+      "relevance_en": "Directly states that the station name comes from the Glorieta de Quevedo, gives the 21 October 1925 opening, explains that the square received the writer's name in the mid-nineteenth century, and notes the 1929 extension to Cuatro Caminos.",
+      "relevance_es": "Afirma directamente que el nombre de la estación procede de la glorieta de Quevedo, da la inauguración del 21 de octubre de 1925, explica que la plaza recibió el nombre del escritor a mediados del siglo XIX y recoge la prolongación de 1929 a Cuatro Caminos."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 2 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-2-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides official transport chronology for Line 2, including the 1924 first section, the continuation to Quevedo in October 1925, and the Quevedo-Cuatro Caminos section entering service on 10 September 1929.",
+      "relevance_es": "Aporta cronología oficial de transporte para la línea 2, incluido el primer tramo de 1924, la continuación hasta Quevedo en octubre de 1925 y la entrada en servicio del tramo Quevedo-Cuatro Caminos el 10 de septiembre de 1929."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Francisco de Quevedo y Villegas",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Francisco-de-Quevedo-y-Villegas/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=6008471416dc4510471416dc45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record for the Quevedo monument; confirms its dedication to Francisco de Quevedo y Villegas, its 1902 date, its sculptor Agustín Querol, and its 1963 move to the writer's glorieta.",
+      "relevance_es": "Ficha municipal de patrimonio del monumento a Quevedo; confirma su dedicatoria a Francisco de Quevedo y Villegas, la fecha de 1902, el escultor Agustín Querol y su traslado en 1963 a la glorieta dedicada al escritor."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Francisco de Quevedo",
+      "url": "https://www.cervantesvirtual.com/portales/francisco_de_quevedo/",
+      "type": "academic",
+      "relevance_en": "Author portal directed by Ignacio Arellano that identifies Quevedo as a Spanish Golden Age writer and gives the basic Madrid 1580-Villanueva de los Infantes 1645 frame.",
+      "relevance_es": "Portal de autor dirigido por Ignacio Arellano que identifica a Quevedo como escritor español del Siglo de Oro y da el marco básico Madrid 1580-Villanueva de los Infantes 1645."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Vida y obra de Francisco de Quevedo, Ignacio Arellano",
+      "url": "https://www.cervantesvirtual.com/portales/francisco_de_quevedo/vida_y_obra/",
+      "type": "academic",
+      "relevance_en": "Specialist biographical account used for Quevedo's birth, education, literary context, rivalries, imprisonment from 1639 to 1643, death in 1645, and the caution that the reasons for imprisonment are not fully clear.",
+      "relevance_es": "Estudio biográfico especializado usado para el nacimiento, formación, contexto literario, enemistades, prisión de 1639 a 1643, muerte en 1645 y la cautela de que las razones de la prisión no están del todo aclaradas."
+    },
+    {
+      "title": "Casa Museo Lope de Vega - Casa de Góngora y Quevedo",
+      "url": "https://casamuseolopedevega.org/es/madrid-de-lope-2/el-madrid-de-lope/casa-de-gongora-y-quevedo",
+      "type": "official",
+      "relevance_en": "Useful context for the Quevedo-Góngora house anecdote; it supports that the story is part of Madrid literary memory but is secondary to the station etymology.",
+      "relevance_es": "Contexto útil sobre la anécdota de la casa de Góngora y Quevedo; respalda que la historia forma parte de la memoria literaria madrileña, aunque es secundaria para la etimología de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station was not named directly in isolation for Quevedo; it was named after the Glorieta de Quevedo above it, which honors the writer.",
+      "es": "La estación no fue bautizada directamente de forma aislada por Quevedo; tomó el nombre de la glorieta de Quevedo situada encima, que homenajea al escritor."
+    },
+    {
+      "en": "The Pacheco de Narváez hat-strike story should be treated as anecdotal and not as a verified etymological fact.",
+      "es": "La historia del golpe en el sombrero de Pacheco de Narváez debe tratarse como anecdótica y no como un hecho etimológico verificado."
+    },
+    {
+      "en": "Quevedo was imprisoned from 1639 until his release in 1643 and died in 1645; the causes of that imprisonment are described by specialist scholarship as not fully clarified.",
+      "es": "Quevedo estuvo preso desde 1639 hasta su liberación en 1643 y murió en 1645; la investigación especializada describe las causas de esa prisión como no del todo aclaradas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal nomenclature file or nineteenth-century street-name act would be the strongest source for the exact date when the Glorieta de Quevedo received its name.",
+      "es": "Un expediente municipal de nomenclátor o un acuerdo decimonónico de rotulación sería la fuente más fuerte para fechar con exactitud cuándo recibió su nombre la glorieta de Quevedo."
+    },
+    {
+      "en": "The famous anecdotes about Quevedo's duels and rivalries could be expanded only after checking their early textual sources; they are not needed to verify the station name.",
+      "es": "Las anécdotas famosas sobre los duelos y enemistades de Quevedo solo deberían ampliarse tras comprobar sus fuentes textuales tempranas; no son necesarias para verificar el nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_034/en/summary.short.md",
+      "summary": "content/stations/metro_034/en/summary.md",
+      "story": "content/stations/metro_034/en/story.md",
+      "confidence": "content/stations/metro_034/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_034/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_034/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_034/es/summary.short.md",
+      "summary": "content/stations/metro_034/es/summary.md",
+      "story": "content/stations/metro_034/es/story.md",
+      "confidence": "content/stations/metro_034/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_034/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_034/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "id": "metro_018",
+  "name": "Príncipe Pío",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Francisco Pío de Saboya y Moura",
+  "previous_names": "Norte; Estación del Norte; Ópera-Norte for the Metro Ramal terminus before the 1994 reopening",
+  "naming_date": "1994-12-23",
+  "sources": [
+    {
+      "title": "Real Academia de la Historia - Correspondencia con la Historia: Príncipe Pío",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "reference",
+      "relevance_en": "The RAH/Metro biographical index explicitly maps the station name Príncipe Pío to Francisco Pío Saboya y Moura.",
+      "relevance_es": "El índice biográfico RAH/Metro vincula explícitamente la estación Príncipe Pío con Francisco Pío Saboya y Moura."
+    },
+    {
+      "title": "Real Academia de la Historia - Francisco Pío Saboya y Moura",
+      "url": "https://historia-hispanica.rah.es/biografias/40407-francisco-pio-saboya-y-moura",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical record for Francisco Pío Saboya y Moura; useful for identifying the historical person behind the toponym.",
+      "relevance_es": "Ficha biográfica autorizada de Francisco Pío Saboya y Moura; útil para identificar al personaje histórico que hay tras el topónimo."
+    },
+    {
+      "title": "Galería de las Colecciones Reales - Vista de Madrid",
+      "url": "https://www.galeriadelascoleccionesreales.es/obra-de-arte/vista-de-madrid/210cae0a-0224-490b-8dd4-d1fe3fd65609",
+      "type": "official",
+      "relevance_en": "Patrimonio Nacional identifies a circa-1721 Madrid view as connected with the Príncipe Pío possession and states that it belonged to Francisco Pío de Saboya y Moura (1672-1723), Marquess of Castel-Rodrigo and Prince of San Gregorio.",
+      "relevance_es": "Patrimonio Nacional identifica una vista madrileña hacia 1721 con la posesión del Príncipe Pío e indica que pertenecía a Francisco Pío de Saboya y Moura (1672-1723), marqués de Castel-Rodrigo y príncipe de San Gregorio."
+    },
+    {
+      "title": "Servimedia - Mañana entra en servicio un nuevo ramal de Metro que une Ópera con Príncipe Pío",
+      "url": "https://www.servimedia.es/noticias/madrid-manana-entra-servicio-nuevo-ramal-metro-une-opera-principe-pi/1410863361",
+      "type": "press",
+      "relevance_en": "Contemporary 22 December 1994 report stating that the Cercanías station of Norte would from then on be called Príncipe Pío and would be made compatible with Metro lines 6 and 10.",
+      "relevance_es": "Noticia contemporánea del 22 de diciembre de 1994 que afirma que la estación de cercanías de Norte pasaría a llamarse Príncipe Pío y se adaptaría al paso de las líneas 6 y 10 de Metro."
+    },
+    {
+      "title": "Comunidad de Madrid - Variante de la Línea 10 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/variante-linea-10-metro-madrid",
+      "type": "official",
+      "relevance_en": "Explains the Príncipe Pío interchange project, its connection with Metro lines 6 and 10, the Ramal Ópera-Norte, and the December 1996 Line 10 variant.",
+      "relevance_es": "Explica el proyecto del intercambiador de Príncipe Pío, su conexión con las líneas 6 y 10, el Ramal Ópera-Norte y la variante de la línea 10 puesta en servicio en diciembre de 1996."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Príncipe Pío",
+      "url": "https://crtm.es/media/108566/90_18_es_articulo_principepio.pdf",
+      "type": "official",
+      "relevance_en": "Regional transport publication stating that the interchange was built under the old Príncipe Pío possession and the passenger yard of the former Estación del Norte; it also gives the 1861 and 1882 railway chronology.",
+      "relevance_es": "Publicación regional de transporte que sitúa el intercambiador bajo la antigua posesión del Príncipe Pío y el patio de viajeros de la Estación del Norte; también aporta la cronología ferroviaria de 1861 y 1882."
+    },
+    {
+      "title": "Renfe - Estación de Príncipe Pio",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-principe-pio",
+      "type": "official",
+      "relevance_en": "Current Renfe station page identifying Príncipe Pío as an intermodal transport hub with Cercanías C1, C7 and C10 and Metro L6 and L10 connections.",
+      "relevance_es": "Página actual de Renfe que identifica Príncipe Pío como cambiador intermodal con conexiones de Cercanías C1, C7 y C10 y Metro L6 y L10."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Fusilamientos Montaña Príncipe Pío",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Monumentos-urbanos/Fusilamientos-Montana-Principe-Pio/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=e0a8091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record for the Florida cemetery plaque, documenting the burial of forty-three victims shot by French troops by the walls of the Montaña del Príncipe Pío.",
+      "relevance_es": "Ficha municipal de patrimonio sobre la lápida del cementerio de la Florida, que documenta el enterramiento de cuarenta y tres víctimas fusiladas por tropas francesas junto a las tapias de la Montaña del Príncipe Pío."
+    },
+    {
+      "title": "Museo Nacional del Prado - 3 de mayo de 1808 en Madrid: los fusilamientos de patriotas madrileños",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/3-de-mayo-de-1808-en-madrid-los-fusilamientos-de/f0f52ca5-546a-44c4-8da0-f3c2603340b5",
+      "type": "official",
+      "relevance_en": "Prado source connecting Goya's 3 May painting with executions at several Madrid sites, including the Montaña del Príncipe Pío at about 4 a.m. on 3 May 1808.",
+      "relevance_es": "Fuente del Prado que relaciona el cuadro de Goya sobre el 3 de mayo con ejecuciones en varios puntos de Madrid, incluida la Montaña del Príncipe Pío hacia las cuatro de la madrugada del 3 de mayo de 1808."
+    },
+    {
+      "title": "memoriademadrid - Pabellón de la Exposición de Agricultura en la Montaña del Príncipe Pío, 1857",
+      "url": "https://www.memoriademadrid.es/view/438879/pabellon-de-la-exposicion-de-agricultura-en-la-montana-del-principe-pio-1857",
+      "type": "archive",
+      "relevance_en": "Municipal archive object showing the Montaña del Príncipe Pío as a recognized place name by 1857 and describing later transformation by the Northern Railway, the Cuartel de la Montaña and Argüelles urbanization.",
+      "relevance_es": "Objeto del archivo municipal que muestra la Montaña del Príncipe Pío como topónimo reconocido en 1857 y describe su transformación posterior por el ferrocarril del Norte, el Cuartel de la Montaña y la urbanización de Argüelles."
+    },
+    {
+      "title": "PARES - Persona: Pío de Saboya Moura, Francisco",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/49432",
+      "type": "archive",
+      "relevance_en": "Spanish archival authority record for Francisco Pío de Saboya Moura, identifying him with aristocratic titles including Prince of San Gregorio and death in 1723; direct access may be rate-limited.",
+      "relevance_es": "Registro de autoridad archivístico español de Francisco Pío de Saboya Moura, que lo identifica con títulos nobiliarios como príncipe de San Gregorio y fallecimiento en 1723; el acceso directo puede estar limitado por tasa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct Francisco Pío de Saboya y Moura's dates from 1659-1726 to 1672-1723, with death in Madrid on 15 September 1723 commonly given.",
+      "es": "Corregir las fechas de Francisco Pío de Saboya y Moura de 1659-1726 a 1672-1723, con fallecimiento en Madrid el 15 de septiembre de 1723 como dato habitual."
+    },
+    {
+      "en": "Clarify that the station name comes immediately from the local toponym/old estate, not directly from a newly created 1994 commemorative dedication to the person.",
+      "es": "Aclarar que el nombre de la estación procede de forma inmediata del topónimo local y de la antigua posesión, no directamente de una dedicatoria conmemorativa creada en 1994 al personaje."
+    },
+    {
+      "en": "The 1808 executions should be described carefully: municipal heritage records identify forty-three victims buried at the Florida cemetery, while executions also occurred at several Madrid locations.",
+      "es": "Los fusilamientos de 1808 deben describirse con precisión: la ficha municipal identifica cuarenta y tres víctimas enterradas en el cementerio de la Florida, mientras que también hubo ejecuciones en otros puntos de Madrid."
+    },
+    {
+      "en": "For current service metadata, Renfe lists C1, C7 and C10 connections, while the input line field omits C1 and Metro's Ramal even though the station functions with that interchange context.",
+      "es": "Para los metadatos de servicio actuales, Renfe indica conexiones C1, C7 y C10, mientras que el campo de líneas de entrada omite la C1 y el Ramal de Metro aunque la estación funciona en ese contexto de intercambio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro or regional resolution naming the station Príncipe Pío in 1994 was not located; contemporary press and Servimedia reporting document the change operationally.",
+      "es": "No se localizó una resolución formal de Metro o de la Comunidad que nombrara la estación Príncipe Pío en 1994; la prensa contemporánea y Servimedia documentan el cambio de forma operativa."
+    },
+    {
+      "en": "Some art-historical discussion questions whether Goya's painted setting is a literal topographic view of the Montaña del Príncipe Pío, so public text should say the painting remembers or is titled for the event rather than treating every visual detail as documentary.",
+      "es": "Parte de la discusión histórico-artística cuestiona si el escenario pintado por Goya es una vista topográfica literal de la Montaña del Príncipe Pío, por lo que el texto público debe decir que el cuadro recuerda o se titula por el suceso, no que todos sus detalles visuales sean documentales."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_018/en/summary.short.md",
+      "summary": "content/stations/metro_018/en/summary.md",
+      "story": "content/stations/metro_018/en/story.md",
+      "confidence": "content/stations/metro_018/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_018/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_018/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_018/es/summary.short.md",
+      "summary": "content/stations/metro_018/es/summary.md",
+      "story": "content/stations/metro_018/es/story.md",
+      "confidence": "content/stations/metro_018/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_018/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_018/es/research-note.md"
+    }
+  }
+}

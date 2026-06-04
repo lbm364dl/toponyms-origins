@@ -1,0 +1,111 @@
+{
+  "id": "metro_098",
+  "name": "Conde de Casal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Manuel Escrivá de Romaní y de la Quintana, XII conde de Casal",
+  "previous_names": "Station: no former station name found. Place: the 1954 naming replaced the unofficial Plaza del Marqués de Cerralbo.",
+  "naming_date": "1979-10-11 for the Metro station opening/name in service; Plaza del Conde de Casal assigned 1954-09-29.",
+  "sources": [
+    {
+      "title": "Callejero oficial del Ayuntamiento de Madrid - Relación de viales con evolución histórica",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid/resource/213605-2-callejero-oficial-madrid-csv/download/213605-2-callejero-oficial-madrid-csv.csv",
+      "type": "official",
+      "relevance_en": "Official Madrid street data lists Plaza del Conde de Casal with street code 205000 and an active date of 29/09/1954.",
+      "relevance_es": "Los datos oficiales del callejero de Madrid registran la Plaza del Conde de Casal con código de vía 205000 y fecha de alta 29/09/1954."
+    },
+    {
+      "title": "La línea 6 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the first Line 6 section, Cuatro Caminos-Pacífico, opened on 11 October 1979.",
+      "relevance_es": "Confirma que el primer tramo de la línea 6, Cuatro Caminos-Pacífico, se inauguró el 11 de octubre de 1979."
+    },
+    {
+      "title": "Conde de Casal - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_113.aspx",
+      "type": "official",
+      "relevance_en": "Places the current Metro station at Plaza del Conde de Casal and Calle del Doctor Esquerdo and confirms its transport context.",
+      "relevance_es": "Sitúa la estación actual en la plaza del Conde de Casal y la calle del Doctor Esquerdo, y confirma su contexto de transporte."
+    },
+    {
+      "title": "Manuel Escrivá de Romaní y de la Quintana - Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/14690-manuel-escriva-de-romani-y-de-la-quintana",
+      "type": "reference",
+      "relevance_en": "Authoritative biography identifying him as Manuel Escrivá de Romaní y de la Quintana, XII Count of Casal and I Marquis of Alginet, with professions including lawyer, academic, writer, politician, and senator.",
+      "relevance_es": "Biografía autorizada que lo identifica como Manuel Escrivá de Romaní y de la Quintana, XII conde de Casal y I marqués de Alginet, con profesiones como abogado, académico, escritor, político y senador."
+    },
+    {
+      "title": "Escrivá de Romaní y de la Quintana, Manuel. Conde de Casal - Senado de España",
+      "url": "https://www.senado.es/web/conocersenado/senadohistoria/senado18341923/senadores/fichasenador/index.html?id1=625",
+      "type": "official",
+      "relevance_en": "Documents his personal Senate file for Toledo from 1914 to 1923 and lists his legislatures as senator.",
+      "relevance_es": "Documenta su expediente personal como senador por Toledo entre 1914 y 1923 y enumera sus legislaturas como senador."
+    },
+    {
+      "title": "Escrivá de Romaní y de la Quintana, Manuel, conde de Casal y marqués de Alginet - Museo Nacional del Prado",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/escriva-de-romani-y-de-la-quintana-manuel-conde/edfb43ed-eb00-4b7c-9c50-e3be25ca4024",
+      "type": "reference",
+      "relevance_en": "Summarizes his cultural roles, Prado patronage, Real Academia de Bellas Artes connection, ceramic publications, and collecting activity.",
+      "relevance_es": "Resume sus cargos culturales, su vinculación con el Patronato del Prado, su relación con la Real Academia de Bellas Artes, sus publicaciones cerámicas y su actividad coleccionista."
+    },
+    {
+      "title": "Anales del Instituto de Estudios Madrileños: callejero, entrada Conde de Casal",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3006417.pdf",
+      "type": "academic",
+      "relevance_en": "Gives a station entry for Conde de Casal opening on 11/10/1979 and a street-name entry stating that the 29/09/1954 municipal agreement assigned the name, replacing the unofficial Plaza del Marqués de Cerralbo.",
+      "relevance_es": "Incluye una entrada de la estación Conde de Casal con apertura el 11/10/1979 y una entrada del topónimo que indica que el acuerdo municipal del 29/09/1954 asignó el nombre, sustituyendo la denominación no oficial de plaza del Marqués de Cerralbo."
+    },
+    {
+      "title": "Cerámica de la ciudad de Toledo: estudios preliminares - Google Books",
+      "url": "https://books.google.com/books/about/Cer%C3%A1mica_de_la_ciudad_de_Toledo.html?id=TTfrAAAAMAAJ",
+      "type": "book",
+      "relevance_en": "Bibliographic record for one of his ceramic-history publications, supporting the art-historical part of the etymology note.",
+      "relevance_es": "Registro bibliográfico de una de sus publicaciones de historia de la cerámica, que respalda la dimensión artística del apunte etimológico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Make explicit that the station is named after the Plaza del Conde de Casal, which was named after Manuel Escrivá de Romaní, rather than presenting the Metro naming as a direct dedication.",
+      "es": "Conviene explicitar que la estación toma el nombre de la plaza del Conde de Casal, nombrada por Manuel Escrivá de Romaní, en vez de presentar la denominación del Metro como una dedicatoria directa."
+    },
+    {
+      "en": "Use the full name Manuel Escrivá de Romaní y de la Quintana and prefer 'XII Count of Casal' because RAH and the Instituto de Estudios Madrileños support that ordinal; some secondary sources give 'X Count'.",
+      "es": "Usar el nombre completo Manuel Escrivá de Romaní y de la Quintana y preferir 'XII conde de Casal', porque la RAH y el Instituto de Estudios Madrileños respaldan ese ordinal; algunas fuentes secundarias dan 'X conde'."
+    },
+    {
+      "en": "The description 'Restoration-era political establishment' is too narrow: he was a Restoration senator, but also served in Primo de Rivera-era and Franco-era municipal/cultural institutions.",
+      "es": "La descripción como figura del 'establishment de la Restauración' es demasiado estrecha: fue senador de la Restauración, pero también actuó en instituciones municipales y culturales durante la etapa de Primo de Rivera y el franquismo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal agreement of 29 September 1954 to confirm the exact dedication wording and whether it explicitly cites a memorial motive.",
+      "es": "Consultar el acuerdo municipal original de Madrid del 29 de septiembre de 1954 para confirmar la redacción exacta de la dedicatoria y si menciona expresamente el motivo conmemorativo."
+    },
+    {
+      "en": "Resolve the count ordinal definitively from a nobility-title register or genealogical source, because authoritative-looking sources differ between X and XII Count of Casal.",
+      "es": "Resolver definitivamente el ordinal del condado mediante un registro nobiliario o fuente genealógica, porque fuentes aparentemente autorizadas discrepan entre X y XII conde de Casal."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_098/en/summary.short.md",
+      "summary": "content/stations/metro_098/en/summary.md",
+      "story": "content/stations/metro_098/en/story.md",
+      "confidence": "content/stations/metro_098/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_098/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_098/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_098/es/summary.short.md",
+      "summary": "content/stations/metro_098/es/summary.md",
+      "story": "content/stations/metro_098/es/story.md",
+      "confidence": "content/stations/metro_098/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_098/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_098/es/research-note.md"
+    }
+  }
+}

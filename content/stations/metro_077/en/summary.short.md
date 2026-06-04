@@ -1,0 +1,1 @@
+Almendrales station is named for the Usera neighbourhood it serves. The neighbourhood name most likely refers to almond groves or land planted with almond trees, although the precise documentary origin remains weakly sourced.

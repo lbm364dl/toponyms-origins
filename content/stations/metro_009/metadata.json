@@ -1,0 +1,111 @@
+{
+  "id": "metro_009",
+  "name": "Lavapiés",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "The plaza, street, and popular district name of Lavapiés, probably from rainwater torrents in the steep southern ravine that washed or soaked pedestrians' feet",
+  "previous_names": "",
+  "naming_date": "1936; the station opened with this name on the original Line 3 section, with sources differing between 8 and 9 August 1936",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid, ficha Lavapiés: Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-lavapies.pdf",
+      "type": "official",
+      "relevance_en": "Metro museum sheet confirming the station name, its location in Plaza de Lavapiés, its opening in 1936, and the 2003-06 remodeling context.",
+      "relevance_es": "Ficha del Museo de Metro que confirma el nombre de la estación, su ubicación en la plaza de Lavapiés, su apertura en 1936 y el contexto de la remodelación de 2003-06."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 3 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-3-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Official regional page stating that the first Line 3 section Embajadores-Lavapiés-Sol opened on 9 August 1936.",
+      "relevance_es": "Página oficial regional que indica que el primer tramo de la línea 3, Embajadores-Lavapiés-Sol, se inauguró el 9 de agosto de 1936."
+    },
+    {
+      "title": "Carlos Osorio, Lavapiés y El Rastro, extract published by Ediciones La Librería",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2021/02/Extracto-lavapies.pdf",
+      "type": "book",
+      "relevance_en": "Accessible book extract explaining the rainwater-torrent hypothesis, the descending streets, the ravine toward Embajadores and the rejection of the Jewish-quarter legend.",
+      "relevance_es": "Extracto accesible de libro que explica la hipótesis de las torrenteras, las calles descendentes, el barranco hacia Embajadores y el rechazo de la leyenda de la judería."
+    },
+    {
+      "title": "José Manuel Castellanos Oñate, ¿Lavapiés o Avapiés?, La Gatera de la Villa",
+      "url": "https://www.gateravilla.es/lavapies-o-avapies/",
+      "type": "reference",
+      "relevance_en": "Summarizes the earliest documentary mentions and explains why manuscript forms such as alavapies/delavapies are ambiguous in late-medieval script.",
+      "relevance_es": "Resume las primeras menciones documentales y explica por qué formas manuscritas como alavapies/delavapies son ambiguas en la escritura bajomedieval."
+    },
+    {
+      "title": "Verónica Mediero and Cubillo Paños, Nuevas propuestas de ubicación espacial de la judería medieval de Madrid: evidencias arqueológicas",
+      "url": "https://1library.co/document/q59wklrz-nuevas-propuestas-ubicacion-espacial-juderia-medieval-evidencias-arqueologogicas.html",
+      "type": "academic",
+      "relevance_en": "Argues from documentary and archaeological evidence that medieval Lavapiés was a sparsely occupied arrabal and that Madrid's Jewish quarter should be sought near the walled town and the Almudena/Armería area.",
+      "relevance_es": "Sostiene, con documentación y evidencias arqueológicas, que el Lavapiés medieval era un arrabal poco ocupado y que la judería madrileña debe buscarse junto a la villa murada y el entorno Almudena/Armería."
+    },
+    {
+      "title": "Gonzalo Viñuales Ferreiro, Los judíos de Madrid en el siglo XV: las minutas de los escribanos",
+      "url": "https://revistas.uned.es/index.php/ETFIII/article/view/3678",
+      "type": "academic",
+      "relevance_en": "Academic article based on Madrid council notarial records from 1441-1493, useful for locating Jewish residents in medieval Madrid and checking claims about the supposed Lavapiés Jewish quarter.",
+      "relevance_es": "Artículo académico basado en las minutas de escribanos del concejo madrileño de 1441-1493, útil para localizar a los judíos del Madrid medieval y contrastar la supuesta judería de Lavapiés."
+    },
+    {
+      "title": "Ramón de Mesonero Romanos, El antiguo Madrid, XIV: El Lavapiés",
+      "url": "https://www.publiconsulting.com/wordpress/madridantiguo/chapter/el-lavapies/",
+      "type": "book",
+      "relevance_en": "Nineteenth-century chronicle documenting the Lavapiés/Avapiés forms, the steep and irregular streets, the sixteenth-century urban growth, and the popular image of the district.",
+      "relevance_es": "Crónica del siglo XIX que documenta las formas Lavapiés/Avapiés, las calles desiguales y costaneras, el crecimiento urbano del siglo XVI y la imagen popular del distrito."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Plan de Barrio Lavapiés 2009-2012",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Planes_Barrio/2009-2012/02_Lavapies/Caracteristicas_Actuaciones_2009-2012_Lavapies.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal planning document showing how older Jewish-origin narratives persisted in institutional summaries, while also confirming the area's steep north-south slopes and modest historic urban fabric.",
+      "relevance_es": "Documento municipal oficial que muestra la persistencia de narrativas antiguas de origen judío en resúmenes institucionales, y confirma además las fuertes pendientes norte-sur y el tejido urbano histórico modesto de la zona."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat Lavapiés as a popular/historic area within the official Embajadores neighborhood, not as an official municipal neighborhood of Madrid.",
+      "es": "Conviene tratar Lavapiés como un ámbito popular e histórico dentro del barrio oficial de Embajadores, no como un barrio municipal oficial de Madrid."
+    },
+    {
+      "en": "Do not present the Jewish fountain story as equally likely; modern documentary and archaeological studies place Madrid's medieval Jewish quarter away from Lavapiés.",
+      "es": "No debe presentarse la historia de la fuente judía como igual de probable; los estudios documentales y arqueológicos modernos sitúan la judería medieval madrileña fuera de Lavapiés."
+    },
+    {
+      "en": "The medieval forms should be described as ambiguous manuscript readings such as alavapies/delavapies, not as a simple confirmed sequence from Avapiés to Lavapiés.",
+      "es": "Las formas medievales deben describirse como lecturas manuscritas ambiguas, como alavapies/delavapies, no como una secuencia confirmada y simple de Avapiés a Lavapiés."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The underlying Archivo de Villa documents cited for 1441, 1473, 1495, 1498 and 1547 should be inspected directly for exact wording, folio references, and whether the reading is a Lavapiés or al Avapiés in each case.",
+      "es": "Sería necesario consultar directamente los documentos del Archivo de Villa citados para 1441, 1473, 1495, 1498 y 1547 para fijar la redacción exacta, las signaturas o folios y si en cada caso debe leerse a Lavapiés o al Avapiés."
+    },
+    {
+      "en": "Metro-related sources differ between 8 and 9 August 1936 for the first Line 3 opening; the public dataset should decide whether to store the official inauguration date, the public opening date, or a note about the discrepancy.",
+      "es": "Las fuentes relacionadas con Metro discrepan entre el 8 y el 9 de agosto de 1936 para la apertura inicial de la línea 3; la base de datos pública debería decidir si guarda la fecha oficial de inauguración, la de apertura al público o una nota sobre la discrepancia."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_009/en/summary.short.md",
+      "summary": "content/stations/metro_009/en/summary.md",
+      "story": "content/stations/metro_009/en/story.md",
+      "confidence": "content/stations/metro_009/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_009/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_009/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_009/es/summary.short.md",
+      "summary": "content/stations/metro_009/es/summary.md",
+      "story": "content/stations/metro_009/es/story.md",
+      "confidence": "content/stations/metro_009/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_009/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_009/es/research-note.md"
+    }
+  }
+}

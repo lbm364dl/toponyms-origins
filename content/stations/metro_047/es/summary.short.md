@@ -1,0 +1,1 @@
+Cuatro Caminos recibe el nombre de la glorieta histórica situada sobre la estación, una encrucijada del norte de Madrid donde confluían varios caminos antiguos. Fue una de las ocho estaciones del primer tramo del Metro madrileño, inaugurado entre Sol y Cuatro Caminos el 17 de octubre de 1919.

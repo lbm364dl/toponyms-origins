@@ -1,0 +1,1 @@
+Marqués de Vadillo is named for Francisco Antonio de Salcedo y Aguirre, first Marquess of Vadillo and corregidor of Madrid from 1715 to 1729. The station stands by the roundabout at the Carabanchel end of the Puente de Toledo, the bridge whose rebuilding he commissioned from Pedro de Ribera.

@@ -1,0 +1,1 @@
+La estación de La Latina toma su nombre de la zona madrileña del mismo nombre, que conserva el sobrenombre de Beatriz Galindo. La explicación mejor documentada vincula el topónimo sobre todo con sus fundaciones madrileñas junto a la calle de Toledo y la plaza de la Cebada.

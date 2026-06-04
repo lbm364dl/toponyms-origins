@@ -1,0 +1,9 @@
+Pacífico station is named after the old Calle del Pacífico, the street under which Line 1 was built in this part of Madrid. That street is now Avenida de la Ciudad de Barcelona, but the station, the neighbourhood, and several local institutions kept the older name alive.
+
+The older street name did not mean simply “peaceful.” Metro de Madrid’s historical sheet for Pacífico says that the old road to Vallecas was renamed Calle del Pacífico, like other nearby streets that received names connected with Spanish naval actions in the war against Chile and Peru in 1865. The same source points to related names such as Marina Española and Abtao, showing that the district’s street names formed a small nineteenth-century naval-memory cluster.
+
+The conflict behind the name is usually called the Chincha Islands War, the Spanish-South American War, or, in some Spanish sources, the Pacific campaign. Its best-known late episodes were the bombardment of Valparaíso on 31 March 1866 and the combat of Callao on 2 May 1866. Those events were celebrated in some Spanish commemorative naming, while they are remembered very differently in Chile and Peru.
+
+The Metro station opened on 8 May 1923 as part of Line 1’s Atocha-Puente de Vallecas extension. Pacífico later became an interchange when the first section of Line 6, Cuatro Caminos-Pacífico, opened in October 1979. It also has an unusually visible link to early Metro history: the original 1923 entrance hall by Antonio Palacios was closed in 1966 and later restored as a museum space.
+
+The street itself changed name after the Spanish Civil War and became Avenida Ciudad de Barcelona, but the station did not follow that change. For that reason, Pacífico is a preserved layer of Madrid’s nineteenth-century street naming: a transport name that still points back to the former road, the industrial growth of the Atocha-Vallecas edge, and a contested imperial episode in the Pacific.

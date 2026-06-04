@@ -1,0 +1,1 @@
+La estación Palos de la Frontera toma su nombre de la localidad onubense cuyo antiguo puerto fluvial fue el punto de partida del primer viaje de Colón el 3 de agosto de 1492. Abrió como Palos de Moguer en 1949 y pasó a llamarse Palos de la Frontera el 30 de mayo de 1986 para corregir un topónimo erróneo de larga duración.

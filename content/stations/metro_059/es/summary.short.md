@@ -1,0 +1,1 @@
+Mar de Cristal toma su nombre de la Glorieta del Mar de Cristal, en Hortaleza. La glorieta es un topónimo oficial del callejero madrileño registrado desde el 31 de mayo de 1990, aunque no se ha documentado el origen exacto de la expresión poética.

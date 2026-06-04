@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación homenajea a José Francos Rodríguez a través de la calle madrileña donde se sitúa. Conviene matizar algunos datos biográficos, sobre todo la fecha de la presidencia de la APM, la cronología del Palacio de la Prensa y las fechas de fallecimiento publicadas de forma contradictoria.

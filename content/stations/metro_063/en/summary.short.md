@@ -1,0 +1,1 @@
+Rubén Darío station takes its name from the nearby Glorieta de Rubén Darío, named for the Nicaraguan poet, journalist and diplomat Félix Rubén García Sarmiento. Darío was the leading figure of Spanish-language Modernismo and had an important Madrid connection through literary visits, journalism and diplomatic service.

@@ -265,7 +265,7 @@ header .subtitle {
 
 .modal {
   background: var(--surface); border-radius: 16px;
-  max-width: 680px; width: 100%;
+  max-width: 760px; width: 100%;
   padding: 36px 40px 32px;
   box-shadow: var(--shadow-lg);
   position: relative;
@@ -317,6 +317,27 @@ header .subtitle {
 }
 .modal .etymology-summary p { margin: 0 0 12px 0; }
 .modal .etymology-summary p:last-child { margin-bottom: 0; }
+.modal .markdown-content p { margin-bottom: 16px; }
+.modal .markdown-content h3,
+.modal .markdown-content h4,
+.modal .markdown-content h5 {
+  margin: 18px 0 8px;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+.modal .markdown-content ul {
+  margin: 0 0 16px 20px;
+}
+.modal .markdown-content li {
+  margin-bottom: 6px;
+}
+.modal .markdown-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.9em;
+  background: #f0eeeb;
+  padding: 1px 4px;
+  border-radius: 4px;
+}
 .modal .detail-grid {
   display: grid; grid-template-columns: 130px 1fr;
   gap: 4px 16px; font-size: 0.88rem; margin-bottom: 20px;
@@ -332,6 +353,30 @@ header .subtitle {
   font-size: 0.82rem; color: var(--text-muted); line-height: 1.7;
 }
 .modal .sources strong { color: var(--text-secondary); }
+.source-item {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border);
+}
+.source-item:last-child { border-bottom: none; padding-bottom: 0; }
+.source-title {
+  font-weight: 600;
+}
+.source-type {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: #f0eeeb;
+  color: var(--text-muted);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.source-relevance {
+  margin-top: 3px;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
 .source-link {
   color: var(--accent); text-decoration: none;
   border-bottom: 1px solid transparent;

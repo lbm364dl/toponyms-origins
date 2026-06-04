@@ -1,0 +1,1 @@
+Llamada desde 2018 por Vicente Aleixandre, poeta de la Generación del 27 y premio Nobel que vivió en la cercana Velintonia. El nombre anterior, Metropolitano, se eliminó en parte para evitar confusiones con Estadio Metropolitano, en la línea 7.

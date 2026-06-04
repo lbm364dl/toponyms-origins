@@ -1,0 +1,111 @@
+{
+  "id": "metro_059",
+  "name": "Mar de Cristal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Glorieta del Mar de Cristal",
+  "previous_names": "",
+  "naming_date": "Station opened with this name on 27 April 1998; Glorieta del Mar de Cristal recorded as an official municipal vial from 31 May 1990.",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 4. Tramo: Esperanza-Mar de Cristal",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-4-tramo-esperanza-mar-cristal",
+      "type": "official",
+      "relevance_en": "Official infrastructure page giving the Line 4 opening date, stating that the station is located in the roundabout from which it takes its name, and describing the distinctive glass skylight.",
+      "relevance_es": "Página oficial de infraestructuras que da la fecha de puesta en servicio de la línea 4, indica que la estación está en la glorieta de la que toma el nombre y describe el lucernario acristalado."
+    },
+    {
+      "title": "Comunidad de Madrid - Línea 8. Tramo: Mar de Cristal-Campo de las Naciones",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-8-tramo-mar-cristal-campo-naciones",
+      "type": "official",
+      "relevance_en": "Official source for the Line 8 section opened on 24 June 1998 and for Mar de Cristal’s role as the pre-existing interchange station.",
+      "relevance_es": "Fuente oficial sobre el tramo de línea 8 inaugurado el 24 de junio de 1998 y sobre el papel de Mar de Cristal como estación de enlace ya existente."
+    },
+    {
+      "title": "CRTM - Mar de Cristal station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_71",
+      "type": "official",
+      "relevance_en": "Confirms current service by Metro lines 4 and 8, interchange bus lines, and access addresses including Gta. del Mar de Cristal, 1.",
+      "relevance_es": "Confirma el servicio actual de las líneas 4 y 8 de Metro, las correspondencias de autobús y los accesos, incluido Gta. del Mar de Cristal, 1."
+    },
+    {
+      "title": "Ayuntamiento de Madrid Open Data - Callejero oficial, relación de viales con evolución histórica",
+      "url": "https://datos.madrid.es/egob/catalogo/213605-4-callejero-oficial-madrid.csv",
+      "type": "official",
+      "relevance_en": "Official street dataset recording Glorieta del Mar de Cristal as vial code 902, active, with FECHA_DE_ALTA 31/05/1990.",
+      "relevance_es": "Callejero oficial que registra la Glorieta del Mar de Cristal como vial código 902, vigente, con FECHA_DE_ALTA 31/05/1990."
+    },
+    {
+      "title": "Ayuntamiento de Madrid Open Data - Callejero oficial, relación de direcciones con evolución histórica",
+      "url": "https://datos.madrid.es/egob/catalogo/213605-5-callejero-oficial-madrid.csv",
+      "type": "official",
+      "relevance_en": "Shows current address records on the roundabout, with numbers 1-4 added on 02/07/1992.",
+      "relevance_es": "Muestra las direcciones actuales de la glorieta, con los números 1-4 dados de alta el 02/07/1992."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - La nueva línea T-11 une la glorieta de Mar de Cristal con el Parque Empresarial Cristalia",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/La-nueva-linea-T-11-une-la-glorieta-de-Mar-de-Cristal-con-el-Parque-Empresarial-Cristalia/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=4034ad4612e12110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal press release using the roundabout as a current transport node and confirming its urban role in Hortaleza.",
+      "relevance_es": "Nota de prensa municipal que usa la glorieta como nodo de transporte actual y confirma su función urbana en Hortaleza."
+    },
+    {
+      "title": "Hortaleza Periódico Vecinal - La lucha vecinal empujó el Metro hasta Hortaleza",
+      "url": "https://www.periodicohortaleza.org/la-lucha-vecinal-empujo-el-metro-en-hortaleza/",
+      "type": "press",
+      "relevance_en": "Local historical account of the neighbourhood campaign for the Metro, the 1990s project chronology, and the planned singular glass-vault design.",
+      "relevance_es": "Relato histórico local sobre la reivindicación vecinal del Metro, la cronología del proyecto en los años noventa y el diseño singular previsto con bóveda acristalada."
+    },
+    {
+      "title": "Bible Gateway - Revelation 4:6 in Spanish translations",
+      "url": "https://www.biblegateway.com/verse/es/Apocalipsis%204%3A6",
+      "type": "reference",
+      "relevance_en": "Shows that a phrase equivalent to “sea of crystal/glass” exists in biblical language, but it does not connect that phrase to the Madrid roundabout.",
+      "relevance_es": "Muestra que una fórmula equivalente a “mar de cristal/vidrio” existe en el lenguaje bíblico, pero no vincula esa expresión con la glorieta madrileña."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the official municipal existence date for the roundabout: 31 May 1990.",
+      "es": "Añadir la fecha de existencia oficial municipal de la glorieta: 31 de mayo de 1990."
+    },
+    {
+      "en": "Downgrade the biblical explanation from a live etymology claim to an unproven possible echo of the phrase; no inspected Madrid source supports it.",
+      "es": "Rebajar la explicación bíblica de hipótesis etimológica activa a posible eco no probado de la expresión; ninguna fuente madrileña consultada la respalda."
+    },
+    {
+      "en": "Replace the vague 1980s-90s development wording with the better-supported local context: an official 1990 roundabout within a wider Hortaleza pattern of maritime street names.",
+      "es": "Sustituir la referencia vaga al desarrollo de los años ochenta y noventa por el contexto mejor apoyado: una glorieta oficial de 1990 dentro de un patrón más amplio de nombres viarios marítimos en Hortaleza."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The municipal street dataset gives an official existence date but not the administrative act or rationale that approved the name; the relevant Ayuntamiento street-naming file or plenary/commission record should be inspected if available.",
+      "es": "El callejero municipal da una fecha de existencia oficial, pero no el acuerdo administrativo ni la motivación que aprobó el nombre; convendría revisar el expediente municipal de denominación o el acta de pleno/comisión correspondiente, si existe."
+    },
+    {
+      "en": "No inspected source explains whether “Mar de Cristal” was coined to match nearby sea-name streets, to refer to the later glass station skylight, or to echo a literary or religious phrase; the chronology makes the station-skylight explanation unlikely for the roundabout name.",
+      "es": "Ninguna fuente consultada explica si “Mar de Cristal” se acuñó para encajar con las calles cercanas con nombres de mares, para aludir al posterior lucernario acristalado de la estación o para evocar una frase literaria o religiosa; la cronología hace improbable que el lucernario explique el nombre de la glorieta."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_059/en/summary.short.md",
+      "summary": "content/stations/metro_059/en/summary.md",
+      "story": "content/stations/metro_059/en/story.md",
+      "confidence": "content/stations/metro_059/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_059/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_059/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_059/es/summary.short.md",
+      "summary": "content/stations/metro_059/es/summary.md",
+      "story": "content/stations/metro_059/es/story.md",
+      "confidence": "content/stations/metro_059/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_059/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_059/es/research-note.md"
+    }
+  }
+}

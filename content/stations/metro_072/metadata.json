@@ -1,0 +1,97 @@
+{
+  "id": "metro_072",
+  "name": "Pavones",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Hacienda de Pavones / Pavones place-name",
+  "previous_names": "No former station names found. Older place-name forms include Pavones/Pabones; the estate was reportedly previously titled Palacios y Valderribas.",
+  "naming_date": "31 January 1980",
+  "sources": [
+    {
+      "title": "DECRETO 1530/1964, de 23 de abril, por el que se declara urgente la expropiación parcial de la finca denominada «Pavones»",
+      "url": "https://www.boe.es/boe/dias/1964/05/18/pdfs/A06419-06420.pdf",
+      "type": "official",
+      "relevance_en": "Official BOE source describing a hacienda called Pavones or Pabones in former Vallecas and Vicálvaro lands, with area, buildings, water features, paths and property registry details.",
+      "relevance_es": "Fuente oficial del BOE que describe una hacienda llamada Pavones o Pabones en terrenos de los antiguos términos de Vallecas y Vicálvaro, con superficie, edificaciones, elementos de agua, caminos y datos registrales."
+    },
+    {
+      "title": "Inauguración en línea 9 del tramo Saínz de Baranda-Pavones",
+      "url": "https://www.memoriademadrid.es/view/399377/inauguracion-en-linea-9-del-tramo-sainz-de-baranda-pavones",
+      "type": "archive",
+      "relevance_en": "Madrid municipal archive record from Metro de Madrid's photographic archive confirming the inauguration on 31 January 1980 of the Sainz de Baranda-Pavones Line 9 section.",
+      "relevance_es": "Registro del archivo municipal de Madrid procedente del archivo fotográfico de Metro de Madrid que confirma la inauguración, el 31 de enero de 1980, del tramo Sainz de Baranda-Pavones de la línea 9."
+    },
+    {
+      "title": "La Línea 9 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-9-metro-madrid",
+      "type": "official",
+      "relevance_en": "Community of Madrid transport page confirming that the first Line 9 section, Sainz de Baranda-Pavones, entered service on 31 January 1980 with five stations.",
+      "relevance_es": "Página de transporte de la Comunidad de Madrid que confirma que el primer tramo de la línea 9, Sainz de Baranda-Pavones, entró en servicio el 31 de enero de 1980 con cinco estaciones."
+    },
+    {
+      "title": "Distrito 14 - Moratalaz: Barrio 141 - Pavones",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Publicaciones/AnuEstadistico/Distritos/cap14/Ficheros/14_Moratalaz.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal statistics/census mapping identifies Pavones as barrio 141 in the Moratalaz district and shows Calle de la Hacienda de Pavones in the district layout.",
+      "relevance_es": "Cartografía estadística y censal municipal de Madrid que identifica Pavones como barrio 141 del distrito de Moratalaz y muestra la calle de la Hacienda de Pavones en la trama del distrito."
+    },
+    {
+      "title": "Hacienda de Pavones - Puente de Vallecas",
+      "url": "https://puentedevallecasblog.wordpress.com/hacienda-de-pavones/",
+      "type": "other",
+      "relevance_en": "Local historical compilation with linked archive sources tracing the Hacienda de Pavones/Pabones from early nineteenth-century notices, including the 1831 sale reference and later owners.",
+      "relevance_es": "Recopilación histórica local con enlaces a fuentes de archivo que rastrea la Hacienda de Pavones/Pabones desde anuncios de comienzos del siglo XIX, incluida la referencia de venta de 1831 y propietarios posteriores."
+    },
+    {
+      "title": "Gaceta de Madrid, 1856, BOE historical PDF",
+      "url": "https://www.boe.es/datos/pdfs/BOE/1856/1343/A00003-00003.pdf",
+      "type": "archive",
+      "relevance_en": "Official gazette notice referring to Antonio de Serradilla and a hacienda titled Pabones in the term of Vallecas, confirming the nineteenth-century use of the older spelling.",
+      "relevance_es": "Aviso de la Gaceta que menciona a Antonio de Serradilla y una hacienda titulada Pabones en el término de Vallecas, confirmando el uso decimonónico de la grafía antigua."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The wording should not stop at 'likely derives from an old estate': official BOE records confirm a hacienda called Pavones or Pabones in the area.",
+      "es": "La redacción no debería quedarse en 'probablemente deriva de una antigua hacienda': documentos oficiales del BOE confirman una hacienda llamada Pavones o Pabones en la zona."
+    },
+    {
+      "en": "The station opening should be dated precisely as 31 January 1980, not just 1980.",
+      "es": "La inauguración de la estación debe fecharse con precisión el 31 de enero de 1980, no solo en 1980."
+    },
+    {
+      "en": "The claim that Moratalaz was a dehesa of the Order of Calatrava is not needed to explain Pavones and was not verified for this station-specific result.",
+      "es": "La afirmación de que Moratalaz fue una dehesa de la Orden de Calatrava no es necesaria para explicar Pavones y no se ha verificado para este resultado específico de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid or municipal naming file for the station, if it exists, should be inspected to state whether the immediate official referent was the barrio, the street, or the estate name.",
+      "es": "Conviene revisar, si existe, un expediente formal de Metro de Madrid o municipal sobre la denominación de la estación para precisar si el referente oficial inmediato fue el barrio, la calle o el nombre de la finca."
+    },
+    {
+      "en": "The ultimate linguistic origin of 'Pavones/Pabones' before the estate name remains unproven; the sources verify the historic place-name, not its pre-modern etymon.",
+      "es": "El origen lingüístico último de 'Pavones/Pabones' anterior al nombre de la finca sigue sin probarse; las fuentes verifican el topónimo histórico, no su étimo prem moderno."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_072/en/summary.short.md",
+      "summary": "content/stations/metro_072/en/summary.md",
+      "story": "content/stations/metro_072/en/story.md",
+      "confidence": "content/stations/metro_072/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_072/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_072/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_072/es/summary.short.md",
+      "summary": "content/stations/metro_072/es/summary.md",
+      "story": "content/stations/metro_072/es/story.md",
+      "confidence": "content/stations/metro_072/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_072/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_072/es/research-note.md"
+    }
+  }
+}

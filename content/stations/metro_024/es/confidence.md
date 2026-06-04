@@ -1,0 +1,1 @@
+La persona conmemorada queda clara por el nombre de la estación y por la avenida oficial contigua, y las fuentes biográficas autorizadas identifican a Concha Espina. La única cautela es que he encontrado evidencia de la avenida y del nombre de la estación desde su apertura, pero no un decreto específico de Metro que explique la elección del nombre.

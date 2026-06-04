@@ -1,0 +1,1 @@
+La afirmación directa sobre el nombre de la estación está verificada: la parada de Metro toma el nombre del área de Carabanchel. La explicación profunda del topónimo es plausible pero está formulada con demasiada seguridad, porque las fuentes autorizadas presentan varias propuestas prerromanas, célticas/antroponímicas, árabes y populares, no un origen cerrado.

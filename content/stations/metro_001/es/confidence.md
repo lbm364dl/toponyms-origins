@@ -1,0 +1,1 @@
+El nombre de la estación, su localización y la cronología del transporte están documentados por Metro de Madrid y por fuentes municipales madrileñas. El origen medieval exacto tiene variantes legendarias, pero la fuente patrimonial oficial respalda directamente que la Puerta del Sol toma su nombre de un postigo de la muralla medieval decorado con un sol.

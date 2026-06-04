@@ -1,0 +1,1 @@
+La afirmación central es correcta: la estación de Metro toma su nombre de la plaza de Legazpi, dedicada a Miguel López de Legazpi. Conviene reforzar la fila con el Callejero Municipal de Madrid, corregir la cronología de la estación y matizar la frase sobre el Galeón de Manila, cuya ruta de tornaviaje se asocia sobre todo a Andrés de Urdaneta dentro de la expedición de Legazpi.

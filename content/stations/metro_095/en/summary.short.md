@@ -1,0 +1,1 @@
+Puerta de Toledo station is named after the monumental gate above it, a neoclassical triumphal arch completed in 1827 at Madrid's southern entrance. Its history is unusually layered: it replaced older Toledo gates and transformed from a Napoleonic-era project into a monument to Ferdinand VII and Spain's victory over Napoleonic France.

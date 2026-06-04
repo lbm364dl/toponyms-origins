@@ -1,0 +1,1 @@
+Plaza Elíptica is named after the large elliptical traffic plaza above the station. The name is descriptive, but it also preserves a local name that survived decades when the official street name was Plaza de Fernández Ladreda.

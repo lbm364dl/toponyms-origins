@@ -1,0 +1,1 @@
+Embajadores toma su nombre de la glorieta y la calle de Embajadores. El topónimo antiguo se explica tradicionalmente por unos embajadores extranjeros que se retiraron a casas de campo extramuros durante una epidemia en tiempos de Juan II de Castilla.

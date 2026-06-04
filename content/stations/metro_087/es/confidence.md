@@ -1,0 +1,1 @@
+Varias fuentes oficiales e históricas coinciden en la cadena del nombre: la estación está en la plaza de Antón Martín; la plaza se llama así por Antón Martín; y Antón Martín fundó allí en 1552 el Hospital de Nuestra Señora del Amor de Dios. Las dudas restantes afectan a matices biográficos, no a la etimología.

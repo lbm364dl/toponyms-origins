@@ -1,0 +1,1 @@
+Palos de la Frontera station is named after the Huelva town whose old river port was the departure point of Columbus's first voyage on 3 August 1492. It opened as Palos de Moguer in 1949 and was renamed Palos de la Frontera on 30 May 1986 to correct a long-standing mistaken toponym.

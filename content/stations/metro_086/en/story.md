@@ -1,0 +1,9 @@
+The station name is direct and descriptive. **Pinar de Chamartín** means the pine grove of Chamartín: a landscape name that survived as a local identifier before it became the name of a major interchange. The station is in the municipal neighborhood of Costillares, in Ciudad Lineal, but the surrounding area is still commonly recognized as Pinar de Chamartín.
+
+The second half of the name reaches back to Chamartín de la Rosa, once an independent municipality north of Madrid. Municipal archival records show that Chamartín de la Rosa had its own town council documentation until the 1940s and was annexed to Madrid by decree in 1947, with effective incorporation in 1948. Older municipal descriptions place noble estates, rural land, and the old village core at the heart of that landscape.
+
+The word **Chamartín** has its own deeper etymology. Toponomasticon Hispaniae treats it as a repopulation toponym built from personal names, including Martín, rather than from the later popular stories about a French innkeeper or a casual phrase shouted in a tavern. For this station, however, the immediate origin is not the full medieval etymology of Chamartín, but the more recent local expression “pinar de Chamartín.”
+
+A well-known local memory links the pine grove with Napoleon. After Somosierra, Napoleon stayed in Chamartín from about 2 to 22 December 1808 while Madrid capitulated; later tradition spoke of a large “Pino de Napoleón” where he supposedly rested or planned. Some sources describe the tree as a real landmark but treat the emperor’s exact use of it as oral tradition rather than documented fact.
+
+The transport name was fixed with the 2007 expansion of the network. Metro lines 1 and 4 reached Pinar de Chamartín on 11 April 2007, and Metro Ligero line ML1 opened from there to Las Tablas on 24 May 2007. The station therefore preserves an older landscape name at the point where a former rural edge became a modern interchange.

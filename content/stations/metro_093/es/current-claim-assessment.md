@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación alude al cercano conjunto e instituciones del Canal de Isabel II en Chamberí. El marco histórico está bien respaldado, pero la fila debería citar fuentes oficiales y primarias en lugar de Wikipedia, y la cronología del Tercer Depósito necesita más matiz.

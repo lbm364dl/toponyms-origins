@@ -1,0 +1,1 @@
+Gran Vía station is named after the boulevard above it, Madrid's famous early-20th-century east-west avenue. The Metro stop opened on Line 1 in 1919, was renamed José Antonio in 1940, and recovered the name Gran Vía in 1983.

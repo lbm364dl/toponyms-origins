@@ -1,0 +1,1 @@
+La estación de Rubén Darío toma su nombre de la cercana Glorieta de Rubén Darío, dedicada al poeta, periodista y diplomático nicaragüense Félix Rubén García Sarmiento. Darío fue la figura principal del Modernismo en lengua española y mantuvo una relación importante con Madrid por sus viajes literarios, su labor periodística y su actividad diplomática.

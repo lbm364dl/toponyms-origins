@@ -1,0 +1,1 @@
+El origen del nombre de la estación como topónimo local está bien sustentado por fuentes oficiales de transporte y planeamiento. La derivación agrícola concreta cuenta con apoyo lingüístico de la RAE, pero sigue siendo inferencial porque ninguna fuente inspeccionada explica directamente por qué este lugar madrileño se llamó Las Tablas.

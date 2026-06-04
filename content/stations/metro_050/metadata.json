@@ -1,0 +1,104 @@
+{
+  "id": "metro_050",
+  "name": "Valdeacederas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Valdeacederas, historical toponym and former street name, probably meaning 'valley of sorrels'",
+  "previous_names": "",
+  "naming_date": "1961-02-04",
+  "sources": [
+    {
+      "title": "CRTM - Valdeacederas",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_2",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 1 correspondence, zone A, and accesses at Capitán Blanco Argibay and Aníbal on Bravo Murillo.",
+      "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 1, la zona A y los accesos de Capitán Blanco Argibay y Aníbal en Bravo Murillo."
+    },
+    {
+      "title": "Memoria de Madrid - Estación de Valdeacederas",
+      "url": "https://www.memoriademadrid.es/view/385749",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record dated 1961; its comment states that the station opened to the public on 4 February 1961 with the Line 1 extension to Plaza de Castilla.",
+      "relevance_es": "Ficha del archivo fotográfico de Metro de Madrid fechada en 1961; su comentario indica que la estación se abrió al público el 4 de febrero de 1961 con la prolongación de la línea 1 hasta Plaza de Castilla."
+    },
+    {
+      "title": "Boletín Oficial del Estado, Gaceta de Madrid, núm. 119, 19 May 1959",
+      "url": "https://www.boe.es/gazeta/dias/1959/05/19/pdfs/BOE-1959-119.pdf",
+      "type": "official",
+      "relevance_en": "Contains a property notice in Chamartín de la Rosa referring to Calle del Capitán Blanco Argibay, formerly Valdeacederas, proving the old street name was still documented after the renaming.",
+      "relevance_es": "Contiene un anuncio de una finca en Chamartín de la Rosa que cita la calle del Capitán Blanco Argibay, antes Valdeacederas, lo que prueba que el antiguo nombre de la calle seguía documentado tras el cambio."
+    },
+    {
+      "title": "Por qué la calle del Capitán Blanco Argibay debería volver a llamarse de Valdeacederas - Somos Tetuán / elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/tetuan/calle-capitan-blanco-argibay-deberia-volver-llamarse-valdeacederas_1_10412009.html",
+      "type": "press",
+      "relevance_en": "Provides local historical context: Valdeacederas was the historical street name, documented before full urbanization and in farmland contexts; the article gives 1949 as the renaming year and says the old street gave its name to the barrio and Metro station.",
+      "relevance_es": "Aporta contexto histórico local: Valdeacederas fue el nombre histórico de la calle, documentado antes de la urbanización completa y en relación con tierras de labor; el artículo da 1949 como año del cambio y afirma que la antigua calle dio nombre al barrio y a la estación de Metro."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - val",
+      "url": "https://dle.rae.es/val",
+      "type": "reference",
+      "relevance_en": "Defines val as an apocopated form of valle, supporting the first element of the toponym.",
+      "relevance_es": "Define val como apócope de valle, respaldando el primer elemento del topónimo."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - acedera",
+      "url": "https://dle.rae.es/acedera",
+      "type": "reference",
+      "relevance_en": "Defines acedera as a perennial plant used as a condiment for its acidic taste and gives its Latin origin from acetaria/acētum, supporting the botanical reading.",
+      "relevance_es": "Define acedera como planta perenne usada como condimento por su sabor ácido y da su origen latino en acetaria/acētum, respaldando la lectura botánica."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distrito 06 Tetuán, Barrio 65 Valdeacederas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/06%20-%20Tetu%C3%A1n/Barrio065.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal map confirming Valdeacederas as barrio 65 in the district of Tetuán and showing Calle del Capitán Blanco Argibay within the area.",
+      "relevance_es": "Mapa municipal oficial que confirma Valdeacederas como barrio 65 del distrito de Tetuán y muestra la calle del Capitán Blanco Argibay dentro del ámbito."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade the confidence from verified to probable unless a direct primary toponymic source is added.",
+      "es": "Rebajar la confianza de verificada a probable salvo que se añada una fuente toponímica primaria directa."
+    },
+    {
+      "en": "Do not present abundant sorrel growth in the exact station area as proven; present it as a plausible inference from the toponym.",
+      "es": "No presentar como probado el crecimiento abundante de acederas en el entorno exacto de la estación; conviene formularlo como inferencia plausible a partir del topónimo."
+    },
+    {
+      "en": "Use the exact station opening date, 4 February 1961, rather than only the year 1961.",
+      "es": "Usar la fecha exacta de apertura de la estación, 4 de febrero de 1961, en lugar de solo el año 1961."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid Callejero Oficial entry or historical street-naming files to confirm the 29 April 1949 renaming and any official explanation attached to the change.",
+      "es": "Consultar la entrada del Callejero Oficial del Ayuntamiento de Madrid o los expedientes históricos de denominación de calles para confirmar el cambio del 29 de abril de 1949 y cualquier explicación oficial asociada."
+    },
+    {
+      "en": "Look for older cadastral records, Canal de Isabel II plans, notarial sales, or nineteenth-century maps using Valdeacederas to determine whether the name referred to a valley, a farm track, a cultivated plot, or a broader landscape feature.",
+      "es": "Buscar registros catastrales antiguos, planos del Canal de Isabel II, compraventas notariales o mapas del siglo XIX que usen Valdeacederas para precisar si el nombre aludía a un valle, un camino, una parcela de labor o un rasgo paisajístico más amplio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_050/en/summary.short.md",
+      "summary": "content/stations/metro_050/en/summary.md",
+      "story": "content/stations/metro_050/en/story.md",
+      "confidence": "content/stations/metro_050/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_050/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_050/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_050/es/summary.short.md",
+      "summary": "content/stations/metro_050/es/summary.md",
+      "story": "content/stations/metro_050/es/story.md",
+      "confidence": "content/stations/metro_050/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_050/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_050/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The station being named after Vicálvaro as a place is verified by its location, the line 9 extension documentation and municipal district history. Confidence is only probable for the deeper etymology because official Madrid material presents two hypotheses, Vicus-Alvar and Vicus-Albus, rather than proving one.

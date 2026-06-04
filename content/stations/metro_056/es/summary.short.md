@@ -1,0 +1,1 @@
+La estación de Arturo Soria toma su nombre de la calle de Arturo Soria, dedicada al urbanista madrileño Arturo Soria y Mata. Su proyecto de Ciudad Lineal convirtió esta zona de Madrid en uno de los experimentos europeos más conocidos de urbanismo lineal articulado por el tranvía.

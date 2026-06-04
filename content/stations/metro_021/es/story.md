@@ -1,0 +1,9 @@
+El nombre de la estación procede directamente de la plaza de Alonso Martínez, el gran cruce urbano situado sobre la parada. La ficha histórica de Metro de Madrid ubica la estación de la línea 4 bajo esa plaza y explica que la plaza adoptó su nombre actual en honor de Manuel Alonso Martínez.
+
+Manuel Alonso Martínez nació en Burgos el 1 de enero de 1827 y murió en Madrid el 13 de enero de 1891. Fue jurista y político, estudió Filosofía y Leyes en la Universidad Central de Madrid y ocupó varias carteras ministeriales, entre ellas Fomento, Hacienda y Gracia y Justicia.
+
+Su trayectoria pública convirtió su apellido en un nombre apropiado para una plaza destacada de Madrid. El Congreso de los Diputados lo documenta como diputado por varias circunscripciones y como presidente de la Cámara en la legislatura de 1889-1890. Su asociación jurídica más duradera es la labor codificadora que desembocó en el Código Civil español, publicado por Real Decreto de 24 de julio de 1889.
+
+El topónimo conserva además una capa anterior de la geografía madrileña. La plaza se conocía antes como glorieta de Santa Bárbara, relacionada con la antigua puerta o portillo de Santa Bárbara de la cerca de la ciudad. La propia nota histórica de Metro indica que la plaza pasó a llamarse Alonso Martínez en 1891 y vincula el homenaje, en parte, a su influencia en el desarrollo del Canal de Isabel II.
+
+La estación abrió en la línea 4 el 24 de marzo de 1944 y más tarde se convirtió en intercambiador con la línea 5 en 1970 y la línea 10 en 1981. La etimología está, por tanto, bien respaldada, pero conviene afinar la biografía: Alonso Martínez fue una figura central del proceso del Código Civil, aunque el texto se preparó mediante un procedimiento legal y técnico basado en la Ley de Bases, que contenía 27 bases, no 26.

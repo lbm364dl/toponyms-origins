@@ -1,0 +1,9 @@
+Plaza Elíptica has one of Madrid Metro's most literal names: it refers to the elliptical plaza above the station. The name is not commemorative or symbolic; it describes the shape of the major road junction where several routes meet in the south of Madrid.
+
+The place-name became established after Carabanchel Bajo was incorporated into Madrid and the road system in this area was reorganized in the 1950s. Madrid City Council's historical-memory documentation says the plaza was created around that period and that its name came from its ellipse shape. The same municipal note also records an older local reference, Plaza de la Puerta Bonita, for this place before the modern traffic plaza took shape.
+
+The official name did not remain stable. After the death in 1954 of Jose Maria Fernandez Ladreda, a former minister of Public Works, the plaza was renamed Plaza de Fernandez Ladreda. In everyday Madrid usage, however, Plaza Eliptica remained strong enough that the Metro station opened under that name in 1981, even while official addresses around the station continued to use Fernandez Ladreda.
+
+The transport story reinforced the older popular name. Line 6 reached the plaza in 1981 on the Pacífico-Oporto extension, and Line 11 opened between Plaza Elíptica and Pan Bendito on 16 November 1998. The underground bus interchange, built later, made the site a major gateway for buses from the southern metropolitan corridor, including Getafe, Leganés, Parla and Toledo, with direct interchange to Metro lines 6 and 11.
+
+In 2017 Madrid City Council formally restored Plaza Elíptica as the official street name, replacing Plaza de Fernández Ladreda in the municipal street register. That means the station name was not only descriptive; it also preserved the name Madrid residents continued to use until the official map caught up with common speech.

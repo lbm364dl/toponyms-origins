@@ -1,0 +1,1 @@
+The person etymology is supported by Madrid City Council material, Madrid street-name scholarship, and a Metro de Madrid technical document linking the station to the square and the neighborhood. The exact station naming date is specifically stated in Anales del Instituto de Estudios Madrileños.

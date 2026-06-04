@@ -1,0 +1,1 @@
+The station is named for Arganda del Rey, the southeastern Madrid municipality it serves. 'Arganda' is probably a pre-Roman/Celtic place-name linked to the Indo-European root *arg- 'clear, white, bright', while 'del Rey' recalls Philip II's acquisition and royal jurisdiction over the town in 1580-1583.

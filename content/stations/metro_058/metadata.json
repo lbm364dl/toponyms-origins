@@ -1,0 +1,104 @@
+{
+  "id": "metro_058",
+  "name": "Canillas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Canillas, the Madrid barrio named for the former village and municipality of Canillas",
+  "previous_names": "",
+  "naming_date": "27 April 1998",
+  "sources": [
+    {
+      "title": "Estación de Canillas de línea 4 | Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/568029",
+      "type": "official",
+      "relevance_en": "Directly proves that Canillas station opened on 27 April 1998, is located in the Canillas barrio, and receives its name from that barrio.",
+      "relevance_es": "Prueba directamente que la estación de Canillas abrió el 27 de abril de 1998, se sitúa en el barrio de Canillas y recibe su nombre de ese barrio."
+    },
+    {
+      "title": "Prolongación de la Línea 4. Tramo: Esperanza-Mar de Cristal | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/prolongacion-linea-4-tramo-esperanza-mar-cristal",
+      "type": "official",
+      "relevance_en": "Documents the Line 4 extension that created Canillas and Mar de Cristal stations and locates Canillas under Avenida Machupichu.",
+      "relevance_es": "Documenta la prolongación de la línea 4 que creó las estaciones de Canillas y Mar de Cristal y sitúa Canillas bajo la avenida de Machupichu."
+    },
+    {
+      "title": "Decreto 124/2022, de 30 de noviembre, por el que se declara Bien de Interés Patrimonial la ermita de San Blas, en Canillas",
+      "url": "https://www.comunidad.madrid/sites/default/files/bocm-20221209-8_0.pdf",
+      "type": "official",
+      "relevance_en": "Provides authoritative historical context for Canillas: medieval repopulation, the 1252 documentary reference, 50 vecinos in the Relaciones of Felipe II, agrarian economy, seigneurial history, and survival of the San Blas hermitage.",
+      "relevance_es": "Aporta contexto histórico oficial sobre Canillas: repoblación medieval, referencia documental de 1252, 50 vecinos en las Relaciones de Felipe II, economía agraria, historia señorial y conservación de la ermita de San Blas."
+    },
+    {
+      "title": "Archivo municipal de Canillas | Archivo de Villa, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Archivo-de-Villa/?idCapitulo=12082028&vgnextchannel=a68fed8a96b06010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Canillas's municipal archive, its Old Regime jurisdictional context, annexation by decree of 17 August 1949, and the barriadas included in the former municipality.",
+      "relevance_es": "Confirma el archivo municipal de Canillas, su contexto jurisdiccional en el Antiguo Régimen, la anexión por decreto de 17 de agosto de 1949 y las barriadas incluidas en el antiguo municipio."
+    },
+    {
+      "title": "Libros de Actas de Acuerdos del Pleno del Ayuntamiento de Canillas | Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/browse/collection/2840",
+      "type": "archive",
+      "relevance_en": "Gives archival metadata for Canillas municipal records and summarizes the 50 vecinos figure and 20,412 inhabitants at annexation.",
+      "relevance_es": "Ofrece metadatos archivísticos de los libros municipales de Canillas y resume el dato de 50 vecinos y los 20.412 habitantes en el momento de la anexión."
+    },
+    {
+      "title": "Hortaleza, ayer y hoy: de 1949 a 2025 | Diario Madrid, Ayuntamiento de Madrid",
+      "url": "https://diario.madrid.es/blog/2025/03/31/hortaleza-ayer-y-hoy-de-1949-a-2025/",
+      "type": "official",
+      "relevance_en": "Clarifies the effective annexation chronology: the Canillas decree of 17 August 1949 was formalized on 30 March 1950, with population and territorial details.",
+      "relevance_es": "Aclara la cronología efectiva de la anexión: el decreto de Canillas de 17 de agosto de 1949 se formalizó el 30 de marzo de 1950, con datos de población y territorio."
+    },
+    {
+      "title": "Canillas de Esgueva | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/canillas-de-esgueva",
+      "type": "academic",
+      "relevance_en": "Does not treat Madrid's Canillas directly, but shows that Canillas-type place-names can derive from canna/cane formations; useful as a caution against accepting one linguistic theory without specialist confirmation.",
+      "relevance_es": "No trata directamente el Canillas madrileño, pero muestra que topónimos del tipo Canillas pueden derivar de formaciones relacionadas con canna/caña; sirve como cautela frente a aceptar una sola teoría lingüística sin confirmación especializada."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The immediate namesake should be expressed as the Canillas barrio, which preserves the former village and municipality name, rather than only as the former village.",
+      "es": "El referente inmediato debe formularse como el barrio de Canillas, que conserva el nombre del antiguo pueblo y municipio, no sólo como el antiguo pueblo."
+    },
+    {
+      "en": "The annexation should include both dates: the decree was dated 17 August 1949, but the incorporation was formalized on 30 March 1950.",
+      "es": "La anexión debe incluir las dos fechas: el decreto está fechado el 17 de agosto de 1949, pero la incorporación se formalizó el 30 de marzo de 1950."
+    },
+    {
+      "en": "The claim about garnacho wine is plausible as local Hortaleza/Canillas context, but the strongest station-specific sources do not make it central to the naming of the station.",
+      "es": "La referencia al vino garnacho es plausible como contexto local de Hortaleza/Canillas, pero las fuentes más sólidas sobre la estación no la convierten en un elemento central del nombre."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "For the linguistic etymology of Canillas itself, inspect Jaime Oliver Asín, Historia del nombre Madrid (1959), and compare it with modern toponymic treatments; the station-name origin does not depend on resolving that deeper question.",
+      "es": "Para la etimología lingüística de Canillas, conviene revisar Jaime Oliver Asín, Historia del nombre Madrid (1959), y compararlo con tratamientos toponímicos modernos; el origen del nombre de la estación no depende de resolver esa cuestión más profunda."
+    },
+    {
+      "en": "The original 1252 land-sale deed and the original Relaciones entry were not inspected directly here; the official heritage file summarizes them.",
+      "es": "No se inspeccionaron directamente la escritura de compraventa de 1252 ni la entrada original de las Relaciones; la ficha oficial de patrimonio las resume."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_058/en/summary.short.md",
+      "summary": "content/stations/metro_058/en/summary.md",
+      "story": "content/stations/metro_058/en/story.md",
+      "confidence": "content/stations/metro_058/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_058/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_058/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_058/es/summary.short.md",
+      "summary": "content/stations/metro_058/es/summary.md",
+      "story": "content/stations/metro_058/es/story.md",
+      "confidence": "content/stations/metro_058/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_058/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_058/es/research-note.md"
+    }
+  }
+}

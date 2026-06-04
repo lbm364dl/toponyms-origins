@@ -1,0 +1,1 @@
+Pacífico is named for the old Calle del Pacífico, the former name of today’s Avenida de la Ciudad de Barcelona. That street recalled Spanish naval actions in the Pacific during the 1865-1866 conflict with Chile and Peru.

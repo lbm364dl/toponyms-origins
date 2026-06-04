@@ -1,0 +1,1 @@
+Cuatro Caminos is named for the historic roundabout above the station, a crossroads on the northern edge of Madrid where several old routes met. It was one of the eight stations of Madrid's first Metro section, opened between Sol and Cuatro Caminos on 17 October 1919.

@@ -1,0 +1,9 @@
+El nombre de la estación remite ante todo al gran estadio situado al este del paseo de la Castellana. La parada de Metro no se llamó así desde el principio: se inauguró como **Lima**, por la plaza de Lima, y solo más tarde adoptó el nombre con el que hoy muchos viajeros identifican la zona.
+
+Detrás del nombre está Santiago Bernabéu de Yeste, nacido en Almansa en 1895 y vinculado durante décadas al Real Madrid. Fue jugador y directivo antes de llegar a la presidencia del club en 1943. Las propias páginas históricas del Real Madrid lo presentan como una figura central de la identidad moderna de la entidad: presidente, impulsor del nuevo estadio y protagonista de la etapa de las Copas de Europa.
+
+Primero llegó la historia del estadio. El Nuevo Chamartín se inauguró en diciembre de 1947, con victoria del Real Madrid ante Os Belenenses, y en 1955 los socios compromisarios decidieron que se llamara Estadio Santiago Bernabéu. Por eso, el nombre de la estación no es una dedicatoria urbana aislada: procede de uno de los hitos más reconocibles del paisaje madrileño.
+
+La cronología del transporte añade un matiz interesante. La estación abrió el 10 de junio de 1982 como parte de la antigua línea 8, un trazado del eje de la Castellana puesto en servicio poco antes del Mundial de 1982. Cuando el nombre Lima fue sustituido en diciembre de 1997, la prensa vinculó el homenaje al cincuentenario del estadio y subrayó que la plaza de Lima conservaría su denominación.
+
+La documentación es sólida, aunque la fecha debe expresarse con cuidado. Las noticias contemporáneas describen el acto de cambio el 18 de diciembre de 1997, mientras que páginas posteriores de la Comunidad de Madrid dicen que la estación fue renombrada en 1998. Para uso público, la formulación más prudente es: inaugurada como Lima en 1982; renombrada Santiago Bernabéu en la transición 1997-1998, con acto documentado el 18 de diciembre de 1997.

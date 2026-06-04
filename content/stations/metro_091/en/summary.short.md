@@ -1,0 +1,1 @@
+Santo Domingo station is named for Plaza de Santo Domingo, beside which Line 2 opened in 1925. The square preserves the memory of the medieval Dominican monastery of Santo Domingo el Real, demolished in 1869.

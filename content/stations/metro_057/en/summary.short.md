@@ -1,0 +1,1 @@
+Esperanza most probably takes its name from the Colonia Virgen de la Esperanza, the large modern housing estate around the station in Canillas, Hortaleza. The Metro stop opened on Line 4 on 5 January 1979, with its access on Calle de Andorra.

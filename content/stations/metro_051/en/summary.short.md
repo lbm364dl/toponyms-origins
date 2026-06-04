@@ -1,0 +1,1 @@
+Francos Rodríguez station takes its name from Calle de Francos Rodríguez, named after José Francos Rodríguez, a Madrid-born doctor, journalist, writer and politician. He was mayor of Madrid, minister, RAE member and a leading figure in the Madrid press.

@@ -1,0 +1,1 @@
+The row’s Wikidata value Q756621 points to the bullring, which is useful for the modern landmark but too narrow for etymology. A better dataset target would distinguish the historical place Las Ventas del Espiritu Santo from the Plaza de Toros de Las Ventas; if no separate entity exists, keep the bullring as a related landmark rather than the primary named_after object.

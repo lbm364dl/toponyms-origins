@@ -1,0 +1,1 @@
+La estación de Chueca recibe su nombre de la plaza de Chueca, dedicada en 1943 a Federico Chueca, compositor madrileño de zarzuela. La estación abrió en la línea 5 en 1970 y contribuyó a fijar el nombre de la plaza como denominación cotidiana de la zona.

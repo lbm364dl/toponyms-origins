@@ -1,0 +1,1 @@
+Tirso de Molina station is named for the Golden Age playwright and Mercedarian friar Gabriel Téllez, whose pen name was Tirso de Molina. It opened in 1921 as Progreso and took its current name on 10 July 1939, following the renamed square above it.

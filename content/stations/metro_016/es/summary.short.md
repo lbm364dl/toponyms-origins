@@ -1,0 +1,1 @@
+La estación Paco de Lucía es un homenaje póstumo al guitarrista flamenco algecireño Francisco Sánchez Gómez, conocido mundialmente como Paco de Lucía. La estación prevista como Costa Brava, en Mirasierra, cambió de nombre tras su muerte en 2014 por su dimensión cultural internacional y por su vínculo familiar con el barrio.

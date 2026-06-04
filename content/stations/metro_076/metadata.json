@@ -1,0 +1,115 @@
+{
+  "id": "metro_076",
+  "name": "Hospital 12 de Octubre",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Hospital Universitario 12 de Octubre",
+  "previous_names": "Station: none found; it appears to have opened as Hospital 12 de Octubre on 21 April 2007. Namesake hospital: Ciudad Sanitaria 1º de Octubre / Ciudad Sanitaria Primero de Octubre; mixed press usage includes Ciudad Sanitaria 12 de Octubre by 1981.",
+  "naming_date": "21 April 2007 for the Metro station opening under this name; hospital renamed to 12 de Octubre by the late 1980s according to official hospital history, exact administrative date not verified.",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 3 desde Legazpi a Villaverde Alto",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-3-legazpi-villaverde-alto",
+      "type": "official",
+      "relevance_en": "Officially documents the Line 3 extension opening date of 21 April 2007 and describes Hospital 12 de Octubre station as located at Glorieta de Málaga beside the hospital.",
+      "relevance_es": "Documenta oficialmente la puesta en servicio de la ampliación de la línea 3 el 21 de abril de 2007 y describe la estación Hospital 12 de Octubre como situada en la Glorieta de Málaga junto al hospital."
+    },
+    {
+      "title": "CRTM - Hospital 12 de Octubre station",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_268/",
+      "type": "official",
+      "relevance_en": "Current regional transport listing for the station, confirming its name, Line 3 service, access at Glorieta de Málaga and Avenida de Córdoba, and interchange information.",
+      "relevance_es": "Ficha actual del Consorcio Regional de Transportes que confirma el nombre de la estación, el servicio de la línea 3, los accesos en la Glorieta de Málaga y avenida de Córdoba, y las correspondencias."
+    },
+    {
+      "title": "Hospital Universitario 12 de Octubre - Historia",
+      "url": "https://www.comunidad.madrid/hospital/12octubre/ciudadanos/historia",
+      "type": "official",
+      "relevance_en": "Official hospital history confirming the 2 October 1973 opening as Ciudad Sanitaria 1º de Octubre, the 177,000 square metre site, and the later change to 12 de Octubre at the end of the 1980s.",
+      "relevance_es": "Historia oficial del hospital que confirma la inauguración del 2 de octubre de 1973 como Ciudad Sanitaria 1º de Octubre, la parcela de 177.000 metros cuadrados y el cambio posterior a 12 de Octubre a finales de los años ochenta."
+    },
+    {
+      "title": "Comunidad de Madrid - Hospital Universitario 12 de Octubre",
+      "url": "https://www.comunidad.madrid/centros/hospital-universitario-12-octubre",
+      "type": "official",
+      "relevance_en": "Current official hospital page confirming its location at Avenida de Córdoba s/n and describing its present public, teaching, and research role.",
+      "relevance_es": "Página oficial actual del hospital que confirma su ubicación en la avenida de Córdoba s/n y describe su papel público, docente e investigador actual."
+    },
+    {
+      "title": "BOE - Ley 18/1987, de 7 de octubre, que establece el día de la Fiesta Nacional de España en el 12 de octubre",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1987-22831",
+      "type": "official",
+      "relevance_en": "Primary legal source establishing 12 October as Spain's National Day, useful for explaining the democratic-period meaning of the hospital's current date-name.",
+      "relevance_es": "Fuente legal primaria que establece el 12 de octubre como Fiesta Nacional de España, útil para explicar el significado democrático del nombre actual del hospital."
+    },
+    {
+      "title": "PARES - Decreto de 29 de septiembre de 1936 nombrando Jefe del Gobierno del Estado Español a Francisco Franco Bahamonde",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/134813",
+      "type": "archive",
+      "relevance_en": "Archival authority record for the decree naming Franco head of government of the Spanish State with all powers, contextualizing why 1 October was a Francoist commemorative date.",
+      "relevance_es": "Registro de autoridad archivístico del decreto que nombró a Franco jefe del Gobierno del Estado Español con todos los poderes, contextualizando por qué el 1 de octubre fue una fecha conmemorativa franquista."
+    },
+    {
+      "title": "El País - En defensa del doctor Alguacil",
+      "url": "https://elpais.com/diario/1981/12/27/opinion/378255608_850215.html",
+      "type": "press",
+      "relevance_en": "Press evidence from 27 December 1981 showing mixed naming usage: the article refers to doctors of Ciudad Sanitaria 12 de Octubre, while also preserving the older Ciudad Sanitaria 1º de Octubre form.",
+      "relevance_es": "Evidencia periodística del 27 de diciembre de 1981 que muestra un uso mixto de la denominación: el artículo habla de médicos de la Ciudad Sanitaria 12 de Octubre, pero también conserva la forma antigua Ciudad Sanitaria 1º de Octubre."
+    },
+    {
+      "title": "El País - El 1º de Octubre",
+      "url": "https://elpais.com/diario/1982/02/17/opinion/382748405_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Additional early press usage of Ciudad Sanitaria 12 de Octubre in February 1982, challenging a simple claim that the name only changed in 1988.",
+      "relevance_es": "Uso periodístico adicional de Ciudad Sanitaria 12 de Octubre en febrero de 1982, que matiza o cuestiona una afirmación simple de que el nombre solo cambió en 1988."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station's immediate etymology as a place or institutional landmark, not only as a historical event; the historical date is the hospital name's ultimate reference.",
+      "es": "Conviene clasificar la etimología inmediata de la estación como lugar o hito institucional, no solo como acontecimiento histórico; la fecha histórica es la referencia última del nombre del hospital."
+    },
+    {
+      "en": "Do not state as verified that the hospital was renamed exactly on 12 October 1988 unless an official renaming act is found; official hospital history only says late 1980s, and press usage of 'Ciudad Sanitaria 12 de Octubre' appears already in 1981.",
+      "es": "No debe afirmarse como verificado que el hospital cambió de nombre exactamente el 12 de octubre de 1988 salvo que se localice una disposición oficial; la historia oficial del centro solo dice finales de los años ochenta, y la prensa ya usa 'Ciudad Sanitaria 12 de Octubre' en 1981."
+    },
+    {
+      "en": "Use 177,000 square metres for the original hospital plot when following the official hospital history, rather than the row's 178,000 square metres.",
+      "es": "Debe usarse 177.000 metros cuadrados para la parcela original del hospital si se sigue la historia oficial del centro, en lugar de los 178.000 metros cuadrados de la fila."
+    },
+    {
+      "en": "The legal name of Spain's 12 October holiday is Fiesta Nacional de España under Law 18/1987; 'Día de la Hispanidad' is common usage but not the law's title.",
+      "es": "La denominación legal de la festividad española del 12 de octubre es Fiesta Nacional de España según la Ley 18/1987; 'Día de la Hispanidad' es un uso común, pero no el título de la ley."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect INSALUD or official gazette records from around 1980-1988 to identify the exact administrative act, if any, that changed the hospital's name.",
+      "es": "Revisar documentación de INSALUD o boletines oficiales de alrededor de 1980-1988 para identificar la disposición administrativa exacta, si existió, que cambió el nombre del hospital."
+    },
+    {
+      "en": "The input's claims about the architect Martín José Marcide, X-shaped design, and eighteen-month construction may be true but were not confirmed in the strongest official sources consulted here.",
+      "es": "Las afirmaciones de la fila sobre el arquitecto Martín José Marcide, la planta en forma de X y la construcción en dieciocho meses pueden ser ciertas, pero no quedaron confirmadas en las fuentes oficiales más sólidas consultadas aquí."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_076/en/summary.short.md",
+      "summary": "content/stations/metro_076/en/summary.md",
+      "story": "content/stations/metro_076/en/story.md",
+      "confidence": "content/stations/metro_076/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_076/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_076/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_076/es/summary.short.md",
+      "summary": "content/stations/metro_076/es/summary.md",
+      "story": "content/stations/metro_076/es/story.md",
+      "confidence": "content/stations/metro_076/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_076/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_076/es/research-note.md"
+    }
+  }
+}

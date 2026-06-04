@@ -1,0 +1,1 @@
+La estación de Moncloa toma su nombre del área de Moncloa, cuyo topónimo procede de una finca histórica asociada a los condes de La Monclova. La cadena mejor documentada es Monclova > Moncloa en Madrid, no una derivación directa y probada del latín 'Mons Clovis'.

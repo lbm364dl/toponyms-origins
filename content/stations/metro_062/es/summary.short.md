@@ -1,0 +1,1 @@
+Debe su nombre al complejo gubernamental de Nuevos Ministerios, en el paseo de la Castellana. El conjunto fue promovido durante la Segunda República por Indalecio Prieto, diseñado por Secundino Zuazo, interrumpido por la Guerra Civil y terminado con modificaciones tras la guerra.

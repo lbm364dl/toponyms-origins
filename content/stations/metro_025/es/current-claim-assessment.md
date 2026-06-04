@@ -1,0 +1,1 @@
+La afirmación principal queda verificada: la estación se inauguró como Lima y pasó a llamarse Santiago Bernabéu, a través del estadio cercano que ya llevaba su nombre. El matiz principal es cronológico: la prensa contemporánea documenta el acto de cambio el 18 de diciembre de 1997, mientras que páginas oficiales regionales posteriores suelen resumirlo como 1998.

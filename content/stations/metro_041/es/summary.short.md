@@ -1,0 +1,1 @@
+Pacífico debe su nombre a la antigua calle del Pacífico, denominación anterior de la actual avenida de la Ciudad de Barcelona. Aquella calle recordaba las acciones navales españolas en el Pacífico durante el conflicto de 1865-1866 con Chile y Perú.

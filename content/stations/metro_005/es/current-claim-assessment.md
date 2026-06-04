@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación remite en último término a Francisco de Goya. La formulación más precisa es que la estación de Metro toma el nombre de la calle de Goya, oficialmente calle de Francisco Goya, situada junto al cruce con Alcalá.

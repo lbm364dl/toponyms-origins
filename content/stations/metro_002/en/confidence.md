@@ -1,0 +1,1 @@
+The origin is directly supported by Metro de Madrid's own historical station file, which links the station to Gran Vía and records the 1919 opening, 1940 renaming and 1983 recovery of the name. Municipal sources independently document the avenue's urban history and the democratic restoration of the Gran Vía street name.

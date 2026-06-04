@@ -1,0 +1,1 @@
+Toma su nombre de Manuela Malasaña Oñoro, recordada como una de las víctimas y heroínas populares del levantamiento madrileño contra las tropas napoleónicas del 2 de mayo de 1808. La versión mejor apoyada sostiene que fue fusilada tras encontrarle soldados franceses las tijeras de bordadora de su oficio, consideradas como arma.

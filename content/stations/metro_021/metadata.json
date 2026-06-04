@@ -1,0 +1,100 @@
+{
+  "id": "metro_021",
+  "name": "Alonso Martínez",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Manuel Alonso Martínez",
+  "previous_names": "No former station name found. The square was formerly known as Glorieta de Santa Bárbara.",
+  "naming_date": "Station opened with current name on 24 March 1944; the square adopted the name Alonso Martínez in 1891.",
+  "sources": [
+    {
+      "title": "Metro de Madrid - Estaciones con historia: Alonso Martínez",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/11/ficha-alonso-martinez.pdf",
+      "type": "official",
+      "relevance_en": "Directly confirms the station's location under Plaza de Alonso Martínez, the line opening chronology, the former name Glorieta de Santa Bárbara, and the dedication to Manuel Alonso Martínez.",
+      "relevance_es": "Confirma directamente la ubicación de la estación bajo la plaza de Alonso Martínez, la cronología de apertura por líneas, el nombre anterior de glorieta de Santa Bárbara y la dedicatoria a Manuel Alonso Martínez."
+    },
+    {
+      "title": "CRTM - Alonso Martínez station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_57/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Metro correspondences on lines 4, 5, and 10, and access locations around Plaza de Alonso Martínez and Plaza de Santa Bárbara.",
+      "relevance_es": "Confirma el nombre actual de la estación, las correspondencias de Metro en las líneas 4, 5 y 10 y los accesos en el entorno de la plaza de Alonso Martínez y la plaza de Santa Bárbara."
+    },
+    {
+      "title": "Congreso de los Diputados - Manuel Alonso Martínez",
+      "url": "https://www.congreso.es/es/presidentes-del-congreso-de-los-diputados?codigo=4080&tipoHistorico=1",
+      "type": "official",
+      "relevance_en": "Provides an official biography: birth and death dates, studies, ministerial offices, deputy career, presidency of Congress, and role in legal codification.",
+      "relevance_es": "Aporta una biografía oficial: fechas de nacimiento y muerte, estudios, carteras ministeriales, carrera como diputado, presidencia del Congreso y papel en la codificación jurídica."
+    },
+    {
+      "title": "BOE - Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil",
+      "url": "https://www.boe.es/eli/es/rd/1889/07/24/(1)/con/20050709",
+      "type": "official",
+      "relevance_en": "Confirms the legal publication of the Spanish Civil Code in the Gaceta de Madrid in July 1889.",
+      "relevance_es": "Confirma la publicación legal del Código Civil español en la Gaceta de Madrid en julio de 1889."
+    },
+    {
+      "title": "CIVILizándonos - Ley de Bases del Código Civil (1888)",
+      "url": "https://webs.um.es/jal/Leyes/1888LeyBases.html",
+      "type": "academic",
+      "relevance_en": "Transcribes and organizes the 1888 Law of Bases, showing that the text was to be drafted by the Commission of Codes and listing 27 bases.",
+      "relevance_es": "Transcribe y ordena la Ley de Bases de 1888, mostrando que el texto debía redactarlo la Comisión de Códigos y enumerando 27 bases."
+    },
+    {
+      "title": "Biblioteca Digital de la Comunidad de Madrid - El código civil en sus relaciones con las legislaciones forales",
+      "url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/es/consulta/registro.do?id=72611",
+      "type": "archive",
+      "relevance_en": "Catalog record for Alonso Martínez's 1884-1885 work on the Civil Code and regional laws, useful evidence of his direct engagement with civil codification.",
+      "relevance_es": "Registro catalográfico de la obra de Alonso Martínez de 1884-1885 sobre el Código Civil y las legislaciones forales, prueba útil de su implicación directa en la codificación civil."
+    },
+    {
+      "title": "Real Academia de la Historia - Historia Hispánica: Manuel Alonso Martínez",
+      "url": "https://historia-hispanica.rah.es/biografias/2553-manuel-alonso-martinez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Manuel Alonso Martínez; the page was located, though the browser could not extract its body text.",
+      "relevance_es": "Referencia biográfica autorizada sobre Manuel Alonso Martínez; la página fue localizada, aunque el navegador no pudo extraer el cuerpo del texto."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station did not open in 1924; Metro de Madrid's historical sheet gives 24 March 1944 for the line 4 station.",
+      "es": "La estación no abrió en 1924; la ficha histórica de Metro de Madrid da el 24 de marzo de 1944 para la estación de la línea 4."
+    },
+    {
+      "en": "The Civil Code should not be described as personally drafted by Alonso Martínez alone; the Law of Bases assigned drafting to the Commission of Codes, with government modifications.",
+      "es": "No debe decirse que Alonso Martínez redactó personalmente y en solitario el Código Civil; la Ley de Bases encargó la redacción a la Comisión de Códigos, con modificaciones del Gobierno."
+    },
+    {
+      "en": "The Law of Bases source consulted lists 27 bases, not 26.",
+      "es": "La fuente consultada de la Ley de Bases enumera 27 bases, no 26."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming resolution or period gazette for the 1891 renaming of the square would be useful to verify the exact date and wording beyond Metro's summary.",
+      "es": "Sería útil consultar el acuerdo municipal o la publicación de época sobre el cambio de nombre de la plaza en 1891 para verificar la fecha exacta y la fórmula oficial más allá del resumen de Metro."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_021/en/summary.short.md",
+      "summary": "content/stations/metro_021/en/summary.md",
+      "story": "content/stations/metro_021/en/story.md",
+      "confidence": "content/stations/metro_021/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_021/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_021/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_021/es/summary.short.md",
+      "summary": "content/stations/metro_021/es/summary.md",
+      "story": "content/stations/metro_021/es/story.md",
+      "confidence": "content/stations/metro_021/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_021/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_021/es/research-note.md"
+    }
+  }
+}

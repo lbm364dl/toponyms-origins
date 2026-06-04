@@ -1,0 +1,1 @@
+The core claim is correct: the station takes its name from Plaza de Manuel Becerra, named for Manuel Becerra y Bermúdez. The biographical summary needs one correction: the directly documented ministerial periods fall under the Serrano regency, Amadeo I, the First Republic, and the Regency of María Cristina, not clearly under Alfonso XII.

@@ -1,0 +1,1 @@
+Debe su nombre a Manuel Becerra y Bermúdez, matemático, político, ministro y parlamentario español del siglo XIX. La estación heredó el nombre de la plaza situada sobre ella, rebautizada oficialmente en su honor en 1905.

@@ -1,0 +1,111 @@
+{
+  "id": "metro_096",
+  "name": "Acacias",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Paseo de las Acacias",
+  "previous_names": "",
+  "naming_date": "5 June 1968 / 5 de junio de 1968 (station opened with this name; no separate naming act found)",
+  "sources": [
+    {
+      "title": "CRTM - Acacias station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_92",
+      "type": "official",
+      "relevance_en": "Official transport authority page verifying the current station name, network listing, fare zone, access information, and interchange context.",
+      "relevance_es": "Página oficial del Consorcio Regional de Transportes que verifica el nombre actual de la estación, su presencia en la red, zona tarifaria, accesos y contexto de correspondencias."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid street directory listing Paseo de las Acacias in Arganzuela and giving its endpoints, supporting the local street-name basis.",
+      "relevance_es": "Callejero oficial de Madrid que recoge el paseo de las Acacias en Arganzuela y sus extremos, apoyando la base toponímica local del nombre."
+    },
+    {
+      "title": "Peñasco de la Puente, Hilario; Cambronero, Carlos. Las calles de Madrid: noticias, tradiciones y curiosidades",
+      "url": "https://www.memoriademadrid.es/view/402083",
+      "type": "book",
+      "relevance_en": "Digitized 1889 street-name work held by Memoria de Madrid; it is the key historical reference for the Paseo de las Acacias entry and its botanical explanation.",
+      "relevance_es": "Obra digitalizada de 1889 sobre el callejero, conservada en Memoria de Madrid; es la referencia histórica clave para la entrada del paseo de las Acacias y su explicación botánica."
+    },
+    {
+      "title": "Google Books record: Las calles de Madrid: noticias, tradiciones y curiosidades",
+      "url": "https://books.google.com/books/about/Las_calles_de_Madrid.html?id=-sdDAAAAYAAJ",
+      "type": "reference",
+      "relevance_en": "Bibliographic and digitized access record confirming the 1889 publication, authors, publisher, and page count of the street-name source.",
+      "relevance_es": "Registro bibliográfico y de acceso digital que confirma la publicación de 1889, sus autores, editorial y extensión de la fuente sobre el callejero."
+    },
+    {
+      "title": "Memoria de Madrid - Inauguración tramo Callao-Carabanchel de línea 5",
+      "url": "https://www.memoriademadrid.es/view/387887/inauguracion-tramo-callao-carabanchel-de-linea-5",
+      "type": "archive",
+      "relevance_en": "Archive entry from Metro de Madrid material quoting the 1968 Metro memory: the Callao-Carabanchel Line 5 section was inaugurated on 5 June 1968 and connected with Line 3 at Embajadores and Callao.",
+      "relevance_es": "Ficha archivística procedente de material de Metro de Madrid que cita la memoria de 1968: el tramo Callao-Carabanchel de la línea 5 se inauguró el 5 de junio de 1968 y enlazaba con la línea 3 en Embajadores y Callao."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distritos y barrios",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Distritos-y-barrios/?vgnextchannel=0b94526111d7c010VgnVCM100000d90ca8c0RCRD&vgnextfmt=default&vgnextoid=5a86befb3fd31810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal page identifying Acacias as barrio 22 in the Arganzuela district, useful for explaining the station's local place-name context.",
+      "relevance_es": "Página municipal que identifica Acacias como barrio 22 del distrito de Arganzuela, útil para explicar el contexto toponímico local de la estación."
+    },
+    {
+      "title": "esmadrid - El Rastro: el mercado más castizo",
+      "url": "https://www.esmadrid.com/rastro-compras",
+      "type": "official",
+      "relevance_en": "Official tourism page explaining El Rastro's nearby historical market area and the traditional explanation of its name, useful as context but not as the direct etymology of Acacias.",
+      "relevance_es": "Página turística oficial que explica el área histórica cercana de El Rastro y la explicación tradicional de su nombre, útil como contexto pero no como etimología directa de Acacias."
+    },
+    {
+      "title": "Revista de Obras Públicas (1968) - La nueva línea Callao-Carabanchel del Ferrocarril Metropolitano de Madrid",
+      "url": "https://quickclick.es/rop/pdf/publico/1968/1968_tomoI_3042_01.pdf",
+      "type": "academic",
+      "relevance_en": "Contemporary technical article on the new Line 5 section; it confirms the June 1968 opening context and mentions the Line 3 connection through Acacias/Embajadores.",
+      "relevance_es": "Artículo técnico contemporáneo sobre el nuevo tramo de la línea 5; confirma el contexto de apertura de junio de 1968 y menciona la conexión con la línea 3 mediante Acacias/Embajadores."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the broad claim 'planted with rows of acacias in the 19th century' with the better-supported statement that nineteenth-century street-name literature links the paseo's title to acacia trees; a specific planting campaign still needs direct evidence.",
+      "es": "Sustituir la afirmación amplia de que fue 'plantado con hileras de acacias en el siglo XIX' por la formulación mejor apoyada de que la literatura decimonónica del callejero vincula el rótulo del paseo con las acacias; una campaña concreta de plantación aún necesita prueba directa."
+    },
+    {
+      "en": "Do not present the Matadero Municipal at Legazpi as a direct origin context for the station name; the more relevant nearby historical context is El Rastro / Ribera de Curtidores and older slaughtering and tanning activity north of the station area.",
+      "es": "No presentar el Matadero Municipal de Legazpi como contexto directo del origen del nombre de la estación; el contexto histórico cercano más relevante es El Rastro / Ribera de Curtidores y la antigua actividad de mataderos y tenerías al norte del área de la estación."
+    },
+    {
+      "en": "The station opened on 5 June 1968 with the Callao-Carabanchel section of Line 5; some secondary sources round or shift this to 6 June, but the Metro memory quoted by Memoria de Madrid gives 5 June.",
+      "es": "La estación abrió el 5 de junio de 1968 con el tramo Callao-Carabanchel de la línea 5; algunas fuentes secundarias redondean o desplazan la fecha al 6 de junio, pero la memoria de Metro citada por Memoria de Madrid da el 5 de junio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal street-naming files or nineteenth-century urban works records to confirm when Paseo de las Acacias was formally named and whether there was a documented acacia planting project.",
+      "es": "Revisar expedientes municipales de rotulación o documentación urbanística del siglo XIX para confirmar cuándo se nombró formalmente el paseo de las Acacias y si existió un proyecto documentado de plantación de acacias."
+    },
+    {
+      "en": "Locate a Metro de Madrid station-naming file or construction document for Line 5 to confirm that the station was officially named Acacias from the outset for the paseo or barrio.",
+      "es": "Localizar un expediente de denominación de estaciones o documentación de obra de Metro de Madrid de la línea 5 para confirmar que la estación se llamó oficialmente Acacias desde el inicio por el paseo o el barrio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_096/en/summary.short.md",
+      "summary": "content/stations/metro_096/en/summary.md",
+      "story": "content/stations/metro_096/en/story.md",
+      "confidence": "content/stations/metro_096/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_096/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_096/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_096/es/summary.short.md",
+      "summary": "content/stations/metro_096/es/summary.md",
+      "story": "content/stations/metro_096/es/story.md",
+      "confidence": "content/stations/metro_096/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_096/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_096/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "metro_075",
+  "name": "San Cipriano",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Calle de San Cipriano; probably Saint Cyprian of Carthage",
+  "previous_names": "",
+  "naming_date": "1 December 1998",
+  "sources": [
+    {
+      "title": "Prolongación a Vicálvaro de la Línea 9. Tramo: Pavones-Puerta de Arganda",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-vicalvaro-linea-9-tramo-pavones-puerta-arganda",
+      "type": "official",
+      "relevance_en": "Officially states the Line 9 extension opened on 1 December 1998, lists San Cipriano among the new stations, and says Calle de San Cipriano gives the station its name.",
+      "relevance_es": "Indica oficialmente que la prolongación de la línea 9 se puso en servicio el 1 de diciembre de 1998, enumera San Cipriano entre las nuevas estaciones y afirma que la calle de San Cipriano da nombre a la estación."
+    },
+    {
+      "title": "CRTM station page: San Cipriano",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_181?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current Metro station, Line 9 connections, and accesses at Calle de San Cipriano numbers 44, 55, and 52.",
+      "relevance_es": "Confirma la estación actual de Metro, la conexión con la línea 9 y los accesos en la calle de San Cipriano números 44, 55 y 52."
+    },
+    {
+      "title": "Callejero Oficial 2015, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Officially records Calle de San Cipriano in Vicálvaro, numbered 10-85, beginning at Calle de Ambroz and ending at Calle del Jardín de la Duquesa.",
+      "relevance_es": "Registra oficialmente la calle de San Cipriano en Vicálvaro, con numeración 10-85, desde la calle de Ambroz hasta la calle del Jardín de la Duquesa."
+    },
+    {
+      "title": "Plano de Madrid y pueblos colindantes al empezar el siglo",
+      "url": "https://www.memoriademadrid.es/view/432181",
+      "type": "archive",
+      "relevance_en": "Archive record for Facundo Cañada López’s 1900 map, including the Vicálvaro sheet, useful for placing the old urban fabric around the station’s namesake street.",
+      "relevance_es": "Registro archivístico del plano de Facundo Cañada López de 1900, que incluye la hoja de Vicálvaro y sirve para contextualizar la trama urbana antigua en torno a la calle que da nombre a la estación."
+    },
+    {
+      "title": "Iglesia parroquial de Santa María la Antigua en Vicálvaro",
+      "url": "https://www.comunidad.madrid/node/100871",
+      "type": "official",
+      "relevance_en": "Provides official historical context for Vicálvaro, including its mention in the Relaciones Topográficas of 1576 and the parish church documentation from 1427 and 1590.",
+      "relevance_es": "Aporta contexto histórico oficial sobre Vicálvaro, incluida su mención en las Relaciones Topográficas de 1576 y la documentación parroquial de 1427 y 1590."
+    },
+    {
+      "title": "General Audience of 6 June 2007: Saint Cyprian",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070606.html",
+      "type": "reference",
+      "relevance_en": "Vatican source identifying Saint Cyprian as a third-century African bishop of Carthage and martyr during the Valerian persecution.",
+      "relevance_es": "Fuente vaticana que identifica a san Cipriano como obispo africano de Cartago del siglo III y mártir durante la persecución de Valeriano."
+    },
+    {
+      "title": "St. Cyprian | Britannica",
+      "url": "https://www.britannica.com/biography/Saint-Cyprian-Christian-bishop",
+      "type": "reference",
+      "relevance_en": "Reference biography giving Cyprian’s dates, role as bishop of Carthage, death on 14 September 258, and importance in early Christianity.",
+      "relevance_es": "Biografía de referencia que ofrece las fechas de Cipriano, su papel como obispo de Cartago, su muerte el 14 de septiembre de 258 y su importancia en el cristianismo antiguo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Carthage identification as probable rather than verified unless a municipal street-naming record is found.",
+      "es": "Conviene tratar la identificación con Cartago como probable, no verificada, salvo que aparezca un expediente municipal de denominación de la calle."
+    },
+    {
+      "en": "The strongest direct source for the station name is the Community of Madrid Line 9 extension page, not Wikipedia.",
+      "es": "La fuente directa más sólida para el nombre de la estación es la página de la Comunidad de Madrid sobre la prolongación de la línea 9, no Wikipedia."
+    },
+    {
+      "en": "Use 1 December 1998 as the opening/naming context for the station, based on the official regional infrastructure page.",
+      "es": "Debe usarse el 1 de diciembre de 1998 como contexto de apertura y denominación de la estación, según la página oficial regional de infraestructuras."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the municipal naming file or historical street gazetteer entry for Calle de San Cipriano in Vicálvaro to confirm which Saint Cyprian was intended.",
+      "es": "Localizar el expediente municipal de denominación o una entrada histórica del callejero de la calle de San Cipriano en Vicálvaro para confirmar qué san Cipriano se quiso recordar."
+    },
+    {
+      "en": "Inspect high-resolution historic cartography or local archival material to establish how early the Vicálvaro street name appears before the twentieth century.",
+      "es": "Revisar cartografía histórica en alta resolución o documentación local de archivo para determinar desde cuándo aparece el nombre de la calle de San Cipriano en Vicálvaro antes del siglo XX."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_075/en/summary.short.md",
+      "summary": "content/stations/metro_075/en/summary.md",
+      "story": "content/stations/metro_075/en/story.md",
+      "confidence": "content/stations/metro_075/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_075/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_075/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_075/es/summary.short.md",
+      "summary": "content/stations/metro_075/es/summary.md",
+      "story": "content/stations/metro_075/es/story.md",
+      "confidence": "content/stations/metro_075/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_075/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_075/es/research-note.md"
+    }
+  }
+}

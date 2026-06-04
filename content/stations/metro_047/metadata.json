@@ -1,0 +1,97 @@
+{
+  "id": "metro_047",
+  "name": "Cuatro Caminos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Glorieta de Cuatro Caminos",
+  "previous_names": "Station: no former public station name found. Related place/roundabout: Plaza de Bravo Murillo; Glorieta de Joaquín Ruiz/Ruiz Giménez; Glorieta del Catorce de Abril; restored as Glorieta de Cuatro Caminos around 1940-1941.",
+  "naming_date": "17 October 1919 for the Metro station name in service; the older place-name predates the station.",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid: Cuatro Caminos",
+      "url": "https://museosmetromadrid.es/cuatro-caminos-2-2/",
+      "type": "official",
+      "relevance_en": "Confirms that Cuatro Caminos was one of the eight stations of the first Metro de Madrid section, inaugurated on 17 October 1919, and links its strategic location to the first depots and early urban development.",
+      "relevance_es": "Confirma que Cuatro Caminos fue una de las ocho estaciones del primer tramo del Metro de Madrid, inaugurado el 17 de octubre de 1919, y relaciona su ubicación estratégica con las primeras cocheras y el desarrollo urbano inicial."
+    },
+    {
+      "title": "Metro de Madrid, Estaciones con Historia: Cuatro Caminos / Huellas del pasado",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-cuatro-caminos.pdf",
+      "type": "official",
+      "relevance_en": "Gives the station's historic location as the Glorieta de los Cuatro Caminos and explains the crossroads through Bravo Murillo, Santa Engracia, Reina Victoria and Raimundo Fernández Villaverde, with their older route names.",
+      "relevance_es": "Sitúa históricamente la estación en la Glorieta de los Cuatro Caminos y explica la encrucijada mediante Bravo Murillo, Santa Engracia, Reina Victoria y Raimundo Fernández Villaverde, con sus denominaciones antiguas."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the Quevedo-Cuatro Caminos section of line 2 entered service on 10 September 1929, creating interchange with line 1 at Cuatro Caminos.",
+      "relevance_es": "Confirma que el tramo Quevedo-Cuatro Caminos de la línea 2 entró en servicio el 10 de septiembre de 1929, facilitando la correspondencia con la línea 1 en Cuatro Caminos."
+    },
+    {
+      "title": "Madripedia: Glorieta de Cuatro Caminos",
+      "url": "https://madripedia.wikis.cc/wiki/Glorieta_de_Cuatro_Caminos",
+      "type": "reference",
+      "relevance_en": "Preserves material from María Isabel Gea's Diccionario Enciclopédico de Madrid, giving a nuanced older explanation of the name and listing twentieth-century names of the roundabout.",
+      "relevance_es": "Conserva material del Diccionario Enciclopédico de Madrid de María Isabel Gea, con una explicación más matizada del origen antiguo del nombre y una lista de denominaciones de la glorieta en el siglo XX."
+    },
+    {
+      "title": "CRTM: Plano zonal Metro Cuatro Caminos",
+      "url": "https://www.crtm.es/media/inmdgbk2/plano_zonal_metro_cuatrocaminos.pdf",
+      "type": "official",
+      "relevance_en": "Shows the current station area and the modern convergence of Glorieta de Cuatro Caminos with Bravo Murillo, Santa Engracia, Reina Victoria and Raimundo Fernández Villaverde.",
+      "relevance_es": "Muestra el entorno actual de la estación y la convergencia moderna de la Glorieta de Cuatro Caminos con Bravo Murillo, Santa Engracia, Reina Victoria y Raimundo Fernández Villaverde."
+    },
+    {
+      "title": "Archivo Digital UPM: Conocer para proteger. Una oportunidad para las Cocheras históricas del Metro de Madrid en Cuatro Caminos",
+      "url": "https://oa.upm.es/85093/",
+      "type": "academic",
+      "relevance_en": "Documents the heritage debate around the historic Cuatro Caminos depots and notes that the complex designed by Antonio Palacios was demolished in 2021 after a disputed urban operation.",
+      "relevance_es": "Documenta el debate patrimonial sobre las cocheras históricas de Cuatro Caminos y señala que el complejo diseñado por Antonio Palacios fue demolido en 2021 tras una operación urbanística controvertida."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the four-road explanation as a historic crossroads, not only as the present-day street geometry; older sources do not all include Raimundo Fernández Villaverde in the original naming logic.",
+      "es": "Conviene tratar la explicación de los cuatro caminos como una encrucijada histórica, no solo como la geometría viaria actual; las fuentes antiguas no siempre incluyen Raimundo Fernández Villaverde en la lógica original del nombre."
+    },
+    {
+      "en": "The claim that an iconic circular brick ventilation tower is a protected industrial heritage monument was not verified from the inspected sources and should not be stated without a stronger citation.",
+      "es": "La afirmación de que una torre circular de ventilación de ladrillo es un monumento protegido del patrimonio industrial no quedó verificada en las fuentes consultadas y no debería afirmarse sin una cita más sólida."
+    },
+    {
+      "en": "Add the former names of the related roundabout for context, but distinguish them from former names of the Metro station, for which no public renaming was found.",
+      "es": "Añadir los nombres anteriores de la glorieta como contexto, pero distinguirlos de antiguos nombres de la estación de Metro, para la que no se ha encontrado un cambio público de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal nomenclature file or plenary agreement should be inspected to confirm the exact official dates for the roundabout's twentieth-century name changes.",
+      "es": "Sería conveniente consultar un nomenclátor municipal o acuerdos plenarios para confirmar las fechas oficiales exactas de los cambios de nombre de la glorieta en el siglo XX."
+    },
+    {
+      "en": "If the display text wants to mention a protected ventilation tower, a catalogue entry, BOCM notice or municipal heritage listing should be found first.",
+      "es": "Si el texto público quiere mencionar una torre de ventilación protegida, antes debería localizarse una ficha de catálogo, una publicación del BOCM o un listado municipal de patrimonio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_047/en/summary.short.md",
+      "summary": "content/stations/metro_047/en/summary.md",
+      "story": "content/stations/metro_047/en/story.md",
+      "confidence": "content/stations/metro_047/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_047/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_047/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_047/es/summary.short.md",
+      "summary": "content/stations/metro_047/es/summary.md",
+      "story": "content/stations/metro_047/es/story.md",
+      "confidence": "content/stations/metro_047/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_047/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_047/es/research-note.md"
+    }
+  }
+}

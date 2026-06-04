@@ -1,0 +1,1 @@
+Tribunal is named for Spain's Court of Audit, whose 19th-century headquarters stands beside the station on Calle Fuencarral. The station was planned as Hospicio, after the former Royal Hospice across the street, but the current name was already tied to the Court of Audit area very early in Metro history.

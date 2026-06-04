@@ -1,0 +1,1 @@
+La estación de Ventura Rodríguez toma su nombre de la calle próxima y, en último término, de Buenaventura Rodríguez Tizón (1717-1785), arquitecto madrileño de Ciempozuelos autor del programa de fuentes del Salón del Prado. Entró en servicio con la ampliación de la línea 3 hacia Argüelles en julio de 1941.

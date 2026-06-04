@@ -1,0 +1,1 @@
+The core claim is sound: the station takes the established local place-name Pinar de Chamartín, connected with the old pine grove of Chamartín de la Rosa. The Napoleon material is relevant local context but should be marked as partly traditional or contested, not as the direct reason for the station name.

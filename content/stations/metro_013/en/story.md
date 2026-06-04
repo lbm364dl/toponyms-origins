@@ -1,0 +1,9 @@
+Príncipe de Vergara is a station named from the city above it. It stands by the meeting of Calle de Alcalá and Calle del Príncipe de Vergara, and Metro de Madrid followed the street name when identifying the stop.
+
+The prince in the name is not a Bourbon prince but Baldomero Espartero, one of the great military and political figures of nineteenth-century Spanish liberalism. His full name was Joaquín Baldomero Fernández-Espartero Álvarez de Toro, and he rose from a modest background to become a captain general, prime minister and regent during Isabella II's minority.
+
+The title points to a precise historical episode. In 1839, Espartero, commanding the Isabeline forces, negotiated with the Carlist general Rafael Maroto. The agreement was signed at Oñate on 29 August and confirmed at Vergara on 31 August, where the public reconciliation of the two commanders became famous as the Abrazo de Vergara. It ended the northern front of the First Carlist War, although the wider Carlist conflict did not disappear everywhere at once.
+
+King Amadeo I granted Espartero the title Príncipe de Vergara on 2 January 1872, decades after the event, explicitly linking the honor to the peace made in the fields of Vergara. Madrid's street name came later: the municipal street-history dataset records Calle del Príncipe de Vergara from 21 July 1880, shortly after Espartero's death in 1879.
+
+The station name also preserves Madrid's twentieth-century changes of memory. During the Franco period the street and station were known as General Mola; the official street record gives that name from 12 December 1940 until 25 January 1980. The street recovered Príncipe de Vergara first, and a 1983 press notice reported that Metro's General Mola station would recover its original name, Príncipe de Vergara, from the following Monday, 27 June 1983.

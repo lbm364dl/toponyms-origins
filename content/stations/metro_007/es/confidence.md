@@ -1,0 +1,1 @@
+La etimología personal está respaldada por material del Ayuntamiento de Madrid, bibliografía madrileña sobre el callejero y un documento técnico de Metro de Madrid que vincula la estación con la plaza y el barrio. La fecha concreta de denominación de la estación aparece expresamente en los Anales del Instituto de Estudios Madrileños.

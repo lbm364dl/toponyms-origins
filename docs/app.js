@@ -265,8 +265,14 @@ function getFiltered() {
     if (conf && e.confidence !== conf) return false;
     if (activeLine && !(e.line || '').split(';').some(l => l.trim() === activeLine)) return false;
     if (q) {
-      const haystack = [e.name, e.etymology_summary, e.named_after, e.etymology_type,
-        e.person_profession, e.district, e.neighbourhood, e.line, e.id].filter(Boolean).join(' ').toLowerCase();
+      const haystack = [
+        e.name, e.etymology_summary, e.etymology_summary_es,
+        e.content_summary_short_en, e.content_summary_short_es,
+        e.content_summary_en, e.content_summary_es,
+        e.content_story_en, e.content_story_es,
+        e.named_after, e.named_after_es, e.etymology_type,
+        e.person_profession, e.district, e.neighbourhood, e.line, e.id
+      ].filter(Boolean).join(' ').toLowerCase();
       return haystack.includes(q);
     }
     return true;
@@ -295,7 +301,7 @@ function render() {
 function cardHTML(e) {
   const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
   const etType = e.etymology_type || 'unknown';
-  const summary = (lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || '');
+  const summary = entryCardSummary(e);
   const district = e.district || '';
   const line = e.line ? `${t('lines').split('(')[0]} ${e.line}` : '';
   const meta = [catLabel, district, line].filter(Boolean).join(' \u00b7 ');
@@ -316,6 +322,8 @@ function openModal(id) {
   if (!e) return;
   const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
   const etType = e.etymology_type || 'unknown';
+  const hasContent = e.has_content_entry === 'true';
+  const story = entryStory(e);
 
   let details = '';
   const add = (label, value) => {
@@ -350,7 +358,7 @@ function openModal(id) {
       `<a class="source-link" href="${gmapsUrl}" target="_blank" rel="noopener">Google Maps</a>`);
   }
 
-  const sources = formatSources(e.source || '');
+  const sources = formatEntrySources(e);
   const wikidata = e.named_after_wikidata
     ? `<a class="wikidata-link" href="https://www.wikidata.org/wiki/${e.named_after_wikidata}" target="_blank" rel="noopener">
         <svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor"><path d="M1 2h2v12H1zm3 0h1v12H4zm7 0h1v12h-1zm3 0h2v12h-2zM6 2h1v4H6zm0 5h1v3H6zm0 4h1v1H6zm3-9h1v1H9zm0 2h1v3H9zm0 4h1v4H9z"/></svg>
@@ -364,7 +372,9 @@ function openModal(id) {
       <span class="badge badge-type ${etType}">${t(etType)}</span>
       <span class="badge badge-confidence ${e.confidence || ''}">${t(e.confidence || '')}</span>
     </div>
-    <div class="etymology-summary">${formatParagraphs((lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || ''))}</div>
+    <div class="etymology-summary ${hasContent ? 'markdown-content' : ''}">
+      ${hasContent ? markdownToHTML(story) : formatParagraphs(story)}
+    </div>
     ${details ? `<div class="detail-grid">${details}</div>` : ''}
     ${wikidata}
     <div class="sources"><strong>${t('sources')}</strong><br>${sources}</div>
@@ -396,10 +406,71 @@ function formatSources(src) {
   }).filter(Boolean).join('<br>');
 }
 
+function localized(e, base) {
+  return e[`${base}_${lang}`] || e[`${base}_en`] || e[`${base}_es`] || '';
+}
+
+function legacySummary(e) {
+  return (lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || '');
+}
+
+function entryCardSummary(e) {
+  return localized(e, 'content_summary_short') || legacySummary(e);
+}
+
+function entryStory(e) {
+  return localized(e, 'content_story') || localized(e, 'content_summary') || legacySummary(e);
+}
+
+function formatEntrySources(e) {
+  if (Array.isArray(e.sources_structured) && e.sources_structured.length) {
+    return e.sources_structured.map(source => {
+      const title = esc(source.title || source.url || 'Source');
+      const relevance = esc(source[`relevance_${lang}`] || source.relevance_en || source.relevance_es || '');
+      const type = source.type ? `<span class="source-type">${esc(source.type)}</span>` : '';
+      const titleHTML = source.url
+        ? `<a class="source-link source-title" href="${escAttr(source.url)}" target="_blank" rel="noopener">${title}</a>`
+        : `<span class="source-title">${title}</span>`;
+      return `<div class="source-item">${titleHTML}${type}${relevance ? `<div class="source-relevance">${relevance}</div>` : ''}</div>`;
+    }).join('');
+  }
+  return formatSources(e.source || '');
+}
+
+function inlineMarkdown(text) {
+  return esc(text)
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, (_m, label, url) =>
+      `<a class="source-link" href="${escAttr(url)}" target="_blank" rel="noopener">${label}</a>`)
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>');
+}
+
+function markdownToHTML(text) {
+  if (!text) return '';
+  const blocks = text.replace(/\r\n/g, '\n').trim().split(/\n{2,}/);
+  return blocks.map(block => {
+    const lines = block.split('\n').map(line => line.trim()).filter(Boolean);
+    if (!lines.length) return '';
+    const heading = lines[0].match(/^(#{2,4})\s+(.+)$/);
+    if (heading && lines.length === 1) {
+      const level = Math.min(4, heading[1].length + 1);
+      return `<h${level}>${inlineMarkdown(heading[2])}</h${level}>`;
+    }
+    if (lines.every(line => /^[-*]\s+/.test(line))) {
+      return `<ul>${lines.map(line => `<li>${inlineMarkdown(line.replace(/^[-*]\s+/, ''))}</li>`).join('')}</ul>`;
+    }
+    return `<p>${inlineMarkdown(lines.join(' '))}</p>`;
+  }).join('');
+}
+
 function esc(s) {
   const d = document.createElement('div');
   d.textContent = s;
   return d.innerHTML;
+}
+
+function escAttr(s) {
+  return esc(String(s || '')).replace(/"/g, '&quot;');
 }
 
 // Field value translations for ES mode
@@ -577,7 +648,7 @@ function updateMap() {
     });
 
     const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
-    const rawSummary = (lang === 'es' && e.etymology_summary_es) ? e.etymology_summary_es : (e.etymology_summary || '');
+    const rawSummary = entryCardSummary(e);
     const summary = rawSummary ? esc(rawSummary).substring(0, 180) + '...' : '';
     const popup = `
       <div class="map-popup-name">${esc(e.name)}</div>

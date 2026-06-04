@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación procede de la glorieta de Quevedo, dedicada a Francisco de Quevedo. Conviene hacer explícito el topónimo intermedio y rebajar las anécdotas más vistosas, especialmente el duelo con Pacheco, que es anecdótico y no necesario para la etimología.

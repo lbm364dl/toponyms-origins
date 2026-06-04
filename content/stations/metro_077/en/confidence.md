@@ -1,0 +1,1 @@
+The station-to-neighbourhood origin is verified by official transport and municipal sources, and the meaning of 'almendral' is verified by the RAE. The remaining uncertainty concerns the older microtoponym and the exact 1954 land-sale narrative, which I found only in secondary local-history material.

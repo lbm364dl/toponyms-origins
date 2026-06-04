@@ -1,0 +1,1 @@
+La fila acierta en lo esencial: la estación toma el nombre del área residencial de Tres Olivos, en Fuencarral-El Pardo, y las palabras significan 'tres olivos'. Sin embargo, las fuentes más sólidas documentan mejor el topónimo urbanístico 'Los Tres Olivos' que la afirmación de que tres olivos concretos señalaran antiguamente el lugar.

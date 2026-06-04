@@ -1,0 +1,1 @@
+Metro de Madrid indica directamente que la estación está bajo la plaza de Alonso Martínez y que la plaza pasó de llamarse glorieta de Santa Bárbara a su denominación actual en honor de Manuel Alonso Martínez. Fuentes parlamentarias y jurídicas oficiales confirman la identidad y trayectoria pública de la persona homenajeada.

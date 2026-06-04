@@ -1,0 +1,1 @@
+Cruz del Rayo takes its name from the historic garden-city colony of the same name in Chamartín. The older place-name is traditionally explained by a cross in the area that was damaged or destroyed by lightning.

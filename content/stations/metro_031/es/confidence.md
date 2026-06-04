@@ -1,0 +1,1 @@
+El referente del nombre está respaldado por material patrimonial de Metro, por la localización de la sede del Tribunal de Cuentas y por fuentes oficiales institucionales y municipales. La confianza baja solo en el estado exacto y la duración del nombre Hospicio, documentado en material de proyecto pero no verificado como denominación mantenida hasta los años cuarenta.

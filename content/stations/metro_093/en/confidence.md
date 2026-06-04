@@ -1,0 +1,1 @@
+The station location, opening and relationship to the Canal facilities are documented by the Comunidad de Madrid transport page for the Line 7 extension. The underlying Canal de Isabel II name and its 1851 Lozoya-water origin are confirmed by the contemporary Gaceta de Madrid decree and official Canal/Fundacion Canal historical material.

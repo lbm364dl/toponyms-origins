@@ -1,0 +1,111 @@
+{
+  "id": "metro_053",
+  "name": "Oporto",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Oporto / Porto, Portugal",
+  "previous_names": "",
+  "naming_date": "1968-06-05",
+  "sources": [
+    {
+      "title": "CRTM - Oporto",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_96?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport source confirming Oporto as a Metro station with correspondences on lines 5 and 6 and documenting its present accesses.",
+      "relevance_es": "Fuente oficial de transporte que confirma Oporto como estación de Metro con correspondencias en las líneas 5 y 6 y documenta sus accesos actuales."
+    },
+    {
+      "title": "Callejero Oficial. Ayuntamiento de Madrid, 15 de mayo de 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal street list documenting Avenida de Oporto in Carabanchel.",
+      "relevance_es": "Callejero oficial municipal que documenta la avenida de Oporto en Carabanchel."
+    },
+    {
+      "title": "La línea 6 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional history stating that the Pacífico-Oporto section of Line 6 was added on 7 May 1981 and Oporto-Laguna on 3 June 1983.",
+      "relevance_es": "Historia regional oficial que indica que el tramo Pacífico-Oporto de la línea 6 se añadió el 7 de mayo de 1981 y el tramo Oporto-Laguna el 3 de junio de 1983."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12, septiembre de 2025",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Rail chronology listing Oporto in the Line 5 Callao-Carabanchel opening of 5 June 1968 and the Line 6 Pacífico-Oporto milestone in May 1981.",
+      "relevance_es": "Cronología ferroviaria que incluye Oporto en la apertura del tramo Callao-Carabanchel de la línea 5 el 5 de junio de 1968 y el hito Pacífico-Oporto de la línea 6 en mayo de 1981."
+    },
+    {
+      "title": "FundéuRAE - topónimos europeos: Francia, Irlanda, Italia, Portugal y el Reino Unido",
+      "url": "https://www.fundeu.es/recomendacion/toponimos-europeos-francia-irlanda-italia-portugal-y-el-reino-unido-100/",
+      "type": "reference",
+      "relevance_en": "Language-reference source listing Porto as Oporto in recommended Spanish usage.",
+      "relevance_es": "Fuente lingüística de referencia que recoge Porto como Oporto en el uso recomendado en español."
+    },
+    {
+      "title": "Porto - Dicionário Infopédia de Toponímia",
+      "url": "https://www.infopedia.pt/dicionarios/toponimia/Porto",
+      "type": "reference",
+      "relevance_en": "Portuguese toponymic source explaining Portus Cale as 'porto de Cale' and connecting it to Porto and Portugal.",
+      "relevance_es": "Fuente toponímica portuguesa que explica Portus Cale como 'porto de Cale' y lo relaciona con Porto y Portugal."
+    },
+    {
+      "title": "El artículo ell y otras formas con -ll final",
+      "url": "https://webfrl.rae.es/BRAE_DB_PDF/TOMO_LXXIX/CCLXXVIII/Pensado_377_406.pdf",
+      "type": "academic",
+      "relevance_en": "Linguistic article noting Oporto as a borrowing from Portuguese o Porto, useful for the fused-article explanation.",
+      "relevance_es": "Artículo lingüístico que señala Oporto como préstamo del portugués o Porto, útil para explicar el artículo fusionado."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Luz verde al proyecto para la remodelación de la plaza de Oporto y su entorno",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Luz-verde-al-proyecto-para-la-remodelacion-de-la-plaza-de-Oporto-y-su-entorno/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=3fd9ec6f9859d910VgnVCM100000891ecb1aRCRD",
+      "type": "official",
+      "relevance_en": "Recent municipal source confirming current official use of 'plaza de Oporto' and locating it in Carabanchel.",
+      "relevance_es": "Fuente municipal reciente que confirma el uso oficial actual de 'plaza de Oporto' y la sitúa en Carabanchel."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station opened on Line 5 in 1968; the Line 6 interchange was added only when Line 6 reached Oporto in 1981.",
+      "es": "Aclarar que la estación abrió en la línea 5 en 1968; el intercambio con la línea 6 se añadió solo cuando la línea 6 llegó a Oporto en 1981."
+    },
+    {
+      "en": "Replace the weak source set of Wikipedia and a private street directory with official CRTM, municipal street-list and reference sources.",
+      "es": "Sustituir el conjunto débil de fuentes, basado en Wikipedia y un callejero privado, por fuentes oficiales del CRTM, el callejero municipal y obras de referencia."
+    },
+    {
+      "en": "Avoid presenting Madrid's tradition of honouring European cities as a proven reason unless a municipal naming source is found.",
+      "es": "Evitar presentar la tradición madrileña de homenajear ciudades europeas como motivo probado salvo que se encuentre una fuente municipal de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid or municipal naming-resolution file for the 1968 station would be needed to prove whether the station was formally named after Avenida de Oporto, the local plaza/node, or both.",
+      "es": "Sería necesario un expediente de denominación de Metro de Madrid o municipal de 1968 para probar si la estación fue nombrada formalmente por la avenida de Oporto, por la plaza o nodo local, o por ambos."
+    },
+    {
+      "en": "Sources differ by one day for the Line 6 Pacífico-Oporto milestone: the Community of Madrid text gives 7 May 1981, while a rail chronology gives 6 May 1981.",
+      "es": "Las fuentes difieren en un día para el hito Pacífico-Oporto de la línea 6: el texto de la Comunidad de Madrid da el 7 de mayo de 1981, mientras que una cronología ferroviaria da el 6 de mayo de 1981."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_053/en/summary.short.md",
+      "summary": "content/stations/metro_053/en/summary.md",
+      "story": "content/stations/metro_053/en/story.md",
+      "confidence": "content/stations/metro_053/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_053/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_053/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_053/es/summary.short.md",
+      "summary": "content/stations/metro_053/es/summary.md",
+      "story": "content/stations/metro_053/es/story.md",
+      "confidence": "content/stations/metro_053/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_053/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_053/es/research-note.md"
+    }
+  }
+}

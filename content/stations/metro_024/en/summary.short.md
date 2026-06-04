@@ -1,0 +1,1 @@
+Concha Espina station takes its name from the nearby Avenida de Concha Espina, ultimately honoring the Santander-born novelist Concha Espina. She was one of the best-known Spanish women writers of the early twentieth century and was nominated 25 times for the Nobel Prize in Literature.

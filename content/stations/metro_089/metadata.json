@@ -1,0 +1,108 @@
+{
+  "id": "metro_089",
+  "name": "Banco de España",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Banco de España",
+  "previous_names": "Castelar (project/construction name documented by Metro de Madrid); Banco (short form used in some Metro historical documentation)",
+  "naming_date": "14 June 1924",
+  "sources": [
+    {
+      "title": "Museos Metro de Madrid, 'Estaciones con historia: Banco de España' (PDF)",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-banco-de-espana.pdf",
+      "type": "official",
+      "relevance_en": "Direct Metro source for station location, Line 2 inaugural section, 14 June 1924 date, the unbuilt Gran Vía line connection, and the construction-name change from Castelar to Banco.",
+      "relevance_es": "Fuente directa de Metro para la localización de la estación, el tramo inaugural de la línea 2, la fecha del 14 de junio de 1924, la conexión prevista con la línea de la Gran Vía y el cambio de nombre de Castelar a Banco durante la construcción."
+    },
+    {
+      "title": "Banco de España, 'The Banco de España's main headquarters'",
+      "url": "https://www.bde.es/wbe/en/sobre-banco/sede-banco-espana.html",
+      "type": "official",
+      "relevance_en": "Official Banco de España account of the Cibeles headquarters, earlier seats, acquisition of the Alcañices palace site, architects Sainz de la Lastra and Adaro, first stone in 1884, inauguration in 1891, and later extensions.",
+      "relevance_es": "Relato oficial del Banco de España sobre la sede de Cibeles, las sedes anteriores, la adquisición del solar del palacio de Alcañices, los arquitectos Sainz de la Lastra y Adaro, la primera piedra de 1884, la inauguración de 1891 y las ampliaciones posteriores."
+    },
+    {
+      "title": "Banco de España, 'History'",
+      "url": "https://www.bde.es/wbe/en/sobre-banco/mision/historia-del-banco/",
+      "type": "official",
+      "relevance_en": "Official institutional chronology proving the 1782 Banco Nacional de San Carlos origin, the 28 January 1856 adoption of the name Banco de España, the 1874 issuing monopoly, and the 1921 central-bank role.",
+      "relevance_es": "Cronología institucional oficial que prueba el origen en el Banco Nacional de San Carlos de 1782, la adopción del nombre Banco de España el 28 de enero de 1856, el monopolio emisor de 1874 y la función de banco central en 1921."
+    },
+    {
+      "title": "Banco de España, Informe Institucional 2019, 'La sede central del Banco de España. Edificio de Cibeles'",
+      "url": "https://www.bde.es/f/webbde/INF/MenuHorizontal/Publicaciones/PublicacionesAnuales/InformeInstitucional/2019/Capitulo_3_La_interaccion_del_Banco_de_Espana_con_los_ciudadanos.pdf",
+      "type": "official",
+      "relevance_en": "Official PDF giving the construction chronology: work began in 1883 on the Alcañices palace site, the project was by Eduardo de Adaro and Severiano Sainz de la Lastra, works finished in 1891, and the building opened on 3 March 1891; it also references the Cámara del Oro in the Cibeles headquarters.",
+      "relevance_es": "PDF oficial que aporta la cronología constructiva: las obras comenzaron en 1883 en el solar del palacio de Alcañices, el proyecto fue de Eduardo de Adaro y Severiano Sainz de la Lastra, las obras terminaron en 1891 y el edificio se inauguró el 3 de marzo de 1891; también menciona la Cámara del Oro en la sede de Cibeles."
+    },
+    {
+      "title": "Comunidad de Madrid, 'La Línea 2 de Metro de Madrid'",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-2-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional infrastructure page confirming the early Sol-Ventas section of Line 2 and giving the alternate 16 June 1924 date used in some official material.",
+      "relevance_es": "Página regional de infraestructuras que confirma el primer tramo Sol-Ventas de la línea 2 y aporta la fecha alternativa del 16 de junio de 1924 usada en parte del material oficial."
+    },
+    {
+      "title": "Spain.info, 'Bank of Spain'",
+      "url": "https://www.spain.info/en/places-of-interest/banco-espana/",
+      "type": "official",
+      "relevance_en": "Tourism authority source confirming the building's location facing Plaza de Cibeles, Paseo del Prado and Calle Alcalá, the 1884-1891 construction period, the architects, and the later extensions.",
+      "relevance_es": "Fuente oficial turística que confirma la ubicación del edificio con fachadas a la plaza de Cibeles, el paseo del Prado y la calle Alcalá, el periodo de construcción 1884-1891, los arquitectos y las ampliaciones posteriores."
+    },
+    {
+      "title": "Paisaje de la Luz, 'Banco de España'",
+      "url": "https://www.paisajedelaluz.es/en/ficha/banco-de-espana/",
+      "type": "official",
+      "relevance_en": "Madrid World Heritage/Landscape of Light page supporting the building's prominent Cibeles location, the 1891 construction by Adaro and Sáinz de la Lastra, and a more nuanced stylistic description.",
+      "relevance_es": "Página del Paisaje de la Luz que respalda la ubicación destacada del edificio en Cibeles, la construcción de 1891 por Adaro y Sáinz de la Lastra y una descripción estilística más matizada."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'neoclassical building' with a more precise description such as eclectic-historicist, neo-Renaissance or neo-Mannerist, depending on style vocabulary.",
+      "es": "Sustituir 'edificio neoclásico' por una descripción más precisa, como ecléctico-historicista, neorrenacentista o neomanierista, según el vocabulario elegido."
+    },
+    {
+      "en": "Add the exact Banco de España building inauguration date: 3 March 1891.",
+      "es": "Añadir la fecha exacta de inauguración del edificio del Banco de España: 3 de marzo de 1891."
+    },
+    {
+      "en": "Qualify the gold-vault anecdote: official sources confirm the Cámara del Oro in the Cibeles headquarters, but the wording 'under the Cibeles fountain' and 'one of the world's most secure' should not be presented as core verified etymology.",
+      "es": "Matizar la anécdota de la cámara del oro: las fuentes oficiales confirman la Cámara del Oro en la sede de Cibeles, pero las expresiones 'bajo la fuente de Cibeles' y 'una de las más seguras del mundo' no deben presentarse como parte esencial y verificada de la etimología."
+    },
+    {
+      "en": "Record Castelar as a documented project/construction name changed to Banco, rather than leaving former names blank.",
+      "es": "Registrar Castelar como nombre documentado de proyecto o construcción cambiado a Banco, en lugar de dejar los nombres anteriores en blanco."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The public-service date for Line 2 sometimes appears as 16 June 1924 in Comunidad de Madrid material, while Metro de Madrid's station sheet gives 14 June 1924; a human editor may want to distinguish official inauguration from passenger opening if dataset policy requires one date.",
+      "es": "La fecha de servicio de la línea 2 aparece a veces como 16 de junio de 1924 en material de la Comunidad de Madrid, mientras que la ficha de Metro de Madrid da el 14 de junio de 1924; un editor humano puede querer distinguir inauguración oficial y apertura al público si la política del conjunto de datos exige una sola fecha."
+    },
+    {
+      "en": "The exact administrative act that fixed the station's public name as Banco/Banco de España was not found; the strongest available evidence is Metro de Madrid's historical sheet showing the construction-name change.",
+      "es": "No se ha localizado el acto administrativo exacto que fijó el nombre público de la estación como Banco/Banco de España; la prueba más sólida disponible es la ficha histórica de Metro de Madrid que documenta el cambio de nombre durante la construcción."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_089/en/summary.short.md",
+      "summary": "content/stations/metro_089/en/summary.md",
+      "story": "content/stations/metro_089/en/story.md",
+      "confidence": "content/stations/metro_089/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_089/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_089/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_089/es/summary.short.md",
+      "summary": "content/stations/metro_089/es/summary.md",
+      "story": "content/stations/metro_089/es/story.md",
+      "confidence": "content/stations/metro_089/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_089/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_089/es/research-note.md"
+    }
+  }
+}

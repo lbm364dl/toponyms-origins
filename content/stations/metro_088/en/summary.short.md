@@ -1,0 +1,1 @@
+Retiro station is named for the Parque del Buen Retiro, beside which it was built on Calle de Alcalá. The park’s name goes back to the royal quarters by San Jerónimo el Real and to the seventeenth-century Real Sitio del Buen Retiro.

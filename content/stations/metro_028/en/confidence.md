@@ -1,0 +1,1 @@
+The renaming and its reason are directly confirmed by the Comunidad de Madrid and by Atlético de Madrid, while CRTM confirms the current station name and Line 7 service. Atlético, UEFA, and LALIGA sources corroborate the stadium chronology and the historical Stadium Metropolitano reference.

@@ -2,3 +2,8 @@
 # Secrets
 .env
 cache/
+
+# Local generated outputs
+__pycache__/
+*.py[cod]
+runs/

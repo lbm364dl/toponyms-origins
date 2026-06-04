@@ -1,0 +1,1 @@
+El origen de la palabra está respaldado directamente por la RAE/ASALE y por Corominas, y las formas medievales madrileñas están corroboradas por la edición del Fuero de Madrid del BOE. El cambio moderno de nombre de la estación está documentado por notas oficiales de la Comunidad de Madrid y del CRTM.

@@ -1,0 +1,1 @@
+Plaza Elíptica recibe su nombre de la gran plaza viaria de forma elíptica situada sobre la estación. Es un nombre descriptivo, pero también conserva una denominación popular que sobrevivió durante décadas mientras el callejero oficial decía Plaza de Fernández Ladreda.

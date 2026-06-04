@@ -1,0 +1,1 @@
+El origen del nombre está sólidamente respaldado por la ubicación de la estación junto a la calle de Francos Rodríguez, por la afirmación de la APM de que Madrid recuerda a José Francos Rodríguez con una calle y una estación de metro, y por biografías autorizadas que identifican al homenajeado. La incertidumbre restante afecta a fechas biográficas, no a la etimología.

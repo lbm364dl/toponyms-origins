@@ -1,0 +1,1 @@
+Embajadores takes its name from the Glorieta and Calle de Embajadores. The older toponym is traditionally explained by foreign ambassadors who withdrew to country houses outside medieval Madrid during an epidemic in the reign of Juan II of Castile.

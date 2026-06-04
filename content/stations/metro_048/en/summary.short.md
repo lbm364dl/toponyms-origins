@@ -1,0 +1,1 @@
+Tetuán station is named after the Madrid district, whose older name, Tetuán de las Victorias, recalled the Spanish victory and capture of Tétouan, Morocco, in 1860. The barrio grew around the Dehesa de Amaniel and the road to France after the returning army's brief encampment and the arrival of merchants and settlers.

@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación pasó de llamarse Campo de las Naciones a Feria de Madrid en junio de 2017 para hacer más clara su relación con los recintos feriales de IFEMA. La fila contiene errores importantes de metadatos: la estación abrió en 1998, no en 2002, y los campos naming_date, previous_names y person_nationality están desplazados.

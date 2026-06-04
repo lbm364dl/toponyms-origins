@@ -1,0 +1,1 @@
+La estación de Retiro debe su nombre al Parque del Buen Retiro, junto al que se construyó en la calle de Alcalá. El nombre del parque procede del cuarto real junto a San Jerónimo el Real y del Real Sitio del Buen Retiro del siglo XVII.

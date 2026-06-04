@@ -1,0 +1,1 @@
+Para la base de datos, la cadena etimológica más precisa es: estación -> calle del Alcalde Sainz de Baranda -> Pedro Casto Sáinz de Baranda y Gorriti. La atribución personal de la fila está verificada, pero el texto público debe evitar sugerir que la estación ya era intercambiador de las líneas 6 y 9 el día de su apertura en 1979.

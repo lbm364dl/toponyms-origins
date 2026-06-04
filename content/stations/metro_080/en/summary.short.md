@@ -1,0 +1,1 @@
+Puerta de Arganda means the 'gate to Arganda': the station is the Madrid-side interchange for the Line 9 branch that continues to Rivas and Arganda del Rey. Arganda itself is an ancient place-name probably related to Indo-European *arg-, 'clear, white, bright'.

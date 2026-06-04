@@ -1,0 +1,1 @@
+Antón Martín station is named for the historic plaza above it, which commemorates Antón Martín, the 16th-century hospital brother who founded the Hospital de Nuestra Señora del Amor de Dios on Calle de Atocha in 1552.

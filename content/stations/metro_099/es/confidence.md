@@ -1,0 +1,1 @@
+La persona que explica el nombre está bien respaldada por la biografía de la RAH, los registros viarios y patrimoniales del Ayuntamiento de Madrid y fuentes de transporte. La única cautela es que la estación se nombra a través de la calle y no se localizó el expediente concreto de denominación de la estación; aun así, el nombre estaba en uso desde su apertura.

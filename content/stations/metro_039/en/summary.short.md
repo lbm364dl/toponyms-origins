@@ -1,0 +1,1 @@
+O'Donnell station is named for Calle de O'Donnell, which honors Leopoldo O'Donnell y Joris, a 19th-century Spanish general, Liberal Union leader, and prime minister. The street grew from Madrid's eastern expansion after the old city enclosure was removed.

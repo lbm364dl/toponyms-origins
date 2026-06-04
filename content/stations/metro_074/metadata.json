@@ -1,0 +1,111 @@
+{
+  "id": "metro_074",
+  "name": "Vicálvaro",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Vicálvaro (historic municipality and present Madrid district)",
+  "previous_names": "",
+  "naming_date": "1 December 1998 for the Metro line 9 station opening with the current name; the separately named Cercanías station of Vicálvaro is older and is not the Metro line 9 stop at these coordinates.",
+  "sources": [
+    {
+      "title": "Archivo municipal de Vicálvaro - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Publicaciones/Listado-de-Publicaciones/Archivo-municipal-de-Vicalvaro/?vgnextchannel=f1aebadb6b997010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=28e197f8d6a4a810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms Vicálvaro's municipal archive covers 1864-1951, says the town belonged to the Villa y Tierra de Madrid in the Ancien Régime, and gives the annexation decree date as 10 November 1950.",
+      "relevance_es": "Confirma que el archivo municipal de Vicálvaro cubre 1864-1951, indica que el pueblo perteneció a la Villa y Tierra de Madrid durante el Antiguo Régimen y da como fecha del decreto de anexión el 10 de noviembre de 1950."
+    },
+    {
+      "title": "Vicálvaro - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Vicalvaro/?vgnextchannel=f4c1ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=3088c9c84c3b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Provides the district history: annexed in 1951, later assigned to Vallecas y Ventas and Moratalaz, and made an independent district in 1987.",
+      "relevance_es": "Aporta la historia del distrito: anexionado en 1951, adscrito después a Vallecas y Ventas y a Moratalaz, y convertido en distrito independiente en 1987."
+    },
+    {
+      "title": "Estudio sociodemográfico de los barrios de Madrid - PIBA 2019, Vicálvaro",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Publicaciones_Fondo_Documental/Estudio_Sociologico_Barrios_PIBA/Estudio_PIBA_2019_II-parte-segunda.pdf",
+      "type": "official",
+      "relevance_en": "Gives the official municipal summary of the place-name theories: Latin vicus as the accepted base, with Vicus-Alvar and Vicus-Albus as hypotheses.",
+      "relevance_es": "Ofrece el resumen municipal oficial de las teorías del topónimo: el latín vicus como base aceptada, con Vicus-Alvar y Vicus-Albus como hipótesis."
+    },
+    {
+      "title": "Prolongación a Vicálvaro de la Línea 9. Tramo: Pavones-Puerta de Arganda - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-vicalvaro-linea-9-tramo-pavones-puerta-arganda",
+      "type": "official",
+      "relevance_en": "Confirms the line 9 extension opened on 1 December 1998 and created the stations Valdebernardo, Vicálvaro, San Cipriano and Puerta de Arganda.",
+      "relevance_es": "Confirma que la prolongación de la línea 9 se puso en servicio el 1 de diciembre de 1998 y creó las estaciones de Valdebernardo, Vicálvaro, San Cipriano y Puerta de Arganda."
+    },
+    {
+      "title": "Estación de Vicálvaro - Renfe Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-vicalvaro",
+      "type": "official",
+      "relevance_en": "Clarifies that the Cercanías station named Vicálvaro connects with Metro line 9 at Puerta de Arganda, useful for correcting the apparent interchange conflation.",
+      "relevance_es": "Aclara que la estación de Cercanías llamada Vicálvaro enlaza con la línea 9 de Metro en Puerta de Arganda, útil para corregir la aparente mezcla de intercambiadores."
+    },
+    {
+      "title": "Vicálvaro 1890-1975, sample pages - Ediciones La Librería",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2023/09/7pag-Vicalvaro-23-W.pdf",
+      "type": "book",
+      "relevance_en": "Provides a bibliographic/local-history cue for the first known 1352 document naming Vicálvaro, cited as held in the Vatican Secretariat Archive and concerning tithes.",
+      "relevance_es": "Aporta una pista bibliográfica de historia local sobre el primer documento conocido de 1352 con el nombre Vicálvaro, citado como conservado en el Archivo de la Secretaría del Vaticano y relativo a diezmos."
+    },
+    {
+      "title": "1854: La Batalla de Vicálvaro - Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/hechos/1392648-1854-28-vi",
+      "type": "reference",
+      "relevance_en": "Authoritative reference for the Battle of Vicálvaro/Vicalvarada dated 28 June 1854 and associated figures including O'Donnell.",
+      "relevance_es": "Referencia autorizada para la batalla de Vicálvaro o Vicalvarada, fechada el 28 de junio de 1854 y asociada a figuras como O'Donnell."
+    },
+    {
+      "title": "Se cumplen 170 años del Manifiesto de Manzanares - Ayuntamiento de Manzanares",
+      "url": "https://www.manzanares.es/actualidad/noticias/se-cumplen-170-anos-manifiesto-manzanares",
+      "type": "official",
+      "relevance_en": "Confirms the Manifesto of Manzanares was drafted by Antonio Cánovas del Castillo, signed by Leopoldo O'Donnell on 7 July 1854, and led into the Progressive Biennium.",
+      "relevance_es": "Confirma que el Manifiesto de Manzanares fue redactado por Antonio Cánovas del Castillo, firmado por Leopoldo O'Donnell el 7 de julio de 1854 y dio paso al Bienio Progresista."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as certain that Vicálvaro means 'Álvaro's village'; official Madrid material gives Vicus-Alvar and Vicus-Albus as competing hypotheses.",
+      "es": "No debe afirmarse como seguro que Vicálvaro signifique «la aldea de Álvaro»; la documentación oficial madrileña presenta Vicus-Alvar y Vicus-Albus como hipótesis competidoras."
+    },
+    {
+      "en": "The annexation should distinguish the decree date, 10 November 1950, from the locally remembered effective incorporation date, 20 October 1951.",
+      "es": "La anexión debe distinguir la fecha del decreto, 10 de noviembre de 1950, de la fecha recordada como incorporación efectiva, 20 de octubre de 1951."
+    },
+    {
+      "en": "The input appears to conflate Metro Vicálvaro on line 9 with the Renfe Cercanías station named Vicálvaro; Renfe states that Cercanías Vicálvaro connects with Metro Puerta de Arganda, not with Metro Vicálvaro.",
+      "es": "La fila de entrada parece mezclar la estación de Metro Vicálvaro de la línea 9 con la estación de Cercanías llamada Vicálvaro; Renfe indica que Cercanías Vicálvaro enlaza con Metro Puerta de Arganda, no con Metro Vicálvaro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A specialist toponymy source or the underlying 1352 Vatican record, cited as ASV, NI, vol. 5355 in a local publication, should be inspected to refine the earliest form of the name.",
+      "es": "Conviene consultar una fuente especializada de toponimia o el registro vaticano de 1352, citado como ASV, NI, vol. 5355 en una publicación local, para precisar la forma más antigua del nombre."
+    },
+    {
+      "en": "The historical railway station named Vicálvaro needs separate treatment from the 1998 Metro station if the dataset intends to model Cercanías and Metro as one interchange record.",
+      "es": "La estación ferroviaria histórica llamada Vicálvaro debe tratarse por separado de la estación de Metro de 1998 si el conjunto de datos pretende modelar Cercanías y Metro como un único registro de intercambiador."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_074/en/summary.short.md",
+      "summary": "content/stations/metro_074/en/summary.md",
+      "story": "content/stations/metro_074/en/story.md",
+      "confidence": "content/stations/metro_074/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_074/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_074/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_074/es/summary.short.md",
+      "summary": "content/stations/metro_074/es/summary.md",
+      "story": "content/stations/metro_074/es/story.md",
+      "confidence": "content/stations/metro_074/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_074/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_074/es/research-note.md"
+    }
+  }
+}

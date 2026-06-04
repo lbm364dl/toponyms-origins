@@ -1,0 +1,1 @@
+Pinar de Chamartín significa el pinar de Chamartín. El intercambiador de metro y metro ligero abrió en 2007 en Costillares, una zona que sigue conociéndose popularmente por ese antiguo nombre del paisaje.

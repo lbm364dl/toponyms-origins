@@ -1,0 +1,1 @@
+Conde de Casal is named for the Plaza del Conde de Casal, whose 1954 municipal naming honored Manuel Escrivá de Romaní y de la Quintana, Count of Casal. He was a Madrid-born lawyer, senator, municipal office-holder, academic, collector, and historian of ceramics.

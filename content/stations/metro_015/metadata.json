@@ -1,0 +1,126 @@
+{
+  "id": "metro_015",
+  "name": "Gregorio Marañón",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Gregorio Marañón y Posadillo",
+  "previous_names": "",
+  "naming_date": "1998 (Line 10 station opened 22 January 1998; Line 7 interchange reached Gregorio Marañón on 13 February 1998)",
+  "sources": [
+    {
+      "title": "CRTM - Gregorio Marañón station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_142?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, Metro correspondence with lines 7 and 10, fare zone, and access points at José Abascal and Miguel Ángel.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, la correspondencia de Metro con las líneas 7 y 10, la zona tarifaria y los accesos en José Abascal y Miguel Ángel."
+    },
+    {
+      "title": "Comunidad de Madrid - Conexión de las Líneas 8 y 10 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/conexion-lineas-8-10-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official infrastructure history giving the 22 January 1998 service date and explaining the intermediate Gregorio Marañón station in the Line 8-Line 10 connection.",
+      "relevance_es": "Historia oficial de infraestructura que da la fecha de puesta en servicio del 22 de enero de 1998 y explica la estación intermedia de Gregorio Marañón en la conexión de las líneas 8 y 10."
+    },
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 7. Tramo Avenida de América-Gregorio Marañón",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-avenida-america-gregorio-maranon",
+      "type": "official",
+      "relevance_en": "Official works page stating the 13 February 1998 service date for the Line 7 extension and describing the creation of the Gregorio Marañón station and its interchange with Line 10.",
+      "relevance_es": "Página oficial de obras que indica la puesta en servicio del 13 de febrero de 1998 para la prolongación de la línea 7 y describe la creación de la estación de Gregorio Marañón y su correspondencia con la línea 10."
+    },
+    {
+      "title": "El País - Aznar inaugura la nueva estación de metro de Gregorio Marañón",
+      "url": "https://elpais.com/diario/1998/01/23/madrid/885558258_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press account from 23 January 1998 confirming the inauguration, the station's location in the plaza of the same name, and the explicit commemorative reference to Gregorio Marañón.",
+      "relevance_es": "Crónica contemporánea del 23 de enero de 1998 que confirma la inauguración, la ubicación de la estación en la plaza del mismo nombre y la referencia conmemorativa explícita a Gregorio Marañón."
+    },
+    {
+      "title": "Real Academia de la Historia - Gregorio Marañón y Posadillo",
+      "url": "https://historia-hispanica.rah.es/biografias/28757-gregorio-maranon-y-posadillo",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry identifying Marañón's dates, birthplace and profile as physician, scientist, historian, humanist and academician.",
+      "relevance_es": "Entrada biográfica autorizada que identifica las fechas, el lugar de nacimiento y el perfil de Marañón como médico, científico, historiador, humanista y académico."
+    },
+    {
+      "title": "Museo Nacional del Prado - Marañón y Posadillo, Gregorio",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/maraon-y-posadillo-gregorio/6881d2e5-7206-441a-a954-ebad0f9034f8",
+      "type": "reference",
+      "relevance_en": "Institutional biographical note confirming his Madrid dates, medical career, chair of endocrinology, public role and membership in several academies.",
+      "relevance_es": "Nota biográfica institucional que confirma sus fechas madrileñas, su carrera médica, su cátedra de endocrinología, su papel público y su pertenencia a varias academias."
+    },
+    {
+      "title": "Real Academia de Ciencias Exactas, Físicas y Naturales - Gregorio Marañón y Posadillo",
+      "url": "https://rac.es/sobre-nosotros/miembros/academicos-historicos/numerarios/291/",
+      "type": "reference",
+      "relevance_en": "Academy record documenting his medical doctorate, endocrinology chair, hospital posts and academic honors.",
+      "relevance_es": "Registro académico que documenta su doctorado en Medicina, su cátedra de endocrinología, sus cargos hospitalarios y sus honores académicos."
+    },
+    {
+      "title": "Hospital General Universitario Gregorio Marañón - Nuestra historia",
+      "url": "https://www.comunidad.madrid/hospital/gregoriomaranon/nosotros/informacion-corporativa/historia",
+      "type": "official",
+      "relevance_en": "Official hospital history showing why the doctor's name is important in Madrid's medical memory and identifying him as one of the hospital tradition's eminent professionals.",
+      "relevance_es": "Historia oficial del hospital que muestra la importancia del nombre del doctor en la memoria médica madrileña y lo identifica como uno de los profesionales eminentes de la tradición hospitalaria."
+    },
+    {
+      "title": "Universitat Pompeu Fabra - Gregorio Marañón, Diccionario de ensayistas",
+      "url": "https://www.upf.edu/web/elensayoliterario/maranon",
+      "type": "academic",
+      "relevance_en": "Academic literary-biographical source giving context for Marañón's humanist, essayistic and historical work, including his Manual de diagnóstico etiológico and historical-biological method.",
+      "relevance_es": "Fuente académica literaria y biográfica que contextualiza la obra humanista, ensayística e histórica de Marañón, incluido su Manual de diagnóstico etiológico y su método histórico-biológico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station chronology should be corrected: official Community of Madrid sources indicate 1998, not 1988.",
+      "es": "Debe corregirse la cronología de la estación: las fuentes oficiales de la Comunidad de Madrid indican 1998, no 1988."
+    },
+    {
+      "en": "The direct toponymic source is the Plaza del Doctor Marañón area; the station is not named because it is beside the Hospital General Universitario Gregorio Marañón.",
+      "es": "La fuente toponímica directa es el entorno de la plaza del Doctor Marañón; la estación no recibe el nombre por estar junto al Hospital General Universitario Gregorio Marañón."
+    },
+    {
+      "en": "The phrase 'Manual of Etiologic Diagnostic' should be replaced by the Spanish title Manual de diagnóstico etiológico or a clearer English rendering, Manual of Etiological Diagnosis.",
+      "es": "La expresión inglesa 'Manual of Etiologic Diagnostic' debe sustituirse por el título español Manual de diagnóstico etiológico o por una traducción inglesa más clara: Manual of Etiological Diagnosis."
+    },
+    {
+      "en": "The claim of 'over 500 scientific monographs' should be treated as weak unless a stronger bibliographic source is added; more careful wording is 'a very extensive body of scientific publications, essays and books.'",
+      "es": "La afirmación de 'más de 500 monografías científicas' debe tratarse como débil salvo que se añada una fuente bibliográfica más sólida; una redacción más prudente sería 'una obra muy extensa de publicaciones científicas, ensayos y libros'."
+    },
+    {
+      "en": "The district field 'Chamartín' is incomplete for public context: official and reference descriptions place the station around a boundary area serving Chamberí, Chamartín and Salamanca.",
+      "es": "El campo de distrito 'Chamartín' es incompleto para el contexto público: las descripciones oficiales y de referencia sitúan la estación en un área limítrofe que sirve a Chamberí, Chamartín y Salamanca."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or plenary record for Plaza del Doctor Marañón should be inspected to confirm the exact date when the plaza received the doctor's name.",
+      "es": "Conviene revisar un expediente municipal de rotulación o acta plenaria de la plaza del Doctor Marañón para confirmar la fecha exacta en que la plaza recibió el nombre del doctor."
+    },
+    {
+      "en": "A specialist bibliography should be checked before retaining exact counts such as 'more than 500 monographs' or rankings such as 'one of the most widely distributed medical texts in the world.'",
+      "es": "Debe consultarse una bibliografía especializada antes de conservar cifras exactas como 'más de 500 monografías' o clasificaciones como 'uno de los textos médicos más difundidos del mundo'."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_015/en/summary.short.md",
+      "summary": "content/stations/metro_015/en/summary.md",
+      "story": "content/stations/metro_015/en/story.md",
+      "confidence": "content/stations/metro_015/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_015/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_015/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_015/es/summary.short.md",
+      "summary": "content/stations/metro_015/es/summary.md",
+      "story": "content/stations/metro_015/es/story.md",
+      "confidence": "content/stations/metro_015/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_015/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_015/es/research-note.md"
+    }
+  }
+}

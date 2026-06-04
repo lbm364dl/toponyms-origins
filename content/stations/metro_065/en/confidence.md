@@ -1,0 +1,1 @@
+The immediate naming after the place Barajas is verified by official infrastructure descriptions locating the station in Barajas and by municipal/BOE evidence for Barajas as an old municipality annexed to Madrid. Confidence does not extend to one definitive remote etymology of the place-name, which remains disputed.

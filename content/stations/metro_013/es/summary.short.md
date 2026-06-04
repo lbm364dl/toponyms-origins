@@ -1,0 +1,1 @@
+Príncipe de Vergara toma su nombre de la calle situada sobre la estación, dedicada a Baldomero Espartero por su título de príncipe de Vergara. Ese título recordaba el acuerdo de Vergara de 1839, que cerró el frente norte de la Primera Guerra Carlista.

@@ -1,0 +1,1 @@
+Menéndez Pelayo station takes its name from the nearby avenue, which commemorates Marcelino Menéndez y Pelayo, the Santander-born philologist, literary historian and critic. The station opened on Line 1 on 8 May 1923 as part of the Atocha-Puente de Vallecas extension.

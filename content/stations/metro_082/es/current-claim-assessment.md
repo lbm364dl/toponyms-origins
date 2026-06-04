@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación de Metro toma el nombre del barrio de La Poveda, en Arganda del Rey, y el topónimo se explica mejor como una alameda o chopera. Parte del contexto añadido es útil, pero resulta demasiado amplio o poco vinculado directamente al nombre de la estación.

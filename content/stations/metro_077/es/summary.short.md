@@ -1,0 +1,1 @@
+La estación de Almendrales lleva el nombre del barrio de Usera al que da servicio. El topónimo probablemente alude a almendrales o terrenos poblados de almendros, aunque el origen documental preciso sigue estando débilmente acreditado.

@@ -1,0 +1,1 @@
+Príncipe de Vergara is named for the street above the station, which honors Baldomero Espartero by his title Prince of Vergara. The title commemorated the 1839 Vergara settlement that ended the northern front of the First Carlist War.

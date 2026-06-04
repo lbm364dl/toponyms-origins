@@ -1,0 +1,111 @@
+{
+  "id": "metro_045",
+  "name": "Cruz del Rayo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Colonia Cruz del Rayo and the older place-name Cruz del Rayo",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Cruz del Rayo: historia de la transformación de la primera colonia histórica de Madrid",
+      "url": "https://diario.madrid.es/chamartin/2024/01/23/cruz-del-rayo-historia-de-la-transformacion-de-la-primera-colonia-historica-de-madrid/",
+      "type": "official",
+      "relevance_en": "Madrid municipal source giving the lightning-cross legend, the 1928-1929 construction dates, the garden-city context, and the 1978 BIC/historic-file statement.",
+      "relevance_es": "Fuente municipal de Madrid que recoge la leyenda de la cruz y el rayo, las fechas de construcción de 1928-1929, el contexto de ciudad-jardín y la referencia al expediente BIC/histórico de 1978."
+    },
+    {
+      "title": "Arquitectura de Madrid: Colonia Cruz del Rayo (F2.221B)",
+      "url": "https://fcoam.eu/guia/F2/F2.221B.htm",
+      "type": "reference",
+      "relevance_en": "COAM/Fundación Arquitectura professional fiche documenting location, dates, Eduardo Ferrés y Puig, the promoter, Howard garden-city influence, layout, housing types, and BIC incoation in 1978.",
+      "relevance_es": "Ficha profesional del COAM/Fundación Arquitectura que documenta ubicación, fechas, Eduardo Ferrés y Puig, promotor, influencia de la ciudad-jardín de Howard, trazado, tipos de vivienda e incoación BIC en 1978."
+    },
+    {
+      "title": "BOE, 10 July 1978: Orden de 26 de mayo de 1978 sobre la colonia Cruz del Rayo",
+      "url": "https://www.boe.es/boe/dias/1978/07/10/",
+      "type": "official",
+      "relevance_en": "Official state gazette entry for the order opening the historic-artistic ensemble file for Colonia Cruz del Rayo.",
+      "relevance_es": "Entrada oficial del Boletín Oficial del Estado sobre la orden que incoa expediente de conjunto histórico-artístico a favor de la Colonia Cruz del Rayo."
+    },
+    {
+      "title": "BOCM, 9 October 2023: Listado de bienes inmuebles de patrimonio cultural de la Comunidad de Madrid",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/10/09/BOCM-20231009-23.PDF",
+      "type": "official",
+      "relevance_en": "Current regional heritage listing identifying Colonia Cruz del Rayo in Madrid as a historic ensemble with RBIC-1978-000002 and the 26 May 1978 order.",
+      "relevance_es": "Listado autonómico vigente de patrimonio que identifica la Colonia Cruz del Rayo en Madrid como conjunto histórico, con RBIC-1978-000002 y la orden de 26 de mayo de 1978."
+    },
+    {
+      "title": "Colonia Cruz del Rayo - Madrid Film Office",
+      "url": "https://madridfilmoffice.com/localizacion/colonia-cruz-del-rayo/",
+      "type": "official",
+      "relevance_en": "Municipal film-office page summarizing the colony’s 1928-1929 construction and its status as Madrid’s first colony following Howard’s garden-city model.",
+      "relevance_es": "Página municipal de Madrid Film Office que resume la construcción de la colonia en 1928-1929 y su condición de primera colonia madrileña inspirada en el modelo de ciudad-jardín de Howard."
+    },
+    {
+      "title": "Boletín Oficial de la Provincia de Madrid, 31 August 1940",
+      "url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/es/catalogo_imagenes/grupo.do?path=1113241",
+      "type": "archive",
+      "relevance_en": "Archival official notice referring to houses built by the Real Institución Cooperativa de Funcionarios del Estado, Provincia y Municipio at the site called Cruz del Rayo, showing the name as an official site-name before the Metro station.",
+      "relevance_es": "Aviso oficial de archivo que menciona casas construidas por la Real Institución Cooperativa de Funcionarios del Estado, Provincia y Municipio en el sitio denominado Cruz del Rayo, lo que muestra el nombre como topónimo oficial anterior al Metro."
+    },
+    {
+      "title": "Inventario del Ayuntamiento de Madrid: Bienes patrimoniales de Madrid 2024",
+      "url": "https://www.madrid.es/FWProjects/transparencia/EconomiaYPresupuestos/PatrimonioInventario/PatrimonioSuelo/ficheros/inventariopatrimoniomunicipalsuelo2024.pdf",
+      "type": "official",
+      "relevance_en": "Modern municipal inventory preserving the expression 'sitio llamado Cruz del Rayo' near Prosperidad, supporting the interpretation of Cruz del Rayo as an established local place-name.",
+      "relevance_es": "Inventario municipal moderno que conserva la expresión 'sitio llamado Cruz del Rayo' próximo a Prosperidad, apoyando la interpretación de Cruz del Rayo como topónimo local asentado."
+    },
+    {
+      "title": "El tramo del 'metro' Plaza de Castilla-Avenida de América se abre en diciembre",
+      "url": "https://elpais.com/diario/1983/11/18/madrid/438006257_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary press report before the opening of the Line 9 section listing Cruz del Rayo among the stations on the Plaza de Castilla-Avenida de América extension.",
+      "relevance_es": "Noticia contemporánea previa a la apertura del tramo de la línea 9 que enumera Cruz del Rayo entre las estaciones de la prolongación Plaza de Castilla-Avenida de América."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Describe the lightning-struck cross as a traditional legend, not as a verified historical event.",
+      "es": "Describir la cruz alcanzada por el rayo como una leyenda tradicional, no como un hecho histórico verificado."
+    },
+    {
+      "en": "Use 'incoated/opened BIC or historic-artistic protection file in 1978' rather than implying a completed BIC declaration in 1978.",
+      "es": "Usar 'incoación de expediente BIC o histórico-artístico en 1978' en lugar de insinuar una declaración BIC definitiva en 1978."
+    },
+    {
+      "en": "The station is more directly named after the place-name/colony Cruz del Rayo than after the physical cross itself.",
+      "es": "La estación se nombra más directamente por el topónimo/la colonia Cruz del Rayo que por la cruz física en sí."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive early documentary source for the original cross itself was not found; the earliest and strongest evidence found here supports the place-name and later colony, not the lightning incident.",
+      "es": "No se encontró una fuente documental temprana y definitiva sobre la cruz original; la evidencia más sólida localizada respalda el topónimo y la colonia posterior, no el suceso del rayo."
+    },
+    {
+      "en": "COAM cites archival files and Paloma Barreiro Pereira’s book and article on Madrid’s cheap housing and single-family colonies; consulting those physical or library sources may refine the chronology and housing counts.",
+      "es": "El COAM cita expedientes de archivo y obras de Paloma Barreiro Pereira sobre casas baratas y colonias unifamiliares de Madrid; consultar esas fuentes físicas o bibliográficas podría afinar la cronología y el número de viviendas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_045/en/summary.short.md",
+      "summary": "content/stations/metro_045/en/summary.md",
+      "story": "content/stations/metro_045/en/story.md",
+      "confidence": "content/stations/metro_045/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_045/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_045/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_045/es/summary.short.md",
+      "summary": "content/stations/metro_045/es/summary.md",
+      "story": "content/stations/metro_045/es/story.md",
+      "confidence": "content/stations/metro_045/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_045/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_045/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Estación del Arte es un nombre descriptivo moderno adoptado el 1 de diciembre de 2018 para la antigua estación de Metro de Atocha. Orienta a los viajeros hacia el gran eje museístico madrileño del Prado, Reina Sofía y Thyssen-Bornemisza, y distingue esta parada de la estación de Atocha vinculada al ferrocarril.

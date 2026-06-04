@@ -1,0 +1,1 @@
+La afirmación general es plausible: la estación toma el nombre del área urbana de Montecarmelo a la que da servicio MetroNorte, y ese nombre se vincula con el topónimo local anterior Monte Carmelo. Sin embargo, la cadena concreta PAU-arroyo-Monte Carmelo no queda demostrada por una fuente oficial directa, por lo que conviene tratarla como probable y no como verificada.

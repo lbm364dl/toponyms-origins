@@ -1,0 +1,1 @@
+La estación de Callao toma su nombre de la plaza del Callao, bajo la que se sitúa. Madrid dio ese nombre a la plaza en 1866 para conmemorar el combate naval librado ese año entre la Escuadra española del Pacífico y las defensas peruanas de El Callao.

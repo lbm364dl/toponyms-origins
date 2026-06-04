@@ -1,0 +1,1 @@
+La estación de O'Donnell toma su nombre de la calle de O'Donnell, dedicada a Leopoldo O'Donnell y Joris, general, líder de la Unión Liberal y presidente del Consejo de Ministros en el siglo XIX. La calle procede de la expansión oriental de Madrid tras el derribo de la antigua cerca urbana.

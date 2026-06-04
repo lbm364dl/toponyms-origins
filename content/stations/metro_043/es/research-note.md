@@ -1,0 +1,1 @@
+El modelo de datos más preciso registraría la estación como nombrada por una calle/topónimo, con el político como epónimo último. La página conjunta Metro/RAH explicita el vínculo con la persona, mientras que la ficha histórica de Metro aclara la ubicación física y la cronología de 1919, pero no desarrolla la biografía del político.

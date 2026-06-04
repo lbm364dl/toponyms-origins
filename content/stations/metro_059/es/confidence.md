@@ -1,0 +1,1 @@
+La relación entre la estación y la glorieta está apoyada directamente por una página oficial de infraestructuras de la Comunidad de Madrid, y la glorieta queda confirmada en el callejero oficial del Ayuntamiento. La confianza no se extiende al origen último de la expresión, que sigue sin documentarse.

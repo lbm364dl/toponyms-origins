@@ -1,0 +1,1 @@
+The core claim is verified: the station takes its name from the Glorieta de Cuatro Caminos, whose name refers to a historic crossroads. The transport history is also well supported, but the claim about a protected circular brick ventilation tower was not directly verified and should be treated cautiously.

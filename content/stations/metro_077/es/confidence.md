@@ -1,0 +1,1 @@
+El origen estación-barrio está verificado por fuentes oficiales de transporte y municipales, y el significado de 'almendral' está verificado por la RAE. La incertidumbre restante afecta al microtopónimo antiguo y al relato exacto de la venta de terrenos hacia 1954, que solo he encontrado en material secundario de historia local.

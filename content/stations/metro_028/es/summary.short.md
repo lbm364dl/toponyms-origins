@@ -1,0 +1,1 @@
+La estación toma su nombre del cercano estadio Metropolitano del Atlético de Madrid. Metro de Madrid cambió en junio de 2017 el antiguo nombre Estadio Olímpico, poco antes del traslado del club desde el Vicente Calderón.

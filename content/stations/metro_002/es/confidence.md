@@ -1,0 +1,1 @@
+El origen está respaldado directamente por la ficha histórica de Metro de Madrid, que vincula la estación con la Gran Vía y registra la apertura de 1919, el cambio de nombre de 1940 y la recuperación de 1983. Las fuentes municipales documentan de forma independiente la historia urbana de la avenida y la restauración democrática del nombre Gran Vía en el callejero.

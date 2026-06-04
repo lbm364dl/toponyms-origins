@@ -1,0 +1,1 @@
+The station-to-place connection is well supported by transport and planning sources, and the planning name 'Los Tres Olivos' is documented before the Metro station opened. Confidence is not 'verified' for the deeper botanical origin because no authoritative source inspected confirms the existence or naming role of three specific olive trees.

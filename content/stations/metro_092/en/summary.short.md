@@ -1,0 +1,1 @@
+San Bernardo station was named for the former Glorieta de San Bernardo, now Glorieta de Ruiz Giménez, and the adjoining Calle de San Bernardo. The Madrid street name is documented from an earlier hospital and convent of San Bernardo, linking it to Saint Bernard of Clairvaux rather than to the famous Bernardas monastery in Alcalá de Henares.

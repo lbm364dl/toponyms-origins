@@ -1,0 +1,1 @@
+Argüelles station takes its name from the Madrid district named for Agustín de Argüelles Álvarez, the liberal Asturian politician and Cádiz constitutionalist known as “El Divino.” Metro de Madrid’s historical file explicitly connects the station name with him and with the area around his statue.

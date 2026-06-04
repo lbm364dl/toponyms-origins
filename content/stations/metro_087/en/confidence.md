@@ -1,0 +1,1 @@
+Multiple official and historical sources agree on the naming chain: the station is in Plaza de Antón Martín; the plaza is named for Antón Martín; and Antón Martín founded the Hospital de Nuestra Señora del Amor de Dios there in 1552. Remaining uncertainty affects biographical fine points, not the etymology.

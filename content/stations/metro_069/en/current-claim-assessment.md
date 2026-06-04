@@ -1,0 +1,1 @@
+The existing claim is substantially correct: Delicias is a local place-name derived from the Paseo de las Delicias, historically Paseo de las Delicias del Rio. The railway-station details are accurate but should be framed as context for the wider Delicias transport area, not as the primary reason for the Metro name.

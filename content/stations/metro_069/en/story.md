@@ -1,0 +1,9 @@
+The transport name **Delicias** is a place-name. It points first to the Paseo de las Delicias, the long avenue in Arganzuela associated with the station area, and more deeply to an older leisure landscape on the south side of Madrid.
+
+The older form was **Paseo de las Delicias del Rio**. A Museo del Ferrocarril panel explains that the promenade ended at a place called Las Delicias beside the Manzanares canal. In this context, *delicias* did not name a person: it evoked a pleasant riverside setting, a place for strolling and recreation.
+
+The promenade belongs to Madrid's 18th-century remaking of its approaches and walks. During the reign of Carlos III, the southern area between the old urban edge and the Manzanares was ordered as a zone for public strolling, with broad tree-lined routes. Antonio Ponz, cited by the Museo del Ferrocarril, described the Delicias walk in 1793 as having separate space for people on foot and for coaches and carriages, planted with rows of elms.
+
+Art helps fix the name in the cityscape. Francisco Bayeu painted **El paseo de las Delicias** in 1784-1785; the Prado describes it as one of late-18th-century Madrid's popular promenades, linking the Manzanares with the Puerta de Atocha and continuing north toward the Prado and the Botanical Garden. That image shows Delicias before the district became strongly identified with railways, industry and working-class urban growth.
+
+The railway later reinforced the name. The former Madrid-Delicias station, built beside the paseo, was inaugurated on 30 March 1880 for the Madrid-Ciudad Real line continuing toward Portugal; it has housed the Railway Museum since 1984. Metro Line 3 reached Delicias on 26 March 1949, and Renfe's present Cercanias Delicias station opened in 1996 after the Pasillo Verde Ferroviario operation. The best-supported origin remains the historic paseo and its riverside place-name.

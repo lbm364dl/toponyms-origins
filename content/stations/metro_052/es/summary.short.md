@@ -1,0 +1,1 @@
+Carpetana debe su nombre a la Vía Carpetana, la avenida situada sobre la estación. La vía recuerda a los carpetanos, el pueblo prerromano asociado a la antigua Carpetania en la zona central del valle del Tajo, incluida la actual Comunidad de Madrid.

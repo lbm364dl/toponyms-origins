@@ -1,0 +1,1 @@
+The core claim is correct: the station was first opened as Progreso and was renamed Tirso de Molina after the Mercedarian playwright Gabriel Téllez. The strongest correction is that the documented station renaming date is 10 July 1939, and Tirso's early Mercedarian chronology is more nuanced than simply entering at Madrid's convent.

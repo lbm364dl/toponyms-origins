@@ -1,0 +1,1 @@
+Official Madrid tourism and heritage pages directly connect La Latina with Beatriz Galindo's nickname, and transport chronology sources show La Latina was part of Line 5 from 5 June 1968. The confidence applies to the toponymic origin, not to all traditional biographical claims about Galindo.

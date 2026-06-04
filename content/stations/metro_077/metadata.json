@@ -1,0 +1,111 @@
+{
+  "id": "metro_077",
+  "name": "Almendrales",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Almendrales neighbourhood, from almendrales: almond groves or places planted with almond trees",
+  "previous_names": "",
+  "naming_date": "2007-04-21",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 3 desde Legazpi a Villaverde Alto",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-3-legazpi-villaverde-alto",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid transport page confirming the Line 3 extension entered service on 21 April 2007 and that its route served the barrios of Almendrales and Las Carolinas in Usera.",
+      "relevance_es": "Página oficial de transporte de la Comunidad de Madrid que confirma la puesta en servicio de la prolongación de la línea 3 el 21 de abril de 2007 y que el trazado daba servicio a los barrios de Almendrales y Las Carolinas en Usera."
+    },
+    {
+      "title": "El alcalde asiste a la inauguración de la ampliación de la línea 3 de Metro",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-alcalde-asiste-a-la-inauguracion-de-la-ampliacion-de-la-linea-3-de-Metro/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=2c61ad32cae02110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council press notice placing the inauguration event at Almendrales station, Avenida de Córdoba 21, on 21 April 2007.",
+      "relevance_es": "Nota de prensa del Ayuntamiento de Madrid que sitúa el acto de inauguración en la estación de Almendrales, avenida de Córdoba 21, el 21 de abril de 2007."
+    },
+    {
+      "title": "almendral | Diccionario de la lengua española",
+      "url": "https://dle.rae.es/almendral",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary definition: 'almendral' means a place populated with almond trees, supporting the descriptive interpretation of the toponym.",
+      "relevance_es": "Definición lexicográfica autorizada: 'almendral' significa sitio poblado de almendros, lo que respalda la interpretación descriptiva del topónimo."
+    },
+    {
+      "title": "Colonia de los Almendrales",
+      "url": "https://madridfilmoffice.com/localizacion/colonia-de-los-almendrales/",
+      "type": "official",
+      "relevance_en": "Municipal Madrid Film Office page locating the Colonia de los Almendrales in Usera and dating its beginning to 1941, with a first major housing promotion in 1941-1944.",
+      "relevance_es": "Página municipal de Madrid Film Office que localiza la Colonia de los Almendrales en Usera y fecha su inicio en 1941, con una primera gran promoción de viviendas entre 1941 y 1944."
+    },
+    {
+      "title": "Viviendas para el INV en el Poblado de Almendrales (F3.357A)",
+      "url": "https://fcoam.eu/guia/F3/F3.357A.htm",
+      "type": "reference",
+      "relevance_en": "COAM architectural guide documenting the later Poblado de Almendrales in the Almendrales neighbourhood, projected in 1959 and built in 1959-1966.",
+      "relevance_es": "Guía de arquitectura del COAM que documenta el posterior Poblado de Almendrales en el barrio de Almendrales, proyectado en 1959 y construido entre 1959 y 1966."
+    },
+    {
+      "title": "Boletín Oficial del Estado núm. 203, 22 de julio de 1954",
+      "url": "https://www.boe.es/gazeta/dias/1954/07/22/pdfs/BOE-1954-203.pdf",
+      "type": "official",
+      "relevance_en": "Official 1954 notice mentioning schools of the Mater Purissima patronage in the Colonia de los Almendrales, barrio de Usera, proving the colony name was in official use by then.",
+      "relevance_es": "Anuncio oficial de 1954 que menciona las escuelas del Patronato Mater Purissima en la Colonia de los Almendrales, barrio de Usera, y prueba que el nombre de la colonia ya se usaba oficialmente entonces."
+    },
+    {
+      "title": "Diagnóstico de Sostenibilidad del distrito de Usera",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Educacion_Ambiental/Diagnosticos21Distritos/Usera/usera-1.pdf",
+      "type": "official",
+      "relevance_en": "Madrid City Council district diagnosis explaining Usera's 1987 district creation, its historical link with Villaverde, postwar housing pressures, and migrant population growth.",
+      "relevance_es": "Diagnóstico del Ayuntamiento de Madrid que explica la creación del distrito de Usera en 1987, su vínculo histórico con Villaverde, la presión residencial de posguerra y el crecimiento por población inmigrante."
+    },
+    {
+      "title": "Barrio de Los Almendrales (Usera, Madrid)",
+      "url": "https://urbancidades.wordpress.com/2012/03/01/barrio-de-los-almendrales-usera-madrid/",
+      "type": "other",
+      "relevance_en": "Detailed local-history article supporting the almond-tree land-sale tradition and the distinction between Almendrales Altos, Almendrales Bajos and the Colonia, but it is secondary and should not be treated as decisive alone.",
+      "relevance_es": "Artículo detallado de historia local que respalda la tradición de los terrenos con almendros vendidos en parcelas y la distinción entre Almendrales Altos, Almendrales Bajos y la Colonia, aunque es una fuente secundaria y no debe considerarse decisiva por sí sola."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present 'Cerro de los Almendros' as verified; the sources found support Cerro de Usera and the Almendrales name, but not that exact historical phrase.",
+      "es": "No debe presentarse 'Cerro de los Almendros' como verificado; las fuentes encontradas respaldan el cerro de Usera y el nombre Almendrales, pero no esa expresión histórica exacta."
+    },
+    {
+      "en": "The early Colonia de los Almendrales should be dated as beginning in 1941, with a major first promotion in 1941-1944, rather than only 1942-1945.",
+      "es": "La primera Colonia de los Almendrales debería fecharse como iniciada en 1941, con una primera gran promoción entre 1941 y 1944, no solo entre 1942 y 1945."
+    },
+    {
+      "en": "Separate the 1940s Colonia de los Almendrales from the later Poblado de Almendrales, documented by COAM as a 1959 project built in 1959-1966.",
+      "es": "Conviene separar la Colonia de los Almendrales de los años cuarenta del posterior Poblado de Almendrales, documentado por el COAM como proyecto de 1959 construido entre 1959 y 1966."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Can cadastral, municipal planning, IGN map, or archive records confirm an older field name such as 'Cerro de los Almendros' or 'Los Almendrales' before the 1940s housing colony?",
+      "es": "¿Pueden confirmar fuentes catastrales, urbanísticas municipales, mapas del IGN o archivos un nombre de paraje anterior como 'Cerro de los Almendros' o 'Los Almendrales' antes de la colonia de viviendas de los años cuarenta?"
+    },
+    {
+      "en": "What is the primary source for the local story that an owner sold almond-planted rural plots to migrant families around 1954?",
+      "es": "¿Cuál es la fuente primaria del relato local según el cual un propietario vendió parcelas rurales plantadas de almendros a familias migrantes hacia 1954?"
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_077/en/summary.short.md",
+      "summary": "content/stations/metro_077/en/summary.md",
+      "story": "content/stations/metro_077/en/story.md",
+      "confidence": "content/stations/metro_077/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_077/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_077/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_077/es/summary.short.md",
+      "summary": "content/stations/metro_077/es/summary.md",
+      "story": "content/stations/metro_077/es/story.md",
+      "confidence": "content/stations/metro_077/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_077/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_077/es/research-note.md"
+    }
+  }
+}

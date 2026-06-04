@@ -1,0 +1,1 @@
+Las páginas oficiales de turismo y patrimonio de Madrid conectan directamente La Latina con el sobrenombre de Beatriz Galindo, y las cronologías de la red de Metro sitúan La Latina en la línea 5 desde el 5 de junio de 1968. La confianza se refiere al origen toponímico, no a todos los relatos biográficos tradicionales sobre Galindo.

@@ -1,0 +1,1 @@
+Colombia station is named for Calle de Colombia in Chamartin's Hispanoamerica area, a Madrid street-name cluster honoring Spanish-speaking American countries and places. The station opened on Line 9b in 1983 and became a Line 8 interchange in 2002.

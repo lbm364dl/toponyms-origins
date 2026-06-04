@@ -1,0 +1,1 @@
+La ubicación, el acceso de la estación, la historia de apertura de la línea 4 y la documentación arquitectónica de la contigua Colonia Virgen de la Esperanza respaldan la etimología. La confianza es probable, no verificada, porque no se ha localizado una resolución primaria de Metro o municipal que diga explícitamente que la estación fue nombrada por la colonia.

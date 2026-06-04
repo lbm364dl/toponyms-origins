@@ -1,0 +1,101 @@
+{
+  "id": "metro_054",
+  "name": "Vista Alegre",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Finca de Vista Alegre",
+  "previous_names": "",
+  "naming_date": "1968",
+  "sources": [
+    {
+      "title": "Los Jardines de la Finca Vista Alegre: Bien de Interés Cultural",
+      "url": "https://www.comunidad.madrid/cultura/patrimonio-cultural/jardines-finca-vista-alegre-bien-interes-cultural",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid heritage page documenting the 1823 acquisition by Pablo Cabrero and Josefa Martínez, the naming of the public pleasure estate as Vista Alegre, the 1824 opening, and the later 1832 royal period.",
+      "relevance_es": "Página patrimonial oficial de la Comunidad de Madrid que documenta la adquisición de 1823 por Pablo Cabrero y Josefa Martínez, el bautismo de la quinta pública como Vista Alegre, la apertura de 1824 y la etapa regia posterior desde 1832."
+    },
+    {
+      "title": "Decreto 169/2018, de 11 de diciembre, BOCM: Jardines de los Palacios de la Finca Vista Alegre",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2018/12/14/BOCM-20181214-14.PDF",
+      "type": "official",
+      "relevance_en": "Primary legal declaration of the historic garden as BIC; it gives the most authoritative chronology, including the origin of the name, the 1832 sale to Fernando VII and gift to María Cristina, and the estate's heritage values.",
+      "relevance_es": "Declaración legal primaria del jardín histórico como BIC; ofrece la cronología más autorizada, incluido el origen del nombre, la venta de 1832 a Fernando VII y donación a María Cristina, y los valores patrimoniales de la finca."
+    },
+    {
+      "title": "Plan Especial de la Finca Vista Alegre: Memoria Histórica, diciembre 2007",
+      "url": "https://karabanchel.com/wp-content/uploads/2017/02/2-plan-especial-de-la-finca-de-vista-alegre-memoria-histc3b3rica-diciembre-2007.pdf",
+      "type": "official",
+      "relevance_en": "Detailed historical planning report that explains the estate's evolution from early public quinta to Real Posesión, then to José de Salamanca and later public uses; useful for nuance and bibliography.",
+      "relevance_es": "Memoria histórica detallada del planeamiento que explica la evolución de la finca desde quinta pública inicial hasta Real Posesión, después propiedad de José de Salamanca y más tarde usos públicos; útil para matices y bibliografía."
+    },
+    {
+      "title": "Finca de Vista Alegre",
+      "url": "https://www.esmadrid.com/informacion-turistica/finca-vista-alegre",
+      "type": "official",
+      "relevance_en": "Madrid tourism page confirming that the Finca de Vista Alegre is in the heart of the Vista Alegre neighbourhood in Carabanchel, was catalogued as a historic garden in 1997, declared BIC in 2018, and became royal property on 8 March 1832.",
+      "relevance_es": "Página turística oficial de Madrid que confirma que la Finca de Vista Alegre está en el corazón del barrio de Vista Alegre, en Carabanchel, que fue catalogada como jardín histórico en 1997, declarada BIC en 2018 y pasó a propiedad de la corona el 8 de marzo de 1832."
+    },
+    {
+      "title": "Inauguración tramo Callao-Carabanchel de línea 5",
+      "url": "https://www.memoriademadrid.es/view/387887/inauguracion-tramo-callao-carabanchel-de-linea-5",
+      "type": "archive",
+      "relevance_en": "Municipal archive item citing Metro de Madrid's 1968 annual report for the inauguration of Line 5's Callao-Carabanchel section on 5 June 1968, the section that included Vista Alegre.",
+      "relevance_es": "Registro del archivo municipal que cita la memoria de Metro de Madrid de 1968 sobre la inauguración del tramo Callao-Carabanchel de la línea 5 el 5 de junio de 1968, tramo que incluía Vista Alegre."
+    },
+    {
+      "title": "Dos toros del Palacio Vistalegre",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Dos-toros-del-Palacio-Vistalegre/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4f28091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage page documenting that the old Vista Alegre bullring occupied the Palacio Vistalegre site from 1908 until its demolition in 1995, correcting the dataset's bullring aside.",
+      "relevance_es": "Página de patrimonio municipal de Madrid que documenta que la antigua plaza de toros de Vista Alegre ocupó el solar del Palacio Vistalegre desde 1908 hasta su demolición en 1995, corrigiendo el apunte taurino de la fila."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present María Cristina as the first source of the name: official heritage sources say the property was baptized Vista Alegre by Pablo Cabrero Martínez and Josefa Martínez Artó before its 1824 opening as a public pleasure estate.",
+      "es": "No debe presentarse a María Cristina como origen primero del nombre: las fuentes patrimoniales oficiales indican que la propiedad fue bautizada como Vista Alegre por Pablo Cabrero Martínez y Josefa Martínez Artó antes de su apertura en 1824 como quinta pública de recreo."
+    },
+    {
+      "en": "The 1832 transfer should be stated more precisely: the BIC decree says the estate was sold to Fernando VII, who gave it to Queen María Cristina de Borbón; other official summaries simplify this as passing to María Cristina.",
+      "es": "La transmisión de 1832 debe formularse con más precisión: el decreto BIC dice que la finca fue vendida a Fernando VII, quien la regaló a la reina María Cristina de Borbón; otros resúmenes oficiales lo simplifican diciendo que pasó a María Cristina."
+    },
+    {
+      "en": "Remove or qualify the bullring sentence. The historic Vista Alegre bullring was inaugurated in 1908 and demolished in 1995; the present Palacio Vistalegre occupies that bullring site, but it is not needed to explain the station name.",
+      "es": "Conviene eliminar o matizar la frase sobre la plaza de toros. La histórica plaza de toros de Vista Alegre fue inaugurada en 1908 y demolida en 1995; el actual Palacio Vistalegre ocupa ese solar taurino, pero no es necesario para explicar el nombre de la estación."
+    },
+    {
+      "en": "The specific claim that the name refers to panoramic views of the Manzanares valley should be softened unless a direct historical source is added; the official BIC text supports open, attractive views of the urban setting more generally.",
+      "es": "La afirmación concreta de que el nombre alude a panorámicas del valle del Manzanares debería suavizarse salvo que se añada una fuente histórica directa; el texto oficial del BIC respalda de forma más general las vistas despejadas y bellas del entorno urbano."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid internal naming record or opening programme for Vista Alegre station would be useful to confirm whether the station was explicitly named for the neighbourhood, the estate, or both.",
+      "es": "Sería útil consultar un registro interno de denominación o programa de inauguración de Metro de Madrid para confirmar si la estación se nombró explícitamente por el barrio, por la finca o por ambos."
+    },
+    {
+      "en": "The exact popular or promotional reason for choosing the phrase Vista Alegre in the 1820s may require inspection of advertisements, guidebooks or archival material from the original public pleasure estate.",
+      "es": "La razón popular o propagandística exacta para elegir la expresión Vista Alegre en la década de 1820 puede requerir la consulta de anuncios, guías o documentación de archivo de la quinta pública original."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_054/en/summary.short.md",
+      "summary": "content/stations/metro_054/en/summary.md",
+      "story": "content/stations/metro_054/en/story.md",
+      "confidence": "content/stations/metro_054/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_054/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_054/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_054/es/summary.short.md",
+      "summary": "content/stations/metro_054/es/summary.md",
+      "story": "content/stations/metro_054/es/story.md",
+      "confidence": "content/stations/metro_054/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_054/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_054/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Tres Olivos station takes its name from the Tres Olivos residential area around it, not from a person or event. In Madrid planning documents the area appears as 'Los Tres Olivos', specifically API.08.05, a partial-plan sector in Fuencarral. The Metro stop inherited that established local name when it opened on Line 10.
+
+The words themselves are transparent Spanish: 'tres olivos' means 'three olive trees'. That gives the name a rural, landscape feel, appropriate for a northern edge of Madrid that was urbanised relatively late. Still, the literal meaning should be kept separate from proof of origin: the sources inspected document the planning name, but do not demonstrate that three particular olive trees once stood as a landmark here.
+
+The urban history is clearer. The sector lay north of the old Fuencarral town centre, between the former Irún road, the Colmenar road and the older Nuevo Toboso development. The Plan Parcial 'Los Tres Olivos' was drawn up in 1986-1987, processed as planning in 1988, and later modified in 1993; it was conceived as an extension of Fuencarral with a partly autonomous structure.
+
+The plan gave the neighbourhood a distinctive geometry. Its authors described a central Plaza de Los Tres Olivos as the social and commercial focus, with radial connections and ring-like internal streets. That urban design detail is stronger evidence for the station name than later generic descriptions of nearby green space.
+
+Tres Olivos became a transport name on 26 April 2007, when the MetroNorte extension of Line 10 opened toward Alcobendas and San Sebastián de los Reyes. The station also became the operational break between the main Line 10 section and the northern branch, requiring a change of train for many passengers. The safest public explanation is therefore: named after the local residential area and planning sector 'Los Tres Olivos'; literal meaning 'three olive trees'; exact tree-based origin unproven.

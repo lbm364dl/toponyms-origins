@@ -1,0 +1,1 @@
+La fila existente es sustancialmente correcta al explicar que la estación toma el nombre del área de la Prosperidad y al vincular el origen de 1862 con Próspero Soynard y Polen. Su principal debilidad es la clasificación: la estación de metro se nombra directamente por la plaza/el barrio de la Prosperidad, mientras que Soynard es el origen último del topónimo.

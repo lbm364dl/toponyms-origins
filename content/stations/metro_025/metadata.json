@@ -1,0 +1,100 @@
+{
+  "id": "metro_025",
+  "name": "Santiago Bernabeu",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Santiago Bernabéu de Yeste",
+  "previous_names": "Lima",
+  "naming_date": "18 December 1997; later official summaries sometimes state 1998",
+  "sources": [
+    {
+      "title": "La Comunidad de Madrid inicia las obras de modernización de la estación de Metro Santiago Bernabéu",
+      "url": "https://www.comunidad.madrid/noticias/2024/02/16/comunidad-madrid-inicia-obras-modernizacion-estacion-metro-santiago-bernabeu",
+      "type": "official",
+      "relevance_en": "Official regional source confirming the station is on Line 10, was inaugurated in 1982 as Lima, and was later renamed Santiago Bernabéu because of its link with the Real Madrid stadium.",
+      "relevance_es": "Fuente oficial regional que confirma que la estación pertenece a la línea 10, se inauguró en 1982 como Lima y fue renombrada Santiago Bernabéu por su vinculación con el estadio del Real Madrid."
+    },
+    {
+      "title": "La estación de metro de Lima se llamará Santiago Bernabéu",
+      "url": "https://elpais.com/diario/1997/12/16/madrid/882275057_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report announcing that Lima station would become Santiago Bernabéu the following Thursday and tying the decision to the stadium's 50th anniversary.",
+      "relevance_es": "Crónica contemporánea que anuncia que la estación de Lima pasaría a llamarse Santiago Bernabéu el jueves siguiente y relaciona la decisión con el cincuentenario del estadio."
+    },
+    {
+      "title": "Próxima estación: Bernabéu",
+      "url": "https://elpais.com/diario/1997/12/19/madrid/882534264_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary account of the 18 December 1997 name-change ceremony, noting provisional signs, the initial missing accent, and that Plaza de Lima kept its name.",
+      "relevance_es": "Relato contemporáneo del acto de cambio de nombre del 18 de diciembre de 1997, con mención de los carteles provisionales, la falta inicial de tilde y la conservación del nombre de la plaza de Lima."
+    },
+    {
+      "title": "Santiago Bernabéu - Presidentes",
+      "url": "https://www.realmadrid.com/es-ES/el-club/historia/presidentes/santiago-bernabeu/",
+      "type": "official",
+      "relevance_en": "Real Madrid's official biography gives Bernabéu's birth details, presidency from 1943 to 1978, role in building Nuevo Chamartín, European Cups and the 1955 stadium name change.",
+      "relevance_es": "Biografía oficial del Real Madrid con sus datos de nacimiento, presidencia de 1943 a 1978, papel en la construcción del Nuevo Chamartín, Copas de Europa y cambio de nombre del estadio en 1955."
+    },
+    {
+      "title": "Estadio Santiago Bernabéu - Real Madrid",
+      "url": "https://www.realmadrid.com/es-ES/el-club/historia/estadio/santiago-bernabeu",
+      "type": "official",
+      "relevance_en": "Official Real Madrid stadium history confirming that in 1955 the club members decided unanimously to call the stadium Santiago Bernabéu.",
+      "relevance_es": "Historia oficial del estadio del Real Madrid que confirma que en 1955 los socios compromisarios decidieron por unanimidad llamarlo Santiago Bernabéu."
+    },
+    {
+      "title": "Santiago Bernabéu de Yeste - Diccionario Biográfico de Castilla-La Mancha",
+      "url": "https://diccionariobiograficodecastillalamancha.es/biografias/santiago-bernabeu-de-yeste/",
+      "type": "reference",
+      "relevance_en": "Biographical reference with fuller context on Bernabéu's life, presidency, promotion of the stadium, European Cup success, and debated political context.",
+      "relevance_es": "Referencia biográfica con contexto más amplio sobre la vida de Bernabéu, su presidencia, el impulso del estadio, los éxitos en la Copa de Europa y el contexto político debatido."
+    },
+    {
+      "title": "Los cambios de nombre en el Metro de Madrid. Historia de su infraestructura",
+      "url": "https://madridmobilite.com/2016/08/03/los-cambios-de-nombre-en-el-metro-de-madrid-historia-de-su-infraestructura/",
+      "type": "other",
+      "relevance_en": "Specialized transport-history article listing the old Line 8 stations, including Lima, and giving 18 December 1997 as the Lima to Santiago Bernabéu change.",
+      "relevance_es": "Artículo especializado de historia del transporte que enumera las estaciones de la antigua línea 8, incluida Lima, y da el 18 de diciembre de 1997 como fecha del cambio de Lima a Santiago Bernabéu."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The displayed station name should include the accent: Santiago Bernabéu.",
+      "es": "El nombre mostrado de la estación debería llevar tilde: Santiago Bernabéu."
+    },
+    {
+      "en": "The naming date should be qualified: the public renaming act is documented on 18 December 1997, but later Comunidad de Madrid pages state 1998.",
+      "es": "La fecha de denominación debe matizarse: el acto público de cambio está documentado el 18 de diciembre de 1997, pero páginas posteriores de la Comunidad de Madrid indican 1998."
+    },
+    {
+      "en": "The station name is mediated by the stadium: the Metro stop was renamed for the nearby Estadio Santiago Bernabéu, which itself was named for Santiago Bernabéu de Yeste.",
+      "es": "El nombre de la estación pasa por el estadio: la parada de Metro fue renombrada por el cercano Estadio Santiago Bernabéu, que a su vez lleva el nombre de Santiago Bernabéu de Yeste."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid or CRTM internal resolution, signage order, or BOCM notice should be checked to decide whether the canonical dataset date should be 18 December 1997 or 1998.",
+      "es": "Conviene revisar una resolución interna de Metro de Madrid o del CRTM, una orden de señalización o un aviso del BOCM para decidir si la fecha canónica del conjunto de datos debe ser el 18 de diciembre de 1997 o 1998."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_025/en/summary.short.md",
+      "summary": "content/stations/metro_025/en/summary.md",
+      "story": "content/stations/metro_025/en/story.md",
+      "confidence": "content/stations/metro_025/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_025/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_025/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_025/es/summary.short.md",
+      "summary": "content/stations/metro_025/es/summary.md",
+      "story": "content/stations/metro_025/es/story.md",
+      "confidence": "content/stations/metro_025/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_025/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_025/es/research-note.md"
+    }
+  }
+}

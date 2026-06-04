@@ -1,0 +1,108 @@
+{
+  "id": "metro_013",
+  "name": "Príncipe de Vergara",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Baldomero Espartero, Príncipe de Vergara, via Calle del Príncipe de Vergara",
+  "previous_names": "General Mola (station name during the Franco period until the 1983 restoration; street officially Calle del General Mola from 12/12/1940 to 25/01/1980).",
+  "naming_date": "Current station name restored effective 1983-06-27; street name restored 1980-01-25; original street name recorded from 1880-07-21.",
+  "sources": [
+    {
+      "title": "Ayuntamiento de Madrid, Histórico de viales/calles",
+      "url": "https://datos.madrid.es/FWProjects/egob/contenidos/datasets/ficheros/UrbanismoInfraestructuras_Callejero/Hist%C3%B3rico%20de%20viales.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal street-history data for Calle del Príncipe de Vergara: original naming on 21 July 1880, General Mola from 12 December 1940 to 25 January 1980, and restored Príncipe de Vergara from 25 January 1980.",
+      "relevance_es": "Datos oficiales del histórico municipal de la calle del Príncipe de Vergara: denominación original el 21 de julio de 1880, General Mola del 12 de diciembre de 1940 al 25 de enero de 1980 y recuperación de Príncipe de Vergara desde el 25 de enero de 1980."
+    },
+    {
+      "title": "memoriademadrid, Estación de Príncipe de Vergara",
+      "url": "https://www.memoriademadrid.es/view/399579",
+      "type": "archive",
+      "relevance_en": "Metro-linked archive record stating that the station opened on 14 June 1924 on Line 2, was called General Mola during the Franco dictatorship, and later recovered its original name; it also documents the Line 9 platform context.",
+      "relevance_es": "Ficha archivística vinculada a Metro que indica que la estación se inauguró el 14 de junio de 1924 en la línea 2, se llamó General Mola durante la dictadura franquista y después recuperó su nombre original; también documenta el contexto del andén de la línea 9."
+    },
+    {
+      "title": "El País, 'Cambian de nombre las estaciones de metro de José Antonio, Elvas y General Mola'",
+      "url": "https://elpais.com/diario/1983/06/22/madrid/425129061_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report dated 22 June 1983 saying General Mola station would be renamed Príncipe de Vergara from the following Monday, matching the restored official street name.",
+      "relevance_es": "Noticia contemporánea del 22 de junio de 1983 que anuncia que la estación General Mola pasaría a llamarse Príncipe de Vergara desde el lunes siguiente, adaptándose al nombre oficial recuperado de la calle."
+    },
+    {
+      "title": "Gaceta de Madrid, núm. 2, 2 de enero de 1872",
+      "url": "https://www.boe.es/gazeta/dias/1872/01/02/pdfs/GMD-1872-2.pdf",
+      "type": "official",
+      "relevance_en": "Primary decree granting Baldomero Espartero the title Príncipe de Vergara, with treatment of Highness, for his services and especially those rendered in the fields of Vergara ending the civil war.",
+      "relevance_es": "Decreto primario que concede a Baldomero Espartero el título de príncipe de Vergara, con tratamiento de Alteza, por sus servicios y especialmente por los prestados en los campos de Vergara al poner término a la guerra civil."
+    },
+    {
+      "title": "Real Academia de la Historia, Historia Hispánica: 1839 31/VIII",
+      "url": "https://historia-hispanica.rah.es/hechos/1389831-1839-31-viii",
+      "type": "reference",
+      "relevance_en": "Authoritative chronology identifying 31 August 1839 as the Abrazo de Vergara, when the convention signed at Oñate on 29 August came into force and ended the Carlist War in the north.",
+      "relevance_es": "Cronología autorizada que identifica el 31 de agosto de 1839 como el Abrazo de Vergara, cuando entró en vigor el convenio firmado en Oñate el 29 de agosto y terminó la Guerra Carlista en el norte."
+    },
+    {
+      "title": "Spanish Senate, Historic collections: Baldomero Espartero, Príncipe de Vergara, Duque de la Victoria",
+      "url": "https://www.senado.es/web/conocersenado/arteypatrimonio/obrapictorica/fondohistorico/detalle/index.html?id=SENPRE_014980&lang=en",
+      "type": "official",
+      "relevance_en": "Official institutional biographical context for Espartero, describing his rise from modest origins to Prince of Vergara with the treatment of Royal Highness and his liberal significance.",
+      "relevance_es": "Contexto biográfico institucional sobre Espartero, que describe su ascenso desde un origen modesto hasta príncipe de Vergara con tratamiento de Alteza Real y su importancia para el liberalismo español."
+    },
+    {
+      "title": "BOE, Resolución de 23 de abril de 1985 sobre rehabilitación del título de Príncipe de Vergara",
+      "url": "https://www.boe.es/boe/dias/1985/06/21/pdfs/A19265-19266.pdf",
+      "type": "official",
+      "relevance_en": "Later official notice confirming that the title Príncipe de Vergara was granted to Baldomero Fernández Espartero on 2 January 1872, though in a succession/rehabilitation context.",
+      "relevance_es": "Anuncio oficial posterior que confirma que el título de príncipe de Vergara fue concedido a Baldomero Fernández Espartero el 2 de enero de 1872, aunque en el contexto de una solicitud de rehabilitación del título."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the street renaming period 'General Mola (1939-1981)' with the official street record: Calle del General Mola from 12 December 1940 to 25 January 1980.",
+      "es": "Sustituir el periodo 'General Mola (1939-1981)' por el dato oficial del callejero: calle del General Mola del 12 de diciembre de 1940 al 25 de enero de 1980."
+    },
+    {
+      "en": "Clarify that the 1839 settlement was signed at Oñate on 29 August and confirmed or brought into force at Vergara on 31 August; the popular Abrazo de Vergara belongs to the latter date.",
+      "es": "Aclarar que el acuerdo de 1839 se firmó en Oñate el 29 de agosto y se confirmó o entró en vigor en Vergara el 31 de agosto; el popular Abrazo de Vergara corresponde a esta segunda fecha."
+    },
+    {
+      "en": "Clarify that Espartero was granted the title Prince of Vergara on 2 January 1872 by King Amadeo I, long after the 1839 convention.",
+      "es": "Aclarar que Espartero recibió el título de príncipe de Vergara el 2 de enero de 1872 de manos del rey Amadeo I, mucho después del convenio de 1839."
+    },
+    {
+      "en": "Use 27 June 1983 as the best-supported effective date for the Metro station's restoration to Príncipe de Vergara, while noting the conflicting 1984 date in a Metro archive description.",
+      "es": "Usar el 27 de junio de 1983 como fecha efectiva mejor documentada para la recuperación del nombre Príncipe de Vergara en la estación, señalando la fecha discrepante de 1984 en una ficha archivística de Metro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid board resolution or internal circular from June 1983 would be the strongest primary source for the exact station-renaming date.",
+      "es": "Un acuerdo del consejo de Metro de Madrid o una circular interna de junio de 1983 sería la fuente primaria más sólida para la fecha exacta del cambio de nombre de la estación."
+    },
+    {
+      "en": "The exact date when the station first adopted General Mola during the Franco period was not independently found; it likely followed the street, but the available sources do not give a station-specific day.",
+      "es": "No se ha localizado de forma independiente la fecha exacta en que la estación adoptó el nombre General Mola durante el franquismo; probablemente siguió a la calle, pero las fuentes disponibles no dan un día específico para la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_013/en/summary.short.md",
+      "summary": "content/stations/metro_013/en/summary.md",
+      "story": "content/stations/metro_013/en/story.md",
+      "confidence": "content/stations/metro_013/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_013/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_013/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_013/es/summary.short.md",
+      "summary": "content/stations/metro_013/es/summary.md",
+      "story": "content/stations/metro_013/es/story.md",
+      "confidence": "content/stations/metro_013/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_013/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_013/es/research-note.md"
+    }
+  }
+}

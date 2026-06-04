@@ -1,0 +1,100 @@
+{
+  "id": "metro_043",
+  "name": "Ríos Rosas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Antonio Sánchez del Río y López de la Rosa, known as Antonio de los Ríos Rosas or Antonio de los Ríos y Rosas",
+  "previous_names": "",
+  "naming_date": "17 October 1919; the adjacent street name is reported in street-name references as dating from 1880",
+  "sources": [
+    {
+      "title": "Correspondencia con la Historia - Real Academia de la Historia",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "official",
+      "relevance_en": "RAH and Metro de Madrid list RÍOS ROSAS as a station-name biography linked to Antonio Sánchez del Río y López de la Rosa, directly supporting the station-person identification.",
+      "relevance_es": "La RAH y Metro de Madrid incluyen RÍOS ROSAS como biografía asociada a estación y enlazan el nombre con Antonio Sánchez del Río y López de la Rosa, lo que respalda directamente la identificación estación-persona."
+    },
+    {
+      "title": "Antonio de los Ríos y Rosas | Académico | Real Academia Española",
+      "url": "https://www.rae.es/academico/antonio-de-los-rios-y-rosas",
+      "type": "official",
+      "relevance_en": "Provides authoritative biographical details: birth in Ronda on 16 March 1812, death in Madrid on 3 November 1873, legal training, political offices, RAE membership, and reputation as an orator and jurist.",
+      "relevance_es": "Aporta datos biográficos autorizados: nacimiento en Ronda el 16 de marzo de 1812, muerte en Madrid el 3 de noviembre de 1873, formación jurídica, cargos políticos, pertenencia a la RAE y reputación como orador y jurista."
+    },
+    {
+      "title": "Antonio de los Ríos Rosas - Presidente - Congreso de los Diputados",
+      "url": "https://www.congreso.es/web/guest/presidentes-del-congreso-de-los-diputados?codigo=95760&p_p_id=diputadomodule&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal&tipoHistorico=1",
+      "type": "official",
+      "relevance_en": "Confirms his role as president of the Cortes/Congress in the legislatures 1863-1864, 1865-1866 and 1872, strengthening the political-biographical context.",
+      "relevance_es": "Confirma su papel como presidente de las Cortes/Congreso en las legislaturas 1863-1864, 1865-1866 y 1872, reforzando el contexto político-biográfico."
+    },
+    {
+      "title": "MM Estaciones con Historia: Ríos Rosas - Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-rios-rosas.pdf",
+      "type": "official",
+      "relevance_en": "Metro museum sheet confirms the station's 1919 inauguration, its place in the first Cuatro Caminos-Sol section, and its location on Calle Santa Engracia at Calle Ríos Rosas.",
+      "relevance_es": "Ficha museística de Metro que confirma la inauguración de la estación en 1919, su pertenencia al primer tramo Cuatro Caminos-Sol y su ubicación en la calle Santa Engracia a la altura de Ríos Rosas."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport history confirms that Line 1 was inaugurated on 17 October 1919 by Alfonso XIII between Sol and Cuatro Caminos, with Ríos Rosas among the intermediate stations.",
+      "relevance_es": "Historia oficial regional del transporte que confirma que la línea 1 fue inaugurada el 17 de octubre de 1919 por Alfonso XIII entre Sol y Cuatro Caminos, con Ríos Rosas entre las estaciones intermedias."
+    },
+    {
+      "title": "Calle de Ríos Rosas",
+      "url": "https://es.wikipedia.org/wiki/Calle_de_R%C3%ADos_Rosas",
+      "type": "reference",
+      "relevance_en": "Useful secondary orientation for the street: it states the street was named in 1880 for Antonio de los Ríos y Rosas and cites Madrid street-name works by Gea, Montero, Peñasco/Cambronero and Répide; the underlying municipal act was not inspected.",
+      "relevance_es": "Orientación secundaria útil sobre la calle: indica que fue bautizada en 1880 en honor de Antonio de los Ríos y Rosas y cita obras del callejero madrileño de Gea, Montero, Peñasco/Cambronero y Répide; no se consultó el acuerdo municipal original."
+    },
+    {
+      "title": "Ríos Rosas - Biblioteca Digital de Andalucía",
+      "url": "https://www.bibliotecadigitaldeandalucia.es/catalogo/es/catalogo_imagenes/grupo.do?path=1016875",
+      "type": "archive",
+      "relevance_en": "Digitized historical biographical material supports the period description of Ríos Rosas as an exceptional parliamentary orator and includes the comparison with Demosthenes, Cicerón and Mirabeau.",
+      "relevance_es": "Material biográfico histórico digitalizado que respalda la caracterización de época de Ríos Rosas como orador parlamentario excepcional e incluye la comparación con Demóstenes, Cicerón y Mirabeau."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station is named after the nearby Calle de Ríos Rosas, which honours the politician, rather than proving a direct station-dedication act to him.",
+      "es": "Aclarar que la estación toma el nombre de la cercana calle de Ríos Rosas, que homenajea al político, en lugar de presentar como probado un acto directo de dedicatoria de la estación."
+    },
+    {
+      "en": "Use the fuller authoritative identity: Antonio Sánchez del Río y López de la Rosa, known as Antonio de los Ríos Rosas or Antonio de los Ríos y Rosas.",
+      "es": "Usar la identidad autorizada más completa: Antonio Sánchez del Río y López de la Rosa, conocido como Antonio de los Ríos Rosas o Antonio de los Ríos y Rosas."
+    },
+    {
+      "en": "The Demosthenes comparison has historical support in 19th-century biographical writing, but it should be treated as a period judgement about his oratory, not as the main evidence for the station name.",
+      "es": "La comparación con Demóstenes tiene apoyo en literatura biográfica del siglo XIX, pero debe tratarse como un juicio de época sobre su oratoria, no como prueba principal del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal street-naming act or callejero file for the reported 1880 naming of Calle de Ríos Rosas.",
+      "es": "Consultar el acuerdo municipal original o expediente de callejero de Madrid relativo a la datación de 1880 atribuida a la calle de Ríos Rosas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_043/en/summary.short.md",
+      "summary": "content/stations/metro_043/en/summary.md",
+      "story": "content/stations/metro_043/en/story.md",
+      "confidence": "content/stations/metro_043/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_043/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_043/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_043/es/summary.short.md",
+      "summary": "content/stations/metro_043/es/summary.md",
+      "story": "content/stations/metro_043/es/story.md",
+      "confidence": "content/stations/metro_043/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_043/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_043/es/research-note.md"
+    }
+  }
+}

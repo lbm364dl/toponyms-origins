@@ -1,0 +1,9 @@
+Sol station takes its name from the Puerta del Sol, the square directly above the platforms. For passengers the word now feels like a shorthand for the center of Madrid, but it began as the name of a real urban threshold: a puerta or postern at the edge of the old town.
+
+Madrid's municipal heritage catalogue gives the clearest official explanation. It says Puerta del Sol was named for a postern in the medieval wall that was decorated with a sun. The same account places the original spot outside the walled town, before Madrid's eastward growth gradually turned that edge into a crossroads and then into the capital's center.
+
+Older popular histories add other details, especially the idea that the name was connected with the Comuneros revolt around 1520 or with a defensive work built at that time. Those versions are useful as part of the legend of the square, but they are not as strong as the municipal heritage account and should not be presented as settled fact. The safest wording is that the name comes from a medieval wall gate or postern associated with a sun emblem, with the exact early chronology still imperfectly documented.
+
+The transport history reinforces why the short name Sol became so powerful. Metro de Madrid's historical station sheet records Sol as the terminus of the first Metro line, Cuatro Caminos-Sol, inaugurated on 17 October 1919. Lines 2 and 3 later made it an interchange, and the Cercanías station opened below the square in 2009, placing suburban rail under the Kilometre Zero area.
+
+The square above the station explains the name's public weight. Puerta del Sol contains the Kilometre Zero marker, the clock of the Casa de Correos used for the New Year's Eve chimes, and the Bear and the Strawberry Tree statue, Madrid's heraldic emblem. The station has briefly had commercial names, including Sol Galaxy Note in 2012 and Vodafone Sol from 1 June 2013 until 1 June 2016, but the enduring toponym is the older one: Sol.

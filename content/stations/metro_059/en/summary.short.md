@@ -1,0 +1,1 @@
+Mar de Cristal takes its name from the Glorieta del Mar de Cristal in Hortaleza. The roundabout is an official Madrid street toponym recorded from 31 May 1990, while the origin of the poetic phrase itself is not documented.

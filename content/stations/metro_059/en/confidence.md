@@ -1,0 +1,1 @@
+The station-to-roundabout naming link is directly supported by an official Community of Madrid infrastructure page, and the roundabout is confirmed in Madrid’s official street dataset. Confidence is not extended to the ultimate inspiration for the phrase, which remains undocumented.

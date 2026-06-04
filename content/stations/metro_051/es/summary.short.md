@@ -1,0 +1,1 @@
+La estación de Francos Rodríguez toma su nombre de la calle de Francos Rodríguez, dedicada a José Francos Rodríguez, médico, periodista, escritor y político madrileño. Fue alcalde de Madrid, ministro, académico de la RAE y figura clave de la prensa madrileña.

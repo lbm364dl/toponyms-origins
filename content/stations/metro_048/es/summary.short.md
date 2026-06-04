@@ -1,0 +1,1 @@
+La estación de Tetuán lleva el nombre del distrito madrileño, cuyo nombre antiguo, Tetuán de las Victorias, recordaba la victoria y toma española de Tetuán, Marruecos, en 1860. El barrio creció en torno a la dehesa de Amaniel y la carretera de Francia tras el breve campamento del ejército regresado y la llegada de comerciantes y pobladores.

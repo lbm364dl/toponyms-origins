@@ -1,0 +1,1 @@
+La relación entre la estación y el lugar está bien respaldada por fuentes de transporte y planeamiento, y el nombre urbanístico 'Los Tres Olivos' está documentado antes de la apertura del Metro. La confianza no es 'verified' para el origen botánico profundo porque ninguna fuente autorizada consultada confirma la existencia o el papel denominador de tres olivos concretos.

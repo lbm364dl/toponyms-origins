@@ -1,0 +1,104 @@
+{
+  "id": "metro_069",
+  "name": "Delicias",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Paseo de las Delicias",
+  "previous_names": "",
+  "naming_date": "Metro: 26 March 1949; Cercanias: 1996",
+  "sources": [
+    {
+      "title": "Paseo de las Delicias - 140 anos de una estacion",
+      "url": "https://www.museodelferrocarril.org/140Delicias/pdf/FichasDelicias/24_Paseo_de_las_Delicias.pdf",
+      "type": "official",
+      "relevance_en": "Directly states that Madrid-Delicias took its name from the Paseo de las Delicias, gives the older name Paseo de las Delicias del Rio, and explains the riverside place called Las Delicias.",
+      "relevance_es": "Afirma directamente que Madrid-Delicias tomo su nombre del Paseo de las Delicias, da el nombre antiguo Paseo de las Delicias del Rio y explica el paraje ribereno llamado Las Delicias."
+    },
+    {
+      "title": "La Estacion de ferrocarril Madrid-Delicias (1875-2011): arquitectura, usos y fuentes documentales",
+      "url": "https://www.museodelferrocarril.org/estacion/pdf/delicias_dt1201phf.pdf",
+      "type": "academic",
+      "relevance_en": "Museum research document noting that the railway station was often called Estacion de las Delicias because it stood by the Paseo de las Delicias, and giving archival context for the station's location and history.",
+      "relevance_es": "Documento de investigacion del museo que indica que la estacion ferroviaria fue llamada a menudo Estacion de las Delicias por estar junto al Paseo de las Delicias, y aporta contexto archivistico sobre su emplazamiento e historia."
+    },
+    {
+      "title": "El paseo de las Delicias - Museo Nacional del Prado",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/el-paseo-de-las-delicias/851ffc67-485b-477f-8be2-915e2c5cea39",
+      "type": "official",
+      "relevance_en": "Prado catalogue entry for Francisco Bayeu's 1784-1785 painting, documenting the paseo as a popular late-18th-century Madrid promenade between the Manzanares and Atocha.",
+      "relevance_es": "Ficha del Prado del cuadro de Francisco Bayeu de 1784-1785, que documenta el paseo como uno de los lugares populares de paseo del Madrid de finales del siglo XVIII entre el Manzanares y Atocha."
+    },
+    {
+      "title": "La Linea 3 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-3-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the Embajadores-Delicias section of Metro Line 3 opened on 26 March 1949.",
+      "relevance_es": "Confirma que el tramo Embajadores-Delicias de la linea 3 de Metro se inauguro el 26 de marzo de 1949."
+    },
+    {
+      "title": "Estacion de Delicias - Renfe Cercanias Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-delicias",
+      "type": "official",
+      "relevance_en": "Confirms that the present Cercanias Delicias station opened to the public in 1996 after the Pasillo Verde Ferroviario operation and distinguishes it from the old railway station now used as the Railway Museum.",
+      "relevance_es": "Confirma que la actual estacion de Cercanias de Delicias abrio al publico en 1996 tras la operacion del Pasillo Verde Ferroviario y la distingue de la antigua estacion ferroviaria, hoy Museo del Ferrocarril."
+    },
+    {
+      "title": "Cubierta de la estacion de ferrocarril Madrid-Delicias - Museo del Ferrocarril de Madrid",
+      "url": "https://www.museodelferrocarril.org/estacion/pdf/EstacionDelicias_Cubierta.pdf",
+      "type": "official",
+      "relevance_en": "Gives authoritative details on the old Madrid-Delicias railway station: Émile Cachelièvre, 1879-1880, inauguration on 30 March 1880, Madrid-Ciudad Real service, later Madrid-Lisbon role, closure in 1971 and museum use from 1984.",
+      "relevance_es": "Aporta datos autorizados sobre la antigua estacion ferroviaria de Madrid-Delicias: Émile Cachelièvre, 1879-1880, inauguracion el 30 de marzo de 1880, servicio Madrid-Ciudad Real, posterior papel en Madrid-Lisboa, cierre en 1971 y uso museistico desde 1984."
+    },
+    {
+      "title": "Antigua Fuente de las Delicias - Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Antigua-Fuente-de-las-Delicias/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=ae58091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Provides municipal heritage evidence that the Paseo de las Delicias existed in the 18th century and had fountains near the old Puerta de Atocha.",
+      "relevance_es": "Aporta evidencia patrimonial municipal de que el Paseo de las Delicias existia en el siglo XVIII y contaba con fuentes junto a la antigua Puerta de Atocha."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the former Madrid-Delicias railway station as important contextual reinforcement of the toponym, not as the sole or direct origin of the Metro station name.",
+      "es": "Conviene tratar la antigua estacion ferroviaria de Madrid-Delicias como un refuerzo contextual importante del toponimo, no como el origen unico o directo del nombre de la estacion de Metro."
+    },
+    {
+      "en": "Qualify the Fernando VI chronology: inspected authoritative material from the Railway Museum attributes the ordering of the southern promenades to the reign of Carlos III, while some secondary narratives say the works began earlier under Fernando VI.",
+      "es": "Hay que matizar la cronologia de Fernando VI: el material autorizado consultado del Museo del Ferrocarril atribuye la ordenacion de los paseos meridionales al reinado de Carlos III, aunque algunas narraciones secundarias indican que las obras comenzaron antes, bajo Fernando VI."
+    },
+    {
+      "en": "Do not imply that the 1880 iron-and-glass building is the current Cercanias station; Renfe says the present Delicias Cercanias station opened in 1996, while the old station is now the Railway Museum.",
+      "es": "No debe darse a entender que el edificio de hierro y vidrio de 1880 sea la actual estacion de Cercanias; Renfe indica que la actual estacion de Cercanias de Delicias abrio en 1996, mientras que la antigua estacion es hoy el Museo del Ferrocarril."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or historical callejero entry could further confirm the exact administrative date when Paseo de las Delicias became the official street name.",
+      "es": "Un expediente municipal de rotulacion o una entrada historica del callejero podria confirmar mejor la fecha administrativa exacta en que Paseo de las Delicias quedo como nombre oficial de la via."
+    },
+    {
+      "en": "Primary documentation for the Metro station's naming decision in 1949 was not located; the name is inferred from the station's location on the established paseo/toponym.",
+      "es": "No se localizo documentacion primaria sobre la decision de nombrar la estacion de Metro en 1949; el nombre se infiere por su ubicacion en el paseo y toponimo ya consolidados."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_069/en/summary.short.md",
+      "summary": "content/stations/metro_069/en/summary.md",
+      "story": "content/stations/metro_069/en/story.md",
+      "confidence": "content/stations/metro_069/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_069/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_069/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_069/es/summary.short.md",
+      "summary": "content/stations/metro_069/es/summary.md",
+      "story": "content/stations/metro_069/es/story.md",
+      "confidence": "content/stations/metro_069/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_069/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_069/es/research-note.md"
+    }
+  }
+}

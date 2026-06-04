@@ -1,0 +1,104 @@
+{
+  "id": "metro_041",
+  "name": "Pacífico",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "event",
+  "recommended_named_after": "Old Calle del Pacífico, commemorating Spanish naval operations in the Pacific against Chile and Peru (1865-1866)",
+  "previous_names": "Station: none found. Source place name: old Calle del Pacífico, now Avenida de la Ciudad de Barcelona.",
+  "naming_date": "Station opened with the name Pacífico on 8 May 1923; the older street name existed by 1866 and is reported by some secondary sources as assigned in 1865 or 1866.",
+  "sources": [
+    {
+      "title": "Metro de Madrid, “Huellas del pasado: Pacífico”",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/10/ficha-pacifico.pdf",
+      "type": "official",
+      "relevance_en": "Directly explains that the old road to Vallecas became Calle del Pacífico and links the name to Spanish naval actions in the war against Chile and Peru; also gives the 8 May 1923 opening and later Line 6 chronology.",
+      "relevance_es": "Explica directamente que el antiguo camino de Vallecas pasó a llamarse calle del Pacífico y vincula el nombre con acciones de la Armada Española en la guerra contra Chile y Perú; también da la inauguración del 8 de mayo de 1923 y la cronología posterior de la línea 6."
+    },
+    {
+      "title": "Museos Metro Madrid, “Vestíbulo de Pacífico”",
+      "url": "https://museosmetromadrid.es/vestibulo-de-pacifico_0/",
+      "type": "official",
+      "relevance_en": "Confirms that Pacífico belongs to the 1923 Line 1 Atocha-Puente de Vallecas extension and documents the original entrance hall, its 1966 closure, restoration, and Antonio Palacios attribution.",
+      "relevance_es": "Confirma que Pacífico pertenece a la prolongación de la línea 1 Atocha-Puente de Vallecas inaugurada en 1923 y documenta el vestíbulo original, su cierre en 1966, su restauración y la autoría de Antonio Palacios."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid, “Pacífico”",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_18/?lang=en",
+      "type": "official",
+      "relevance_en": "Verifies the current station name, Metro lines 1 and 6, location/accesses, and current interchange role.",
+      "relevance_es": "Verifica el nombre actual de la estación, las líneas 1 y 6, la ubicación/accesos y su función actual como estación de enlace."
+    },
+    {
+      "title": "memoriademadrid, “Estación de Pacífico”",
+      "url": "https://www.memoriademadrid.es/view/568515",
+      "type": "official",
+      "relevance_en": "Municipal digital archive record confirming that Pacífico is a Line 1 and Line 6 station opened in 1923 and located at Doctor Esquerdo and Avenida de la Ciudad de Barcelona, with the Historic Hall inside.",
+      "relevance_es": "Registro del archivo digital municipal que confirma que Pacífico es una estación de las líneas 1 y 6 inaugurada en 1923 y situada en Doctor Esquerdo con avenida de la Ciudad de Barcelona, con el Vestíbulo Histórico en su interior."
+    },
+    {
+      "title": "Gaceta de Madrid, no. 322, 18 November 1866",
+      "url": "https://www.boe.es/gazeta/dias/1866/11/18/pdfs/GMD-1866-322.pdf",
+      "type": "archive",
+      "relevance_en": "Shows Calle del Pacífico already in use in Madrid in November 1866, in an advertisement for houses opposite the Docks and Customs of Madrid.",
+      "relevance_es": "Muestra que la calle del Pacífico ya estaba en uso en Madrid en noviembre de 1866, en un anuncio de casas frente a los Docks y Aduana de Madrid."
+    },
+    {
+      "title": "Fundación Museo Naval, “Galdós y la Mar: Fragata Numancia”",
+      "url": "https://www.fundacionmuseonaval.com/SEC/podernaval-fragatanumancia.html",
+      "type": "reference",
+      "relevance_en": "Provides naval-historical context for the Pacific campaign, including Valparaíso on 31 March 1866 and Callao on 2 May 1866.",
+      "relevance_es": "Aporta contexto histórico naval sobre la campaña del Pacífico, incluido Valparaíso el 31 de marzo de 1866 y Callao el 2 de mayo de 1866."
+    },
+    {
+      "title": "María Isabel Gea Ortigas, “Los nombres de las calles de Madrid” sample, Ediciones La Librería",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2021/02/Los-nombres-de-las-calles-de-Madrid-1.pdf",
+      "type": "book",
+      "relevance_en": "The inspected sample entry for Abtao supports the wider neighbourhood pattern: many local street names recall Spanish naval actions in the Pacific, and Pacífico gave name to the whole barrio.",
+      "relevance_es": "La entrada consultada de muestra sobre Abtao respalda el patrón del barrio: muchas calles del entorno recuerdan acciones de la marina española en el Pacífico, y Pacífico dio nombre a todo el barrio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the Wikipedia-derived wording about “China and Chile” with “Chile and Peru”; Metro de Madrid’s historical sheet identifies the relevant war as against Chile and Peru.",
+      "es": "Sustituir la formulación procedente de Wikipedia sobre “China y Chile” por “Chile y Perú”; la ficha histórica de Metro de Madrid identifica la guerra relevante como contra Chile y Perú."
+    },
+    {
+      "en": "Use 1865-1866 for the historical conflict context, while noting that Metro’s short station sheet phrases the street-name group as linked to the 1865 war.",
+      "es": "Usar 1865-1866 para el contexto histórico del conflicto, señalando que la ficha breve de Metro formula el conjunto de nombres de calles como vinculado a la guerra de 1865."
+    },
+    {
+      "en": "Do not imply that the station name was newly coined by Metro; the station inherited an existing street and neighbourhood toponym.",
+      "es": "No dar a entender que Metro creó el nombre de la estación; la estación heredó un topónimo de calle y barrio ya existente."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal naming resolution for Calle del Pacífico should be checked in Madrid’s historical street-name files or municipal proceedings to settle whether the official date was 1865, 1866, or another nearby year.",
+      "es": "Conviene revisar el expediente histórico del callejero madrileño o las actas municipales para fijar si la fecha oficial de denominación de la calle fue 1865, 1866 u otro año cercano."
+    },
+    {
+      "en": "The exact official date of the post-Civil-War change from Calle del Pacífico to Avenida Ciudad de Barcelona is stated in some press accounts as 1944, but an official municipal source should be inspected before storing that as verified.",
+      "es": "La fecha exacta del cambio posterior a la Guerra Civil de calle del Pacífico a avenida Ciudad de Barcelona aparece en algunas noticias como 1944, pero debería comprobarse en una fuente municipal antes de guardarla como verificada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_041/en/summary.short.md",
+      "summary": "content/stations/metro_041/en/summary.md",
+      "story": "content/stations/metro_041/en/story.md",
+      "confidence": "content/stations/metro_041/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_041/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_041/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_041/es/summary.short.md",
+      "summary": "content/stations/metro_041/es/summary.md",
+      "story": "content/stations/metro_041/es/story.md",
+      "confidence": "content/stations/metro_041/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_041/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_041/es/research-note.md"
+    }
+  }
+}

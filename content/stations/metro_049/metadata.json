@@ -1,0 +1,108 @@
+{
+  "id": "metro_049",
+  "name": "Estrecho",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Estrecho, a historical/popular local place-name in Tetuán, probably alluding to the Strait of Gibraltar through the neighbourhood name Tetuán de las Victorias",
+  "previous_names": "",
+  "naming_date": "6 March 1929",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Estrecho, Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-estrecho.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the station name, location under Bravo Murillo near Francos Rodríguez/Las Mercedes, 6 March 1929 opening, and later access/plaform history.",
+      "relevance_es": "Confirma el nombre de la estación, su ubicación bajo Bravo Murillo junto a Francos Rodríguez/Las Mercedes, la inauguración del 6 de marzo de 1929 y la historia posterior de accesos y andenes."
+    },
+    {
+      "title": "CRTM - Estrecho station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_4/",
+      "type": "official",
+      "relevance_en": "Confirms current public-transport data for Estrecho, including Line 1 service and present access points.",
+      "relevance_es": "Confirma los datos actuales de transporte público de Estrecho, incluida la línea 1 y los accesos existentes."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Tetuán",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Tetuan/?vgnextchannel=0813ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=4004d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Provides official district history: Cuatro Caminos, the Carretera de Francia/Bravo Murillo axis, Tetuán de las Victorias after the War of Africa, the 1929 Metro extension, and the official Tetuán barrios.",
+      "relevance_es": "Aporta la historia oficial del distrito: Cuatro Caminos, el eje de la Carretera de Francia/Bravo Murillo, Tetuán de las Victorias tras la Guerra de África, la ampliación del Metro en 1929 y los barrios oficiales de Tetuán."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Memoria Itinerario Tetuán Histórico",
+      "url": "https://www.madrid.es/UnidadWeb/NxC/RecorridosTetuan/ficheros/historico.pdf",
+      "type": "official",
+      "relevance_en": "Explains the origin of Tetuán de las Victorias, dates the 1860 military context, and lists early streets named in relation to the War of Africa.",
+      "relevance_es": "Explica el origen de Tetuán de las Victorias, fecha el contexto militar de 1860 y enumera calles primitivas relacionadas con la Guerra de África."
+    },
+    {
+      "title": "Gaceta de Madrid, 18 August 1931",
+      "url": "https://www.boe.es/gazeta/dias/1931/08/18/pdfs/GMD-1931-230.pdf",
+      "type": "archive",
+      "relevance_en": "Directly attests a local place called El Estrecho near Calle López de Haro, Cuatro Caminos and Francos Rodríguez, close to the station’s historical setting.",
+      "relevance_es": "Acredita directamente un lugar llamado El Estrecho junto a la calle López de Haro, Cuatro Caminos y Francos Rodríguez, cerca del ámbito histórico de la estación."
+    },
+    {
+      "title": "Somos Tetuán / elDiario.es - Naves industriales que se convierten en edificios de coliving",
+      "url": "https://www.eldiario.es/madrid/somos/tetuan/noticias/naves-industriales-convierten-edificios-coliving-gentrificacion-productiva-tetuan_1_8959343.html",
+      "type": "press",
+      "relevance_en": "Gives the clearest published local explanation of Estrecho as a popular, unofficial neighbourhood name and records the tradition that the name referred jokingly to crossing the Strait to reach Tetuán.",
+      "relevance_es": "Ofrece la explicación local publicada más clara de Estrecho como nombre popular y no oficial de barrio, y recoge la tradición de que el nombre aludía con guasa a cruzar el Estrecho para llegar a Tetuán."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: estrecho",
+      "url": "https://dle.rae.es/estrecho",
+      "type": "reference",
+      "relevance_en": "Confirms the word’s Latin origin from strictus and the geographic meaning of a narrow passage between two lands connecting two seas.",
+      "relevance_es": "Confirma el origen latino de la palabra en strictus y el sentido geográfico de paso angosto entre dos tierras que comunica dos mares."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the immediate named-after value as the local place-name El Estrecho, not simply the Strait of Gibraltar.",
+      "es": "Conviene tratar el valor named_after inmediato como el topónimo local El Estrecho, no simplemente como el Estrecho de Gibraltar."
+    },
+    {
+      "en": "Do not describe Estrecho as an official neighbourhood of Madrid; the official Tetuán barrios are Bellas Vistas, Cuatro Caminos, Castillejos, Almenara, Valdeacederas and Berruguete.",
+      "es": "No debe describirse Estrecho como barrio oficial de Madrid; los barrios oficiales de Tetuán son Bellas Vistas, Cuatro Caminos, Castillejos, Almenara, Valdeacederas y Berruguete."
+    },
+    {
+      "en": "Bravo Murillo should not be presented as a Morocco-campaign street name; it refers to Juan Bravo Murillo, a nineteenth-century politician.",
+      "es": "Bravo Murillo no debe presentarse como nombre vinculado a la campaña de Marruecos; remite a Juan Bravo Murillo, político del siglo XIX."
+    },
+    {
+      "en": "General Margallo should not be grouped with the 1860 campaign; Juan García Margallo died in the Melilla conflict of 1893.",
+      "es": "General Margallo no debe agruparse con la campaña de 1860; Juan García Margallo murió en el conflicto de Melilla de 1893."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive naming act or early Metro/municipal file explaining why the station was called Estrecho would be needed to upgrade the Gibraltar explanation from probable to verified.",
+      "es": "Harían falta un acuerdo de denominación o un expediente temprano de Metro o del Ayuntamiento que explique por qué la estación se llamó Estrecho para elevar la explicación de Gibraltar de probable a verificada."
+    },
+    {
+      "en": "Historical maps or Chamartín de la Rosa municipal records may clarify when El Estrecho first became a local place-name.",
+      "es": "Los mapas históricos o los expedientes municipales de Chamartín de la Rosa podrían aclarar cuándo empezó a usarse El Estrecho como topónimo local."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_049/en/summary.short.md",
+      "summary": "content/stations/metro_049/en/summary.md",
+      "story": "content/stations/metro_049/en/story.md",
+      "confidence": "content/stations/metro_049/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_049/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_049/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_049/es/summary.short.md",
+      "summary": "content/stations/metro_049/es/summary.md",
+      "story": "content/stations/metro_049/es/story.md",
+      "confidence": "content/stations/metro_049/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_049/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_049/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "metro_063",
+  "name": "Rubén Darío",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Rubén Darío (Félix Rubén García Sarmiento)",
+  "previous_names": "Glorieta del Cisne (former name of the square; no former station name found)",
+  "naming_date": "1970 for the Metro station name; 7 October 1921 for the official municipal callejero entry of Glorieta de Rubén Darío",
+  "sources": [
+    {
+      "title": "CRTM - Rubén Darío station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_84",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 5 correspondence, fare zone, and accesses at Glorieta de Rubén Darío.",
+      "relevance_es": "Ficha oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 5, la zona tarifaria y los accesos en la Glorieta de Rubén Darío."
+    },
+    {
+      "title": "Memoria de Madrid - Estación de Rubén Darío",
+      "url": "https://www.memoriademadrid.es/view/389711",
+      "type": "archive",
+      "relevance_en": "Archive item from Metro de Madrid's photographic archive; its note cites the 1970 company report stating that the Callao-Ventas section of the new Line 5 opened to the public on 2 March 1970.",
+      "relevance_es": "Ficha de archivo procedente del Archivo fotográfico de Metro de Madrid; su comentario cita la memoria de gestión de 1970, que indica que el tramo Callao-Ventas de la nueva línea 5 se abrió al público el 2 de marzo de 1970."
+    },
+    {
+      "title": "Ayuntamiento de Madrid Open Data - Callejero oficial, relación de viales con evolución histórica",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid/resource/213605-2-callejero-oficial-madrid-csv/download/213605-2-callejero-oficial-madrid-csv.csv",
+      "type": "official",
+      "relevance_en": "Official municipal street dataset listing Glorieta de Rubén Darío as a current street name with entry date 07/10/1921.",
+      "relevance_es": "Conjunto oficial del callejero municipal que registra la Glorieta de Rubén Darío como vía vigente con fecha de alta 07/10/1921."
+    },
+    {
+      "title": "Ayuntamiento de Madrid Open Data - Callejero oficial, relación de direcciones con evolución histórica",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid/resource/213605-1-callejero-oficial-madrid-csv/download/213605-1-callejero-oficial-madrid-csv.csv",
+      "type": "official",
+      "relevance_en": "Official address-level data confirming Glorieta de Rubén Darío addresses and historical address records in the station's immediate area.",
+      "relevance_es": "Datos oficiales a nivel de dirección que confirman los portales de la Glorieta de Rubén Darío y registros históricos de direcciones en el entorno inmediato de la estación."
+    },
+    {
+      "title": "Instituto Cervantes - Biografía de Rubén Darío",
+      "url": "https://www.cervantes.es/bibliotecas_documentacion_espanol/creadores/dario_ruben.htm",
+      "type": "official",
+      "relevance_en": "Authoritative biography documenting Darío's 1892 Madrid visit, his role in Modernismo, publication history, literary contacts, and service as Nicaragua's resident minister in Madrid.",
+      "relevance_es": "Biografía autorizada que documenta la visita de Darío a Madrid en 1892, su papel en el Modernismo, su trayectoria editorial, sus contactos literarios y su cargo como ministro residente de Nicaragua en Madrid."
+    },
+    {
+      "title": "Instituto Cervantes - Caja de las Letras: In memoriam Rubén Darío",
+      "url": "https://cultura.cervantes.es/espanya/es/Caja-de-las-Letras%3A-In-memoriam-Rub%C3%A9n-Dar%C3%ADo/145355",
+      "type": "official",
+      "relevance_en": "Cervantes cultural page confirming Darío's dates, Nicaraguan origin, professions, and status as foremost representative of Spanish-language Modernismo.",
+      "relevance_es": "Página cultural del Cervantes que confirma las fechas de Darío, su origen nicaragüense, sus profesiones y su condición de máximo representante del Modernismo literario en lengua española."
+    },
+    {
+      "title": "Filosofía.org transcription - El Sol, 22 October 1921, 'Una velada en honor de Rubén Darío'",
+      "url": "https://www.filosofia.org/ave/003/c023.htm",
+      "type": "archive",
+      "relevance_en": "Transcribes a contemporary 1921 press item stating that Madrid City Council had approved giving the former Glorieta del Cisne the name Rubén Darío.",
+      "relevance_es": "Transcribe una noticia de prensa de 1921 que afirma que el Ayuntamiento de Madrid había aprobado dar a la antigua Glorieta del Cisne el nombre de Rubén Darío."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - DS_Monumentos",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Publicaciones/DS-Monumentos/?page=68&vgnextchannel=f9e2f073808fe410VgnVCM2000000c205a0aRCRD&vgnextfmt=default&vgnextoid=fb9e993ae322b610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal monument listing includes commemorative elements for Rubén Darío at Glorieta Rubén Darío, including a 1922 plaque and 1967 statue.",
+      "relevance_es": "Relación municipal de monumentos que incluye elementos conmemorativos de Rubén Darío en la Glorieta Rubén Darío, entre ellos una lápida de 1922 y una estatua de 1967."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'single-handedly founded Modernismo' with a more defensible formulation such as 'leading figure' or 'foremost representative' of Spanish-language Modernismo.",
+      "es": "Sustituir 'fundó por sí solo el Modernismo' por una fórmula más defendible, como 'figura principal' o 'máximo representante' del Modernismo en lengua española."
+    },
+    {
+      "en": "Clarify that the Metro station appears to take its name from the adjacent Glorieta de Rubén Darío, already recorded in Madrid's callejero from 1921.",
+      "es": "Aclarar que la estación de Metro parece tomar su nombre de la contigua Glorieta de Rubén Darío, registrada ya en el callejero madrileño desde 1921."
+    },
+    {
+      "en": "Do not imply that Juan Ramón Jiménez and Valle-Inclán were necessarily part of the circle Darío met on his first 1892 visit; authoritative biographical summaries place that admiration in Darío's later Spanish period.",
+      "es": "No dar a entender que Juan Ramón Jiménez y Valle-Inclán formaran necesariamente parte del círculo que Darío conoció en su primera visita de 1892; las biografías autorizadas sitúan esa admiración en una etapa española posterior."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal minutes record for the 1921 renaming would be the best primary source to reconcile the callejero date of 7 October 1921 with secondary monument records that state 1922.",
+      "es": "Un acta municipal del cambio de nombre de 1921 sería la mejor fuente primaria para conciliar la fecha de alta del callejero, 7 de octubre de 1921, con registros secundarios de monumentos que indican 1922."
+    },
+    {
+      "en": "Metro's original 1970 station-opening documents could confirm explicitly whether the station was named for the glorieta as standard practice, although the location evidence already makes this highly likely.",
+      "es": "La documentación original de apertura de Metro en 1970 podría confirmar de forma explícita si la estación se nombró por la glorieta, aunque la evidencia de ubicación ya lo hace muy probable."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_063/en/summary.short.md",
+      "summary": "content/stations/metro_063/en/summary.md",
+      "story": "content/stations/metro_063/en/story.md",
+      "confidence": "content/stations/metro_063/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_063/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_063/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_063/es/summary.short.md",
+      "summary": "content/stations/metro_063/es/summary.md",
+      "story": "content/stations/metro_063/es/story.md",
+      "confidence": "content/stations/metro_063/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_063/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_063/es/research-note.md"
+    }
+  }
+}

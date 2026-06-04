@@ -1,0 +1,1 @@
+Hospital 12 de Octubre station is named for the large public hospital beside it in Usera. The hospital opened in 1973 as Ciudad Sanitaria 1º de Octubre and later adopted the name 12 de Octubre, linking it to Spain's National Day rather than to the Francoist 1 October anniversary.

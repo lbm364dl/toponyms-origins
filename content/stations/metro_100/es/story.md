@@ -1,0 +1,9 @@
+La estación de Serrano debe su nombre a la calle situada junto a ella, la calle de Serrano. La parada de Metro está en la línea 4, bajo la calle de Goya entre Serrano y Lagasca, de modo que su denominación sigue el criterio habitual del Metro madrileño: tomar como referencia una vía o lugar inmediato.
+
+Detrás de ese nombre está Francisco Serrano y Domínguez, duque de la Torre, general y político español nacido en San Fernando, Cádiz, en 1810 y fallecido en Madrid en 1885. La Real Academia de la Historia lo identifica como regente del Reino, militar y político, y el Congreso de los Diputados lo sitúa entre los dirigentes de la Revolución de 1868, conocida como La Gloriosa.
+
+El nombre de la calle pertenece al paisaje político que se formó tras aquella revolución. El catálogo municipal de patrimonio de Madrid señala que la vía tuvo denominaciones anteriores vinculadas a Isabel II y a Narváez, y que pasó a llamarse Serrano después de la entrada del general en Madrid en septiembre de 1868, cuando era presentado como héroe revolucionario. La misma ficha municipal recoge la placa que recuerda la casa donde vivió y murió.
+
+La estación se abrió con el tramo inicial de la línea 4 entre Argüelles y Goya en 1944. La documentación histórica de Metro de Madrid describe aquella primera línea 4 como la 'línea de los Bulevares', un trazado transversal y poco profundo que enlazaba Argüelles con Salamanca y daba a la red un carácter más interconectado.
+
+La etimología, por tanto, está bien asentada, aunque conviene matizar algunos detalles. Serrano fue una figura central del Sexenio Democrático y de la Constitución de 1869, pero es más preciso presentar esa constitución como democrática o liberal en su contexto que como la primera constitución liberal española desde 1812. También importa distinguir entre el cambio de nombre de la calle después de 1868 y la asignación del nombre a la estación de Metro en 1944.

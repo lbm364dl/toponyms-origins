@@ -1,0 +1,1 @@
+La estación de Tres Olivos debe su nombre al área residencial cercana, documentada en el planeamiento madrileño como Plan Parcial 'Los Tres Olivos'. El significado literal es 'tres olivos', aunque las fuentes consultadas no prueban la historia de tres árboles concretos en el lugar.

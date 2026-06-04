@@ -1,0 +1,1 @@
+Goya station is named from Calle de Goya, the Salamanca district street honoring Francisco de Goya y Lucientes, the Spanish painter and printmaker. Metro opened the Line 2 station in 1924 and later made it a major interchange with Line 4.

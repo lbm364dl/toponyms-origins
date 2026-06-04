@@ -1,0 +1,9 @@
+The name of Goya station comes first from the city around it: Metro’s historical station sheet places it at “Calle Alcalá con calle Goya.” Madrid’s official street list records the street as Calle de Francisco Goya, so the station’s name is an urban shorthand for the painter Francisco de Goya y Lucientes.
+
+Goya was one of the central Spanish artists of the late eighteenth and early nineteenth centuries. The Prado gives his dates as Fuendetodos, Zaragoza, 30 March 1746, and Bordeaux, France, 16 April 1828. His Madrid career tied him closely to the court: he was named painter to the king in 1786, painter of the Chamber on 30 April 1789, and first painter of the Chamber on 31 October 1799.
+
+The station belongs to the eastward growth of Madrid’s early Metro. Metro de Madrid’s “Estaciones con historia” sheet gives 14 June 1924 for the inauguration of the Line 2 station on the Ventas-Sol section, located at Alcalá and Goya. The same document explains that the line originally looked toward the old bullring area at the end of Calle Goya, but the route was extended to Ventas as the new bullring project moved east.
+
+Goya later became more than a simple stop. In 1932 a Goya-Diego de León branch opened; in 1944 the first section of Line 4, Argüelles-Goya, reached the station; and in 1958 the old Line 2B branch was transferred into Line 4. That history explains why a station named from one street became a long-standing interchange between Lines 2 and 4.
+
+The existing etymology is therefore verified, but it should be framed as indirect naming through the street rather than as a station dedicated independently by Metro to the painter. The biographical details in the current row are broadly sound: Prado documentation supports Goya’s deafness after illness, the 1819 purchase of the Quinta del Sordo, and the later history of the Black Paintings, although those details enrich the story rather than explain the immediate station name.

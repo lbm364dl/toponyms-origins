@@ -1,0 +1,9 @@
+Callao station is named after Plaza del Callao, the square directly above the Metro stop in central Madrid. Metro de Madrid's historical station sheet explains that the station crosses the square and that the place-name commemorates a maritime battle fought off the coast of Peru.
+
+The older event behind the name is the Combate del Callao, or Battle of Callao, fought on 2 May 1866. A Spanish squadron under Brigadier Casto Méndez Núñez attacked the fortified Peruvian port of Callao during the wider Spanish-South American conflict, also known as the Chincha Islands War. The name therefore carries a nineteenth-century imperial and naval memory into Madrid's everyday transport map.
+
+The square name followed very quickly after the battle. The Revista General de Marina states that Madrid City Council agreed on 13 June 1866 to call the future square at the end of Calle del Carmen Plaza del Callao. A municipal educational publication also links the name to the 1866 works around the old Plazuela de San Jacinto and the widening of Calle Preciados.
+
+The station came much later. Metro's own historical material dates the Line 3 Callao station to the Sol-Argüelles extension in 1941, with the Line 5 station opening in 1968 on the first Carabanchel-Callao section. That later Line 5 opening turned Callao into one of the central interchanges around Gran Vía, Preciados, Carmen and Jacometrezo.
+
+The name is secure, but the military story behind it should be told with nuance. Spanish sources often frame the combat as a victory or feat of the Pacific Squadron, while Peruvian memory treats 2 May as a successful defense and a consolidation of independence. For the station's etymology, the essential point is not deciding the victor, but recognizing that Madrid's plaza name was an immediate 1866 commemoration of that contested naval battle.

@@ -1,0 +1,1 @@
+The etymology is supported by an Ayuntamiento de Madrid district diagnostic document, the municipal district page, and the Real Academia de la Historia biography of Marcelo de Usera y Sánchez. The exact station naming act was not found, but the station opened under the established district/neighbourhood name, and no competing origin for the name was found.

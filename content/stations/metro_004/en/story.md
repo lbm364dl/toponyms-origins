@@ -1,0 +1,9 @@
+La Latina station carries the name of the historic Madrid area around Plaza de la Cebada and Calle de Toledo. The place-name is older than the Metro: when Line 5 reached this point in 1968, the station adopted the familiar local name already attached to one of the city's most recognizable quarters.
+
+Behind that local name is Beatriz Galindo, a woman from late fifteenth- and early sixteenth-century Castile whose nickname was La Latina. Madrid's official tourism and heritage material explains the name through her reputation for Latin and through her presence and charitable foundations in this part of the city.
+
+The key urban link is the Hospital de La Latina. Archival and official cultural sources identify it as a foundation connected with Beatriz Galindo and her husband, Francisco Ramírez de Madrid, near Calle de Toledo and Plaza de la Cebada. That institution, rather than a direct dedication of the Metro station itself, is the strongest bridge between the Renaissance figure and the modern station name.
+
+The station also sits in a place where Madrid's market and popular culture are especially visible. Plaza de la Cebada, nearby streets with trade-related names, the Rastro area, theatres and traditional August festivities all help explain why La Latina feels like a place-name first and a biography second: the nickname became embedded in the urban fabric.
+
+The broad etymology is well supported, but Galindo's biography is contested. The Real Academia de la Historia still describes her as a humanist and Latinist while noting that her supposed role as preceptor should be limited to Latin conversations with Queen Isabel; recent academic work goes further and argues that documentary evidence shows her as a royal household servant, not a formal teacher. For the station, the safest wording is therefore: named from the La Latina area, whose name ultimately comes from Beatriz Galindo's nickname and the institutions associated with her in Madrid.

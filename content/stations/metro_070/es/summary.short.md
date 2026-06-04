@@ -1,0 +1,1 @@
+Méndez Álvaro debe su nombre a la calle junto al intercambiador, la calle de Méndez Álvaro, que recuerda a Francisco Méndez Álvaro (1806-1883), destacado médico, higienista, periodista médico y antiguo alcalde de Madrid. El nombre de la estación conserva así en el plano del transporte a una figura clave de la salud pública del siglo XIX.

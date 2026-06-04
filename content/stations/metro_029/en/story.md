@@ -1,0 +1,9 @@
+Atocha is a transport name built on a much older Madrid place name. The Metro and Cercanias interchange takes its public identity from the great railway complex beside the old Atocha area, but the word itself reaches back to the landscape: atocha is a Spanish name for esparto grass.
+
+The strongest linguistic evidence comes from RAE/ASALE and Corominas. The dictionary gives atocha as esparto and derives it from Mozarabic and Hispano-Arabic aṭṭáwča, ultimately from a pre-Roman *taucia meaning 'thicket' or 'shrubland'. Corominas adds the important Madrid evidence: Toia in 1202 and Tocha in 1219 as early forms of the local proper name.
+
+The medieval source matters because Atocha was already a named place before the railway. The BOE edition of the Fuero de Madrid includes the heading Prato de Thoia and the text El prado de Toia, placing the name in the legal and rural vocabulary of early thirteenth-century Madrid. In that setting, the name points less to a monument and more to a meadow, stream, or open ground identified by vegetation.
+
+The railway then made the old toponym nationally famous. Madrid's first railway station opened at Atocha in 1851 for the Madrid-Aranjuez line, and the nineteenth-century Estacion del Mediodia was rebuilt in the iron-and-glass architecture associated with Alberto de Palacio. In the 1992 high-speed transformation, the historic train shed became the well-known tropical garden and the complex gained its modern role as a major interchange.
+
+For this specific Metro stop, the naming history is recent as well as ancient. The station was long known as Atocha Renfe to distinguish it from the older Metro station called Atocha, now Estacion del Arte. On 19 December 2021 the regional transport authorities announced that Atocha Renfe would become simply Atocha, arguing that the name should be generic now that Renfe was no longer the only rail operator using the station.

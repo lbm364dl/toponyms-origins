@@ -1,0 +1,9 @@
+The station name points first to the great stadium on the east side of Paseo de la Castellana. Metro's stop was not originally called Santiago Bernabéu: it opened as **Lima**, after Plaza de Lima, and only later adopted the name by which most visitors now identify the area.
+
+Behind the station name is Santiago Bernabéu de Yeste, born in Almansa in 1895 and long associated with Real Madrid. He had been a player and club official before becoming president in 1943. Real Madrid's own historical pages present him as a central figure in the club's modern identity: president, builder of the new stadium project and promoter of the European Cup era.
+
+The stadium story came first. The New Chamartín stadium opened in December 1947, with Real Madrid beating Os Belenenses, and in 1955 the club's members decided that it should be called Estadio Santiago Bernabéu. That meant the Metro station's later name was not an abstract street dedication: it was a transport name taken from one of Madrid's most recognizable urban landmarks.
+
+The transport chronology adds a useful twist. The station opened on 10 June 1982 as part of the old Line 8, a line that served the Castellana corridor shortly before Spain hosted the 1982 World Cup. When the Lima name was replaced in December 1997, press accounts linked the tribute to the stadium's 50th anniversary and noted that Plaza de Lima itself would keep its own name.
+
+The evidence is strong, but the date needs careful wording. Contemporary newspaper reports describe the changeover ceremony on 18 December 1997, while later Comunidad de Madrid pages say the station was renamed in 1998. For public display, the safest version is: opened as Lima in 1982; renamed Santiago Bernabéu in the 1997-1998 transition, with the documented public act on 18 December 1997.

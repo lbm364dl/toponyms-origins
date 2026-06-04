@@ -1,0 +1,1 @@
+Banco de España station is named after the central bank headquarters that dominates the corner of Calle de Alcalá, Paseo del Prado and Plaza de Cibeles. The station opened with Line 2 in June 1924, after the project name Castelar was replaced during construction.

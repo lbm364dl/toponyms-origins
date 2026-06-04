@@ -1,0 +1,1 @@
+Callao station is named for Plaza del Callao, beneath which it sits. Madrid named the square in 1866 to commemorate the naval combat fought that year between Spain's Pacific Squadron and the Peruvian defenses of Callao.

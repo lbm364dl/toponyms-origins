@@ -1,0 +1,1 @@
+La estación de Prosperidad toma su nombre de la plaza de la Prosperidad y del barrio de Chamartín que la rodea. El nombre del barrio está sólidamente vinculado a Próspero Soynard y Polen, propietario y promotor que empezó a vender pequeñas parcelas edificables allí en 1862.

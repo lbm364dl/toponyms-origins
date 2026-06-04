@@ -1,0 +1,1 @@
+Ventas is named for the old Las Ventas del Espiritu Santo area, a roadside place of inns and eating houses near the Abroñigal stream on the road out of Madrid. The famous bullring later fixed that shorter name in the city’s memory.

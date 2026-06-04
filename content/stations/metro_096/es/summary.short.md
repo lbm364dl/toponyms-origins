@@ -1,0 +1,1 @@
+Acacias toma su nombre del paseo de las Acacias, la vía madrileña y el barrio de Arganzuela cuyo nombre alude a las acacias. La estación de la línea 5 abrió con el primer tramo Callao-Carabanchel el 5 de junio de 1968.

@@ -1,0 +1,1 @@
+Guzman el Bueno station is named from the nearby Madrid street honoring Alonso Perez de Guzman, the medieval alcaide of Tarifa. His fame comes from the 1294 defence of Tarifa, later remembered through the dramatic story of sacrificing his captured son rather than surrendering the town.

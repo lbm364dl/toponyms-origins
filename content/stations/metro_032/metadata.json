@@ -1,0 +1,108 @@
+{
+  "id": "metro_032",
+  "name": "Noviciado",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Noviciado de San Ignacio / Noviciado de la Compañía de Jesús",
+  "previous_names": "No former station names found. Related street/place context: Calle del Noviciado was formerly Calle de San Benito; older map references applied 'Noviciado' differently, including to the present Calle de los Reyes.",
+  "naming_date": "21 October 1925; the station opened with the name Noviciado, and no later renaming was found.",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Estaciones con historia: Noviciado, Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-noviciado.pdf",
+      "type": "official",
+      "relevance_en": "Directly states that Noviciado station is named for the former Jesuit novitiate at present-day Calle San Bernardo 49; gives the station location and opening date of 21 October 1925.",
+      "relevance_es": "Afirma directamente que la estación de Noviciado debe su nombre al antiguo noviciado de jesuitas situado en el actual número 49 de la calle San Bernardo; da la localización de la estación y su inauguración el 21 de octubre de 1925."
+    },
+    {
+      "title": "PARES - Autoridad: Noviciado de San Ignacio (Madrid, España)",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/160100",
+      "type": "archive",
+      "relevance_en": "Provides the authorized institutional name, dates from 1602-04-15 to 1767, founder Ana Félix de Guzmán, Marchioness of Camarasa, and the block bounded by San Bernardo, Noviciado, Amaniel and Reyes.",
+      "relevance_es": "Proporciona la forma institucional autorizada, las fechas de existencia desde el 15 de abril de 1602 hasta 1767, la fundadora Ana Félix de Guzmán, marquesa de Camarasa, y la manzana entre San Bernardo, Noviciado, Amaniel y Reyes."
+    },
+    {
+      "title": "Patrimonio Edificado de Madrid - Universidad Central (Ref. 00268)",
+      "url": "https://monumentamadrid.es/AM_Edificios4/AM_Edificios4_WEB/pdf/inmana/00268.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage record confirming that the Universidad Central occupies the site of the Jesuit church and novitiate founded by the Marchioness of Camarasa, and explaining the 1842-1847 transformation.",
+      "relevance_es": "Ficha municipal de patrimonio que confirma que la Universidad Central ocupa el solar de la iglesia y noviciado jesuita fundados por la marquesa de Camarasa, y explica la transformación de 1842-1847."
+    },
+    {
+      "title": "Aurora Miguel Alonso, 'Los bienes de la Compañía de Jesús incautados en Madrid en 1767 y 1835, y conservados en la Universidad Complutense'",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/2777345.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article describing the Noviciado or Casa de Probación as a major Jesuit center founded in 1602, its function as a training house, its block location, and later confiscations.",
+      "relevance_es": "Artículo académico que describe el Noviciado o Casa de Probación como un importante centro jesuita fundado en 1602, su función formativa, su ubicación en la manzana y las incautaciones posteriores."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Noviciado",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_38.aspx",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the active station, correspondences, fare zone and accesses at Calle de San Bernardo 45 and 51.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma la estación en servicio, correspondencias, zona tarifaria y accesos en la calle de San Bernardo 45 y 51."
+    },
+    {
+      "title": "Manual de Madrid. Descripción de la Corte y de la Villa",
+      "url": "https://www.cervantesvirtual.com/obra-visor/manual-de-madrid-descripcion-de-la-corte-y-de-la-villa--0/html/00477db6-82b2-11df-acc7-002185ce6064_17.html",
+      "type": "book",
+      "relevance_en": "Digitized historical guide noting the Jesuit Noviciado on Calle Ancha de San Bernardo and attributing its 1602 foundation to the Marchioness of Camarasa.",
+      "relevance_es": "Guía histórica digitalizada que menciona el Noviciado de la Compañía en la calle Ancha de San Bernardo y atribuye su fundación en 1602 a la marquesa de Camarasa."
+    },
+    {
+      "title": "Pasión por Madrid - El Noviciado de la Compañía de Jesús",
+      "url": "https://www.pasionpormadrid.com/2011/05/el-noviciado-de-la-compania-de-jesus.html",
+      "type": "other",
+      "relevance_en": "Useful secondary synthesis for the 15 April 1602 date, the Genoese Embassy tradition, later uses, and surviving university fabric; less authoritative than PARES or municipal heritage records.",
+      "relevance_es": "Síntesis secundaria útil para la fecha del 15 de abril de 1602, la tradición de la Embajada de Génova, los usos posteriores y los restos universitarios; menos autoritativa que PARES o las fichas municipales de patrimonio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 'Noviciado de San Ignacio / Noviciado de la Compañía de Jesús' rather than only 'Noviciado de los Jesuitas', because PARES gives Noviciado de San Ignacio as the authorized institutional form.",
+      "es": "Conviene usar 'Noviciado de San Ignacio / Noviciado de la Compañía de Jesús' y no solo 'Noviciado de los Jesuitas', porque PARES da Noviciado de San Ignacio como forma institucional autorizada."
+    },
+    {
+      "en": "The station is most immediately named through the nearby street and the former institution beside it; the display text should make that chain clear.",
+      "es": "La estación toma el nombre de forma más inmediata de la calle cercana y de la institución histórica contigua; el texto público debería dejar clara esa cadena."
+    },
+    {
+      "en": "The Genoese Embassy detail should be treated as a secondary detail unless a stronger archival or academic citation is added; the main verified facts do not depend on it.",
+      "es": "El dato de la Embajada de Génova debe tratarse como secundario salvo que se añada una cita archivística o académica más sólida; los hechos principales verificados no dependen de él."
+    },
+    {
+      "en": "The University Central chronology is better stated as confirmed for settlement by royal order in 1842, with rebuilding and demolition works under way from 1843, rather than simply 'became the Universidad Central in 1843'.",
+      "es": "La cronología de la Universidad Central se expresa mejor indicando que el asentamiento quedó confirmado por real orden en 1842, con derribos y obras desde 1843, en lugar de decir solo que 'se convirtió en Universidad Central en 1843'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Tomás José Aznar Sánchez, 'La Compañía de Jesús y la Corte: el noviciado de San Ignacio en Madrid (1602-1767)' for the fullest scholarly treatment of the foundation date, the Genoese Embassy claim, and the exact early building phases.",
+      "es": "Conviene consultar Tomás José Aznar Sánchez, 'La Compañía de Jesús y la Corte: el noviciado de San Ignacio en Madrid (1602-1767)' para el tratamiento académico más completo de la fecha fundacional, el dato de la Embajada de Génova y las fases iniciales de construcción."
+    },
+    {
+      "en": "A primary municipal naming record for Calle del Noviciado was not located; older street-name statements rely on historical callejero literature and later summaries.",
+      "es": "No se localizó un acuerdo municipal primario de denominación para la calle del Noviciado; las menciones a nombres antiguos dependen del callejero histórico y de resúmenes posteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_032/en/summary.short.md",
+      "summary": "content/stations/metro_032/en/summary.md",
+      "story": "content/stations/metro_032/en/story.md",
+      "confidence": "content/stations/metro_032/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_032/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_032/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_032/es/summary.short.md",
+      "summary": "content/stations/metro_032/es/summary.md",
+      "story": "content/stations/metro_032/es/story.md",
+      "confidence": "content/stations/metro_032/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_032/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_032/es/research-note.md"
+    }
+  }
+}

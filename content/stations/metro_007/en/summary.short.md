@@ -1,0 +1,1 @@
+Chueca station is named for Plaza de Chueca, dedicated in 1943 to Federico Chueca, the Madrid-born zarzuela composer. The station opened on Line 5 in 1970 and helped fix the square's name as the everyday name for the surrounding area.

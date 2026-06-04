@@ -1,0 +1,97 @@
+{
+  "id": "metro_033",
+  "name": "Bilbao",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Glorieta de Bilbao, ultimately named for Bilbao (city)",
+  "previous_names": "For the place: Puerta de los Pozos de la Nieve; Puerta de San Fernando; Puerta/Puerta de Bilbao. No former station name found.",
+  "naming_date": "Station opened under the name Bilbao on 1919-10-17; place name Puerta de Bilbao dedicated/inaugurated in 1837.",
+  "sources": [
+    {
+      "title": "Exedra de Bilbao - Museos Metro Madrid",
+      "url": "https://museosmetromadrid.es/exedra-de-bilbao/",
+      "type": "official",
+      "relevance_en": "Metro de Madrid's museum page confirms Bilbao was one of the first eight stations opened on 17 October 1919 and explains the later Line 4 expansion on 23 March 1944.",
+      "relevance_es": "La página museística de Metro de Madrid confirma que Bilbao fue una de las ocho primeras estaciones inauguradas el 17 de octubre de 1919 y explica la ampliación posterior de la línea 4 el 23 de marzo de 1944."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms the first Metro line opened officially on 17 October 1919 between Sol and Cuatro Caminos and lists Glorieta de Bilbao as one of the intermediate stations.",
+      "relevance_es": "Confirma que la primera línea de Metro se inauguró oficialmente el 17 de octubre de 1919 entre Sol y Cuatro Caminos e incluye Glorieta de Bilbao entre las estaciones intermedias."
+    },
+    {
+      "title": "M. Teresa Fernández Talaya, 'Los pozos de la nieve de la calle Fuencarral', Anales del Instituto de Estudios Madrileños, XLV, 2005",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3014034.pdf",
+      "type": "academic",
+      "relevance_en": "Documents the Puerta de los Pozos de la Nieve, its renaming as Puerta de San Fernando, the 1837 dedication to Bilbao, the inscription, and the survival of the gate name in the later square.",
+      "relevance_es": "Documenta la Puerta de los Pozos de la Nieve, su cambio a Puerta de San Fernando, la dedicación de 1837 a Bilbao, la inscripción y la pervivencia del nombre de la puerta en la plaza posterior."
+    },
+    {
+      "title": "Los pozos de nieve - CIEA Casa de Campo, Ayuntamiento de Madrid",
+      "url": "https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/07/Los-pozos-de-nieve.pdf",
+      "type": "official",
+      "relevance_en": "Explains how snow was transported, stored, and sold in Madrid, and locates the old snow wells around the current Glorieta de Bilbao and nearby streets.",
+      "relevance_es": "Explica cómo se transportaba, almacenaba y vendía la nieve en Madrid, y sitúa los antiguos pozos de nieve en el entorno de la actual glorieta de Bilbao y calles cercanas."
+    },
+    {
+      "title": "Callejero oficial del Ayuntamiento de Madrid - Portal de datos abiertos",
+      "url": "https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?page=2&vgnextchannel=20d612b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextoid=b3c41f3cf6a6c410VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Establishes the official municipal street gazetteer context for Madrid place names, including official street and square nomenclature.",
+      "relevance_es": "Aporta el contexto del callejero municipal oficial de Madrid para la nomenclatura de vías y plazas."
+    },
+    {
+      "title": "Café Comercial - esmadrid.com",
+      "url": "https://www.esmadrid.com/en/nightlife/cafe-comercial",
+      "type": "official",
+      "relevance_en": "Supports the local-context note that Café Comercial stands at Glorieta de Bilbao 7 and has operated since 1887.",
+      "relevance_es": "Respalda el dato de contexto local de que el Café Comercial está en la glorieta de Bilbao 7 y funciona desde 1887."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Say that the station is named after the Glorieta de Bilbao, which inherited the name from the Puerta de Bilbao; do not imply that the Metro station was directly named by the 1837 municipal act.",
+      "es": "Debe decirse que la estación lleva el nombre de la glorieta de Bilbao, que heredó la denominación de la Puerta de Bilbao; no debe darse a entender que la estación de Metro fue nombrada directamente por el acto municipal de 1837."
+    },
+    {
+      "en": "Replace the firm phrase 'municipal decree on 11 January 1837' with a more cautious formulation unless the Archivo de Villa file is inspected directly.",
+      "es": "Conviene sustituir la fórmula tajante 'decreto municipal del 11 de enero de 1837' por una redacción más cauta mientras no se inspeccione directamente el expediente del Archivo de Villa."
+    },
+    {
+      "en": "Clarify that Puerta de los Pozos de la Nieve and Puerta de San Fernando were names of the gate/place, not former names of the Metro station.",
+      "es": "Hay que aclarar que Puerta de los Pozos de la Nieve y Puerta de San Fernando fueron nombres de la puerta o del lugar, no antiguos nombres de la estación de Metro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Archivo de Villa de Madrid file ASA 2-356-58 to confirm the exact wording and date of the 1837 municipal decision.",
+      "es": "Consultar el expediente ASA 2-356-58 del Archivo de Villa de Madrid para confirmar la fecha exacta y la redacción del acuerdo municipal de 1837."
+    },
+    {
+      "en": "Check original Metro de Madrid opening documentation or early maps to confirm the station appeared simply as 'Bilbao' from public service opening on 31 October 1919, although the name is already present in later official histories.",
+      "es": "Comprobar documentación original de apertura de Metro de Madrid o planos tempranos para confirmar que la estación figuró simplemente como 'Bilbao' desde la apertura al público del 31 de octubre de 1919, aunque el nombre ya aparece en historias oficiales posteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_033/en/summary.short.md",
+      "summary": "content/stations/metro_033/en/summary.md",
+      "story": "content/stations/metro_033/en/story.md",
+      "confidence": "content/stations/metro_033/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_033/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_033/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_033/es/summary.short.md",
+      "summary": "content/stations/metro_033/es/summary.md",
+      "story": "content/stations/metro_033/es/story.md",
+      "confidence": "content/stations/metro_033/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_033/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_033/es/research-note.md"
+    }
+  }
+}

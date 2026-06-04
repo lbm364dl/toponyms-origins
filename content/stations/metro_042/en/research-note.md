@@ -1,0 +1,1 @@
+Metro's historical PDF contains a small spelling inconsistency, using both Gutenberg and Guttemberg near the station; the current CRTM access list uses Gutenberg. The station's name omits the conjunction y from Menéndez y Pelayo, matching the Madrid avenue rather than the full personal surname form common in biographies.

@@ -1,0 +1,1 @@
+Tribunal se llama así por el Tribunal de Cuentas, cuya sede decimonónica está junto a la estación en la calle Fuencarral. La estación se proyectó como Hospicio, por el antiguo Real Hospicio situado enfrente, pero el nombre actual quedó muy pronto ligado a la zona del Tribunal de Cuentas.

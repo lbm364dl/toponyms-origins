@@ -1,0 +1,129 @@
+{
+  "id": "metro_036",
+  "name": "Moncloa",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Moncloa, the historic Madrid estate/toponym and present district area",
+  "previous_names": "Station: no former station name found. Place-name context: the Madrid estate was formerly known as Fuente el Sol before becoming associated with La Monclova/La Moncloa.",
+  "naming_date": "17-07-1963",
+  "sources": [
+    {
+      "title": "La Moncloa Abierta. Visita al Complejo de La Moncloa",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/La_Moncloa_Abierta.pdf",
+      "type": "official",
+      "relevance_en": "Government visit guide stating that Gaspar de Haro acquired the huerta de La Monclova and huerta de Sora in 1660, and that their names came from the Count of La Monclova and Count of Sora.",
+      "relevance_es": "Guía gubernamental de visita que indica que Gaspar de Haro adquirió en 1660 la huerta de La Monclova y la huerta de Sora, cuyos nombres procedían del conde de La Monclova y del conde de Sora."
+    },
+    {
+      "title": "Joaquín Ezquerra del Bayo, El palacete de la Moncloa. Su pasado y su presente",
+      "url": "https://www.mpr.gob.es/servicios/publicaciones/Documents/Palacete%20Moncloa.pdf",
+      "type": "book",
+      "relevance_en": "Historical study, republished by the Spanish government, saying the Madrid estate was formerly Fuente el Sol and that its Moncloa name derived from possession by the Count of La Monclova and his children until 1660.",
+      "relevance_es": "Estudio histórico, reeditado por el Gobierno de España, que afirma que la finca madrileña se llamaba antes Fuente el Sol y que su nombre Moncloa se debía a haber pertenecido al conde de La Monclova y a sus hijos hasta 1660."
+    },
+    {
+      "title": "Palacio de la Moncloa | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/palacio-moncloa",
+      "type": "official",
+      "relevance_en": "Madrid tourism page confirming that the present palace was built between 1949 and 1954 on the site of the former Real Sitio de la Moncloa, destroyed in the Civil War, and has been the Prime Minister’s residence since 1977.",
+      "relevance_es": "Página turística oficial de Madrid que confirma que el palacio actual fue construido entre 1949 y 1954 en el lugar del antiguo Real Sitio de la Moncloa, destruido en la Guerra Civil, y que es residencia del presidente del Gobierno desde 1977."
+    },
+    {
+      "title": "Estación de Moncloa | Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/387763/estacion-de-moncloa",
+      "type": "archive",
+      "relevance_en": "Municipal archive record from the Metro de Madrid photo archive stating that Moncloa station opened in July 1963 when Line 3 was extended from Argüelles.",
+      "relevance_es": "Registro del archivo municipal procedente del Archivo fotográfico de Metro de Madrid que indica que la estación de Moncloa se inauguró en julio de 1963 al prolongarse la línea 3 desde Argüelles."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Detailed transport chronology giving 17-07-1963 for Argüelles-Moncloa on Line 3, 10-05-1995 for the Line 6 Laguna-Ciudad Universitaria section, and the 2006 closure/reopening of Moncloa Line 3 in a new location.",
+      "relevance_es": "Cronología ferroviaria detallada que da el 17-07-1963 para Argüelles-Moncloa en la línea 3, el 10-05-1995 para el tramo Laguna-Ciudad Universitaria de la línea 6 y el cierre/reapertura de Moncloa línea 3 en 2006 con nuevo emplazamiento."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional page describing the Moncloa interchange opening in May 1995 and its integration of Metro Lines 3 and 6 with urban and interurban buses.",
+      "relevance_es": "Página regional que describe la puesta en servicio del intercambiador de Moncloa en mayo de 1995 y su integración de las líneas 3 y 6 de Metro con autobuses urbanos e interurbanos."
+    },
+    {
+      "title": "Moncloa | Consorcio Regional de Transportes de Madrid",
+      "url": "https://crtm.es/media/108537/90_14_es_articulo_moncloa.pdf",
+      "type": "official",
+      "relevance_en": "Technical article on the Moncloa interchange explaining the relocation of the Line 3 station, the relationship with Line 6, and the urban setting near the Arco de la Victoria.",
+      "relevance_es": "Artículo técnico sobre el intercambiador de Moncloa que explica el traslado de la estación de la línea 3, la relación con la línea 6 y el entorno urbano junto al Arco de la Victoria."
+    },
+    {
+      "title": "Moncloa-Aravaca | Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moncloa-Aravaca/Moncloa-Aravaca/?vgnextchannel=e9a3ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=2e47d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal district page giving historical context for Moncloa-Aravaca and the development of the northwest district around Crown and Patrimonio Nacional lands.",
+      "relevance_es": "Página municipal del distrito que aporta contexto histórico sobre Moncloa-Aravaca y el desarrollo del noroeste sobre terrenos de la Corona y del Patrimonio Nacional."
+    },
+    {
+      "title": "Arco de la Victoria | esmadrid.com",
+      "url": "https://www.esmadrid.com/informacion-turistica/arco-victoria",
+      "type": "official",
+      "relevance_en": "Official tourism page identifying the nearby Arco de la Victoria as a Franco-era triumphal arch in Moncloa-Aravaca, useful as context but not as etymological evidence.",
+      "relevance_es": "Página turística oficial que identifica el cercano Arco de la Victoria como arco de triunfo franquista en Moncloa-Aravaca, útil como contexto pero no como prueba etimológica."
+    },
+    {
+      "title": "Arco de la Victoria, Ministerio de Política Territorial y Memoria Democrática",
+      "url": "https://mptmd.gob.es/content/dam/mpt/ministerio/biblioteca-documentacion/publicaciones/publicaciones-interes/ARCO_DEL_TRIUNFO.pdf",
+      "type": "official",
+      "relevance_en": "Official memory-democracy material noting that the Arco de la Victoria was completed in 1956 and that no official inauguration took place, correcting simplified accounts of the monument.",
+      "relevance_es": "Material oficial de memoria democrática que señala que el Arco de la Victoria quedó terminado en 1956 y que no hubo inauguración oficial, lo que corrige relatos simplificados sobre el monumento."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state the station opened in 1973; documented chronology gives 17 July 1963 for Line 3 at Moncloa.",
+      "es": "No debe decirse que la estación abrió en 1973; la cronología documentada da el 17 de julio de 1963 para la línea 3 en Moncloa."
+    },
+    {
+      "en": "Treat 'Mons Clovis' as an unverified deeper theory, not as the demonstrated direct origin of the Madrid station name.",
+      "es": "Debe tratarse 'Mons Clovis' como una teoría remota no verificada, no como el origen directo demostrado del nombre madrileño de la estación."
+    },
+    {
+      "en": "The relevant naming chain for Madrid is Fuente el Sol / huerta de La Monclova / Counts of La Monclova > Moncloa.",
+      "es": "La cadena relevante para Madrid es Fuente el Sol / huerta de La Monclova / condes de La Monclova > Moncloa."
+    },
+    {
+      "en": "The Arco de la Victoria is useful nearby context but not part of the station-name origin; some official memory material also says the monument was completed in 1956 but not officially inaugurated.",
+      "es": "El Arco de la Victoria es un contexto cercano útil, pero no forma parte del origen del nombre de la estación; además, material oficial de memoria democrática indica que el monumento quedó terminado en 1956 pero no fue inaugurado oficialmente."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A specialist toponymic source for the Sevillian Monclova, such as Toponomasticon Hispaniae or an academic study of Fuentes de Andalucía/Obúlcula, should be checked before publishing the 'Mons Clovis' explanation.",
+      "es": "Conviene consultar una fuente toponímica especializada sobre la Monclova sevillana, como Toponomasticon Hispaniae o un estudio académico sobre Fuentes de Andalucía/Obúlcula, antes de publicar la explicación de 'Mons Clovis'."
+    },
+    {
+      "en": "A Metro de Madrid primary document for the 1963 inauguration would strengthen the station chronology beyond secondary transport chronologies and the Metro photo archive record.",
+      "es": "Un documento primario de Metro de Madrid sobre la inauguración de 1963 reforzaría la cronología de la estación más allá de cronologías ferroviarias secundarias y del registro fotográfico de Metro."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_036/en/summary.short.md",
+      "summary": "content/stations/metro_036/en/summary.md",
+      "story": "content/stations/metro_036/en/story.md",
+      "confidence": "content/stations/metro_036/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_036/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_036/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_036/es/summary.short.md",
+      "summary": "content/stations/metro_036/es/summary.md",
+      "story": "content/stations/metro_036/es/story.md",
+      "confidence": "content/stations/metro_036/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_036/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_036/es/research-note.md"
+    }
+  }
+}

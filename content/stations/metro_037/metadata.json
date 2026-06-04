@@ -1,0 +1,111 @@
+{
+  "id": "metro_037",
+  "name": "Ventas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Ventas del Espiritu Santo",
+  "previous_names": "",
+  "naming_date": "1924-06-14",
+  "sources": [
+    {
+      "title": "La Comunidad de Madrid comienza las obras de modernización y accesibilidad de la centenaria estación de Metro de Ventas",
+      "url": "https://www.comunidad.madrid/noticias/2024/06/18/comunidad-madrid-comienza-obras-modernizacion-accesibilidad-centenaria-estacion-metro-ventas",
+      "type": "official",
+      "relevance_en": "Official source for Ventas station’s 14 June 1924 opening, its Line 2 origin, its location by the Monumental, and later Line 5 integration.",
+      "relevance_es": "Fuente oficial para la apertura de Ventas el 14 de junio de 1924, su origen en la línea 2, su ubicación junto a la Monumental y su posterior integración con la línea 5."
+    },
+    {
+      "title": "La Linea 2 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-2-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Comunidad de Madrid line-history page stating that the Sol-Ventas section opened in 1924 to serve eastern Madrid and the bullring then under construction.",
+      "relevance_es": "Página histórica oficial de la Comunidad de Madrid que indica que el tramo Sol-Ventas abrió en 1924 para atender el este de Madrid y la plaza de toros entonces en construcción."
+    },
+    {
+      "title": "Plaza de Toros de Las Ventas - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Edificios-singulares/Plaza-de-Toros-de-Las-Ventas/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=e328f7d9560a4510f7d9560a45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record for the bullring: neo-Mudejar project by Jose Espelius, completion by Muñoz Monasterio, 1919-1931 period, 1931 opening and 1934 reopening context.",
+      "relevance_es": "Ficha municipal de patrimonio de la plaza de toros: proyecto neomudéjar de José Espelius, conclusión por Muñoz Monasterio, periodo 1919-1931, apertura de 1931 y contexto de reapertura en 1934."
+    },
+    {
+      "title": "Historia de la Parroquia Espiritu Santo",
+      "url": "https://www.parroquiaespiritusanto.es/historia-de-la-parroquia",
+      "type": "other",
+      "relevance_en": "Local historical account explaining Las Ventas del Espiritu Santo as a crossroads area by the Abroñigal, with ventas and the Venta del Espiritu Santo behind the shortened name Las Ventas.",
+      "relevance_es": "Relato histórico local que explica Las Ventas del Espíritu Santo como un cruce junto al Abroñigal, con ventas y la Venta del Espíritu Santo detrás de la forma abreviada Las Ventas."
+    },
+    {
+      "title": "El bandolerismo en la provincia de Madrid (s. XVIII-XIX), Revista de Folklore 343",
+      "url": "https://funjdiaz.net/folklore/07ficha.php?ID=3434&NUM=343",
+      "type": "academic",
+      "relevance_en": "Historical article citing Archivo de Villa material; it states that the Venta del Espiritu Santo, beside the Madrid-Alcala road and Abroñigal stream, gave its name to the present Ventas district and began operating in 1630.",
+      "relevance_es": "Artículo histórico con referencias al Archivo de Villa; afirma que la Venta del Espíritu Santo, junto al camino Madrid-Alcalá y el arroyo Abroñigal, dio nombre al actual barrio de Ventas y empezó a funcionar en 1630."
+    },
+    {
+      "title": "Las Ventas - Historia",
+      "url": "https://www.las-ventas.com/historia.html",
+      "type": "official",
+      "relevance_en": "Official bullring website for the 1931 inaugural charity event, later official opening in 1934, and the origin of the San Isidro fair in 1947.",
+      "relevance_es": "Web oficial de la plaza para la corrida benéfica inaugural de 1931, la inauguración oficial posterior de 1934 y el origen de la Feria de San Isidro en 1947."
+    },
+    {
+      "title": "Las Ventas - FAQ",
+      "url": "https://www.las-ventas.com/faq.html",
+      "type": "official",
+      "relevance_en": "Official current source for access by Metro lines 2 and 5, current bullring capacity of 23,798 seats, and the San Isidro season timing.",
+      "relevance_es": "Fuente oficial actual para el acceso por Metro líneas 2 y 5, el aforo vigente de 23.798 localidades y las fechas generales de la Feria de San Isidro."
+    },
+    {
+      "title": "PARES authority record: Ventas",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/104731/imprimir",
+      "type": "reference",
+      "relevance_en": "Archival reference definition of ventas as establishments on roads or in unpopulated places offering food and lodging to travellers, supporting the linguistic meaning behind the toponym.",
+      "relevance_es": "Referencia archivística que define las ventas como casas en caminos o despoblados para ofrecer comida y hospedaje a pasajeros, apoyando el sentido lingüístico del topónimo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should not be described as simply named after the bullring area; it is better traced to the older place-name Las Ventas del Espiritu Santo, which predates the current bullring.",
+      "es": "No conviene describir la estación simplemente como llamada por la zona de la plaza de toros; es más preciso vincularla al topónimo anterior Las Ventas del Espíritu Santo, previo a la plaza actual."
+    },
+    {
+      "en": "The bullring chronology needs nuance: the building was completed in 1931 and had a charity inaugural bullfight then, but official histories often distinguish an official opening in 1934 after the surroundings were urbanised.",
+      "es": "La cronología de la plaza requiere matiz: el edificio se terminó en 1931 y tuvo entonces una corrida benéfica inaugural, pero varias historias oficiales distinguen una inauguración oficial en 1934 tras urbanizarse el entorno."
+    },
+    {
+      "en": "Jose Espeliu designed and began the bullring, but he died before completion; Manuel Muñoz Monasterio completed the project.",
+      "es": "José Espeliú proyectó e inició la plaza, pero murió antes de verla terminada; Manuel Muñoz Monasterio concluyó el proyecto."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Archivo de Villa de Madrid references, especially Secretaria 3-302-6 and related files, to document the Venta del Espiritu Santo directly rather than through later summaries.",
+      "es": "Revisar las referencias del Archivo de Villa de Madrid, especialmente Secretaría 3-302-6 y expedientes relacionados, para documentar directamente la Venta del Espíritu Santo y no solo a través de resúmenes posteriores."
+    },
+    {
+      "en": "Resolve the minor official-date discrepancy between sources that state the Sol-Ventas section opened on 14 June 1924 and one Comunidad de Madrid line-history page that gives 16 June 1924.",
+      "es": "Resolver la pequeña discrepancia de fecha entre fuentes que indican la apertura del tramo Sol-Ventas el 14 de junio de 1924 y una página histórica de la Comunidad de Madrid que da el 16 de junio de 1924."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_037/en/summary.short.md",
+      "summary": "content/stations/metro_037/en/summary.md",
+      "story": "content/stations/metro_037/en/story.md",
+      "confidence": "content/stations/metro_037/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_037/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_037/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_037/es/summary.short.md",
+      "summary": "content/stations/metro_037/es/summary.md",
+      "story": "content/stations/metro_037/es/story.md",
+      "confidence": "content/stations/metro_037/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_037/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_037/es/research-note.md"
+    }
+  }
+}

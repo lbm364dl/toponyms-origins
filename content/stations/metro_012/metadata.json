@@ -1,0 +1,104 @@
+{
+  "id": "metro_012",
+  "name": "Ópera",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Teatro Real",
+  "previous_names": "Isabel II (1925-06-24/1931); Fermín Galán (1937-06-05 to 1939-04-01)",
+  "naming_date": "1931-06-24; restored 1939-04-01",
+  "sources": [
+    {
+      "title": "Plano Histórico de la Red de Metro 2019 - CRTM",
+      "url": "https://www.crtm.es/media/is2mucu3/serie_i_historico_metro_2019_plano.pdf",
+      "type": "official",
+      "relevance_en": "Provides the key station chronology: Isabel II opening, rename to Ópera on 24 June 1931, Fermín Galán from 5 June 1937 to 1 April 1939, and restoration of Ópera on 1 April 1939.",
+      "relevance_es": "Aporta la cronología clave de la estación: apertura como Isabel II, cambio a Ópera el 24 de junio de 1931, Fermín Galán entre el 5 de junio de 1937 y el 1 de abril de 1939, y recuperación de Ópera el 1 de abril de 1939."
+    },
+    {
+      "title": "Cronología de la Red de Metro de Madrid 1919-2019 - CRTM",
+      "url": "https://crtm.es/media/heofhgdi/serie_i_historico_metro_2019_portada.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the Line 2 and Ramal opening entries as Isabel II and the 24 June 1931 rename to Ópera.",
+      "relevance_es": "Confirma las entradas de apertura de la línea 2 y del Ramal como Isabel II y el cambio de nombre a Ópera el 24 de junio de 1931."
+    },
+    {
+      "title": "Historia del Teatro - Teatro Real",
+      "url": "https://www.teatroreal.es/es/historia-del-teatro",
+      "type": "official",
+      "relevance_en": "Official Teatro Real history confirming the Caños del Peral background, the 19 November 1850 opening, Donizetti's La favorita, and the 1925 closure.",
+      "relevance_es": "Historia oficial del Teatro Real que confirma el contexto de los Caños del Peral, la inauguración del 19 de noviembre de 1850, La favorita de Donizetti y el cierre de 1925."
+    },
+    {
+      "title": "History of the Theatre - Teatro Real",
+      "url": "https://www.teatroreal.es/en/history-theatre",
+      "type": "official",
+      "relevance_en": "English official Teatro Real page corroborating the same theatre chronology and opera-house identity.",
+      "relevance_es": "Página oficial en inglés del Teatro Real que corrobora la misma cronología del teatro y su identidad como teatro de ópera."
+    },
+    {
+      "title": "Patrimonio Edificado de Madrid: Teatro Real",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/PlazaEspa%C3%B1a/Ficheros/Monumentos%20y%20zonas%20verdes/TeatroReal.pdf",
+      "type": "official",
+      "relevance_en": "Madrid heritage inventory stating that the Teatro Real was built on the site of the Teatro de los Caños del Peral and detailing architects, construction dates, 1966 concert-hall reopening and later restoration as an opera house.",
+      "relevance_es": "Ficha patrimonial del Ayuntamiento de Madrid que indica que el Teatro Real se levantó sobre el solar del Teatro de los Caños del Peral y detalla arquitectos, fechas de construcción, reapertura como sala de conciertos en 1966 y posterior recuperación como teatro de ópera."
+    },
+    {
+      "title": "La plazuela de los Caños del Peral - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/patrimonio-cultural/plazuela-canos-peral",
+      "type": "official",
+      "relevance_en": "Explains the older water landscape, public washhouses, Coliseo de los Caños del Peral, archaeological works at Ópera station, and the museumized remains.",
+      "relevance_es": "Explica el paisaje hidráulico antiguo, los lavaderos públicos, el Coliseo de los Caños del Peral, las actuaciones arqueológicas en la estación de Ópera y los restos musealizados."
+    },
+    {
+      "title": "Caños del Peral - Museos Metro Madrid",
+      "url": "https://museosmetromadrid.es/canos-del-peral/",
+      "type": "official",
+      "relevance_en": "Metro museum page confirming that improvement works at Ópera led to the recovery and display of the Caños del Peral archaeological remains.",
+      "relevance_es": "Página de Museos Metro que confirma que las obras de mejora en Ópera permitieron recuperar y exponer los restos arqueológicos de los Caños del Peral."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The current name was first assigned on 24 June 1931, not only from 1939; 1939 is the restoration date after the Fermín Galán period.",
+      "es": "El nombre actual se asignó por primera vez el 24 de junio de 1931, no solo desde 1939; 1939 es la fecha de recuperación tras el periodo Fermín Galán."
+    },
+    {
+      "en": "The station also serves the Ramal Ópera-Príncipe Pío, so the line field appears incomplete if it is meant to list all present Metro services.",
+      "es": "La estación también presta servicio al Ramal Ópera-Príncipe Pío, por lo que el campo de líneas parece incompleto si pretende recoger todos los servicios actuales de Metro."
+    },
+    {
+      "en": "The Teatro Real was built on the site of the former Teatro de los Caños del Peral; the old washhouses are part of the deeper Caños del Peral history, but are not the most precise immediate predecessor for the theatre site.",
+      "es": "El Teatro Real se construyó sobre el solar del antiguo Teatro de los Caños del Peral; los lavaderos forman parte de la historia más antigua de los Caños del Peral, pero no son el antecedente inmediato más preciso del solar del teatro."
+    },
+    {
+      "en": "The Teatro Real did reopen as a concert hall in 1966 before recovering its opera-house function in 1997, so a simple 'closed until 1997' formulation needs nuance.",
+      "es": "El Teatro Real reabrió como sala de conciertos en 1966 antes de recuperar su función de teatro de ópera en 1997, por lo que la fórmula simple de 'cerrado hasta 1997' necesita matiz."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A complete archival check of the 1931 Metro company notice or municipal/ministerial paperwork could confirm the exact wording used to justify the name Ópera.",
+      "es": "Una revisión archivística completa del aviso de la compañía del Metro de 1931 o de la documentación municipal o ministerial podría confirmar la redacción exacta con la que se justificó el nombre Ópera."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_012/en/summary.short.md",
+      "summary": "content/stations/metro_012/en/summary.md",
+      "story": "content/stations/metro_012/en/story.md",
+      "confidence": "content/stations/metro_012/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_012/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_012/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_012/es/summary.short.md",
+      "summary": "content/stations/metro_012/es/summary.md",
+      "story": "content/stations/metro_012/es/story.md",
+      "confidence": "content/stations/metro_012/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_012/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_012/es/research-note.md"
+    }
+  }
+}

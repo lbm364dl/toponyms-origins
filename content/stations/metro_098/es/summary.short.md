@@ -1,0 +1,1 @@
+Conde de Casal toma su nombre de la plaza del Conde de Casal, cuya denominación municipal de 1954 homenajeó a Manuel Escrivá de Romaní y de la Quintana, conde de Casal. Fue abogado madrileño, senador, cargo municipal, académico, coleccionista e historiador de la cerámica.

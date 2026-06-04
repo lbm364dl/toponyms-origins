@@ -1,0 +1,94 @@
+{
+  "id": "metro_052",
+  "name": "Carpetana",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Vía Carpetana, named for the Carpetani / Carpetania",
+  "previous_names": "",
+  "naming_date": "1983-06-01 (opened with current name)",
+  "sources": [
+    {
+      "title": "Metro de Madrid - Estaciones con historia: Carpetana (PDF)",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2023/01/FICHA-Carpetana.pdf",
+      "type": "official",
+      "relevance_en": "Directly states that the station opened on 1 June 1983, is located on Vía Carpetana, and that Vía Carpetana takes its name from the Carpetani; also summarizes the Miocene fossils displayed at the station.",
+      "relevance_es": "Indica directamente que la estación se inauguró el 1 de junio de 1983, que se localiza en la Vía Carpetana y que la Vía Carpetana toma su nombre de los carpetanos; también resume los fósiles del Mioceno expuestos en la estación."
+    },
+    {
+      "title": "Museos Metro Madrid - Yacimiento de Carpetana",
+      "url": "https://museosmetromadrid.es/carpetana/",
+      "type": "official",
+      "relevance_en": "Official Metro museum page confirming the name of the display, the 2008 discovery during accessibility and modernization works, the excavations through June 2009, and the recovery of more than 10,000 fossil remains from animals that lived there about 14 million years ago.",
+      "relevance_es": "Página oficial de Museos de Metro que confirma el nombre del espacio, el hallazgo de 2008 durante obras de accesibilidad y modernización, las excavaciones hasta junio de 2009 y la recuperación de más de 10.000 restos fósiles de animales que vivieron allí hace unos 14 millones de años."
+    },
+    {
+      "title": "Comunidad de Madrid - La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides the official Line 6 chronology, including the Oporto-Laguna extension in 1983 and the later completion of the circular line.",
+      "relevance_es": "Aporta la cronología oficial de la línea 6, incluida la ampliación Oporto-Laguna de 1983 y el cierre posterior de la línea circular."
+    },
+    {
+      "title": "Ministerio de Cultura - Tesauros, Diccionarios del Patrimonio Cultural de España: Carpetania",
+      "url": "https://tesauros.cultura.gob.es/tesauros/toponimiahistorica/1211482",
+      "type": "reference",
+      "relevance_en": "Authoritative reference for Carpetania's geographical scope, the Carpetani in classical sources, examples of Carpetanian sites in Madrid, and the caution that the Carpetani's ethnic-linguistic affiliation is not currently clear.",
+      "relevance_es": "Referencia autorizada sobre el alcance geográfico de la Carpetania, la presencia de los carpetanos en las fuentes clásicas, ejemplos de yacimientos carpetanos en Madrid y la cautela de que su filiación étnico-lingüística no está clara actualmente."
+    },
+    {
+      "title": "Europa Press - Unos 15.000 fósiles hallados en la estación de Metro de Carpetana explican la fauna y flora de hace 14 millones de años",
+      "url": "https://www.europapress.es/cultura/noticia-madrid-15000-fosiles-hallados-estacion-metro-carpetana-explican-fauna-flora-hace-14-millones-anos-20100104143627.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the 2008-2009 fossil discoveries, the 2010 opening of the small station museum, the types of animals represented, and the distinction between original fossils and replicas displayed in the station.",
+      "relevance_es": "Crónica contemporánea sobre los hallazgos fósiles de 2008-2009, la inauguración en 2010 del pequeño museo de la estación, los animales representados y la distinción entre fósiles originales y réplicas expuestas en la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'during station construction works in 2008' with 'during accessibility and modernization works in 2008-2009'; the station had already opened on 1 June 1983.",
+      "es": "Sustituir 'durante las obras de construcción de la estación en 2008' por 'durante obras de accesibilidad y modernización en 2008-2009'; la estación ya se había inaugurado el 1 de junio de 1983."
+    },
+    {
+      "en": "Use 'Yacimiento de Carpetana' or 'Yacimiento Paleontológico de la Estación de Carpetana' for the Metro display; I found no official support for the name 'Andenes de Dinosaurios'.",
+      "es": "Usar 'Yacimiento de Carpetana' o 'Yacimiento Paleontológico de la Estación de Carpetana' para el espacio de Metro; no encontré respaldo oficial para el nombre 'Andenes de Dinosaurios'."
+    },
+    {
+      "en": "Avoid stating without qualification that the Carpetani were Celtic; an official heritage thesaurus says their ethnic-linguistic affiliation is debated or unclear.",
+      "es": "Evitar afirmar sin matices que los carpetanos eran celtas; un tesauro oficial de patrimonio indica que su filiación étnico-lingüística es debatida o no está clara."
+    },
+    {
+      "en": "The fossil count should be worded carefully: Metro says more than 10,000 remains were recovered by June 2009, while contemporary press reports mention more than 15,000 found and more than 10,000 identified.",
+      "es": "La cifra de fósiles debe formularse con cuidado: Metro habla de más de 10.000 restos recuperados hasta junio de 2009, mientras que la prensa contemporánea cita más de 15.000 hallados y más de 10.000 identificados."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal approval date for the street name Vía Carpetana was not located; a historical Madrid street-naming file or older municipal gazette could refine the chronology.",
+      "es": "No se localizó la fecha exacta de aprobación municipal del nombre de la Vía Carpetana; un expediente histórico de rotulación o un boletín municipal antiguo podría precisar la cronología."
+    },
+    {
+      "en": "A specialist archaeological source could be used to refine the short description of the Carpetani's culture and language beyond the cautious summary supplied here.",
+      "es": "Una fuente arqueológica especializada permitiría afinar la descripción breve de la cultura y lengua de los carpetanos más allá del resumen prudente incluido aquí."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_052/en/summary.short.md",
+      "summary": "content/stations/metro_052/en/summary.md",
+      "story": "content/stations/metro_052/en/story.md",
+      "confidence": "content/stations/metro_052/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_052/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_052/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_052/es/summary.short.md",
+      "summary": "content/stations/metro_052/es/summary.md",
+      "story": "content/stations/metro_052/es/story.md",
+      "confidence": "content/stations/metro_052/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_052/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_052/es/research-note.md"
+    }
+  }
+}

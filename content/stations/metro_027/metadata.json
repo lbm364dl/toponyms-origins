@@ -1,0 +1,90 @@
+{
+  "id": "metro_027",
+  "name": "Feria de Madrid",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Feria de Madrid / Recintos Feriales de IFEMA",
+  "previous_names": "Campo de las Naciones (24 June 1998-25 June 2017)",
+  "naming_date": "26 June 2017",
+  "sources": [
+    {
+      "title": "La estación de Metro de Campo de las Naciones se llamará Feria de Madrid desde el próximo día 26",
+      "url": "https://www.comunidad.madrid/press-releases/download/30067",
+      "type": "official",
+      "relevance_en": "Official PDF press release proving the former name, new name, effective date of 26 June 2017, reason for the change, Line 8 location, and opening date of 24 June 1998.",
+      "relevance_es": "Nota de prensa oficial en PDF que prueba el nombre anterior, el nuevo nombre, la entrada en vigor el 26 de junio de 2017, el motivo del cambio, la ubicación en la línea 8 y la apertura el 24 de junio de 1998."
+    },
+    {
+      "title": "Línea 8. Tramo: Mar de Cristal-Campo de las Naciones",
+      "url": "https://www.comunidad.madrid/transporte/linea-8-tramo-mar-cristal-campo-naciones",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming that Campo de las Naciones changed its name to Feria de Madrid on 26 June 2017, that the station served IFEMA, and that the Line 8 section opened on 24 June 1998.",
+      "relevance_es": "Página oficial de infraestructuras que confirma que Campo de las Naciones cambió su nombre a Feria de Madrid el 26 de junio de 2017, que la estación daba servicio a IFEMA y que el tramo de la línea 8 se inauguró el 24 de junio de 1998."
+    },
+    {
+      "title": "Información detallada del Parque Juan Carlos I - Historia del parque",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Urbanismo/Normativa/Informacion-detallada-del-Parque-Juan-Carlos-I/?idCapitulo=10722231&vgnextchannel=097ac8eb248fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=46c6d7c1426b3610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council source explaining the Campo de las Naciones urban-cultural complex, its planning context, link with the 1985 General Plan, IFEMA, and Parque Juan Carlos I.",
+      "relevance_es": "Fuente del Ayuntamiento de Madrid que explica el complejo urbanístico-cultural del Campo de las Naciones, su contexto de planeamiento, la relación con el Plan General de 1985, IFEMA y el Parque Juan Carlos I."
+    },
+    {
+      "title": "Somos IFEMA MADRID",
+      "url": "https://www.ifema.es/nosotros",
+      "type": "official",
+      "relevance_en": "Official IFEMA MADRID page confirming that IFEMA MADRID was founded in 1980 and is a consortium formed by the Community of Madrid, Madrid City Council, the Madrid Chamber of Commerce and Industry, and Fundación Montemadrid.",
+      "relevance_es": "Página oficial de IFEMA MADRID que confirma que IFEMA MADRID fue fundada en 1980 y es un consorcio formado por la Comunidad de Madrid, el Ayuntamiento de Madrid, la Cámara de Comercio e Industria de Madrid y la Fundación Montemadrid."
+    },
+    {
+      "title": "Ferias en Madrid | IFEMA MADRID",
+      "url": "https://www.ifema.es/calendario/ferias",
+      "type": "official",
+      "relevance_en": "Official IFEMA calendar showing the breadth of fairs held at IFEMA MADRID, including major public examples such as FITUR, ARCOmadrid and Mercedes-Benz Fashion Week Madrid.",
+      "relevance_es": "Calendario oficial de IFEMA que muestra la variedad de ferias celebradas en IFEMA MADRID, incluidos ejemplos destacados como FITUR, ARCOmadrid y Mercedes-Benz Fashion Week Madrid."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct opening_year from 2002 to 1998; the station opened to the public on 24 June 1998.",
+      "es": "Corregir opening_year de 2002 a 1998; la estación abrió al público el 24 de junio de 1998."
+    },
+    {
+      "en": "Move 'Campo de las Naciones (until 2017)' to previous_names and set naming_date to 26 June 2017.",
+      "es": "Mover 'Campo de las Naciones (until 2017)' a previous_names y fijar naming_date como 26 de junio de 2017."
+    },
+    {
+      "en": "Clear person_nationality; the value '2017' is a misplaced date and this is not a person-name etymology.",
+      "es": "Vaciar person_nationality; el valor '2017' es una fecha mal ubicada y no se trata de una etimología de persona."
+    },
+    {
+      "en": "Use 'Feria de Madrid / Recintos Feriales de IFEMA' rather than only 'IFEMA' as the named-after value, because the station name refers to the fairgrounds destination.",
+      "es": "Usar 'Feria de Madrid / Recintos Feriales de IFEMA' en lugar de solo 'IFEMA' como named_after, porque el nombre de la estación remite al destino de los recintos feriales."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid naming-resolution document or internal signage order was not found; the official Community of Madrid press release is sufficient for the public etymology but not a full administrative file.",
+      "es": "No se localizó una resolución formal de Metro de Madrid o una orden interna de señalización; la nota oficial de la Comunidad de Madrid basta para la etimología pública, pero no equivale al expediente administrativo completo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_027/en/summary.short.md",
+      "summary": "content/stations/metro_027/en/summary.md",
+      "story": "content/stations/metro_027/en/story.md",
+      "confidence": "content/stations/metro_027/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_027/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_027/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_027/es/summary.short.md",
+      "summary": "content/stations/metro_027/es/summary.md",
+      "story": "content/stations/metro_027/es/story.md",
+      "confidence": "content/stations/metro_027/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_027/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_027/es/research-note.md"
+    }
+  }
+}

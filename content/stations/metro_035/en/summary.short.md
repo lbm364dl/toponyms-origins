@@ -1,0 +1,1 @@
+Islas Filipinas is named for the Philippine Islands, via the nearby Avenida de Filipinas and its older or popular name. The archipelago’s Spanish name ultimately honors Prince Felipe, later Philip II, after the 1543 Villalobos expedition.

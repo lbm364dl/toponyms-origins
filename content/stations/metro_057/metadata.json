@@ -1,0 +1,108 @@
+{
+  "id": "metro_057",
+  "name": "Esperanza",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Colonia Virgen de la Esperanza",
+  "previous_names": "",
+  "naming_date": "1979-01-05",
+  "sources": [
+    {
+      "title": "CRTM: Esperanza",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_69?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport listing for Esperanza station on Metro line 4, giving the access as Andorra, Calle de Andorra 51.",
+      "relevance_es": "Ficha oficial de transporte de la estación de Esperanza en la línea 4, con acceso Andorra, calle de Andorra 51."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 4 de Metro de Madrid",
+      "url": "https://pcen.prod.comunidad.madrid/transporte/linea-4-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page stating that the Alfonso XIII-Esperanza extension opened on 5 January 1979 with 2.221 km and three new stations.",
+      "relevance_es": "Página oficial regional que indica que la prolongación Alfonso XIII-Esperanza se inauguró el 5 de enero de 1979 con 2,221 km y tres estaciones nuevas."
+    },
+    {
+      "title": "Fundación Arquitectura COAM: Barrio de Nueva Esperanza",
+      "url": "https://fcoam.eu/guia/F3/F3.144F.htm",
+      "type": "official",
+      "relevance_en": "Authoritative architectural guide locating the estate in Canillas, Hortaleza; documenting the 1965 layout, 1969-1971 housing, cooperative commission, architects, and 3,393 dwellings.",
+      "relevance_es": "Guía arquitectónica autorizada que sitúa el conjunto en Canillas, Hortaleza; documenta la ordenación de 1965, las viviendas de 1969-1971, el encargo de la cooperativa, los arquitectos y las 3.393 viviendas."
+    },
+    {
+      "title": "Fundación DOCOMOMO Ibérico: Barrio de Nueva Esperanza",
+      "url": "https://docomomoiberico.com/edificios/barrio-de-nueva-esperanza/",
+      "type": "academic",
+      "relevance_en": "Modern architecture register giving the current name as Colonia Virgen de la Esperanza and dating the planning and housing phases.",
+      "relevance_es": "Registro de arquitectura moderna que da la denominación actual como Colonia Virgen de la Esperanza y fecha las fases de ordenación y viviendas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Diario de Madrid: Hortaleza, ayer y hoy: de 1949 a 2025",
+      "url": "https://diario.madrid.es/blog/2025/03/31/hortaleza-ayer-y-hoy-de-1949-a-2025/",
+      "type": "official",
+      "relevance_en": "Municipal historical article explaining the annexation of Canillas and Hortaleza, their administrative relationship with Chamartín, the 1970 district reorganisation, and the 1970s growth including Colonia Virgen de la Esperanza and Metro arrival in 1979.",
+      "relevance_es": "Artículo histórico municipal que explica la anexión de Canillas y Hortaleza, su relación administrativa con Chamartín, la reorganización distrital de 1970 y el crecimiento de los años setenta con la Colonia Virgen de la Esperanza y la llegada del Metro en 1979."
+    },
+    {
+      "title": "Archivo Histórico Digital de la Biblioteca de la UPM: 1 Canillas. Colonia Virgen Esperanza",
+      "url": "https://ahdb.upm.es/index.php/1-canillas-colonia-virgen-esperanza",
+      "type": "archive",
+      "relevance_en": "Archival catalogue record showing the place name 'Canillas. Colonia Virgen Esperanza' in the Martínez Sarandeses photographic holdings.",
+      "relevance_es": "Registro archivístico que muestra el topónimo 'Canillas. Colonia Virgen Esperanza' en el fondo fotográfico Martínez Sarandeses."
+    },
+    {
+      "title": "Archidiocesis de Madrid: Virgen de la Nueva prepara con una novena la solemnidad de la Inmaculada Concepción",
+      "url": "https://www.archimadrid.org/index.php/oficina-de-informacion/noticias-madrid/virgen-de-la-nueva-prepara-con-una-novena-la-solemnidad-de-la-inmaculada-concepcion",
+      "type": "official",
+      "relevance_en": "Church source confirming the nearby parish Virgen de la Nueva at Calanda 28, useful for local context but not for the station's etymology.",
+      "relevance_es": "Fuente eclesiástica que confirma la cercana parroquia Virgen de la Nueva en Calanda 28, útil para el contexto local pero no para la etimología de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the district from Chamartín to Hortaleza/Canillas for the current station context.",
+      "es": "Cambiar el distrito de Chamartín a Hortaleza/Canillas para el contexto actual de la estación."
+    },
+    {
+      "en": "Use 'Colonia Virgen de la Esperanza' as the recommended named_after value, not the shortened 'Colonia Esperanza'.",
+      "es": "Usar 'Colonia Virgen de la Esperanza' como valor recomendado de named_after, no el abreviado 'Colonia Esperanza'."
+    },
+    {
+      "en": "Treat the claim about Aragonese origins of many residents as unverified unless a cooperative, oral-history, municipal, or archival source is added.",
+      "es": "Tratar la afirmación sobre el origen aragonés de muchos vecinos como no verificada salvo que se añada una fuente de la cooperativa, historia oral, municipal o archivística."
+    },
+    {
+      "en": "Broaden the authorship note: COAM lists a large 1965 planning team and attributes the 1969-1971 housing specifically to Antonio Camuñas Paredes and José Antonio Camuñas Solís.",
+      "es": "Ampliar la nota de autoría: el COAM enumera un amplio equipo de ordenación de 1965 y atribuye las viviendas de 1969-1971 específicamente a Antonio Camuñas Paredes y José Antonio Camuñas Solís."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the original Metro de Madrid or public-works file for the 1979 station opening to confirm the formal naming rationale.",
+      "es": "Localizar el expediente original de Metro de Madrid u obras públicas de la apertura de 1979 para confirmar la justificación formal del nombre."
+    },
+    {
+      "en": "Check cooperative records or local oral-history publications for the reported Aragonese/Teruel origin of many residents and the reason for the Teruel street names.",
+      "es": "Consultar archivos de la cooperativa o publicaciones de historia oral local para verificar el supuesto origen aragonés/turolense de muchos vecinos y el motivo de los nombres de calles de Teruel."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_057/en/summary.short.md",
+      "summary": "content/stations/metro_057/en/summary.md",
+      "story": "content/stations/metro_057/en/story.md",
+      "confidence": "content/stations/metro_057/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_057/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_057/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_057/es/summary.short.md",
+      "summary": "content/stations/metro_057/es/summary.md",
+      "story": "content/stations/metro_057/es/story.md",
+      "confidence": "content/stations/metro_057/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_057/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_057/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The station's direct naming after the municipality is verified by official transport sources. The historical explanation of 'del Rey' is strongly supported by municipal sources, while the pre-Roman *arg- etymology is supported by a specialist source but remains an interpretation of an ancient name rather than a fully provable fact.

@@ -1,0 +1,1 @@
+Multiple contemporary and official transport sources confirm that the Line 9 station was named Paco de Lucía as a tribute after the guitarist’s death. CRTM documentation confirms the station’s 2015 opening, Mirasierra location, mural tribute, and connection role; press reports from 27 February 2014 record the naming announcement and the earlier Costa Brava association.

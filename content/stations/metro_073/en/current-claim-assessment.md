@@ -1,0 +1,1 @@
+The core claim that the station is named for the Valdebernardo area/neighbourhood in Vicálvaro is well supported by transport and municipal sources. The more specific claim that the name commemorates Bernardo Gómez, a Barcelonian ancestor or former landowner, appears only in weak secondary station pages and should not be treated as verified without archival confirmation.

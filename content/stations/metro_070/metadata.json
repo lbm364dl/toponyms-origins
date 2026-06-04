@@ -1,0 +1,118 @@
+{
+  "id": "metro_070",
+  "name": "Méndez Álvaro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Francisco Méndez Álvaro",
+  "previous_names": "Station: no former station name found. Underlying street/place: Camino de Yeseros and later Calle del Sur are reported in secondary street histories before the current Calle de Méndez Álvaro.",
+  "naming_date": "1981-05-07 for the Metro station name; the street name is reported in secondary sources as assigned in 1884.",
+  "sources": [
+    {
+      "title": "CRTM - Méndez Álvaro Estación Sur",
+      "url": "https://www.crtm.es/tu-transporte-publico/intercambiadores/grandes-intercambiadores/90_13/",
+      "type": "official",
+      "relevance_en": "Official transport source stating that the Méndez Álvaro interchange is located in southern Madrid next to the street of the same name and is served by Metro Line 6 and Cercanías lines.",
+      "relevance_es": "Fuente oficial de transporte que indica que el intercambiador de Méndez Álvaro está situado en la zona sur de Madrid, junto a la calle del mismo nombre, y que pasan por él la línea 6 de Metro y líneas de Cercanías."
+    },
+    {
+      "title": "CRTM - Méndez Álvaro metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_111.aspx",
+      "type": "official",
+      "relevance_en": "Official station page confirming the station name, Line 6 correspondence and accesses on Calle de Méndez Álvaro, Calle del Ombú and Calle de Pedro Bosch.",
+      "relevance_es": "Página oficial de estación que confirma el nombre, la correspondencia con la línea 6 y los accesos por la calle de Méndez Álvaro, la calle del Ombú y la calle de Pedro Bosch."
+    },
+    {
+      "title": "CRTM PDF - Intercambiador de transportes de Méndez Álvaro",
+      "url": "https://www.crtm.es/media/108574/90_13_es_articulo_mendezalvaro.pdf",
+      "type": "official",
+      "relevance_en": "Gives the transport chronology: Metro Line 6 station opened in 1981 under the Pedro Bosch/Méndez Álvaro intersection; C-5 opened here in 1991; later works created the larger interchange.",
+      "relevance_es": "Aporta la cronología del transporte: la estación de línea 6 abrió en 1981 bajo la intersección de Pedro Bosch y Méndez Álvaro; la C-5 llegó en 1991; las obras posteriores formaron el gran intercambiador."
+    },
+    {
+      "title": "Comunidad de Madrid - La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the Pacífico-Oporto section of Line 6 opened on 7 May 1981, establishing the likely station naming date.",
+      "relevance_es": "Confirma que el tramo Pacífico-Oporto de la línea 6 se inauguró el 7 de mayo de 1981, lo que fija la fecha probable del nombre de la estación."
+    },
+    {
+      "title": "Renfe - Estación de Mendez Álvaro",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-mendez-alvaro",
+      "type": "official",
+      "relevance_en": "Official Renfe page confirming the station is on Calle de Méndez Álvaro and connects with Cercanías C1, C5 and C10, Metro Line 6 and the South Bus Station.",
+      "relevance_es": "Página oficial de Renfe que confirma que la estación está en la calle de Méndez Álvaro y conecta con Cercanías C1, C5 y C10, la línea 6 de Metro y la Estación Sur de Autobuses."
+    },
+    {
+      "title": "Diccionario Biográfico de la Medicina Española - Méndez Álvaro, Francisco",
+      "url": "https://biomedes.es/biografia/mendez-alvaro-francisco/",
+      "type": "reference",
+      "relevance_en": "Strong biographical source for Francisco Méndez Álvaro's dates, medical training, cholera service, public-health work, brief mayoralty, sanitary administration, vaccination role and presidency of the medical academy.",
+      "relevance_es": "Fuente biográfica sólida para las fechas de Francisco Méndez Álvaro, su formación médica, actuación en el cólera, trabajo higienista, breve alcaldía, administración sanitaria, papel en vacunación y presidencia de la academia médica."
+    },
+    {
+      "title": "Anales de la Real Academia Nacional de Medicina - Un presidente de la RANM que vino de un pueblo",
+      "url": "https://analesranm.es/revista/2019/136_02/13602rev04",
+      "type": "academic",
+      "relevance_en": "Article by a RANM academic summarizing Méndez Álvaro's birth, public-health focus, publications, academic presidency, honors and Madrid commemorations including the street, Metro station and bus station.",
+      "relevance_es": "Artículo de un académico de la RANM que resume el nacimiento de Méndez Álvaro, su interés por la salud pública, publicaciones, presidencia académica, distinciones y conmemoraciones madrileñas como la calle, la estación de metro y la estación de autobuses."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid street gazetteer confirming Calle de Méndez Álvaro as an official street in Arganzuela and Puente de Vallecas and giving its municipal location.",
+      "relevance_es": "Callejero oficial del Ayuntamiento de Madrid que confirma la calle de Méndez Álvaro como vía oficial en Arganzuela y Puente de Vallecas y aporta su localización municipal."
+    },
+    {
+      "title": "Fundación Ibercaja - Francisco Méndez Álvaro",
+      "url": "https://www.fundacionibercaja.es/que-hacemos/mas-cultura/disfruta-con-la-historia/francisco-mendez-alvaro/",
+      "type": "reference",
+      "relevance_en": "Useful modern biographical note that supports his journalism and political profile while flagging uncertainty about documenting the mayoralty claim from one municipal chronicle.",
+      "relevance_es": "Nota biográfica moderna útil que respalda su perfil periodístico y político y, a la vez, señala incertidumbre sobre la documentación de la alcaldía en una crónica municipal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "State the naming chain explicitly: the station is named after Calle de Méndez Álvaro; the street commemorates Francisco Méndez Álvaro.",
+      "es": "Conviene explicitar la cadena del nombre: la estación toma el nombre de la calle de Méndez Álvaro; la calle conmemora a Francisco Méndez Álvaro."
+    },
+    {
+      "en": "Replace the broad claim about taking the first measures against cholera and plague epidemics in Madrid with better-supported wording: he was a public-health hygienist; his work during the 1834 cholera epidemic in Brihuega earned him the Cruz de Epidemias; he later worked in sanitary administration and vaccination.",
+      "es": "Sustituir la afirmación amplia sobre las primeras medidas contra epidemias de cólera y peste en Madrid por una formulación más respaldada: fue higienista de salud pública; su actuación durante la epidemia de cólera de 1834 en Brihuega le valió la Cruz de Epidemias; después trabajó en administración sanitaria y vacunación."
+    },
+    {
+      "en": "Renfe's current station page lists C1, C5 and C10 connections, while the input line field lists only C-5 and C-10 for Cercanías.",
+      "es": "La página actual de Renfe incluye conexiones C1, C5 y C10, mientras que el campo de línea de entrada solo recoge C-5 y C-10 para Cercanías."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal street-naming act or a full official historical street gazetteer to confirm the exact 1884 date and wording for Calle de Méndez Álvaro.",
+      "es": "Consultar el acta municipal original de rotulación o un callejero histórico oficial completo de Madrid para confirmar la fecha exacta de 1884 y la redacción de la calle de Méndez Álvaro."
+    },
+    {
+      "en": "The brief 1843 mayoralty is widely repeated and supported by medical-biographical sources, but Fundación Ibercaja notes that one cited claim could not be firmly documented in Enrique de Aguinaga's municipal chronicle; this deserves archival checking if used prominently.",
+      "es": "La breve alcaldía de 1843 aparece repetida y respaldada en fuentes biográficas médicas, pero Fundación Ibercaja señala que una afirmación citada no pudo fundamentarse con firmeza en la crónica municipal de Enrique de Aguinaga; conviene comprobarlo en archivo si se usa de forma destacada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_070/en/summary.short.md",
+      "summary": "content/stations/metro_070/en/summary.md",
+      "story": "content/stations/metro_070/en/story.md",
+      "confidence": "content/stations/metro_070/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_070/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_070/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_070/es/summary.short.md",
+      "summary": "content/stations/metro_070/es/summary.md",
+      "story": "content/stations/metro_070/es/story.md",
+      "confidence": "content/stations/metro_070/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_070/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_070/es/research-note.md"
+    }
+  }
+}

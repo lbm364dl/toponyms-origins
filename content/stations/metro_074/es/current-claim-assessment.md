@@ -1,0 +1,1 @@
+La afirmación principal, que el nombre de la estación procede del antiguo pueblo y actual distrito de Vicálvaro, está bien respaldada. La explicación lingüística debe matizarse: la documentación municipal presenta Vicus-Alvar y Vicus-Albus como hipótesis, no como una derivación segura de «la aldea de Álvaro».

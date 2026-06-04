@@ -1,0 +1,1 @@
+La estación de Carabanchel se llama así por el distrito madrileño al que sirve, heredero de los antiguos Carabanchel Bajo y Carabanchel Alto. El origen de la palabra Carabanchel es discutido, con teorías prerromanas de raíz pétrea y de antropónimo céltico mejor documentadas que la explicación popular del garbanzo.

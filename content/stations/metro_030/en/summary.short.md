@@ -1,0 +1,1 @@
+Pirámides is named after the Glorieta de las Pirámides, whose landmark is not a pair of true pyramids but two 1831 neoclassical obelisks beside the Puente de Toledo. They were designed by Francisco Javier de Mariategui as part of a monumental approach to the bridge and the Puerta de Toledo.

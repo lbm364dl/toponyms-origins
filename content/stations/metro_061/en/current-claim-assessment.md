@@ -1,0 +1,1 @@
+The core origin is well supported: the station name comes from Calle de Colombia and ultimately the Republic of Colombia. The existing row is weak on evidence and contains a transport chronology error: Colombia opened on Line 9b on 30 December 1983, not in 1982, and the Line 8 interchange was added in 2002.

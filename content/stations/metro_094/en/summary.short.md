@@ -1,0 +1,1 @@
+Ventura Rodríguez station is named for the nearby street and ultimately for Buenaventura Rodríguez Tizón (1717-1785), the Madrid-born architect from Ciempozuelos behind the fountain programme of the Salón del Prado. The station entered service with Line 3's northward extension to Argüelles in July 1941.

@@ -1,0 +1,1 @@
+The row is essentially correct: the station takes its name from Calle de Sevilla at the Alcalá junction, and the station belonged to the first Line 2 section opened in June 1924. The stronger evidence adds that the street name was adopted by municipal agreement on 4 May 1849 to avoid confusion with the nearby Angosta de los Peligros.

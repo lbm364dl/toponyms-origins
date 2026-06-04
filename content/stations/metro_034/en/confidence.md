@@ -1,0 +1,1 @@
+Metro de Madrid directly states that the station name comes from the Glorieta de Quevedo and that the square received the name of the Golden Age writer. Official transport chronology confirms the 1925 opening and 1929 extension, while municipal heritage records independently confirm the glorieta's dedication to Francisco de Quevedo.

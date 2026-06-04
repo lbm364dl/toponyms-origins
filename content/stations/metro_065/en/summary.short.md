@@ -1,0 +1,1 @@
+Barajas station is named for the historic village and former municipality of Barajas, annexed to Madrid by a 1949 decree and now a district. The older place-name has competing explanations, with the famous Bar Axa story best treated as folk etymology rather than proven origin.

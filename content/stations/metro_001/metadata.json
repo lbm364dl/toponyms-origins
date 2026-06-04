@@ -1,0 +1,104 @@
+{
+  "id": "metro_001",
+  "name": "Sol",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puerta del Sol",
+  "previous_names": "Sol Galaxy Note / Estación Sol Galaxy Note (2012, one-month sponsorship); Vodafone Sol (1 June 2013-1 June 2016)",
+  "naming_date": "17 October 1919 for the original Metro station name; Cercanías Sol opened in 2009",
+  "sources": [
+    {
+      "title": "Puerta del Sol - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Edificios-singulares/Puerta-del-Sol/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4528f7d9560a4510f7d9560a45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Direct official source for the place-name origin: a medieval wall postern decorated with a sun, later transformed from an extramural place into Madrid's center.",
+      "relevance_es": "Fuente oficial directa para el origen del topónimo: un postigo de la muralla medieval decorado con un sol, transformado después de espacio extramuros en centro de Madrid."
+    },
+    {
+      "title": "Patrimonio Edificado de Madrid: Puerta del Sol (Ref. 90004)",
+      "url": "https://monumentamadrid.es/AM_Edificios4/AM_Edificios4_WEB/pdf/inmana/90004.pdf",
+      "type": "official",
+      "relevance_en": "Official heritage PDF repeating the sun-decorated medieval postern explanation and giving architectural chronology for the 1857-1862 reform.",
+      "relevance_es": "PDF patrimonial oficial que repite la explicación del postigo medieval decorado con un sol y aporta la cronología arquitectónica de la reforma de 1857-1862."
+    },
+    {
+      "title": "Metro de Madrid Museos: Estaciones con Historia - Sol",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-sol.pdf",
+      "type": "official",
+      "relevance_en": "Metro de Madrid source for station chronology: Line 1 opening in 1919, Line 2 in 1924, Line 3 in 1936, and Cercanías in 2009.",
+      "relevance_es": "Fuente de Metro de Madrid para la cronología de la estación: apertura de la línea 1 en 1919, línea 2 en 1924, línea 3 en 1936 y Cercanías en 2009."
+    },
+    {
+      "title": "CRTM: La estación de Sol y la Línea 2 de Metro de Madrid recuperan su nombre original",
+      "url": "https://www.crtm.es/comunicacion/sala-de-prensa/noticias/archivo/162016-estacion-sol-recupera-nombre/",
+      "type": "official",
+      "relevance_en": "Official transport press release confirming the Vodafone sponsorship ended and the original name Sol returned on 1 June 2016.",
+      "relevance_es": "Nota oficial de transporte que confirma el final del patrocinio de Vodafone y la recuperación del nombre original Sol el 1 de junio de 2016."
+    },
+    {
+      "title": "Puerta del Sol | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/puerta-del-sol",
+      "type": "official",
+      "relevance_en": "Official tourism page documenting the square's current civic symbols: Casa de Correos clock, New Year's Eve chimes, Kilometre Zero, and the Bear and Strawberry Tree statue.",
+      "relevance_es": "Página turística oficial que documenta los símbolos cívicos actuales de la plaza: reloj de la Casa de Correos, campanadas de Nochevieja, Kilómetro Cero y estatua del Oso y el Madroño."
+    },
+    {
+      "title": "Metro y tren se cruzan en el kilómetro cero - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Metro-y-tren-se-cruzan-en-el-kilometro-cero/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=ff7945bebca22210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council press note confirming the inauguration of the Cercanías station under Puerta del Sol on 27 June 2009.",
+      "relevance_es": "Nota de prensa del Ayuntamiento de Madrid que confirma la inauguración de la estación de Cercanías bajo la Puerta del Sol el 27 de junio de 2009."
+    },
+    {
+      "title": "Metro de Madrid estrena en Sol estaciones patrocinadas - Europa Press",
+      "url": "https://www.europapress.es/sociedad/consumo-00648/noticia-metro-madrid-estrena-sol-estaciones-patrocinadas-20120313164205.html",
+      "type": "press",
+      "relevance_en": "Contemporary report documenting the 13 March 2012 sponsored name Estación Sol Galaxy Note.",
+      "relevance_es": "Crónica contemporánea que documenta el nombre patrocinado Estación Sol Galaxy Note desde el 13 de marzo de 2012."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Comuneros/1520 explanation as a contested or secondary tradition, not as the best-supported origin.",
+      "es": "Conviene tratar la explicación comunera de 1520 como tradición discutida o secundaria, no como el origen mejor respaldado."
+    },
+    {
+      "en": "Replace 'medieval fortress gate' with 'postern or gate in the medieval wall' to match the municipal heritage source.",
+      "es": "Sustituir 'puerta de fortaleza medieval' por 'postigo o puerta de la muralla medieval' para ajustarse a la fuente patrimonial municipal."
+    },
+    {
+      "en": "Do not state the 1570 demolition date as certain; Madrid's official heritage catalogue says the wall was demolished in the 17th century.",
+      "es": "No presentar como segura la fecha de derribo de 1570; el catálogo patrimonial oficial de Madrid dice que la muralla fue derribada en el siglo XVII."
+    },
+    {
+      "en": "The New Year's Eve tradition should say that crowds gather in the square and millions watch the televised chimes, not that millions physically gather there.",
+      "es": "La tradición de Nochevieja debe indicar que se congrega público en la plaza y que millones siguen las campanadas por televisión, no que millones se reúnan físicamente allí."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full inspection of classic printed works such as Mesonero Romanos's 1871 article and later monographs could refine the earliest documentary mentions and the 1570 versus 17th-century demolition chronology.",
+      "es": "Una revisión completa de obras impresas clásicas, como el artículo de Mesonero Romanos de 1871 y monografías posteriores, podría precisar las primeras menciones documentales y la cronología del derribo, entre 1570 y el siglo XVII."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_001/en/summary.short.md",
+      "summary": "content/stations/metro_001/en/summary.md",
+      "story": "content/stations/metro_001/en/story.md",
+      "confidence": "content/stations/metro_001/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_001/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_001/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_001/es/summary.short.md",
+      "summary": "content/stations/metro_001/es/summary.md",
+      "story": "content/stations/metro_001/es/story.md",
+      "confidence": "content/stations/metro_001/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_001/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_001/es/research-note.md"
+    }
+  }
+}

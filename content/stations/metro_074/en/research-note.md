@@ -1,0 +1,1 @@
+For public-facing station text, separate three layers: the transport name is clearly a place-name; the administrative history of Vicálvaro is well documented; the medieval linguistic derivation is plausible but not settled. The input's rich Vicalvarada paragraph is historically relevant to Vicálvaro but should not be framed as the reason for the station name.

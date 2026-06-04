@@ -1,0 +1,1 @@
+La estación de Canillas toma su nombre del barrio de Canillas, heredero de una aldea medieval y antiguo municipio incorporado a Madrid en 1950. El origen local del nombre está bien documentado, aunque la etimología lingüística de "Canillas" sigue abierta a interpretación.

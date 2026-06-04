@@ -1,0 +1,1 @@
+Gregorio Marañón station takes its name from the nearby Plaza del Doctor Marañón and ultimately from Gregorio Marañón y Posadillo (1887-1960), a major Spanish physician, endocrinologist, historian and public intellectual. The Metro interchange was created in 1998 as Line 10 was reshaped and Line 7 was extended westward.

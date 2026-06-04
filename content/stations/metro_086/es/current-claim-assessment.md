@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el topónimo local Pinar de Chamartín, vinculado al antiguo pinar de Chamartín de la Rosa. El material sobre Napoleón es contexto local pertinente, pero debe presentarse como tradición parcialmente discutida, no como causa directa del nombre de la estación.

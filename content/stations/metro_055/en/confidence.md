@@ -1,0 +1,1 @@
+The station’s naming after the district is well supported by transport and municipal sources, and the 1968 opening date is documented. Confidence is not marked verified because the deeper etymology of Carabanchel remains contested in specialist literature and the original 1181 parchment was not directly inspected.

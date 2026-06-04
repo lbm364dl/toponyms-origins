@@ -1,0 +1,1 @@
+La afirmación central es correcta: el nombre de la estación homenajea en último término al poeta nicaragüense Rubén Darío. Conviene precisarla, porque la estación parece tomar el nombre de la Glorieta de Rubén Darío contigua, y decir que fundó el Modernismo 'por sí solo' es demasiado rotundo.

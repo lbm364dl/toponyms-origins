@@ -1,0 +1,1 @@
+La ubicación y la cronología de apertura de la estación están documentadas por la ficha histórica de Metro de Madrid, y el callejero oficial de Madrid identifica la vía correspondiente como calle de Francisco Goya. Esto respalda directamente la cadena: nombre de la estación por la calle de Goya, nombre de la calle por Francisco de Goya y Lucientes.

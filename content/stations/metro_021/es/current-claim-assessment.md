@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre de la plaza de Alonso Martínez, dedicada a Manuel Alonso Martínez. Sin embargo, la ficha exagera su autoría personal del Código Civil y parece indicar de forma incorrecta el número de bases.

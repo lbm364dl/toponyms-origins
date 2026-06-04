@@ -1,0 +1,1 @@
+La afirmación central es correcta: la estación lleva el nombre de Gregorio Marañón y Posadillo, médico, endocrinólogo, historiador y humanista español. Algunos detalles biográficos de la fila están poco documentados o son imprecisos, y la cronología de la estación debe corregirse de 1988 a 1998.

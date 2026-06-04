@@ -1,0 +1,1 @@
+Named for the Nuevos Ministerios government complex on Paseo de la Castellana. The complex was promoted in the Second Republic by Indalecio Prieto, designed by Secundino Zuazo, interrupted by the Civil War, and completed in altered form after the war.

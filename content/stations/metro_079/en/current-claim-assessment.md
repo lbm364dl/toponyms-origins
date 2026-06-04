@@ -1,0 +1,1 @@
+The core etymology is correct: the station is named for Plaza Elíptica, a plaza so called because of its ellipse-like shape. The row should be corrected because Line 11 reached Plaza Elíptica in 1998, not 2006; 2006 was a later extension of Line 11 beyond Pan Bendito.

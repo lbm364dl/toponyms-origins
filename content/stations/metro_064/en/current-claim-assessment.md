@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station is named from Calle de Núñez de Balboa, which commemorates Vasco Núñez de Balboa. It should be tightened by separating the street-derived station name from Balboa's biography and by softening interpretive wording about his trial and execution.

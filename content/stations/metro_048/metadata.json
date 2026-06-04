@@ -1,0 +1,104 @@
+{
+  "id": "metro_048",
+  "name": "Tetuán",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Tetuán de las Victorias, named in memory of Tétouan, Morocco, and the Spanish victory/capture there during the War of Africa in 1860",
+  "previous_names": "No former station name found. The surrounding place was historically Tetuán de las Victorias; before annexation it belonged to Chamartín de la Rosa.",
+  "naming_date": "6 March 1929 for the Metro station name; the barrio name Tetuán de las Victorias dates to 1860",
+  "sources": [
+    {
+      "title": "Huellas del pasado: Tetuán",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-tetuan.pdf",
+      "type": "official",
+      "relevance_en": "Metro de Madrid museum material documents the station, the Cuatro Caminos-Tetuán extension, the 6 March 1929 opening, the 1961 extension to Plaza de Castilla, and a concise account of the barrio's origin after the War of Africa.",
+      "relevance_es": "Material de Museos de Metro de Madrid que documenta la estación, la prolongación Cuatro Caminos-Tetuán, la inauguración del 6 de marzo de 1929, la prolongación de 1961 a Plaza de Castilla y una síntesis del origen del barrio tras la Guerra de África."
+    },
+    {
+      "title": "La Línea 1 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-1-metro-madrid",
+      "type": "official",
+      "relevance_en": "Comunidad de Madrid confirms the Line 1 chronology, including the opening of the Tetuán-Cuatro Caminos section on 6 March 1929 and the Plaza de Castilla-Tetuán section on 6 February 1961.",
+      "relevance_es": "La Comunidad de Madrid confirma la cronología de la línea 1, incluida la apertura del tramo Tetuán-Cuatro Caminos el 6 de marzo de 1929 y del tramo Plaza de Castilla-Tetuán el 6 de febrero de 1961."
+    },
+    {
+      "title": "Tetuán - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Tetuan/Tetuan/?vgnextchannel=0813ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=4004d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "The municipal district page states that Tetuán de las Victorias emerged after the Spanish triumph in the War of Africa and attributes the name to soldiers and merchants repatriated from Moroccan territory, according to some authors.",
+      "relevance_es": "La página municipal del distrito afirma que Tetuán de las Victorias surgió tras el triunfo español en la Guerra de África y atribuye el nombre, según algunos autores, a soldados y comerciantes repatriados del territorio marroquí."
+    },
+    {
+      "title": "Memoria Itinerario Tetuán Histórico",
+      "url": "https://www.madrid.es/UnidadWeb/NxC/RecorridosTetuan/ficheros/historico.pdf",
+      "type": "official",
+      "relevance_en": "A municipal historical itinerary gives the most detailed public account: troops returning from Tétouan camped in the Dehesa de Amaniel in May 1860, the area was named Tetuán de las Victorias, merchants set up around the camp, and early streets carried War of Africa names.",
+      "relevance_es": "Itinerario histórico municipal que ofrece el relato público más detallado: las tropas regresadas de Tetuán acamparon en la dehesa de Amaniel en mayo de 1860, la zona recibió el nombre de Tetuán de las Victorias, comerciantes se instalaron en torno al campamento y las primeras calles tuvieron nombres de la Guerra de África."
+    },
+    {
+      "title": "Archivo de Villa - Archivo municipal de Chamartín de la Rosa",
+      "url": "https://www.madrid.es/portales/munimadrid/es/ArchivoDeVilla/Archivo-de-Villa/?idCapitulo=12082626&vgnextchannel=ed858f363313f010VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "archive",
+      "relevance_en": "The municipal archive page records that Chamartín de la Rosa included Tetuán de las Victorias and was annexed to Madrid by decree, providing administrative context for the station's 1929 location outside the old Madrid municipality.",
+      "relevance_es": "La página del Archivo municipal documenta que Chamartín de la Rosa comprendía Tetuán de las Victorias y fue anexionado a Madrid por decreto, lo que aporta contexto administrativo para la ubicación de la estación en 1929 fuera del antiguo término madrileño."
+    },
+    {
+      "title": "Medina of Tétouan (formerly known as Titawin) - UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/837",
+      "type": "official",
+      "relevance_en": "UNESCO confirms the older form Titawin for the Moroccan city and summarizes its historical importance as a Morocco-Andalusia contact point.",
+      "relevance_es": "La UNESCO confirma la forma antigua Titawin para la ciudad marroquí y resume su importancia histórica como punto de contacto entre Marruecos y Al-Ándalus."
+    },
+    {
+      "title": "Tétouan - Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Tetouan",
+      "type": "reference",
+      "relevance_en": "Britannica provides independent historical context for Tétouan, including its 1860 capture by Spanish troops commanded by Leopoldo O'Donnell.",
+      "relevance_es": "Britannica aporta contexto histórico independiente sobre Tetuán, incluida su captura en 1860 por tropas españolas mandadas por Leopoldo O'Donnell."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not imply that a permanent soldiers' camp directly became the barrio without qualification; the municipal itinerary says the troops camped in Amaniel for two days, while merchants and later settlers helped create the permanent settlement.",
+      "es": "No conviene afirmar sin matices que un campamento permanente de soldados se convirtió directamente en el barrio; el itinerario municipal indica que las tropas acamparon en Amaniel durante dos días, mientras que comerciantes y pobladores posteriores contribuyeron a formar el asentamiento estable."
+    },
+    {
+      "en": "The Battle/Capture chronology should be expressed as early February 1860 rather than only '6 February': sources variously refer to the battle on 4 February, the taking/entry on 5-6 February, and the broader campaign.",
+      "es": "La cronología de la batalla/toma debe expresarse como comienzos de febrero de 1860 y no solo como '6 de febrero': las fuentes aluden de forma diversa a la batalla del 4 de febrero, la toma o entrada del 5-6 de febrero y la campaña en conjunto."
+    },
+    {
+      "en": "The military street-name example should be refined: Bravo Murillo is not itself a War of Africa military name; the municipal itinerary says the old O'Donnell street corresponds to today's Bravo Murillo in this area, and lists campaign-related names such as Prim, Topete, Ceuta, and Wad-Ras.",
+      "es": "El ejemplo del callejero militar debe afinarse: Bravo Murillo no es en sí un nombre militar de la Guerra de África; el itinerario municipal señala que la antigua calle de O'Donnell corresponde en esta zona a la actual Bravo Murillo y enumera nombres relacionados con la campaña como Prim, Topete, Ceuta y Wad-Ras."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full inspection of Díez de Baldeón García and López Marsá, Historia de Tetuán (Ayuntamiento de Madrid, 1987), would be useful because the municipal itinerary cites it for the founding details.",
+      "es": "Sería útil revisar íntegramente Díez de Baldeón García y López Marsá, Historia de Tetuán (Ayuntamiento de Madrid, 1987), porque el itinerario municipal lo cita para los detalles fundacionales."
+    },
+    {
+      "en": "The Metro museum PDF appears to contain a typo saying Tetuán joined Madrid in 1848; other municipal and archival sources support 1948 for the annexation of Chamartín de la Rosa.",
+      "es": "La ficha de Museos de Metro parece contener una errata al indicar que Tetuán pasó a Madrid en 1848; otras fuentes municipales y archivísticas respaldan 1948 para la anexión de Chamartín de la Rosa."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_048/en/summary.short.md",
+      "summary": "content/stations/metro_048/en/summary.md",
+      "story": "content/stations/metro_048/en/story.md",
+      "confidence": "content/stations/metro_048/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_048/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_048/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_048/es/summary.short.md",
+      "summary": "content/stations/metro_048/es/summary.md",
+      "story": "content/stations/metro_048/es/story.md",
+      "confidence": "content/stations/metro_048/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_048/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_048/es/research-note.md"
+    }
+  }
+}

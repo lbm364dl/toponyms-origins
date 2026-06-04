@@ -1,0 +1,1 @@
+Quevedo station takes its name from the Glorieta de Quevedo above it, a Chamberí square named in the nineteenth century for the Madrid-born Golden Age writer Francisco de Quevedo y Villegas. The station opened on Line 2 on 21 October 1925 as the north-western terminus of the Sol-Quevedo extension.

@@ -1,0 +1,1 @@
+Montecarmelo station is named for the modern Montecarmelo urban development in Fuencarral-El Pardo. The place name appears to preserve an older Monte Carmelo toponym, commonly linked to a local stream and ultimately to the religious name Mount Carmel.

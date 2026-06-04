@@ -1,0 +1,1 @@
+The station's immediate location under Calle de Ibiza and the official callejero entry for that street make the street-name origin highly likely. Confidence is marked probable rather than fully verified because I did not inspect a Metro naming file or a municipal street-naming resolution directly stating that Calle de Ibiza was dedicated to the island on a specific date.

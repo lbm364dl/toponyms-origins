@@ -1,0 +1,1 @@
+La estación de Torre Arias toma su nombre de la cercana Quinta de Torre Arias, una finca histórica situada en la calle de Alcalá. El nombre actual de la quinta procede de Ildefonso Pérez de Guzmán el Bueno, VI conde de Torre Arias, después de que su esposa heredara la propiedad en 1895.

@@ -1,0 +1,101 @@
+{
+  "id": "metro_011",
+  "name": "Callao",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "event",
+  "recommended_named_after": "Combate del Callao / Battle of Callao (2 May 1866)",
+  "previous_names": "Older place context: Plazuela de San Jacinto / plazuela de San Jacinto before the 1866 works and later Gran Vía remodelling. No former Metro station name found.",
+  "naming_date": "13 June 1866 for the plaza name; Metro station opened as Callao on Line 3 in 1941 and Line 5 in 1968.",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos - Estaciones con historia: Callao",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-callao.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical sheet for Callao. It confirms the Line 3 opening in 1941, Line 5 opening in 1968, the station's location through Plaza del Callao, and the plaza's commemoration of the maritime battle off Peru.",
+      "relevance_es": "Ficha histórica de Metro sobre Callao. Confirma la apertura de la línea 3 en 1941, la de la línea 5 en 1968, la ubicación de la estación atravesando la plaza del Callao y la conmemoración de la batalla marítima frente a Perú."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Paseo por la Gran Vía",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/ficheros/H19PaseoPorLaGranVia.pdf",
+      "type": "official",
+      "relevance_en": "Municipal educational publication stating that in 1866 part of the block by the Plazuela de San Jacinto was demolished for the widening of Calle Preciados and the space was named Plaza del Callao in honor of Méndez Núñez's action at the Peruvian port.",
+      "relevance_es": "Publicación educativa municipal que indica que en 1866 se derribó parte de la manzana de la plazuela de San Jacinto para ampliar la calle de Preciados y que el espacio se llamó Plaza del Callao en honor de la acción de Méndez Núñez en el puerto peruano."
+    },
+    {
+      "title": "Revista General de Marina, mayo 2026 - Caídos de la Armada que descansan en el Cementerio de Lima",
+      "url": "https://armada.defensa.gob.es/archivo/rgm/2026/05/rgmmay2026_Parte02.pdf",
+      "type": "official",
+      "relevance_en": "Spanish Navy historical article giving the exact date of the Madrid naming agreement, 13 June 1866, and explicitly noting the contested commemorative memory of the battle.",
+      "relevance_es": "Artículo histórico de la Armada que aporta la fecha exacta del acuerdo madrileño de denominación, 13 de junio de 1866, y señala expresamente la memoria conmemorativa disputada del combate."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Callao",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_49",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming Callao as a Metro station with Line 3 and Line 5 correspondences and accesses at Plaza del Callao, Gran Vía and Jacometrezo.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma Callao como estación de Metro con correspondencias de las líneas 3 y 5 y accesos en la plaza del Callao, Gran Vía y Jacometrezo."
+    },
+    {
+      "title": "Biblioteca Virtual del Patrimonio Bibliográfico - Croquis de las posiciones de la Escuadra Española... en el bombardeo de la ciudad del Callao",
+      "url": "https://bvpb.mcu.es/es/consulta/registro.cmd?id=434276",
+      "type": "archive",
+      "relevance_en": "Digitized 1866 cartographic record describing the Spanish Squadron under Casto Méndez Núñez in the bombardment of Callao and the attack on its fortifications on 2 May 1866.",
+      "relevance_es": "Registro cartográfico digitalizado de 1866 que describe la Escuadra Española al mando de Casto Méndez Núñez en el bombardeo del Callao y el ataque a sus fortificaciones el 2 de mayo de 1866."
+    },
+    {
+      "title": "REBIUN catalogue - José Ramón García Martínez, El combate del 2 de mayo de 1866 en el Callao",
+      "url": "https://rebiun.baratz.es/OpacDiscovery/public/catalog/detail/pdf?detailId=b2FpOmNlbGVicmF0aW9uOmVzLmJhcmF0ei5yZW4vMjU5Mjc0Ng",
+      "type": "book",
+      "relevance_en": "Bibliographic record for a Ministry of Defence monograph on the battle, useful as a specialist source for human follow-up. The catalogue record was inspected, not the full monograph.",
+      "relevance_es": "Registro bibliográfico de una monografía del Ministerio de Defensa sobre el combate, útil como fuente especializada para revisión humana posterior. Se consultó el registro de catálogo, no la monografía completa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 13 June 1866 as the most precise found date for the Madrid City Council naming agreement for Plaza del Callao, instead of the vaguer 'named in 1866'.",
+      "es": "Usar el 13 de junio de 1866 como fecha más precisa localizada para el acuerdo municipal que dio nombre a la plaza del Callao, en lugar del más vago 'nombrada en 1866'."
+    },
+    {
+      "en": "Do not present the battle result simply as an undisputed Spanish victory; reliable Spanish naval writing itself notes that Spain and Peru, Chile, Ecuador and Bolivia all celebrated it as a victory.",
+      "es": "No presentar el resultado del combate simplemente como una victoria española indiscutida; la propia historiografía naval española señala que España y Perú, Chile, Ecuador y Bolivia lo celebraron como victoria."
+    },
+    {
+      "en": "The input opening year 1936 is not correct for Callao station: Metro's historical sheet gives 1941 for Line 3 Callao and 1968 for Line 5 Callao.",
+      "es": "El año de apertura 1936 del registro de entrada no es correcto para la estación de Callao: la ficha histórica de Metro indica 1941 para Callao de la línea 3 y 1968 para Callao de la línea 5."
+    },
+    {
+      "en": "Treat the famous 'honour without ships' phrase as attributed tradition unless a primary source is added; it is not necessary to the etymology and should not be tied to a specific Numancia warning without a direct citation.",
+      "es": "Tratar la famosa frase de la 'honra sin barcos' como tradición atribuida salvo que se añada una fuente primaria; no es necesaria para la etimología y no conviene vincularla a un aviso concreto sobre la Numancia sin cita directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full inspection of the 13 June 1866 Madrid municipal minutes would be useful to quote the original wording of the naming agreement.",
+      "es": "Sería útil consultar íntegramente el acta municipal madrileña del 13 de junio de 1866 para citar la redacción original del acuerdo de denominación."
+    },
+    {
+      "en": "Pedro de Répide and Luis Miguel Aparisi Laporta may contain additional street-name nuance, but the accessible official and transport sources are already sufficient for the origin claim.",
+      "es": "Pedro de Répide y Luis Miguel Aparisi Laporta pueden aportar matices adicionales sobre el callejero, pero las fuentes oficiales y de transporte consultables ya son suficientes para la afirmación de origen."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_011/en/summary.short.md",
+      "summary": "content/stations/metro_011/en/summary.md",
+      "story": "content/stations/metro_011/en/story.md",
+      "confidence": "content/stations/metro_011/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_011/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_011/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_011/es/summary.short.md",
+      "summary": "content/stations/metro_011/es/summary.md",
+      "story": "content/stations/metro_011/es/story.md",
+      "confidence": "content/stations/metro_011/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_011/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_011/es/research-note.md"
+    }
+  }
+}

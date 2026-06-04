@@ -1,0 +1,1 @@
+The Community of Madrid's own 2018 announcement states the new name, the effective date, the former name, the reason for the change, and Aleixandre's nearby residence. Independent authoritative sources from the RAE, Nobel Prize, CRTM, and Community cultural pages corroborate the biographical and place context.

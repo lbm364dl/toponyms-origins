@@ -1,0 +1,1 @@
+La estación de Serrano debe su nombre a la calle de Serrano, que conmemora a Francisco Serrano y Domínguez, general y político del siglo XIX que fue regente tras la Revolución Gloriosa de 1868. La vía tuvo nombres anteriores, entre ellos Isabel II y Narváez, antes de adoptar el de Serrano después de 1868.

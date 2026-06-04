@@ -1,0 +1,1 @@
+La afirmación central es correcta: la estación toma su nombre de la sede del Banco de España junto a la plaza de Cibeles. Conviene precisar el estilo del edificio, añadir la fecha de inauguración del 3 de marzo de 1891 y tratar con más cautela el detalle popular de la cámara del oro.

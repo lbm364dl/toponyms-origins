@@ -1,0 +1,1 @@
+La estación de Montecarmelo toma su nombre del moderno desarrollo urbano de Montecarmelo, en Fuencarral-El Pardo. El topónimo parece conservar el nombre anterior Monte Carmelo, asociado habitualmente a un arroyo local y, en último término, al Monte Carmelo de tradición religiosa.

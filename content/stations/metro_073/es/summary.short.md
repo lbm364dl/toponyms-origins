@@ -1,0 +1,1 @@
+La estación de Valdebernardo toma su nombre del área de Valdebernardo, en Vicálvaro, topónimo ya aplicado a esos terrenos antes del desarrollo urbano de los años noventa. Lingüísticamente equivale a “valle de Bernardo”, pero la identidad de ese Bernardo no está documentada con seguridad.

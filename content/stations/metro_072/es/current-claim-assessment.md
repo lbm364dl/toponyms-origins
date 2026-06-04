@@ -1,0 +1,1 @@
+La afirmación existente es sustancialmente correcta: el nombre de la estación es un topónimo local vinculado a la zona de Pavones y a la calle de la Hacienda de Pavones. La prueba más sólida lleva más allá del barrio moderno, hasta la antigua finca o hacienda llamada Pavones o Pabones, documentada mucho antes de la apertura del Metro.

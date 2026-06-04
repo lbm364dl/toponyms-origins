@@ -1,0 +1,1 @@
+El origen descriptivo está respaldado directamente por documentación del Ayuntamiento de Madrid, que afirma que Plaza Elíptica procedía de la forma de elipse de la plaza. El cambio oficial de 2017 está confirmado en el BOAM, y las fuentes de transporte confirman las líneas actuales de la estación y la fecha de 1998 para la línea 11.

@@ -1,0 +1,1 @@
+Diego de León station is named for Calle de Diego de León, a Salamanca-district street dedicated in 1880 to General Diego Antonio de León y Navarrete. He was a celebrated liberal cavalry officer of the First Carlist War and was executed in Madrid after the failed 1841 uprising against Espartero.

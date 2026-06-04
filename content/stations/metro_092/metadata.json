@@ -1,0 +1,93 @@
+{
+  "id": "metro_092",
+  "name": "San Bernardo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Saint Bernard of Clairvaux, through the former Glorieta and Calle de San Bernardo",
+  "previous_names": "The station appears to have kept the name San Bernardo since opening; the place was formerly Glorieta de San Bernardo, renamed Glorieta de Ruiz Giménez in 1934. The related street was historically Calle de Convalecientes or de San Bernardo, and later Calle Ancha de San Bernardo.",
+  "naming_date": "1925",
+  "sources": [
+    {
+      "title": "Metro de Madrid, 'San Bernardo: Huellas del pasado'",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-san-bernardo.pdf",
+      "type": "official",
+      "relevance_en": "Direct station source: gives the 1925 Line 2 opening, 1944 Line 4 opening, location under the Glorieta de Ruiz Giménez, and states that the station received the name of the then Glorieta de San Bernardo.",
+      "relevance_es": "Fuente directa de la estación: aporta la inauguración de la línea 2 en 1925, la de la línea 4 en 1944, la ubicación bajo la glorieta de Ruiz Giménez y afirma que la estación recibió el nombre de la entonces glorieta de San Bernardo."
+    },
+    {
+      "title": "BOCM, Orden 686/2011 sobre las Salesas Nuevas",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2011/06/02/BOCM-20110602-10.PDF",
+      "type": "official",
+      "relevance_en": "Official heritage source for Calle Ancha de San Bernardo: records the Teixeira-map form 'Convalecientes oi de San Bernardo' and explains the street name from a hospital and convent of San Bernardo erected there in the 16th century.",
+      "relevance_es": "Fuente patrimonial oficial sobre la calle Ancha de San Bernardo: recoge la forma del plano de Teixeira 'Convalecientes oi de San Bernardo' y explica el nombre de la calle por un hospital y convento de San Bernardo levantado allí en el siglo XVI."
+    },
+    {
+      "title": "Universidad Complutense de Madrid, 'Paraninfo de la Universidad Complutense de Madrid'",
+      "url": "https://www.ucm.es/cultura/paraninfo-de-la-universidad-complutense-de/",
+      "type": "official",
+      "relevance_en": "Documents the university complex at Calle San Bernardo 49, its occupation of the former Jesuit Noviciado site, construction chronology from 1842-1855, and the Paraninfo opening in 1851-1852.",
+      "relevance_es": "Documenta el conjunto universitario de la calle San Bernardo 49, su ocupación del antiguo solar del Noviciado jesuita, la cronología constructiva de 1842-1855 y la inauguración del Paraninfo en 1851-1852."
+    },
+    {
+      "title": "Universidad Complutense de Madrid, 'The University during the Reign of Isabella II'",
+      "url": "https://www.ucm.es/english/isabella-ii",
+      "type": "official",
+      "relevance_en": "Provides institutional chronology for the transfer of the university from Alcalá to Madrid by Royal Order of 29 October 1836 and its later Central University name.",
+      "relevance_es": "Aporta la cronología institucional del traslado de la universidad desde Alcalá a Madrid por Real Orden de 29 de octubre de 1836 y su posterior nombre de Universidad Central."
+    },
+    {
+      "title": "Community of Madrid, 'Restoration of the church of the Cistercian Monastery of San Bernardo'",
+      "url": "https://www.comunidad.madrid/en/patrimonio-cultural/restauracion-iglesia-monasterio-cisterciense-san-bernardo",
+      "type": "official",
+      "relevance_en": "Confirms that the 1617 Cistercian Monastery of San Bernardo founded by Cardinal Sandoval y Rojas is located in Alcalá de Henares, supporting correction of the input row's conflation.",
+      "relevance_es": "Confirma que el monasterio cisterciense de San Bernardo fundado en 1617 por el cardenal Sandoval y Rojas está en Alcalá de Henares, lo que permite corregir la confusión de la fila de entrada."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes, Mesonero Romanos, 'Manual de Madrid. Descripción de la Corte y de la Villa'",
+      "url": "https://www.cervantesvirtual.com/obra-visor/manual-de-madrid-descripcion-de-la-corte-y-de-la-villa--0/html/00477db6-82b2-11df-acc7-002185ce6064_17.html",
+      "type": "book",
+      "relevance_en": "Historic 19th-century guide noting the Jesuit Noviciado on Calle Ancha de San Bernardo and its 1602 foundation, useful context for the academic and religious landscape of the street.",
+      "relevance_es": "Guía histórica del siglo XIX que sitúa el Noviciado jesuita en la calle Ancha de San Bernardo y da su fundación en 1602, contexto útil para el paisaje académico y religioso de la calle."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not say that the 1617 Cistercian Monastery of San Bernardo founded by Cardinal Sandoval y Rojas stood near the station; official Community of Madrid data places it in Alcalá de Henares.",
+      "es": "No debe afirmarse que el monasterio cisterciense de San Bernardo fundado en 1617 por el cardenal Sandoval y Rojas estuviera cerca de la estación; los datos oficiales de la Comunidad de Madrid lo sitúan en Alcalá de Henares."
+    },
+    {
+      "en": "The immediate source of the station name was the former Glorieta de San Bernardo, not simply the street alone.",
+      "es": "La fuente inmediata del nombre de la estación fue la antigua glorieta de San Bernardo, no solo la calle."
+    },
+    {
+      "en": "The academic context is valid but should be dated more carefully: the University transfer to Madrid was decreed in 1836, the Noviciado site was developed for the university from 1842, and the Paraninfo opened in 1851-1852.",
+      "es": "El contexto académico es válido, pero debe fecharse con más precisión: el traslado universitario a Madrid se decretó en 1836, el solar del Noviciado se desarrolló para la universidad desde 1842 y el Paraninfo se inauguró en el curso 1851-1852."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival confirmation of the vanished 16th-century Madrid hospital and convent's dedication and exact location would strengthen the final link between the street name and Saint Bernard of Clairvaux.",
+      "es": "Una confirmación archivística completa de la advocación y ubicación exacta del desaparecido hospital y convento madrileño del siglo XVI reforzaría el vínculo final entre el nombre de la calle y san Bernardo de Claraval."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_092/en/summary.short.md",
+      "summary": "content/stations/metro_092/en/summary.md",
+      "story": "content/stations/metro_092/en/story.md",
+      "confidence": "content/stations/metro_092/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_092/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_092/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_092/es/summary.short.md",
+      "summary": "content/stations/metro_092/es/summary.md",
+      "story": "content/stations/metro_092/es/story.md",
+      "confidence": "content/stations/metro_092/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_092/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_092/es/research-note.md"
+    }
+  }
+}

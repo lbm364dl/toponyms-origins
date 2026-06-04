@@ -1,0 +1,1 @@
+Alfonso XIII station takes its name from the nearby Avenida de Alfonso XIII and ultimately from King Alfonso XIII of Spain, the monarch who inaugurated Madrid's first Metro line in 1919. The Line 4 station itself opened much later, in 1973, as part of the Diego de León-Alfonso XIII extension.

@@ -1,0 +1,119 @@
+{
+  "id": "metro_065",
+  "name": "Barajas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barajas (former town and present Madrid district)",
+  "previous_names": "Barajas-Pueblo appears in press and archival descriptions of the 1999 extension; no confirmed official former station name found.",
+  "naming_date": "1999-09-07",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid: Línea 8. Tramo Campo de las Naciones-Aeropuerto de Barajas",
+      "url": "https://www.comunidad.madrid/transporte/linea-8-tramo-campo-naciones-aeropuerto-barajas",
+      "type": "official",
+      "relevance_en": "Official infrastructure page stating the Line 8 section, its 14 June 1999 service date, its route to the village of Barajas, and the Barajas station location by Avenida de Logroño and Plaza de Pajarones.",
+      "relevance_es": "Página oficial de infraestructuras que indica el tramo de la línea 8, su puesta en servicio el 14 de junio de 1999, su recorrido hasta el pueblo de Barajas y la ubicación de la estación junto a la avenida de Logroño y la plaza de Pajarones."
+    },
+    {
+      "title": "memoriademadrid: Inauguración tramo línea 8 Barajas Aeropuerto - Barajas Pueblo",
+      "url": "https://www.memoriademadrid.es/view/567845/inauguracion-tramo-linea-8-barajas-aeropuerto-barajas-pueblo",
+      "type": "archive",
+      "relevance_en": "Archival Metro de Madrid photograph record dated 1999, describing the inauguration of the Aeropuerto-Barajas Pueblo section and preserving the descriptive label 'Barajas Pueblo'.",
+      "relevance_es": "Registro archivístico de una fotografía de Metro de Madrid fechada en 1999, que describe la inauguración del tramo Aeropuerto-Barajas Pueblo y conserva la denominación descriptiva 'Barajas Pueblo'."
+    },
+    {
+      "title": "El País: La primera línea de metro financiada con fondos europeos llega a su meta",
+      "url": "https://elpais.com/diario/1999/09/08/madrid/936789861_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report published 8 September 1999 saying the previous day the final 1.4 km section reached the village of Barajas, supporting a 7 September 1999 station opening.",
+      "relevance_es": "Crónica contemporánea publicada el 8 de septiembre de 1999 que afirma que el día anterior se inauguró el último tramo de 1,4 km hasta el pueblo de Barajas, lo que respalda la apertura de la estación el 7 de septiembre de 1999."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Distrito Barajas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Barajas/Barajas/?vgnextchannel=4952ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=edc65969e83b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal page stating that Barajas includes the old village of Barajas de Madrid, was annexed by decree of 18 November 1949, and formed part of Hortaleza until the 1987 restructuring.",
+      "relevance_es": "Página municipal que indica que Barajas comprende la antigua villa de Barajas de Madrid, que fue anexionada por decreto de 18 de noviembre de 1949 y que perteneció a Hortaleza hasta la reestructuración de 1987."
+    },
+    {
+      "title": "BOE, 22 December 1949: Decreto de 18 de noviembre de 1949 por el que se aprueba la anexión total del término municipal de Barajas al de Madrid",
+      "url": "https://www.boe.es/gazeta/dias/1949/12/22/pdfs/BOE-1949-356.pdf",
+      "type": "official",
+      "relevance_en": "Primary legal source approving the total annexation of the municipal term of Barajas to Madrid.",
+      "relevance_es": "Fuente legal primaria que aprueba la anexión total del término municipal de Barajas al de Madrid."
+    },
+    {
+      "title": "Juan Ortega Rubio, Historia de Madrid y de los pueblos de su provincia (digitized PDF)",
+      "url": "https://www.ayuntamiento-losmolinos.es/wp-content/uploads/2018/11/2.-HISTORIA-DE-MADRID.-PUEBLOS-DE-LA-PROVINCIA-D.-Juan-Otega-Rubio-1921.pdf",
+      "type": "book",
+      "relevance_en": "Printed compilation of local Relaciones Topográficas responses; the Barajas section records the 1579 tradition that the place was first Baraja and was linked to a Moor called Baraxa, son of Axa.",
+      "relevance_es": "Recopilación impresa de respuestas de las Relaciones Topográficas; la sección de Barajas recoge la tradición de 1579 según la cual el lugar se llamó primero Baraja y se vinculaba a un moro llamado Baraxa, hijo de Axa."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Topónimos madrileños: Barajas', Anales del Instituto de Estudios Madrileños XLVII (2007)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3017538.pdf",
+      "type": "academic",
+      "relevance_en": "Specialized toponymic article rejecting the Bar Axa story as undocumented folk etymology, reviewing the Latin varalia theory, and arguing for a broader pre-Roman comparative explanation.",
+      "relevance_es": "Artículo especializado de toponimia que rechaza la historia de Bar Axa como etimología popular sin documentación, revisa la teoría latina varalia y defiende una explicación comparativa prerromana más amplia."
+    },
+    {
+      "title": "Dialnet record: Joaquín Caridad Arias, 'Topónimos madrileños: Barajas'",
+      "url": "https://dialnet.unirioja.es/servlet/extaut?codigo=1950985",
+      "type": "reference",
+      "relevance_en": "Bibliographic confirmation of the article title, author, journal, volume, year, and page range.",
+      "relevance_es": "Confirmación bibliográfica del título del artículo, autor, revista, volumen, año y páginas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Bar Axa explanation as an early local tradition or folk etymology, not as a supported Arabic/Hebrew derivation.",
+      "es": "Tratar la explicación de Bar Axa como tradición local antigua o etimología popular, no como derivación árabe/hebrea demostrada."
+    },
+    {
+      "en": "Clarify that the 1949 date refers to the decree approving annexation; some secondary accounts give 31 March 1950 as the effective municipal integration date.",
+      "es": "Aclarar que 1949 corresponde al decreto que aprobó la anexión; algunas fuentes secundarias dan el 31 de marzo de 1950 como fecha efectiva de integración municipal."
+    },
+    {
+      "en": "Do not present Covarrubias as independent proof of the Barajas place-name; the modern article cites him mainly for the name Axa and as an example of early speculative etymology.",
+      "es": "No presentar a Covarrubias como prueba independiente del topónimo Barajas; el artículo moderno lo cita sobre todo por el nombre Axa y como ejemplo de etimología antigua especulativa."
+    },
+    {
+      "en": "Distinguish the station opening of 7 September 1999 from the Line 8 airport section placed in service on 14 June 1999.",
+      "es": "Distinguir la inauguración de la estación el 7 de septiembre de 1999 de la puesta en servicio del tramo aeroportuario de la línea 8 el 14 de junio de 1999."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original manuscript or a critical edition of the Relaciones Topográficas for Barajas to verify wording, spelling, and whether Ortega Rubio modernized or summarized the 1579 response.",
+      "es": "Revisar el manuscrito original o una edición crítica de las Relaciones Topográficas de Barajas para verificar redacción, grafía y si Ortega Rubio modernizó o resumió la respuesta de 1579."
+    },
+    {
+      "en": "Check Metro de Madrid internal naming records or opening programs to confirm whether 'Barajas-Pueblo' was ever an official station name or only a descriptive label used during the inauguration.",
+      "es": "Consultar documentación interna de Metro de Madrid o programas de inauguración para confirmar si 'Barajas-Pueblo' fue alguna vez nombre oficial de la estación o solo una denominación descriptiva usada en la inauguración."
+    },
+    {
+      "en": "Review Emilio Nieto Ballester's and Gutierre Tibón's printed entries directly, because online references usually quote them second-hand.",
+      "es": "Revisar directamente las entradas impresas de Emilio Nieto Ballester y Gutierre Tibón, porque las referencias en línea suelen citarlas de segunda mano."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_065/en/summary.short.md",
+      "summary": "content/stations/metro_065/en/summary.md",
+      "story": "content/stations/metro_065/en/story.md",
+      "confidence": "content/stations/metro_065/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_065/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_065/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_065/es/summary.short.md",
+      "summary": "content/stations/metro_065/es/summary.md",
+      "story": "content/stations/metro_065/es/story.md",
+      "confidence": "content/stations/metro_065/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_065/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_065/es/research-note.md"
+    }
+  }
+}

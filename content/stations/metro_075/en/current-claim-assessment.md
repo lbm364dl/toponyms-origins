@@ -1,0 +1,1 @@
+The core claim is well supported for the station name: official regional infrastructure text says San Cipriano station takes its name from Calle de San Cipriano. The further identification with Saint Cyprian of Carthage is plausible but not directly proven by an official street-naming record found in this research.

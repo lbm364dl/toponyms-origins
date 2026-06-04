@@ -1,0 +1,1 @@
+La afirmación principal está bien sustentada: la estación toma su nombre de la cercana glorieta de las Pirámides y de sus dos obeliscos de 1831, obra de Francisco Javier de Mariategui. El punto más débil es la fecha exacta del acuerdo municipal de 28 de diciembre de 1944, repetida en fuentes secundarias pero no comprobada aquí en el acuerdo municipal original.

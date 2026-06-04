@@ -1,0 +1,1 @@
+The station is named for Atlético de Madrid's nearby Metropolitano stadium. Metro de Madrid changed the former Estadio Olímpico station name in June 2017, just before the club moved from the Vicente Calderón.

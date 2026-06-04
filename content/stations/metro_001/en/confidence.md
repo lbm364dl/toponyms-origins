@@ -1,0 +1,1 @@
+The station's name, location, and transport chronology are documented by Metro de Madrid and Madrid municipal sources. The exact medieval origin has some legendary variants, but the official heritage source directly supports naming Puerta del Sol from a sun-decorated medieval wall postern.

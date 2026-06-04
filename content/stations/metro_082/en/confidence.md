@@ -1,0 +1,1 @@
+The immediate naming after the La Poveda neighbourhood is verified by transport mapping and station context, and the 1999 opening date is well documented. The poplar-grove etymology is strongly supported by local history and general toponymic evidence, but I did not find a primary medieval or cadastral document proving the exact first use of La Poveda in Arganda.

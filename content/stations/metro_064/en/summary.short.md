@@ -1,0 +1,1 @@
+Núñez de Balboa station takes its name from the nearby Madrid street honouring Vasco Núñez de Balboa, the Extremaduran explorer and conquistador associated with the European discovery and naming of the Mar del Sur, now the Pacific Ocean, in 1513.

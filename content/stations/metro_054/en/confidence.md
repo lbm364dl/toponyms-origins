@@ -1,0 +1,1 @@
+The place-name origin is supported by official Community of Madrid heritage pages and the 2018 BOCM BIC decree, which document the estate's naming in the 1820s and its later royal history. No separate Metro etymology note was found, so the station-to-local-place link is inferred from its location and name, but the underlying toponym is well documented.

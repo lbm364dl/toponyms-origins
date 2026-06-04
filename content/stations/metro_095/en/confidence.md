@@ -1,0 +1,1 @@
+The station name, line and access location are confirmed by CRTM, and official Madrid heritage sources identify the Puerta de Toledo at the same square, its date, architects and historical evolution. The etymology is therefore direct and well supported; remaining uncertainty is limited to exact wording about the unbuilt Bonapartist predecessor and the station's formal naming act.

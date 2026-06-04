@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación se asocia con Diego Antonio de León y Navarrete, militar español de caballería del siglo XIX. Sin embargo, conviene formularlo con más precisión: la estación toma el nombre de la calle de Diego de León, dedicada a él, y algunos detalles dramáticos de la fila actual son tradicionales o imprecisos.

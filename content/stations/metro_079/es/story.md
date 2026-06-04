@@ -1,0 +1,9 @@
+Plaza Elíptica tiene uno de los nombres más literales del Metro de Madrid: alude a la plaza de forma elíptica situada sobre la estación. No es un nombre conmemorativo ni simbólico; describe la forma del gran nudo viario donde confluyen varias vías del sur de Madrid.
+
+El topónimo se consolidó después de la incorporación de Carabanchel Bajo a Madrid y de la reorganización viaria de la zona en los años cincuenta. La documentación municipal de memoria histórica indica que la plaza se creó en ese periodo y que su denominación procedía de su forma de elipse. La misma nota municipal recuerda además una referencia anterior del lugar, la Plaza de la Puerta Bonita, antes de que se configurara la glorieta moderna.
+
+El nombre oficial no fue siempre el mismo. Tras la muerte en 1954 de José María Fernández Ladreda, antiguo ministro de Obras Públicas, la plaza pasó a llamarse Plaza de Fernández Ladreda. Sin embargo, en el uso cotidiano madrileño siguió muy viva la denominación Plaza Elíptica, hasta el punto de que la estación de Metro inaugurada en 1981 mantuvo ese nombre aunque muchas direcciones oficiales del entorno siguieran usando Fernández Ladreda.
+
+La historia del transporte reforzó el nombre popular antiguo. La línea 6 llegó a la plaza en 1981 con la prolongación Pacífico-Oporto, y la línea 11 se inauguró entre Plaza Elíptica y Pan Bendito el 16 de noviembre de 1998. Más tarde, el intercambiador subterráneo convirtió el punto en una gran puerta de entrada para autobuses del corredor sur metropolitano, incluidos Getafe, Leganés, Parla y Toledo, con enlace directo con las líneas 6 y 11 de Metro.
+
+En 2017 el Ayuntamiento de Madrid recuperó oficialmente el nombre Plaza Elíptica en el callejero, sustituyendo Plaza de Fernández Ladreda. Por eso el nombre de la estación no solo es descriptivo: también conservó durante décadas la denominación que los vecinos seguían usando hasta que el nombre oficial volvió a coincidir con el habla común.

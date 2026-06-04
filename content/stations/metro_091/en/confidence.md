@@ -1,0 +1,1 @@
+The station's opening date, location and original access by Plaza de Santo Domingo are documented by Metro de Madrid's historical station sheet, and municipal and academic sources connect the square and surrounding toponymy with the former monastery of Santo Domingo el Real. Confidence is lower only for fine-grained medieval chronology and unverified anecdotal details.

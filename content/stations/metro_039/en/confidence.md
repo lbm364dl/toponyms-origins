@@ -1,0 +1,1 @@
+The station name, location, and 1979 opening are supported by official regional and municipal archive sources; O'Donnell's identity and titles are supported by RAH, Senate, and Gaceta sources. The only less direct link is the street-name dedication itself, which is supported by Madrid toponymic secondary sources rather than a located municipal naming decree.

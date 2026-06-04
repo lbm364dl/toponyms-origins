@@ -1,0 +1,108 @@
+{
+  "id": "metro_010",
+  "name": "Chamberí",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Chamberí district / Plaza de Chamberí, ultimately associated with Chambéry in Savoy",
+  "previous_names": "No former station name found; closed 22 May 1966; reopened as museum in 2008",
+  "naming_date": "17 October 1919 (station opening); Chamberí place name documented by 1761",
+  "sources": [
+    {
+      "title": "La estación de Chamberí - Museos Metro Madrid",
+      "url": "https://museosmetromadrid.es/la-estacion-de-chamberi/",
+      "type": "official",
+      "relevance_en": "Metro de Madrid identifies Chamberí as part of the first metro line opened in 1919, states that it operated until 1966, and records its restoration and opening to the public in 2008.",
+      "relevance_es": "Metro de Madrid identifica Chamberí como parte de la primera línea de metro inaugurada en 1919, indica que funcionó hasta 1966 y recoge su restauración y apertura al público en 2008."
+    },
+    {
+      "title": "MM Estaciones con Historia: Chamberí, Huellas del pasado",
+      "url": "https://www.museosmetromadrid.es/wp-content/uploads/2024/11/ficha-chamberi.pdf",
+      "type": "official",
+      "relevance_en": "Provides the strongest station-specific chronology: opening on 17 October 1919, location at Plaza de Chamberí, closure on 22 May 1966, platform-length problem, and 2008 museum reopening.",
+      "relevance_es": "Aporta la cronología específica más sólida de la estación: inauguración el 17 de octubre de 1919, ubicación en la plaza de Chamberí, cierre el 22 de mayo de 1966, problema de alargamiento de andenes y reapertura museística en 2008."
+    },
+    {
+      "title": "Plano de Chalmandrier de 1761 - Instituto Geográfico Nacional",
+      "url": "https://www.ign.es/web/catalogo-cartoteca/resources/webmaps/chalmandrier.html",
+      "type": "archive",
+      "relevance_en": "Official cartographic record for the 1761 map of Madrid, an essential chronological anchor because later sources report Chamberí appearing there before the Napoleonic period.",
+      "relevance_es": "Registro cartográfico oficial del plano de Madrid de 1761, anclaje cronológico esencial porque fuentes posteriores señalan que Chamberí aparece allí antes de la época napoleónica."
+    },
+    {
+      "title": "Chamberí - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Chamberi/?vgnextchannel=7643ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=4d74d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Shows the municipal historical summary and its War of Independence/regiment explanation; useful as evidence of an official but contested tradition.",
+      "relevance_es": "Muestra el resumen histórico municipal y su explicación del regimiento de la Guerra de la Independencia; es útil como prueba de una tradición oficial pero discutida."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Algunos topónimos madrileños de origen celta: Aravaca, Alcobendas, Carabanchel, Carabaña, Chamberí, Las Vistillas, Vallecas'",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=3012173",
+      "type": "academic",
+      "relevance_en": "Academic reference for the broader onomastic problem; it links Madrid's Chamberí with French Chambéry and related European forms while treating a Napoleonic-regiment explanation as likely popular.",
+      "relevance_es": "Referencia académica para el problema onomástico más amplio; relaciona el Chamberí madrileño con el Chambéry francés y formas europeas afines, y considera probablemente popular la explicación del regimiento napoleónico."
+    },
+    {
+      "title": "Chamberí - web Comercios Históricos de Madrid",
+      "url": "https://comercioshistoricosdemadrid.com/chamberi/",
+      "type": "official",
+      "relevance_en": "Gives a public-facing Madrid account of the María Luisa Gabriela de Saboya / Chambéry tradition and notes the 1761 map attestation.",
+      "relevance_es": "Ofrece una versión divulgativa madrileña de la tradición de María Luisa Gabriela de Saboya / Chambéry y señala la constancia del nombre en el plano de 1761."
+    },
+    {
+      "title": "Antonio Ponz, Viage de España, tomo quinto, trata de Madrid",
+      "url": "https://bvpb.mcu.es/viajes/es/consulta/busqueda_referencia.do?campo=idtitulo&idValor=1733186",
+      "type": "book",
+      "relevance_en": "Bibliographic and digitized-copy record for the eighteenth-century work later cited in discussions of Chamberí's name; the exact Chamberí passage still needs direct inspection.",
+      "relevance_es": "Registro bibliográfico y de copia digitalizada de la obra dieciochesca citada después en debates sobre el nombre de Chamberí; el pasaje exacto sobre Chamberí aún requiere comprobación directa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not treat 'Closed 1966; museum 2008' as a former station name; it is operational history.",
+      "es": "No debe tratarse 'Cerró en 1966; museo en 2008' como nombre anterior de la estación; es historia operativa."
+    },
+    {
+      "en": "The Salesas Reales/Bárbara de Braganza explanation should be presented as one theory, not as the best-proven mechanism from the sources inspected.",
+      "es": "La explicación de las Salesas Reales/Bárbara de Braganza debe presentarse como una teoría, no como el mecanismo mejor probado por las fuentes revisadas."
+    },
+    {
+      "en": "The Napoleonic-regiment theory is weak or erroneous as an origin story because Chamberí is documented before the War of Independence.",
+      "es": "La teoría del regimiento napoleónico es débil o errónea como explicación de origen porque Chamberí está documentado antes de la Guerra de la Independencia."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the high-resolution Chalmandrier map directly to record the exact label, spelling and position of Chamberí on the 1761 sheet.",
+      "es": "Conviene revisar directamente el plano de Chalmandrier en alta resolución para registrar la etiqueta exacta, la grafía y la posición de Chamberí en la lámina de 1761."
+    },
+    {
+      "en": "Verify the precise Antonio Ponz passage in Viage de España, tomo V, against a digitized copy rather than relying on later summaries.",
+      "es": "Debe verificarse el pasaje exacto de Antonio Ponz en el Viage de España, tomo V, sobre una copia digitalizada, no solo mediante resúmenes posteriores."
+    },
+    {
+      "en": "A specialist review should decide whether to mention Caridad Arias's proposed pre-Roman/Celtic background for the wider Chambéry/Chamberí family of names in public copy.",
+      "es": "Una revisión especializada debería decidir si conviene mencionar en el texto público la hipótesis prerromana/celta de Caridad Arias para la familia más amplia de nombres Chambéry/Chamberí."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_010/en/summary.short.md",
+      "summary": "content/stations/metro_010/en/summary.md",
+      "story": "content/stations/metro_010/en/story.md",
+      "confidence": "content/stations/metro_010/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_010/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_010/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_010/es/summary.short.md",
+      "summary": "content/stations/metro_010/es/summary.md",
+      "story": "content/stations/metro_010/es/story.md",
+      "confidence": "content/stations/metro_010/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_010/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_010/es/research-note.md"
+    }
+  }
+}

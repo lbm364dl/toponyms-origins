@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma su nombre de la calle de O'Donnell, dedicada a Leopoldo O'Donnell y Joris. La corrección principal es que la cerca derribada era la Cerca de Felipe IV, de época moderna, no las murallas medievales de Madrid.

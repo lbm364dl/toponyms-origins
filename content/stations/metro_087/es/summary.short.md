@@ -1,0 +1,1 @@
+La estación de Antón Martín lleva el nombre de la plaza histórica situada sobre ella, que recuerda a Antón Martín, hermano hospitalario del siglo XVI que fundó en 1552 el Hospital de Nuestra Señora del Amor de Dios en la calle de Atocha.

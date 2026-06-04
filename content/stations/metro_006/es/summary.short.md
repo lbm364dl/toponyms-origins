@@ -1,0 +1,1 @@
+La estación de Argüelles toma su nombre del barrio madrileño dedicado a Agustín de Argüelles Álvarez, político liberal asturiano y constitucionalista gaditano conocido como “El Divino”. La ficha histórica de Metro de Madrid vincula expresamente el nombre de la estación con él y con el entorno de su estatua.

@@ -1,0 +1,97 @@
+{
+  "id": "metro_100",
+  "name": "Serrano",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Francisco Serrano y Domínguez",
+  "previous_names": "For the street: Isabel II; Narváez / Bulevar Narváez. No former station name found.",
+  "naming_date": "Station name in use at opening in 1944; street renamed after September 1868.",
+  "sources": [
+    {
+      "title": "Francisco Serrano Domínguez | memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/473547",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage record for the commemorative plaque; explicitly states that Calle de Serrano is named for Francisco Serrano y Domínguez, that he lived and died there, and that the street had earlier Isabel II/Narváez names.",
+      "relevance_es": "Ficha de patrimonio municipal de Madrid sobre la placa conmemorativa; afirma expresamente que la calle de Serrano se llama así por Francisco Serrano y Domínguez, que vivió y murió allí, y que la vía tuvo nombres anteriores Isabel II/Narváez."
+    },
+    {
+      "title": "Huellas del pasado: Serrano - Museos Metro Madrid",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-serrano.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical sheet locating Serrano station on Calle Goya between Serrano and Lagasca, recording the Line 4 inaugural section, and stating that the street was formerly Bulevar Narváez before taking the name of General Francisco Serrano y Domínguez.",
+      "relevance_es": "Ficha histórica de Metro que sitúa la estación de Serrano en la calle Goya entre Serrano y Lagasca, documenta el tramo inaugural de la línea 4 y señala que la calle fue antes Bulevar Narváez antes de adoptar el nombre del general Francisco Serrano y Domínguez."
+    },
+    {
+      "title": "Serrano - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_59/?idPestana=1",
+      "type": "official",
+      "relevance_en": "Current transport authority station page confirming the station name, Line 4 correspondence, zone, and access points at Calle de Goya and Serrano.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma el nombre de la estación, su correspondencia con la línea 4, la zona tarifaria y los accesos en la calle de Goya y Serrano."
+    },
+    {
+      "title": "Sexenio Revolucionario 1868-1874 - Congreso de los Diputados",
+      "url": "https://www.congreso.es/es/cem/sexrevol",
+      "type": "official",
+      "relevance_en": "Official parliamentary context for La Gloriosa, naming Prim and Serrano among the military leaders and recording Serrano's appointment as regent in June 1869.",
+      "relevance_es": "Contexto parlamentario oficial de La Gloriosa, que cita a Prim y Serrano entre los jefes militares y recoge el nombramiento de Serrano como regente en junio de 1869."
+    },
+    {
+      "title": "Francisco Serrano y Domínguez - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/42522-francisco-serrano-y-dominguez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry identifying Serrano as Duke of la Torre, born in San Fernando in 1810 and died in Madrid in 1885, and listing his roles as regent, military officer, politician, head of state and president of government.",
+      "relevance_es": "Entrada biográfica autorizada que identifica a Serrano como duque de la Torre, nacido en San Fernando en 1810 y fallecido en Madrid en 1885, y enumera sus cargos como regente, militar, político, jefe de Estado y presidente del Gobierno."
+    },
+    {
+      "title": "Callejero oficial del Ayuntamiento de Madrid - Portal de datos abiertos",
+      "url": "https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?page=2&vgnextchannel=20d612b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextoid=b3c41f3cf6a6c410VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official Madrid street dataset source for current and historical street-name records; useful for confirming the municipal framework for Calle de Serrano, though the browsed page did not itself provide the etymology.",
+      "relevance_es": "Fuente oficial del callejero vigente e histórico de Madrid; útil para confirmar el marco municipal de la calle de Serrano, aunque la página consultada no aportaba por sí misma la etimología."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that Serrano 'presided over Spain's first liberal constitution since 1812'; Spain had other liberal constitutional texts before 1869, so the safer wording is that the 1869 Constitution was a major democratic-liberal constitution of the Sexenio Democrático.",
+      "es": "Sustituir la afirmación de que Serrano presidió 'la primera constitución liberal de España desde 1812'; antes de 1869 hubo otros textos constitucionales liberales, por lo que es más seguro decir que la Constitución de 1869 fue una gran constitución democrático-liberal del Sexenio Democrático."
+    },
+    {
+      "en": "Add the earlier street names: municipal heritage records Isabel II and Narváez, while Metro's station-history sheet specifically mentions Bulevar Narváez.",
+      "es": "Añadir los nombres anteriores de la calle: el patrimonio municipal recoge Isabel II y Narváez, mientras que la ficha histórica de Metro menciona específicamente Bulevar Narváez."
+    },
+    {
+      "en": "State the house reference carefully: the municipal record places the commemorative plaque at C/ Serrano 11/14 and says this was where Serrano lived and died; other retellings simplify this as number 14.",
+      "es": "Formular con cuidado la referencia a la casa: la ficha municipal sitúa la placa en C/ Serrano 11/14 y dice que allí vivió y murió Serrano; otros relatos lo simplifican como el número 14."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal municipal naming ordinance or council act for the post-1868 street renaming was not found in the accessible web search; archival inspection could pin down the exact approval date.",
+      "es": "No se localizó en la búsqueda web accesible un acuerdo municipal u ordenanza formal del cambio de nombre posterior a 1868; una consulta de archivo podría fijar la fecha exacta de aprobación."
+    },
+    {
+      "en": "Metro historical material gives the official inauguration on 23 March 1944 and public service from the next day; datasets may choose either 'inaugurated' or 'opened to public' wording to avoid ambiguity.",
+      "es": "La documentación histórica de Metro da la inauguración oficial el 23 de marzo de 1944 y la apertura al público al día siguiente; las bases de datos deberían distinguir entre 'inaugurada' y 'abierta al público' para evitar ambigüedad."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_100/en/summary.short.md",
+      "summary": "content/stations/metro_100/en/summary.md",
+      "story": "content/stations/metro_100/en/story.md",
+      "confidence": "content/stations/metro_100/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_100/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_100/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_100/es/summary.short.md",
+      "summary": "content/stations/metro_100/es/summary.md",
+      "story": "content/stations/metro_100/es/story.md",
+      "confidence": "content/stations/metro_100/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_100/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_100/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The word origin is directly supported by RAE/ASALE and by Corominas, while the medieval Madrid forms are corroborated by the BOE edition of the Fuero de Madrid. The modern station renaming is documented by official Community of Madrid and CRTM notices.

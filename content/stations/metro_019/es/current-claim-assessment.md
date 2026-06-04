@@ -1,0 +1,1 @@
+La afirmación central es correcta: el nombre de la estación remite a Eugenia de Montijo, la española que fue emperatriz de los franceses. Conviene ajustar la ficha porque la estación abrió en 1999, no en 2007, y algunos detalles llamativos, como la frase de la capilla, son anecdóticos y no esenciales para explicar el origen del nombre.

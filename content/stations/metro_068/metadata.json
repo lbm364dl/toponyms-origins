@@ -1,0 +1,108 @@
+{
+  "id": "metro_068",
+  "name": "Legazpi",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Miguel López de Legazpi",
+  "previous_names": "",
+  "naming_date": "Plaza de Legazpi: 16/07/1926 in the Madrid municipal street database; Metro station record: 02/03/1951; line 3 station opened to passengers on 01/03/1951.",
+  "sources": [
+    {
+      "title": "Callejero Municipal de Madrid - Consulta del callejero",
+      "url": "https://servpub.madrid.es/BDCTR_WBVERMADINTER/jsp/index.jsp",
+      "type": "official",
+      "relevance_en": "Official Madrid street database. Querying LEGAZPI returns Plaza de Legazpi as a current official public way, class PLAZA, with existence date 16/07/1926, and the separate Metro station record as ESTACION DE METRO LEGAZPI with starting point Plaza de Legazpi, existence date 02/03/1951, and observations LINEAS-3-6.",
+      "relevance_es": "Callejero oficial del Ayuntamiento de Madrid. La consulta LEGAZPI devuelve la plaza de Legazpi como vía oficial vigente, clase PLAZA, con fecha de existencia 16/07/1926, y la ficha separada ESTACION DE METRO LEGAZPI con inicio en la plaza de Legazpi, fecha de existencia 02/03/1951 y observación LINEAS-3-6."
+    },
+    {
+      "title": "Correspondencia con la Historia - Real Academia de la Historia / Metro Madrid",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "official",
+      "relevance_en": "RAH and Metro de Madrid collaboration page listing station names based on historical figures; it lists LEGAZPI and links it to Miguel López de Legazpi.",
+      "relevance_es": "Página de colaboración entre la RAH y Metro de Madrid sobre estaciones con nombres de personajes históricos; incluye LEGAZPI y lo enlaza con Miguel López de Legazpi."
+    },
+    {
+      "title": "Miguel López de Legazpi - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/26616-miguel-lopez-de-legazpi",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for the person commemorated by the station name.",
+      "relevance_es": "Referencia biográfica autorizada sobre la persona conmemorada por el nombre de la estación."
+    },
+    {
+      "title": "Huellas del pasado: Embajadores - Museos Metro Madrid",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-embajadores.pdf",
+      "type": "official",
+      "relevance_en": "Metro heritage PDF explaining line 3 chronology: the line reached Delicias in 1949 and Legazpi in 1951, up to the Manzanares.",
+      "relevance_es": "Ficha patrimonial de Metro que explica la cronología de la línea 3: llegó a Delicias en 1949 y a Legazpi en 1951, hasta el Manzanares."
+    },
+    {
+      "title": "Historia - Matadero Madrid",
+      "url": "https://www.mataderomadrid.org/historia",
+      "type": "official",
+      "relevance_en": "Official Matadero Madrid history page documenting the former municipal slaughterhouse and livestock market, begun in 1911, inaugurated in 1924, located at Plaza de Legazpi, and later converted into a contemporary creation centre.",
+      "relevance_es": "Página oficial de historia de Matadero Madrid que documenta el antiguo matadero y mercado municipal de ganados, iniciado en 1911, inaugurado en 1924, ubicado en la plaza de Legazpi y transformado después en centro de creación contemporánea."
+    },
+    {
+      "title": "El Galeón de Manila. La ruta española que unió tres continentes - Ministerio de Defensa",
+      "url": "https://publicaciones.defensa.gob.es/el-galeon-de-manila-la-ruta-espa-ola-que-unio-tres-continentes.html",
+      "type": "official",
+      "relevance_en": "Spanish Ministry of Defence publication page noting that Andrés de Urdaneta, a member of Miguel de Legazpi's expedition, completed the Pacific return route in 1565, enabling the regular Spain-America-Asia trade route.",
+      "relevance_es": "Página de una publicación del Ministerio de Defensa que señala que Andrés de Urdaneta, miembro de la expedición de Miguel de Legazpi, completó en 1565 el tornaviaje por el Pacífico, haciendo posible la ruta comercial regular España-América-Asia."
+    },
+    {
+      "title": "Cartas de Miguel López de Legazpi sobre su llegada a las islas Filipinas - PARES",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/description/121761",
+      "type": "archive",
+      "relevance_en": "Archival catalogue entry for Legazpi's 1565 letters about his arrival in the Philippine Islands; useful primary-source context for the expedition, though the page returned a rate-limit error during inspection.",
+      "relevance_es": "Entrada archivística de cartas de Legazpi de 1565 sobre su llegada a las islas Filipinas; aporta contexto de fuente primaria para la expedición, aunque la página devolvió un límite de acceso durante la consulta."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should not be treated as opened in 1936; line 3 opened in 1936, but Legazpi station opened when the line was extended south in 1951.",
+      "es": "No debe tratarse la estación como inaugurada en 1936; la línea 3 abrió en 1936, pero la estación de Legazpi se abrió cuando la línea se prolongó hacia el sur en 1951."
+    },
+    {
+      "en": "The Manila Galleon context should be phrased carefully: the tornaviaje and the Manila-Acapulco route are chiefly associated with Andrés de Urdaneta within Legazpi's expedition, not with Legazpi alone.",
+      "es": "El contexto del Galeón de Manila debe formularse con cuidado: el tornaviaje y la ruta Manila-Acapulco se asocian sobre todo a Andrés de Urdaneta dentro de la expedición de Legazpi, no a Legazpi en solitario."
+    },
+    {
+      "en": "Use the official Madrid street-database date 16/07/1926 for the plaza's existence, while noting that some secondary accounts cite a council naming action on 14/07/1926.",
+      "es": "Debe usarse la fecha oficial de existencia 16/07/1926 del Callejero Municipal para la plaza, señalando que algunas fuentes secundarias citan un acuerdo municipal de denominación del 14/07/1926."
+    },
+    {
+      "en": "Legazpi's birth year is often given as 1502, but some biographical references note uncertainty around the exact year; avoid overclaiming a precise date unless citing a specific biography.",
+      "es": "El año de nacimiento de Legazpi suele darse como 1502, pero algunas referencias biográficas señalan incertidumbre sobre el año exacto; conviene evitar una precisión excesiva salvo que se cite una biografía concreta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal council record from July 1926 to reconcile the secondary 14 July naming date with the official street-database existence date of 16 July 1926.",
+      "es": "Consultar el acta municipal original de julio de 1926 para conciliar la fecha secundaria de denominación del 14 de julio con la fecha oficial de existencia del callejero, 16 de julio de 1926."
+    },
+    {
+      "en": "Consult Metro de Madrid's original 1951 inauguration documentation if a precise station naming act, distinct from the opening date, is required.",
+      "es": "Consultar la documentación original de Metro de Madrid de 1951 si se necesita un acto formal de denominación de la estación distinto de la fecha de apertura."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_068/en/summary.short.md",
+      "summary": "content/stations/metro_068/en/summary.md",
+      "story": "content/stations/metro_068/en/story.md",
+      "confidence": "content/stations/metro_068/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_068/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_068/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_068/es/summary.short.md",
+      "summary": "content/stations/metro_068/es/summary.md",
+      "story": "content/stations/metro_068/es/story.md",
+      "confidence": "content/stations/metro_068/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_068/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_068/es/research-note.md"
+    }
+  }
+}

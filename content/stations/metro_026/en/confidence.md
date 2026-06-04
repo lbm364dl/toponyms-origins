@@ -1,0 +1,1 @@
+Official Community of Madrid press material and later BOCM documentation explicitly state that Atocha changed to Estación del Arte on 1 December 2018, and explain the museum-axis and wayfinding reasons. Metro museum documentation independently confirms the former name, the 1921 origin, the 2018 name change and the reference to the Paseo del Prado museums.

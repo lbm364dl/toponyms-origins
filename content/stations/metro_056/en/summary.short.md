@@ -1,0 +1,1 @@
+Arturo Soria station is named for Calle de Arturo Soria, which honours Madrid urbanist Arturo Soria y Mata. His Ciudad Lineal project turned this part of Madrid into one of Europe's best-known early experiments in tram-centred linear urban planning.

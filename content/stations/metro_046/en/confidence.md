@@ -1,0 +1,1 @@
+Official transport sources verify that the current station serves Plaza de la Prosperidad and the Prosperidad neighborhood, while academic and local historical works independently support the older Soynard origin and the 1862 parceling chronology. The only nuance is that the station is directly named for a place, not directly for Soynard as a commemorated person.

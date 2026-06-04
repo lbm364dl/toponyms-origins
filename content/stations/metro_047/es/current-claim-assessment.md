@@ -1,0 +1,1 @@
+La afirmación principal queda verificada: la estación toma su nombre de la Glorieta de Cuatro Caminos, cuyo topónimo alude a una encrucijada histórica. La historia ferroviaria también está bien respaldada, pero no se ha podido verificar de forma directa la afirmación sobre una torre circular de ventilación de ladrillo protegida y conviene tratarla con cautela.

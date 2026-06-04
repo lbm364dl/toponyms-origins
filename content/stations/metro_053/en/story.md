@@ -1,0 +1,9 @@
+Oporto station takes its name from the Oporto toponym in Carabanchel, especially the nearby Avenida de Oporto and the urban node around the station. The official Madrid street list records Avenida de Oporto in the district of Carabanchel, while today the regional transport consortium lists Oporto as a Metro station served by lines 5 and 6, with accesses on General Ricardos, Oca and Glorieta del Valle de Oro.
+
+Behind the Madrid street name is the Portuguese city of Porto, called Oporto in traditional Spanish. FundéuRAE lists Porto: Oporto among recommended Spanish forms for European place names, and the old Spanish form is not arbitrary: linguistic studies note that Oporto comes from Portuguese o Porto, with the masculine article o fused to the noun.
+
+The older name-history of Porto also reinforces the meaning. Portuguese toponymic reference work Infopédia explains Portus Cale as 'porto de Cale', a name first applied to the Douro-side settlement area and later to the surrounding territory. In simple terms, Madrid's Oporto ultimately points to a famous port city whose own name is tied to the idea of a harbour.
+
+The Metro chronology matters because the interchange was not born all at once. A historical rail chronology lists Oporto in the Line 5 Callao-Carabanchel opening of 5 June 1968. Line 6 was added later: the Community of Madrid history of Line 6 says the Pacífico-Oporto section was added on 7 May 1981, while another rail chronology gives 6 May 1981, probably reflecting the distinction between inauguration and service chronology.
+
+I found no former station name and no direct municipal or Metro naming resolution for the station. For that reason the safest public wording is that Oporto is named for the local Madrid toponym, itself referring to Oporto/Porto, rather than stating as a documented fact that a specific Metro naming committee chose the avenue as the sole source.

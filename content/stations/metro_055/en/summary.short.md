@@ -1,0 +1,1 @@
+Carabanchel station is named for the Madrid district it serves, whose name comes from the older Carabanchel Bajo and Carabanchel Alto. The origin of the word Carabanchel is debated, with pre-Roman stone-root and Celtic personal-name theories better documented than the popular chickpea explanation.

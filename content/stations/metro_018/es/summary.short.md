@@ -1,0 +1,1 @@
+Príncipe Pío recibe su nombre de la antigua posesión y montaña del Príncipe Pío, junto a la vieja Estación del Norte. Ese topónimo procede de Francisco Pío de Saboya y Moura, noble y militar de origen italiano al servicio de Felipe V.

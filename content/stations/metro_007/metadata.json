@@ -1,0 +1,108 @@
+{
+  "id": "metro_007",
+  "name": "Chueca",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Pío Estanislao Federico Chueca y Robres (Federico Chueca)",
+  "previous_names": "Station: none found. Underlying square: Plaza de San Gregorio / Plaza de San Gregorio Magno before the 1943 dedication to Federico Chueca.",
+  "naming_date": "Station name recorded for 1970-03-02; underlying square dedicated to Federico Chueca on 1943-08-26 and ratified on 1943-10-14.",
+  "sources": [
+    {
+      "title": "La plaza de Chueca estrena placas del callejero con el rostro y nombre del compositor madrileño",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/la-plaza-de-chueca-estrena-placas-del-callejero-con-el-rostro-y-nombre-del-compositor-madrileno/",
+      "type": "official",
+      "relevance_en": "Madrid City Council confirms that Plaza de Chueca is named for Federico Chueca, that the current denomination dates from 1943, and that the square is in Justicia near Gran Vía and Hortaleza.",
+      "relevance_es": "El Ayuntamiento de Madrid confirma que la plaza de Chueca recuerda a Federico Chueca, que la denominación actual data de 1943 y que la plaza se ubica en Justicia, cerca de Gran Vía y Hortaleza."
+    },
+    {
+      "title": "Folleto del Mercado de San Antón - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2010/02Febrero/15Lunes/NotasPrensa/AlcaldeMercadoSanAnton/ficheros/san%20anton%20folleto%20.pdf",
+      "type": "official",
+      "relevance_en": "The municipal PDF states that the neighborhood takes its name from Plaza de Chueca, that the square is dedicated to zarzuela composer Federico Chueca, and that the Metro station is located there.",
+      "relevance_es": "El PDF municipal indica que el barrio recibe su nombre de la plaza de Chueca, que la plaza está dedicada al compositor de zarzuelas Federico Chueca y que allí se encuentra la estación de Metro."
+    },
+    {
+      "title": "PPT Proyectos y dirección de obras para la Nueva Imagen de la Estación de Metro Chueca",
+      "url": "https://www.coam.org/media/Default%20Files/servicios/concursos/concursos_ocam/2016/metro_chueca/PPT_Bases_Chueca.pdf",
+      "type": "official",
+      "relevance_en": "Metro de Madrid documentation locates the station in Chueca, explains the station-neighborhood relationship, and states that Chueca station was created in the Line 5 Callao-Ventas extension two years after Line 5 opened in 1968.",
+      "relevance_es": "La documentación de Metro de Madrid sitúa la estación en Chueca, explica la relación entre estación y barrio, y señala que la estación se creó en la prolongación Callao-Ventas de la línea 5 dos años después de la apertura de la línea en 1968."
+    },
+    {
+      "title": "Luis Miguel Aparisi Laporta, Anales del Instituto de Estudios Madrileños, XLIII (2003)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3010017.pdf",
+      "type": "academic",
+      "relevance_en": "This Madrid historical study records that Plaza de Chueca was dedicated to the composer on 26 August 1943, ratified on 14 October 1943, and that the Metro station received the name Chueca on 2 March 1970.",
+      "relevance_es": "Este estudio de historia madrileña recoge que la plaza de Chueca fue dedicada al compositor el 26 de agosto de 1943, ratificada el 14 de octubre de 1943, y que la estación del metropolitano recibió el nombre de Chueca el 2 de marzo de 1970."
+    },
+    {
+      "title": "La Gran Vía | Biblioteca Nacional de España",
+      "url": "https://www.bne.es/es/colecciones/partituras/teatro-lirico/gran-via",
+      "type": "official",
+      "relevance_en": "The BNE gives the premiere date of La Gran Vía, identifies Federico Chueca as one of the authors, describes the work's Madrid urban theme, and documents its exceptional run and diffusion.",
+      "relevance_es": "La BNE proporciona la fecha de estreno de La Gran Vía, identifica a Federico Chueca como uno de sus autores, describe su tema urbano madrileño y documenta su recorrido escénico excepcional."
+    },
+    {
+      "title": "Federico Chueca Robles - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/11232-federico-chueca-robles",
+      "type": "reference",
+      "relevance_en": "The RAH/Historia Hispánica entry identifies Federico Chueca as a Madrid-born composer and provides authoritative biographical framing.",
+      "relevance_es": "La entrada de la RAH/Historia Hispánica identifica a Federico Chueca como compositor nacido en Madrid y aporta un marco biográfico autorizado."
+    },
+    {
+      "title": "Antonio Fernández-Cid, La música española en el siglo XX, Fundación Juan March, 1973",
+      "url": "https://digital.march.es/fedora/objects/fjm-pub%3A376/datastreams/OBJ/content",
+      "type": "book",
+      "relevance_en": "The inspected digitized book summarizes Chueca's role in género chico, mentions the prison-waltz episode and Barbieri arrangement, and lists major works including La Gran Vía, Cádiz, and Agua, azucarillos y aguardiente.",
+      "relevance_es": "El libro digitalizado consultado resume el papel de Chueca en el género chico, menciona el episodio de los valses carcelarios y el arreglo de Barbieri, y enumera obras principales como La Gran Vía, Cádiz y Agua, azucarillos y aguardiente."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace weaker citations such as general-interest articles and Wikipedia with Madrid City Council, Metro de Madrid, BNE, RAH/Historia Hispánica, Fundación Juan March, and Anales del Instituto de Estudios Madrileños sources.",
+      "es": "Sustituir citas débiles como artículos divulgativos y Wikipedia por fuentes del Ayuntamiento de Madrid, Metro de Madrid, BNE, RAH/Historia Hispánica, Fundación Juan March y Anales del Instituto de Estudios Madrileños."
+    },
+    {
+      "en": "Do not say Chueca's career literally began in prison; say the prison waltzes were a famous early episode and success after Barbieri's arrangement.",
+      "es": "No afirmar que la carrera de Chueca empezó literalmente en prisión; conviene decir que los valses carcelarios fueron un episodio y éxito temprano tras el arreglo de Barbieri."
+    },
+    {
+      "en": "Credit La Gran Vía to Federico Chueca and Joaquín Valverde, with libretto by Felipe Pérez y González.",
+      "es": "Atribuir La Gran Vía a Federico Chueca y Joaquín Valverde, con libreto de Felipe Pérez y González."
+    },
+    {
+      "en": "Clarify that Chueca is the popular neighborhood name; the administrative neighborhood is Justicia, in Centro district.",
+      "es": "Aclarar que Chueca es el nombre popular del barrio; el barrio administrativo es Justicia, en el distrito Centro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "For a fully primary street-name record, inspect the original Archivo de Villa municipal files for the 26 August and 14 October 1943 decisions cited by later scholarship.",
+      "es": "Para una comprobación plenamente primaria del callejero, convendría consultar en el Archivo de Villa los expedientes municipales originales de los acuerdos del 26 de agosto y 14 de octubre de 1943 citados por la bibliografía posterior."
+    },
+    {
+      "en": "Some transport references distinguish an inauguration date in late February 1970 from public service on 2 March 1970; the naming evidence found ties the station name to 2 March 1970.",
+      "es": "Algunas referencias de transporte distinguen entre una inauguración a finales de febrero de 1970 y la entrada en servicio el 2 de marzo de 1970; la evidencia localizada vincula el nombre de la estación al 2 de marzo de 1970."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_007/en/summary.short.md",
+      "summary": "content/stations/metro_007/en/summary.md",
+      "story": "content/stations/metro_007/en/story.md",
+      "confidence": "content/stations/metro_007/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_007/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_007/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_007/es/summary.short.md",
+      "summary": "content/stations/metro_007/es/summary.md",
+      "story": "content/stations/metro_007/es/story.md",
+      "confidence": "content/stations/metro_007/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_007/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_007/es/research-note.md"
+    }
+  }
+}

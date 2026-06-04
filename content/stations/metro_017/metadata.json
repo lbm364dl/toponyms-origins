@@ -1,0 +1,97 @@
+{
+  "id": "metro_017",
+  "name": "Manuela Malasaña",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Manuela Malasaña Oñoro",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Estación de Metro Manuela Malasaña",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_217/",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the current station name, Line 12 correspondence, fare zone B2, accessibility services and access at Plaza del Sol in Móstoles.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre actual de la estación, la correspondencia con la línea 12, la zona tarifaria B2, los servicios de accesibilidad y el acceso en la Plaza del Sol de Móstoles."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Authoritative regional page identifying Manuela Malasaña as one of the Móstoles stations on MetroSur and describing its location near the Móstoles Sur urban developments and its open-cut construction context.",
+      "relevance_es": "Página regional oficial que identifica Manuela Malasaña como una de las estaciones de Móstoles en MetroSur y describe su ubicación cerca de los desarrollos de Móstoles Sur y su contexto constructivo a cielo abierto."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - IES Manuela Malasaña",
+      "url": "https://www.mostoles.es/Educacion/es/centros-educacion/institutos-ensenanza-secundaria-obligatoria-bachillerato/manuela-malasana",
+      "type": "official",
+      "relevance_en": "Municipal education directory confirming that IES Manuela Malasaña exists in Móstoles at Calle Desarrollo 50, supporting the local-context part of the input claim.",
+      "relevance_es": "Directorio municipal de educación que confirma la existencia del IES Manuela Malasaña en Móstoles, en la calle Desarrollo 50, lo que apoya la parte de contexto local de la afirmación de entrada."
+    },
+    {
+      "title": "Biblioteca Nacional de España - Las heroínas del Dos de Mayo",
+      "url": "https://www.bne.es/es/blog/blog-bne/heroinas-dos-mayo",
+      "type": "archive",
+      "relevance_en": "Strong source for the contested biographical tradition: it contrasts the Monteleón legend with documentary evidence and quotes the pension-claim account in which Manuela was executed after soldiers found her embroidery scissors.",
+      "relevance_es": "Fuente sólida para la tradición biográfica discutida: contrapone la leyenda de Monteleón con evidencias documentales y cita la instancia de pensión en la que Manuela fue fusilada tras encontrarle los soldados sus tijeras de bordar."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Memoria de mujeres en el callejero de Madrid: Manuela Malasaña",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/IgualdadDeOportunidades/Publicaciones/MemoriaMujeresEnElCallejero/luisaquinones.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal publication summarizing Manuela Malasaña’s commemoration in the street-name tradition, identifying her as an embroiderer and explaining the later research that favors the scissors-and-execution account.",
+      "relevance_es": "Publicación municipal madrileña que resume la conmemoración de Manuela Malasaña en el callejero, la identifica como bordadora y explica las investigaciones posteriores que favorecen la versión de las tijeras y el fusilamiento."
+    },
+    {
+      "title": "esmadrid - Plaza Dos de Mayo",
+      "url": "https://www.esmadrid.com/informacion-turistica/plaza-dos-mayo",
+      "type": "official",
+      "relevance_en": "Official tourism source giving public historical context for the Dos de Mayo square and the 1808 uprising against Napoleon’s troops in the Malasaña area.",
+      "relevance_es": "Fuente turística oficial que aporta contexto histórico público sobre la plaza del Dos de Mayo y el levantamiento de 1808 contra las tropas de Napoleón en el entorno de Malasaña."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the station etymology wording with a direct dedication to Manuela Malasaña Oñoro; mention the nearby IES only as local context unless a formal naming record is found.",
+      "es": "Conviene formular la etimología de la estación como una dedicación directa a Manuela Malasaña Oñoro; el IES cercano debe mencionarse solo como contexto local mientras no aparezca un expediente formal de denominación."
+    },
+    {
+      "en": "Use 'embroiderer' or 'seamstress/embroiderer' rather than only 'seamstress', because Spanish sources commonly identify her as 'bordadora'.",
+      "es": "Debe usarse 'bordadora' o 'costurera/bordadora' y no solo 'costurera', porque las fuentes españolas la identifican con frecuencia como 'bordadora'."
+    },
+    {
+      "en": "Present the scissors story as the best-supported account, while noting that the Monteleón combat version is a later traditional account and is contested.",
+      "es": "Debe presentarse la historia de las tijeras como la versión mejor apoyada, indicando que la escena de combate en Monteleón pertenece a una tradición posterior y discutida."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid, CRTM, Comunidad de Madrid or municipal naming file would be needed to prove whether the station was named because of the nearby school or simply in direct homage to Manuela Malasaña.",
+      "es": "Sería necesario localizar un expediente formal de denominación de Metro de Madrid, CRTM, Comunidad de Madrid o el Ayuntamiento para demostrar si la estación recibió el nombre por el instituto cercano o directamente en homenaje a Manuela Malasaña."
+    },
+    {
+      "en": "The exact age appears differently across sources: many modern accounts say 17, while the pension-claim text quoted by the BNE says 15. A parish baptism record or the full archival file would settle the chronology more securely.",
+      "es": "La edad exacta aparece de forma desigual en las fuentes: muchas versiones modernas dicen 17 años, mientras que la instancia de pensión citada por la BNE dice 15. Una partida bautismal o el expediente archivístico completo permitirían fijar mejor la cronología."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_017/en/summary.short.md",
+      "summary": "content/stations/metro_017/en/summary.md",
+      "story": "content/stations/metro_017/en/story.md",
+      "confidence": "content/stations/metro_017/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_017/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_017/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_017/es/summary.short.md",
+      "summary": "content/stations/metro_017/es/summary.md",
+      "story": "content/stations/metro_017/es/story.md",
+      "confidence": "content/stations/metro_017/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_017/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_017/es/research-note.md"
+    }
+  }
+}

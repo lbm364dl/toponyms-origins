@@ -1,0 +1,1 @@
+La estación de Concha Espina toma su nombre de la cercana avenida de Concha Espina, que homenajea a la novelista santanderina Concha Espina. Fue una de las escritoras españolas más reconocidas de comienzos del siglo XX y recibió 25 nominaciones al Premio Nobel de Literatura.

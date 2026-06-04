@@ -1,0 +1,1 @@
+The station’s immediate naming after the Moncloa area is secure, and the Madrid toponym’s link to the Counts of La Monclova is supported by government and historical sources. Confidence is kept at probable rather than fully verified because the deeper 'Mons Clovis' explanation for Monclova was not confirmed in an authoritative toponymic source during this research.

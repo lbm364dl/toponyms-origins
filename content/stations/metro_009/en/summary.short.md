@@ -1,0 +1,1 @@
+Lavapiés station takes its name from the plaza and old popular district around it. The most credible origin links the name to steep, muddy streets where rainwater torrents literally washed or soaked pedestrians' feet.

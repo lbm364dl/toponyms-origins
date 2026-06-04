@@ -1,0 +1,89 @@
+{
+  "id": "metro_006",
+  "name": "Argüelles",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Agustín de Argüelles Álvarez",
+  "previous_names": "",
+  "naming_date": "1941",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos: Estaciones con historia - Argüelles",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-arguelles.pdf",
+      "type": "official",
+      "relevance_en": "Directly proves the station-name explanation, the location context, and the opening sequence for lines 3, 4 and 6.",
+      "relevance_es": "Prueba directamente la explicación del nombre de la estación, el contexto de localización y la secuencia de apertura de las líneas 3, 4 y 6."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Patrimonio cultural y paisaje urbano: Agustín Argüelles",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Monumentos-urbanos/Agustin-Arguelles/",
+      "type": "official",
+      "relevance_en": "Confirms the 1902 monument, its role in naming the district, and key biographical facts about Argüelles.",
+      "relevance_es": "Confirma el monumento de 1902, su papel en la denominación del barrio y datos biográficos clave sobre Argüelles."
+    },
+    {
+      "title": "Junta General del Principado de Asturias: Agustín Argüelles Álvarez",
+      "url": "https://www.jgpa.es/documents/11156/106563/Agust%C3%ADn%2BArg%C3%BCelles%2B%C3%81lvarez.%2BFue%2Bel%2Bprimer%2Bdiputado%2Bpor%2BAsturias%2C%20aunque%2Ben%2Bcalidad%2Bde%2Bsuplente%2C%20siendo%2Belegido%2Ben%2BC%C3%A1diz%2Bel%2Bd%C3%ADa%2B20%2Bde%2Bseptiembre%2Bde%2B1810%2By%2Bratificado%2Bpor%2Blas%2BCortes%2Bel%2B11%2Bde%2Bfebrero%2Bde%2B1811/2f59428b-f8c7-446c-9edb-811586f81965",
+      "type": "official",
+      "relevance_en": "Supports Argüelles’s birth, Cádiz deputy status, nickname, and role in drafting the 1812 Constitution.",
+      "relevance_es": "Respalda el nacimiento de Argüelles, su condición de diputado en Cádiz, su sobrenombre y su papel en la redacción de la Constitución de 1812."
+    },
+    {
+      "title": "Biblioteca Virtual del Patrimonio Bibliográfico: Exámen histórico de la reforma constitucional...",
+      "url": "https://bvpb.mcu.es/es/consulta/registro.cmd?id=398511",
+      "type": "reference",
+      "relevance_en": "Bibliographic evidence for Argüelles’s constitutional work published in London in 1835 after exile.",
+      "relevance_es": "Aporta evidencia bibliográfica de la obra constitucional de Argüelles publicada en Londres en 1835 tras el exilio."
+    },
+    {
+      "title": "University of Strathclyde: Comerciar con la sangre de nuestros hermanos",
+      "url": "https://pureportal.strath.ac.uk/en/publications/comerciar-con-la-sangre-de-nuestros-hermanos-early-abolitionist-d",
+      "type": "academic",
+      "relevance_en": "Supports the importance of Argüelles’s 1811 proposal against the slave trade within early Spanish abolitionist debate.",
+      "relevance_es": "Respalda la importancia de la propuesta de Argüelles de 1811 contra la trata de esclavos dentro del primer debate abolicionista español."
+    },
+    {
+      "title": "Ministerio de Cultura, CIDA: Las Cortes de Cádiz y la Constitución 1812",
+      "url": "https://www.cultura.gob.es/en/cultura/areas/archivos/mc/centros/cida/4-difusion-cooperacion/4-1-guias-de-lectura/bicentenario-trienio-liberal-1820-1823/1-antecedentes/1-1-cortes-cadiz-constitucion-1812.html",
+      "type": "official",
+      "relevance_en": "Provides official context for the Cortes of Cádiz, the 1812 Constitution, and liberal reforms such as freedom of the press and abolition of torture.",
+      "relevance_es": "Aporta contexto oficial sobre las Cortes de Cádiz, la Constitución de 1812 y reformas liberales como la libertad de imprenta y la abolición de la tortura."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the local toponymic layer: the station inherited the name of the Argüelles area, whose focus Metro places around the former statue location near Princesa, Alberto Aguilera and Marqués de Urquijo.",
+      "es": "Añadir la capa toponímica local: la estación heredó el nombre del área de Argüelles, cuyo foco sitúa Metro en torno al antiguo emplazamiento de la estatua cerca de Princesa, Alberto Aguilera y Marqués de Urquijo."
+    },
+    {
+      "en": "Qualify sole authorship: sources say Argüelles drafted the preamble and much of the 1812 Constitution, but he was one of several key constitutional figures rather than the only author of the whole text.",
+      "es": "Matizar la autoría exclusiva: las fuentes indican que Argüelles redactó el preámbulo y buena parte de la Constitución de 1812, pero fue una de varias figuras clave y no el único autor de todo el texto."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal act that first named the Madrid barrio or its streets after Argüelles was not inspected; the municipal monument record states that the 1902 statue gave the district its name.",
+      "es": "No se inspeccionó el acuerdo municipal exacto que dio por primera vez el nombre de Argüelles al barrio o a sus calles; la ficha municipal del monumento afirma que la estatua de 1902 dio nombre al barrio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_006/en/summary.short.md",
+      "summary": "content/stations/metro_006/en/summary.md",
+      "story": "content/stations/metro_006/en/story.md",
+      "confidence": "content/stations/metro_006/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_006/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_006/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_006/es/summary.short.md",
+      "summary": "content/stations/metro_006/es/summary.md",
+      "story": "content/stations/metro_006/es/story.md",
+      "confidence": "content/stations/metro_006/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_006/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_006/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Canillas station is named for the Canillas barrio, heir to a medieval village and former municipality absorbed by Madrid in 1950. The name is securely local, though the older linguistic origin of "Canillas" is still open to interpretation.

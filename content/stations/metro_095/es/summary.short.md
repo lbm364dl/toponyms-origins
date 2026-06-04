@@ -1,0 +1,1 @@
+La estación Puerta de Toledo toma su nombre de la puerta monumental situada sobre ella, un arco triunfal neoclásico concluido en 1827 en la entrada sur de Madrid. Su historia es especialmente compleja: sustituyó a puertas de Toledo anteriores y pasó de un proyecto de época napoleónica a un monumento a Fernando VII y a la victoria española sobre la Francia napoleónica.

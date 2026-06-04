@@ -1,0 +1,1 @@
+Atocha takes its name from an old Madrid place name tied to atocha, or esparto grass. The word is traced by RAE/ASALE and Corominas through Mozarabic and Hispano-Arabic forms to a probable pre-Roman root meaning thicket or shrubland.

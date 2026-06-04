@@ -1,0 +1,9 @@
+La estacion de Guzman el Bueno se entiende mejor como un nombre de Metro heredado del callejero madrileno. La estacion esta junto a la avenida de la Reina Victoria y cerca de la calle de Guzman el Bueno, una via que la tradicion municipal identifica con el noble medieval Alonso Perez de Guzman, conocido como Guzman el Bueno.
+
+Alonso Perez de Guzman vivio entre 1256 y 1309. La Real Academia de la Historia lo presenta como senor de Sanlucar, alcaide de Tarifa y fundador de la casa de Niebla, situado en el mundo fronterizo de la Castilla de finales del siglo XIII, los benimerines, Granada y la lucha por el control del estrecho de Gibraltar.
+
+El episodio que hizo celebre su nombre ocurrio en Tarifa en 1294. Sancho IV le habia confiado la defensa de la plaza, y el hermano del rey, el infante don Juan, la ataco con aliados musulmanes. La tradicion medieval cuenta que los sitiadores tenian cautivo a uno de los hijos de Guzman y amenazaron con matarlo si no entregaba la fortaleza; Guzman se nego, anteponiendo su deber hacia el rey y la villa a su propia familia.
+
+Cronicas posteriores, romances, pinturas, obras teatrales y monumentos publicos hicieron la escena aun mas dramatica: Guzman arroja desde la muralla su propio cuchillo para que se cumpla la amenaza. Esa imagen explica que su nombre se convirtiera en simbolo de lealtad extrema y que lo conserven tantas calles, unidades militares y monumentos espanoles.
+
+Para la estacion de Metro, el dato firme es la cadena del nombre: primero la calle y despues la estacion. La estacion abrio con la prolongacion Cuatro Caminos-Ciudad Universitaria de la linea 6 el 13 de enero de 1987; la linea 7 llego a Guzman el Bueno el 12 de febrero de 1999. La persona y la tradicion de Tarifa estan bien documentadas, pero la fecha exacta del acuerdo municipal que dio nombre a la calle madrilena sigue sin resolverse, y los detalles mas dramaticos deben presentarse como tradicion, no como hecho documental simple.

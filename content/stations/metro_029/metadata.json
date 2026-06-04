@@ -1,0 +1,118 @@
+{
+  "id": "metro_029",
+  "name": "Atocha",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Atocha, a Madrid place name ultimately linked to atocha/esparto grass, from Mozarabic and Hispano-Arabic aṭṭáwča and probably pre-Roman *taucia, 'thicket' or 'shrubland'",
+  "previous_names": "Atocha Renfe; earlier proposed but not finally adopted: Atocha-Constitucion del 78. The older separate Metro station named Atocha is now Estacion del Arte.",
+  "naming_date": "19 December 2021 announced; implementation rolled out progressively over the following months",
+  "sources": [
+    {
+      "title": "RAE/ASALE, Diccionario de la lengua española: atocha",
+      "url": "https://dle.rae.es/atocha",
+      "type": "reference",
+      "relevance_en": "Defines atocha as esparto and gives the etymology from Mozarabic and Hispano-Arabic aṭṭáwča, ultimately pre-Roman *taucia meaning thicket or shrubland.",
+      "relevance_es": "Define atocha como esparto y da la etimología desde el mozárabe y árabe hispánico aṭṭáwča, en último término del prerromano *taucia con el significado de mata o matorral."
+    },
+    {
+      "title": "Joan Corominas, Diccionario critico etimologico castellano e hispanico: ATOCHA",
+      "url": "https://bibliamedieval.es/bibliateca.es/corominas/DATA/HTML/atocha.html",
+      "type": "reference",
+      "relevance_en": "Provides the detailed historical-etymological argument, including Toia in 1202 and Tocha in 1219 as early forms of the Madrid proper name.",
+      "relevance_es": "Aporta el argumento histórico-etimológico detallado, incluidas Toia en 1202 y Tocha en 1219 como formas tempranas del nombre propio madrileño."
+    },
+    {
+      "title": "Javier Alvarado Planas and Gonzalo Oliva Manso, El Fuero de Madrid, BOE, 2019",
+      "url": "https://www.boe.es/biblioteca_juridica/publicacion.php?id=PUB-LH-2019-106",
+      "type": "book",
+      "relevance_en": "Authoritative modern edition of the Fuero de Madrid; its transcription includes Prato de Thoia and El prado de Toia, supporting the medieval documentation of the place name.",
+      "relevance_es": "Edición moderna autorizada del Fuero de Madrid; su transcripción incluye Prato de Thoia y El prado de Toia, lo que respalda la documentación medieval del topónimo."
+    },
+    {
+      "title": "CRTM, La Comunidad de Madrid cambiará el nombre de la estación de Metro de Atocha Renfe por el de Atocha",
+      "url": "https://crtm.es/comunicacion/sala-de-prensa/noticias/archivo/19122021-la-comunidad-de-madrid-cambiara-el-nombre-de-la-estacion-de-metro-de-atocha-renfe-por-el-de-atocha/",
+      "type": "official",
+      "relevance_en": "Official transport notice documenting the 19 December 2021 announcement, the reason for removing Renfe from the name, and the distinction from Estacion del Arte.",
+      "relevance_es": "Nota oficial de transporte que documenta el anuncio del 19 de diciembre de 2021, el motivo para retirar Renfe del nombre y la distinción con Estación del Arte."
+    },
+    {
+      "title": "Comunidad de Madrid, La Comunidad de Madrid cambiará el nombre de la estación de Metro de Atocha Renfe por el de Atocha",
+      "url": "https://www.comunidad.madrid/notas-prensa/2021/12/17/comunidad-madrid-cambiara-nombre-estacion-metro-atocha-renfe-atocha",
+      "type": "official",
+      "relevance_en": "Confirms the official regional decision and states that the network-wide signage and systems change would be progressive.",
+      "relevance_es": "Confirma la decisión oficial regional e indica que el cambio en señalética y sistemas de toda la red se haría de forma progresiva."
+    },
+    {
+      "title": "Adif, Madrid Puerta de Atocha - Almudena Grandes",
+      "url": "https://www.adif.es/w/madrid-puerta-de-atocha-almudena-grandes",
+      "type": "official",
+      "relevance_en": "Explains the modern Atocha railway complex, the 1992 high-speed redevelopment, the Atocha Cercanias station, the Metro interchange, and the tropical-garden reuse of the historic train shed.",
+      "relevance_es": "Explica el complejo ferroviario moderno de Atocha, la remodelación de 1992 para la alta velocidad, la estación de Atocha Cercanías, el intercambiador de Metro y la reutilización de la marquesina histórica como jardín tropical."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Patrimonio cultural y paisaje urbano: Estacion de Atocha",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Historicos/Edificios-historicos/Estacion-de-Atocha/",
+      "type": "official",
+      "relevance_en": "Municipal heritage record locating the station in Atocha/Arganzuela and documenting its transport-interchange function and heritage status.",
+      "relevance_es": "Ficha municipal de patrimonio que sitúa la estación en Atocha/Arganzuela y documenta su función de intercambiador de transportes y su protección patrimonial."
+    },
+    {
+      "title": "Madrid Destino / esmadrid, Jardin tropical Estacion de Madrid - Puerta de Atocha - Almudena Grandes",
+      "url": "https://www.esmadrid.com/informacion-turistica/jardin-tropical-estacion-de-atocha",
+      "type": "official",
+      "relevance_en": "Official tourism page describing the 1992 tropical garden inside the former passenger building and its connection with the AVE-era redevelopment.",
+      "relevance_es": "Página turística oficial que describe el jardín tropical de 1992 en el antiguo edificio de viajeros y su relación con la remodelación de la etapa del AVE."
+    },
+    {
+      "title": "Centro Virtual Cervantes, Atocha: la nebulosa de un toponimo",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/noviembre_08/13112008_01.htm",
+      "type": "reference",
+      "relevance_en": "Useful interpretive discussion of competing explanations for the Madrid toponym; not as decisive as RAE/ASALE, Corominas, or the Fuero evidence.",
+      "relevance_es": "Discusión interpretativa útil sobre explicaciones competidoras del topónimo madrileño; no es tan decisiva como la RAE/ASALE, Corominas o la prueba del Fuero."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The input field person_nationality contains 2021, but this is not a nationality; it appears to be misplaced naming-date metadata.",
+      "es": "El campo person_nationality contiene 2021, pero no es una nacionalidad; parece un dato de fecha de denominación colocado en el campo equivocado."
+    },
+    {
+      "en": "The current Metro station named Atocha is the former Atocha Renfe; the older Metro station formerly called Atocha is now Estacion del Arte.",
+      "es": "La estación de Metro que hoy se llama Atocha es la antigua Atocha Renfe; la antigua estación de Metro que antes se llamaba Atocha hoy es Estación del Arte."
+    },
+    {
+      "en": "The station naming date should not be 'Atocha-Renfe (until 2021)'; that belongs in previous_names. The current-name change was announced on 19 December 2021 and applied progressively afterward.",
+      "es": "La fecha de denominación no debe ser 'Atocha-Renfe (until 2021)'; eso corresponde a nombres anteriores. El cambio al nombre actual se anunció el 19 de diciembre de 2021 y se aplicó progresivamente después."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "For maximum precision, a human reviewer could inspect Metro de Madrid historical station files to confirm the exact public opening date and first signage date for Atocha Renfe.",
+      "es": "Para máxima precisión, una revisión humana podría consultar expedientes históricos de Metro de Madrid para confirmar la fecha exacta de apertura pública y de primera señalización de Atocha Renfe."
+    },
+    {
+      "en": "The pre-Roman root is strongly supported lexicographically, but as with many ancient plant and landscape terms, the exact phonetic reconstruction remains a scholarly inference rather than a directly attested form.",
+      "es": "La raíz prerromana está fuertemente apoyada por la lexicografía, pero, como ocurre con muchos términos antiguos de plantas y paisaje, la reconstrucción fonética exacta es una inferencia académica y no una forma documentada directamente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_029/en/summary.short.md",
+      "summary": "content/stations/metro_029/en/summary.md",
+      "story": "content/stations/metro_029/en/story.md",
+      "confidence": "content/stations/metro_029/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_029/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_029/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_029/es/summary.short.md",
+      "summary": "content/stations/metro_029/es/summary.md",
+      "story": "content/stations/metro_029/es/story.md",
+      "confidence": "content/stations/metro_029/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_029/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_029/es/research-note.md"
+    }
+  }
+}

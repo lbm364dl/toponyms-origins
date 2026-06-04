@@ -1,0 +1,9 @@
+Serrano station is named after the street beside it, Calle de Serrano. The Metro stop lies on Line 4, under Calle de Goya between Serrano and Lagasca, so its name follows the standard Madrid Metro pattern of using a nearby street or place name.
+
+Behind that street name is Francisco Serrano y Domínguez, Duke of la Torre, a Spanish general and politician born in San Fernando, Cádiz, in 1810 and dead in Madrid in 1885. The Real Academia de la Historia identifies him as a regent of the kingdom, military officer and politician, and the Congress of Deputies places him among the leaders of the 1868 revolution known as La Gloriosa.
+
+The street's name belongs to the political landscape created after that revolution. Madrid's municipal heritage catalogue says the street had earlier names connected with Isabel II and Narváez, and that it took Serrano's name after he entered Madrid in September 1868 with the reputation of a victorious revolutionary general. The same municipal note records the plaque marking the house where he lived and died.
+
+The station itself opened with the original Line 4 section between Argüelles and Goya in 1944. Metro de Madrid's historical material describes that first Line 4 as the 'line of the Boulevards', a shallow cross-city route linking Argüelles and Salamanca and giving the network a more interconnected shape.
+
+The etymology is therefore secure, but a few details need care. Serrano was central to the Sexenio Democrático and to the Constitution of 1869, but it is better to call that constitution democratic or liberal in its own context rather than Spain's first liberal constitution since 1812. The former street names and the distinction between the street name after 1868 and the Metro station name in 1944 are important for a precise public explanation.

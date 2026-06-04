@@ -1,0 +1,1 @@
+Chamartín station is named for the district and former municipality of Chamartín de la Rosa, annexed to Madrid by decree in 1947 and incorporated in 1948. The older place-name is probably an anthroponymic repopulation name built from Echa, a medieval name related to Basque aita, and Martín.

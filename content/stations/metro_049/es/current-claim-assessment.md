@@ -1,0 +1,1 @@
+La fila acierta en lo esencial al relacionar la estación con un topónimo local vinculado al juego Estrecho/Tetuán, pero exagera la prueba al afirmar que la zona homenajea formalmente al Estrecho de Gibraltar y al encajar varias calles próximas de forma demasiado directa en la campaña de Marruecos de 1860.

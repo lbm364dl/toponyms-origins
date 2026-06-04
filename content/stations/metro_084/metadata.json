@@ -1,0 +1,93 @@
+{
+  "id": "metro_084",
+  "name": "Montecarmelo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Montecarmelo / Monte Carmelo local place name and urban development",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "La Ampliación del Metro de Madrid - Metronorte",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Community of Madrid transport page documenting MetroNorte, its service date, its role serving Montecarmelo and Las Tablas, and the list of new Line 10 stations including Montecarmelo.",
+      "relevance_es": "Página de transporte de la Comunidad de Madrid que documenta MetroNorte, su fecha de puesta en servicio, su función de servir a Montecarmelo y Las Tablas, y la lista de nuevas estaciones de la línea 10, incluida Montecarmelo."
+    },
+    {
+      "title": "Informe Unificado de Estado de Ámbitos y Edificabilidad Remanente, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/UrbanismoNuevo/PlanificacionEstrategica/Informe%20Unificado%20de%20Estado%20de%20%C3%81mbitos%20y%20Edificabilidad%20Remanente/Ficheros/Informe_Unificado_Enero_2018.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document identifying UZI.0.07 MONTECARMELO (PP II.2) in Fuencarral-El Pardo and showing the development as a formal planning area.",
+      "relevance_es": "Documento urbanístico municipal que identifica UZI.0.07 MONTECARMELO (PP II.2) en Fuencarral-El Pardo y muestra el desarrollo como ámbito formal de planeamiento."
+    },
+    {
+      "title": "Distrito 08 - Fuencarral-El Pardo, Barrio 087 - Mirasierra",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/08%20-%20Fuencarral-El%20Pardo/Barrio087.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal map showing the local label Barrio del Monte Carmelo, supporting Monte Carmelo as a place name in the station’s surroundings.",
+      "relevance_es": "Mapa municipal de Madrid que muestra la rotulación Barrio del Monte Carmelo, lo que respalda Monte Carmelo como topónimo del entorno de la estación."
+    },
+    {
+      "title": "Decreto 153/2021, de 7 de julio, BOCM: Santuario de Nuestra Señora de Valverde",
+      "url": "https://www.comunidad.madrid/sites/default/files/bic_santuario_de_nuestra_senora_de_valverde.pdf",
+      "type": "official",
+      "relevance_en": "Official BIC declaration for the nearby Valverde sanctuary; it documents the sanctuary’s location, medieval legend, historical development and 2021 protection, useful as context but not direct proof of the station name.",
+      "relevance_es": "Declaración oficial BIC del cercano Santuario de Valverde; documenta su localización, la leyenda medieval, su desarrollo histórico y la protección de 2021, útil como contexto pero no como prueba directa del nombre de la estación."
+    },
+    {
+      "title": "Nuestros orígenes - Provincia Carmelita de San Juan de la Cruz",
+      "url": "https://www.carmelitas.es/historia",
+      "type": "official",
+      "relevance_en": "Carmelite source explaining the order’s origin at Mount Carmel in the Holy Land, supporting the religious meaning behind the term Monte Carmelo.",
+      "relevance_es": "Fuente carmelita que explica el origen de la orden en el Monte Carmelo de Tierra Santa, respaldando el significado religioso del término Monte Carmelo."
+    },
+    {
+      "title": "Montecarmelo",
+      "url": "https://es.wikipedia.org/wiki/Montecarmelo",
+      "type": "reference",
+      "relevance_en": "Secondary orientation source that states the neighbourhood name derives from a nearby stream called Monte Carmelo; useful but not decisive without stronger official corroboration.",
+      "relevance_es": "Fuente secundaria de orientación que afirma que el nombre del barrio deriva de un arroyo cercano llamado Monte Carmelo; útil pero no decisiva sin corroboración oficial más fuerte."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade the confidence from verified to probable unless a direct municipal or cartographic source is found for the claim that the PAU was named specifically after the stream.",
+      "es": "Rebajar la confianza de verificada a probable salvo que se localice una fuente municipal o cartográfica directa que pruebe que el PAU recibió el nombre específicamente del arroyo."
+    },
+    {
+      "en": "Treat the Valverde apparition story as historical-religious context for the area, not as proof of the station name.",
+      "es": "Tratar la historia de la aparición de Valverde como contexto histórico-religioso de la zona, no como prueba del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original PAU or Plan Parcial naming documentation, or older IGN/cadastral maps, to confirm whether the decisive source form was Arroyo de Monte Carmelo, Arroyo de Montecarmelo, or simply the paraje/sitio de Monte Carmelo.",
+      "es": "Revisar la documentación original del PAU o Plan Parcial, o mapas antiguos del IGN/catastro, para confirmar si la forma decisiva fue Arroyo de Monte Carmelo, Arroyo de Montecarmelo o simplemente el paraje/sitio de Monte Carmelo."
+    },
+    {
+      "en": "Resolve the exact public-opening date discrepancy for MetroNorte: some official Community of Madrid material says puesta en servicio 23 April 2007, while many station-level accounts give 26 April 2007.",
+      "es": "Resolver la discrepancia sobre la fecha exacta de apertura al público de MetroNorte: parte del material oficial de la Comunidad de Madrid indica puesta en servicio el 23 de abril de 2007, mientras muchas fichas de estación dan el 26 de abril de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_084/en/summary.short.md",
+      "summary": "content/stations/metro_084/en/summary.md",
+      "story": "content/stations/metro_084/en/story.md",
+      "confidence": "content/stations/metro_084/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_084/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_084/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_084/es/summary.short.md",
+      "summary": "content/stations/metro_084/es/summary.md",
+      "story": "content/stations/metro_084/es/story.md",
+      "confidence": "content/stations/metro_084/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_084/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_084/es/research-note.md"
+    }
+  }
+}

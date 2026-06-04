@@ -1,0 +1,1 @@
+Some online station summaries give 10 October 1979 because the royal inauguration took place the previous day and the line opened to the public the next day. Comunidad de Madrid and Memoria de Madrid use 11 October 1979 for the Line 6 opening, so that date is recommended for the station naming/opening field.

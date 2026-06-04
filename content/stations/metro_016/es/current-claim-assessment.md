@@ -1,0 +1,1 @@
+La idea principal es correcta: la estación lleva el nombre del guitarrista flamenco Paco de Lucía. La fila actual mezcla datos biográficos pertinentes con anécdotas poco específicas de la estación y fuentes débiles; además contiene errores de contexto en los metadatos, sobre todo el distrito y el año de apertura.

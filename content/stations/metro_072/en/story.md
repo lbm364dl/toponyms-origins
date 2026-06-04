@@ -1,0 +1,9 @@
+Pavones station takes its name from the local Pavones place-name in Moratalaz. The immediate modern reference is the area around Calle de la Hacienda de Pavones and the Pavones neighbourhood, but the name is older than both the Metro station and the present administrative barrio.
+
+The deeper origin is the **Hacienda de Pavones**, an agricultural estate also recorded with the spelling **Pabones**. A 1964 BOE decree describes a hacienda called Pavones or Pabones, lying across the former municipal lands of Vallecas and Vicálvaro and associated with sites such as Encomienda de Palacios, Pavones, La Marroquina, La Tacona and El Horcajo.
+
+Nineteenth-century notices and later local historical work trace the estate back at least to the early 1800s. One 1831 sale notice, cited in historical research on the area, says the hacienda had previously been known as Palacios and Valderribas and consisted of hundreds of fanegas of arable land. By the mid nineteenth century it was linked to Antonio de Serradilla y Alcázar, and official gazette material from 1856 still refers to a hacienda titled Pabones in the term of Vallecas.
+
+The landscape behind the name was rural: cereal land, a house of labour, water features, paths, and later fragmented ownership and expropriations. The 1964 decree is especially useful because it catches the old estate just as modern Moratalaz was being reshaped, listing buildings, ponds, wells or galleries, paths, and a narrow-gauge railway crossing the property.
+
+The Metro station opened on Line 9 on 31 January 1980, when the first Sainz de Baranda-Pavones section entered service. No separate official naming decree for the station was found, so the safest wording is that the station is named for the local Pavones place-name, preserved by the street and neighbourhood, and ultimately rooted in the old Hacienda de Pavones.

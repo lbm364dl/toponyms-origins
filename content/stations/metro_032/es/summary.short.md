@@ -1,0 +1,1 @@
+Noviciado toma su nombre del antiguo noviciado jesuita que estuvo junto a la calle de San Bernardo, en la manzana vinculada después a la histórica Universidad Central. La casa religiosa fue fundada en 1602 por Ana Félix de Guzmán, marquesa de Camarasa.

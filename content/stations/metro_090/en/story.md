@@ -1,0 +1,9 @@
+Sevilla station takes its name from Calle de Sevilla, the short street that meets Calle de Alcalá beside the station. The current access listed by the regional transport consortium is on Calle de Alcalá, and Metro's historical material places the station at Alcalá, by Calle de Sevilla.
+
+The street name is older than the metro. It replaced Calle Ancha de los Peligros, literally the wide street of Peligros, because Madrid also had a nearby Angosta de los Peligros. A historical article in the Anales del Instituto de Estudios Madrileños records that the City Council agreed on 4 May 1849 to change the name of the Ancha street to avoid the confusion caused by the duplicate names.
+
+That change turned a local descriptive-religious name into a provincial place name: Sevilla, the Andalusian city. The station therefore belongs to a common Madrid pattern in which metro stops inherit names from nearby streets, and those streets often preserve much older municipal naming choices.
+
+The corner also tells a story of central Madrid's nineteenth- and early-twentieth-century transformation. The widening of Calle de Sevilla was approved by Royal Order on 21 October 1861, because it was an important link between Carrera de San Jerónimo and Alcalá. Later, the Palacio de la Equitativa at Alcalá 14 and Sevilla 3-5, and the Banco Hispano Americano building on Plaza de Canalejas and Calle de Sevilla, helped give the area its financial and metropolitan character.
+
+The metro name is well supported. Metro de Madrid's historical file identifies Sevilla as station 7 of the Ventas-Sol section and gives the inaugural Line 2 date as 14 June 1924. One official regional page gives 16 June 1924 for the first Sol-Ventas opening, but Metro's own historical station material and other transport references support 14 June for the public opening of Sevilla.

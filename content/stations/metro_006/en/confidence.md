@@ -1,0 +1,1 @@
+Confidence is high because Metro de Madrid’s historical station file directly states that the name refers to Agustín Argüelles and explains the local area associated with the name. Madrid’s municipal heritage catalogue independently confirms the monument, district association, and key biography.

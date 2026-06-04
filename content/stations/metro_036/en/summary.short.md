@@ -1,0 +1,1 @@
+Moncloa station is named for the Moncloa area, whose name goes back to a historic estate associated with the Counts of La Monclova. The best-supported chain is Monclova > Moncloa in Madrid, not a directly proven station-name derivation from Latin 'Mons Clovis'.

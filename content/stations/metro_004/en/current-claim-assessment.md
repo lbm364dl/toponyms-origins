@@ -1,0 +1,1 @@
+The core etymology is correct: the station name comes from the Madrid place-name La Latina, ultimately from Beatriz Galindo's nickname. Several biographical details in the row are overconfident or likely wrong, especially the claim that she lectured at Salamanca before age twelve, taught five queens, and founded a Hospital de la Santa Cruz in 1506.

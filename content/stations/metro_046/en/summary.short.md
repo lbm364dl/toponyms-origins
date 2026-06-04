@@ -1,0 +1,1 @@
+Prosperidad station is named for Plaza de la Prosperidad and the surrounding Chamartín neighborhood. The neighborhood's name is strongly linked to Próspero Soynard y Polen, the landowner-promoter who began selling small building plots there in 1862.

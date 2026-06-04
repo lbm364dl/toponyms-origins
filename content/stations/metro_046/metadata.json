@@ -1,0 +1,93 @@
+{
+  "id": "metro_046",
+  "name": "Prosperidad",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Prosperidad neighbourhood / Plaza de la Prosperidad; ultimately Próspero Soynard y Polen",
+  "previous_names": "",
+  "naming_date": "1973",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Prosperidad",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_65/",
+      "type": "official",
+      "relevance_en": "Official transport page identifying Prosperidad station on Line 4 and its access at Plaza de la Prosperidad, 3.",
+      "relevance_es": "Ficha oficial de transporte que identifica la estación de Prosperidad en la línea 4 y su acceso en plaza de la Prosperidad, 3."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 4 de Metro de Madrid",
+      "url": "https://pcen.prod.comunidad.madrid/transporte/linea-4-metro-madrid",
+      "type": "official",
+      "relevance_en": "States that the Diego de León-Alfonso XIII extension was inaugurated on 27 March 1973 with three new stations serving the Prosperidad neighborhood.",
+      "relevance_es": "Indica que la ampliación Diego de León-Alfonso XIII se inauguró el 27 de marzo de 1973 con tres nuevas estaciones para cubrir la población del barrio de Prosperidad."
+    },
+    {
+      "title": "Sergio Tomé Fernández, \"Vivienda y clase: La Prosperidad, el suburbio histórico en el Madrid actual\", Scripta Nova, 2003",
+      "url": "https://www.ub.edu/geocrit/sn/sn-146(073).htm",
+      "type": "academic",
+      "relevance_en": "Academic geography article explaining La Prosperidad as a nineteenth-century working-class suburb near López de Hoyos, promoted on cheap rural land associated with Próspero Soynard and the Conde de Polentinos.",
+      "relevance_es": "Artículo académico de geografía que explica La Prosperidad como suburbio obrero decimonónico junto a López de Hoyos, promovido sobre suelo rural barato vinculado a Próspero Soynard y al conde de Polentinos."
+    },
+    {
+      "title": "La Prosperidad. Extracto editorial, Ediciones La Librería",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2021/02/Extracto-La-Prosperidad.pdf",
+      "type": "book",
+      "relevance_en": "Book extract with detailed local history: current and former neighborhood limits, Soynard's profitable parceling, 1862-1877 sales, 1898 Buenavista incorporation, 1955 Chamartín reassignment and 1987 division.",
+      "relevance_es": "Extracto de libro con historia local detallada: límites actuales y antiguos, parcelación rentable de Soynard, ventas de 1862-1877, incorporación a Buenavista en 1898, paso a Chamartín en 1955 y división de 1987."
+    },
+    {
+      "title": "Biographie d’un quartier de Madrid",
+      "url": "https://laviedesidees.fr/IMG/pdf/20130717_madrid.pdf",
+      "type": "academic",
+      "relevance_en": "Review/essay summarizing the 14 December 1862 first sales to a bricklayer and carpenter and identifying Soynard, Paris-born and Madrid-raised, as the promoter who gave his name to the neighborhood.",
+      "relevance_es": "Reseña/ensayo que resume las primeras ventas del 14 de diciembre de 1862 a un albañil y un carpintero e identifica a Soynard, nacido en París y criado en Madrid, como el promotor que dio nombre al barrio."
+    },
+    {
+      "title": "De arrabal a barrio: Los orígenes de La Prosperidad",
+      "url": "https://www.fotomadrid.com/verArticulo/183",
+      "type": "reference",
+      "relevance_en": "Local-history article giving the popular etymological explanation that La Prosperidad derives from Próspero Soynard's given name and describing the early modest buyers and housing.",
+      "relevance_es": "Artículo de historia local que ofrece la explicación etimológica popular según la cual La Prosperidad deriva del nombre de pila de Próspero Soynard y describe los primeros compradores y viviendas modestos."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change etymology_type from person to place for the station-level record; Soynard should be retained as the ultimate origin of the neighborhood name.",
+      "es": "Cambiar etymology_type de person a place en el registro de la estación; Soynard debe conservarse como origen último del nombre del barrio."
+    },
+    {
+      "en": "Use the spelling Próspero Soynard y Polen, without an accent on Polen, as used in the consulted sources.",
+      "es": "Usar la grafía Próspero Soynard y Polen, sin tilde en Polen, como aparece en las fuentes consultadas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival verification would require inspecting the original 14 December 1862 notarial record or the cadastral documentation cited by local historians.",
+      "es": "Una verificación archivística completa requeriría consultar la escritura notarial original del 14 de diciembre de 1862 o la documentación catastral citada por los historiadores locales."
+    },
+    {
+      "en": "The exact administrative act, if any, that fixed the station name before the 1973 opening was not located; the name appears to follow the existing plaza/neighborhood.",
+      "es": "No se localizó el acto administrativo exacto, si lo hubo, que fijó el nombre de la estación antes de su apertura en 1973; el nombre parece seguir la plaza/el barrio ya existentes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_046/en/summary.short.md",
+      "summary": "content/stations/metro_046/en/summary.md",
+      "story": "content/stations/metro_046/en/story.md",
+      "confidence": "content/stations/metro_046/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_046/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_046/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_046/es/summary.short.md",
+      "summary": "content/stations/metro_046/es/summary.md",
+      "story": "content/stations/metro_046/es/story.md",
+      "confidence": "content/stations/metro_046/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_046/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_046/es/research-note.md"
+    }
+  }
+}

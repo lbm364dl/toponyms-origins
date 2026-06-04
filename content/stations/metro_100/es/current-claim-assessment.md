@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación toma su nombre de la calle de Serrano, dedicada al general Francisco Serrano y Domínguez. Conviene matizar o corregir la frase sobre la Constitución y añadir los nombres anteriores de la calle y el contexto de apertura de la estación en 1944.

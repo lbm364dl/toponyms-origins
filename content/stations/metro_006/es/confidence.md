@@ -1,0 +1,1 @@
+La confianza es alta porque la ficha histórica de Metro de Madrid afirma directamente que el nombre hace referencia a Agustín Argüelles y explica la zona asociada a esa denominación. El catálogo municipal de patrimonio de Madrid confirma de forma independiente el monumento, la relación con el barrio y los datos biográficos principales.

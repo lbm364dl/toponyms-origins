@@ -1,0 +1,1 @@
+La estación de Goya toma su nombre de la calle de Goya, vía del distrito de Salamanca dedicada a Francisco de Goya y Lucientes, pintor y grabador español. Metro abrió la estación de la línea 2 en 1924 y más tarde la convirtió en un importante enlace con la línea 4.

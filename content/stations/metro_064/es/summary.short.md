@@ -1,0 +1,1 @@
+La estación de Núñez de Balboa toma su nombre de la calle madrileña que recuerda a Vasco Núñez de Balboa, el explorador y conquistador extremeño asociado al descubrimiento europeo y denominación de la Mar del Sur, hoy océano Pacífico, en 1513.

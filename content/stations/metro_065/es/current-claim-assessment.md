@@ -1,0 +1,1 @@
+La fila acierta al indicar que la estación de Metro toma el nombre de Barajas, antigua villa/municipio y actual distrito de Madrid. La discusión etimológica de fondo es útil, pero conviene reformularla: la historia de Bar Axa es una tradición local documentada, no una etimología bien demostrada, y la investigación moderna considera el origen discutido.

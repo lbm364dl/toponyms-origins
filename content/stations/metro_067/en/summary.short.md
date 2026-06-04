@@ -1,0 +1,1 @@
+Torre Arias station is named for the nearby Quinta de Torre Arias, a historic estate on Calle de Alcalá. The estate’s present name comes from Ildefonso Pérez de Guzmán el Bueno, VI Count of Torre Arias, after his wife inherited the property in 1895.

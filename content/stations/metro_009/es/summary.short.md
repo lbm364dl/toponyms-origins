@@ -1,0 +1,1 @@
+La estación de Lavapiés toma su nombre de la plaza y del antiguo ámbito popular que la rodea. El origen más verosímil lo relaciona con calles empinadas y embarradas donde las torrenteras de lluvia lavaban o mojaban literalmente los pies de los viandantes.

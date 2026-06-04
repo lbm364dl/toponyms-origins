@@ -1,0 +1,1 @@
+La estación de Bilbao toma su nombre de la glorieta de Bilbao, heredera de la antigua Puerta de Bilbao. Madrid dedicó esa puerta en 1837 a los defensores y libertadores de Bilbao tras la resistencia de la villa frente a los sitios carlistas.

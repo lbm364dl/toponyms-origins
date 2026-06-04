@@ -1,0 +1,1 @@
+Cruz del Rayo toma su nombre de la colonia histórica homónima de Chamartín, inspirada en la ciudad-jardín. El topónimo anterior se explica tradicionalmente por una cruz del lugar que habría sido dañada o destruida por un rayo.

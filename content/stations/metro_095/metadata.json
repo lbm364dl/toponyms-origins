@@ -1,0 +1,101 @@
+{
+  "id": "metro_095",
+  "name": "Puerta de Toledo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Puerta de Toledo",
+  "previous_names": "",
+  "naming_date": "5 de junio de 1968",
+  "sources": [
+    {
+      "title": "CRTM - Puerta de Toledo",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_91/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 5 correspondence, fare zone and access at Gta. de Puerta de Toledo, 1.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 5, la zona tarifaria y el acceso en Gta. de Puerta de Toledo, 1."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional history of Metro expansion stating that Line 5 entered service in 1968 from Callao toward Puerta de Toledo and Carabanchel, with almost 7 km and 11 stations.",
+      "relevance_es": "Historia oficial regional de la ampliación del Metro que indica que la línea 5 entró en servicio en 1968 desde Callao hacia Puerta de Toledo y Carabanchel, con casi 7 km y 11 estaciones."
+    },
+    {
+      "title": "memoriademadrid - Inauguración tramo Callao-Carabanchel de línea 5",
+      "url": "https://www.memoriademadrid.es/view/387887/inauguracion-tramo-callao-carabanchel-de-linea-5",
+      "type": "archive",
+      "relevance_en": "Archive item from Metro de Madrid's photographic archive quoting the 1968 Metro annual report: the line was inaugurated on 5 June 1968.",
+      "relevance_es": "Registro de archivo procedente del archivo fotográfico de Metro de Madrid que cita la memoria de Metro de 1968: la línea fue inaugurada el 5 de junio de 1968."
+    },
+    {
+      "title": "Ayuntamiento de Madrid / Monumenta - Puerta de Toledo",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Puerta-de-Toledo/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=2b98091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Most authoritative source for the monument's history: BIC status, older gates, Joseph Bonaparte/Silvestre Perez predecessor, 1813 city commission to Antonio Lopez Aguado, shifts in dedication, official 1827 date and sculptural program.",
+      "relevance_es": "Fuente más autorizada para la historia del monumento: condición de BIC, puertas anteriores, antecedente de José Bonaparte/Silvestre Pérez, encargo municipal de 1813 a Antonio López Aguado, cambios de dedicatoria, fecha oficial de 1827 y programa escultórico."
+    },
+    {
+      "title": "Madrid Destino / esmadrid - Puerta de Toledo",
+      "url": "https://www.esmadrid.com/informacion-turistica/puerta-de-toledo",
+      "type": "official",
+      "relevance_en": "Tourism page corroborating the monument's location, purpose, predecessor under Joseph Bonaparte, 1813 commission to Antonio Lopez Aguado, completion in 1827 and main decorative elements.",
+      "relevance_es": "Página turística oficial que corrobora la ubicación, finalidad, antecedente bajo José Bonaparte, encargo de 1813 a Antonio López Aguado, conclusión en 1827 y principales elementos decorativos."
+    },
+    {
+      "title": "Ayuntamiento de Madrid / Monumenta PDF - Puerta de Toledo, ficha de patrimonio edificado",
+      "url": "https://patrimonioypaisaje.madrid.es/FrameWork/generacionPDFMonumenta/340394.pdf?cacheKey=1&idEdificio=0428f7d9560a4510f7d9560a45102e085a0aRCRD&tipoMon=E",
+      "type": "official",
+      "relevance_en": "Catalog PDF confirming the monument's heritage protection, authorship by Antonio Lopez Aguado, 1811/1813-1827 chronology and archival references; it also contains a likely typo stating completion in 1927.",
+      "relevance_es": "Ficha PDF de catálogo que confirma la protección patrimonial, la autoría de Antonio López Aguado, la cronología 1811/1813-1827 y referencias archivísticas; también contiene una probable errata al indicar conclusión en 1927."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that Joseph Bonaparte's commission was an unbuilt predecessor by Silvestre Perez, not the current Antonio Lopez Aguado gate itself.",
+      "es": "Aclarar que el encargo de José Bonaparte fue un antecedente no construido de Silvestre Pérez, no la puerta actual de Antonio López Aguado."
+    },
+    {
+      "en": "Add the 1813 National Sovereignty/Constitution of Cadiz phase, which official municipal heritage sources treat as a key part of the monument's changing dedication.",
+      "es": "Añadir la fase de 1813 ligada a la Soberanía Nacional y a la Constitución de Cádiz, que las fuentes patrimoniales municipales tratan como parte clave de los cambios de dedicatoria del monumento."
+    },
+    {
+      "en": "Replace the vague reference to allegories of Spain and its provinces with the better-supported description: monarchy in both hemispheres, military trophies, and the Madrid coat of arms held by two genii.",
+      "es": "Sustituir la referencia vaga a alegorías de España y sus provincias por la descripción mejor respaldada: la monarquía en ambos hemisferios, trofeos militares y el escudo de Madrid sostenido por dos genios."
+    },
+    {
+      "en": "Do not rely on the Monumenta building-record PDF line that says '1927'; the fuller municipal monument page and the same PDF metadata give 1827, so 1927 is almost certainly a typographical error.",
+      "es": "No apoyarse en la línea de la ficha PDF de Monumenta que dice '1927'; la ficha municipal completa y los metadatos del mismo PDF dan 1827, por lo que 1927 es casi con seguridad una errata."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro naming resolution was not found; the recommended naming date uses the opening of the Line 5 station on 5 June 1968.",
+      "es": "No se encontró una resolución formal de denominación de Metro; la fecha recomendada usa la apertura de la estación de la línea 5 el 5 de junio de 1968."
+    },
+    {
+      "en": "For a fuller scholarly account, inspect Pedro Navascues Palacio, 'Antonio Lopez Aguado, arquitecto mayor de Madrid (1764-1831)', Villa de Madrid, no. 33, 1971, cited by the municipal heritage catalogue.",
+      "es": "Para una explicación académica más completa, conviene consultar Pedro Navascués Palacio, 'Antonio López Aguado, arquitecto mayor de Madrid (1764-1831)', Villa de Madrid, n.º 33, 1971, citado por el catálogo patrimonial municipal."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_095/en/summary.short.md",
+      "summary": "content/stations/metro_095/en/summary.md",
+      "story": "content/stations/metro_095/en/story.md",
+      "confidence": "content/stations/metro_095/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_095/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_095/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_095/es/summary.short.md",
+      "summary": "content/stations/metro_095/es/summary.md",
+      "story": "content/stations/metro_095/es/story.md",
+      "confidence": "content/stations/metro_095/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_095/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_095/es/research-note.md"
+    }
+  }
+}

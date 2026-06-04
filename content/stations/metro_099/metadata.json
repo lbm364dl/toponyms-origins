@@ -1,0 +1,114 @@
+{
+  "id": "metro_099",
+  "name": "Sáinz de Baranda",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Pedro Casto Sáinz de Baranda y Gorriti",
+  "previous_names": "",
+  "naming_date": "1979-10-11",
+  "sources": [
+    {
+      "title": "Pedro Sainz de Baranda y Gorriti - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/40594-pedro-sainz-de-baranda-y-gorriti",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry identifying Pedro Sáinz de Baranda y Gorriti as constitutional mayor of Madrid in 1812 and 1820, with life dates and historical context.",
+      "relevance_es": "Entrada biográfica autorizada que identifica a Pedro Sáinz de Baranda y Gorriti como alcalde constitucional de Madrid en 1812 y 1820, con fechas vitales y contexto histórico."
+    },
+    {
+      "title": "Correspondencia con la Historia - Real Academia de la Historia",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "official",
+      "relevance_en": "Documents the RAH and Metro de Madrid collaboration for stations named after historical figures, and lists Sainz de Baranda with Pedro Sáinz de Baranda y Gorriti.",
+      "relevance_es": "Documenta la colaboración entre la RAH y Metro de Madrid sobre estaciones con nombres de personajes históricos, e incluye Sainz de Baranda vinculado a Pedro Sáinz de Baranda y Gorriti."
+    },
+    {
+      "title": "Sainz de Baranda - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_114/",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the station name, Metro lines 6 and 9, fare zone, services, and access locations on Calle del Doctor Esquerdo.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma el nombre de la estación, las líneas 6 y 9, la zona tarifaria, los servicios y los accesos en la calle del Doctor Esquerdo."
+    },
+    {
+      "title": "La línea 6 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official infrastructure history stating that the first Line 6 section, Cuatro Caminos-Pacifico, opened on 11 October 1979.",
+      "relevance_es": "Historia oficial de infraestructuras que indica que el primer tramo de la línea 6, Cuatro Caminos-Pacífico, se inauguró el 11 de octubre de 1979."
+    },
+    {
+      "title": "La Línea 9 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-9-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official infrastructure history stating that the first Line 9 section, Sainz de Baranda-Pavones, entered service on 31 January 1980 and that the Avenida de America-Sainz de Baranda link opened in 1986.",
+      "relevance_es": "Historia oficial de infraestructuras que indica que el primer tramo de la línea 9, Sainz de Baranda-Pavones, entró en servicio el 31 de enero de 1980 y que el enlace Avenida de América-Sainz de Baranda abrió en 1986."
+    },
+    {
+      "title": "Acceso a la estación de Sainz de Baranda - memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/399545/acceso-a-la-estacion-de-sainz-de-baranda",
+      "type": "archive",
+      "relevance_en": "Municipal archive record for a 1980s station access photograph, also summarizing the Line 6 opening date and the Line 9 arrival date at the station.",
+      "relevance_es": "Registro del archivo municipal de una fotografía de acceso de los años ochenta, que además resume la fecha de apertura de la línea 6 y la llegada de la línea 9 a la estación."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Official street guide documenting Calle del Alcalde Sainz de Baranda and its extent through Retiro and Salamanca.",
+      "relevance_es": "Callejero oficial que documenta la calle del Alcalde Sainz de Baranda y su trazado por Retiro y Salamanca."
+    },
+    {
+      "title": "Puerta de Sainz de Baranda del Retiro - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Puerta-de-Sainz-de-Baranda-del-Retiro/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=0a98091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record showing the Retiro gate named for the nearby Calle Alcalde Sainz de Baranda and dated around 1950.",
+      "relevance_es": "Ficha municipal de patrimonio que muestra la puerta del Retiro llamada por la cercana calle Alcalde Sainz de Baranda y fechada hacia 1950."
+    },
+    {
+      "title": "David Huidobro Sanz, 'Semblanza, genealogía e hidalguía de Pedro Sáinz de Baranda, un familiar, pero desconocido, Alcalde de Madrid'",
+      "url": "https://ramhg.es/wp-content/uploads/2024/09/anales-22_2019-10_huidobro_sanz.pdf",
+      "type": "academic",
+      "relevance_en": "Detailed scholarly article on Sáinz de Baranda's biography and family, including the 1 July 1775 birth and 2 July baptism detail, his municipal roles in 1812 and 1820, and his death in 1855.",
+      "relevance_es": "Artículo académico detallado sobre la biografía y la familia de Sáinz de Baranda, incluido el dato del nacimiento el 1 de julio de 1775 y el bautismo el 2 de julio, sus cargos municipales en 1812 y 1820 y su fallecimiento en 1855."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station did not open as a Line 6-Line 9 interchange in 1979; Line 6 opened here in October 1979 and Line 9 service at Sainz de Baranda began on 31 January 1980.",
+      "es": "La estación no abrió como intercambiador de las líneas 6 y 9 en 1979; la línea 6 abrió aquí en octubre de 1979 y el servicio de la línea 9 en Sainz de Baranda comenzó el 31 de enero de 1980."
+    },
+    {
+      "en": "Use the fuller name Pedro Casto Sáinz de Baranda y Gorriti where space allows, because several historical figures share the Pedro Sáinz de Baranda name.",
+      "es": "Conviene usar el nombre completo Pedro Casto Sáinz de Baranda y Gorriti cuando haya espacio, porque varias figuras históricas comparten el nombre Pedro Sáinz de Baranda."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal or Metro de Madrid act assigning the station name was not located; the name is inferred from the station's opening under its current name and its position by Calle del Alcalde Sainz de Baranda.",
+      "es": "No se localizó el acuerdo municipal o de Metro de Madrid que asignó formalmente el nombre de la estación; se infiere por su apertura con el nombre actual y por su ubicación junto a la calle del Alcalde Sainz de Baranda."
+    },
+    {
+      "en": "Some secondary sources give different exact birth dates, usually 1 or 2 July 1775; the genealogical article reconciles this by giving birth on 1 July and baptism on 2 July.",
+      "es": "Algunas fuentes secundarias ofrecen fechas exactas de nacimiento distintas, normalmente 1 o 2 de julio de 1775; el artículo genealógico lo concilia al dar el nacimiento el 1 de julio y el bautismo el 2 de julio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_099/en/summary.short.md",
+      "summary": "content/stations/metro_099/en/summary.md",
+      "story": "content/stations/metro_099/en/story.md",
+      "confidence": "content/stations/metro_099/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_099/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_099/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_099/es/summary.short.md",
+      "summary": "content/stations/metro_099/es/summary.md",
+      "story": "content/stations/metro_099/es/story.md",
+      "confidence": "content/stations/metro_099/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_099/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_099/es/research-note.md"
+    }
+  }
+}

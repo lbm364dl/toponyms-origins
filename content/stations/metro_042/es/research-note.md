@@ -1,0 +1,1 @@
+La ficha histórica de Metro contiene una pequeña oscilación ortográfica, con Gutenberg y Guttemberg cerca de la estación; la ficha actual del CRTM usa Gutenberg. El nombre de la estación omite la conjunción y de Menéndez y Pelayo, siguiendo la forma de la avenida madrileña y no la forma biográfica completa habitual.

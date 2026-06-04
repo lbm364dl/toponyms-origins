@@ -1,0 +1,1 @@
+Official transport and municipal memory sources confirm the station name, Line 5 context and 18 January 1980 opening. The official BIC decree directly documents the estate’s older name, chronology, owners and the origin of the Torre Arias name in the noble title.

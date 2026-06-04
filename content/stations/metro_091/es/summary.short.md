@@ -1,0 +1,1 @@
+La estación de Santo Domingo debe su nombre a la plaza de Santo Domingo, junto a la que se inauguró la línea 2 en 1925. La plaza conserva la memoria del monasterio medieval dominico de Santo Domingo el Real, derribado en 1869.

@@ -1,0 +1,104 @@
+{
+  "id": "metro_087",
+  "name": "Antón Martín",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Antón Martín",
+  "previous_names": "No previous station names found. Earlier place-name for the square: Plaza del Hospital / Plazuela del Hospital.",
+  "naming_date": "26 December 1921",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos: Estaciones con Historia - Antón Martín",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-anton-martin.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro historical file confirming the station’s location in Plaza de Antón Martín, its opening on 26 December 1921, and the explanation that the plaza name comes from Antón Martín, founder of the Hospital de Nuestra Señora del Amor de Dios.",
+      "relevance_es": "Ficha histórica oficial de Metro que confirma la ubicación de la estación en la plaza de Antón Martín, su inauguración el 26 de diciembre de 1921 y la explicación de que la plaza recibe el nombre de Antón Martín, fundador del Hospital de Nuestra Señora del Amor de Dios."
+    },
+    {
+      "title": "Memoria de Madrid: Antón Martín",
+      "url": "https://www.memoriademadrid.es/view/473999",
+      "type": "official",
+      "relevance_en": "Municipal heritage record for the plaque at Atocha 58; states that this was the church of the hospital founded in 1552 by Antón Martín, first companion and successor of San Juan de Dios, and that the former Plaza del Hospital took his name in the 17th century.",
+      "relevance_es": "Registro municipal patrimonial de la placa de Atocha 58; indica que allí estuvo la iglesia del hospital fundado en 1552 por Antón Martín, primer compañero y sucesor de San Juan de Dios, y que la antigua Plaza del Hospital tomó su nombre en el siglo XVII."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Antón Martín, entre los personajes solidarios de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Anton-Martin-entre-los-personajes-solidarios-de-Madrid/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextoid=14daadf970427210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council note confirming that Antón Martín gives his name to a plaza, street and Metro station, and that he founded the Hospital de Nuestra Señora del Amor de Dios in the 16th century.",
+      "relevance_es": "Nota del Ayuntamiento de Madrid que confirma que Antón Martín da nombre a una plaza, una calle y una estación de Metro, y que fundó en el siglo XVI el Hospital de Nuestra Señora del Amor de Dios."
+    },
+    {
+      "title": "Museo Olavide: Hospital San Juan de Dios",
+      "url": "https://museoolavide.aedv.es/en/hospital-san-juan-de-dios/",
+      "type": "reference",
+      "relevance_en": "Specialized museum page explaining that the hospital was founded in 1552 by Antón Martín, located between Calle Atocha and the square bearing his name, began with about 20 beds, and became Madrid’s largest hospital from 1587.",
+      "relevance_es": "Página de museo especializado que explica que el hospital fue fundado en 1552 por Antón Martín, situado entre la calle Atocha y la plaza que lleva su nombre, que comenzó con unas 20 camas y que desde 1587 pasó a ser el mayor hospital de Madrid."
+    },
+    {
+      "title": "Ramón de Mesonero Romanos, El antiguo Madrid, 1861: El Hospital y las Huertas",
+      "url": "https://www.publiconsulting.com/wordpress/madridantiguo/chapter/el-hospital-y-la-huertas/",
+      "type": "book",
+      "relevance_en": "19th-century historical account stating that Plazuela de Antón Martín was named for the companion and disciple of San Juan de Dios who founded the venereal hospital there in 1552.",
+      "relevance_es": "Relato histórico del siglo XIX que afirma que la plazuela de Antón Martín recibió su nombre del compañero y discípulo de San Juan de Dios que fundó allí en 1552 el hospital para enfermedades venéreas."
+    },
+    {
+      "title": "CRTM: Antón Martín station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_14/",
+      "type": "official",
+      "relevance_en": "Current transport authority station page confirming the active Metro station, Line 1 correspondence and access points at Plaza de Antón Martín, Calle del Amor de Dios and Calle de Atocha.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma la estación activa de Metro, la correspondencia con la línea 1 y los accesos en la plaza de Antón Martín, la calle del Amor de Dios y la calle de Atocha."
+    },
+    {
+      "title": "José Luis Martínez Gil, Antón Martín. Pionero del voluntariado social",
+      "url": "https://www.agapea.com/libros/Anton-Martin-Pionero-del-voluntariado-social-9788422014409-i.htm",
+      "type": "book",
+      "relevance_en": "Bibliographic record for a dedicated 2009 BAC biography by a Hospitaller author; useful for future verification of disputed biographical details, though the book itself was not inspected in full.",
+      "relevance_es": "Ficha bibliográfica de una biografía monográfica publicada por BAC en 2009 por un autor hospitalario; útil para verificar en el futuro los detalles biográficos discutidos, aunque el libro no se pudo consultar íntegramente."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Make clear that the station is immediately named after Plaza de Antón Martín, not only directly after the man.",
+      "es": "Debe aclararse que la estación toma de forma inmediata el nombre de la plaza de Antón Martín, no solo directamente de la persona."
+    },
+    {
+      "en": "Replace or qualify “farmer” as the main profession; municipal and biographical summaries emphasize his work as a hospital brother, early occupations as watchman/customs guard, and hospital founder.",
+      "es": "Conviene sustituir o matizar “labrador” como profesión principal; las síntesis municipales y biográficas destacan su condición de hermano hospitalario, sus oficios iniciales de vigía/guarda de aduana y su papel como fundador hospitalario."
+    },
+    {
+      "en": "Do not present the exact death date as uncontested: sources found give 1553, Christmas Eve 1553/24 December 1553, and in some secondary references 21 December 1553.",
+      "es": "No debe presentarse la fecha exacta de muerte como indiscutida: las fuentes localizadas dan 1553, Nochebuena de 1553/24 de diciembre de 1553 y, en algunas referencias secundarias, 21 de diciembre de 1553."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect José Luis Martínez Gil, Antón Martín. Pionero del voluntariado social, BAC, 2009, for the best documented treatment of his birth name, birth date and death date.",
+      "es": "Conviene consultar José Luis Martínez Gil, Antón Martín. Pionero del voluntariado social, BAC, 2009, para la exposición mejor documentada sobre su nombre de nacimiento, fecha de nacimiento y fecha de muerte."
+    },
+    {
+      "en": "Verify the first official municipal street/plaza naming record if a primary Ayuntamiento street-naming file is available; current evidence supports 17th-century use but not a formal naming act.",
+      "es": "Debe verificarse el primer expediente municipal oficial de rotulación de la plaza si existe; la evidencia actual respalda el uso en el siglo XVII, pero no un acto formal de denominación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_087/en/summary.short.md",
+      "summary": "content/stations/metro_087/en/summary.md",
+      "story": "content/stations/metro_087/en/story.md",
+      "confidence": "content/stations/metro_087/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_087/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_087/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_087/es/summary.short.md",
+      "summary": "content/stations/metro_087/es/summary.md",
+      "story": "content/stations/metro_087/es/story.md",
+      "confidence": "content/stations/metro_087/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_087/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_087/es/research-note.md"
+    }
+  }
+}

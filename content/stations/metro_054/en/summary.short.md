@@ -1,0 +1,1 @@
+Vista Alegre takes its name from the historic Finca de Vista Alegre in Carabanchel, first opened as a public pleasure estate in 1824 and later transformed into a royal possession by María Cristina de Borbón. The name was already used before the royal period.

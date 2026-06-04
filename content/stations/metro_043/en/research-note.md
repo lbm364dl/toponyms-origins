@@ -1,0 +1,1 @@
+The most precise dataset model would record the station as named after a street/toponym, with the ultimate eponym as the person. Metro/RAH's own station-biography page makes the person link explicit, while Metro's station-history PDF explains the physical location and 1919 chronology but does not discuss the politician.

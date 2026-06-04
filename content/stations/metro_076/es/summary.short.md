@@ -1,0 +1,1 @@
+La estación Hospital 12 de Octubre lleva el nombre del gran hospital público situado junto a ella en Usera. El hospital abrió en 1973 como Ciudad Sanitaria 1º de Octubre y más tarde adoptó el nombre 12 de Octubre, asociado a la Fiesta Nacional de España en lugar de al aniversario franquista del 1 de octubre.

@@ -1,0 +1,9 @@
+Guzman el Bueno station is best understood as a Metro name inherited from Madrid's street map. The station sits by Avenida de la Reina Victoria and close to Calle de Guzman el Bueno, a street that the municipal tradition identifies with the medieval nobleman Alonso Perez de Guzman, known as Guzman el Bueno.
+
+Alonso Perez de Guzman lived between 1256 and 1309. The Real Academia de la Historia presents him as lord of Sanlucar, alcaide of Tarifa, and founder of the house of Niebla, placing him in the frontier world of late thirteenth-century Castile, the Marinids, Granada, and the struggle for control of the Strait of Gibraltar.
+
+The episode that made his name famous took place at Tarifa in 1294. Sancho IV had entrusted him with the defence of the town, and the king's brother, the infante Don Juan, attacked with Muslim allies. Medieval tradition says that the attackers had one of Guzman's sons and threatened to kill him unless the fortress surrendered; Guzman refused, choosing his duty to the king and the town over his family.
+
+Later chronicles, ballads, paintings, plays, and public monuments made the scene even more dramatic: Guzman throws down his own knife from the walls so the threat can be carried out. That image explains why his name became a shorthand for extreme loyalty and why so many Spanish streets, military units, and monuments preserve it.
+
+For the Metro station, the secure fact is the naming chain: street name, then station name. The station opened with the Cuatro Caminos-Ciudad Universitaria extension of Line 6 on 13 January 1987; Line 7 reached Guzman el Bueno on 12 February 1999. The person and the Tarifa tradition are well supported, but the exact municipal date for naming the Madrid street remains unresolved, and the most dramatic details should be presented as tradition rather than bare documentary fact.

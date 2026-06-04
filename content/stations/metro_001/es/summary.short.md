@@ -1,0 +1,1 @@
+La estación de Sol debe su nombre a la Puerta del Sol, la plaza situada sobre ella. El topónimo conserva el recuerdo de un antiguo postigo o puerta oriental de la muralla medieval madrileña, tradicionalmente decorado con un sol.

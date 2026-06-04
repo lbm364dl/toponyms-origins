@@ -1,0 +1,1 @@
+Oporto toma su nombre del topónimo madrileño en torno a la avenida de Oporto, que usa la forma tradicional española del nombre de Porto, Portugal. La estación abrió en la línea 5 en 1968 y se convirtió en intercambiador con la línea 6 cuando esta llegó a Oporto en 1981.

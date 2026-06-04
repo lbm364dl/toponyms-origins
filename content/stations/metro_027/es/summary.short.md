@@ -1,0 +1,1 @@
+Feria de Madrid recibe su nombre por los recintos feriales de IFEMA MADRID situados junto a la estación. Se llamó Campo de las Naciones desde su apertura el 24 de junio de 1998 hasta que el nuevo nombre entró en vigor el 26 de junio de 2017.

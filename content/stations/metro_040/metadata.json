@@ -1,0 +1,118 @@
+{
+  "id": "metro_040",
+  "name": "Ibiza",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Ibiza (Balearic island)",
+  "previous_names": "",
+  "naming_date": "1986; station name at opening. The Line 9 central link is variously dated 24 or 25 February 1986 in consulted sources.",
+  "sources": [
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCUrbanismo/Cartografia/Callejero/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Confirms Calle de Ibiza as an official street in Retiro, running from Avenida de Menéndez Pelayo to Calle del Doctor Esquerdo, and confirms nearby Calle de Menorca.",
+      "relevance_es": "Confirma la calle de Ibiza como vía oficial de Retiro, desde la avenida de Menéndez Pelayo hasta la calle del Doctor Esquerdo, y confirma la cercana calle de Menorca."
+    },
+    {
+      "title": "Distrito 03 - Retiro, Barrio 34 - Ibiza map",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/03%20-%20Retiro/Barrio034.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal map showing the administrative barrio Ibiza in Retiro and the local street context including Calle de Ibiza and Calle de Menorca.",
+      "relevance_es": "Mapa municipal oficial que muestra el barrio administrativo de Ibiza en Retiro y el contexto viario local, incluidas la calle de Ibiza y la calle de Menorca."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives the Line 9 chronology and states that the Avenida de América-Sainz de Baranda section opened in February 1986 with three intermediate stations.",
+      "relevance_es": "Aporta la cronología de la línea 9 e indica que el tramo Avenida de América-Sainz de Baranda se abrió en febrero de 1986 con tres estaciones intermedias."
+    },
+    {
+      "title": "Estación de Ibiza - memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/389431",
+      "type": "archive",
+      "relevance_en": "Archive record from Metro de Madrid's photographic collection for Ibiza station; useful for the station's 1986 context, although its displayed date conflicts with other sources.",
+      "relevance_es": "Registro archivístico del fondo fotográfico de Metro de Madrid sobre la estación de Ibiza; útil para el contexto de 1986, aunque la fecha mostrada difiere de otras fuentes."
+    },
+    {
+      "title": "150 años del primer Ensanche de Madrid - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/150-anos-del-primer-Ensanche-de-Madrid/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=60687497dc63d210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the Castro Plan's approval by Royal Decree on 19 July 1860 and its role in shaping modern Madrid districts including Retiro.",
+      "relevance_es": "Confirma la aprobación del Plan Castro por Real Decreto de 19 de julio de 1860 y su papel en la formación de distritos del Madrid moderno, incluido Retiro."
+    },
+    {
+      "title": "Ensanche de Madrid, anteproyecto - Biblioteca Digital de la Comunidad de Madrid",
+      "url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/en/consulta/registro.do?id=82",
+      "type": "archive",
+      "relevance_en": "Catalog record for Carlos María de Castro's Ensanche plan and map, a primary historical cue for the urban-planning context.",
+      "relevance_es": "Registro catalográfico del plano y anteproyecto de Ensanche de Carlos María de Castro, una pista histórica primaria para el contexto urbanístico."
+    },
+    {
+      "title": "Retiro - Turismo Madrid",
+      "url": "https://www.esmadrid.com/barrios-de-madrid/retiro",
+      "type": "official",
+      "relevance_en": "Current official tourism page describing the Ibiza area near Retiro Park and listing Calle Ibiza, Menorca, Doctor Castelo, Narváez and Lope de Rueda as part of the area.",
+      "relevance_es": "Página turística oficial actual que describe la zona de Ibiza junto al parque de El Retiro y enumera las calles Ibiza, Menorca, Doctor Castelo, Narváez y Lope de Rueda como parte del área."
+    },
+    {
+      "title": "Ibiza - Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/Ibiza-island-Spain",
+      "type": "reference",
+      "relevance_en": "Reference source for the island of Ibiza as a Balearic Island in the western Mediterranean.",
+      "relevance_es": "Fuente de referencia para identificar Ibiza como isla balear del Mediterráneo occidental."
+    },
+    {
+      "title": "Ibiza (Calle de) - Madrid: sus viejas calles",
+      "url": "https://callesdemadrid.blogspot.com/2023/04/",
+      "type": "other",
+      "relevance_en": "Non-official but station-specific street-history note stating that Calle de Ibiza has been dedicated to the Balearic island since 21 July 1880; useful as a lead pending archival verification.",
+      "relevance_es": "Nota no oficial de historia viaria que afirma que la calle de Ibiza está dedicada a la isla balear desde el 21 de julio de 1880; útil como pista pendiente de verificación archivística."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not say that the 1860 Castro Plan itself established the Balearic street names unless a specific municipal naming record is found; the plan supports the urban-grid context, not necessarily the nomenclature.",
+      "es": "No debe afirmarse que el Plan Castro de 1860 estableciera por sí mismo los nombres baleares de las calles salvo que aparezca un acuerdo municipal concreto; el plan respalda el contexto urbanístico de la retícula, no necesariamente la nomenclatura."
+    },
+    {
+      "en": "The Retiro Balearic cluster should be narrowed: Ibiza and Menorca are current nearby streets, and Mallorca appears as a former name of today's Doctor Castelo; I found no current Retiro Calle de Formentera or Calle de Cabrera in the official callejero.",
+      "es": "El conjunto balear de Retiro debe acotarse: Ibiza y Menorca son calles próximas actuales, y Mallorca aparece como antiguo nombre de la actual Doctor Castelo; no encontré en el callejero oficial una calle de Formentera ni una calle de Cabrera actuales en Retiro."
+    },
+    {
+      "en": "The Line 9 opening date should be noted carefully: press/Wikipedia-derived references give 24 February 1986, while a Community of Madrid transport-history page gives 25 February 1986 for the Avenida de América-Sainz de Baranda link.",
+      "es": "La fecha de apertura de la línea 9 debe consignarse con cautela: referencias de prensa y derivadas de Wikipedia dan el 24 de febrero de 1986, mientras que una página histórica de transportes de la Comunidad de Madrid da el 25 de febrero de 1986 para el enlace Avenida de América-Sainz de Baranda."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid street-naming minutes or historical callejero for 21 July 1880 to verify the exact date and wording of the Calle de Ibiza dedication.",
+      "es": "Conviene revisar las actas municipales de denominación viaria o el callejero histórico del Ayuntamiento de Madrid del 21 de julio de 1880 para verificar la fecha exacta y la redacción de la dedicatoria de la calle de Ibiza."
+    },
+    {
+      "en": "Check Metro de Madrid's original 1986 opening documentation or station-naming file to resolve the 24/25 February opening-date discrepancy.",
+      "es": "Conviene consultar la documentación original de apertura de Metro de Madrid de 1986 o el expediente de denominación de la estación para resolver la discrepancia entre el 24 y el 25 de febrero."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_040/en/summary.short.md",
+      "summary": "content/stations/metro_040/en/summary.md",
+      "story": "content/stations/metro_040/en/story.md",
+      "confidence": "content/stations/metro_040/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_040/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_040/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_040/es/summary.short.md",
+      "summary": "content/stations/metro_040/es/summary.md",
+      "story": "content/stations/metro_040/es/story.md",
+      "confidence": "content/stations/metro_040/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_040/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_040/es/research-note.md"
+    }
+  }
+}

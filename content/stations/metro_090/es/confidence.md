@@ -1,0 +1,1 @@
+La ubicación de la estación junto a la calle de Sevilla queda confirmada por fuentes de transporte, y la ficha histórica de Metro de Madrid identifica Sevilla dentro del tramo original Ventas-Sol de la línea 2. El nombre viario anterior y el acuerdo municipal del 4 de mayo de 1849 están respaldados por un artículo académico que cita documentación municipal.

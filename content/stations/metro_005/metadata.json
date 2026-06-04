@@ -1,0 +1,97 @@
+{
+  "id": "metro_005",
+  "name": "Goya",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Francisco de Goya y Lucientes",
+  "previous_names": "",
+  "naming_date": "1924-06-14",
+  "sources": [
+    {
+      "title": "Metro de Madrid Museos: “Estaciones con historia: Goya”",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/10/ficha-goya.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro historical sheet giving the station location at Calle Alcalá with Calle Goya, the 14 June 1924 Line 2 inauguration, the 1944 Line 4 arrival, and the 1958 transfer of the Goya-Diego de León branch into Line 4.",
+      "relevance_es": "Ficha histórica oficial de Metro que da la ubicación en calle Alcalá con calle Goya, la inauguración de la línea 2 el 14 de junio de 1924, la llegada de la línea 4 en 1944 y el traspaso en 1958 del ramal Goya-Diego de León a la línea 4."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Callejero Oficial 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal street list recording the street as “FRANCISCO GOYA, CALLE DE,” confirming the full person behind the street name used by the station.",
+      "relevance_es": "Callejero municipal oficial que registra la vía como “FRANCISCO GOYA, CALLE DE”, confirmando la persona completa que está detrás del nombre de la calle usado por la estación."
+    },
+    {
+      "title": "Museo Nacional del Prado: Francisco de Goya y Lucientes",
+      "url": "https://www.museodelprado.es/coleccion/artista/goya-y-lucientes-francisco-de/39568a17-81b5-4d6f-84fa-12db60780812",
+      "type": "official",
+      "relevance_en": "Authoritative museum biography for Goya’s dates, court appointments, Madrid career, deafness after illness, purchase of the Quinta del Sordo, and death in Bordeaux.",
+      "relevance_es": "Biografía autorizada del museo para las fechas de Goya, sus cargos cortesanos, su trayectoria madrileña, la sordera tras enfermedad, la compra de la Quinta del Sordo y su muerte en Burdeos."
+    },
+    {
+      "title": "Museo Nacional del Prado: “Pinturas negras [Goya]”",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/pinturas-negras-goya/3ac8fe0b-3dd9-4dcd-b1e1-a21877cc8163",
+      "type": "official",
+      "relevance_en": "Prado encyclopedia entry explaining that the Black Paintings were fourteen works painted directly on the Quinta del Sordo walls, transferred to canvas by Salvador Martínez Cubells in 1874, donated to the State in 1881, and preserved in the Prado.",
+      "relevance_es": "Entrada enciclopédica del Prado que explica que las Pinturas Negras fueron catorce obras pintadas directamente en los muros de la Quinta del Sordo, trasladadas a lienzo por Salvador Martínez Cubells en 1874, donadas al Estado en 1881 y conservadas en el Prado."
+    },
+    {
+      "title": "Memoria de Madrid: Las calles de Madrid. Noticias, tradiciones y curiosidades",
+      "url": "https://www.memoriademadrid.es/view/402083/las-calles-de-madrid-noticias-tradiciones-y-curiosidades",
+      "type": "archive",
+      "relevance_en": "Digitized 1889 Madrid street-history work by Hilario Peñasco and Carlos Cambronero, useful as early documentary context for Madrid street nomenclature including Calle de Goya.",
+      "relevance_es": "Obra digitalizada de 1889 sobre la historia de las calles de Madrid, de Hilario Peñasco y Carlos Cambronero, útil como contexto documental temprano para la nomenclatura viaria madrileña, incluida la calle de Goya."
+    },
+    {
+      "title": "Memoria de Madrid: Retiro: estatua de Goya",
+      "url": "https://www.memoriademadrid.es/view/352096",
+      "type": "archive",
+      "relevance_en": "Municipal heritage record describing the Benlliure monument to Goya and noting its move to Calle Goya around the Velázquez crossing in the early twentieth century, showing the street’s commemorative association with the painter.",
+      "relevance_es": "Registro municipal patrimonial que describe el monumento de Benlliure a Goya y señala su traslado a la calle Goya, cerca del cruce con Velázquez, a comienzos del siglo XX, mostrando la asociación conmemorativa de la vía con el pintor."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station is named from Calle de Goya at the Alcalá-Goya junction; the ultimate honoree is Francisco de Goya y Lucientes.",
+      "es": "Conviene aclarar que la estación toma el nombre de la calle de Goya en el cruce de Alcalá con Goya; el homenajeado último es Francisco de Goya y Lucientes."
+    },
+    {
+      "en": "Use the full recommended named-after form “Francisco de Goya y Lucientes” rather than the shorter “Francisco de Goya.”",
+      "es": "Se recomienda usar la forma completa “Francisco de Goya y Lucientes” en lugar de la forma abreviada “Francisco de Goya”."
+    },
+    {
+      "en": "The 1792 illness/deafness and the Black Paintings are valuable context, but they do not explain the station name as directly as the street-name evidence does.",
+      "es": "La enfermedad/sordera de 1792 y las Pinturas Negras son contexto valioso, pero no explican el nombre de la estación de forma tan directa como la evidencia del callejero."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming resolution for Calle de Francisco Goya would be the strongest possible street-name source; I found official street-list evidence but not the original naming decree.",
+      "es": "Una resolución municipal de denominación de la calle de Francisco Goya sería la fuente más sólida posible para el nombre de la vía; he localizado evidencia en el callejero oficial, pero no el decreto original de denominación."
+    },
+    {
+      "en": "The station’s public name appears stable from its 1924 opening; internal labels such as Goya I, Goya II, and Line 2B describe infrastructure and service history rather than former public names.",
+      "es": "El nombre público de la estación parece estable desde su apertura en 1924; denominaciones internas como Goya I, Goya II y línea 2B describen infraestructura e historia de servicio, no antiguos nombres públicos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_005/en/summary.short.md",
+      "summary": "content/stations/metro_005/en/summary.md",
+      "story": "content/stations/metro_005/en/story.md",
+      "confidence": "content/stations/metro_005/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_005/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_005/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_005/es/summary.short.md",
+      "summary": "content/stations/metro_005/es/summary.md",
+      "story": "content/stations/metro_005/es/story.md",
+      "confidence": "content/stations/metro_005/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_005/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_005/es/research-note.md"
+    }
+  }
+}

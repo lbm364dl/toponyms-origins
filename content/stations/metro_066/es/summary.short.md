@@ -1,0 +1,1 @@
+La estación de Canillejas toma su nombre del antiguo pueblo y municipio de Canillejas, incorporado a Madrid en 1950. El topónimo probablemente se relaciona con canilla/canillas, voces asociadas a pequeños caños, espitas o conducciones, una lectura coherente con una zona vinculada al antiguo abastecimiento subterráneo de agua de Madrid.

@@ -1,0 +1,9 @@
+Valdeacederas station takes its name from an older local name rather than from a modern dedication. The stop lies on Line 1 under Bravo Murillo, with accesses by Calle del Capitán Blanco Argibay and Calle de Aníbal, but the name Valdeacederas preserves the earlier street and landscape name that helped identify this part of Tetuán.
+
+The word is a compact rural toponym. The Real Academia Española defines val as an apocopated form of valle, and acedera as a perennial plant of the knotweed family used as a condiment for its acidic taste. Read literally, Valdeacederas means something like 'valley of sorrels' or 'valley where sorrels grow.'
+
+The old name is documented before the Metro station. A local historical account notes that Valdeacederas and its camino appear in connection with farmland before the area was fully urbanized, with more frequent appearances from the mid-nineteenth century during the Canal de Isabel II works. A 1959 official gazette notice still described property in Chamartín de la Rosa on Calle del Capitán Blanco Argibay, 'before Valdeacederas,' showing that the older street name was remembered after the official change.
+
+That change matters for the station story. The street was renamed in 1949 for Ricardo Blanco Argibay, but when Metro extended Line 1 north from Tetuán to Plaza de Castilla, the intermediate station opened on 4 February 1961 as Valdeacederas. In this way, the transport name conserved a local toponym that the street signs had partly displaced.
+
+The safest conclusion is that the station is named after the historical Valdeacederas street/toponym, probably meaning 'valley of sorrels.' The linguistic evidence is strong, and the street-name continuity is well supported. What remains less firmly proven is the picturesque detail that sorrel grew abundantly in that exact low-lying area; that is plausible, but it should be treated as inference unless a cadastral, agricultural, map, or archival source is found.

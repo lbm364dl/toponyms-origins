@@ -1,0 +1,9 @@
+Bilbao station is named directly after the Glorieta de Bilbao, the roundabout where the station has its entrances. Metro de Madrid's museum documentation places Bilbao among the eight first stations opened by Alfonso XIII on 17 October 1919, on the original line between Cuatro Caminos and Sol. Line 4 reached the station later, when the Argüelles-Goya section opened on 23 March 1944.
+
+The roundabout's name is older than the Metro. It comes from the Puerta de Bilbao, a gate in Madrid's old Felipe IV wall near the end of Calle de Fuencarral. In 1837, after the First Carlist War had turned Bilbao into a symbol of liberal resistance, Madrid dedicated the former Puerta de San Fernando to the Basque city and its defenders.
+
+The place had an even older name: Puerta de los Pozos de la Nieve. The name referred to the snow and ice wells near this northern edge of Madrid, where snow brought down from the sierra was stored underground and sold for cooling drinks, food, and medical uses. A study in the Anales del Instituto de Estudios Madrileños traces the sequence from Puerta de los Pozos de la Nieve to Puerta de San Fernando and then to Puerta de Bilbao.
+
+The dedication was not abstract. The 1837 gate inscription praised the heroic defenders and liberators of the invicta villa of Bilbao, and another side simply identified it as the Puerta de Bilbao. The gate was later destroyed during Madrid's nineteenth-century expansion, but its commemorative name survived in the square that developed there.
+
+For the station name, the safest reading is therefore layered: Metro named the stop for the Madrid roundabout, the roundabout inherited the name of a vanished city gate, and that gate commemorated Bilbao's resistance in the Carlist War. The current dataset's mention of the Café Comercial is useful local color, since the historic cafe still anchors the glorieta, but it is not part of the name's origin.

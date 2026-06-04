@@ -1,0 +1,1 @@
+The existing claim is broadly correct: the station takes its name from the Madrid district and former barrio of Tetuán de las Victorias, whose name commemorates the Spanish capture/victory at Tétouan in 1860. It needs nuance on the short military encampment, the role of merchants and later settlers, and the Moroccan toponym's etymology.

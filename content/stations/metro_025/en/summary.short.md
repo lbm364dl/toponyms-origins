@@ -1,0 +1,1 @@
+The station takes its name from the Santiago Bernabéu Stadium, itself named in 1955 for Santiago Bernabéu de Yeste, the Real Madrid president who led the club from 1943 until 1978. It opened in 1982 as Lima and was renamed in December 1997, around the stadium's 50th anniversary.

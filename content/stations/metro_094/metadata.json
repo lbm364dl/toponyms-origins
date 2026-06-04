@@ -1,0 +1,104 @@
+{
+  "id": "metro_094",
+  "name": "Ventura Rodríguez",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Buenaventura Rodríguez Tizón, known as Ventura Rodríguez",
+  "previous_names": "",
+  "naming_date": "1941 (name in use when the station opened; exact naming act not found)",
+  "sources": [
+    {
+      "title": "La Línea 3 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-3-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid transport history; dates the Embajadores-Lavapiés-Sol opening to 9 August 1936 and the Sol-Argüelles section to 16 July 1941.",
+      "relevance_es": "Historia oficial de transporte de la Comunidad de Madrid; fecha la apertura Embajadores-Lavapiés-Sol el 9 de agosto de 1936 y el tramo Sol-Argüelles el 16 de julio de 1941."
+    },
+    {
+      "title": "Estación de Ventura Rodríguez | memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/568409",
+      "type": "archive",
+      "relevance_en": "Municipal memory record from Metro de Madrid's photographic archive; places the station under the intersection of Ventura Rodríguez and Princesa and notes the Line 3 remodeling in 2003-2006.",
+      "relevance_es": "Ficha de memoria municipal procedente del Archivo fotográfico de Metro de Madrid; sitúa la estación bajo la intersección de Ventura Rodríguez y Princesa y menciona la remodelación de la línea 3 entre 2003 y 2006."
+    },
+    {
+      "title": "Fuente de Cibeles - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Fuente-de-Cibeles/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=8658091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council heritage page identifying Ventura Rodríguez Tizón, his dates, his role as maestro mayor, and his 1777 design for Cibeles within the Salón del Prado programme.",
+      "relevance_es": "Página patrimonial del Ayuntamiento de Madrid que identifica a Ventura Rodríguez Tizón, sus fechas, su cargo de maestro mayor y su diseño de Cibeles en 1777 dentro del programa del Salón del Prado."
+    },
+    {
+      "title": "Neptuno - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Neptuno/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=c758091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council heritage page explaining Neptuno as part of the Salón del Prado fountain system and stating that Ventura Rodríguez signed the fountain project in 1780.",
+      "relevance_es": "Página patrimonial del Ayuntamiento de Madrid que explica Neptuno como parte del sistema de fuentes del Salón del Prado y señala que Ventura Rodríguez firmó el proyecto de la fuente en 1780."
+    },
+    {
+      "title": "Salón del Prado - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Edificios-historicos/Salon-del-Prado/?vgnextchannel=83bc3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=6528f7d9560a4510f7d9560a45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official heritage context for the Salón del Prado transformation under Carlos III and Ventura Rodríguez's responsibility for the fountain project.",
+      "relevance_es": "Contexto patrimonial oficial sobre la transformación del Salón del Prado bajo Carlos III y la responsabilidad de Ventura Rodríguez en el proyecto de las fuentes."
+    },
+    {
+      "title": "Primera gran muestra sobre Ventura Rodríguez, el 'padre' de La Cibeles",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Primera-gran-muestra-sobre-Ventura-Rodriguez-el-padre-de-La-Cibeles/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=d85b640a7111c510VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council news item for a municipal exhibition; gives a concise biography, names him Buenaventura Rodríguez Tizón, notes his training with Juvarra, his 1760 removal from Palace works, and later municipal and Council of Castile roles.",
+      "relevance_es": "Noticia del Ayuntamiento de Madrid sobre una exposición municipal; ofrece una biografía sintética, lo nombra Buenaventura Rodríguez Tizón, menciona su formación con Juvarra, su cese de las obras de Palacio en 1760 y sus responsabilidades posteriores municipales y del Consejo de Castilla."
+    },
+    {
+      "title": "Estación de metro Ventura Rodríguez",
+      "url": "https://www.lineasdelmetro.com/estaciones/madrid/ventura-rodriguez/",
+      "type": "other",
+      "relevance_en": "Non-official station listing with station address, Line 3, accessibility information, 15 July 1941 inauguration date, and explicit statement that the name honors the architect Ventura Rodríguez.",
+      "relevance_es": "Ficha no oficial de estación con dirección, línea 3, accesibilidad, fecha de inauguración del 15 de julio de 1941 y mención explícita de que el nombre homenajea al arquitecto Ventura Rodríguez."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Chief Architect of the Royal Works under Carlos III' with a more precise description: Rodríguez was removed from Royal Palace leadership in 1760 under Carlos III, later becoming maestro mayor of Madrid's municipal works and fountains in 1764 and working for the Council of Castile from 1766.",
+      "es": "Sustituir 'Arquitecto Mayor de las Obras Reales bajo Carlos III' por una formulación más precisa: Rodríguez fue cesado de la dirección de las obras del Palacio Real en 1760 bajo Carlos III, después fue maestro mayor de obras y fuentes del Ayuntamiento de Madrid desde 1764 y trabajó para el Consejo de Castilla desde 1766."
+    },
+    {
+      "en": "Qualify 'designed the Cibeles and Neptuno fountains': he designed the projects, but the sculptural execution was carried out by named sculptors and craftsmen.",
+      "es": "Matizar 'diseñó las fuentes de Cibeles y Neptuno': realizó los proyectos, pero la ejecución escultórica correspondió a escultores y artífices concretos."
+    },
+    {
+      "en": "The transport date is best recorded as July 1941: some station listings give 15 July 1941, while the Community of Madrid's Line 3 history gives the Sol-Argüelles section as 16 July 1941.",
+      "es": "La fecha de transporte debe registrarse como julio de 1941: algunos listados de estaciones dan el 15 de julio de 1941, mientras que la historia de la línea 3 de la Comunidad de Madrid fecha el tramo Sol-Argüelles el 16 de julio de 1941."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Metro de Madrid archival opening notices or concession files to resolve whether the station's formal inauguration date should be recorded as 15 July 1941 or public opening on 16 July 1941.",
+      "es": "Conviene revisar avisos de apertura o expedientes de concesión del archivo de Metro de Madrid para resolver si la fecha formal de la estación debe registrarse como inauguración el 15 de julio de 1941 o apertura al público el 16 de julio de 1941."
+    },
+    {
+      "en": "The exact municipal or Metro document assigning the name 'Ventura Rodríguez' to the station was not located online.",
+      "es": "No se localizó en línea el documento municipal o de Metro que asignó formalmente el nombre 'Ventura Rodríguez' a la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_094/en/summary.short.md",
+      "summary": "content/stations/metro_094/en/summary.md",
+      "story": "content/stations/metro_094/en/story.md",
+      "confidence": "content/stations/metro_094/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_094/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_094/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_094/es/summary.short.md",
+      "summary": "content/stations/metro_094/es/summary.md",
+      "story": "content/stations/metro_094/es/story.md",
+      "confidence": "content/stations/metro_094/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_094/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_094/es/research-note.md"
+    }
+  }
+}

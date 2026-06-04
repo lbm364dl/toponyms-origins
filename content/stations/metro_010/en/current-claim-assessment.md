@@ -1,0 +1,1 @@
+The row is right that the station is named for the Chamberí place name and that the deeper origin is linked to Chambéry/Savoy, but it overstates the Salesas Reales transmission as the most probable explanation. The exact route by which the French/Savoyard name reached Madrid remains contested, and several official or semi-official sources still repeat weaker explanations.

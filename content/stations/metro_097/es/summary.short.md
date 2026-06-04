@@ -1,0 +1,1 @@
+Marqués de Vadillo debe su nombre a Francisco Antonio de Salcedo y Aguirre, I marqués de Vadillo y corregidor de Madrid entre 1715 y 1729. La estación está junto a la glorieta situada en el extremo carabanchelero del Puente de Toledo, cuya reconstrucción encargó a Pedro de Ribera.

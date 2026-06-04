@@ -1,0 +1,1 @@
+Carpetana is named after Vía Carpetana, the avenue above the station. The avenue recalls the Carpetani, the pre-Roman people associated with ancient Carpetania in the central Tagus region, including present-day Madrid.

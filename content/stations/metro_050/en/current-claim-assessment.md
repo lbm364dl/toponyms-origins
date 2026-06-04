@@ -1,0 +1,1 @@
+The core claim is well supported: the station name preserves the old Valdeacederas street/toponym, now Calle del Capitán Blanco Argibay, and the station opened on 4 February 1961 with the Line 1 extension to Plaza de Castilla. The botanical translation is linguistically plausible, but the specific claim that sorrel grew abundantly there needs a more direct historical source.

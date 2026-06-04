@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station ultimately honors the writer Concha Espina. It should add that the immediate transport-name source is the nearby Avenida de Concha Espina, and the Nobel phrasing should be tied to the official Nobel nomination archive rather than secondary summaries.

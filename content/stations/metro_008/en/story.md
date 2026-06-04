@@ -1,0 +1,9 @@
+Embajadores station is named from the place where it stands: the Glorieta de Embajadores, linked to Calle de Embajadores and to the old Portillo de Embajadores in the Felipe IV wall. Metro de Madrid’s historical sheet places the station at the glorieta, between Calle de Embajadores and Calle de Miguel Servet, and notes that this was where the street passed through the former city enclosure.
+
+Behind the modern interchange is an older Madrid toponym: the Campo de Embajadores. According to the traditional explanation repeated by Madrid street historians, an epidemic in the reign of Juan II of Castile led several foreign ambassadors to leave the crowded town and lodge in country houses outside the walls. Later accounts name envoys associated with Tunis, Aragon, Navarre and France.
+
+The most detailed version says that the Tunisian envoy stayed at the Quinta de San Pedro, the Aragonese envoy at Santiago el Verde, and the Navarrese and French representatives in nearby houses. The open ground between those lodgings was remembered as the ambassadors’ field, and the road leading through or toward it kept the name Embajadores.
+
+By the seventeenth century the name was already embedded in Madrid’s urban geography. The Texeira map of 1656 is one of the key cartographic witnesses for this part of the city, and later sources mention the Portillo de Embajadores, the Calle de Embajadores and, after the expansion beyond the wall, the paseo and the modern glorieta.
+
+The safest reading is therefore layered: the station is directly named for the present urban place, while that place preserves a much older diplomatic tradition. The diplomatic episode is plausible and well attested in Madrid toponymy literature, but the surviving evidence is not as strong as a contemporary fifteenth-century municipal record, so it should be described as a traditional origin rather than an unquestioned fact.

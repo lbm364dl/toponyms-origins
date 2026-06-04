@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma su nombre de la plaza de Manuel Becerra, dedicada a Manuel Becerra y Bermúdez. La síntesis biográfica requiere una corrección: los periodos ministeriales documentados corresponden a la regencia de Serrano, Amadeo I, la Primera República y la regencia de María Cristina, no claramente al reinado de Alfonso XII.

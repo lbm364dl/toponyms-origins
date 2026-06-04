@@ -1,0 +1,118 @@
+{
+  "id": "metro_080",
+  "name": "Puerta de Arganda",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Arganda del Rey, municipality southeast of Madrid, reached from this station by the Line 9 TFM section",
+  "previous_names": "Originally projected as Vicálvaro Renfe / Proyectada originalmente como Vicálvaro Renfe",
+  "naming_date": "1 December 1998",
+  "sources": [
+    {
+      "title": "Prolongación a Vicálvaro de la Línea 9. Tramo: Pavones-Puerta de Arganda",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-vicalvaro-linea-9-tramo-pavones-puerta-arganda",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid infrastructure page confirming the 1 December 1998 opening, the four stations created, the Cercanías interchange objective, and Puerta de Arganda as the point where TFM fare zoning begins.",
+      "relevance_es": "Página oficial de infraestructuras de la Comunidad de Madrid que confirma la puesta en servicio del 1 de diciembre de 1998, las cuatro estaciones creadas, el objetivo de conexión con Cercanías y Puerta de Arganda como punto donde empieza la tarifa TFM."
+    },
+    {
+      "title": "Prolongación de la Línea 9. Tramo: Puerta de Arganda-Arganda del Rey",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-9-tramo-puerta-arganda-arganda-rey",
+      "type": "official",
+      "relevance_en": "Official page confirming the 7 April 1999 opening of the Puerta de Arganda-Arganda del Rey extension and its concession to Transportes Ferroviarios de Madrid.",
+      "relevance_es": "Página oficial que confirma la puesta en servicio del 7 de abril de 1999 de la prolongación Puerta de Arganda-Arganda del Rey y su concesión a Transportes Ferroviarios de Madrid."
+    },
+    {
+      "title": "Puerta de Arganda",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/puerta-de-arganda.aspx?idPestana=1",
+      "type": "official",
+      "relevance_en": "CRTM station page confirming current Line 9 service, fare zone A, accesses on Calle de San Cipriano, and connections with Cercanías, EMT and interurban buses.",
+      "relevance_es": "Ficha del CRTM que confirma el servicio actual de la línea 9, la zona tarifaria A, los accesos en la calle de San Cipriano y las correspondencias con Cercanías, EMT y autobuses interurbanos."
+    },
+    {
+      "title": "Estación de Vicálvaro",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-vicalvaro",
+      "type": "official",
+      "relevance_en": "Renfe page confirming that Vicálvaro Cercanías connects with Puerta de Arganda Metro, situated below the rail station as an interchange.",
+      "relevance_es": "Página de Renfe que confirma que la estación de Cercanías de Vicálvaro conecta con Puerta de Arganda, situada bajo las vías como intercambiador con Metro."
+    },
+    {
+      "title": "Estación de Puerta de Arganda",
+      "url": "https://www.memoriademadrid.es/view/567955",
+      "type": "archive",
+      "relevance_en": "Madrid municipal digital archive record from Metro de Madrid's photographic archive noting that the station was originally projected as Vicálvaro Renfe and inaugurated in December 1998.",
+      "relevance_es": "Registro de la biblioteca digital municipal procedente del archivo fotográfico de Metro de Madrid que indica que la estación se proyectó originalmente como Vicálvaro Renfe y se inauguró en diciembre de 1998."
+    },
+    {
+      "title": "CVC. Rinconete. La Comunidad de Madrid y sus topónimos (I), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/06062007_01.asp",
+      "type": "reference",
+      "relevance_en": "Specialist toponymy article supporting the explanation of Arganda as a Celtic/Indo-European name containing *arg-, 'clear, white, bright', also found in hydronyms.",
+      "relevance_es": "Artículo especializado de toponimia que respalda la explicación de Arganda como nombre celta o indoeuropeo con la base *arg-, 'claro, blanco, brillante', también presente en hidrónimos."
+    },
+    {
+      "title": "Historia - Motín de Arganda",
+      "url": "https://www.argandadelrey.es/la-ciudad/cultura/motin/historia/",
+      "type": "official",
+      "relevance_en": "Municipal history page explaining the 1583 royal-town episode, the payment by residents, and the later 1613 uprising context.",
+      "relevance_es": "Página histórica municipal que explica el episodio de villa del rey de 1583, el pago realizado por los vecinos y el contexto del motín de 1613."
+    },
+    {
+      "title": "INEbase. Alteraciones de los municipios en los Censos de Población desde 1842: Arganda del Rey",
+      "url": "https://www.ine.es/intercensal/intercensal.do?btnBuscarCod=Consultar+selecci%EF%BF%BDn&codigoMunicipio=014&codigoProvincia=28&search=3",
+      "type": "official",
+      "relevance_en": "INE census metadata showing that the municipality is Arganda del Rey today but was called Arganda in earlier censuses through 1991.",
+      "relevance_es": "Metadatos censales del INE que muestran que el municipio es hoy Arganda del Rey, pero en censos anteriores hasta 1991 se denominaba Arganda."
+    },
+    {
+      "title": "¡Arganda ya es villa real!: estudio documental de la carta de privilegio concedida por Felipe II (1583)",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6723468",
+      "type": "academic",
+      "relevance_en": "Academic bibliographic record for a study of Felipe II's 1583 privilege granting Arganda royal jurisdiction and town status; useful for deeper archival confirmation.",
+      "relevance_es": "Registro bibliográfico académico de un estudio sobre el privilegio de Felipe II de 1583 que concedió a Arganda jurisdicción real y villazgo; útil para una comprobación archivística más profunda."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the station as named after a physical historical gate; the evidence supports a functional gateway toward Arganda del Rey.",
+      "es": "No debe presentarse la estación como si debiera su nombre a una puerta histórica física; la evidencia respalda una puerta funcional hacia Arganda del Rey."
+    },
+    {
+      "en": "The statement about 'del Rey' being added in 1996 should be qualified: the royal association dates to Felipe II's 1583 privilege, while INE confirms that older census records used Arganda as the municipal name.",
+      "es": "La afirmación de que 'del Rey' se añadió en 1996 debe matizarse: la asociación real procede del privilegio de Felipe II de 1583, aunque el INE confirma que los censos antiguos usaban Arganda como nombre municipal."
+    },
+    {
+      "en": "The station itself opened on 1 December 1998; the Puerta de Arganda-Arganda del Rey extension opened later, on 7 April 1999.",
+      "es": "La estación abrió el 1 de diciembre de 1998; la prolongación Puerta de Arganda-Arganda del Rey se inauguró después, el 7 de abril de 1999."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid naming document or 1998 project file could confirm the exact reason for choosing Puerta de Arganda over the projected name Vicálvaro Renfe.",
+      "es": "Un documento de denominación de Metro de Madrid o el expediente del proyecto de 1998 podría confirmar la razón exacta de elegir Puerta de Arganda en lugar del nombre proyectado Vicálvaro Renfe."
+    },
+    {
+      "en": "The exact administrative act and date by which the municipality's official name changed from Arganda to Arganda del Rey should be checked in BOCM or municipal records if a precise dataset date is required.",
+      "es": "El acto administrativo exacto y la fecha por la que el municipio pasó oficialmente de Arganda a Arganda del Rey deberían comprobarse en el BOCM o en archivos municipales si el dataset necesita una fecha precisa."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_080/en/summary.short.md",
+      "summary": "content/stations/metro_080/en/summary.md",
+      "story": "content/stations/metro_080/en/story.md",
+      "confidence": "content/stations/metro_080/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_080/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_080/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_080/es/summary.short.md",
+      "summary": "content/stations/metro_080/es/summary.md",
+      "story": "content/stations/metro_080/es/story.md",
+      "confidence": "content/stations/metro_080/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_080/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_080/es/research-note.md"
+    }
+  }
+}

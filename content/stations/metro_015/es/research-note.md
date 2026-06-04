@@ -1,0 +1,1 @@
+La mejor redacción breve para el conjunto de datos sería: 'Nombrada por Gregorio Marañón y Posadillo (1887-1960), médico, endocrinólogo, historiador y humanista; la estación toma su nombre inmediato del entorno de la plaza del Doctor Marañón y se abrió como intercambiador de Metro en 1998.' Así se evitan cifras bibliográficas no verificadas y se conserva la etimología comprobada.

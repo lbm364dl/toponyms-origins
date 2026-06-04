@@ -1,0 +1,1 @@
+La estación de Las Tablas debe su nombre al desarrollo residencial madrileño de Las Tablas, documentado urbanísticamente como UZI 0.08 Las Tablas. El sentido antiguo de 'tabla' como faja o pedazo cuadrilongo de tierra de cultivo encaja con el paisaje agrario previo, aunque esa relación es una interpretación fundada y no un acto de denominación documentado.

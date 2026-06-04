@@ -1,0 +1,1 @@
+La propia comunicación de la Comunidad de Madrid de 2018 indica el nuevo nombre, la fecha efectiva, el nombre anterior, el motivo del cambio y la residencia cercana de Aleixandre. Fuentes autorizadas independientes de la RAE, el Nobel Prize, el CRTM y páginas culturales de la Comunidad corroboran el contexto biográfico y urbano.

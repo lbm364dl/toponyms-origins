@@ -1,0 +1,132 @@
+{
+  "id": "metro_066",
+  "name": "Canillejas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Canillejas (former municipality and present Madrid barrio)",
+  "previous_names": "No former station name found.",
+  "naming_date": "1980-01-18",
+  "sources": [
+    {
+      "title": "Viajes de agua en Madrid - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Medio-ambiente/Agua/Viajes-de-agua-en-Madrid/?vgnextchannel=63d0e0f6fdc4f510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=c2c61a824d4ae210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Explains Madrid's historic underground water-supply galleries and states that catchment areas included the surroundings of Canillas and Canillejas.",
+      "relevance_es": "Explica los antiguos viajes de agua de Madrid y afirma que las zonas de captación incluían el entorno de Canillas y Canillejas."
+    },
+    {
+      "title": "canilla - Diccionario de la lengua española, RAE-ASALE",
+      "url": "https://dle.rae.es/canilla",
+      "type": "reference",
+      "relevance_en": "Gives the Latin origin of canilla from cannella, diminutive of canna, and includes meanings such as spout/tap or conduit-related object.",
+      "relevance_es": "Da el origen latino de canilla desde cannella, diminutivo de canna, e incluye acepciones como espita, grifo u objeto relacionado con conducciones."
+    },
+    {
+      "title": "Decreto de 24 de junio de 1949 por el que se aprueba la anexión total del término municipal y Ayuntamiento de Canillejas al de Madrid - BOE",
+      "url": "https://www.boe.es/gazeta/dias/1949/07/30/pdfs/BOE-1949-211.pdf",
+      "type": "official",
+      "relevance_en": "Primary legal source approving the total annexation of the municipality and town council of Canillejas to Madrid.",
+      "relevance_es": "Fuente legal primaria que aprueba la anexión total del término municipal y Ayuntamiento de Canillejas al de Madrid."
+    },
+    {
+      "title": "Pueblos anexionados - Archivo de Villa, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Bibliotecas/BibliotecasEspecializadas/ArchivoDeVilla/ficheros/Padrones%20pueblos%20anexionados.pdf",
+      "type": "official",
+      "relevance_en": "Madrid archival inventory listing Canillejas among annexed towns and recording the annexation date as 30/03/1950.",
+      "relevance_es": "Inventario del Archivo de Villa que incluye Canillejas entre los pueblos anexionados y registra la fecha de anexión como 30/03/1950."
+    },
+    {
+      "title": "Archivo municipal de Canillejas - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/Archivo-municipal-de-Canillejas/?vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=6ede1265f214a810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the existence of Canillejas municipal records from 1824 to 1950 and its status within Madrid's historical jurisdiction before annexation.",
+      "relevance_es": "Confirma la existencia de documentación municipal de Canillejas entre 1824 y 1950 y su pertenencia histórica a la jurisdicción madrileña antes de la anexión."
+    },
+    {
+      "title": "BOCM 6 March 2019, heritage file for Santa María la Blanca de Canillejas",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2019/03/06/BOCM-20190306-27.PDF",
+      "type": "official",
+      "relevance_en": "Provides historical context for Canillejas on the Camino de Aragón, cites the 1579 Relaciones Topográficas, and notes springs, orchards and gardens.",
+      "relevance_es": "Aporta contexto histórico de Canillejas en el Camino de Aragón, cita las Relaciones Topográficas de 1579 y menciona manantiales, huertas y jardines."
+    },
+    {
+      "title": "Inauguración tramo de línea 5 Ciudad Lineal-Canillejas - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/389763",
+      "type": "archive",
+      "relevance_en": "Archive record from Metro de Madrid's photographic collection dated 18 January 1980, describing the Line 5 extension to Canillejas with Suanzes, Torre Arias and Canillejas stations.",
+      "relevance_es": "Ficha del archivo fotográfico de Metro de Madrid fechada el 18 de enero de 1980, que describe la prolongación de la línea 5 hasta Canillejas con las estaciones Suanzes, Torre Arias y Canillejas."
+    },
+    {
+      "title": "La línea 5 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/press-releases/download/30154",
+      "type": "official",
+      "relevance_en": "Official regional chronology of Line 5 stating that in 1980 the line was extended east to Canillejas and in 2006 from Canillejas to Alameda de Osuna.",
+      "relevance_es": "Cronología oficial regional de la línea 5 que indica que en 1980 se prolongó por el este hasta Canillejas y en 2006 desde Canillejas hasta Alameda de Osuna."
+    },
+    {
+      "title": "A partir de hoy, San Blas-Canillejas - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/A-partir-de-hoy-San-Blas-Canillejas/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=8168ccfc7b10a310VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal notice confirming the 2012 change from San Blas to San Blas-Canillejas to recover the name of the former municipality.",
+      "relevance_es": "Nota municipal que confirma el cambio de 2012 de San Blas a San Blas-Canillejas para recuperar el nombre del antiguo municipio."
+    },
+    {
+      "title": "Origenes e historia I - San Blas-Canillejas",
+      "url": "https://sanblascanillejas.wordpress.com/acerca-de/origenes-e-historia-i/",
+      "type": "other",
+      "relevance_en": "Local-history source repeating the common explanation that Canillejas has a meaning similar to Canillas and may derive from canilla or caña; useful but not decisive.",
+      "relevance_es": "Fuente de historia local que recoge la explicación común de que Canillejas tiene un significado similar a Canillas y puede proceder de canilla o caña; útil, pero no concluyente."
+    },
+    {
+      "title": "Origen de Canillejas - Asociación Vecinal Amistad de Canillejas",
+      "url": "https://www.avvcanillejas.org/origenes.htm",
+      "type": "other",
+      "relevance_en": "Local narrative connecting Canillejas and Canillas with underground water conduits and preserving the medieval-privilege tradition found in the input row; the page has encoding issues and should be treated cautiously.",
+      "relevance_es": "Relato local que vincula Canillejas y Canillas con conducciones subterráneas de agua y conserva la tradición de privilegios medievales presente en la fila de entrada; la página tiene problemas de codificación y debe usarse con cautela."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Keep the station's direct named-after value as the former municipality/current barrio of Canillejas; the water explanation belongs to the deeper toponymic origin, not to the metro naming act itself.",
+      "es": "Conviene mantener como referente directo de la estación el antiguo municipio y actual barrio de Canillejas; la explicación del agua corresponde al origen profundo del topónimo, no al acto de nombrar la estación de metro."
+    },
+    {
+      "en": "Distinguish the annexation decree date, 24 June 1949, from the effective incorporation date recorded in Madrid archival inventories, 30 March 1950.",
+      "es": "Debe distinguirse la fecha del decreto de anexión, 24 de junio de 1949, de la fecha de incorporación efectiva registrada en inventarios del Ayuntamiento de Madrid, 30 de marzo de 1950."
+    },
+    {
+      "en": "The claims about 1274, 1330 and the loss of privileges after the Comuneros revolt should be downgraded or sourced separately; I found them in local narratives, not in a primary or specialist source during this check.",
+      "es": "Las afirmaciones sobre 1274, 1330 y la pérdida de privilegios tras la revuelta comunera deberían rebajarse o documentarse por separado; en esta revisión las he encontrado en relatos locales, no en una fuente primaria o especializada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A specialist toponymic source, such as a future Toponomasticon Hispaniae entry or an academic study of Madrid place-names, should be checked to confirm whether Canillejas is truly derived from canilla/canillas.",
+      "es": "Debería revisarse una fuente toponímica especializada, como una futura ficha del Toponomasticon Hispaniae o un estudio académico de la toponimia madrileña, para confirmar si Canillejas deriva realmente de canilla/canillas."
+    },
+    {
+      "en": "The medieval privileges attributed to Alfonso X and Alfonso XI need verification in archival or scholarly sources before being used in public display copy.",
+      "es": "Los privilegios medievales atribuidos a Alfonso X y Alfonso XI necesitan verificación en fuentes archivísticas o académicas antes de incorporarse a textos públicos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_066/en/summary.short.md",
+      "summary": "content/stations/metro_066/en/summary.md",
+      "story": "content/stations/metro_066/en/story.md",
+      "confidence": "content/stations/metro_066/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_066/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_066/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_066/es/summary.short.md",
+      "summary": "content/stations/metro_066/es/summary.md",
+      "story": "content/stations/metro_066/es/story.md",
+      "confidence": "content/stations/metro_066/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_066/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_066/es/research-note.md"
+    }
+  }
+}

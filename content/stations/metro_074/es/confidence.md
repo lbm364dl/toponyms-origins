@@ -1,0 +1,1 @@
+Que la estación recibe el nombre del lugar Vicálvaro está verificado por su ubicación, la documentación de la prolongación de la línea 9 y la historia municipal del distrito. La confianza es solo probable para la etimología profunda porque la documentación oficial madrileña presenta dos hipótesis, Vicus-Alvar y Vicus-Albus, sin probar definitivamente una de ellas.

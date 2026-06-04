@@ -1,0 +1,1 @@
+La estación de Tirso de Molina lleva el nombre del dramaturgo del Siglo de Oro y fraile mercedario Gabriel Téllez, que firmaba como Tirso de Molina. Se inauguró en 1921 como Progreso y adoptó su nombre actual el 10 de julio de 1939, siguiendo la denominación de la plaza situada sobre ella.

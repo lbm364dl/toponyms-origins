@@ -1,0 +1,9 @@
+Sáinz de Baranda station takes its name from Calle del Alcalde Sainz de Baranda, near the station entrances on Calle del Doctor Esquerdo. The street honors Pedro Casto Sáinz de Baranda y Gorriti, remembered in Madrid as a constitutional mayor rather than as a corregidor of the older municipal system.
+
+Sáinz de Baranda belonged to a family with roots in northern Burgos, but he was a Madrid figure: the Real Academia de la Historia gives him as born in Madrid in 1775 and dead in Villaviciosa de Odón in 1855. A detailed genealogical study says he was born on 1 July 1775 and baptized the next day in the parish church of Santa Cruz, and later held responsibilities in Madrid's public and economic life.
+
+His reputation rests on moments when Madrid's normal authorities faltered. The RAH biography presents him as the man who assumed municipal responsibility when civil and military authorities left the city before the French advance, helping preserve order and avoid chaos. He returned to prominence under the constitutional order of 1820, during the Liberal Triennium, when Madrid again looked to him as a symbol of civic authority tied to the Constitution of Cadiz.
+
+The metro name is therefore a small transport label with a long municipal memory behind it. The official city street guide records Calle del Alcalde Sainz de Baranda running from Avenida de Menendez Pelayo to Calle de Manuel Laguna through Retiro and Salamanca, and Madrid's heritage catalogue also notes the Retiro gate called Puerta de Sainz de Baranda, opened near 1950 for the neighborhood around that street.
+
+As a station, Sáinz de Baranda first opened with Line 6 in the Cuatro Caminos-Pacifico section in October 1979. The Line 9 platforms followed on 31 January 1980, when the first Sainz de Baranda-Pavones section opened, so the station became an interchange slightly after its initial opening. No former station name has been found; the main correction is chronological, not etymological.

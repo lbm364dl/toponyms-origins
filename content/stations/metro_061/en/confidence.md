@@ -1,0 +1,1 @@
+The station location and Line 8/9 correspondences are confirmed by CRTM, the street is confirmed by Madrid's official street directory, and the Hispano-American street-name context is independently documented. No competing etymology was found; the only uncertainty is the uninspected municipal act that originally named Calle de Colombia.

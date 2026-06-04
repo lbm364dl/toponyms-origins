@@ -1,0 +1,100 @@
+{
+  "id": "metro_039",
+  "name": "O'Donnell",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Leopoldo O'Donnell y Joris",
+  "previous_names": "",
+  "naming_date": "1979-10-11",
+  "sources": [
+    {
+      "title": "La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Comunidad de Madrid page confirming that the first Line 6 section, Cuatro Caminos-Pacífico, opened on 11 October 1979.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que confirma que el primer tramo de la línea 6, Cuatro Caminos-Pacífico, se inauguró el 11 de octubre de 1979."
+    },
+    {
+      "title": "Inauguración tramo línea 6 Cuatro Caminos-Pacífico",
+      "url": "https://www.memoriademadrid.es/view/387851",
+      "type": "archive",
+      "relevance_en": "Municipal digital archive item from Metro de Madrid's photographic archive; lists O'Donnell among the ten stations of the inaugurated Line 6 section.",
+      "relevance_es": "Ficha del archivo digital municipal procedente del archivo fotográfico de Metro de Madrid; enumera O'Donnell entre las diez estaciones del tramo inaugurado de la línea 6."
+    },
+    {
+      "title": "Leopoldo O'Donnell y Joris - Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/32598-leopoldo-odonnell-y-joris",
+      "type": "reference",
+      "relevance_en": "RAH biographical entry identifying O'Donnell as 1st Duke of Tetuán, Count of Lucena, military officer, founder and head of the Liberal Union, and president of the Council of Ministers.",
+      "relevance_es": "Entrada biográfica de la RAH que identifica a O'Donnell como I duque de Tetuán, conde de Lucena, militar, fundador y jefe de la Unión Liberal y presidente del Consejo de Ministros."
+    },
+    {
+      "title": "O'DONNELL Y JORÍS, LEOPOLDO. Conde de Lucena y Duque de Tetuán",
+      "url": "https://www.senado.es/web/conocersenado/senadohistoria/senado18341923/senadores/fichasenador/index.html?id1=2888",
+      "type": "official",
+      "relevance_en": "Spanish Senate historical file confirming his parliamentary status and titles, including Count of Lucena and Duke of Tetuán.",
+      "relevance_es": "Ficha histórica del Senado que confirma su condición parlamentaria y sus títulos, incluidos conde de Lucena y duque de Tetuán."
+    },
+    {
+      "title": "Gaceta de Madrid, núm. 89, 29 de marzo de 1860",
+      "url": "https://www.boe.es/gazeta/dias/1860/03/29/pdfs/GMD-1860-89.pdf",
+      "type": "archive",
+      "relevance_en": "Official gazette text for the preliminary peace terms with Morocco, naming Leopoldo O'Donnell as Duke of Tetuán, Count of Lucena, and commander-in-chief of the Spanish army in Africa.",
+      "relevance_es": "Texto oficial de la Gaceta con las bases preliminares de paz con Marruecos, que nombra a Leopoldo O'Donnell como duque de Tetuán, conde de Lucena y capitán general en jefe del ejército español en África."
+    },
+    {
+      "title": "Callejero Oficial 2015 - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid street directory confirming Calle de O'Donnell and its Retiro/Salamanca district context.",
+      "relevance_es": "Callejero oficial de Madrid que confirma la calle de O'Donnell y su contexto en los distritos de Retiro y Salamanca."
+    },
+    {
+      "title": "Calle de O'Donnell - Madripedia",
+      "url": "https://madripedia.wikis.cc/wiki/Calle_de_O%C2%B4Donnell",
+      "type": "other",
+      "relevance_en": "Madrid toponymic secondary source, based on María Isabel Gea's Diccionario Enciclopédico de Madrid, stating that the street is named for Leopoldo O'Donnell and linking it to the 1868 removal of the city enclosure.",
+      "relevance_es": "Fuente secundaria de toponimia madrileña, basada en el Diccionario Enciclopédico de Madrid de María Isabel Gea, que afirma que la calle está dedicada a Leopoldo O'Donnell y la relaciona con el derribo de la cerca en 1868."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'medieval walls' with 'the Cerca de Felipe IV' or 'the old city enclosure'; the relevant barrier was not Madrid's medieval wall.",
+      "es": "Sustituir 'murallas medievales' por 'Cerca de Felipe IV' o 'antigua cerca urbana'; la barrera relevante no era la muralla medieval de Madrid."
+    },
+    {
+      "en": "Use the full biographical name 'Leopoldo O'Donnell y Joris' rather than only 'Leopoldo O'Donnell'.",
+      "es": "Usar el nombre biográfico completo 'Leopoldo O'Donnell y Joris' en lugar de solo 'Leopoldo O'Donnell'."
+    },
+    {
+      "en": "Avoid presenting 'O'Donnell neighbourhood' as an official neighbourhood unless a specific source is added; the official context here is the Retiro and Salamanca districts, especially Ibiza/Goya/Fuente del Berro around the station.",
+      "es": "Evitar presentar 'barrio de O'Donnell' como barrio oficial salvo que se añada una fuente específica; el contexto oficial aquí son los distritos de Retiro y Salamanca, especialmente Ibiza/Goya/Fuente del Berro en torno a la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming decree or council minute for Calle de O'Donnell was not located; inspecting historical Ayuntamiento records would strengthen the exact naming chronology.",
+      "es": "No se localizó el acuerdo municipal o acta de rotulación de la calle de O'Donnell; revisar documentación histórica del Ayuntamiento reforzaría la cronología exacta del nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_039/en/summary.short.md",
+      "summary": "content/stations/metro_039/en/summary.md",
+      "story": "content/stations/metro_039/en/story.md",
+      "confidence": "content/stations/metro_039/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_039/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_039/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_039/es/summary.short.md",
+      "summary": "content/stations/metro_039/es/summary.md",
+      "story": "content/stations/metro_039/es/story.md",
+      "confidence": "content/stations/metro_039/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_039/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_039/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The station name, location and 1929 opening are confirmed by Metro de Madrid sources, and a 1931 official gazette independently attests a nearby place called El Estrecho. The Gibraltar/Tetuán explanation is plausible and supported by local historical writing, but no primary naming act was found that explicitly states this was an official dedication to the Strait of Gibraltar.

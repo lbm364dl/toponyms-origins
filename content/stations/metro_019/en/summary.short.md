@@ -1,0 +1,1 @@
+Eugenia de Montijo station is named for the nearby Carabanchel street and park that commemorate Eugenia María Guzmán y Portocarrero, the Granada-born aristocrat who became Empress of the French in 1853. The name also points to the former Quinta de Miranda, the Montijo family estate in Carabanchel.

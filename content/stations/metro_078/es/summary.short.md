@@ -1,0 +1,1 @@
+La estación de Usera lleva el nombre del distrito madrileño al que da servicio. El nombre del distrito procede en última instancia de Marcelo de Usera y Sánchez, militar y promotor urbano vinculado a la parcelación de antiguos terrenos agrícolas de Villaverde en los años veinte.

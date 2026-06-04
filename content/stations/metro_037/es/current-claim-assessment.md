@@ -1,0 +1,1 @@
+La explicación actual es sustancialmente correcta, pero da demasiado peso a la plaza de toros. El nombre de la estación ya existía cuando abrió en 1924 y se explica mejor por el topónimo anterior Las Ventas del Espíritu Santo, ligado a ventas de camino junto al Abroñigal y la carretera de Alcalá/Aragón.

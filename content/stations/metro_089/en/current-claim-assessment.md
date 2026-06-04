@@ -1,0 +1,1 @@
+The central claim is correct: the station is named for the Banco de España headquarters beside Plaza de Cibeles. The row should refine the building style, note the 3 March 1891 inauguration date, and treat the popular gold-vault detail more cautiously.

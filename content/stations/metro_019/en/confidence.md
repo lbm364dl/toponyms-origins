@@ -1,0 +1,1 @@
+The person behind the name is directly supported by the RAH-Metro biographical project, municipal street-name records, and transport chronology. The exact legal act assigning the station name was not found, but the station opened under this name in 1999 and the surrounding street and park name provide the local naming context.

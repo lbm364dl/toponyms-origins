@@ -1,0 +1,1 @@
+La afirmación existente es sustancialmente correcta: la estación toma el nombre de la plaza de Chueca y, en último término, del compositor madrileño de zarzuela Federico Chueca. Conviene reforzar las fuentes y matizar que los valses compuestos en prisión fueron un éxito temprano, no literalmente el inicio de su carrera musical, y que La Gran Vía fue escrita con Joaquín Valverde.

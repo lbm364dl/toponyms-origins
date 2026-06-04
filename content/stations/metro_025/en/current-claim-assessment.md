@@ -1,0 +1,1 @@
+The core claim is verified: the station was originally Lima and was renamed for Santiago Bernabéu, through the nearby stadium that already bore his name. The main nuance is chronological: contemporary press records the public renaming act on 18 December 1997, while later official regional pages often summarize the change as 1998.
