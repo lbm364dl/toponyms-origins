@@ -1,0 +1,1 @@
+La etimología directa de la estación por el barrio y la avenida es segura, y las fuentes oficiales de Madrid y Renfe sostienen la cronología. La dedicatoria a la madre de los promotores es detallada y procede de memoria local, pero no es primaria; además, entra en tensión con una fuente municipal del callejero que explica la avenida de Santa Eugenia como nombre de santa.

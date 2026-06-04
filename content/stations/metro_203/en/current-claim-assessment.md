@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for the Rivas Futura urban/commercial development in Rivas-Vaciamadrid. However, the row gives the station opening year as 2006; contemporary and transport sources show the station opened on 11 July 2008, while the commercial park itself opened in 2006.

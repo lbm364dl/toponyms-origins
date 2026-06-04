@@ -1,0 +1,1 @@
+El nombre actual de la estación, el operador, la ubicación y el servicio C-7/C-10 están confirmados por fuentes de Renfe, Adif y CRTM; el significado lingüístico de barrial está confirmado por la RAE. El contexto del centro comercial está sólidamente respaldado por prensa contemporánea, aunque la fecha exacta del cambio de nombre sigue menos documentada de forma directa.

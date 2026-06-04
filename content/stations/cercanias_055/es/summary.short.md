@@ -1,0 +1,1 @@
+Móstoles-El Soto toma su nombre de Móstoles y de la zona local de El Soto. En español, un soto es un paraje arbolado de ribera o vega, significado que encaja con el corredor del arroyo del Soto y el cercano Parque Natural El Soto.

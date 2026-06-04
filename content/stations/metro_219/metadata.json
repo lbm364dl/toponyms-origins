@@ -1,0 +1,125 @@
+{
+  "id": "metro_219",
+  "name": "Pan Bendito",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pan Bendito neighbourhood/Colonia de Pan Bendito in Carabanchel",
+  "previous_names": "",
+  "naming_date": "16 November 1998",
+  "sources": [
+    {
+      "title": "CRTM - Pan Bendito station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_208",
+      "type": "official",
+      "relevance_en": "Confirms the current station, Line 11 service, location at Avenida de Abrantes/Besolla, accesses and interchange data.",
+      "relevance_es": "Confirma la estación actual, el servicio de la línea 11, la ubicación en avenida de Abrantes/Besolla, los accesos y las correspondencias."
+    },
+    {
+      "title": "Comunidad de Madrid - Nueva Línea 11. Tramo Plaza Elíptica-Pan Bendito",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-11-tramo-plaza-eliptica-pan-bendito",
+      "type": "official",
+      "relevance_en": "Documents the Line 11 project, the three original stations and the construction of the Plaza Elíptica-Pan Bendito section.",
+      "relevance_es": "Documenta el proyecto de la línea 11, las tres estaciones originales y la construcción del tramo Plaza Elíptica-Pan Bendito."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives the official service date for the Plaza Elíptica-Pan Bendito Line 11 section: 16 November 1998.",
+      "relevance_es": "Da la fecha oficial de puesta en servicio del tramo Plaza Elíptica-Pan Bendito de la línea 11: 16 de noviembre de 1998."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - PIBAs Carabanchel Info 2019",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Fondo_Reequilibrio_Territorial/Folleto_Carabanchel/PIBAs_Carabanchel_Info-2019.pdf",
+      "type": "official",
+      "relevance_en": "Places Pan Bendito in Carabanchel and summarizes the 1957 and 1963 housing operations, the UVA, and later barrio-remodelling context.",
+      "relevance_es": "Sitúa Pan Bendito en Carabanchel y resume las operaciones de vivienda de 1957 y 1963, la UVA y el contexto posterior de remodelación de barrios."
+    },
+    {
+      "title": "FRAVM/Ayuntamiento de Madrid - Plan de Barrio de Pan Bendito, Carabanchel, 2009",
+      "url": "https://fravm.org/documentos/110/planes-de-barrio-2009-2012/50667/plan-de-barrio-de-pan-bendito-carabanchel-2009-06-22.pdf",
+      "type": "official",
+      "relevance_en": "Provides neighbourhood context, including the annexation of Carabanchel Alto and Bajo on 29 April 1948 and the social profile of Pan Bendito.",
+      "relevance_es": "Aporta contexto vecinal, incluida la anexión de Carabanchel Alto y Bajo el 29 de abril de 1948 y el perfil social de Pan Bendito."
+    },
+    {
+      "title": "El País - Los siete pecados capitales de Pan Bendito",
+      "url": "https://elpais.com/diario/2010/03/14/madrid/1268569454_850215.html",
+      "type": "press",
+      "relevance_en": "Gives a direct published local explanation that Pan Bendito owes its name to extensive wheat fields formerly occupying the land.",
+      "relevance_es": "Ofrece una explicación local publicada según la cual Pan Bendito debe su nombre a los extensos campos de trigo que ocupaban sus tierras."
+    },
+    {
+      "title": "Juan Manuel Montilla 'El Langui', 16 escalones antes de irme a la cama, first chapter excerpt",
+      "url": "https://karabanchel.com/wp-content/uploads/2013/07/primer-capc3adtulo-16-escalones-el-langui.pdf",
+      "type": "book",
+      "relevance_en": "Autobiographical local testimony explaining the name through former wheat fields, bread loaves, and the sacred status of bread; useful as oral/local lore, not as archival proof.",
+      "relevance_es": "Testimonio autobiográfico local que explica el nombre por antiguos trigales, hogazas de pan y el carácter sagrado del pan; útil como memoria local, no como prueba archivística."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Parroquia San Benito Abad",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Carabanchel/Direcciones-y-telefonos/Parroquia-San-Benito-Abad/?vgnextchannel=1721d47ffee28010VgnVCM100000dc0ca8c0RCRD&vgnextoid=2b8713db5b71c010VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the nearby San Benito Abad parish at Calle Besolla in Abrantes/Carabanchel and lists Pan Bendito Metro as the nearest station.",
+      "relevance_es": "Confirma la parroquia cercana de San Benito Abad en la calle Besolla, en Abrantes/Carabanchel, y señala Pan Bendito como estación de Metro más próxima."
+    },
+    {
+      "title": "Real Academia Española - bendecir, Diccionario del estudiante",
+      "url": "https://www.rae.es/diccionario-estudiante/bendecir",
+      "type": "reference",
+      "relevance_en": "Clarifies the religious sense of 'bendecir' as invoking divine grace or consecrating something, supporting the meaning of 'bendito' but not the specific toponym.",
+      "relevance_es": "Aclara el sentido religioso de 'bendecir' como invocar la gracia divina o consagrar algo, lo que apoya el significado de 'bendito' pero no el topónimo concreto."
+    },
+    {
+      "title": "Ministerio de Cultura - La procesión de las panbenditeras de Escatrón y Mazaleón-Massalió",
+      "url": "https://www.portalinmaterial.cultura.gob.es/ca/pci-ccaa/aragon/panbenditeras.html",
+      "type": "official",
+      "relevance_en": "Shows that ritual blessed-bread traditions exist in Spain, including bread carried, blessed and distributed, but does not connect that custom to Pan Bendito in Madrid.",
+      "relevance_es": "Muestra que existen en España tradiciones rituales de pan bendito, con pan llevado, bendecido y repartido, pero no conecta esa costumbre con Pan Bendito en Madrid."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station name primarily as a place-name, not directly as a religious dedication; the religious element belongs to the interpreted older toponym.",
+      "es": "Clasificar el nombre de la estación principalmente como topónimo de lugar, no como una advocación religiosa directa; el elemento religioso pertenece a la interpretación del topónimo antiguo."
+    },
+    {
+      "en": "Soften the claim that the name likely refers to church distribution of blessed bread; I found no direct source linking that custom to the Madrid place-name.",
+      "es": "Matizar la afirmación de que el nombre probablemente alude al reparto eclesiástico de pan bendito; no he encontrado una fuente directa que vincule esa costumbre con el topónimo madrileño."
+    },
+    {
+      "en": "Use 16 November 1998 as the station/Line 11 opening date and naming-date proxy, supported by Community of Madrid sources.",
+      "es": "Usar el 16 de noviembre de 1998 como fecha de apertura de la estación y fecha aproximada de denominación, respaldada por fuentes de la Comunidad de Madrid."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A cadastral, parish, or pre-1950 map source should be inspected to determine when Pan Bendito first appears as a place-name.",
+      "es": "Conviene revisar una fuente catastral, parroquial o cartográfica anterior a 1950 para determinar cuándo aparece por primera vez Pan Bendito como topónimo."
+    },
+    {
+      "en": "No original municipal or transport naming resolution for the station name was located in this pass.",
+      "es": "En esta revisión no se localizó el acuerdo municipal o de transporte original que fijara el nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_219/en/summary.short.md",
+      "summary": "content/stations/metro_219/en/summary.md",
+      "story": "content/stations/metro_219/en/story.md",
+      "confidence": "content/stations/metro_219/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_219/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_219/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_219/es/summary.short.md",
+      "summary": "content/stations/metro_219/es/summary.md",
+      "story": "content/stations/metro_219/es/story.md",
+      "confidence": "content/stations/metro_219/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_219/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_219/es/research-note.md"
+    }
+  }
+}

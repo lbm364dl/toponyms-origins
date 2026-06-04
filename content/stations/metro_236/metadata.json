@@ -1,0 +1,103 @@
+{
+  "id": "metro_236",
+  "name": "El Casar",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Casar area and Avenida del Casar in Getafe Norte, from casar, an old Spanish word for a small group of houses",
+  "previous_names": "",
+  "naming_date": "11 April 2003",
+  "sources": [
+    {
+      "title": "Getafe Norte - Ayuntamiento de Getafe",
+      "url": "https://getafe.es/la-ciudad/poblacion/getafe-norte/",
+      "type": "official",
+      "relevance_en": "Confirms Getafe Norte's location, its construction in the mid and late 1990s, and that El Casar is a MetroSur station in the neighbourhood with Cercanias connection.",
+      "relevance_es": "Confirma la ubicacion de Getafe Norte, su construccion a mediados y finales de los años 1990, y que El Casar es una estacion de MetroSur en el barrio con conexion a Cercanias."
+    },
+    {
+      "title": "Historia de la ciudad de Getafe - Ayuntamiento de Getafe",
+      "url": "https://getafe.es/la-ciudad/historia/",
+      "type": "official",
+      "relevance_en": "Provides the broader urban chronology: Getafe's twentieth-century growth, Getafe Norte's late-1990s development, and Metro Line 12 opening in April 2003.",
+      "relevance_es": "Aporta la cronologia urbana general: el crecimiento de Getafe en el siglo XX, el desarrollo de Getafe Norte a finales de los años 1990 y la apertura de la linea 12 en abril de 2003."
+    },
+    {
+      "title": "BOE, 13 June 1991: concurso de obras de urbanizacion del sector UP-I «El Casar»",
+      "url": "https://www.boe.es/boe/dias/1991/06/13/pdfs/A19637-19648.pdf",
+      "type": "official",
+      "relevance_en": "Documents the name Sector UP-I \"El Casar\" in Getafe in 1991, before the later consolidation of Getafe Norte.",
+      "relevance_es": "Documenta el nombre sector UP-I \"El Casar\" en Getafe en 1991, antes de la consolidacion posterior de Getafe Norte."
+    },
+    {
+      "title": "casar - Diccionario de la lengua espanola, RAE-ASALE",
+      "url": "https://dle.rae.es/casar",
+      "type": "reference",
+      "relevance_en": "Defines casar as a group of houses that does not form a town, and gives the obsolete sense of a ruined settlement or remains of old buildings.",
+      "relevance_es": "Define casar como conjunto de casas que no llegan a formar pueblo, y recoge el sentido desusado de solar, pueblo arruinado o restos de edificios antiguos."
+    },
+    {
+      "title": "Casar, El - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/casar-el",
+      "type": "academic",
+      "relevance_en": "Explains El Casar as a place-name from casa plus the collective-abundancial suffix -ar, with the meaning of a small group of houses.",
+      "relevance_es": "Explica El Casar como topónimo formado a partir de casa mas el sufijo colectivo-abundancial -ar, con el significado de conjunto reducido de viviendas."
+    },
+    {
+      "title": "El Casar - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_103?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the station name, access at Avenida del Casar in Getafe, and interchange with Metro Line 12 and Cercanias C-3.",
+      "relevance_es": "Confirma el nombre de la estacion, el acceso por avenida del Casar en Getafe y la correspondencia con la linea 12 de Metro y Cercanias C-3."
+    },
+    {
+      "title": "La Ampliacion del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives the MetroSur/Line 12 opening date as 11 April 2003 and describes the 40-kilometre, 28-station project.",
+      "relevance_es": "Da la fecha de puesta en servicio de MetroSur/linea 12, 11 de abril de 2003, y describe el proyecto de 40 kilometros y 28 estaciones."
+    },
+    {
+      "title": "Prolongacion de la Linea 3 del Metro de Madrid a El Casar - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/prolongacion-linea-3-metro-madrid-casar",
+      "type": "official",
+      "relevance_en": "Confirms the Line 3 extension to El Casar, the connection between Lines 3 and 12, Cercanias C-3, buses and the new intermodal area.",
+      "relevance_es": "Confirma la prolongacion de la linea 3 a El Casar, la conexion entre las lineas 3 y 12, Cercanias C-3, autobuses y la nueva area intermodal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat El Casar as an area or urban sector within Getafe Norte rather than as a separate official Getafe neighbourhood, unless a local administrative source is found that uses it as a neighbourhood name.",
+      "es": "Conviene tratar El Casar como zona o sector urbanistico dentro de Getafe Norte, no como barrio oficial independiente de Getafe, salvo que aparezca una fuente administrativa local que lo use como nombre de barrio."
+    },
+    {
+      "en": "The station is now served by Metro Line 3 as well as Line 12 and Cercanias C-3; Line 3 reached El Casar in 2025, after the original 2003 MetroSur opening.",
+      "es": "La estacion esta servida actualmente por la linea 3 de Metro ademas de la linea 12 y Cercanias C-3; la linea 3 llego a El Casar en 2025, despues de la apertura original de MetroSur en 2003."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning file or street-naming record for Sector UP-I \"El Casar\" could clarify whether the urban sector reused an older field-name, estate name, or rural microtoponym.",
+      "es": "Un expediente municipal de planeamiento o de denominacion viaria del sector UP-I \"El Casar\" podria aclarar si el sector reutilizo un nombre de paraje, finca o microtopónimo rural anterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_236/en/summary.short.md",
+      "summary": "content/stations/metro_236/en/summary.md",
+      "story": "content/stations/metro_236/en/story.md",
+      "confidence": "content/stations/metro_236/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_236/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_236/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_236/es/summary.short.md",
+      "summary": "content/stations/metro_236/es/summary.md",
+      "story": "content/stations/metro_236/es/story.md",
+      "confidence": "content/stations/metro_236/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_236/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_236/es/research-note.md"
+    }
+  }
+}

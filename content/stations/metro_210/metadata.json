@@ -1,0 +1,111 @@
+{
+  "id": "metro_210",
+  "name": "Ronda de la Comunicación",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Ronda de la Comunicación, the street serving Telefónica's Distrito Telefónica campus in Las Tablas",
+  "previous_names": "Projected as \"Distrito C\" in Telefónica 2005 material; Telefónica's 2006 annual report uses \"Ronda de Comunicaciones\". No official former station name found.",
+  "naming_date": "2007; current name in use at MetroNorte opening/entry into service, with sources varying between 23 and 26 April 2007",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport page listing MetroNorte, its entry into service in April 2007, and Ronda de la Comunicación among the eleven new Line 10 stations.",
+      "relevance_es": "Página oficial regional de transporte que enumera MetroNorte, su puesta en servicio en abril de 2007 y Ronda de la Comunicación entre las once nuevas estaciones de la línea 10."
+    },
+    {
+      "title": "Telefónica Annual Report 2006, English version",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2021/08/version_inglesa-2006.pdf",
+      "type": "official",
+      "relevance_en": "States that by April 2007 the new metro station had opened and that Telefónica invested 14 million euros in the underground station serving Distrito C.",
+      "relevance_es": "Indica que en abril de 2007 ya se había abierto la nueva estación de metro y que Telefónica invirtió 14 millones de euros en la estación subterránea que daba servicio a Distrito C."
+    },
+    {
+      "title": "Telefónica Informe de Responsabilidad Corporativa 2006",
+      "url": "https://www.telefonica.com/es/wp-content/uploads/sites/4/2021/07/informeresponsabilidadcorporativa06.pdf",
+      "type": "official",
+      "relevance_en": "Spanish corporate report confirming Distrito C context, transport concerns, the station reference, and Telefónica's 14 million euro metro investment.",
+      "relevance_es": "Informe corporativo en español que confirma el contexto de Distrito C, las necesidades de transporte, la referencia a la estación y la inversión de 14 millones de euros de Telefónica en el metro."
+    },
+    {
+      "title": "Telefónica - Biodiversity in the Telefónica District",
+      "url": "https://www.telefonica.com/en/communication-room/blog/biodiversity-in-the-telefonica-district/",
+      "type": "official",
+      "relevance_en": "Current Telefónica source locating Distrito Telefónica in Las Tablas with Line 10 stop Ronda de la Comunicación and identifying Rafael de la Hoz and the 2004-2008 construction period.",
+      "relevance_es": "Fuente actual de Telefónica que sitúa Distrito Telefónica en Las Tablas con parada de la línea 10 en Ronda de la Comunicación e identifica a Rafael de la Hoz y el periodo de construcción 2004-2008."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Plan Especial para el edificio situado en la Ronda de la Comunicación 5",
+      "url": "https://transparencia.madrid.es/portales/transparencia/es/Transparencia-por-sectores/Urbanismo-Obras/Plan-Especial-para-el-edificio-situado-en-la-Ronda-de-la-Comunicacion-5/?vgnextchannel=f6e9508929a56510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=0d13c3025cfd5710VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal transparency record confirming Ronda de la Comunicación as an official Madrid address in Fuencarral.",
+      "relevance_es": "Registro de transparencia municipal que confirma Ronda de la Comunicación como dirección oficial de Madrid en Fuencarral."
+    },
+    {
+      "title": "ARQA - Distrito C de Telefónica, Madrid",
+      "url": "https://arqa.com/arquitectura/distrito-c-de-telefonica-madrid.html",
+      "type": "reference",
+      "relevance_en": "Architecture source describing Distrito C, Rafael de la Hoz, the Ronda de la Comunicación address, and the design role of the public metro station in the campus atrium.",
+      "relevance_es": "Fuente arquitectónica que describe Distrito C, a Rafael de la Hoz, la dirección de Ronda de la Comunicación y el papel de la estación pública de metro en el atrio del campus."
+    },
+    {
+      "title": "UNED - De Gran Vía al Distrito C: El patrimonio arquitectónico de Telefónica",
+      "url": "https://portalcientifico.uned.es/documentos/5f63fc7a29995274fc8e73a7",
+      "type": "academic",
+      "relevance_en": "Academic doctoral thesis record on Telefónica's architectural heritage, useful background for Distrito C as the endpoint of Telefónica's built corporate history.",
+      "relevance_es": "Registro académico de una tesis doctoral sobre el patrimonio arquitectónico de Telefónica, útil como contexto para Distrito C dentro de la historia edificada de la compañía."
+    },
+    {
+      "title": "FENERCOM - Proyecto fotovoltaico en Distrito C",
+      "url": "https://www.fenercom.com/proyectos/page/3/",
+      "type": "official",
+      "relevance_en": "Energy-sector source clarifying the photovoltaic installation figures: more than 16,400 panels, about 57,000 m2 of canopy, 21,000 m2 of panels, and 3.8 GWh/year generation.",
+      "relevance_es": "Fuente del sector energético que aclara las cifras de la instalación fotovoltaica: más de 16.400 paneles, unos 57.000 m² de marquesina, 21.000 m² de paneles y 3,8 GWh/año de generación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state without qualification that the photovoltaic panels covered 3.8 hectares; the stronger energy sources found give 3.8 GWh/year of generation, about 57,000 m2 of canopy and about 21,000 m2 occupied by panels.",
+      "es": "No conviene afirmar sin matiz que los paneles fotovoltaicos cubrían 3,8 hectáreas; las fuentes energéticas más sólidas localizadas dan 3,8 GWh/año de generación, unos 57.000 m² de marquesina y unos 21.000 m² ocupados por paneles."
+    },
+    {
+      "en": "Opening chronology should mention the discrepancy: the Community of Madrid page gives 23 April 2007 for MetroNorte's entry into service, while station-oriented sources often give 26 April 2007.",
+      "es": "La cronología de apertura debe mencionar la discrepancia: la página de la Comunidad de Madrid da el 23 de abril de 2007 para la puesta en servicio de MetroNorte, mientras que fuentes centradas en la estación suelen dar el 26 de abril de 2007."
+    },
+    {
+      "en": "The claim that the name reflects branding before the 2011 rename should be softened: the station name directly follows the street; the communications theme aligns with Distrito C/Distrito de las Comunicaciones, later Distrito Telefónica.",
+      "es": "La afirmación de que el nombre refleja la marca anterior al cambio de 2011 debe suavizarse: el nombre de la estación procede directamente de la vía; el tema de las comunicaciones encaja con Distrito C/Distrito de las Comunicaciones, luego Distrito Telefónica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or Metro/CRTM naming resolution for Ronda de la Comunicación would make the exact naming date fully documentary.",
+      "es": "Un expediente municipal de denominación viaria o una resolución de Metro/CRTM sobre el nombre Ronda de la Comunicación permitiría documentar con precisión la fecha exacta de denominación."
+    },
+    {
+      "en": "The variant \"Ronda de Comunicaciones\" in Telefónica's 2006 annual report appears to be a wording variant or error, but an official opening brochure should be checked to rule out a brief provisional name.",
+      "es": "La variante \"Ronda de Comunicaciones\" en la memoria anual de Telefónica de 2006 parece una variante de redacción o un error, pero convendría revisar un folleto oficial de apertura para descartar un nombre provisional breve."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_210/en/summary.short.md",
+      "summary": "content/stations/metro_210/en/summary.md",
+      "story": "content/stations/metro_210/en/story.md",
+      "confidence": "content/stations/metro_210/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_210/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_210/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_210/es/summary.short.md",
+      "summary": "content/stations/metro_210/es/summary.md",
+      "story": "content/stations/metro_210/es/story.md",
+      "confidence": "content/stations/metro_210/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_210/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_210/es/research-note.md"
+    }
+  }
+}

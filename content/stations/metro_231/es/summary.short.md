@@ -1,0 +1,1 @@
+Fuenlabrada Central debe su nombre a su función como estación central e intercambiador de MetroSur en Fuenlabrada. El topónimo municipal significa 'fuente labrada', por una antigua fuente de piedra recordada en la documentación de época moderna.

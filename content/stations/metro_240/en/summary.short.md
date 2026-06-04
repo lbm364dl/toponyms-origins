@@ -1,0 +1,1 @@
+Casa del Reloj is named after the Leganés Town Hall administrative building beside the station on Avenida de Gibraltar. The building, inaugurated in 1994, is a major municipal service point and is identifiable by the clock that gives it its popular name.

@@ -1,0 +1,1 @@
+Las Matas is named for a local landscape name meaning thickets or scrubland. The railway made the place into a lasting settlement after the Madrid-El Escorial line opened in 1861 and the classification yard and workers' village followed in the early 20th century.

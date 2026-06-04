@@ -1,0 +1,1 @@
+The station is named after the municipality of El Escorial. The place name is disputed, but Toponomasticon Hispaniae currently favours a derivation from scoria, slag or waste, linked to old ironworking and charcoal contexts around La Herrería.

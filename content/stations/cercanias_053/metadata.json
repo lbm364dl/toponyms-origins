@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_053",
+  "name": "Las Retamas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Avenida de las Retamas / Las Retamas area in Alcorcon, from retama, a broom shrub",
+  "previous_names": "",
+  "naming_date": "2002-07-31 inauguration as Las Retamas; Renfe says opened to the public in 2003",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanias Madrid: Estacion de Las Retamas",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-las-retamas",
+      "type": "official",
+      "relevance_en": "Places the station beside Parque Oeste in Alcorcon, on an embankment at Avenida de Mostoles and Avenida de las Retamas, and states that it opened to the public in 2003 on C-5.",
+      "relevance_es": "Sitúa la estación junto a Parque Oeste en Alcorcón, sobre un terraplén en la avenida de Móstoles con la avenida de las Retamas, e indica que se abrió al público en 2003 en la C-5."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Las Retamas",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_66/?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current transport identity of Las Retamas: Cercanias C-5, fare zone B1, Alcorcon accesses at Calle de Berlin and Avenida de Retamas, and current interurban bus connections.",
+      "relevance_es": "Confirma la identidad actual de transporte de Las Retamas: Cercanías C-5, zona tarifaria B1, accesos en Alcorcón por calle de Berlín y avenida de Retamas, y correspondencias interurbanas actuales."
+    },
+    {
+      "title": "El Pais: El nuevo apeadero de Parque Oeste eleva a tres las estaciones de Renfe en Alcorcon",
+      "url": "https://elpais.com/diario/2002/08/01/madrid/1028201060_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report documenting the inauguration of Las Retamas on 31 July 2002, its purpose serving Parque Oeste and new housing, and the 4.8 million euro works budget.",
+      "relevance_es": "Crónica contemporánea que documenta la inauguración de Las Retamas el 31 de julio de 2002, su función de servicio a Parque Oeste y nuevas viviendas, y el presupuesto de obra de 4,8 millones de euros."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcon / Archivo Municipal: El ferrocarril",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2024-07/Documento%20mes%20febrero_trenes.pdf",
+      "type": "official",
+      "relevance_en": "Municipal archive note placing the Las Retamas station works in the 1999 and 2000 project period and identifying it as Alcorcon's third railway station.",
+      "relevance_es": "Nota del Archivo Municipal que sitúa las obras de Las Retamas en proyectos de 1999 y 2000 y la identifica como la tercera estación ferroviaria de Alcorcón."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua espanola: retama",
+      "url": "https://dle.rae.es/retama",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source for the word retama, its Andalusi Arabic and classical Arabic etymology, and its definition as a common Spanish broom shrub.",
+      "relevance_es": "Fuente léxica autorizada para la palabra retama, su etimología desde el árabe hispánico y el árabe clásico, y su definición como mata común en España."
+    },
+    {
+      "title": "Comunidad de Madrid: Retama comun (Retama sphaerocarpa)",
+      "url": "https://www.comunidad.madrid/sites/default/files/doc/medio-ambiente/retama_comun.pdf",
+      "type": "official",
+      "relevance_en": "Official botanical sheet describing Retama sphaerocarpa as a 1-3 m shrub with yellow flowers, Mediterranean habitat, broad Iberian distribution, and traditional uses.",
+      "relevance_es": "Ficha botánica oficial que describe Retama sphaerocarpa como arbusto de 1-3 m con flores amarillas, hábitat mediterráneo, amplia distribución ibérica y usos tradicionales."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcon: Retro_streets",
+      "url": "https://www.ayto-alcorcon.es/en/retrostreets",
+      "type": "official",
+      "relevance_en": "Municipal archive page showing historical photo entries for Las Retamas Station and Avenida Las Retamas, useful evidence that both the station and avenue are established Alcorcon places.",
+      "relevance_es": "Página del Archivo Municipal con entradas fotográficas históricas de la estación de Las Retamas y la avenida Las Retamas, prueba útil de que ambas son referencias consolidadas de Alcorcón."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not describe the station as named after a Mostoles neighbourhood; the station and Avenida de las Retamas access are in Alcorcon.",
+      "es": "No conviene describir la estación como nombrada por un barrio de Móstoles; la estación y el acceso de la avenida de las Retamas están en Alcorcón."
+    },
+    {
+      "en": "Replace 'opened in 2003 on the C-5 extension' with a more cautious chronology: press reports inauguration on 31 July 2002, while Renfe says it opened to the public in 2003, on an already operating C-5 corridor.",
+      "es": "Sustituir 'se abrió en 2003 dentro de la ampliación de la C-5' por una cronología más prudente: la prensa documenta la inauguración el 31 de julio de 2002, mientras Renfe indica apertura al público en 2003, en un corredor C-5 ya en servicio."
+    },
+    {
+      "en": "The statement that bright yellow retama flowers once blanketed this exact site is plausible landscape colour but not directly proved by the sources found.",
+      "es": "La afirmación de que las flores amarillas de retama cubrían exactamente este lugar es plausible como contexto paisajístico, pero no queda probada directamente por las fuentes localizadas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Alcorcon municipal street-naming records or planning files for Avenida de las Retamas to confirm whether the name was assigned for local vegetation, a thematic street-name series, or another reason.",
+      "es": "Consultar expedientes municipales de rotulación o planeamiento de Alcorcón sobre la avenida de las Retamas para confirmar si el nombre se asignó por vegetación local, por una serie temática del callejero u otra razón."
+    },
+    {
+      "en": "Check Adif/Renfe commissioning records to reconcile the 31 July 2002 inauguration reported by El Pais with Renfe's statement that the station opened to the public in 2003.",
+      "es": "Comprobar expedientes de puesta en servicio de Adif/Renfe para conciliar la inauguración del 31 de julio de 2002 publicada por El País con la afirmación de Renfe de que la estación se abrió al público en 2003."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_053/en/summary.short.md",
+      "summary": "content/stations/cercanias_053/en/summary.md",
+      "story": "content/stations/cercanias_053/en/story.md",
+      "confidence": "content/stations/cercanias_053/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_053/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_053/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_053/es/summary.short.md",
+      "summary": "content/stations/cercanias_053/es/summary.md",
+      "story": "content/stations/cercanias_053/es/story.md",
+      "confidence": "content/stations/cercanias_053/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_053/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_053/es/research-note.md"
+    }
+  }
+}

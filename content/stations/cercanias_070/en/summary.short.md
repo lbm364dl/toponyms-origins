@@ -1,0 +1,1 @@
+San Yago preserves the older visible parts of the name Santiago: sant/san plus Iago or Yago, the Iberian Romance form of James/Jacob. The station name is best read as a religious toponym, though the exact local act that fixed the railway halt's name has not been found.

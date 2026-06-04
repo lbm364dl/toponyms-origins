@@ -1,0 +1,9 @@
+The station name is best explained first as a campus name. Universidad Rey Juan Carlos is the Line 12 stop at Calle Tulipán in Móstoles, beside the access to the Móstoles campus of Universidad Rey Juan Carlos. The Community of Madrid's MetroSur documentation places the station there and describes it as close to the university campus access and Calle Alcalde de Móstoles.
+
+Behind that campus name is a legal institutional dedication. Madrid's Law 7/1996, dated 8 July 1996, created the Universidad «Rey Juan Carlos». The law did not need a separate etymological explanation: the chosen name publicly attached the new Madrid public university to King Juan Carlos I, then Spain's reigning monarch.
+
+The chronology matters because the university and the station belong to the same late-1990s and early-2000s southern Madrid expansion. URJC's own 25th-anniversary page says the university was born under its creation law and began academic activity in October 1997. Contemporary press coverage reported the official opening of the first course with 300 students and temporary borrowed buildings in Alcorcón and Móstoles, before the permanent campus fabric was complete.
+
+MetroSur then gave this new university landscape a rail address. Line 12 was planned as a circular metro linking Alcorcón, Móstoles, Fuenlabrada, Getafe and Leganés, and the regional transport page describes it as a major infrastructure for the southern metropolitan area. In Móstoles, the municipal mobility page lists Universidad Rey Juan Carlos as one of the town's Line 12 stations.
+
+For public interpretation, the station should not be described as if Metro independently named a stop after Juan Carlos I. It was named after the university campus, while the university itself is named for the king. No former station name was found; the present name appears to have been in use from the opening of MetroSur in 2003.

@@ -1,0 +1,1 @@
+Soto del Henares is named for the homonymous neighbourhood in eastern Torrejón de Ardoz. The name means a riverside grove or wooded riverbank on the Henares, a landscape echoed by the nearby river corridor and by the older Soto del Henares natural toponym.

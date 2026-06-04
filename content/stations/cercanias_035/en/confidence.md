@@ -1,0 +1,1 @@
+The direct station etymology from the neighbourhood and avenue is secure, and official Madrid and Renfe sources support the chronology. The claimed dedication to the promoters' mother is detailed and locally sourced but not primary; it is also in tension with a municipal street-name source that explains Avenida de Santa Eugenia as a saint's name.

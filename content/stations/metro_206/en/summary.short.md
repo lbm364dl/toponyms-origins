@@ -1,0 +1,1 @@
+Cuatro Vientos takes its name from the surrounding area and historic aerodrome. The deeper name comes from an older open plain recorded officially as the paramo known as 'A los Cuatro Vientos', literally 'to the four winds'.

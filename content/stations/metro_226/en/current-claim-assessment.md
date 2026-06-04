@@ -1,0 +1,1 @@
+The core claim is well supported: the station is in the old centre of Móstoles by Plaza del Pradillo, and the name ultimately relates to Spanish prado, from Latin pratum. The detailed sequence Plaza del Perezal/Pedreçal -> Pradillo del Caño is plausible but rests on secondary/local-history material that I could not verify in a primary archival document online.

@@ -1,0 +1,1 @@
+The station-to-park naming is strongly supported by Renfe and CRTM station information and by the geographic setting. The older place-name is well supported historically, but the detailed linguistic derivation in the input is not verified and is contradicted or softened by an academic toponymy discussion.

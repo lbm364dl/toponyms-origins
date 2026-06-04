@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_029",
+  "name": "Cantoblanco Universidad",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Cantoblanco locality and the Cantoblanco campus of the Universidad Autonoma de Madrid",
+  "previous_names": "Universidad Cantoblanco; Universidad-Cantoblanco; Cantoblanco Universidad; Canto Blanco / Cantoblanco as older place-name variants",
+  "naming_date": "3 December 1975 for the railway branch and station serving the UAM at Canto Blanco; exact date of later public-form variants not verified",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Cantoblanco Universidad",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_15/",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport listing as Cantoblanco Universidad, its C-4a/C-4b correspondences, address, zone and access information.",
+      "relevance_es": "Confirma la ficha actual de transporte público como Cantoblanco Universidad, sus correspondencias C-4a/C-4b, dirección, zona e información de accesos."
+    },
+    {
+      "title": "Renfe data station sheet: UNIVERSIDAD-CANTOBLANCO, code 17009",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion17009.pdf",
+      "type": "official",
+      "relevance_en": "Shows Renfe's station code 17009, the form Universidad-Cantoblanco, operator Renfe Viajeros, municipality Madrid and commercial lines C4A/C4B.",
+      "relevance_es": "Muestra el código de estación 17009, la forma Universidad-Cantoblanco, el explotador Renfe Viajeros, el municipio de Madrid y las líneas comerciales C4A/C4B."
+    },
+    {
+      "title": "Vía Libre: Nuevo ramal ferroviario Madrid-Canto Blanco",
+      "url": "https://vialibre-ffe.com/pdf/10452_pdf_06.pdf",
+      "type": "press",
+      "relevance_en": "Contemporary railway report documenting the 3 December 1975 inauguration of the branch and new station serving the university installations at Canto Blanco.",
+      "relevance_es": "Crónica ferroviaria contemporánea que documenta la inauguración el 3 de diciembre de 1975 del ramal y de la nueva estación al servicio de las instalaciones universitarias de Canto Blanco."
+    },
+    {
+      "title": "Universidad Autónoma de Madrid: Historia",
+      "url": "https://www.uam.es/uam/en/transparencia/informacion-institucional/historia",
+      "type": "official",
+      "relevance_en": "Gives UAM's institutional chronology: creation under Decreto-ley 5/1968, early dispersed faculties, and the 25 October 1971 inauguration of the Cantoblanco campus.",
+      "relevance_es": "Aporta la cronología institucional de la UAM: creación por el Decreto-ley 5/1968, primeras facultades dispersas e inauguración del campus de Cantoblanco el 25 de octubre de 1971."
+    },
+    {
+      "title": "BOE-A-1968-650: Decreto-ley 5/1968, de 6 de junio, sobre medidas urgentes de reestructuración universitaria",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1968-650",
+      "type": "official",
+      "relevance_en": "Primary legal source creating a new University of Madrid with the faculties that became the Universidad Autonoma de Madrid.",
+      "relevance_es": "Fuente legal primaria que crea una nueva Universidad de Madrid con las facultades que dieron origen a la Universidad Autónoma de Madrid."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Topónimos madrileños de origen celta: Aluche, Arganda, La Arganzuela, Argüelles, Tres Cantos, Cantoblanco', Anales del Instituto de Estudios Madrileños XLVI, 2006",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3015656.pdf",
+      "type": "academic",
+      "relevance_en": "Specialist toponymic source that directly discusses Cantoblanco and argues against a literal 'white stones' explanation, proposing a Celtic-Latin tautological formation.",
+      "relevance_es": "Fuente toponímica especializada que trata directamente Cantoblanco y rechaza la explicación literal de 'cantos blancos', proponiendo una formación tautológica celta-latina."
+    },
+    {
+      "title": "Biblioteca Digital Hispánica: Charles Clifford, Almenara de Canto blanco, 1856",
+      "url": "https://bdh.bne.es/bnesearch/detalle/bdh0000027844",
+      "type": "archive",
+      "relevance_en": "Archival photographic record showing the Canto Blanco place-name in Canal de Isabel II infrastructure before the UAM campus and railway station existed.",
+      "relevance_es": "Registro fotográfico de archivo que muestra el topónimo Canto Blanco en infraestructuras del Canal de Isabel II antes de que existieran el campus de la UAM y la estación ferroviaria."
+    },
+    {
+      "title": "Canal de Isabel II: El Canal. Patrimonio Histórico",
+      "url": "https://www.canaldeisabelsegunda.es/documents/portlet_file_entry/20143/El%2BCanal.%2BPatrimonio%2BHist%C3%B3rico.pdf/38a48046-61e1-e5b6-e201-522016e263aa",
+      "type": "official",
+      "relevance_en": "Official Canal de Isabel II publication referencing historic canal works including the Almenara de Canto Blanco, supporting the older local place-name context.",
+      "relevance_es": "Publicación oficial del Canal de Isabel II que menciona obras históricas del canal, incluida la Almenara de Canto Blanco, y respalda el contexto toponímico anterior."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as verified that Cantoblanco means 'white rock' or that it describes pale limestone terrain; a specialist toponymic article explicitly questions the 'white stones' explanation.",
+      "es": "No debe afirmarse como verificado que Cantoblanco signifique 'roca blanca' ni que describa terreno calizo pálido; un artículo toponímico especializado cuestiona expresamente la explicación de los 'cantos blancos'."
+    },
+    {
+      "en": "Treat the station as named after a place and a university campus, not simply as a descriptive landscape name.",
+      "es": "Conviene tratar la estación como nombre derivado de un lugar y de un campus universitario, no simplemente como un nombre descriptivo del paisaje."
+    },
+    {
+      "en": "Record the naming variation: CRTM uses Cantoblanco Universidad, while Renfe station data has Universidad-Cantoblanco.",
+      "es": "Debe registrarse la variación denominativa: el CRTM usa Cantoblanco Universidad, mientras que datos de Renfe recogen Universidad-Cantoblanco."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival check of Renfe timetables and station signage would be needed to date precisely when each form, Universidad Cantoblanco, Cantoblanco Universidad, and Universidad-Cantoblanco, was adopted.",
+      "es": "Haría falta una revisión archivística completa de horarios y cartelería de Renfe para fechar con precisión cuándo se adoptó cada forma: Universidad Cantoblanco, Cantoblanco Universidad y Universidad-Cantoblanco."
+    },
+    {
+      "en": "The Celtic/tautological interpretation of Cantoblanco is stronger than the simple 'white stone' claim, but it remains a scholarly hypothesis rather than a universally settled etymology.",
+      "es": "La interpretación celta o tautológica de Cantoblanco es más sólida que la simple explicación de 'canto blanco', pero sigue siendo una hipótesis académica y no una etimología universalmente cerrada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_029/en/summary.short.md",
+      "summary": "content/stations/cercanias_029/en/summary.md",
+      "story": "content/stations/cercanias_029/en/story.md",
+      "confidence": "content/stations/cercanias_029/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_029/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_029/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_029/es/summary.short.md",
+      "summary": "content/stations/cercanias_029/es/summary.md",
+      "story": "content/stations/cercanias_029/es/story.md",
+      "confidence": "content/stations/cercanias_029/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_029/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_029/es/research-note.md"
+    }
+  }
+}

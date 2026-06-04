@@ -1,0 +1,115 @@
+{
+  "id": "cercanias_055",
+  "name": "Móstoles-El Soto",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Móstoles + El Soto, the local El Soto area named for a wooded riverside/floodplain landscape associated with the Arroyo del Soto and Parque Natural El Soto",
+  "previous_names": "Villaviciosa de Odón",
+  "naming_date": "Current-name assignment date not confirmed in authoritative sources; Renfe states the station opened in 1984 under the name Villaviciosa de Odón.",
+  "sources": [
+    {
+      "title": "Renfe - Estación de Móstoles el Soto",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-mostoles-el-soto",
+      "type": "official",
+      "relevance_en": "Renfe locates the station in the El Soto neighbourhood of Móstoles, identifies it as a C-5 station, and states that it opened in 1984 under the name Villaviciosa de Odón.",
+      "relevance_es": "Renfe ubica la estación en el barrio de El Soto de Móstoles, la identifica como estación de la C-5 y afirma que se inauguró en 1984 con el nombre de Villaviciosa de Odón."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 35607 MOSTOLES-EL SOTO",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35607.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the station code 35607, official station name MOSTOLES-EL SOTO, operator Renfe Viajeros, municipality Móstoles, coordinates, and commercial line C5.",
+      "relevance_es": "Confirma el código de estación 35607, el nombre oficial MOSTOLES-EL SOTO, el explotador Renfe Viajeros, el municipio de Móstoles, las coordenadas y la línea comercial C5."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Parque Natural El Soto",
+      "url": "https://www.mostoles.es/es/ayuntamiento/concejalias/concejalia-seguridad-emergencias-medioambiente/parques-jardines/parques-mostoles/visita-parques/parque-natural-soto",
+      "type": "official",
+      "relevance_en": "Documents the municipal Parque Natural El Soto in the western district and gives its current surface as 387,716 square metres and its classification as a singular park.",
+      "relevance_es": "Documenta el Parque Natural El Soto municipal en el distrito Oeste y da su superficie actual de 387.716 metros cuadrados y su catalogación como parque singular."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Vía Verde Arroyo del Soto",
+      "url": "https://www.mostoles.es/es/ayuntamiento/ciudad/galeria-imagenes/parques-jardines/via-verde-arroyo-soto",
+      "type": "official",
+      "relevance_en": "Shows the continued official use of the Arroyo del Soto toponym and places the greenway between Parque Natural de El Soto and Colonia Parque Guadarrama.",
+      "relevance_es": "Muestra el uso oficial continuado del topónimo arroyo del Soto y sitúa la vía verde entre el Parque Natural de El Soto y la Colonia Parque Guadarrama."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española, 'soto'",
+      "url": "https://dle.rae.es/soto",
+      "type": "reference",
+      "relevance_en": "Defines 'soto' as a wooded place, especially in riverbanks or floodplains, and gives the etymology from Latin saltus, 'wood, forest'.",
+      "relevance_es": "Define 'soto' como un sitio arbolado, especialmente de riberas o vegas, y da la etimología desde el latín saltus, 'bosque, selva'."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Historia de Móstoles",
+      "url": "https://www.mostoles.es/es/ayuntamiento/ciudad/historia-mostoles",
+      "type": "official",
+      "relevance_en": "Provides municipal historical context: early references to Móstoles, older wooded municipal lands including El Soto, the 1891 Madrid-Almorox railway, and a nuanced account of the 2 May 1808 proclamation.",
+      "relevance_es": "Aporta contexto histórico municipal: primeras referencias a Móstoles, antiguas arboledas municipales como El Soto, el ferrocarril Madrid-Almorox de 1891 y una explicación matizada del bando del 2 de mayo de 1808."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Estudio de incidencia ambiental, Arroyo de El Soto",
+      "url": "https://www.mostoles.es/es/ayuntamiento/concejalias/concejalia-urbanismo-vivienda-patrimonio-mantenimiento-ciud/gerencia-municipal-urbanismo-gmu/documentos-interes/estudios-incidencia-ambiental.ficheros/877653-Hidrol%C3%B3gico.pdf",
+      "type": "official",
+      "relevance_en": "Describes the Arroyo del Soto basin within Móstoles, its course toward the Guadarrama, and its canalized urban section as a green corridor ending at Parque Natural del Soto.",
+      "relevance_es": "Describe la cuenca del arroyo del Soto dentro de Móstoles, su recorrido hacia el Guadarrama y su tramo urbano canalizado como corredor verde que termina en el Parque Natural del Soto."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Cercanías, Plan de Movilidad Urbana Sostenible",
+      "url": "https://www.mostoles.es/Plan_Movilidad/es/movilidad-mostoles/transportes/cercanias",
+      "type": "official",
+      "relevance_en": "Confirms the municipal list of Cercanias stations in Móstoles, including Móstoles-El Soto, and the C-5 service context.",
+      "relevance_es": "Confirma la relación municipal de estaciones de Cercanías en Móstoles, incluida Móstoles-El Soto, y el contexto de servicio de la C-5."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the origin as a place/toponym rather than merely descriptive: the station is named for the El Soto area of Móstoles, whose name is descriptive in origin.",
+      "es": "Clasificar el origen como lugar/topónimo, no solo como descriptivo: la estación recibe el nombre de la zona de El Soto de Móstoles, cuyo topónimo sí tiene origen descriptivo."
+    },
+    {
+      "en": "Replace the 44-hectare park figure with the current municipal figure of 387,716 square metres, about 38.8 hectares, unless another dated source is intentionally used.",
+      "es": "Sustituir la cifra de 44 hectáreas por la cifra municipal actual de 387.716 metros cuadrados, unas 38,8 hectáreas, salvo que se use deliberadamente otra fuente fechada."
+    },
+    {
+      "en": "Add the former station name Villaviciosa de Odón, documented by Renfe.",
+      "es": "Añadir el antiguo nombre de la estación, Villaviciosa de Odón, documentado por Renfe."
+    },
+    {
+      "en": "Shorten the 2 May 1808 material in the station etymology: it is municipal context for Móstoles, not the origin of El Soto or of the station name.",
+      "es": "Reducir el material sobre el 2 de mayo de 1808 en la etimología de la estación: es contexto municipal de Móstoles, no el origen de El Soto ni del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find an official timetable, CRTM notice, Renfe circular, or archival map proving the exact date when Villaviciosa de Odón was renamed Móstoles-El Soto.",
+      "es": "Localizar un horario oficial, aviso del CRTM, circular de Renfe o mapa de archivo que pruebe la fecha exacta en que Villaviciosa de Odón pasó a llamarse Móstoles-El Soto."
+    },
+    {
+      "en": "If the 44-hectare figure is retained, identify its source and date; the current municipal page gives 387,716 square metres.",
+      "es": "Si se mantiene la cifra de 44 hectáreas, identificar su fuente y fecha; la página municipal actual da 387.716 metros cuadrados."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_055/en/summary.short.md",
+      "summary": "content/stations/cercanias_055/en/summary.md",
+      "story": "content/stations/cercanias_055/en/story.md",
+      "confidence": "content/stations/cercanias_055/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_055/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_055/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_055/es/summary.short.md",
+      "summary": "content/stations/cercanias_055/es/summary.md",
+      "story": "content/stations/cercanias_055/es/story.md",
+      "confidence": "content/stations/cercanias_055/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_055/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_055/es/research-note.md"
+    }
+  }
+}

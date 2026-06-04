@@ -1,0 +1,9 @@
+The name **Parque Oeste** comes from the Alcorcón place of the same name, not from a person or a historical event. The station is on Line 12, MetroSur, and serves the western part of Alcorcón around Calle Estambul, Avenida de Europa, the commercial area and the Alcorcón campus of Universidad Rey Juan Carlos.
+
+The place-name predates the Metro station. A 1998 notice in the Spanish Official State Gazette explains that Alcorcón's Área de Centralidad, created through urban planning after the 1989 revision process, was already known as **Parque Oeste de Alcorcón**. That makes the station name a borrowing from an existing urban-development name rather than a name invented for the railway.
+
+Parque Oeste was one of the large late-20th-century metropolitan projects around Madrid's southern and western edge. Planning sources describe a 200-hectare area with commercial, residential, university, hospital and park uses. The project changed over time: early business-park and golf-course ideas gave way to a more mixed district, including housing near rail stations and the Universidad Rey Juan Carlos campus.
+
+The commercial side of the name became especially visible in the 1990s. Press coverage from 1996 described Parque Oeste-Alcorcón as one of the largest concentrations of large retail stores in the Madrid region, located between the Extremadura road and the future M-50/M-506 corridor. Later property information describes a retail hub developed in phases in 1994 and 1996, with more than 125,000 square metres of gross leasable area.
+
+The name can be translated literally as 'West Park', and it fits the area's position on Alcorcón's western side, near Móstoles. Still, the safest explanation is that the Metro station was named for the already established urban area called Parque Oeste. The exact official act that assigned the station name was not found, but the planning, transport and local-context evidence all point to the same place-name origin.

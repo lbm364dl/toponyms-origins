@@ -1,0 +1,1 @@
+The station's current name and municipality are confirmed by Renfe/Adif station data, and the agricultural meaning of roza is supported by the RAE dictionary, municipal history material, and toponymic reference material. Confidence is slightly limited only for the exact station naming act and for the more detailed slash-and-burn or Majadahonda contrast.

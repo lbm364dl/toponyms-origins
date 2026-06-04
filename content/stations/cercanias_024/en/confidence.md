@@ -1,0 +1,1 @@
+The station-name origin is verified because official railway and municipal sources identify Valdemoro as the station and municipality. The deeper place-name etymology is probable because Toponomasticon Hispaniae explicitly presents 'dark/dusky valley' as the strongest interpretation, while acknowledging that other readings are possible in some Valde-/moro names.

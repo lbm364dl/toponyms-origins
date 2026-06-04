@@ -1,0 +1,104 @@
+{
+  "id": "metro_203",
+  "name": "Rivas Futura",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Rivas Futura urban and commercial development in Rivas-Vaciamadrid",
+  "previous_names": "",
+  "naming_date": "2008-07-11 (opened under this name; the planned name was reported by 2006)",
+  "sources": [
+    {
+      "title": "CRTM - Rivas Futura station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_300?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 9 connection, fare zone B1, access points and interchange services.",
+      "relevance_es": "Confirma el nombre actual de la estación, su correspondencia con la línea 9, la zona tarifaria B1, los accesos y los servicios de conexión."
+    },
+    {
+      "title": "Ayuntamiento de Rivas-Vaciamadrid - Estación de Metro Rivas-Futura",
+      "url": "https://www.rivasciudad.es/equipamiento/estacion-de-metro-rivas-futura/",
+      "type": "official",
+      "relevance_en": "Municipal equipment page confirming the station, its Line 9 section and park-and-ride facilities.",
+      "relevance_es": "Página municipal de equipamientos que confirma la estación, su tramo de la línea 9 y los aparcamientos disuasorios."
+    },
+    {
+      "title": "Diario de Rivas - Quince años de la inauguración de la estación de Metro Rivas Futura",
+      "url": "https://www.diarioderivas.es/estacion-metro-rivas-futura/",
+      "type": "press",
+      "relevance_en": "Provides detailed local chronology: inauguration on 11 July 2008, first passenger service, project funding, and urban context.",
+      "relevance_es": "Aporta una cronología local detallada: inauguración el 11 de julio de 2008, inicio del servicio, financiación del proyecto y contexto urbano."
+    },
+    {
+      "title": "20minutos / Europa Press - La Línea 9 de Metro incorpora desde hoy la nueva estación de Rivas Futura",
+      "url": "https://www.20minutos.es/noticia/398151/0/metro/rivas/futura/",
+      "type": "press",
+      "relevance_en": "Contemporary 11 July 2008 report stating that the station was in the urbanization bearing its name and served the Rivas Futura/H2Ocio area.",
+      "relevance_es": "Crónica contemporánea del 11 de julio de 2008 que indica que la estación se ubicó en la urbanización que llevaba su nombre y daba servicio al entorno de Rivas Futura/H2Ocio."
+    },
+    {
+      "title": "Parque Comercial Rivas Futura - El parque",
+      "url": "https://parquerivasfutura.com/el-parque/",
+      "type": "other",
+      "relevance_en": "Identifies Rivas Futura as a commercial park in Rivas-Vaciamadrid, gives its 25 May 2006 opening date, surface area and Metro access.",
+      "relevance_es": "Identifica Rivas Futura como parque comercial en Rivas-Vaciamadrid, da su fecha de inauguración del 25 de mayo de 2006, superficie y acceso en Metro."
+    },
+    {
+      "title": "esmadrid - Centro Comercial H2O",
+      "url": "https://www.esmadrid.com/compras/centro-comercial-h2o",
+      "type": "official",
+      "relevance_en": "Official tourism page documenting H2O's 2007 opening, approximate 50,000 m2 size, leisure offer, 13 cinemas and Metro stop Rivas Futura.",
+      "relevance_es": "Página turística oficial que documenta la apertura de H2O en 2007, su tamaño aproximado de 50.000 m2, oferta de ocio, 13 cines y la parada de Metro Rivas Futura."
+    },
+    {
+      "title": "Ayuntamiento de Rivas-Vaciamadrid - Agenda Urbana Rivas 2030 Diagnóstico",
+      "url": "https://www.rivasciudad.es/agenda-urbana-rivas2030/diagnostico/",
+      "type": "official",
+      "relevance_en": "Provides official municipal context for Rivas's rapid demographic expansion from about 650 residents in 1980 to around 100,000.",
+      "relevance_es": "Aporta contexto municipal oficial sobre la rápida expansión demográfica de Rivas, de unos 650 habitantes en 1980 a alrededor de 100.000."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct the station opening year from 2006 to 2008; the station opened on 11 July 2008.",
+      "es": "Corregir el año de apertura de la estación de 2006 a 2008; la estación abrió el 11 de julio de 2008."
+    },
+    {
+      "en": "Keep 2006 only for the opening of Parque Comercial Rivas Futura, not for the Metro station.",
+      "es": "Mantener 2006 solo para la inauguración del Parque Comercial Rivas Futura, no para la estación de Metro."
+    },
+    {
+      "en": "Treat the explanation of “Futura” as a modern development/branding inference unless an official naming document is found.",
+      "es": "Tratar la explicación de “Futura” como una inferencia de marca y desarrollo moderno salvo que se localice un documento oficial de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal CRTM, Community of Madrid or municipal naming-resolution document could further confirm the administrative act by which the station name was assigned.",
+      "es": "Una resolución formal del CRTM, de la Comunidad de Madrid o del Ayuntamiento podría confirmar mejor el acto administrativo por el que se asignó el nombre de la estación."
+    },
+    {
+      "en": "The exact branding rationale for the word “Futura” was not found in an authoritative source.",
+      "es": "No se ha encontrado en una fuente autorizada la justificación exacta de marca de la palabra “Futura”."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_203/en/summary.short.md",
+      "summary": "content/stations/metro_203/en/summary.md",
+      "story": "content/stations/metro_203/en/story.md",
+      "confidence": "content/stations/metro_203/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_203/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_203/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_203/es/summary.short.md",
+      "summary": "content/stations/metro_203/es/summary.md",
+      "story": "content/stations/metro_203/es/story.md",
+      "confidence": "content/stations/metro_203/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_203/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_203/es/research-note.md"
+    }
+  }
+}

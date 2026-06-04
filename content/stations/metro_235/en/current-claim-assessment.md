@@ -1,0 +1,1 @@
+The row is broadly accurate: the station name points to the central interchange in Getafe, and the deeper origin of Getafe is genuinely uncertain. The Arabic 'jata' / long-street explanation is an old local tradition recorded in the Relaciones, but modern toponymic discussion treats it as unproven.

@@ -1,0 +1,1 @@
+Pan Bendito station is named after the Pan Bendito colony and neighbourhood area in Carabanchel. The older name is usually explained locally through former wheat fields and the idea of sacred or blessed bread, but the exact toponymic origin remains a folk explanation rather than a documented municipal naming act.

@@ -1,0 +1,1 @@
+Puente Alcocer is named for the local Puente Alcocer place-name by Calle Alcocer in Villaverde. The deeper name Alcocer belongs to the Arabic qasar/qusayr family of Iberian toponyms, meaning an alcazar or small fortified/palatial place.

@@ -1,0 +1,1 @@
+The station is named for its function: it serves terminals T1, T2 and T3 of Madrid-Barajas airport. It opened in 1999 as Aeropuerto and received its current more specific name on 3 May 2007, when Line 8 was extended to Aeropuerto T4.

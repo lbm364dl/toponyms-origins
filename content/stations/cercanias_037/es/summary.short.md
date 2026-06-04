@@ -1,0 +1,1 @@
+La estación toma su nombre de San Fernando de Henares, la localidad a la que da servicio. El topónimo procede del Real Sitio de San Fernando, creado en la década de 1740 en torno a una fábrica real de paños, y alude en último término a san Fernando III de Castilla y al río Henares.

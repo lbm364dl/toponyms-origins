@@ -1,0 +1,1 @@
+Aranjuez station is named after the royal town it serves, a place famous for its palace, gardens and Tagus-Jarama landscape. The town-name is probably rooted in medieval Aranz/Aranzuel and is often linked with Basque aranz/arantza, 'thorn' or 'hawthorn', although the etymology is not settled.

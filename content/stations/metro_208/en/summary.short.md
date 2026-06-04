@@ -1,0 +1,1 @@
+Begoña station takes its name from the nearby Virgen de Begoña housing estate in northern Madrid. That local name ultimately refers to Our Lady of Begoña, the Marian devotion associated with the Bilbao sanctuary and the patroness of Bilbao and Biscay.

@@ -1,0 +1,101 @@
+{
+  "id": "metro_228",
+  "name": "Loranca",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Loranca neighbourhood, Fuenlabrada, preserving the name of the medieval despoblado/hamlet of Loranca",
+  "previous_names": "No public former station name found; construction/planning sources used the working designation Fuenlabrada 1 (Loranca).",
+  "naming_date": "11 April 2003 (station opened with Line 12/MetroSur under the public name Loranca)",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page placing Loranca station inside the Loranca urbanization on Calle de la Alegria; it also reproduces the Fuenlabrada Relaciones Topograficas passage naming Loranca and Fregacedos as depopulated settlements linked to Fuenlabrada's foundation.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que sitúa la estación de Loranca dentro de la urbanización Loranca, en la calle de la Alegría; además reproduce el pasaje de las Relaciones Topográficas de Fuenlabrada que menciona Loranca y Fregacedos como despoblados vinculados a la fundación de Fuenlabrada."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid, Memoria 2003",
+      "url": "https://www.crtm.es/media/yn5fiero/memoria_crtm_2003.pdf",
+      "type": "official",
+      "relevance_en": "Official transport annual report documenting the opening of MetroSur/Line 12 in April 2003 and stating that it was in service from 11 April 2003.",
+      "relevance_es": "Memoria oficial de transporte que documenta la apertura de MetroSur/línea 12 en abril de 2003 y señala que estuvo en servicio desde el 11 de abril de 2003."
+    },
+    {
+      "title": "Fernando Jimenez de Gregorio, Anales del Instituto de Estudios Madrilenos, article on Madrid-area place names",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/721552.pdf",
+      "type": "academic",
+      "relevance_en": "Academic source quoting the 1575 Fuenlabrada testimony, dating the foundation to the mid-fourteenth century, discussing Loranca as a despoblado, and proposing the Celtic cognomen Laurus plus -anca as a possible etymology.",
+      "relevance_es": "Fuente académica que cita el testimonio de Fuenlabrada de 1575, sitúa la fundación hacia mediados del siglo XIV, trata Loranca como despoblado y propone como posible etimología el cognomen céltico Laurus más -anca."
+    },
+    {
+      "title": "The Loranca necropolis",
+      "url": "https://www.comunidad.madrid/en/patrimonio-cultural/necropolis-loranca",
+      "type": "official",
+      "relevance_en": "Community of Madrid heritage page documenting archaeological occupation in the Loranca area, including late-Roman/Visigothic rural remains and early medieval necropolises near Loranca and Aldehuela streams.",
+      "relevance_es": "Página patrimonial de la Comunidad de Madrid que documenta la ocupación arqueológica del área de Loranca, con restos rurales tardorromanos/visigodos y necrópolis altomedievales próximas a los arroyos de Loranca y Aldehuela."
+    },
+    {
+      "title": "La segunda ciudad jardin del area metropolitana agrupara 7.000 viviendas",
+      "url": "https://elpais.com/diario/1992/09/11/madrid/716210657_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report on the Loranca garden-city development, giving the original project scale as about 7,040 homes over more than 200 hectares.",
+      "relevance_es": "Crónica de época sobre la actuación de Loranca Ciudad-Jardín, que cifra el proyecto original en unas 7.040 viviendas sobre más de 200 hectáreas."
+    },
+    {
+      "title": "Arquitectura y Desarrollo Urbano: Fuenlabrada",
+      "url": "https://www.coam.org/media/Default%20Files/fundacion/biblioteca/biblioteca-digital/docs/Arquitectura%20y%20Desarrollo%20Urbano/Fuenlabrada.pdf",
+      "type": "book",
+      "relevance_en": "Architectural and urban-history publication noting Loranca Ciudad-Jardin as a major consorcio development and giving the residential capacity at roughly 7,200-7,300 homes; search snippets also reflect Jimenez de Gregorio's Laurus/-anca etymology.",
+      "relevance_es": "Publicación de historia arquitectónica y urbana que presenta Loranca Ciudad-Jardín como una gran actuación consorciada y cifra su capacidad residencial en unas 7.200-7.300 viviendas; los fragmentos indexados recogen también la etimología Laurus/-anca de Jiménez de Gregorio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the weak Arabic luran/tree loranco etymology with a cautious note: the strongest inspected specialist source proposes a Celtic cognomen Laurus plus -anca, but the ultimate origin is not fully certain.",
+      "es": "Sustituir la etimología débil basada en el árabe luran o en el árbol loranco por una nota prudente: la fuente especializada inspeccionada más sólida propone un cognomen céltico Laurus más -anca, pero el origen último no está plenamente cerrado."
+    },
+    {
+      "en": "Clarify that the original 1990s Loranca Ciudad-Jardin project is documented at roughly 7,000 to 7,300 homes, not 12,000; the 12,000 figure may describe the later neighbourhood more broadly.",
+      "es": "Aclarar que el proyecto original de Loranca Ciudad-Jardín de los años noventa está documentado en torno a 7.000-7.300 viviendas, no 12.000; la cifra de 12.000 puede referirse al barrio posterior en sentido más amplio."
+    },
+    {
+      "en": "Avoid saying simply that Loranca and Fregacedos were the original settlements of Fuenlabrada without noting the source context: the statement comes from sixteenth-century testimony saying the founders came from those depopulated nearby places.",
+      "es": "Evitar afirmar sin matices que Loranca y Fregacedos fueron los asentamientos originales de Fuenlabrada: la información procede de un testimonio del siglo XVI que dice que los fundadores vinieron de esos lugares cercanos despoblados."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original municipal or Metro naming file, if available, to confirm the formal act by which the public station name Loranca was assigned.",
+      "es": "Consultar el expediente municipal o de Metro de denominación, si está disponible, para confirmar el acto formal por el que se asignó el nombre público Loranca a la estación."
+    },
+    {
+      "en": "Check the original Relaciones Topograficas manuscript or critical edition for exact wording and spelling variants of Loranca/Fregacedos.",
+      "es": "Revisar el manuscrito original o una edición crítica de las Relaciones Topográficas para confirmar la redacción exacta y las variantes gráficas de Loranca/Fregacedos."
+    },
+    {
+      "en": "A specialist Toponomasticon Hispaniae entry for Loranca was not found in the inspected search results; it would be worth checking the corpus directly for any later or unpublished treatment.",
+      "es": "No se encontró una entrada específica de Loranca en Toponomasticon Hispaniae en los resultados inspeccionados; convendría revisar directamente el corpus por si existe un tratamiento posterior o no indexado."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_228/en/summary.short.md",
+      "summary": "content/stations/metro_228/en/summary.md",
+      "story": "content/stations/metro_228/en/story.md",
+      "confidence": "content/stations/metro_228/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_228/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_228/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_228/es/summary.short.md",
+      "summary": "content/stations/metro_228/es/summary.md",
+      "story": "content/stations/metro_228/es/story.md",
+      "confidence": "content/stations/metro_228/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_228/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_228/es/research-note.md"
+    }
+  }
+}

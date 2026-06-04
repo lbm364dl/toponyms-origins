@@ -1,0 +1,1 @@
+El valor Wikidata Q2484393 parece corresponder al barrio de Leganés más que al santo, por lo que sirve para el topónimo pero no para la identidad hagiográfica. La identificación con Reims parece proceder de una asociación genérica del nombre del santo, no de fuentes específicas de Leganés; las fuentes locales repiten la fiesta del 11 de octubre y la tradición de Rouen.

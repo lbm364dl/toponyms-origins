@@ -1,0 +1,1 @@
+The core claim is well supported: the station is a descriptive MetroSur name for the adjacent Hospital Universitario de Fuenlabrada. The hospital chronology is broadly correct, but the wording about Fuenlabrada being the largest Spanish city without a hospital should be softened to the official claim that it was the only large Spanish city without one.

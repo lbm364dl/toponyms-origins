@@ -1,0 +1,1 @@
+The core claim is verified: the station name refers to the Universidad de Alcalá. The historical context is broadly sound, but the station is specifically by the modern/external campus, not the historic central campus, and a few scholarly details should be tightened.

@@ -1,0 +1,1 @@
+Alcorcón Central is named for the central Alcorcón interchange it serves, linking MetroSur with Cercanías C-5. The municipal name Alcorcón is medieval and contested, with the best philological evidence pointing to a Mozarabic-Arabic hybrid connected with oaks or cork oaks.

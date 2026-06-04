@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_069",
+  "name": "Galapagar-La Navata",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Galapagar municipality and the La Navata neighbourhood/toponym",
+  "previous_names": "La Navata (reported as the station name before the 1990s rename); exact official sequence from 1861 not fully verified",
+  "naming_date": "1990s (exact date not found)",
+  "sources": [
+    {
+      "title": "Adif - 10104 Galapagar-La Navata",
+      "url": "https://www.adif.es/-/10104-galapagar-navata",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name and address on the Galapagar-La Navata road.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación y su dirección en la carretera de Galapagar a La Navata."
+    },
+    {
+      "title": "Renfe station file - GALAPAGAR-LA NAVATA",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10104.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 10104, name GALAPAGAR-LA NAVATA, operator Renfe Viajeros, municipality Galapagar and commercial lines C8A, C8B and C10.",
+      "relevance_es": "Confirma el código 10104, el nombre GALAPAGAR-LA NAVATA, el explotador Renfe Viajeros, el municipio de Galapagar y las líneas comerciales C8A, C8B y C10."
+    },
+    {
+      "title": "CRTM - Galapagar-La Navata",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_33?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the station’s public transport identity, fare zone, access and correspondences with C-8/C-8a, C-10 and local buses.",
+      "relevance_es": "Confirma la identidad de transporte público de la estación, la zona tarifaria, el acceso y las correspondencias con C-8/C-8a, C-10 y autobuses."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Galapagar",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/galapagar",
+      "type": "academic",
+      "relevance_en": "Provides the strongest etymological support for Galapagar as galápago plus the collective-abundance suffix -ar, meaning a place abundant in galápagos.",
+      "relevance_es": "Aporta el respaldo etimológico más sólido para Galapagar como galápago más el sufijo colectivo-abundancial -ar, con el sentido de lugar abundante en galápagos."
+    },
+    {
+      "title": "DLE - galápago",
+      "url": "https://dle.rae.es/gal%C3%A1pago",
+      "type": "reference",
+      "relevance_en": "Defines galápago as a chelonian reptile similar to a turtle and notes a pre-Roman origin for the word.",
+      "relevance_es": "Define galápago como reptil quelonio parecido a la tortuga y señala origen prerromano de la palabra."
+    },
+    {
+      "title": "DLE - nava",
+      "url": "https://dle.rae.es/nava",
+      "type": "reference",
+      "relevance_en": "Defines nava as a pre-Roman word, comparable with Basque naba, for flat treeless and sometimes marshy land generally among mountains.",
+      "relevance_es": "Define nava como voz prerromana, comparable con el vasco naba, para tierra llana, sin árboles y a veces pantanosa, generalmente entre montañas."
+    },
+    {
+      "title": "Comunidad de Madrid - Galapagar",
+      "url": "https://www.comunidad.madrid/centros/galapagar",
+      "type": "official",
+      "relevance_en": "Records the municipal coat of arms as green and strewn with golden galápagos, supporting the local symbolic link with the animal name.",
+      "relevance_es": "Recoge el escudo municipal como de sinople, sembrado de galápagos de oro, lo que apoya el vínculo simbólico local con el nombre del animal."
+    },
+    {
+      "title": "125 años de ferrocarril en Los Molinos 1888-2013",
+      "url": "https://www.ayuntamiento-losmolinos.es/wp-content/uploads/2019/07/125-a%C3%B1os-de-ferrocarril-en-Los-Molinos-1888-2013CORRECCI%C3%93N-JULIO-2019_compressed.pdf",
+      "type": "book",
+      "relevance_en": "A local railway history source stating that in the 1990s La Navata was renamed Galapagar-La Navata; inspected as a PDF.",
+      "relevance_es": "Fuente de historia ferroviaria local que indica que en los años noventa La Navata pasó a denominarse Galapagar-La Navata; consultada como PDF."
+    },
+    {
+      "title": "Parroquia de San Antonio de la Navata - La Navata",
+      "url": "https://www.parroquianavata.archimadrid.es/index.php/la-navata.html",
+      "type": "other",
+      "relevance_en": "Provides local historical context for La Navata, older references to navas near Galapagar and the Guadarrama-side mill and bridge landscape; useful but not an official toponymic authority.",
+      "relevance_es": "Aporta contexto histórico local sobre La Navata, referencias antiguas a navas cerca de Galapagar y el paisaje del molino y puente del Guadarrama; útil, aunque no es autoridad toponímica oficial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Basque: flat land with pasture between mountains' with 'pre-Roman word, compare Basque naba, meaning flat treeless and sometimes marshy land, generally among mountains.'",
+      "es": "Sustituir «vasco: llanura con pasto entre montañas» por «voz prerromana, comparable con el vasco naba, que significa tierra llana, sin árboles y a veces pantanosa, generalmente entre montañas»."
+    },
+    {
+      "en": "The Spanish named_after field contains untranslated English and should be changed to 'Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)'.",
+      "es": "El campo named_after_es contiene inglés sin traducir y debería cambiarse a «Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)»."
+    },
+    {
+      "en": "Treat the La Navata diminutive explanation as probable rather than fully verified unless a specific local toponymy source is inspected.",
+      "es": "Tratar la explicación diminutiva de La Navata como probable, no plenamente verificada, salvo que se inspeccione una fuente específica de toponimia local."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find the official Renfe, Adif or timetable document that records the exact 1990s date when La Navata became Galapagar-La Navata.",
+      "es": "Localizar el documento oficial de Renfe, Adif u horarios que registre la fecha exacta de los años noventa en que La Navata pasó a llamarse Galapagar-La Navata."
+    },
+    {
+      "en": "Inspect local historical toponymy or municipal archive material to confirm whether La Navata was historically a diminutive of nava in this exact location.",
+      "es": "Consultar toponimia histórica local o documentación del archivo municipal para confirmar si La Navata fue históricamente un diminutivo de nava en este lugar concreto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_069/en/summary.short.md",
+      "summary": "content/stations/cercanias_069/en/summary.md",
+      "story": "content/stations/cercanias_069/en/story.md",
+      "confidence": "content/stations/cercanias_069/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_069/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_069/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_069/es/summary.short.md",
+      "summary": "content/stations/cercanias_069/es/summary.md",
+      "story": "content/stations/cercanias_069/es/story.md",
+      "confidence": "content/stations/cercanias_069/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_069/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_069/es/research-note.md"
+    }
+  }
+}

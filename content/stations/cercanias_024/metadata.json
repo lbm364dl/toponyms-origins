@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_024",
+  "name": "Valdemoro",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Municipality of Valdemoro; probably from valle moro, 'dark/dusky valley'",
+  "previous_names": "Historical spellings/forms found for the place-name include Valdemoro, Baldemoro and Val de Moro; no former station name found.",
+  "naming_date": "1851-02-09 for the railway stop on the Madrid-Aranjuez line; the municipal place-name is medieval.",
+  "sources": [
+    {
+      "title": "Valdemoro | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/valdemoro",
+      "type": "academic",
+      "relevance_en": "Primary etymological source for the recommended reading: valle plus adjectival moro meaning dark/brownish, with discussion of the Vallemoro > Valmoro > Valdemoro development and alternative possibilities.",
+      "relevance_es": "Fuente etimológica principal para la lectura recomendada: valle más moro adjetival con sentido de oscuro/moreno, con explicación de la evolución Vallemoro > Valmoro > Valdemoro y de alternativas posibles."
+    },
+    {
+      "title": "Nuestra historia - Ayuntamiento de Valdemoro",
+      "url": "https://www.valdemoro.es/nuestra-historia",
+      "type": "official",
+      "relevance_en": "Provides official municipal historical context: medieval documentation begins in the twelfth century, links with Alfonso VI, Alfonso VIII and the Segovian council in 1190, and later railway arrival in 1851.",
+      "relevance_es": "Aporta contexto histórico municipal oficial: documentación medieval desde el siglo XII, relación con Alfonso VI, Alfonso VIII y el concejo segoviano en 1190, y llegada posterior del ferrocarril en 1851."
+    },
+    {
+      "title": "170 años de trenes en Valdemoro - Ayuntamiento de Valdemoro",
+      "url": "https://www.valdemoro.es/170-anos-de-trenes-en-valdemoro",
+      "type": "official",
+      "relevance_en": "Confirms that the Madrid-Aranjuez railway opened on 9 February 1851 and that Valdemoro was selected as an intermediate stop.",
+      "relevance_es": "Confirma que el ferrocarril Madrid-Aranjuez se puso en marcha el 9 de febrero de 1851 y que Valdemoro fue elegida como parada intermedia."
+    },
+    {
+      "title": "60104 Valdemoro - Adif",
+      "url": "https://www.adif.es/w/60104-valdemoro",
+      "type": "official",
+      "relevance_en": "Current official infrastructure page identifying the station as Valdemoro and showing Cercanías C3 service.",
+      "relevance_es": "Página oficial actual de infraestructura que identifica la estación como Valdemoro y muestra servicio de Cercanías C3."
+    },
+    {
+      "title": "FichaEstacion60104.pdf - Renfe Data",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion60104.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station record confirming code 60104, name VALDEMORO, Cercanías Madrid area and Renfe Viajeros operation.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código 60104, el nombre VALDEMORO, el área Cercanías Madrid y la explotación por Renfe Viajeros."
+    },
+    {
+      "title": "CVC Rinconete: La Comunidad de Madrid y sus topónimos (y IV), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Useful secondary linguistic discussion noting that Valdemoro's first element is clear but the second has several possible explanations, including fruit, Moors, an anthroponym or a stone/heap element.",
+      "relevance_es": "Discusión lingüística secundaria útil que señala que el primer elemento de Valdemoro es claro, pero el segundo admite varias explicaciones posibles, como fruto, moros, antropónimo o un elemento relacionado con piedras o montón."
+    },
+    {
+      "title": "'Antes de Vallem Maurii', exposición arqueológica sobre el origen de Valdemoro - Ayuntamiento de Valdemoro",
+      "url": "https://www.valdemoro.es/temas/-/asset_publisher/qJiOaInH705S/content/-antes-de-vallem-maurii-exposicion-arqueologica-sobre-el-origen-de-valdemoro/pop_up?_101_INSTANCE_qJiOaInH705S_no_template=true&_101_INSTANCE_qJiOaInH705S_viewMode=print",
+      "type": "official",
+      "relevance_en": "Municipal exhibition notice stating that Vallem Maurii is the first written reference to the municipality's name and providing archaeological context before that written record.",
+      "relevance_es": "Nota municipal de exposición que indica que Vallem Maurii es la primera referencia escrita al nombre del municipio y aporta contexto arqueológico anterior a esa constancia documental."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present 'valley of the Moor(s)' as the preferred explanation; Toponomasticon Hispaniae favors adjectival moro meaning dark or brownish.",
+      "es": "No debe presentarse 'valle del moro' o 'de los moros' como explicación preferente; Toponomasticon Hispaniae favorece moro como adjetivo con sentido de oscuro o moreno."
+    },
+    {
+      "en": "The station is named after the municipality, not directly after the etymological phrase 'dark valley'.",
+      "es": "La estación se llama por el municipio, no directamente por la expresión etimológica 'valle oscuro'."
+    },
+    {
+      "en": "The early Latin form Vallem Maurii is useful context, but the inspected Toponomasticon Hispaniae entry lists later historical forms such as Valdemoro in 1274 and ca. 1270-1290; cite the specific source used for Vallem Maurii if retaining that form.",
+      "es": "La forma latina temprana Vallem Maurii es un contexto útil, pero la ficha inspeccionada de Toponomasticon Hispaniae recoge formas históricas posteriores como Valdemoro en 1274 y ca. 1270-1290; si se mantiene Vallem Maurii, conviene citar la fuente concreta que documenta esa forma."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Alfonso VIII privilege or a critical edition to confirm the exact date and diplomatic form of Vallem Maurii.",
+      "es": "Conviene revisar el privilegio original de Alfonso VIII o una edición crítica para confirmar la fecha exacta y la forma diplomática de Vallem Maurii."
+    },
+    {
+      "en": "No formal railway naming act was found; 9 February 1851 is the opening date of the Madrid-Aranjuez line and Valdemoro stop, not necessarily a separate naming resolution.",
+      "es": "No se ha localizado un acto formal de denominación ferroviaria; el 9 de febrero de 1851 es la fecha de apertura de la línea Madrid-Aranjuez y de la parada de Valdemoro, no necesariamente una resolución de nombre independiente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_024/en/summary.short.md",
+      "summary": "content/stations/cercanias_024/en/summary.md",
+      "story": "content/stations/cercanias_024/en/story.md",
+      "confidence": "content/stations/cercanias_024/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_024/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_024/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_024/es/summary.short.md",
+      "summary": "content/stations/cercanias_024/es/summary.md",
+      "story": "content/stations/cercanias_024/es/story.md",
+      "confidence": "content/stations/cercanias_024/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_024/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_024/es/research-note.md"
+    }
+  }
+}

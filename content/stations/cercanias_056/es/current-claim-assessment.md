@@ -1,0 +1,1 @@
+La parte relativa al nombre de la estación está verificada: la estación de Cercanías toma el nombre del municipio de Leganés. La explicación del lugar fangoso está bien documentada como tradición local de la Edad Moderna, pero la fila es demasiado tajante sobre una forma latina 'leganos', sobre la forma original y sobre la documentación más antigua.

@@ -1,0 +1,1 @@
+La estación de La Granja toma su nombre de la calle de La Granja, una de las vías del polígono industrial de Alcobendas. La palabra significa 'granja', pero el origen documentado es el nombre viario y empresarial local, no una granja histórica concreta verificada.

@@ -1,0 +1,1 @@
+The station-name claim is secure: the Cercanías station is named for the municipality of Parla. The deeper etymology from Roman Parilus via Latin (villa) Parila is supported by specialist toponymic sources, but it is best treated as probable rather than fully verified because a competing hydronymic explanation from Latin palus/padule is also documented.

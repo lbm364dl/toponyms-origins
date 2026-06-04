@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_019",
+  "name": "Getafe Centro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Getafe, specifically the central railway station of the municipality; the origin of the toponym Getafe is uncertain, traditionally linked to Arabic Xetafe/Jata 'long thing' but not securely proven",
+  "previous_names": "Getafe-Badajoz (railway station, until 1981); Metro station opened as Getafe Central in 2003",
+  "naming_date": "1981 for the railway name Getafe Centro; 2003 for the adjoining Metro station Getafe Central",
+  "sources": [
+    {
+      "title": "Renfe Cercanías Madrid: Getafe Centro station",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/estaciones/getafe-centro",
+      "type": "official",
+      "relevance_en": "Confirms the current Cercanías station name, operator context, and service identity.",
+      "relevance_es": "Confirma el nombre actual de la estación de Cercanías, el contexto del operador y la identidad del servicio."
+    },
+    {
+      "title": "Metro de Madrid: Getafe Central",
+      "url": "https://www.metromadrid.es/es/viaja-en-metro/estaciones/getafe-central",
+      "type": "official",
+      "relevance_en": "Confirms the adjoining Metro station name Getafe Central and its MetroSur context.",
+      "relevance_es": "Confirma el nombre de la estación de Metro contigua, Getafe Central, y su contexto en MetroSur."
+    },
+    {
+      "title": "Jairo J. García Sánchez, 'La Comunidad de Madrid y sus topónimos (III)', Centro Virtual Cervantes, Rinconete, 9 July 2007",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/julio_07/09072007_01.asp",
+      "type": "reference",
+      "relevance_en": "Provides the key modern caution: Getafe has serious etymological problems; an Arabic origin and a meaning related to length are suspected but not demonstrable from medieval attestations.",
+      "relevance_es": "Aporta la cautela moderna clave: Getafe presenta problemas etimológicos; se presume un origen árabe y una noción relacionada con la longitud, pero no se demuestra con las documentaciones medievales."
+    },
+    {
+      "title": "Relaciones Topográficas de Felipe II: Getafe, digitized by César García Hernández, Museo de Getafe",
+      "url": "https://museo.getafe.es/omeka/files/original/RelacionesTopograficasDeFelipeII%5Bn175%5D.pdf",
+      "type": "archive",
+      "relevance_en": "Records the 1575 local tradition that Xetafe came from Arabic Jata, said to mean a long thing, and links the explanation to the move from Alarnes to a linear settlement along the Madrid-Toledo road.",
+      "relevance_es": "Recoge la tradición local de 1575 según la cual Xetafe procedía del árabe Jata, entendido como cosa larga, y relaciona la explicación con el traslado desde Alarnes a un asentamiento lineal junto al camino Madrid-Toledo."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: Historia de Getafe",
+      "url": "https://getafe.es/la-ciudad/historia/",
+      "type": "official",
+      "relevance_en": "Gives municipal historical context for Getafe, including Alarnes, the road to Toledo, and the traditional explanation of the name.",
+      "relevance_es": "Ofrece contexto histórico municipal sobre Getafe, incluidos Alarnes, el camino de Toledo y la explicación tradicional del nombre."
+    },
+    {
+      "title": "Comunidad de Madrid: Línea 12 MetroSur",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides official context for MetroSur and the 2003 opening of the line serving Getafe Central.",
+      "relevance_es": "Aporta contexto oficial sobre MetroSur y la apertura de 2003 de la línea que da servicio a Getafe Central."
+    },
+    {
+      "title": "Fidel Fita, 'Madrid desde el año 1235 hasta el de 1275', Biblioteca Virtual Miguel de Cervantes",
+      "url": "https://www.cervantesvirtual.com/obra/madrid-desde-el-ao-1235-hasta-el-de-1275--ilustraciones-y-textos-de-la-vida-de-san-isidro-por-juan-dicono-0/",
+      "type": "academic",
+      "relevance_en": "Useful for checking medieval documentary forms related to Getafe, although the station narrative should avoid overstating forms not directly verified in the original charters.",
+      "relevance_es": "Es útil para comprobar formas documentales medievales relacionadas con Getafe, aunque el relato de la estación debe evitar sobredimensionar formas no verificadas directamente en los diplomas originales."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Arabic Jata/Xatafi explanation as a documented tradition and hypothesis, not as the proven meaning of Getafe.",
+      "es": "Conviene tratar la explicación árabe Jata/Xatafi como una tradición documentada y una hipótesis, no como el significado probado de Getafe."
+    },
+    {
+      "en": "Add the transport-name context: the Cercanías station was formerly Getafe-Badajoz and was renamed Getafe Centro in 1981; the Metro station opened in 2003 as Getafe Central.",
+      "es": "Debe añadirse el contexto de denominación del transporte: la estación de Cercanías se llamó antes Getafe-Badajoz y pasó a Getafe Centro en 1981; la estación de Metro abrió en 2003 como Getafe Central."
+    },
+    {
+      "en": "The 1575 source says the witnesses did not know the origin with certainty; this caution should appear alongside the traditional explanation.",
+      "es": "La fuente de 1575 dice que los testigos no conocían el origen con certeza; esa cautela debe figurar junto a la explicación tradicional."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The cited medieval forms around 1150 and 1249 should ideally be checked against the original charters or a critical documentary edition; the 1575 and modern CVC sources are clearer for the public etymology discussion.",
+      "es": "Las formas medievales citadas hacia 1150 y 1249 deberían comprobarse idealmente en los diplomas originales o en una edición documental crítica; las fuentes de 1575 y del CVC son más claras para la explicación etimológica pública."
+    },
+    {
+      "en": "The exact administrative act or railway circular assigning the 1981 name Getafe Centro was not located; secondary transport histories and station listings support the naming chronology.",
+      "es": "No se localizó el acto administrativo o circular ferroviaria exacta que asignó en 1981 el nombre Getafe Centro; las historias y listados de transporte sostienen la cronología denominativa."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_019/en/summary.short.md",
+      "summary": "content/stations/cercanias_019/en/summary.md",
+      "story": "content/stations/cercanias_019/en/story.md",
+      "confidence": "content/stations/cercanias_019/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_019/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_019/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_019/es/summary.short.md",
+      "summary": "content/stations/cercanias_019/es/summary.md",
+      "story": "content/stations/cercanias_019/es/story.md",
+      "confidence": "content/stations/cercanias_019/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_019/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_019/es/research-note.md"
+    }
+  }
+}

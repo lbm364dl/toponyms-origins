@@ -1,0 +1,1 @@
+La etimología directa de la estación debe mantenerse separada del nombre conmemorativo del aeropuerto. Aeropuerto T1-T2-T3 no está dedicada a Adolfo Suárez, aunque el aeropuerto sí lo esté; el nombre de Metro es un localizador de terminales creado después de que la prolongación a la T4 hiciera ambiguo el antiguo rótulo genérico Aeropuerto.

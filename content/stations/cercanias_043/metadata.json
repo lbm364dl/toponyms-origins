@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_043",
+  "name": "Meco",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Meco, municipality in the Community of Madrid",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif: 70104 Meco",
+      "url": "https://www.adif.es/en/-/70104-meco",
+      "type": "official",
+      "relevance_en": "Official infrastructure source identifying the railway station as Meco and showing current Cercanias service information.",
+      "relevance_es": "Fuente oficial de infraestructura que identifica la estación ferroviaria como Meco y muestra información actual de servicios de Cercanías."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Meco",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_45/?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms Meco as a Cercanias station on lines C-2 and C-8, with access listed in the municipality of Meco.",
+      "relevance_es": "Confirma Meco como estación de Cercanías de las líneas C-2 y C-8, con acceso indicado en el municipio de Meco."
+    },
+    {
+      "title": "El Pais: El pueblo mas alejado del mar",
+      "url": "https://elpais.com/diario/1995/02/28/madrid/793974278_850215.html",
+      "type": "press",
+      "relevance_en": "Summarizes the three traditional etymological proposals for Meco: Celtic miccon, Roman Miaccum and Arabic maksusk, while explicitly noting that the origin is not known with certainty.",
+      "relevance_es": "Resume las tres propuestas etimológicas tradicionales para Meco: el celta miccon, el romano Miaccum y el árabe maksusk, señalando expresamente que el origen no se conoce con certeza."
+    },
+    {
+      "title": "Comunidad de Madrid: Yacimiento El Beneficio",
+      "url": "https://www.comunidad.madrid/node/27674",
+      "type": "official",
+      "relevance_en": "Official heritage page explaining that some researchers identify El Beneficio in Collado Mediano with the Miaccum inn mentioned in the Antonine Itinerary.",
+      "relevance_es": "Página oficial de patrimonio que explica que algunos investigadores identifican El Beneficio, en Collado Mediano, con la posada Miaccum mencionada en el Itinerario de Antonino."
+    },
+    {
+      "title": "Jesus Jimenez Guijarro: El yacimiento romano de El Beneficio (Collado Mediano, Prov. Madrid) y la mansio de Miaccum de la Via XXIV del Itinerario de Antonino",
+      "url": "https://www.researchgate.net/publication/386241813_El_yacimiento_romano_de_El_Beneficio_Collado_Mediano_Prov_Madrid_y_la_mansio_de_Miaccum_de_la_Via_XXIV_del_Itinerario_de_Antonino",
+      "type": "academic",
+      "relevance_en": "Academic archaeological publication presenting El Beneficio as a Roman roadside site related to route XXIV and the Miaccum problem, weakening a simple Meco-Miaccum identification.",
+      "relevance_es": "Publicación arqueológica académica que presenta El Beneficio como enclave viario romano relacionado con la vía XXIV y el problema de Miaccum, lo que debilita una identificación simple Meco-Miaccum."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua espanola: meco, ca",
+      "url": "https://dle.rae.es/meco",
+      "type": "reference",
+      "relevance_en": "Shows that the modern dictionary entry is not a direct etymology of the Madrid place-name; its colour sense is marked Mexican and refers to an animal.",
+      "relevance_es": "Muestra que la entrada del diccionario moderno no es una etimología directa del topónimo madrileño; su acepción cromática está marcada como mexicana y se refiere a un animal."
+    },
+    {
+      "title": "Pascual Madoz: Diccionario geografico-estadistico-historico de Espana, entry transcribed for Meco",
+      "url": "https://www.verpueblos.com/comunidad%2Bde%2Bmadrid/madrid/meco/",
+      "type": "book",
+      "relevance_en": "Provides a nineteenth-century description of Meco as a villa with town council in the province of Madrid, useful for historical continuity of the place-name, though it is a secondary web transcription of Madoz.",
+      "relevance_es": "Aporta una descripción decimonónica de Meco como villa con ayuntamiento en la provincia de Madrid, útil para la continuidad histórica del topónimo, aunque es una transcripción web secundaria de Madoz."
+    },
+    {
+      "title": "Quadernillos: El origen del nombre de Torrejon, Meco, Daganzo y Camarma",
+      "url": "https://quadernillos.com/el-origen-del-nombre-de-torrejon-meco-daganzo-y-camarma/",
+      "type": "other",
+      "relevance_en": "Local divulgation source that repeats the three-way uncertainty and points back to the El Pais summary; useful as orientation, not decisive evidence.",
+      "relevance_es": "Fuente divulgativa local que repite la incertidumbre entre tres teorías y remite al resumen de El País; útil como orientación, no como prueba decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the RAE entry as evidence for the Madrid toponym: the DLE defines meco mainly with Mexican and regional senses, including an animal colour description, not as a Castilian place-name etymology.",
+      "es": "No conviene presentar la entrada de la RAE como prueba del topónimo madrileño: el DLE define meco sobre todo con usos mexicanos y regionales, incluida una descripción del color de un animal, no como etimología de un lugar castellano."
+    },
+    {
+      "en": "The Miaccum explanation should be downgraded from a plausible identification with Meco to an older or popular hypothesis; stronger archaeological sources now discuss Miaccum in relation to El Beneficio, Collado Mediano, and the Antonine Itinerary route XXIV.",
+      "es": "La explicación de Miaccum debe rebajarse de identificación plausible con Meco a hipótesis antigua o popular; fuentes arqueológicas más sólidas tratan hoy Miaccum en relación con El Beneficio, Collado Mediano, y la vía XXIV del Itinerario de Antonino."
+    },
+    {
+      "en": "Islamic-period or Roman-period remains in Meco can support historical occupation, but they do not by themselves prove an Arabic or Roman linguistic origin for the name.",
+      "es": "Los restos de época islámica o romana en Meco pueden apoyar la ocupación histórica, pero por sí solos no prueban un origen lingüístico árabe o romano del nombre."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect a specialist toponymy work or municipal historical monograph, such as a documented Historia de Meco, to see whether any of miccon, Miaccum or maksusk has a primary philological basis.",
+      "es": "Conviene revisar una obra especializada de toponimia o una monografía histórica municipal, como una Historia de Meco documentada, para comprobar si miccon, Miaccum o maksusk tienen base filológica primaria."
+    },
+    {
+      "en": "Check whether the station had a formal railway name at opening in the nineteenth century or any later Renfe/Adif renaming record; no former station name was found in the inspected sources.",
+      "es": "Conviene comprobar si la estación tuvo una denominación ferroviaria formal al abrirse en el siglo XIX o algún cambio posterior registrado por Renfe/Adif; no se encontró ningún nombre anterior en las fuentes consultadas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_043/en/summary.short.md",
+      "summary": "content/stations/cercanias_043/en/summary.md",
+      "story": "content/stations/cercanias_043/en/story.md",
+      "confidence": "content/stations/cercanias_043/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_043/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_043/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_043/es/summary.short.md",
+      "summary": "content/stations/cercanias_043/es/summary.md",
+      "story": "content/stations/cercanias_043/es/story.md",
+      "confidence": "content/stations/cercanias_043/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_043/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_043/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La estación de Pradillo toma su nombre de la Plaza del Pradillo, en el casco antiguo de Móstoles. El topónimo procede de pradillo, diminutivo de prado, es decir, un pequeño prado o espacio abierto ameno.

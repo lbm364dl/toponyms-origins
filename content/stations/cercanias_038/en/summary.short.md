@@ -1,0 +1,1 @@
+The Cercanías station is named for the municipality of Torrejón de Ardoz. The place name refers to a small defensive tower or tower-settlement and to the Arroyo Ardoz, a stream name whose deeper origin remains uncertain.

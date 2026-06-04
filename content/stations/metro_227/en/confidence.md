@@ -1,0 +1,1 @@
+The station's name, operator context, line, access location and relationship to the hospital are confirmed by CRTM and Community of Madrid pages. The hospital's official history verifies the descriptive referent and most historical context. The exact formal station naming act was not found, but the name was in use from MetroSur's 11 April 2003 opening.

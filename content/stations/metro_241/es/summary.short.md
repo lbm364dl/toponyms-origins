@@ -1,0 +1,1 @@
+Leganés Central debe su nombre al nodo central de transporte de Leganés, junto a la estación ferroviaria de la C-5. El nombre de la ciudad se explica tradicionalmente por légamo o légano, barro o limo, aunque la toponimia moderna considera esa explicación plausible, no segura.

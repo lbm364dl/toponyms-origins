@@ -1,0 +1,1 @@
+The core claim is well supported: the station honours Joaquín Vilumbrales López, a Los Castillos teacher/director and Alcorcón mayor who died in office in 1999. The planned name Los Castillos is supported by contemporary press, but the exact administrative naming act has not been located.

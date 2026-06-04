@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_059",
+  "name": "La Serna-Fuenlabrada",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Serna, the Fuenlabrada neighbourhood served by the station; ultimately from serna, an old agricultural term for a portion of sown land or land worked apart",
+  "previous_names": "",
+  "naming_date": "1983 (documented as La Serna-Fuenlabrada in press on 27 April 1983)",
+  "sources": [
+    {
+      "title": "Renfe Data: Ficha de estación 35010 LA SERNA-FUENLABRADA",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35010.pdf",
+      "type": "official",
+      "relevance_en": "Official Renfe station sheet confirming the full station name, code 35010, operator Renfe Viajeros, municipality Fuenlabrada, coordinates, address on Calle de Barcelona, and commercial line C5.",
+      "relevance_es": "Ficha oficial de Renfe que confirma el nombre completo de la estación, el código 35010, el explotador Renfe Viajeros, el municipio de Fuenlabrada, las coordenadas, la dirección en la calle de Barcelona y la línea comercial C5."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: La Serna",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_77/",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the public stop name La Serna, line C-5, fare zone, access at Calle Barcelona 28 in Fuenlabrada, and interchange details.",
+      "relevance_es": "Página oficial del Consorcio Regional de Transportes que confirma el nombre público La Serna, la línea C-5, la zona tarifaria, el acceso en la calle Barcelona 28 de Fuenlabrada y las correspondencias."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada: Diagnóstico de la calidad de aire en Fuenlabrada y en la zona urbana Sur",
+      "url": "https://portalparticipa.ayto-fuenlabrada.es/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d456066398c184d6a0808d281f0ffa29fdde847e/2.%20Plan%20Mejora%20Calidad%20Aire%20PMCA_Fuenlabrada.pdf",
+      "type": "official",
+      "relevance_en": "Municipal document describing La Serna as a Cercanías halt in the neighbourhood of the same name, in the north of Fuenlabrada near the Leganés boundary.",
+      "relevance_es": "Documento municipal que describe La Serna como un apeadero de Cercanías situado en el barrio del mismo nombre, al norte de Fuenlabrada y junto al límite con Leganés."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: serna",
+      "url": "https://dle.rae.es/serna",
+      "type": "reference",
+      "relevance_en": "Defines serna as a portion of sown land and gives the Celtic *senara etymology with the sense of a field worked apart.",
+      "relevance_es": "Define serna como porción de tierra de sembradura y ofrece la etimología celta *senara con el sentido de campo labrado aparte."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: *SĔNĂRA",
+      "url": "https://toponhisp.org/node/7631",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymy entry classifying *SĔNĂRA as a pre-Roman agricultural term, discussing medieval forms, meanings, the proposed Celtic etymology, and the uncertainty around the exact original sense.",
+      "relevance_es": "Ficha toponímica autorizada que clasifica *SĔNĂRA como término agrario prerromano y analiza formas medievales, significados, la etimología céltica propuesta y la incertidumbre sobre el sentido original exacto."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Serna del Monte, La",
+      "url": "https://toponhisp.org/node/7630",
+      "type": "academic",
+      "relevance_en": "Madrid-area example showing how La Serna place-names are built from the noun serna, noting the word's lost everyday use and its broad toponymic survival.",
+      "relevance_es": "Ejemplo madrileño que muestra cómo los topónimos La Serna se forman a partir del sustantivo serna, con observaciones sobre la pérdida de uso común de la palabra y su amplia pervivencia toponímica."
+    },
+    {
+      "title": "El País: Enrique Barón inaugura instalaciones ferroviarias financiadas en parte por los ayuntamientos",
+      "url": "https://elpais.com/diario/1983/04/27/espana/420242441_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 27 April 1983 documenting the inauguration of the La Serna-Fuenlabrada halt, its railway kilometre, cost, and partial municipal financing.",
+      "relevance_es": "Noticia contemporánea del 27 de abril de 1983 que documenta la inauguración del apeadero de La Serna-Fuenlabrada, su punto kilométrico, coste y financiación municipal parcial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after the La Serna neighbourhood/place, not directly after an abstract agricultural strip; the agricultural term explains the older toponym.",
+      "es": "Conviene tratar la estación como nombrada por el barrio o lugar de La Serna, no directamente por una franja agrícola abstracta; la voz agraria explica el topónimo anterior."
+    },
+    {
+      "en": "Replace the certain Vulgar Latin derivation with a more cautious formulation: RAE gives a Celtic *senara origin, while Toponomasticon Hispaniae classifies *SĔNĂRA as pre-Roman and says the linguistic history is complex.",
+      "es": "Debe sustituirse la derivación segura desde el latín vulgar por una formulación más cauta: la RAE propone un origen celta *senara, mientras que el Toponomasticon Hispaniae clasifica *SĔNĂRA como prerromano y señala que su historia lingüística es compleja."
+    },
+    {
+      "en": "Do not record Fuenlabrada Apeadero as a former name without a primary or contemporary source; a 27 April 1983 newspaper report already uses La Serna-Fuenlabrada.",
+      "es": "No debe registrarse Fuenlabrada Apeadero como nombre anterior sin una fuente primaria o contemporánea; una noticia del 27 de abril de 1983 ya usa La Serna-Fuenlabrada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect RENFE or Adif archival documents from 1983 to determine whether Fuenlabrada Apeadero was ever an official working or opening name.",
+      "es": "Conviene consultar documentación archivística de RENFE o Adif de 1983 para determinar si Fuenlabrada Apeadero fue alguna vez un nombre oficial, provisional o de apertura."
+    },
+    {
+      "en": "A cadastral, historical-map, or municipal-planning source could clarify whether La Serna was a pre-urban field-name before it became the modern neighbourhood name.",
+      "es": "Una fuente catastral, cartográfica histórica o urbanística municipal podría aclarar si La Serna fue un nombre de paraje anterior a su uso como nombre del barrio moderno."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_059/en/summary.short.md",
+      "summary": "content/stations/cercanias_059/en/summary.md",
+      "story": "content/stations/cercanias_059/en/story.md",
+      "confidence": "content/stations/cercanias_059/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_059/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_059/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_059/es/summary.short.md",
+      "summary": "content/stations/cercanias_059/es/summary.md",
+      "story": "content/stations/cercanias_059/es/story.md",
+      "confidence": "content/stations/cercanias_059/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_059/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_059/es/research-note.md"
+    }
+  }
+}

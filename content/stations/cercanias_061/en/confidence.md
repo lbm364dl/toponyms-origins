@@ -1,0 +1,1 @@
+The immediate naming is verified by official transport and municipal sources: the station is Aravaca and the place is the Madrid neighbourhood/former municipality of Aravaca. The deeper etymology is uncertain because the Arevaci derivation is argued in a specialist article but has methodological reservations and competing folk or alternative explanations.

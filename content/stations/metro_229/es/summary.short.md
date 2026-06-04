@@ -1,0 +1,1 @@
+La estación toma su nombre del Hospital Universitario de Fuenlabrada, situado junto a sus accesos del Camino del Molino. MetroSur abrió en 2003, poco antes de que el hospital comenzara a atender pacientes en 2004.

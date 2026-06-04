@@ -1,0 +1,1 @@
+Hospital de Móstoles is named for the public Hospital Universitario de Móstoles beside the station. The MetroSur stop opened with Line 12 in 2003, giving direct rail access to a hospital inaugurated in 1983.

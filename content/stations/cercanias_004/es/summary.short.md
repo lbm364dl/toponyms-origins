@@ -1,0 +1,1 @@
+La estación se llamaba Madrid-Chamartín y en 2020 recibió oficialmente el nombre Madrid-Chamartín-Clara Campoamor en homenaje a Clara Campoamor, abogada y diputada madrileña clave en el sufragio femenino en España. Chamartín conserva el nombre del antiguo municipio de Chamartín de la Rosa, probablemente un topónimo medieval de repoblación formado a partir de nombres personales.

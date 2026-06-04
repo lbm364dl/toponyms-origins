@@ -1,0 +1,1 @@
+Aviación Española alude a la identidad aeronáutica de esta zona de Latina, junto a los antiguos terrenos militares de Campamento y cerca del histórico aeródromo de Cuatro Vientos. La fuente contemporánea más directa dice que el nombre homenajeaba a los antiguos cuarteles de Aviación.

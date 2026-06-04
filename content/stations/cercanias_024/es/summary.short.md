@@ -1,0 +1,1 @@
+La estación de Valdemoro toma su nombre del municipio al que sirve. La explicación mejor respaldada interpreta el topónimo como un 'valle oscuro' romance, más que como un literal 'valle de los moros'.

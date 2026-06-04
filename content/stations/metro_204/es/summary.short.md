@@ -1,0 +1,1 @@
+Puerta del Sur significa puerta meridional. El nombre describe la función de la estación como acceso de Metro entre la línea 10 de Madrid y el anillo de MetroSur que sirve a los municipios del sur metropolitano.

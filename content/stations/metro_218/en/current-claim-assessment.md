@@ -1,0 +1,1 @@
+The row is partly right in linking the name to Saint Francis, but the documented immediate source is the local San Francisco/Colonia de San Francisco area served by the station, not a confirmed Calle de San Francisco. The claim that the station opened in 2010 is incorrect; the San Francisco station opened with the Pan Bendito-La Peseta extension in 2006.

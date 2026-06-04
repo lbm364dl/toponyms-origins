@@ -1,0 +1,150 @@
+{
+  "id": "cercanias_031",
+  "name": "El Goloso",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Goloso (pre-existing locality/toponym in the Fuencarral-El Pardo area, later associated with the military base)",
+  "previous_names": "",
+  "naming_date": "1968 (station listed as El Goloso on the Madrid-Burgos line; exact naming act not found)",
+  "sources": [
+    {
+      "title": "CRTM - Estacion El Goloso",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_37?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current Cercanias stop name, fare zone, C-4b correspondence, and access at Carretera de Colmenar Viejo in Madrid.",
+      "relevance_es": "Confirma el nombre actual de la parada de Cercanías, la zona tarifaria, la correspondencia C-4b y el acceso en la carretera de Colmenar Viejo en Madrid."
+    },
+    {
+      "title": "Adif - 17003 El Goloso",
+      "url": "https://www.adif.es/w/17003-el-goloso",
+      "type": "official",
+      "relevance_en": "Confirms Adif's current station page for El Goloso, with C-4/C-4b service and address at Carretera Colmenar Viejo, km 18.",
+      "relevance_es": "Confirma la ficha actual de Adif para El Goloso, con servicio C-4/C-4b y dirección en carretera de Colmenar Viejo, km 18."
+    },
+    {
+      "title": "Renfe Data - Ficha Estacion 17003 El Goloso",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion17003.pdf",
+      "type": "official",
+      "relevance_en": "Provides Renfe's station code and operational station information for El Goloso.",
+      "relevance_es": "Aporta el código de estación de Renfe y datos operativos de la estación El Goloso."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Fuencarral-El Pardo",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Calidad-y-Evaluacion/Estrategia-y-planificacion/Fuencarral-El-Pardo/?vgnextchannel=486a261f46839710VgnVCM1000001d4a900aRCRD&vgnextfmt=default&vgnextoid=f35a139bad714610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Shows El Goloso as one of the eight official barrios of Fuencarral-El Pardo, specifically barrio 8.8.",
+      "relevance_es": "Muestra El Goloso como uno de los ocho barrios oficiales de Fuencarral-El Pardo, concretamente el barrio 8.8."
+    },
+    {
+      "title": "Archivo de Villa de Madrid - Fondo Ayuntamiento de Fuencarral",
+      "url": "https://catalogoarchivodevillapre.madrid.es/ms-opac/print/complete/?fo=and&fq=norm&fv=%2A&q=%2A%3A%2A&rows=10000&sort=msstored_title_sort+asc&start=20100&template=print-all.vm",
+      "type": "archive",
+      "relevance_en": "The archival description states that at the time of Fuencarral's annexation decree of 10 November 1950, the municipality included eight barrios, among them El Goloso.",
+      "relevance_es": "La descripción archivística indica que, en el momento del decreto de anexión de Fuencarral de 10 de noviembre de 1950, el municipio contaba con ocho barrios, entre ellos El Goloso."
+    },
+    {
+      "title": "Luis Urteaga and Francesc Nadal - La seccion cartografica del Estado Mayor Central durante la Segunda Republica (1931-1936)",
+      "url": "https://www.researchgate.net/publication/270076658_La_seccion_cartografica_del_Estado_Mayor_Central_durante_la_Segunda_Republica_1931-1936",
+      "type": "academic",
+      "relevance_en": "Documents the 1930 publication of Hoja 23: El Goloso in the military cartographic series Madrid y sus alrededores, supporting that the name predates the 1933 barracks ceremony.",
+      "relevance_es": "Documenta la publicación en 1930 de la Hoja 23: El Goloso en la serie cartográfica militar Madrid y sus alrededores, lo que apoya que el nombre antecede a la ceremonia del cuartel de 1933."
+    },
+    {
+      "title": "IGN - Mapas y cartografos en la Guerra Civil Espanola (1936-1939)",
+      "url": "https://www.ign.es/resources/acercaDe/libDigPub/Mapas_cartografos_Guerra_Civil.pdf",
+      "type": "official",
+      "relevance_en": "Official IGN publication reproducing the cartographic chronology that includes Hoja 23: El Goloso in 1930.",
+      "relevance_es": "Publicación oficial del IGN que reproduce la cronología cartográfica donde figura la Hoja 23: El Goloso en 1930."
+    },
+    {
+      "title": "Accion Cultural Espanola - Azana: Intelectual y estadista, p. 58",
+      "url": "https://www.accioncultural.es/media/DefaultFiles/flipbook/ManuelAzana/files/basic-html/page58.html",
+      "type": "reference",
+      "relevance_en": "Identifies a photograph of the laying of the first stone of the Cuartel del Goloso on 30 January 1933, attended by Manuel Azana, from the Archivo General de la Administracion.",
+      "relevance_es": "Identifica una fotografía de la colocación de la primera piedra del Cuartel del Goloso el 30 de enero de 1933, con asistencia de Manuel Azaña, procedente del Archivo General de la Administración."
+    },
+    {
+      "title": "Ministerio de Politica Territorial y Memoria Democratica - Proclamation of the Republic. Azana in the Government: 1931-1933",
+      "url": "https://mptmd.gob.es/en/portal/memoria-democratica/actividades-de-difusion/manuel-azana/vida-y-obra/azana-en-el-gobierno",
+      "type": "official",
+      "relevance_en": "Official page stating that Azana's government began works on the Goloso barracks during the 1931-1933 period.",
+      "relevance_es": "Página oficial que señala que el Gobierno de Azaña comenzó las obras del cuartel del Goloso durante el periodo 1931-1933."
+    },
+    {
+      "title": "Ejercito de Tierra - Exhibition of Armoured Units",
+      "url": "https://ejercito.defensa.gob.es/en/materiales/otros/museo_carros/museo-carros.html",
+      "type": "official",
+      "relevance_en": "Confirms the present Base El Goloso location and its association with the 12th Armoured Infantry Brigade Guadarrama, near km 18 of the Madrid-Colmenar Viejo road.",
+      "relevance_es": "Confirma la ubicación actual de la Base El Goloso y su asociación con la Brigada de Infantería Acorazada Guadarrama XII, cerca del km 18 de la carretera Madrid-Colmenar Viejo."
+    },
+    {
+      "title": "COAM - Arquitectura de Madrid: Cuartel Militar de El Goloso",
+      "url": "https://fcoam.eu/guia/L3/L3.15.htm",
+      "type": "reference",
+      "relevance_en": "Architectural guide entry for the Cuartel Militar de El Goloso in Fuencarral-El Pardo, giving a 1940 date and confirming the military site name.",
+      "relevance_es": "Ficha de guía arquitectónica del Cuartel Militar de El Goloso en Fuencarral-El Pardo, con fecha de 1940 y confirmación del nombre del enclave militar."
+    },
+    {
+      "title": "Spanish Railway - Ferrocarril Directo de Madrid a Burgos",
+      "url": "https://www.spanishrailway.com/ferrocarril-directo-de-madrid-a-burgos/",
+      "type": "reference",
+      "relevance_en": "Lists El Goloso as an apeadero at kilometre 10.44 and gives the Madrid-Burgos railway inauguration date of 4 July 1968.",
+      "relevance_es": "Enumera El Goloso como apeadero en el kilómetro 10,44 y da la fecha de inauguración del ferrocarril Madrid-Burgos, 4 de julio de 1968."
+    },
+    {
+      "title": "RAE-ASALE - Diccionario de la lengua espanola: goloso, sa",
+      "url": "https://dle.rae.es/goloso",
+      "type": "reference",
+      "relevance_en": "Provides the ordinary Spanish meaning and Latin origin of goloso, useful for explaining why the transparent dictionary meaning does not itself solve the place-name.",
+      "relevance_es": "Aporta el significado común en español y el origen latino de goloso, útil para explicar por qué la acepción de diccionario no resuelve por sí sola el topónimo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change named_after from 'El Goloso (military base/area in Tres Cantos)' to 'El Goloso, a pre-existing Fuencarral-El Pardo locality/toponym later associated with the military base'; the station is in Madrid, not in Tres Cantos.",
+      "es": "Cambiar named_after de 'El Goloso (base militar/zona en Tres Cantos)' a 'El Goloso, topónimo/paraje previo de Fuencarral-El Pardo asociado después a la base militar'; la estación está en Madrid, no en Tres Cantos."
+    },
+    {
+      "en": "Treat the claim that the base was inaugurated in 1951 as unverified unless a primary or stronger secondary source is added.",
+      "es": "Tratar como no verificado el dato de que la base fue inaugurada en 1951 salvo que se añada una fuente primaria o secundaria más sólida."
+    },
+    {
+      "en": "Keep the reddish-terrain root theory only as an open, speculative hypothesis, not as a recommended etymology.",
+      "es": "Mantener la hipótesis de la raíz vinculada a terrenos rojizos solo como conjetura abierta, no como etimología recomendada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original 1930 Hoja 23: El Goloso map, preferably through the Centro Geografico del Ejercito or IGN/CNIG holdings, to see exactly how the toponym appears on the ground.",
+      "es": "Consultar la hoja original de 1930, Hoja 23: El Goloso, preferiblemente en el Centro Geográfico del Ejército o fondos IGN/CNIG, para comprobar cómo aparece exactamente el topónimo sobre el terreno."
+    },
+    {
+      "en": "Find a primary railway document for the Madrid-Burgos line or Adif station file that confirms when the stop was officially named El Goloso.",
+      "es": "Localizar un documento ferroviario primario de la línea Madrid-Burgos o una ficha histórica de Adif que confirme cuándo se nombró oficialmente el apeadero como El Goloso."
+    },
+    {
+      "en": "Search historical cadastre, municipal property records, or older maps for earlier attestations that might explain whether El Goloso came from a nickname, estate name, landscape term, or another source.",
+      "es": "Buscar en catastro histórico, bienes municipales o mapas más antiguos para hallar menciones previas que aclaren si El Goloso procede de un apodo, una finca, un término paisajístico u otra fuente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_031/en/summary.short.md",
+      "summary": "content/stations/cercanias_031/en/summary.md",
+      "story": "content/stations/cercanias_031/en/story.md",
+      "confidence": "content/stations/cercanias_031/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_031/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_031/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_031/es/summary.short.md",
+      "summary": "content/stations/cercanias_031/es/summary.md",
+      "story": "content/stations/cercanias_031/es/story.md",
+      "confidence": "content/stations/cercanias_031/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_031/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_031/es/research-note.md"
+    }
+  }
+}

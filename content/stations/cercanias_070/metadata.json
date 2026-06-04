@@ -1,0 +1,108 @@
+{
+  "id": "cercanias_070",
+  "name": "San Yago",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "San Yago, an archaic or separated form of Santiago, referring to Saint James the Apostle",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM station page: San Yago",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_74?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name, access at Avenida Saltos del Sil in Galapagar, fare zone and current Cercanias connection listed as C-3a.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, el acceso por la avenida Saltos del Sil en Galapagar, la zona tarifaria y la conexión actual de Cercanías indicada como C-3a."
+    },
+    {
+      "title": "ADIF contract file: Obras del proyecto de construcción de paso entre andenes y mejora de la accesibilidad del apeadero de San Yago, Galapagar (Madrid)",
+      "url": "https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=f2ace3c4-4244-4079-a820-777ee2fc1039&cmpntname=GetDocumentsById&source=library&srv=cmpnt",
+      "type": "official",
+      "relevance_en": "Identifies San Yago as an ADIF halt in Galapagar, at PK 40.046 of the Madrid-Hendaye line, accessed from Avenida Saltos del Sil in Colonia España.",
+      "relevance_es": "Identifica San Yago como apeadero de ADIF en Galapagar, en el PK 40,046 de la línea Madrid-Hendaya, con acceso desde la avenida Saltos del Sil en Colonia España."
+    },
+    {
+      "title": "CRTM historical railway map of Madrid",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Places the Madrid-El Escorial line in 1861 and notes that San Yago is a halt in Colonia España that does not appear to have opened with the original line stations.",
+      "relevance_es": "Sitúa la línea Madrid-El Escorial en 1861 y señala que San Yago es un apeadero en Colonia España que no parece haberse inaugurado con las estaciones originales de la línea."
+    },
+    {
+      "title": "Comunidad de Madrid: Senda de Galapagar a Las Zorreras y San Yago - R3",
+      "url": "https://www.comunidad.madrid/actividades/2017/senda-galapagar-zorreras-san-yago-r3",
+      "type": "official",
+      "relevance_en": "Provides geographic context for San Yago as the end point of a route through Galapagar, Colonia España and Las Zorreras in the Guadarrama regional-park setting.",
+      "relevance_es": "Aporta contexto geográfico de San Yago como final de una ruta que pasa por Galapagar, Colonia España y Las Zorreras en el entorno del Parque Regional del Guadarrama."
+    },
+    {
+      "title": "Real Academia Galega: Guía de nomes galegos, Santiago",
+      "url": "https://academia.gal/nomes/-/nome/Santiago",
+      "type": "reference",
+      "relevance_en": "Gives a concise authoritative onomastic explanation: Santiago is a contraction of Sant Iago from sanctus and Iacobus.",
+      "relevance_es": "Ofrece una explicación onomástica breve y autorizada: Santiago es contracción de Sant Iago, procedente de sanctus e Iacobus."
+    },
+    {
+      "title": "Xacopedia: onomástica de Santiago",
+      "url": "https://xacopedia.com/onom%C3%A1stica_de_Santiago",
+      "type": "reference",
+      "relevance_en": "Documents the traditional explanation of Santiago through forms including Yaco, Yagüe and Sant Yago, and cites Menéndez Pidal's historical-grammar account.",
+      "relevance_es": "Documenta la explicación tradicional de Santiago a través de formas como Yaco, Yagüe y Sant Yago, y cita la explicación de gramática histórica de Menéndez Pidal."
+    },
+    {
+      "title": "Nommon: The least used station of Cercanías Madrid: San Yago",
+      "url": "https://www.nommon.es/blog/least-used-station-spain-san-yago/",
+      "type": "other",
+      "relevance_en": "A transport-analysis article that describes San Yago as a halt on ADIF line 100 and says it was built in the 1960s to serve Colonia España; useful but secondary.",
+      "relevance_es": "Artículo de análisis de transporte que describe San Yago como apeadero de la línea 100 de ADIF y afirma que se construyó en los años sesenta para servir a Colonia España; útil, pero secundario."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Galapagar municipal etymology from galápago as background only; it does not explain the station name San Yago.",
+      "es": "Tratar la etimología municipal de Galapagar a partir de galápago solo como contexto; no explica el nombre de la estación San Yago."
+    },
+    {
+      "en": "Update the current service note: CRTM currently lists San Yago on Cercanias line C-3a, although the input row gives C-8.",
+      "es": "Actualizar la nota de servicio actual: el CRTM sitúa hoy San Yago en la línea C-3a de Cercanías, aunque la fila de entrada indica C-8."
+    },
+    {
+      "en": "Correct the Spanish named-after text to use 'Santiago Apóstol' or 'Santiago el Mayor' instead of the English phrase 'Saint James'.",
+      "es": "Corregir el texto español de 'named_after' para usar 'Santiago Apóstol' o 'Santiago el Mayor' en lugar de la frase inglesa 'Saint James'."
+    },
+    {
+      "en": "Lower confidence from verified to probable unless a primary naming source for the halt is found.",
+      "es": "Bajar la confianza de verificada a probable salvo que se encuentre una fuente primaria de denominación del apeadero."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find the original railway or municipal document that created or named the San Yago halt, possibly in ADIF historical records, municipal archives of Galapagar, or period timetables.",
+      "es": "Localizar el documento ferroviario o municipal original que creó o denominó el apeadero de San Yago, posiblemente en archivos históricos de ADIF, en el archivo municipal de Galapagar o en horarios de época."
+    },
+    {
+      "en": "Clarify whether San Yago was first a local estate, path, hamlet, development name or informal toponym before the railway halt adopted it.",
+      "es": "Aclarar si San Yago fue antes una finca, camino, caserío, nombre de urbanización o topónimo informal antes de que el apeadero ferroviario lo adoptara."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_070/en/summary.short.md",
+      "summary": "content/stations/cercanias_070/en/summary.md",
+      "story": "content/stations/cercanias_070/en/story.md",
+      "confidence": "content/stations/cercanias_070/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_070/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_070/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_070/es/summary.short.md",
+      "summary": "content/stations/cercanias_070/es/summary.md",
+      "story": "content/stations/cercanias_070/es/story.md",
+      "confidence": "content/stations/cercanias_070/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_070/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_070/es/research-note.md"
+    }
+  }
+}

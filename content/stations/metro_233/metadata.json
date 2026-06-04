@@ -1,0 +1,132 @@
+{
+  "id": "metro_233",
+  "name": "Arroyo Culebro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Arroyo Culebro",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "La Línea 12 (MetroSur) de Metro de Madrid | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport page listing Arroyo Culebro as a Line 12 station in Getafe and locating it on Paseo Juan José Rosón.",
+      "relevance_es": "Página oficial regional de transporte que enumera Arroyo Culebro como estación de la línea 12 en Getafe y la sitúa en el paseo Juan José Rosón."
+    },
+    {
+      "title": "Arroyo Culebro | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_223",
+      "type": "official",
+      "relevance_en": "Official CRTM station page confirming the current station name, access at Calle de las Ciencias 14 in Getafe, fare zone and accessibility features.",
+      "relevance_es": "Ficha oficial del CRTM que confirma el nombre actual de la estación, el acceso en la calle de las Ciencias 14 de Getafe, la zona tarifaria y las condiciones de accesibilidad."
+    },
+    {
+      "title": "Plano zonal de la estación de Metro de Arroyo Culebro",
+      "url": "https://www.crtm.es/media/4amaquyo/plano_zonal_arroyoculebro.pdf",
+      "type": "official",
+      "relevance_en": "CRTM station-area map showing Arroyo Culebro station, Paseo de Juan José Rosón, Calle de las Ciencias and the surrounding Sector III street network.",
+      "relevance_es": "Plano zonal del CRTM que muestra la estación de Arroyo Culebro, el paseo de Juan José Rosón, la calle de las Ciencias y la trama urbana cercana del Sector III."
+    },
+    {
+      "title": "Medio Físico · Historia de Getafe · Museo Virtual de Getafe",
+      "url": "https://museo.getafe.es/omeka/exhibits/show/historia-de-getafe/mediofisico",
+      "type": "official",
+      "relevance_en": "Municipal museum page describing Getafe’s hydrography: the Manzanares and Arroyo Culebro, the stream’s origin at Mari Pascuala lagoon in Polvoranca, and its approximate length through Getafe.",
+      "relevance_es": "Página municipal del museo que describe la hidrografía de Getafe: el Manzanares y el arroyo Culebro, el origen del arroyo en la laguna de Mari Pascuala de Polvoranca y su longitud aproximada por Getafe."
+    },
+    {
+      "title": "Proyecto oficial: LAT 132 kV Valdemoro II - Los Gavilanes",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/doc._inicio_estrategico_valdemoro_ii_gavilanes_132_kv_rev00.pdf",
+      "type": "official",
+      "relevance_en": "Official environmental documentation stating that Arroyo Culebro runs between Getafe and Pinto, has about 28 km, rises in Leganés and flows into the Manzanares.",
+      "relevance_es": "Documentación ambiental oficial que indica que el arroyo Culebro discurre entre Getafe y Pinto, tiene unos 28 km, nace en Leganés y desemboca en el Manzanares."
+    },
+    {
+      "title": "Proyecto de recuperación y mejora del río Manzanares y del arroyo Culebro | MITECO",
+      "url": "https://www.miteco.gob.es/en/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/estrategia-nacional-restauracion-rios/programa-de-restauracion-y-adaptacion-al-cambio-climatico/actuaciones-2025/proyecto-de-recuperacion-y-mejora-del-rio-manzanares-y-del-arroy.html",
+      "type": "official",
+      "relevance_en": "National ministry page confirming Arroyo Culebro as a real watercourse in the Getafe-Pinto area and describing restoration works near its confluence with the Manzanares.",
+      "relevance_es": "Página ministerial que confirma el arroyo Culebro como cauce real en el ámbito Getafe-Pinto y describe actuaciones de restauración cerca de su confluencia con el Manzanares."
+    },
+    {
+      "title": "Diccionario de la lengua española: culebro",
+      "url": "https://dle.rae.es/culebro",
+      "type": "reference",
+      "relevance_en": "RAE definition of culebro as an obsolete masculine noun meaning culebra, supporting the literal snake-related meaning.",
+      "relevance_es": "Definición de la RAE de culebro como sustantivo masculino desusado equivalente a culebra, lo que apoya el significado literal relacionado con la serpiente."
+    },
+    {
+      "title": "Diccionario de la lengua española: culebra",
+      "url": "https://dle.rae.es/culebra",
+      "type": "reference",
+      "relevance_en": "RAE entry deriving culebra from Latin colubra and defining it as a snake/reptile.",
+      "relevance_es": "Entrada de la RAE que deriva culebra del latín colubra y la define como serpiente o reptil."
+    },
+    {
+      "title": "Yacimiento de Arroyo del Culebro · Museo Virtual de Getafe",
+      "url": "https://museo.getafe.es/omeka/arroyoculebro",
+      "type": "official",
+      "relevance_en": "Municipal museum entry documenting the Arroyo del Culebro archaeological site, discovered during the 1987 archaeological survey, with Iron Age remains near the stream.",
+      "relevance_es": "Entrada del museo municipal que documenta el yacimiento de Arroyo del Culebro, descubierto durante la Carta Arqueológica de 1987, con restos de la Edad del Hierro junto al cauce."
+    },
+    {
+      "title": "BOE, 16 August 1991: PAU Arroyo del Culebro",
+      "url": "https://www.boe.es/boe/dias/1991/08/16/pdfs/A27253-27254.pdf",
+      "type": "official",
+      "relevance_en": "State gazette document showing the official urban-planning use of the name Arroyo del Culebro/Arroyo Culebro in Getafe, Leganés and Pinto before MetroSur opened.",
+      "relevance_es": "Documento del Boletín Oficial del Estado que muestra el uso urbanístico oficial del nombre Arroyo del Culebro/Arroyo Culebro en Getafe, Leganés y Pinto antes de la apertura de MetroSur."
+    },
+    {
+      "title": "El 'metrosur' acerca la capital a un millón de vecinos de cinco municipios del sur de Madrid | El País",
+      "url": "https://elpais.com/elpais/2003/04/11/actualidad/1050049020_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report dated 11 April 2003 confirming the inauguration of MetroSur and its service to the southern municipalities.",
+      "relevance_es": "Crónica de prensa contemporánea, fechada el 11 de abril de 2003, que confirma la inauguración de MetroSur y su servicio a los municipios del sur."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as fact that Culebro was named for the stream’s serpentine course; present this as an attractive but unverified inference.",
+      "es": "No debe afirmarse como hecho que Culebro se llamara así por el curso serpenteante del arroyo; conviene presentarlo como una inferencia atractiva pero no verificada."
+    },
+    {
+      "en": "Replace “Polvoranca lagoon” with the more precise “Mari Pascuala lagoon in Polvoranca, Leganés.”",
+      "es": "Sustituir «laguna de Polvoranca» por la formulación más precisa «laguna de Mari Pascuala, en Polvoranca, Leganés»."
+    },
+    {
+      "en": "Treat the stream length cautiously: sources consulted give about 28 km, but Getafe’s municipal museum gives approximately 25 km.",
+      "es": "Tratar la longitud del arroyo con cautela: algunas fuentes consultadas dan unos 28 km, pero el Museo Virtual de Getafe da aproximadamente 25 km."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive hydronym history would require inspecting older maps, local toponymic studies or archival material that explains why the stream was called Culebro.",
+      "es": "Una historia definitiva del hidrónimo exigiría revisar mapas antiguos, estudios toponímicos locales o documentación de archivo que explique por qué el arroyo recibió el nombre de Culebro."
+    },
+    {
+      "en": "The formal administrative act assigning the station name was not located; the name is documented as in use from the station’s opening with MetroSur on 11 April 2003.",
+      "es": "No se ha localizado el acto administrativo formal que asignó el nombre de la estación; el nombre consta en uso desde la apertura de MetroSur el 11 de abril de 2003."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_233/en/summary.short.md",
+      "summary": "content/stations/metro_233/en/summary.md",
+      "story": "content/stations/metro_233/en/story.md",
+      "confidence": "content/stations/metro_233/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_233/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_233/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_233/es/summary.short.md",
+      "summary": "content/stations/metro_233/es/summary.md",
+      "story": "content/stations/metro_233/es/story.md",
+      "confidence": "content/stations/metro_233/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_233/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_233/es/research-note.md"
+    }
+  }
+}

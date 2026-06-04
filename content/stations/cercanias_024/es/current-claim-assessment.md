@@ -1,0 +1,1 @@
+La fila está bien sustentada en lo esencial: la estación toma el nombre del municipio, y Toponomasticon Hispaniae prefiere una formación romance con el sentido aproximado de 'valle oscuro/moreno'. Conviene presentarlo como la interpretación mejor apoyada, no como un hecho completamente cerrado.

@@ -1,0 +1,115 @@
+{
+  "id": "cercanias_039",
+  "name": "Soto del Henares",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Soto del Henares neighbourhood and urban sector in Torrejón de Ardoz, a place-name referring to a riverside grove or wooded riverbank by the Henares",
+  "previous_names": "",
+  "naming_date": "2015-09-01 (opened to public under current name; inaugurated 2015-08-31)",
+  "sources": [
+    {
+      "title": "Renfe - Estación de Soto del Henares | Rodajes Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-soto-del-henares",
+      "type": "official",
+      "relevance_en": "Confirms that the station was put into service in August 2015, is a halt in the homonymous neighbourhood of Torrejón de Ardoz, and belongs to Cercanías Madrid lines C-2, C-7 and C-8.",
+      "relevance_es": "Confirma que la estación se puso en marcha en agosto de 2015, que es un apeadero situado en el barrio homónimo de Torrejón de Ardoz y que pertenece a las líneas C-2, C-7 y C-8 de Cercanías Madrid."
+    },
+    {
+      "title": "Ayuntamiento de Torrejón de Ardoz - Nueva estación de Cercanías Soto de Henares - Hospital",
+      "url": "https://www.ayto-torrejon.es/concejalias/urbanismo/nueva-estacion-de-cercanias-soto-de-henares-hospital",
+      "type": "official",
+      "relevance_en": "Gives local inauguration context, places the station in the Soto Henares area, records the first train on the morning after the inauguration, and explains the neighbourhoods served.",
+      "relevance_es": "Aporta el contexto local de inauguración, sitúa la estación en la zona de Soto Henares, registra el primer tren de la mañana posterior a la inauguración y explica los barrios atendidos."
+    },
+    {
+      "title": "Adif - 70112 Soto del Henares",
+      "url": "https://www.adif.es/w/70112-soto-del-henares",
+      "type": "official",
+      "relevance_en": "Current infrastructure/operator page confirming the station name and live Cercanías services including C-2, C-7 and C-8 variants.",
+      "relevance_es": "Página actual de infraestructura/operador que confirma el nombre de la estación y los servicios de Cercanías, incluidas las variantes C-2, C-7 y C-8."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - soto",
+      "url": "https://dle.rae.es/soto",
+      "type": "reference",
+      "relevance_en": "Defines soto as a wooded riverbank or riverside plain and gives its Latin origin saltus, supporting the linguistic part of the etymology.",
+      "relevance_es": "Define soto como lugar arbolado en riberas o vegas y da su origen latino saltus, apoyando la parte lingüística de la etimología."
+    },
+    {
+      "title": "Comunidad de Madrid / BOCM - Decreto 169/2000, de 13 de julio, Soto del Henares",
+      "url": "https://gestiona.comunidad.madrid/rlma_web/Descarga.icm?idDocumento=1&idLegislacion=572",
+      "type": "official",
+      "relevance_en": "Officially establishes preventive protection for the natural area Soto del Henares, gives its municipalities, surface area, and ecological description as a Henares gallery woodland.",
+      "relevance_es": "Establece oficialmente el régimen de protección preventiva del espacio natural Soto del Henares, indica sus municipios, superficie y descripción ecológica como bosque de galería del Henares."
+    },
+    {
+      "title": "Comunidad de Madrid - Yacimiento Soto del Henares",
+      "url": "https://www.comunidad.madrid/patrimonio-cultural/yacimiento-soto-henares",
+      "type": "official",
+      "relevance_en": "Authoritative archaeology source for the Soto del Henares site: location near the Torote-Henares confluence, work dates 2006-2007, Plan Parcial connection, more than 1,000 structures, and occupation phases from Neolithic to Early Iron Age.",
+      "relevance_es": "Fuente arqueológica autorizada sobre el yacimiento de Soto del Henares: localización cerca de la confluencia Torote-Henares, fechas de intervención 2006-2007, relación con el Plan Parcial, más de 1.000 estructuras y fases desde el Neolítico hasta la Primera Edad del Hierro."
+    },
+    {
+      "title": "Ayuntamiento de Torrejón de Ardoz - Aprobadas las primeras licencias de Soto del Henares",
+      "url": "https://www.ayto-torrejon.es/index.php/noticia/nota-de-prensa/aprobadas-las-primeras-licencias-de-soto-del-henares",
+      "type": "official",
+      "relevance_en": "Shows the Torrejón Soto del Henares urban development active in July 2006 and supports the station's connection to a modern neighbourhood/sector name.",
+      "relevance_es": "Muestra el desarrollo urbanístico Soto del Henares de Torrejón activo en julio de 2006 y respalda la conexión de la estación con un nombre moderno de barrio o sector."
+    },
+    {
+      "title": "Museo de la Ciudad de Torrejón - Exposiciones permanentes",
+      "url": "https://museo.ayto-torrejon.es/exposiciones-permanentes",
+      "type": "official",
+      "relevance_en": "States that part of the Soto Henares archaeological site found in 2006-2007 can be seen in the Torrejón city museum, including reproduced human and ritual animal burials.",
+      "relevance_es": "Indica que parte del yacimiento de Soto Henares encontrado en 2006-2007 puede verse en el Museo de la Ciudad de Torrejón, incluidos enterramientos humanos y un enterramiento ritual animal reproducidos."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should be described as named after the Soto del Henares neighbourhood or urban sector in Torrejón de Ardoz, not directly after the protected natural area.",
+      "es": "La estación debe describirse como nombrada por el barrio o sector urbanístico Soto del Henares de Torrejón de Ardoz, no directamente por el espacio natural protegido."
+    },
+    {
+      "en": "The protected natural area declared in 2000 is officially in Alcalá de Henares and Los Santos de la Humosa; placing that protected area in Torrejón de Ardoz is inaccurate.",
+      "es": "El espacio natural protegido declarado en 2000 está oficialmente en Alcalá de Henares y Los Santos de la Humosa; situarlo en Torrejón de Ardoz es inexacto."
+    },
+    {
+      "en": "The archaeology claim is broadly supported, but the official Community of Madrid page says the work was linked to the Plan Parcial Soto del Henares and documents more than 1,000 pit-type structures across a site of more than 20 hectares, not simply that finds appeared generically when housing was built.",
+      "es": "La afirmación arqueológica está en líneas generales respaldada, pero la página oficial de la Comunidad de Madrid dice que la actuación estuvo vinculada al Plan Parcial Soto del Henares y documentó más de 1.000 estructuras de tipo hoyo en un yacimiento de más de 20 hectáreas, no solo que los hallazgos aparecieron genéricamente al construir viviendas."
+    },
+    {
+      "en": "I did not verify the statement that the finds are preserved in the regional museum in Alcalá. Official Torrejón museum material instead states that part of the Soto Henares site, including reproduced burials, can be seen in the Museo de la Ciudad de Torrejón.",
+      "es": "No he verificado la afirmación de que los hallazgos se conservan en el museo regional de Alcalá. La información oficial del museo de Torrejón indica, en cambio, que parte del yacimiento de Soto Henares, incluidos enterramientos reproducidos, puede verse en el Museo de la Ciudad de Torrejón."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal station naming file or Adif/Renfe opening resolution could confirm the exact administrative date on which the name Soto del Henares was assigned.",
+      "es": "Un expediente formal de denominación de la estación o una resolución de apertura de Adif/Renfe podría confirmar la fecha administrativa exacta en que se asignó el nombre Soto del Henares."
+    },
+    {
+      "en": "The original planning documents for the Torrejón sector could clarify whether the urban development name was consciously borrowed from the protected natural toponym, from the local riverbank landscape, or from an earlier cadastral/place-name usage.",
+      "es": "Los documentos urbanísticos originales del sector de Torrejón podrían aclarar si el nombre del desarrollo se tomó conscientemente del topónimo del espacio natural protegido, del paisaje ribereño local o de un uso catastral/toponímico anterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_039/en/summary.short.md",
+      "summary": "content/stations/cercanias_039/en/summary.md",
+      "story": "content/stations/cercanias_039/en/story.md",
+      "confidence": "content/stations/cercanias_039/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_039/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_039/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_039/es/summary.short.md",
+      "summary": "content/stations/cercanias_039/es/summary.md",
+      "story": "content/stations/cercanias_039/es/story.md",
+      "confidence": "content/stations/cercanias_039/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_039/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_039/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Azuqueca station is named after the municipality of Azuqueca de Henares. The place name is best explained as Arabic sukayka, a diminutive referring to a small road, path, or alley around which the early settlement formed.

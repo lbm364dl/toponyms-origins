@@ -1,0 +1,111 @@
+{
+  "id": "metro_213",
+  "name": "Baunatal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Baunatal, Hesse, Germany",
+  "previous_names": "",
+  "naming_date": "2007-04-26",
+  "sources": [
+    {
+      "title": "San Sebastian de Los Reyes - Stadt Baunatal",
+      "url": "https://www.baunatal.de/de/rathaus/ihre-stadt/partnerstaedte/san-sebastian-de-los-reyes.php",
+      "type": "official",
+      "relevance_en": "Official Baunatal page stating that Baunatal and San Sebastián de los Reyes established their town partnership on 28 August 1990.",
+      "relevance_es": "Página oficial de Baunatal que indica que Baunatal y San Sebastián de los Reyes establecieron su hermanamiento el 28 de agosto de 1990."
+    },
+    {
+      "title": "MetroNorte: el Metro llega a Alcobendas y San Sebastián de los Reyes (VI)",
+      "url": "https://www.espormadrid.es/2007/04/metronorte-el-metro-llega-alcobendas-y_2146.html",
+      "type": "press",
+      "relevance_en": "Contemporary opening report describing Baunatal station as an homage to the German city twinned with San Sebastián de los Reyes and placing it near Avenida Lomas del Rey and Plaza de la Universidad Popular.",
+      "relevance_es": "Crónica contemporánea de la apertura que describe la estación de Baunatal como homenaje a la ciudad alemana hermanada con San Sebastián de los Reyes y la sitúa cerca de la avenida Lomas del Rey y la plaza de la Universidad Popular."
+    },
+    {
+      "title": "Metronorte contra la A-1",
+      "url": "https://elpais.com/diario/2007/04/27/madrid/1177673065_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary El País article confirming the 26 April 2007 opening context of MetroNorte, with 15.7 km and 11 stations serving Alcobendas and San Sebastián de los Reyes.",
+      "relevance_es": "Artículo contemporáneo de El País que confirma el contexto de apertura de MetroNorte el 26 de abril de 2007, con 15,7 km y 11 estaciones para Alcobendas y San Sebastián de los Reyes."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Metro chronology listing 26-04-2007 for Line 10b/MetroNorte and naming Baunatal among the San Sebastián de los Reyes stations.",
+      "relevance_es": "Cronología del metro que lista el 26-04-2007 para la línea 10b/MetroNorte y recoge Baunatal entre las estaciones de San Sebastián de los Reyes."
+    },
+    {
+      "title": "Baunatal, Stadtgemeinde - Historisches Ortslexikon, LAGIS Hessen",
+      "url": "https://lagis.hessen.de/de/orte/historisches-ortslexikon/alle-eintraege/1960_baunatal-stadtgemeinde",
+      "type": "reference",
+      "relevance_en": "Authoritative Hessian historical gazetteer showing Baunatal as a new municipal name from 1964 and city from 1966, with its constituent districts.",
+      "relevance_es": "Diccionario histórico-territorial de Hesse que muestra Baunatal como nuevo nombre municipal desde 1964 y ciudad desde 1966, con sus barrios constituyentes."
+    },
+    {
+      "title": "Historische Meilensteine - Stadt Baunatal",
+      "url": "https://www.baunatal.de/de/rathaus/ihre-stadt/stadtgeschichte/historische-meilensteine.php",
+      "type": "official",
+      "relevance_en": "Official Baunatal history page explaining the modern city's formation, older villages and the role of Volkswagen's 1957 settlement in its development.",
+      "relevance_es": "Página histórica oficial de Baunatal que explica la formación de la ciudad moderna, los antiguos pueblos y el papel de la llegada de Volkswagen en 1957 en su desarrollo."
+    },
+    {
+      "title": "Volkswagen AG Kassel plant",
+      "url": "https://www.volkswagen-newsroom.com/en/volkswagen-ag-kassel-plant-8026",
+      "type": "official",
+      "relevance_en": "Official Volkswagen Newsroom source for the Kassel/Baunatal plant's current role as Volkswagen's largest components plant, its products and approximate 2025 workforce.",
+      "relevance_es": "Fuente oficial de Volkswagen Newsroom sobre el papel actual de la planta Kassel/Baunatal como mayor planta de componentes de Volkswagen, sus productos y su plantilla aproximada en 2025."
+    },
+    {
+      "title": "Volkswagen in Kassel: City, Region & Jobs",
+      "url": "https://www.volkswagen-karriere.de/en/working-at-volkswagen/sites/site-kassel.html",
+      "type": "official",
+      "relevance_en": "Volkswagen Careers page stating that the Kassel plant at Baunatal has been part of Volkswagen since 1958 and describing the larger 16,500-employee figure and gearbox production context.",
+      "relevance_es": "Página de empleo de Volkswagen que indica que la planta de Kassel en Baunatal forma parte de Volkswagen desde 1958 y describe la cifra mayor de 16.500 empleados y el contexto de producción de cajas de cambio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Avoid saying only that the station is 'beneath Avenida de Baunatal'; available station/access descriptions place it around Avenida de Lomas del Rey, Plaza de la Universidad Popular and the nearby Baunatal-named area.",
+      "es": "Evitar decir solo que la estación está 'bajo la Avenida de Baunatal'; las descripciones disponibles de ubicación y accesos la sitúan en torno a la avenida de Lomas del Rey, la plaza de la Universidad Popular y el área cercana vinculada al nombre Baunatal."
+    },
+    {
+      "en": "Use dated Volkswagen figures: Volkswagen Newsroom in 2025 gives around 15,000 employees for the Kassel plant, while Volkswagen Careers describes around 16,500; both support the industrial context but not a timeless fixed number.",
+      "es": "Usar cifras de Volkswagen fechadas: Volkswagen Newsroom en 2025 indica unos 15.000 empleados para la planta de Kassel, mientras Volkswagen Careers habla de unos 16.500; ambas respaldan el contexto industrial, pero no una cifra fija atemporal."
+    },
+    {
+      "en": "The claim that it is one of the very few Madrid Metro stations named after a foreign city is plausible but dataset-wide rather than station-specific; it should be treated as contextual unless separately audited.",
+      "es": "La afirmación de que es una de las poquísimas estaciones del Metro de Madrid con nombre de ciudad extranjera es plausible, pero depende de una revisión de toda la red; debe tratarse como contexto salvo que se audite por separado."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming record or council minutes would be the best source for the exact date when Avenida de Baunatal received its name in San Sebastián de los Reyes.",
+      "es": "Un expediente municipal de denominación de calles o un acta plenaria sería la mejor fuente para conocer la fecha exacta en que la Avenida de Baunatal recibió su nombre en San Sebastián de los Reyes."
+    },
+    {
+      "en": "The proposed working name 'Universidad Popular' appears in secondary sources, but I did not find a primary planning document confirming it.",
+      "es": "El posible nombre de trabajo 'Universidad Popular' aparece en fuentes secundarias, pero no he localizado un documento primario de proyecto que lo confirme."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_213/en/summary.short.md",
+      "summary": "content/stations/metro_213/en/summary.md",
+      "story": "content/stations/metro_213/en/story.md",
+      "confidence": "content/stations/metro_213/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_213/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_213/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_213/es/summary.short.md",
+      "summary": "content/stations/metro_213/es/summary.md",
+      "story": "content/stations/metro_213/es/story.md",
+      "confidence": "content/stations/metro_213/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_213/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_213/es/research-note.md"
+    }
+  }
+}

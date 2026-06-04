@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_041",
+  "name": "Alcalá de Henares",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alcalá de Henares, the city; Alcalá from Andalusi Arabic qaláʿa/qalʿa, 'fortress, castle', and Henares from the river name, explained as plural of henar, 'hayfield'",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "QALÁʿA | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/etimo/qalaa",
+      "type": "academic",
+      "relevance_en": "Defines Andalusi Arabic qaláʿa/classical Arabic qalʿa as 'fortress, castle' and identifies it as the origin of numerous Alcalá place-names, including Alcalá de Henares as a cognate.",
+      "relevance_es": "Define el árabe andalusí qaláʿa/árabe clásico qalʿa como 'fortaleza, castillo' y lo identifica como origen de numerosos topónimos Alcalá, incluido Alcalá de Henares como cognado."
+    },
+    {
+      "title": "Henares | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/3682",
+      "type": "academic",
+      "relevance_en": "Provides the strongest explanation for Henares: plural of henar, 'site with hay', from a Latin-origin common noun, and notes Alcalá de Henares among the towns taking a second name from the river.",
+      "relevance_es": "Aporta la explicación más sólida de Henares: plural de henar, 'sitio poblado de heno', a partir de un sustantivo común de origen latino, y menciona Alcalá de Henares entre las localidades que toman segundo nombre del río."
+    },
+    {
+      "title": "Fortaleza árabe Alcalá la Vieja",
+      "url": "https://www.turismoalcala.es/turismo/fortaleza-arabe/",
+      "type": "official",
+      "relevance_en": "Municipal tourism page explaining that the Qalʿat Abd-Salam fortress was built across the Henares in the mid-ninth century and formed part of the Middle March defensive system.",
+      "relevance_es": "Página turística municipal que explica que la fortaleza Qalʿat Abd-Salam se levantó al otro lado del Henares a mediados del siglo IX y formó parte del sistema defensivo de la Marca Media."
+    },
+    {
+      "title": "Complutum - Patrimonio Histórico, Ayuntamiento de Alcalá de Henares",
+      "url": "https://patrimoniohistorico.ayto-alcaladehenares.es/complutum/",
+      "type": "official",
+      "relevance_en": "Establishes the Roman historical layer: Complutum developed by the right bank of the Henares and is presented as the major Roman city of the present Community of Madrid.",
+      "relevance_es": "Establece la capa histórica romana: Complutum se desarrolló en la margen derecha del Henares y se presenta como la gran ciudad romana de la actual Comunidad de Madrid."
+    },
+    {
+      "title": "Roman City of Complutum. Alcalá de Henares | Community of Madrid",
+      "url": "https://www.comunidad.madrid/en/patrimonio-cultural/ciudad-romana-complutum-alcala-henares",
+      "type": "official",
+      "relevance_en": "Regional heritage source locating Roman Complutum next to the Henares River and describing its archaeological setting.",
+      "relevance_es": "Fuente patrimonial regional que sitúa la Complutum romana junto al río Henares y describe su contexto arqueológico."
+    },
+    {
+      "title": "70103 Alcalá de Henares - Adif",
+      "url": "https://www.adifaltavelocidad.es/es/web/adif/w/70103-alcal%C3%A1-de-henares",
+      "type": "official",
+      "relevance_en": "Current infrastructure-operator page confirming the station's official name and showing Cercanías services including C-2, C-7, and C-8 variants.",
+      "relevance_es": "Página actual del gestor de infraestructuras que confirma el nombre oficial de la estación y muestra servicios de Cercanías, incluidas variantes de C-2, C-7 y C-8."
+    },
+    {
+      "title": "Cercanías Madrid - Lines | Renfe",
+      "url": "https://www.renfe.com/es/en/suburban/suburban-madrid/lines",
+      "type": "official",
+      "relevance_en": "Renfe's line listing confirms Alcalá de Henares as part of the Madrid Cercanías network, including the C-2 and C-7 route descriptions and the C-8 corridor context.",
+      "relevance_es": "La relación de líneas de Renfe confirma Alcalá de Henares dentro de la red de Cercanías Madrid, incluidas las descripciones de C-2 y C-7 y el contexto del corredor C-8."
+    },
+    {
+      "title": "Alcalá, una ciudad en la Historia",
+      "url": "https://www.complutum.com/wp-content/pdf/Alcala-una-ciudad-en-la-historia2%20%281%29_compressed.pdf",
+      "type": "book",
+      "relevance_en": "Community of Madrid exhibition catalogue inspected online; it states that the city inherited its current name from the Muslim city Qalʿat Abd al-Salam and gives bibliographic leads to classic scholarship by Torres Balbás.",
+      "relevance_es": "Catálogo de exposición de la Comunidad de Madrid consultado en línea; afirma que la ciudad heredó su nombre actual de la ciudad musulmana Qalʿat Abd al-Salam y ofrece pistas bibliográficas hacia los estudios clásicos de Torres Balbás."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present Henares as probably Arabic en-Nahr; the strongest source found explains it as plural of henar, 'hayfield', from a Latin-origin word.",
+      "es": "No debe presentarse Henares como probablemente árabe en-Nahr; la fuente más sólida localizada lo explica como plural de henar, 'campo de heno', a partir de una palabra de origen latino."
+    },
+    {
+      "en": "Use Qalʿat Abd al-Salam for the documented local Muslim fortress unless specifically citing a source that uses Qalʿat Nahr.",
+      "es": "Debe usarse Qalʿat Abd al-Salam para la fortaleza musulmana local documentada, salvo cuando se cite expresamente una fuente que emplee Qalʿat Nahr."
+    },
+    {
+      "en": "Treat Complutum's meaning as historical context, not as a fully settled etymology.",
+      "es": "Debe tratarse el significado de Complutum como contexto histórico, no como una etimología completamente cerrada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A railway archival source or historical timetable should be inspected to confirm whether the station has always appeared officially as Alcalá de Henares since the 1859 Madrid-Guadalajara opening.",
+      "es": "Conviene consultar una fuente ferroviaria de archivo o un horario histórico para confirmar si la estación apareció oficialmente como Alcalá de Henares desde la apertura Madrid-Guadalajara de 1859."
+    },
+    {
+      "en": "Specialist Arabic-toponymy bibliography could clarify the relationship between the forms Qalʿat Abd al-Salam and Qalʿat Nahr in local medieval usage.",
+      "es": "La bibliografía especializada en toponimia árabe podría aclarar la relación entre las formas Qalʿat Abd al-Salam y Qalʿat Nahr en el uso medieval local."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_041/en/summary.short.md",
+      "summary": "content/stations/cercanias_041/en/summary.md",
+      "story": "content/stations/cercanias_041/en/story.md",
+      "confidence": "content/stations/cercanias_041/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_041/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_041/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_041/es/summary.short.md",
+      "summary": "content/stations/cercanias_041/es/summary.md",
+      "story": "content/stations/cercanias_041/es/story.md",
+      "confidence": "content/stations/cercanias_041/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_041/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_041/es/research-note.md"
+    }
+  }
+}

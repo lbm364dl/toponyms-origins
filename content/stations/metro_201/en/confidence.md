@@ -1,0 +1,1 @@
+The origin is directly supported by transport and airport sources: CRTM identifies the interchange with Terminal T4, Aena documents the terminal's history, and press/official transport records document the Metro and Cercanías chronology. There is no credible competing etymology.

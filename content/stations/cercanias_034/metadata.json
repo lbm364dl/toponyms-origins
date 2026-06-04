@@ -1,0 +1,115 @@
+{
+  "id": "cercanias_034",
+  "name": "El Pozo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "El Pozo del Tío Raimundo, neighbourhood/toponym meaning 'Uncle Raimundo's well'",
+  "previous_names": "",
+  "naming_date": "1996-10",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: El Pozo",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_59/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Cercanías lines C-2, C-7 and C-8, access location, and present transport function.",
+      "relevance_es": "Confirma el nombre actual de la estación, las líneas de Cercanías C-2, C-7 y C-8, el acceso y su función actual en el transporte público."
+    },
+    {
+      "title": "Comunidad de Madrid: Estación de cercanías Renfe en El Pozo",
+      "url": "https://www.comunidad.madrid/infraestructuras/estacion-cercanias-renfe-pozo",
+      "type": "official",
+      "relevance_en": "States that the station was built through collaboration between the Community of Madrid and Renfe, entered service in October 1996, and serves Palomeras Bajas and El Pozo del Tío Raimundo.",
+      "relevance_es": "Indica que la estación se construyó mediante colaboración entre la Comunidad de Madrid y Renfe, entró en servicio en octubre de 1996 y sirve a Palomeras Bajas y El Pozo del Tío Raimundo."
+    },
+    {
+      "title": "El País: “Los vecinos del Pozo tardan ya sólo 10 minutos en llegar a Atocha”",
+      "url": "https://elpais.com/diario/1996/10/02/madrid/844255487_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the station inauguration, identifying the new stop as El Pozo and tying it directly to El Pozo del Tío Raimundo.",
+      "relevance_es": "Crónica contemporánea de la inauguración de la estación, que identifica el nuevo apeadero como El Pozo y lo vincula directamente con El Pozo del Tío Raimundo."
+    },
+    {
+      "title": "Ramón López de Lucio, “Génesis y remodelación de una parcelación marginal madrileña: El Pozo del Tío Raimundo (Vallecas)”",
+      "url": "https://recyt.fecyt.es/index.php/CyTET/article/view/82700",
+      "type": "academic",
+      "relevance_en": "Academic article summarizing El Pozo del Tío Raimundo as a marginal parceling formed in 1940-1956 and remodeled from 1976 to 1986.",
+      "relevance_es": "Artículo académico que resume El Pozo del Tío Raimundo como una parcelación marginal formada entre 1940 y 1956 y remodelada entre 1976 y 1986."
+    },
+    {
+      "title": "Francisco Andrés Burbano Trimiño, “La urbanización marginal durante el franquismo: el chabolismo madrileño (1950-1960)”",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7195548",
+      "type": "academic",
+      "relevance_en": "Provides scholarly context for Madrid shanty urbanization and the case of El Pozo, including the 1956 figures of 1,714 shacks and approximately 7,600 residents.",
+      "relevance_es": "Aporta contexto académico sobre el chabolismo madrileño y el caso de El Pozo, incluidas las cifras de 1956 de 1.714 chabolas y aproximadamente 7.600 habitantes."
+    },
+    {
+      "title": "Universidad de Zaragoza repository: “El Pozo del Tío Raimundo: historia de un barrio”",
+      "url": "https://zaguan.unizar.es/record/118501",
+      "type": "academic",
+      "relevance_en": "Synthesizes the historiography of the neighbourhood and records the oral/traditional explanation that the name came from Raimundo's house and well, while also noting earlier names such as Finca de las Cambroneras.",
+      "relevance_es": "Sintetiza la historiografía del barrio y recoge la explicación oral o tradicional según la cual el nombre procedía de la casa y el pozo de Raimundo, además de mencionar nombres anteriores como Finca de las Cambroneras."
+    },
+    {
+      "title": "Puente de Vallecas blog: “Pozo del tío Raimundo”",
+      "url": "https://puentedevallecasblog.wordpress.com/pozo-del-tio-raimundo/",
+      "type": "other",
+      "relevance_en": "Local-history source showing the claimed 1864 cadastral reference to Pozo de Raymundo/Raimundo and the Camino de los Yeseros/Camino del Hormiguero context; useful but secondary.",
+      "relevance_es": "Fuente de historia local que muestra la referencia catastral atribuida a 1864 como Pozo de Raymundo/Raimundo y el contexto del Camino de los Yeseros y el Camino del Hormiguero; útil, pero secundaria."
+    },
+    {
+      "title": "Monumenta Madrid: Padre Llanos",
+      "url": "https://monumentamadrid.es/AM_Monumentos5/AM_Monumentos5_WEB/pdf/pdfP/mon1/8964.pdf",
+      "type": "official",
+      "relevance_en": "Municipal monument catalogue documenting José María de Llanos Pastor, his 1955 move to El Pozo, his nickname “Cura Rojo,” and his role in the neighbourhood's regeneration.",
+      "relevance_es": "Catálogo municipal de monumentos que documenta a José María de Llanos Pastor, su llegada al Pozo en 1955, el apodo “Cura Rojo” y su papel en la regeneración del barrio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "State the 1956 figures as about 1,714 shacks and roughly 7,600 residents, not simply “over 1,700 shacks and 8,000 people,” unless a specific source for 8,000 is cited.",
+      "es": "Formular las cifras de 1956 como unas 1.714 chabolas y alrededor de 7.600 habitantes, no simplemente “más de 1.700 chabolas y 8.000 personas”, salvo que se cite una fuente concreta para los 8.000."
+    },
+    {
+      "en": "Treat the 1864 “Pozo de Raimundo/Raymundo” cadastral reference as useful but not fully verified until the original cadastral sheet or archive record is inspected.",
+      "es": "Tratar la referencia catastral de 1864 a “Pozo de Raimundo/Raymundo” como útil pero no plenamente verificada hasta consultar la hoja catastral o el expediente archivístico original."
+    },
+    {
+      "en": "The price of 1.6 pesetas per square metre appears to come from a secondary blog and is not supported by the stronger academic price table I found, which records sale prices in pesetas per square foot.",
+      "es": "El precio de 1,6 pesetas por metro cuadrado parece proceder de un blog secundario y no queda respaldado por la tabla académica de precios más sólida localizada, que registra ventas en pesetas por pie cuadrado."
+    },
+    {
+      "en": "Avoid calling El Pozo definitively Madrid's largest shantytown unless a comparative source is added; “one of Madrid's most emblematic/largest shanty settlements” is better supported.",
+      "es": "Evitar afirmar de forma categórica que El Pozo fue el mayor poblado chabolista de Madrid salvo que se añada una fuente comparativa; está mejor respaldado decir que fue uno de los más emblemáticos o grandes."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original 1864 Vallecas cadastral documentation or an archival reproduction to confirm the exact spelling, location, and wording of “Pozo de Raimundo/Raymundo.”",
+      "es": "Consultar la documentación catastral original de Vallecas de 1864, o una reproducción archivística, para confirmar la grafía exacta, la localización y el texto de “Pozo de Raimundo/Raymundo”."
+    },
+    {
+      "en": "Check Renfe/ADIF historical station files or opening notices for the exact formal naming date; official infrastructure pages give October 1996 and press coverage indicates inauguration on 1 October 1996.",
+      "es": "Revisar expedientes históricos de Renfe/ADIF o avisos de apertura para fijar la fecha formal exacta de denominación; las páginas oficiales de infraestructura dan octubre de 1996 y la prensa indica inauguración el 1 de octubre de 1996."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_034/en/summary.short.md",
+      "summary": "content/stations/cercanias_034/en/summary.md",
+      "story": "content/stations/cercanias_034/en/story.md",
+      "confidence": "content/stations/cercanias_034/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_034/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_034/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_034/es/summary.short.md",
+      "summary": "content/stations/cercanias_034/es/summary.md",
+      "story": "content/stations/cercanias_034/es/story.md",
+      "confidence": "content/stations/cercanias_034/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_034/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_034/es/research-note.md"
+    }
+  }
+}

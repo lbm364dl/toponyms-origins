@@ -1,0 +1,1 @@
+The surrounding Virgen de Begoña housing area is well documented by Madrid municipal and COAM sources, and CRTM confirms the station's current location and accesses. A direct official statement saying 'the station was named after the neighbourhood' was not found, so the station-level naming link is a strong locality inference rather than a fully documented naming act.

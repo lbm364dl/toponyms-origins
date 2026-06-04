@@ -1,0 +1,1 @@
+Las Retamas es un topónimo botánico: las retamas son arbustos mediterráneos de flores amarillas. La estación parece tomar el nombre de la Avenida de las Retamas y del entorno alcorconero inmediato, más que de un acto documentado que aluda a la vegetación concreta del apeadero.

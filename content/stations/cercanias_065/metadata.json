@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_065",
+  "name": "Las Rozas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Rozas de Madrid; from rozas, cleared or newly cultivated lands",
+  "previous_names": "No former station names found. Older place-name forms reported for the municipality include ROÇAS, ROZAS, TORREJÓN DE ARAVACA, ALAROZAS, ALAROZA, LAS ROZAS, and current LAS ROZAS DE MADRID.",
+  "naming_date": "1861",
+  "sources": [
+    {
+      "title": "Adif - 10005 Las Rozas",
+      "url": "https://www.adifaltavelocidad.es/es/web/adif/w/10005-las-rozas",
+      "type": "official",
+      "relevance_en": "Confirms the current station name Las Rozas, its address, and current Cercanias service information including C-7 and C-10 trains.",
+      "relevance_es": "Confirma el nombre actual de la estación, Las Rozas, su dirección y la información vigente de servicio de Cercanías, incluidas las líneas C-7 y C-10."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 10005 LAS ROZAS",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10005.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 10005, name LAS ROZAS, municipality 'Rozas de Madrid, Las', Renfe Viajeros operation, and commercial lines C7A and C10.",
+      "relevance_es": "Confirma el código de estación 10005, el nombre LAS ROZAS, el municipio 'Rozas de Madrid, Las', la explotación por Renfe Viajeros y las líneas comerciales C7A y C10."
+    },
+    {
+      "title": "Ayuntamiento de Las Rozas de Madrid - Tren",
+      "url": "https://www.lasrozas.es/distritos-y-movilidad/tren",
+      "type": "official",
+      "relevance_en": "Lists Las Rozas among the municipality's train stations and identifies C-7 and C-10 as train lines serving the municipality.",
+      "relevance_es": "Enumera Las Rozas entre las estaciones ferroviarias del municipio e identifica las líneas C-7 y C-10 como líneas de tren que sirven al municipio."
+    },
+    {
+      "title": "Ayuntamiento de Las Rozas de Madrid - Las Rozas, Historia / Turismo PDF",
+      "url": "https://www.lasrozas.es/sites/default/files/inline-files/AnverTurismo17.pdf",
+      "type": "official",
+      "relevance_en": "States that the name Las Rozas indicates an origin in cultivation because roza designates land first prepared for agriculture; also gives 16th-century growth context and 1861 railway chronology.",
+      "relevance_es": "Indica que el nombre Las Rozas apunta a un origen ligado a los cultivos porque roza designa tierras preparadas por primera vez para la agricultura; también aporta el contexto de crecimiento del siglo XVI y la cronología ferroviaria de 1861."
+    },
+    {
+      "title": "RAE - Diccionario de la lengua española: rozar",
+      "url": "https://dle.rae.es/rozar",
+      "type": "reference",
+      "relevance_en": "Defines rozar as clearing land of brush and useless herbs before working it, supporting the agricultural semantic base of the toponym.",
+      "relevance_es": "Define rozar como limpiar las tierras de matas y hierbas inútiles antes de labrarlas, lo que respalda la base semántica agrícola del topónimo."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Roturas",
+      "url": "https://www.toponhisp.org/index.php/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/roturas",
+      "type": "academic",
+      "relevance_en": "Provides a toponymic parallel for lands 'rotas' or 'rozadas' and explicitly refers to Las Rozas as a related toponym studied in the same project.",
+      "relevance_es": "Aporta un paralelo toponímico para tierras 'rotas' o 'rozadas' y remite expresamente a Las Rozas como topónimo relacionado estudiado en el mismo proyecto."
+    },
+    {
+      "title": "Ayuntamiento de Las Rozas de Madrid - El paisaje vegetal de Las Rozas de Madrid",
+      "url": "https://www.lasrozas.es/WEB_CONTENT/pages/MedioAmbiente/El%20paisaje%20vegetal%20de%20Las%20Rozas%20de%20Madrid.pdf",
+      "type": "official",
+      "relevance_en": "Indexed text from this municipal PDF reports older forms including ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS, and LAS ROZAS DE MADRID, and links the name to rural land use.",
+      "relevance_es": "El texto indexado de este PDF municipal recoge formas antiguas como ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS y LAS ROZAS DE MADRID, y vincula el nombre con el uso rural de la tierra."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'slash-and-burn clearings' with 'cleared or newly broken lands for cultivation' unless a local source specifically proves burning as part of the naming evidence.",
+      "es": "Sustituir 'roza y quema' por 'tierras desbrozadas o roturadas para cultivo' salvo que una fuente local pruebe específicamente la quema como parte de la evidencia del topónimo."
+    },
+    {
+      "en": "The Spanish named_after field contains English text and should be normalized to 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'.",
+      "es": "El campo named_after_es contiene texto en inglés y debe normalizarse como 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'."
+    },
+    {
+      "en": "Treat the Majadahonda comparison as optional context, not as proof of Las Rozas's etymology.",
+      "es": "Tratar la comparación con Majadahonda como contexto opcional, no como prueba de la etimología de Las Rozas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A railway primary source or historical timetable could confirm whether the 1861 station officially opened under exactly the name 'Las Rozas'.",
+      "es": "Una fuente ferroviaria primaria o un horario histórico podría confirmar si la estación de 1861 se inauguró oficialmente con el nombre exacto de 'Las Rozas'."
+    },
+    {
+      "en": "The older place-name forms reported in the municipal environmental PDF should ideally be checked against the cited medieval and early modern documents.",
+      "es": "Las formas antiguas del topónimo recogidas en el PDF municipal de medio ambiente deberían comprobarse idealmente en los documentos medievales y modernos citados."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_065/en/summary.short.md",
+      "summary": "content/stations/cercanias_065/en/summary.md",
+      "story": "content/stations/cercanias_065/en/story.md",
+      "confidence": "content/stations/cercanias_065/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_065/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_065/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_065/es/summary.short.md",
+      "summary": "content/stations/cercanias_065/es/summary.md",
+      "story": "content/stations/cercanias_065/es/story.md",
+      "confidence": "content/stations/cercanias_065/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_065/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_065/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La afirmación principal está bien apoyada: la estación se encuentra en la zona de El Soto de Móstoles, y 'soto' significa un lugar arbolado, especialmente en ribera o vega, del latín saltus. La fila debería reducir la larga digresión sobre 1808, corregir la superficie del parque según la página municipal actual y añadir el antiguo nombre de la estación, Villaviciosa de Odón.

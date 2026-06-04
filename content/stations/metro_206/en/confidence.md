@@ -1,0 +1,1 @@
+The direct chain from station to Cuatro Vientos area/aerodrome is well supported by transport and regional sources, and BOE documents the older place-name 'A los Cuatro Vientos' before the 1911 aerodrome. Confidence is not fully 'verified' because the precise folk-etymological explanation about winds from all four cardinal directions was not found in a primary toponymic source.

@@ -1,0 +1,1 @@
+La estación toma su nombre de dos referencias cercanas: la Asamblea de Madrid y el antiguo topónimo del barrio de Entrevías. Entrevías alude literalmente a un lugar entre vías ferroviarias, descripción de un barrio históricamente dividido y bordeado por el ferrocarril.

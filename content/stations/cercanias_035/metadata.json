@@ -1,0 +1,126 @@
+{
+  "id": "cercanias_035",
+  "name": "Santa Eugenia",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Santa Eugenia neighbourhood / Ciudad Residencial Santa Eugenia; ultimate origin contested between Saint Eugenia in the official street-name record and a reported homage to Eugenia, mother of Pistas y Obras promoters",
+  "previous_names": "",
+  "naming_date": "Station opened 1989; Ciudad Residencial Santa Eugenia created 1971; Avenida de Santa Eugenia recorded 1972",
+  "sources": [
+    {
+      "title": "Renfe - Estación de Santa Eugenia | Rodajes Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-santa-eugenia",
+      "type": "official",
+      "relevance_en": "Confirms the station opened to the public in 1989, was built because of the development of the surrounding neighbourhood, and is served by lines C-2, C-7 and C-8.",
+      "relevance_es": "Confirma que la estación se abrió al público en 1989, que se construyó por el desarrollo del barrio circundante y que forma parte de las líneas C-2, C-7 y C-8."
+    },
+    {
+      "title": "Renfe Data - Ficha de estación 70109 Santa Eugenia",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70109.pdf",
+      "type": "official",
+      "relevance_en": "Provides the station code 70109, official name SANTA EUGENIA, operator Renfe Viajeros, Madrid municipality and address on Avenida Santa Eugenia.",
+      "relevance_es": "Aporta el código de estación 70109, el nombre oficial SANTA EUGENIA, el explotador Renfe Viajeros, el municipio de Madrid y la dirección en la avenida Santa Eugenia."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Planes Integrales de Barrio, Villa de Vallecas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Organizacion-municipal/Planes-Integrales-de-Barrio/?idCapitulo=11022451&vgnextchannel=2ef308a90a1e9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=1c510ca52df44810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "States that Ciudad Residencial Santa Eugenia was built in 1971 beside Cerro Almodóvar and describes its social and urban context within Villa de Vallecas.",
+      "relevance_es": "Indica que la Ciudad Residencial Santa Eugenia se levantó en 1971 junto al cerro Almodóvar y describe su contexto social y urbano dentro de Villa de Vallecas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Jardin botanico abierto Santa Eugenia",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/Quiz%C3%A1sTambTeInterese/JardinBotanicoSantaEugenia/Jard%C3%ADn%20Bot%C3%A1nico%20Abierto%20Santa%20Eugenia.pdf",
+      "type": "official",
+      "relevance_en": "Gives a concise municipal history of Santa Eugenia: creation of the private Ciudad Residencial de Santa Eugenia in 1971, the green urban design, and Burgos-town street names linked to the promoters' origin.",
+      "relevance_es": "Ofrece una historia municipal sintética de Santa Eugenia: creación de la Ciudad Residencial de Santa Eugenia en 1971, diseño urbano verde y nombres de pueblos burgaleses vinculados al origen de los promotores."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Memoria de mujeres en el callejero de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/IgualdadDeOportunidades/Publicaciones/MemoriaMujeresEnElCallejero/mujeresreales.pdf",
+      "type": "official",
+      "relevance_en": "Lists Avenida de Santa Eugenia as a 1972 Villa de Vallecas street name and explains Santa Eugenia through saints named Eugenia, creating an official-source caveat to the local mother-homage claim.",
+      "relevance_es": "Registra la avenida de Santa Eugenia como nombre de 1972 en Villa de Vallecas y explica Santa Eugenia por santas llamadas Eugenia, lo que introduce una cautela oficial frente a la versión local del homenaje materno."
+    },
+    {
+      "title": "Vallecas VA - Santa Eugenia, una madre burgalesa para Vallecas",
+      "url": "https://vallecas.com/santa-eugenia-una-madre-burgalesa-para-vallecas/",
+      "type": "press",
+      "relevance_en": "Local article giving the specific oral-history claim: Burgos-born Roberto, Carmelo and Alejandro of Pistas y Obras, with Banco Rural del Mediterraneo support, named the community after their mother Eugenia.",
+      "relevance_es": "Artículo local que aporta la afirmación concreta de memoria oral: los burgaleses Roberto, Carmelo y Alejandro, de Pistas y Obras y con apoyo del Banco Rural del Mediterráneo, dieron a la comunidad el nombre de su madre Eugenia."
+    },
+    {
+      "title": "El Pais - La urbanizadora de Santa Eugenia, multada por no poner alumbrado",
+      "url": "https://elpais.com/diario/1980/11/09/madrid/342620655_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report identifying Pistas y Obras S.A. as the principal company in the compensation board that urbanized Ciudad Residencial Santa Eugenia.",
+      "relevance_es": "Noticia contemporánea que identifica a Pistas y Obras S.A. como la empresa principal de la junta de compensación que urbanizó la Ciudad Residencial Santa Eugenia."
+    },
+    {
+      "title": "El Pais - Dan plazo para la solucion del problema del agua en la Ciudad Santa Eugenia",
+      "url": "https://elpais.com/diario/1977/01/02/madrid/221055857_850215.html",
+      "type": "press",
+      "relevance_en": "Shows the name Ciudad Residencial Santa Eugenia in active use in 1977 and links neighbourhood infrastructure disputes to Pistas y Obras.",
+      "relevance_es": "Muestra el nombre Ciudad Residencial Santa Eugenia en uso en 1977 y vincula los problemas de infraestructuras del barrio con Pistas y Obras."
+    },
+    {
+      "title": "BOE - Resolucion de 30 de mayo de 1996, DGRN, recurso sobre vivienda en ciudad residencial Santa Eugenia",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1996-16209",
+      "type": "official",
+      "relevance_en": "Cites an 11 April 1973 deed in which Pistas y Obras S.A. sold a dwelling in the ciudad residencial Santa Eugenia, confirming the developer-place relationship in a legal record.",
+      "relevance_es": "Cita una escritura de 11 de abril de 1973 en la que Pistas y Obras S.A. vendió una vivienda en la ciudad residencial Santa Eugenia, confirmando la relación promotora-lugar en un registro jurídico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from a simple 'person' to a layered 'place' origin: the station is directly named after the Santa Eugenia neighbourhood/avenue.",
+      "es": "Cambiar el tipo etimológico de un simple 'person' a un origen estratificado de tipo 'place': la estación se nombra directamente por el barrio y la avenida de Santa Eugenia."
+    },
+    {
+      "en": "Do not mark the mother-of-the-founders claim as fully verified unless a founding deed, planning file, company document or contemporary advertisement is found.",
+      "es": "No marcar como plenamente verificada la afirmación sobre la madre de los promotores salvo que aparezca una escritura fundacional, expediente urbanístico, documento societario o anuncio contemporáneo."
+    },
+    {
+      "en": "Use 1971, not only 1970, for the creation of Ciudad Residencial Santa Eugenia when citing Madrid municipal sources.",
+      "es": "Usar 1971, no solo 1970, para la creación de la Ciudad Residencial Santa Eugenia cuando se citen fuentes municipales madrileñas."
+    },
+    {
+      "en": "Record the official street-name complication: Madrid's 'Memoria de mujeres en el callejero' lists Avenida de Santa Eugenia in 1972 and explains the name through Christian saints named Eugenia.",
+      "es": "Registrar la complicación del callejero oficial: la 'Memoria de mujeres en el callejero' de Madrid recoge la avenida de Santa Eugenia en 1972 y explica el nombre por santas cristianas llamadas Eugenia."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original urban-planning file or founding statutes of Ciudad Residencial Santa Eugenia / the owners' community to confirm whether Eugenia, the promoters' mother, is explicitly named.",
+      "es": "Consultar el expediente urbanístico original o los estatutos fundacionales de la Ciudad Residencial Santa Eugenia / la mancomunidad para confirmar si se menciona explícitamente a Eugenia, madre de los promotores."
+    },
+    {
+      "en": "Check contemporary advertising for the development in ABC, Pueblo, Ya or BNE/Hemeroteca to see how Pistas y Obras presented the name at launch.",
+      "es": "Revisar publicidad contemporánea de la promoción en ABC, Pueblo, Ya o BNE/Hemeroteca para ver cómo presentaba Pistas y Obras el nombre en el momento de lanzamiento."
+    },
+    {
+      "en": "Clarify the identities and surnames of Roberto, Carmelo and Alejandro and their exact corporate roles in Pistas y Obras.",
+      "es": "Aclarar las identidades y apellidos de Roberto, Carmelo y Alejandro y sus cargos exactos en Pistas y Obras."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_035/en/summary.short.md",
+      "summary": "content/stations/cercanias_035/en/summary.md",
+      "story": "content/stations/cercanias_035/en/story.md",
+      "confidence": "content/stations/cercanias_035/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_035/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_035/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_035/es/summary.short.md",
+      "summary": "content/stations/cercanias_035/es/summary.md",
+      "story": "content/stations/cercanias_035/es/story.md",
+      "confidence": "content/stations/cercanias_035/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_035/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_035/es/research-note.md"
+    }
+  }
+}

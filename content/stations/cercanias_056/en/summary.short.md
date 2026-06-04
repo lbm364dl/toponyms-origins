@@ -1,0 +1,1 @@
+Leganés station is named after the municipality it serves. The town name is traditionally explained from a lagoon rich in mud or silt, but modern toponymists treat that as plausible tradition rather than a closed etymology.

@@ -1,0 +1,1 @@
+La estación toma su nombre del Hospital Universitario Infanta Sofía de San Sebastián de los Reyes. Ese hospital pasó legalmente de llamarse Hospital del Norte a Hospital Infanta Sofía en 2008, en honor de la infanta Sofía de Borbón y Ortiz.

@@ -1,0 +1,1 @@
+La estacion de Humanes toma su nombre de Humanes de Madrid, el municipio al que sirve en el extremo sur de la linea C-5 de Cercanias. El toponimo se entiende mejor como un nombre vinculado al agua, aunque las fuentes discrepan entre una raiz hidronimica paleoeuropea y el latin humidus, 'humedo'.

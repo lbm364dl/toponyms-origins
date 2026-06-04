@@ -1,0 +1,1 @@
+Alcalá de Henares Universidad toma su nombre de la Universidad de Alcalá, cuyo campus moderno se encuentra junto a la estación. El nombre enlaza con la universidad fundada en Alcalá en 1499 y recuperada como universidad pública en 1977.

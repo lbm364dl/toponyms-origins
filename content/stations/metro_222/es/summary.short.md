@@ -1,0 +1,1 @@
+Alcorcón Central toma su nombre del intercambiador central de Alcorcón al que da servicio, donde MetroSur enlaza con Cercanías C-5. El topónimo Alcorcón es medieval y discutido, aunque la mejor evidencia filológica lo relaciona con un híbrido mozárabe-árabe vinculado a encinas, robles o alcornoques.

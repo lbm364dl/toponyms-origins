@@ -1,0 +1,1 @@
+The core idea is right: the station name comes from the Soto del Henares place-name, tied to riparian land along the Henares. However, the most direct transport source says the station is in the homonymous Torrejón de Ardoz neighbourhood, while the official protected natural area declared in 2000 is in Alcalá de Henares and Los Santos de la Humosa, not Torrejón.

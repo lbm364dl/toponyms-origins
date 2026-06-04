@@ -1,0 +1,1 @@
+Getafe Central is named for its role as the central MetroSur and Cercanías interchange in Getafe. The city name Getafe probably descends from medieval forms such as Xetafe/Xatafi, but the popular Arabic 'long street' explanation remains unproven.

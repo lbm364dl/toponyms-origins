@@ -1,0 +1,1 @@
+La estación de Majadahonda debe su nombre al municipio al que sirve. El topónimo une majada, lugar donde se recoge de noche el ganado y se albergan los pastores, con honda, 'profunda' o 'más baja que el terreno circundante'.

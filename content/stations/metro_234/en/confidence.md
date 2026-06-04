@@ -1,0 +1,1 @@
+Official sources from the Community of Madrid and CRTM directly connect the station with the nearby Conservatorio Profesional de Musica de Getafe, and the station opened with Line 12 under this name. The only weakness is that no separate station-naming resolution was found, but the geographic and institutional evidence is direct.

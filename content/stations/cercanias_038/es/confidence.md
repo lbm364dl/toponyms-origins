@@ -1,0 +1,1 @@
+La relación entre la estación y el municipio está confirmada por registros actuales de Adif/CRTM/Renfe, y la explicación toponímica municipal está respaldada por Toponomasticon Hispaniae y una historia municipal oficial. La única parte incierta es la etimología profunda de Ardoz, que la fuente autorizada califica expresamente como opaca.

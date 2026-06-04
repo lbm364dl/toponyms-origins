@@ -1,0 +1,89 @@
+{
+  "id": "cercanias_001",
+  "name": "Recoletos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Paseo de Recoletos, named for the former Convento de Agustinos Recoletos",
+  "previous_names": "No former station name found. Relevant place-name variants for the paseo include Prado de los Agustinos Recoletos, Prado de Recoletos, Prado Nuevo and paseo de Copacabana; the paseo later recovered the name Recoletos after twentieth-century renaming of the street.",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Estación de Recoletos | Renfe",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-recoletos",
+      "type": "official",
+      "relevance_en": "Official Renfe station page locating Recoletos on Paseo de Recoletos and listing current Cercanías services.",
+      "relevance_es": "Página oficial de Renfe que sitúa Recoletos en el paseo de Recoletos y enumera los servicios actuales de Cercanías."
+    },
+    {
+      "title": "Nombres curiosos de estaciones en Cercanías Madrid",
+      "url": "https://blog.renfe.com/nombres-curiosos-de-estaciones-en-cercanias-madrid/",
+      "type": "official",
+      "relevance_en": "Renfe article explicitly states that the stop and the paseo take their name from the former Convento de Recoletos de San Agustín, founded in 1592.",
+      "relevance_es": "Artículo de Renfe que afirma explícitamente que el apeadero y el paseo toman su nombre del desaparecido Convento de Recoletos de San Agustín, fundado en 1592."
+    },
+    {
+      "title": "Convento e Iglesia de Agustinos Recoletos | Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/439659",
+      "type": "official",
+      "relevance_en": "Municipal heritage record documenting the convent, its foundation in 1592 by Eufrasia de Guzmán, and demolition after the 1836 disentailment.",
+      "relevance_es": "Ficha patrimonial municipal que documenta el convento, su fundación en 1592 por Eufrasia de Guzmán y su derribo tras la desamortización de 1836."
+    },
+    {
+      "title": "Paseo de Recoletos | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/paseo-de-recoletos",
+      "type": "official",
+      "relevance_en": "Madrid tourism page explaining that Paseo de Recoletos owes its name to a friars' convent on the site of today's National Library and Archaeological Museum area.",
+      "relevance_es": "Página turística de Madrid que explica que el paseo de Recoletos debe su nombre a un convento de frailes situado en el entorno actual de la Biblioteca Nacional y el Museo Arqueológico."
+    },
+    {
+      "title": "recoleto, ta | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/recoleto",
+      "type": "reference",
+      "relevance_en": "Authoritative linguistic source defining recoleto as a religious term especially associated with Augustinians and stricter observance.",
+      "relevance_es": "Fuente lingüística autorizada que define recoleto como término religioso especialmente asociado a los agustinos y a una observancia más estrecha."
+    },
+    {
+      "title": "Los tiempos y los ritmos del paisaje. Los paseos del eje Prado-Recoletos-Castellana de Madrid",
+      "url": "https://www.researchgate.net/publication/325151484_Los_tiempos_y_los_ritmos_del_paisaje_Los_paseos_del_eje_Prado-Recoletos-Castellana_de_Madrid_Times_and_rhythms_of_landscape_Del_Prado-Recoletos-Castellana_Boulevards_in_Madrid",
+      "type": "academic",
+      "relevance_en": "Landscape-history study giving context for the Prado de los Agustinos Recoletos name and the public works that shaped the promenade.",
+      "relevance_es": "Estudio de historia del paisaje que contextualiza el nombre Prado de los Agustinos Recoletos y las obras públicas que configuraron el paseo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The current line field appears incomplete for present-day service: Renfe lists Recoletos with C1, C2, C7, C8 and C10, while the input row omits C1.",
+      "es": "El campo de líneas parece incompleto para el servicio actual: Renfe enumera Recoletos con C1, C2, C7, C8 y C10, mientras que la fila de entrada omite C1."
+    },
+    {
+      "en": "The promenade's green character should not be attributed only to the convent gardens; historical research points to planned public-works interventions along the Prado-Recoletos axis.",
+      "es": "El carácter arbolado del paseo no debe atribuirse solo a los jardines del convento; la investigación histórica apunta a intervenciones planificadas de obra pública en el eje Prado-Recoletos."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A dedicated railway archival source should be inspected to confirm the exact opening date and formal naming act for the Recoletos rail stop.",
+      "es": "Convendría consultar una fuente ferroviaria de archivo para confirmar la fecha exacta de apertura y el acto formal de denominación del apeadero de Recoletos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_001/en/summary.short.md",
+      "summary": "content/stations/cercanias_001/en/summary.md",
+      "story": "content/stations/cercanias_001/en/story.md",
+      "confidence": "content/stations/cercanias_001/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_001/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_001/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_001/es/summary.short.md",
+      "summary": "content/stations/cercanias_001/es/summary.md",
+      "story": "content/stations/cercanias_001/es/story.md",
+      "confidence": "content/stations/cercanias_001/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_001/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_001/es/research-note.md"
+    }
+  }
+}

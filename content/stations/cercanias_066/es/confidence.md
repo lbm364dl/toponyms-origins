@@ -1,0 +1,1 @@
+Renfe afirma directamente que el nombre de la estacion se debe al entorno natural cercano, y la definicion de la RAE respalda el sentido descriptivo de pinar como lugar poblado de pinos. Las fuentes oficiales de transporte confirman tambien el nombre actual como Pinar de las Rozas/Pinar, aunque no se localizo el acto administrativo exacto de asignacion del nombre.

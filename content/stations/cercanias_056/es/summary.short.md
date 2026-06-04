@@ -1,0 +1,1 @@
+La estación de Leganés toma su nombre del municipio al que sirve. El topónimo se explica tradicionalmente por una laguna con mucho légamo o lodo, aunque la toponimia actual lo considera una tradición plausible, no una etimología cerrada.

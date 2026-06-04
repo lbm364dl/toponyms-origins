@@ -1,0 +1,1 @@
+Torrelodones station takes its name from the municipality it serves. The place-name means, in effect, 'the tower of the lodones', with lodones understood as the plural of lodón, the hackberry tree now usually called almez.

@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_036",
+  "name": "Coslada",
+  "status": "uncertain",
+  "confidence": "uncertain",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Coslada municipality; ultimate origin uncertain, with a prominent but debated Celtic coslo/cosla 'hazel' hypothesis",
+  "previous_names": "",
+  "naming_date": "1980s (Renfe describes the original halt as inaugurated in the 1980s; exact naming act not found)",
+  "sources": [
+    {
+      "title": "Renfe - Estación de Coslada",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-coslada",
+      "type": "official",
+      "relevance_en": "Confirms the station identity, fare zone, 1980s halt origin, later station rebuilding, and Metro connection from May 2007.",
+      "relevance_es": "Confirma la identidad de la estación, la zona tarifaria, el origen como apeadero en los años ochenta, la transformación posterior en estación y la conexión con Metro desde mayo de 2007."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Coslada",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_22",
+      "type": "official",
+      "relevance_en": "Confirms current transport service: Cercanías C-2, C-7 and C-8, Metro line 7 correspondence, access address, and zone B1.",
+      "relevance_es": "Confirma el servicio actual: Cercanías C-2, C-7 y C-8, correspondencia con Metro línea 7, accesos y zona B1."
+    },
+    {
+      "title": "Entre el Jarama y el Torote (El valle del Henares II)",
+      "url": "https://www.madrid.org/bvirtual/BVCM001161.pdf",
+      "type": "official",
+      "relevance_en": "Regional publication that summarizes the confused etymology, cites the Celtic coslo/cosla hypothesis, records García López's flint/quarry explanation, suggests a possible livestock-route link, and gives medieval context.",
+      "relevance_es": "Publicación regional que resume la etimología confusa, cita la hipótesis céltica coslo/cosla, recoge la explicación de García López basada en el pedernal y las canteras, sugiere una posible relación ganadera y aporta contexto medieval."
+    },
+    {
+      "title": "Jairo J. García Sánchez, CVC Rinconete - La Comunidad de Madrid y sus topónimos (y IV)",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Authoritative linguistic note stating that Coslada has no precise origin and that the Latin cova ustulata explanation is merely hypothetical.",
+      "relevance_es": "Nota lingüística autorizada que indica que Coslada no muestra un origen preciso y que la explicación latina cova ustulata no pasa de mera hipótesis."
+    },
+    {
+      "title": "Jairo Javier García Sánchez, En torno a la toponimia madrileña",
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110233490.259/html",
+      "type": "academic",
+      "relevance_en": "Academic chapter in *Toponimia de España*; accessible metadata confirms publication details and DOI for García Sánchez's broader assessment of Madrid toponymy.",
+      "relevance_es": "Capítulo académico en *Toponimia de España*; los metadatos accesibles confirman los datos de publicación y el DOI de la valoración general de García Sánchez sobre la toponimia madrileña."
+    },
+    {
+      "title": "Ramón Menéndez Pidal, Toponimia prerrománica hispana - Open Library record",
+      "url": "https://openlibrary.org/books/OL15507898M/Toponimia_prerrom%C3%A1nica_hispana.",
+      "type": "book",
+      "relevance_en": "Bibliographic record for the key 1952 Gredos work that introduced or popularized the Celtic coslo/cosla explanation cited by later authors; original text was not fully inspectable online here.",
+      "relevance_es": "Registro bibliográfico de la obra clave de Gredos de 1952 que introdujo o difundió la explicación céltica coslo/cosla citada por autores posteriores; el texto original no se pudo inspeccionar íntegramente en línea aquí."
+    },
+    {
+      "title": "Coslada, su historia y más datos - Cosladaweb",
+      "url": "https://cosladaweb.es/coslada/",
+      "type": "other",
+      "relevance_en": "Local historical compilation quoting Menéndez Pidal's Celtic argument and summarizing Julio González's documentation claims; useful but secondary and not decisive.",
+      "relevance_es": "Recopilación histórica local que cita la explicación céltica de Menéndez Pidal y resume las referencias documentales atribuidas a Julio González; útil, pero secundaria y no concluyente."
+    },
+    {
+      "title": "Historia de Coslada a través de las fuentes documentales",
+      "url": "https://coslada.es/innovacion-publica-transparencia-y-servicios-generales/wp-content/uploads/sites/15/2023/10/Historia-de-Coslada-a-traves-de-las-fuentes-documentales.pdf",
+      "type": "official",
+      "relevance_en": "Municipal archival-history PDF; search-accessible text states that Coslada's foundation is unknown and documents later evidence for quarrying and small-scale agriculture.",
+      "relevance_es": "PDF municipal de historia archivística; el texto accesible en búsqueda indica que la fundación de Coslada es desconocida y documenta después la importancia de las canteras y la agricultura modesta."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not set the named_after value as if the Celtic hazel-grove etymology were proven; use the municipality as the direct namesake and mark the deeper etymology as disputed.",
+      "es": "No conviene fijar el campo named_after como si la etimología céltica de la avellaneda estuviera demostrada; debe usarse el municipio como referente directo y marcar la etimología profunda como discutida."
+    },
+    {
+      "en": "The year 1083 should not be treated as the first written attestation of Coslada; stronger accessible sources describe it as a reconquest-context date or say the first known reference is from the reign of Fernando III, with Coslada documented by 1273 in Julio González's account.",
+      "es": "El año 1083 no debe tratarse como primera documentación escrita de Coslada; las fuentes accesibles más sólidas lo presentan como fecha de contexto reconquistador o sitúan la primera referencia conocida en tiempos de Fernando III, con Coslada documentada hacia 1273 según Julio González."
+    },
+    {
+      "en": "The 'cova ustulata' explanation should remain only as a rejected or weak hypothesis, not as a live coequal etymology.",
+      "es": "La explicación de 'cova ustulata' debe quedar como hipótesis débil o descartada, no como etimología alternativa equiparable."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Menéndez Pidal's original printed page in *Toponimia prerrománica hispana* and Aurelio García López's 1998 book *Coslada* directly to confirm wording, page numbers, and whether later editions changed the argument.",
+      "es": "Conviene revisar directamente la página impresa de *Toponimia prerrománica hispana* de Menéndez Pidal y el libro *Coslada* de Aurelio García López de 1998 para confirmar la redacción, las páginas y si ediciones posteriores modificaron el argumento."
+    },
+    {
+      "en": "Check the medieval documentary references cited by Julio González to distinguish a general alfoz list in 1152 from a specific written mention of Coslada by 1273.",
+      "es": "Debe comprobarse la documentación medieval citada por Julio González para distinguir una lista general del alfoz en 1152 de una mención escrita específica de Coslada hacia 1273."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_036/en/summary.short.md",
+      "summary": "content/stations/cercanias_036/en/summary.md",
+      "story": "content/stations/cercanias_036/en/story.md",
+      "confidence": "content/stations/cercanias_036/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_036/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_036/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_036/es/summary.short.md",
+      "summary": "content/stations/cercanias_036/es/summary.md",
+      "story": "content/stations/cercanias_036/es/story.md",
+      "confidence": "content/stations/cercanias_036/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_036/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_036/es/research-note.md"
+    }
+  }
+}

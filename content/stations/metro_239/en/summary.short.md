@@ -1,0 +1,1 @@
+El Carrascal station is named for the Leganés neighbourhood it serves. The neighbourhood name is a transparent botanical toponym: a carrascal is a place or wood with carrascas, small holm-oak-like trees.

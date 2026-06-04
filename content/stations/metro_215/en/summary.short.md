@@ -1,0 +1,1 @@
+La Fortuna station is named for the La Fortuna district of Leganés. The district's name is traditionally and officially explained as Domingo Dos Santos's tribute to his wife, Fortunata González Arroyo.

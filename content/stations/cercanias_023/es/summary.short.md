@@ -1,0 +1,1 @@
+La estación de Pinto toma su nombre del municipio al que sirve. La evidencia toponímica más sólida apunta al latín *pincta/*pinctu, 'pintado' o 'coloreado', y no a la explicación popular desde punctum, 'punto'.

@@ -1,0 +1,107 @@
+{
+  "id": "cercanias_062",
+  "name": "El Barrial-Centro Comercial Pozuelo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Barrial area and Centro Comercial Pozuelo / Hipercor Pozuelo",
+  "previous_names": "El Barrial",
+  "naming_date": "1996 reported for the compound name in secondary rail-history sources; exact official naming date not verified",
+  "sources": [
+    {
+      "title": "Renfe station fiche: EL BARRIAL-CENTRO COMERCIAL-POZUELO",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10010.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the official station name, Renfe Viajeros operation, station code 10010, coordinates, address, and commercial lines C7A and C10.",
+      "relevance_es": "Confirma el nombre oficial de la estación, la explotación por Renfe Viajeros, el código 10010, las coordenadas, la dirección y las líneas comerciales C7A y C10."
+    },
+    {
+      "title": "CRTM station page: El Barrial - C.C. Pozuelo",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_13?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms CRTM’s public name form, access naming, fare zone B1, interchange services, and station facilities.",
+      "relevance_es": "Confirma la forma pública del nombre usada por el CRTM, la denominación del acceso, la zona tarifaria B1, las correspondencias y los servicios de la estación."
+    },
+    {
+      "title": "Adif station page: 10010 El Barrial-CC.Poz.",
+      "url": "https://www.adif.es/w/10010-el-barrial-cc.poz.",
+      "type": "official",
+      "relevance_en": "Confirms Adif’s current station heading as El Barrial-Centro Comercial Pozuelo.",
+      "relevance_es": "Confirma que Adif encabeza actualmente la estación como El Barrial-Centro Comercial Pozuelo."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española: barrial",
+      "url": "https://dle.rae.es/barrial",
+      "type": "reference",
+      "relevance_en": "Defines barrial as derived from barro and as clayey or muddy ground, supporting the descriptive origin of the older place-name.",
+      "relevance_es": "Define barrial como derivado de barro y como terreno gredoso o arcilloso, lo que sustenta el origen descriptivo del topónimo antiguo."
+    },
+    {
+      "title": "El País: Hipercor abre en Pozuelo a la espera de más accesos",
+      "url": "https://elpais.com/diario/1994/09/16/madrid/779714662_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on Hipercor Pozuelo’s September 1994 opening and the agreement to finish a Cercanías stop at the El Barrial junction.",
+      "relevance_es": "Crónica contemporánea de la apertura de Hipercor Pozuelo en septiembre de 1994 y del acuerdo para terminar un apeadero de Cercanías en el nudo de El Barrial."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: pavements in the El Barrial area",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/gabinete-de-prensa/noticias/el-ayuntamiento-de-pozuelo-solicitara-al-de-madrid-que-arregle-el-pavimento-de-las-calles-en-la-zona-de-el-barrial",
+      "type": "official",
+      "relevance_en": "Shows official municipal use of El Barrial as a border area connected to the Cercanías station and nearby Pozuelo workplaces.",
+      "relevance_es": "Muestra el uso municipal oficial de El Barrial como zona limítrofe conectada con la estación de Cercanías y con centros de trabajo cercanos de Pozuelo."
+    },
+    {
+      "title": "CRTM: reorganization of Pozuelo bus service, 25 October 2013",
+      "url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/archivo/25102013-el-consorcio-regional-de-transportes-de-madrid-reorganiza-el-servicio-de-autobuses-de-pozuelo/",
+      "type": "official",
+      "relevance_en": "Documents El Barrial and Centro Comercial Hipercor de Pozuelo as distinct nearby service areas in Pozuelo transport planning.",
+      "relevance_es": "Documenta El Barrial y el Centro Comercial Hipercor de Pozuelo como áreas próximas diferenciadas dentro de la planificación del transporte de Pozuelo."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: Parque empresarial Cerro de los Gamos",
+      "url": "https://www.pozuelodealarcon.org/empleo-y-empresas/empresas-y-emprendimiento/grandes-empresas-e-inversion/parques-empresariales/parque-empresarial-cerro-de-los-gamos",
+      "type": "official",
+      "relevance_en": "Confirms local use of Estación El Barrial as the Cercanías access for the Cerro de los Gamos business area and lists C7/C10 service.",
+      "relevance_es": "Confirma el uso local de la Estación El Barrial como acceso de Cercanías al parque empresarial Cerro de los Gamos y enumera el servicio C7/C10."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not imply that the compound name was necessarily assigned immediately when the shopping centre opened; Hipercor Pozuelo opened on 15 September 1994, while secondary rail sources report the station opened as El Barrial on 23 December 1994 and later adopted the full name.",
+      "es": "No debe darse a entender que el nombre compuesto se asignó necesariamente en el mismo momento en que abrió el centro comercial; Hipercor Pozuelo abrió el 15 de septiembre de 1994, mientras que fuentes ferroviarias secundarias indican que la estación abrió como El Barrial el 23 de diciembre de 1994 y adoptó después el nombre completo."
+    },
+    {
+      "en": "The station’s jurisdiction is nuanced: Renfe’s station fiche gives the municipality as Pozuelo de Alarcón, CRTM gives the access address in Madrid, and municipal sources describe the area as bordering Pozuelo and Madrid.",
+      "es": "La adscripción territorial de la estación requiere matiz: la ficha de Renfe indica municipio Pozuelo de Alarcón, el CRTM da el acceso en Madrid y fuentes municipales describen la zona como limítrofe entre Pozuelo y Madrid."
+    },
+    {
+      "en": "The phrase about a common Spanish practice of dual-naming stations after commercial landmarks should be removed unless supported separately; it is not needed to explain this station.",
+      "es": "Debe eliminarse la frase sobre una práctica española habitual de doble denominación por hitos comerciales salvo que se documente por separado; no es necesaria para explicar esta estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Renfe, CRTM or BOCM archival material from 1994-1996 to verify the exact opening notice and the formal date of the change from El Barrial to El Barrial-Centro Comercial Pozuelo.",
+      "es": "Conviene revisar documentación archivística de Renfe, CRTM o BOCM de 1994-1996 para verificar el aviso exacto de apertura y la fecha formal del cambio de El Barrial a El Barrial-Centro Comercial Pozuelo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_062/en/summary.short.md",
+      "summary": "content/stations/cercanias_062/en/summary.md",
+      "story": "content/stations/cercanias_062/en/story.md",
+      "confidence": "content/stations/cercanias_062/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_062/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_062/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_062/es/summary.short.md",
+      "summary": "content/stations/cercanias_062/es/summary.md",
+      "story": "content/stations/cercanias_062/es/story.md",
+      "confidence": "content/stations/cercanias_062/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_062/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_062/es/research-note.md"
+    }
+  }
+}

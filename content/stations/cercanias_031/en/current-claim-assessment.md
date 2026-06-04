@@ -1,0 +1,1 @@
+The core claim is well supported: the station name refers to the El Goloso locality/base area on the Madrid-Colmenar road, and the name predates the completed military base. The deeper explanation of the word as a toponym remains unverified, and the 1951 inauguration detail was not confirmed from a strong source in this pass.

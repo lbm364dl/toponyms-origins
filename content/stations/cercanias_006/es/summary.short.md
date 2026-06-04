@@ -1,0 +1,1 @@
+Fuente de la Mora toma su nombre de una antigua fuente o topónimo local conservado en el cercano Camino y Avenida de la Fuente de la Mora. El sentido exacto de Mora no está documentado con seguridad para este lugar concreto.

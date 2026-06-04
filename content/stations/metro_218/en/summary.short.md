@@ -1,0 +1,1 @@
+San Francisco station takes its name from the San Francisco area of Carabanchel, especially the Colonia de San Francisco shown on Madrid municipal mapping. The ultimate religious reference is probably Saint Francis of Assisi, but the station's immediate naming basis is the local place name.

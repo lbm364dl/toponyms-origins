@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_018",
+  "name": "Getafe Industrial",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Getafe's industrial area and industrial estates",
+  "previous_names": "Getafe; Getafe-Alicante",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif: 60102 Getafe Industrial",
+      "url": "https://www.adif.es/-/60102-getafe-industrial",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name, operator infrastructure context, C-3 service information and address on Avenida de los Ángeles.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, el contexto de infraestructura, la información de servicio de la C-3 y la dirección en la avenida de los Ángeles."
+    },
+    {
+      "title": "CRTM: Plano histórico del ferrocarril en Madrid",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "States that the 1851 Getafe station is the current Getafe Industrial, that it became Getafe-Alicante in 1879, and that it was later renamed Getafe Industrial.",
+      "relevance_es": "Indica que la estación de Getafe de 1851 es la actual Getafe Industrial, que en 1879 pasó a llamarse Getafe-Alicante y que posteriormente se denominó Getafe Industrial."
+    },
+    {
+      "title": "Museo virtual de Getafe: El ferrocarril en Getafe",
+      "url": "https://museo.getafe.es/omeka/exhibits/show/el-ferrocarril-en-getafe",
+      "type": "archive",
+      "relevance_en": "Local historical source stating the sequence Getafe, Getafe-Alicante and Getafe-Industrial, and explaining the relationship with the Madrid-Aranjuez and Madrid-Badajoz railway lines.",
+      "relevance_es": "Fuente histórica local que recoge la secuencia Getafe, Getafe-Alicante y Getafe-Industrial, y explica la relación con las líneas Madrid-Aranjuez y Madrid-Badajoz."
+    },
+    {
+      "title": "Archivo Histórico Ferroviario: Nueva estación de Getafe de la línea de Madrid a Alicante",
+      "url": "https://archivo.docutren.com/index.php/nueva-estacion-de-getafe-de-la-linea-de-madrid-a-alicante-7",
+      "type": "archive",
+      "relevance_en": "Archival photograph record from around 1975 with access points for Getafe-Alicante and Getafe-Industrial, noting the current Getafe-Industrial name and industrial surroundings such as Uralita.",
+      "relevance_es": "Registro fotográfico archivístico de hacia 1975 con materias Getafe-Alicante y Getafe-Industrial, que anota el nombre actual Getafe-Industrial y el entorno fabril, incluida Uralita."
+    },
+    {
+      "title": "Ejército del Aire y del Espacio: Historia de la Base Aérea de Getafe",
+      "url": "https://ejercitodelaireydelespacio.defensa.gob.es/EA/centenariobasesaereas/getafe/historia.html",
+      "type": "official",
+      "relevance_en": "Provides official chronology for Getafe aviation: the 1911 Paris-Madrid race at Santa Quiteria, military status in January-February 1920, and the creation of territorial air bases including Getafe.",
+      "relevance_es": "Aporta cronología oficial de la aviación en Getafe: la carrera París-Madrid de 1911 en Santa Quiteria, la condición militar en enero-febrero de 1920 y la creación de bases aéreas territoriales, incluida Getafe."
+    },
+    {
+      "title": "Ministerio de Defensa: 100 años de la Base Aérea de Getafe 1920-2020",
+      "url": "https://publicaciones.defensa.gob.es/100-a-os-de-la-base-aerea-de-getafe-1920-2020-libros-papel.html",
+      "type": "book",
+      "relevance_en": "Official book description says Getafe was chosen as the Paris-Madrid race finish in 1911 and became one of the first four Spanish air bases on 18 March 1920, specifically the first in the Central/Madrid region.",
+      "relevance_es": "La descripción oficial del libro señala que Getafe fue meta de la carrera París-Madrid en 1911 y una de las cuatro primeras bases aéreas españolas el 18 de marzo de 1920, concretamente la primera de la región Central/Madrid."
+    },
+    {
+      "title": "Airbus en España: defensa y seguridad",
+      "url": "https://www.airbus.com/es/about-us/our-worldwide-presence/airbus-in-europe/airbus-en-espana/airbus-defence-en-espana",
+      "type": "official",
+      "relevance_en": "Current Airbus source identifying the Getafe site with Eurofighter final assembly, A330 MRTT conversion, A400M MRO and SpainSat NG-related space work.",
+      "relevance_es": "Fuente actual de Airbus que identifica la planta de Getafe con el montaje final del Eurofighter, la conversión del A330 MRTT, el MRO del A400M y trabajos espaciales relacionados con SpainSat NG."
+    },
+    {
+      "title": "Timetable World / Biblioteca Ferroviaria FFE: Horario RENFE, September 1985",
+      "url": "https://timetableworld.com/PDF/FFE/FFE-1985-09.pdf",
+      "type": "archive",
+      "relevance_en": "Shows the station still listed as Getafe Alicante in September 1985, useful for bracketing the later renaming to Getafe Industrial.",
+      "relevance_es": "Muestra la estación todavía como Getafe Alicante en septiembre de 1985, útil para acotar el cambio posterior a Getafe Industrial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Spain's first military air base' with 'one of Spain's first four air bases, created in 1920, and the first in the Central/Madrid region' unless a stronger source is found for the broader claim.",
+      "es": "Sustituir 'la primera base aérea militar de España' por 'una de las cuatro primeras bases aéreas españolas, creadas en 1920, y la primera de la región Central/Madrid', salvo que aparezca una fuente más sólida para la afirmación amplia."
+    },
+    {
+      "en": "Clarify that the station's name is directly descriptive of the industrial area; the air base and CASA/Airbus are contextual reasons for the area's industrial identity, not proven as the formal naming source.",
+      "es": "Aclarar que el nombre de la estación describe directamente la zona industrial; la base aérea y CASA/Airbus son contexto de esa identidad industrial, no una fuente formal demostrada del nombre."
+    },
+    {
+      "en": "Update the Airbus detail: current Airbus sources describe Getafe as hosting Eurofighter final assembly, A330 MRTT conversion, A400M MRO and space work, while Seville leads A400M final assembly.",
+      "es": "Actualizar el detalle sobre Airbus: las fuentes actuales de Airbus describen Getafe como sede del montaje final del Eurofighter, la conversión del A330 MRTT, el MRO del A400M y trabajos espaciales, mientras que Sevilla lidera el montaje final del A400M."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find a Renfe, Adif or official timetable circular that gives the exact date when Getafe-Alicante was renamed Getafe Industrial.",
+      "es": "Localizar una circular de Renfe, Adif o un horario oficial que indique la fecha exacta en que Getafe-Alicante pasó a llamarse Getafe Industrial."
+    },
+    {
+      "en": "Inspect the full Ministerio de Defensa book '100 años de la Base Aérea de Getafe 1920-2020' for a more precise formulation of the 1920 base-creation chronology.",
+      "es": "Revisar el libro completo del Ministerio de Defensa '100 años de la Base Aérea de Getafe 1920-2020' para precisar mejor la cronología de creación de la base en 1920."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_018/en/summary.short.md",
+      "summary": "content/stations/cercanias_018/en/summary.md",
+      "story": "content/stations/cercanias_018/en/story.md",
+      "confidence": "content/stations/cercanias_018/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_018/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_018/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_018/es/summary.short.md",
+      "summary": "content/stations/cercanias_018/es/summary.md",
+      "story": "content/stations/cercanias_018/es/story.md",
+      "confidence": "content/stations/cercanias_018/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_018/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_018/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The station is certainly named after the municipality of Móstoles, but the deeper claim that the place-name comes from Latin monisterium or monisteriis, 'monasteries', is only one plausible theory and should not be presented as settled.

@@ -1,0 +1,1 @@
+La denominación inmediata de la estación por la zona de Pan Bendito está bien respaldada por datos oficiales de transporte y por la documentación del proyecto de la línea 11. El origen profundo del topónimo solo puede considerarse probable porque las fuentes disponibles son locales, periodísticas o autobiográficas, no un documento histórico original de denominación.

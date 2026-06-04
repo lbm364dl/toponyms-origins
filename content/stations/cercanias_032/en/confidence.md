@@ -1,0 +1,1 @@
+The direct station naming after the municipality is confirmed by Renfe station data, and the recommended toponymic analysis is supported by Toponomasticon Hispaniae. Confidence is not absolute for the deeper origin of colmena or for the old-beekeeper story, both of which are explicitly uncertain or likely popular explanations.

@@ -1,0 +1,1 @@
+The station name, opening date, and service role are confirmed by official transport sources, and the barrio's dedication to Fortunata González Arroyo is stated in Comunidad de Madrid material on the Line 11 extension and repeated in municipal/local-history sources. Remaining uncertainty concerns some numerical details of the first settlers, not the naming origin.

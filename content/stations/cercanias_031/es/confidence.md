@@ -1,0 +1,1 @@
+La denominación inmediata de la estación por la zona/base de El Goloso está bien apoyada por fuentes de transporte, ferroviarias, municipales, militares y cartográficas. La confianza queda en probable porque no se localizó un acto primario de nombramiento de la estación y la motivación lingüística original del topónimo rural sigue sin explicación.

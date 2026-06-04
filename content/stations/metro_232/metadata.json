@@ -1,0 +1,107 @@
+{
+  "id": "metro_232",
+  "name": "Parque de los Estados",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Parque de los Estados, a public park in Fuenlabrada",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Parque de los Estados",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_222?lang=en",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the station name, Line 12 connection, fare zone, and accesses on Avenida de los Estados, Calle de La Habana and Calle de Venezuela.",
+      "relevance_es": "Página oficial del transporte regional que confirma el nombre de la estación, la conexión con la línea 12, la zona tarifaria y los accesos por Avenida de los Estados, Calle de La Habana y Calle de Venezuela."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official MetroSur construction page placing Parque de los Estados station at the confluence of Calle Venezuela and Calle Habana and explaining Line 12's role in the southern metropolitan ring.",
+      "relevance_es": "Página oficial sobre la construcción de MetroSur que sitúa la estación Parque de los Estados en la confluencia de las calles Venezuela y Habana y explica el papel de la línea 12 como anillo metropolitano sur."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronological reference listing the inauguration of MetroSur Line 12 on 11 April 2003 and including Parque de los Estados among the Fuenlabrada stations.",
+      "relevance_es": "Referencia cronológica que recoge la inauguración de MetroSur, línea 12, el 11 de abril de 2003 e incluye Parque de los Estados entre las estaciones de Fuenlabrada."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada - Anuario Estadístico Municipal 2024",
+      "url": "https://transparencia.ayto-fuenlabrada.es/wp-content/uploads/2025/06/01_Anuario-Estadistico-2024.pdf",
+      "type": "official",
+      "relevance_en": "Municipal statistical yearbook listing Parque de Los Estados among Fuenlabrada's large parks of more than 10,000 square metres.",
+      "relevance_es": "Anuario estadístico municipal que enumera el Parque de Los Estados entre los grandes parques de Fuenlabrada, de más de 10.000 metros cuadrados."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada - Callejero municipal PDF",
+      "url": "https://www.ayto-fuenlabrada.es/documents/36561/50403/130_256256201993624.pdf/f200ee07-2c3e-678f-1e86-9b52b17474bc?t=1655974122272",
+      "type": "official",
+      "relevance_en": "Municipal street map showing the station area's surrounding names, including Avenida de los Estados, Venezuela, Lima, Bolivia, Caracas, Brasil and other American-place street names.",
+      "relevance_es": "Callejero municipal que muestra los nombres del entorno de la estación, entre ellos Avenida de los Estados, Venezuela, Lima, Bolivia, Caracas, Brasil y otros topónimos americanos."
+    },
+    {
+      "title": "Ruta Verde de Fuenlabrada - Parque de los Estados",
+      "url": "https://gl.wikiloc.com/rutas-a-pe/ruta-verde-de-fuenlabrada-103739893",
+      "type": "other",
+      "relevance_en": "Local green-route description giving the park's area as 16,730 square metres, saying it was created in 1980 and later enlarged, and explicitly noting that it gives its name to a Metro station.",
+      "relevance_es": "Descripción local de una ruta verde que da una superficie de 16.730 metros cuadrados, indica que el parque fue creado en 1980 y ampliado después, y señala expresamente que da nombre a una estación de Metro."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada - Los Veranos de la Pollina",
+      "url": "https://www.ayto-fuenlabrada.es/web/portal/w/los-veranos-de-la-pollina-03072023",
+      "type": "official",
+      "relevance_en": "Municipal page documenting La Pollina as a nearby urban green leisure space of about three hectares, useful for qualifying but not proving the former-name claim.",
+      "relevance_es": "Página municipal que documenta La Pollina como espacio verde urbano de ocio cercano, de unas tres hectáreas, útil para matizar pero no para probar la afirmación de antiguo topónimo."
+    },
+    {
+      "title": "BOCM - Reglamento de uso y funcionamiento de los huertos ecológicos de ocio del CEPAJ La Pollina",
+      "url": "https://transparencia.ayto-fuenlabrada.es/wp-content/uploads/2022/09/Reglamento-de-huertos-de-ocio-La-Pollina-BOCM-14-junio-2012.pdf",
+      "type": "official",
+      "relevance_en": "Official gazette text identifying CEPAJ La Pollina and its location on Camino Viejo de Getafe, showing that La Pollina is an official nearby municipal place name.",
+      "relevance_es": "Texto del boletín oficial que identifica el CEPAJ La Pollina y su ubicación en el Camino Viejo de Getafe, mostrando que La Pollina es un topónimo municipal oficial cercano."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Qualify the La Pollina statement: it is a nearby municipal green/environmental space, but I found no direct evidence that the station site or park area was formerly called La Pollina.",
+      "es": "Matizar la referencia a La Pollina: es un espacio verde y ambiental municipal cercano, pero no he encontrado prueba directa de que el emplazamiento de la estación o del parque se llamara antes La Pollina."
+    },
+    {
+      "en": "Broaden the street-theme wording from only Central and South American countries and cities to American countries, capitals, cities and territories, because the surrounding names include La Habana, Puerto Rico and República Dominicana as well as Venezuela, Lima, Bolivia and Brasil.",
+      "es": "Ampliar la formulación del tema viario: no solo países y ciudades de Centroamérica y Sudamérica, sino países, capitales, ciudades y territorios americanos, porque el entorno incluye La Habana, Puerto Rico y República Dominicana, además de Venezuela, Lima, Bolivia y Brasil."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or planning document would be needed to prove when Avenida de los Estados and Parque de los Estados were officially named.",
+      "es": "Haría falta un expediente municipal de rotulación o planeamiento para probar cuándo se asignaron oficialmente los nombres Avenida de los Estados y Parque de los Estados."
+    },
+    {
+      "en": "A historical cadastral or planning source should be checked before presenting La Pollina as the former name of the station area.",
+      "es": "Conviene revisar una fuente catastral o urbanística histórica antes de presentar La Pollina como antiguo nombre del entorno de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_232/en/summary.short.md",
+      "summary": "content/stations/metro_232/en/summary.md",
+      "story": "content/stations/metro_232/en/story.md",
+      "confidence": "content/stations/metro_232/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_232/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_232/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_232/es/summary.short.md",
+      "summary": "content/stations/metro_232/es/summary.md",
+      "story": "content/stations/metro_232/es/story.md",
+      "confidence": "content/stations/metro_232/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_232/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_232/es/research-note.md"
+    }
+  }
+}

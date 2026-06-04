@@ -1,0 +1,93 @@
+{
+  "id": "cercanias_058",
+  "name": "Fuenlabrada",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Fuenlabrada, from Fuente Labrada, a worked or carved stone fountain",
+  "previous_names": "",
+  "naming_date": "1989 integration into Cercanías C-5 under the municipal name; railway station name likely inherited from earlier Fuenlabrada station",
+  "sources": [
+    {
+      "title": "Fuenlabrada | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/pt/node/230",
+      "type": "academic",
+      "relevance_en": "Provides the strongest linguistic analysis: Fuenlabrada is a Castilian compound of fuente and labrada, with labrada probably meaning worked or carved stone, and cites the 1576 Relaciones Topográficas as the correct explanation.",
+      "relevance_es": "Aporta el análisis lingüístico más sólido: Fuenlabrada es un compuesto castellano de fuente y labrada, con labrada probablemente en el sentido de piedra trabajada o tallada, y cita las Relaciones Topográficas de 1576 como explicación correcta."
+    },
+    {
+      "title": "Relaciones topográficas de Felipe II: Fuenlabrada",
+      "url": "https://es.wikisource.org/wiki/Relaciones_topogr%C3%A1ficas_de_Felipe_II:Fuenlabrada",
+      "type": "archive",
+      "relevance_en": "Transcribes the 13 January 1576 local testimony explaining the town name by an old worked stone-and-mortar fountain and recording the belief that it had been made by Moors.",
+      "relevance_es": "Transcribe el testimonio local del 13 de enero de 1576 que explica el nombre del pueblo por una fuente vieja de piedra y argamasa labrada y recoge la creencia de que la hicieron los moros."
+    },
+    {
+      "title": "Historia - Ayuntamiento de Fuenlabrada",
+      "url": "https://www.ayto-fuenlabrada.es/historia",
+      "type": "official",
+      "relevance_en": "Official municipal history repeats the archival explanation of the name, places it in the town’s medieval origin story, and identifies the water source with Fuente de Fregacedos in the present Nuevo Versalles-Loranca area.",
+      "relevance_es": "La historia municipal oficial reproduce la explicación archivística del nombre, la sitúa en el relato medieval de origen de la localidad e identifica la fuente con la Fuente de Fregacedos en la actual zona de Nuevo Versalles-Loranca."
+    },
+    {
+      "title": "Estación de Fuenlabrada | Renfe Rodajes Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-fuenlabrada",
+      "type": "official",
+      "relevance_en": "Renfe states that Fuenlabrada station joined the Cercanías network in 1989 as a C-5 terminus and describes its current rail role and interchange with Metro line 12.",
+      "relevance_es": "Renfe indica que la estación de Fuenlabrada se integró en la red de Cercanías en 1989 como cabecera de la C-5 y describe su función ferroviaria actual y la conexión con la línea 12 de Metro."
+    },
+    {
+      "title": "Fuenlabrada - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_32?idPestana=1",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the station name, C-5 service, Metro line 12 connection, bus links, and access information.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma el nombre de la estación, el servicio C-5, la correspondencia con Metro línea 12, los enlaces de autobús y los accesos."
+    },
+    {
+      "title": "FUENLABRADA - Ficha de estación Renfe 35002",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35002.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station data sheet confirming the station code, name FUENLABRADA, municipality, coordinates, operator, and commercial line C5.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código, el nombre FUENLABRADA, el municipio, las coordenadas, el explotador y la línea comercial C5."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that “made by the Moors” is a belief recorded by the 1576 witnesses, not a verified construction history.",
+      "es": "Aclarar que “hecha por los moros” es una creencia recogida por los testigos de 1576, no una historia constructiva comprobada."
+    },
+    {
+      "en": "Use “worked/hewn/carved stone fountain” rather than only “carved fountain,” because Toponomasticon Hispaniae explains labrada through the broader old sense of worked stone.",
+      "es": "Usar “fuente de piedra trabajada/labrada/tallada” y no solo “fuente tallada”, porque Toponomasticon Hispaniae explica labrada mediante el sentido antiguo más amplio de piedra trabajada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A railway-history source should be inspected if the dataset wants the exact original 1876 station opening and naming date rather than only the 1989 Cercanías integration recorded by Renfe.",
+      "es": "Conviene revisar una fuente de historia ferroviaria si el dataset necesita la fecha exacta de apertura y denominación de la estación original de 1876, no solo la integración en Cercanías de 1989 recogida por Renfe."
+    },
+    {
+      "en": "The physical location and survival of the original Fuente Labrada are not archaeologically established in the consulted sources; the municipal page associates the remembered source with Fuente de Fregacedos.",
+      "es": "La ubicación física y la pervivencia de la Fuente Labrada original no quedan establecidas arqueológicamente en las fuentes consultadas; la página municipal asocia la fuente recordada con la Fuente de Fregacedos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_058/en/summary.short.md",
+      "summary": "content/stations/cercanias_058/en/summary.md",
+      "story": "content/stations/cercanias_058/en/story.md",
+      "confidence": "content/stations/cercanias_058/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_058/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_058/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_058/es/summary.short.md",
+      "summary": "content/stations/cercanias_058/es/summary.md",
+      "story": "content/stations/cercanias_058/es/story.md",
+      "confidence": "content/stations/cercanias_058/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_058/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_058/es/research-note.md"
+    }
+  }
+}

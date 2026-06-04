@@ -1,0 +1,111 @@
+{
+  "id": "metro_239",
+  "name": "El Carrascal",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Carrascal, the Leganés neighbourhood/urban sector; ultimately from carrascal, a place or wood populated by carrascas",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM: El Carrascal",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_231/?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name El Carrascal, Line 12 connections, fare zone B1, accessibility and accesses on Avenida Rey Juan Carlos I in Leganés.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación El Carrascal, la conexión con la línea 12, la zona tarifaria B1, la accesibilidad y los accesos en la avenida Rey Juan Carlos I de Leganés."
+    },
+    {
+      "title": "Ayuntamiento de Leganés: Línea 12 Metro - MetroSur El Carrascal",
+      "url": "https://www.leganes.org/w/linea-12-metro-metrosur-el-carrascal",
+      "type": "official",
+      "relevance_en": "Municipal page confirming the El Carrascal MetroSur stop at Avenida Rey Juan Carlos I, 100, Leganés, with service hours and bus connections.",
+      "relevance_es": "Página municipal que confirma la parada de MetroSur El Carrascal en la avenida Rey Juan Carlos I, 100, Leganés, con horario de servicio y conexiones de autobús."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page describing Line 12/MetroSur and listing El Carrascal among the Leganés stations, located under Avenida Rey Juan Carlos I in a consolidated urban area.",
+      "relevance_es": "Página oficial regional que describe la línea 12/MetroSur y enumera El Carrascal entre las estaciones de Leganés, situada bajo la avenida Rey Juan Carlos I en una zona urbana consolidada."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page giving the MetroSur service-opening date as 11 April 2003.",
+      "relevance_es": "Página oficial regional que da la fecha de puesta en servicio de MetroSur: 11 de abril de 2003."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: carrascal",
+      "url": "https://dle.rae.es/carrascal",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source defining carrascal as a place or hill/wood populated by carrascas.",
+      "relevance_es": "Fuente léxica autorizada que define carrascal como sitio o monte poblado de carrascas."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: carrasca",
+      "url": "https://dle.rae.es/carrasca",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source defining carrasca as a usually small encina or clump of it, and deriving the word from pre-Roman karr-.",
+      "relevance_es": "Fuente léxica autorizada que define carrasca como encina generalmente pequeña o mata de ella, y deriva la palabra de la raíz prerromana karr-."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Carrascal, El",
+      "url": "https://toponhisp.org/node/5452",
+      "type": "academic",
+      "relevance_en": "Academic toponymy source explaining El Carrascal as a transparent, frequent botanical toponym derived from carrasca and describing carrascales/encinares as Mediterranean oak woods.",
+      "relevance_es": "Fuente académica de toponimia que explica El Carrascal como topónimo botánico transparente y frecuente, derivado de carrasca, y describe los carrascales/encinares como formaciones mediterráneas de quercíneas."
+    },
+    {
+      "title": "El comercio en la periferia sur metropolitana de Madrid",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/9045100.pdf",
+      "type": "academic",
+      "relevance_en": "Urban-studies article documenting Leganés's planning chronology: the 1966 General Plan, Zarzaquemada's 1968 plan, approval of the El Carrascal residential estate in 1974, and Parque Sur in 1989.",
+      "relevance_es": "Artículo de estudios urbanos que documenta la cronología urbanística de Leganés: Plan General de 1966, plan de Zarzaquemada de 1968, aprobación del polígono residencial de El Carrascal en 1974 y Parque Sur en 1989."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the recommended etymology type from purely descriptive to place, with a note that the place name is ultimately descriptive/botanical.",
+      "es": "Cambiar el tipo de etimología recomendado de puramente descriptivo a lugar, indicando que el topónimo es en último término descriptivo y botánico."
+    },
+    {
+      "en": "Do not state the 1981 development date as the strongest documented chronology; inspected stronger sources document approval of the El Carrascal residential estate in 1974, while the 1981 first-building claim remains weaker.",
+      "es": "No presentar la fecha de desarrollo de 1981 como la cronología mejor documentada; las fuentes más sólidas consultadas documentan la aprobación del polígono residencial de El Carrascal en 1974, mientras que el dato del primer edificio en 1981 sigue siendo más débil."
+    },
+    {
+      "en": "Avoid over-precise botanical wording that equates carrasca only with Quercus ilex; RAE gives the ordinary definition as a usually small encina, while Toponomasticon distinguishes carrasca/Quercus rotundifolia and encina/Quercus ilex as close taxa or subspecies.",
+      "es": "Evitar una precisión botánica excesiva que identifique carrasca solo con Quercus ilex; la RAE da la definición común de encina generalmente pequeña, mientras que Toponomasticon distingue carrasca/Quercus rotundifolia y encina/Quercus ilex como taxones o subespecies próximos."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning file, cadastral record, or local toponymy study could confirm whether El Carrascal was an older rural land-name before the 1974 residential estate.",
+      "es": "Un expediente urbanístico municipal, registro catastral o estudio local de toponimia podría confirmar si El Carrascal era un nombre rural de paraje anterior al polígono residencial aprobado en 1974."
+    },
+    {
+      "en": "The exact administrative act that assigned the station name El Carrascal for MetroSur was not located.",
+      "es": "No se ha localizado el acto administrativo exacto que asignó el nombre El Carrascal a la estación de MetroSur."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_239/en/summary.short.md",
+      "summary": "content/stations/metro_239/en/summary.md",
+      "story": "content/stations/metro_239/en/story.md",
+      "confidence": "content/stations/metro_239/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_239/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_239/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_239/es/summary.short.md",
+      "summary": "content/stations/metro_239/es/summary.md",
+      "story": "content/stations/metro_239/es/story.md",
+      "confidence": "content/stations/metro_239/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_239/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_239/es/research-note.md"
+    }
+  }
+}

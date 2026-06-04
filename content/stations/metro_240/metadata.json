@@ -1,0 +1,104 @@
+{
+  "id": "metro_240",
+  "name": "Casa del Reloj",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Casa del Reloj, Leganés municipal administrative building on Avenida de Gibraltar",
+  "previous_names": "",
+  "naming_date": "2003-04-11 (station opening; no separate naming resolution found)",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page; explicitly states that Casa del Reloj station is on Avenida de Gibraltar beside the Town Hall building that gives the station its name, and gives Line 12 context.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid; afirma expresamente que la estación Casa del Reloj está en la avenida de Gibraltar junto al edificio del Ayuntamiento que le da nombre, y aporta contexto de la línea 12."
+    },
+    {
+      "title": "Línea 12 Metro - MetroSur Casa del Reloj",
+      "url": "https://www.leganes.org/w/linea-12-metro-metrosur-casa-del-reloj",
+      "type": "official",
+      "relevance_en": "Leganés Town Hall page for the MetroSur Casa del Reloj stop; confirms the station location at Avenida de Gibraltar 2 and service information.",
+      "relevance_es": "Página del Ayuntamiento de Leganés sobre la parada de MetroSur Casa del Reloj; confirma la ubicación en avenida de Gibraltar 2 y datos de servicio."
+    },
+    {
+      "title": "Archivo Municipal de Leganés, XV Jornadas de Archivos Municipales",
+      "url": "https://www.comunidad.madrid/archivos/images/ACTIVIDADES/PUBLICACIONES/XVjarchivosmunicipales.pdf",
+      "type": "archive",
+      "relevance_en": "Archival description states that the new administrative building, Casa del Reloj, was inaugurated in 1994 and housed the municipal archive in the basement.",
+      "relevance_es": "Descripción archivística que indica que el nuevo edificio administrativo, Casa del Reloj, se inauguró en 1994 y alojó el Archivo Municipal en la planta sótano."
+    },
+    {
+      "title": "BOE-B-1999-5744",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-1999-5744",
+      "type": "official",
+      "relevance_en": "1999 official gazette notice referring to the 'edificio Casa del Reloj' at Avenida de Gibraltar 2, proving official use of the name before the Metro station opened.",
+      "relevance_es": "Anuncio oficial de 1999 que menciona el 'edificio Casa del Reloj' en avenida de Gibraltar 2, lo que prueba el uso oficial del nombre antes de la apertura de la estación."
+    },
+    {
+      "title": "Servicios municipales - Servicio de Atención al Ciudadano",
+      "url": "https://www.leganes.org/es/web/guest/servicios-municipales-direcciones-telefonos",
+      "type": "official",
+      "relevance_en": "Municipal services directory confirming Casa del Reloj as a citizen-service location at Avenida Gibraltar 2 with access by MetroSur Casa del Reloj L12.",
+      "relevance_es": "Directorio municipal que confirma la Casa del Reloj como sede de atención ciudadana en avenida de Gibraltar 2, con acceso por MetroSur Casa del Reloj L12."
+    },
+    {
+      "title": "Plano zonal Metro Casa del Reloj",
+      "url": "https://www.crtm.es/media/ax0dfsgb/plano_zonal_metro_casadelreloj.pdf",
+      "type": "official",
+      "relevance_en": "CRTM area map showing station accesses labeled Casa del Reloj on Avenida de Gibraltar and nearby public landmarks.",
+      "relevance_es": "Plano zonal del CRTM que muestra los accesos de la estación Casa del Reloj en la avenida de Gibraltar y equipamientos públicos cercanos."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/node/17616",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid infrastructure page giving MetroSur Line 12's commissioning date as 11 April 2003.",
+      "relevance_es": "Página oficial de infraestructuras de la Comunidad de Madrid que da como fecha de puesta en servicio de MetroSur, línea 12, el 11 de abril de 2003."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Set the naming date to 2003-04-11 as the station opened with MetroSur; no separate station-naming act was found.",
+      "es": "Fijar la fecha de denominación en 2003-04-11 como fecha de apertura de la estación con MetroSur; no se encontró un acto independiente de denominación."
+    },
+    {
+      "en": "Prefer 'named after the municipal administrative building' over weaker secondary wording such as a nearby housing development.",
+      "es": "Preferir 'nombrada por el edificio administrativo municipal' frente a formulaciones secundarias más débiles como una urbanización cercana."
+    },
+    {
+      "en": "Add the 1994 inauguration of the Casa del Reloj building as useful historical context.",
+      "es": "Añadir la inauguración de la Casa del Reloj en 1994 como contexto histórico útil."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal building project file or inauguration notice could confirm the architect, exact inauguration date, and formal reason for the building name.",
+      "es": "Un expediente municipal de obra o una noticia de inauguración podría confirmar el arquitecto, la fecha exacta de inauguración y la razón formal del nombre del edificio."
+    },
+    {
+      "en": "No separate official resolution assigning the station name was found; the 2003 opening date is the practical naming date.",
+      "es": "No se encontró una resolución oficial independiente que asignara el nombre de la estación; la fecha de apertura de 2003 es la fecha práctica de denominación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_240/en/summary.short.md",
+      "summary": "content/stations/metro_240/en/summary.md",
+      "story": "content/stations/metro_240/en/story.md",
+      "confidence": "content/stations/metro_240/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_240/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_240/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_240/es/summary.short.md",
+      "summary": "content/stations/metro_240/es/summary.md",
+      "story": "content/stations/metro_240/es/story.md",
+      "confidence": "content/stations/metro_240/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_240/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_240/es/research-note.md"
+    }
+  }
+}

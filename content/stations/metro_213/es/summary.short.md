@@ -1,0 +1,1 @@
+La estación de Baunatal debe su nombre a Baunatal, ciudad de Hesse, Alemania, hermanada con San Sebastián de los Reyes desde el 28 de agosto de 1990. El nombre llegó a la línea 10 con MetroNorte, inaugurado en San Sebastián de los Reyes el 26 de abril de 2007.

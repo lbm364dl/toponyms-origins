@@ -1,0 +1,1 @@
+Móstoles-El Soto is named for Móstoles and the local El Soto area. In Spanish, a soto is a wooded riverside or floodplain grove, a meaning that fits the Arroyo del Soto corridor and the nearby Parque Natural El Soto.

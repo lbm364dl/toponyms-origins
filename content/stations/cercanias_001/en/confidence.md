@@ -1,0 +1,1 @@
+Multiple independent sources support the same etymological chain: Renfe connects the station and paseo to the former convent, Madrid's municipal tourism page explains that the paseo owes its name to a friars' convent, and Memoria de Madrid documents the convent's 1592 foundation and post-1836 demolition. Some landscape details are interpretive and should be worded cautiously.

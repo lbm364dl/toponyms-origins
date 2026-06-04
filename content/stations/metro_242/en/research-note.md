@@ -1,0 +1,1 @@
+The existing Wikidata value Q2484393 may point to the Leganés neighbourhood rather than the saint, so it is usable for the place name but not for the hagiographical identity. The Reims identification appears to come from generic saint-name matching rather than from Leganés-specific sources; local sources repeatedly use the 11 October feast and Rouen tradition.

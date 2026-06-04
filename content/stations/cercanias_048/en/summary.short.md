@@ -1,0 +1,1 @@
+Las Águilas station is named for the surrounding Las Águilas area of Madrid’s Latina district, with accesses on Avenida de Las Águilas. Local-history sources trace the neighbourhood name to a former Pinar de las Águilas, though that older toponym needs stronger archival confirmation.

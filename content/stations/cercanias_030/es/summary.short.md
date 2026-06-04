@@ -1,0 +1,1 @@
+La estación toma su nombre de los dos municipios a los que sirve, Alcobendas y San Sebastián de los Reyes, cuyos cascos urbanos se encuentran en la avenida de España. San Sebastián de los Reyes tiene un origen religioso y real bien documentado, mientras que el nombre antiguo Alcobendas sigue siendo etimológicamente incierto.

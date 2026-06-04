@@ -1,0 +1,1 @@
+El Casar is named after the El Casar area of Getafe Norte, reached by Avenida del Casar. The place-name comes from casar, an old Spanish word meaning a small group of houses, a hamlet, or in older use a ruined settlement.

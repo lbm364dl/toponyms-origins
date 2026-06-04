@@ -1,0 +1,1 @@
+La fila acierta en lo esencial: la estación toma el nombre del municipio y García Sánchez propone una explicación híbrida romance/árabe vinculada al latín quercus. La etimología profunda sigue discutida, y la explicación local árabe de la colina es tradicional pero cuenta con menor apoyo lingüístico directo.

@@ -1,0 +1,1 @@
+La afirmación sobre la estación está verificada: Móstoles Central es la estación de la línea 12 que sirve el centro de Móstoles y el intercambio con C-5. La etimología profunda de Móstoles es plausible, pero está formulada con demasiada seguridad: las fuentes autorizadas la presentan como hipótesis, no como certeza.

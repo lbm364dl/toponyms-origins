@@ -1,0 +1,1 @@
+The station-level claim is verified: Móstoles Central is the Line 12 station serving central Móstoles and the C-5 interchange. The deeper etymology of Móstoles is plausible but overstated: authoritative sources present the monastery derivation as hypothetical, not certain.

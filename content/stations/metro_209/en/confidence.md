@@ -1,0 +1,1 @@
+The station's derivation from the historic place Fuencarral is well supported by official transport and municipal sources. Confidence is set to probable, not fully verified, because the exact philological meaning of carral is contested or at least not proven by the strongest sources inspected.

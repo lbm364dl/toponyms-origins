@@ -1,0 +1,1 @@
+La derivación inmediata desde el municipio está respaldada por fuentes oficiales de transporte, pero el origen último del topónimo municipal está discutido. La documentación de Monsteles en 1144 es sólida, mientras que la explicación desde monisterium/monisteriis sigue siendo una teoría plausible y no un hecho establecido.

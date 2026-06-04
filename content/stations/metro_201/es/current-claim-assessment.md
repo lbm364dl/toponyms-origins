@@ -1,0 +1,1 @@
+La afirmación básica es correcta: la estación recibe un nombre descriptivo por la Terminal 4 del aeropuerto de Madrid-Barajas. La fila es sólida en lo arquitectónico, pero debe añadir la cronología exacta del transporte y señalar que el aeropuerto pasó a llamarse oficialmente Aeropuerto Adolfo Suárez Madrid-Barajas en 2014.

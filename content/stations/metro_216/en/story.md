@@ -1,0 +1,9 @@
+La Peseta station takes its name from Avenida de la Peseta, the avenue named in the Consorcio Regional de Transportes de Madrid station access listing. The stop opened on Line 11 in the PAU de Carabanchel, a large early-2000s urban expansion on Madrid's south-western edge.
+
+Behind the station name is the peseta, Spain's former national currency. The Banco de España records that a government decree of 19 October 1868 established the peseta as the basic unit of the Spanish monetary system; the first peseta coins were minted in Madrid in 1869, in the mint that later became the Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.
+
+The local street name belongs to a specific moment in Madrid's urban history. Research on the PAU de Carabanchel notes that many of its streets received names of Spanish currencies because the neighbourhood was being built as Spain abandoned the peseta and adopted the euro. Avenida de la Peseta became the main east-west spine of the development and, in daily use, gave both the station and much of the surrounding area a recognizable shorthand name.
+
+The station name also carries a small local dispute. In 2006, the Line 11 extension reached the PAU with three new stations, including La Peseta. Later minutes of the Carabanchel district board record that neighbourhood groups had requested the name Salvador Allende for the main avenue and for the Line 11 station, but the then governing authorities preferred La Peseta; a nearby street, and later a park, did receive Allende's name.
+
+The origin is therefore strong but layered: directly, the station is named for Avenida de la Peseta; historically, the avenue recalls Spain's old currency; locally, the name reflects the PAU's early-2000s monetary street-name theme. A small correction is needed for public text: the euro entered circulation on 1 January 2002, but pesetas and euros coexisted as legal tender until 28 February 2002.

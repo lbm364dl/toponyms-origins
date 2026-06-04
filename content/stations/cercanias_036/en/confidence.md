@@ -1,0 +1,1 @@
+The station-level naming is verified by transport sources, but the ultimate etymology of the municipal name is contested in scholarly and local literature. Menéndez Pidal's Celtic explanation is well attested, yet later authors explicitly describe Coslada's origin as imprecise or debatable and preserve alternative terrain-based explanations.

@@ -1,0 +1,89 @@
+{
+  "id": "metro_215",
+  "name": "La Fortuna",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio de La Fortuna, Leganés",
+  "previous_names": "",
+  "naming_date": "2010-10-05",
+  "sources": [
+    {
+      "title": "Prolongación de la línea 11 del Metro de Madrid al barrio de La Fortuna 2007-2011",
+      "url": "https://www.madrid.org/bvirtual/BVCM006088.pdf",
+      "type": "official",
+      "relevance_en": "Comunidad de Madrid construction publication for the Line 11 extension; it documents the barrio history and states that Domingo Dos Santos named La Fortuna after his wife Fortunata González Arroyo.",
+      "relevance_es": "Publicación de la Comunidad de Madrid sobre la prolongación de la línea 11; documenta la historia del barrio e indica que Domingo Dos Santos bautizó La Fortuna con el nombre de su esposa Fortunata González Arroyo."
+    },
+    {
+      "title": "Informe anual 2010 - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/media/apthrsjh/crtm_informe_anual_2010.pdf",
+      "type": "official",
+      "relevance_en": "Confirms that the most significant Metro infrastructure action in 2010 was the opening of La Fortuna station on Line 11, adding 2.4 km to the network.",
+      "relevance_es": "Confirma que la actuación más significativa de Metro en 2010 fue la inauguración de la estación de La Fortuna en la línea 11, con 2,4 km añadidos a la red."
+    },
+    {
+      "title": "Ruta Verde: Estación La Fortuna - Arroyo Butarque",
+      "url": "https://www.crtm.es/media/rcvhuaau/serie_10_rv_0401_arroyobutarque.pdf",
+      "type": "official",
+      "relevance_en": "CRTM route guide confirming the station's service from October 2010, its role connecting La Fortuna with Plaza Elíptica, and a concise official summary of the barrio's 1960 foundation by Domingo Dos Santos.",
+      "relevance_es": "Guía de rutas verdes del CRTM que confirma la puesta en servicio en octubre de 2010, su conexión con Plaza Elíptica y un resumen oficial de la fundación del barrio en 1960 por Domingo Dos Santos."
+    },
+    {
+      "title": "Periódico de Leganés, junio 2025",
+      "url": "https://www.leganes.org/documents/20122/2783104/62%2BPerJun2025WEB.pdf/338ace3d-486d-0ce8-5105-b94ba52c9bf8?t=1749108759963",
+      "type": "official",
+      "relevance_en": "Municipal publication noting that the barrio's name is due to Fortunata González Arroyo, wife of Domingo Dos Santos, and giving context for San Fortunato festivities.",
+      "relevance_es": "Publicación municipal que señala que el nombre del barrio se debe a Fortunata González Arroyo, esposa de Domingo Dos Santos, y aporta contexto sobre las fiestas de San Fortunato."
+    },
+    {
+      "title": "¡Cómo ha cambiado La Fortuna! - CiberCOM",
+      "url": "https://cibercom.es/como-ha-cambiado-la-fortuna/",
+      "type": "other",
+      "relevance_en": "Local-history article drawing on the book \"50 años de La Fortuna\"; gives chronology for 1959-1960, early streets, San Fortunato parish, later public works, and the 5 October 2010 Metro opening.",
+      "relevance_es": "Artículo de historia local basado en el libro \"50 años de La Fortuna\"; aporta cronología de 1959-1960, primeras calles, parroquia de San Fortunato, mejoras posteriores y apertura del Metro el 5 de octubre de 2010."
+    },
+    {
+      "title": "Inaugurado el metro de La Fortuna - ECO Leganés",
+      "url": "https://ecoleganes.org/2010/10/07/6930-inaugurado-el-metro-de-la-fortuna/",
+      "type": "press",
+      "relevance_en": "Contemporary local report on the 2010 inauguration, describing the Line 11 extension, investment, tunnel length, travel time to Plaza Elíptica, and the residents' long-standing demand.",
+      "relevance_es": "Crónica local contemporánea de la inauguración de 2010, con datos sobre la prolongación de la línea 11, inversión, longitud del túnel, tiempo hasta Plaza Elíptica y reivindicación vecinal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the station etymology type from person to place: the station is named after the La Fortuna district, while the district name is the element derived from Fortunata González Arroyo.",
+      "es": "Cambiar el tipo etimológico de la estación de persona a lugar: la estación se llama por el distrito de La Fortuna, mientras que el nombre del distrito es el elemento derivado de Fortunata González Arroyo."
+    },
+    {
+      "en": "Treat the figure of 33 pioneer families as not fully settled; other local and official accounts mention about forty families from Orcasitas, 104 original plots, or 120 families in the first year.",
+      "es": "Tratar la cifra de 33 familias pioneras como no completamente cerrada; otras fuentes locales y oficiales mencionan unas cuarenta familias procedentes de Orcasitas, 104 parcelas iniciales o 120 familias en el primer año."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the book or commemorative publication \"50 años de La Fortuna\" directly to verify the earliest local account and reconcile the different figures for first families and plots.",
+      "es": "Consultar directamente el libro o publicación conmemorativa \"50 años de La Fortuna\" para verificar el relato local más temprano y conciliar las distintas cifras sobre primeras familias y parcelas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_215/en/summary.short.md",
+      "summary": "content/stations/metro_215/en/summary.md",
+      "story": "content/stations/metro_215/en/story.md",
+      "confidence": "content/stations/metro_215/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_215/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_215/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_215/es/summary.short.md",
+      "summary": "content/stations/metro_215/es/summary.md",
+      "story": "content/stations/metro_215/es/story.md",
+      "confidence": "content/stations/metro_215/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_215/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_215/es/research-note.md"
+    }
+  }
+}

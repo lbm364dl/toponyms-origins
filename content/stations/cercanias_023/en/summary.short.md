@@ -1,0 +1,1 @@
+Pinto station is named for the municipality it serves. The strongest toponymic evidence points to Latin *pincta/*pinctu, 'painted' or 'coloured', rather than the popular punctum, 'point', explanation.

@@ -1,0 +1,1 @@
+La idea principal es correcta: el nombre de la estación procede del topónimo Soto del Henares, vinculado a la ribera del Henares. Sin embargo, la fuente ferroviaria más directa indica que la estación está en el barrio homónimo de Torrejón de Ardoz, mientras que el espacio natural protegido declarado en 2000 está en Alcalá de Henares y Los Santos de la Humosa, no en Torrejón.

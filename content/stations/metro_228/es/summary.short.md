@@ -1,0 +1,1 @@
+La estación de Loranca toma su nombre del barrio fuenlabreño de Loranca. Ese nombre recupera el de la antigua aldea o despoblado medieval de Loranca, recordado en fuentes de la Edad Moderna como uno de los asentamientos cuyos vecinos pasaron a formar Fuenlabrada.

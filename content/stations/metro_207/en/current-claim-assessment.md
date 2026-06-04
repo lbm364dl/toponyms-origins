@@ -1,0 +1,1 @@
+The row is broadly right that the name belongs to the aviation landscape around Cuatro Vientos, but it overstates the direct link to Madrid-Cuatro Vientos Airport and treats the name as an event. Contemporary press says the station name was a tribute to the former Aviation barracks at Campamento, while nearby Cuatro Vientos provides the deeper aviation context.

@@ -1,0 +1,1 @@
+Aravaca station is named after the neighbourhood and former municipality of Aravaca in north-west Madrid. The deeper origin of the place-name is debated: a Celtic/Arevaci explanation is the most developed scholarly proposal, but it is not universally accepted.

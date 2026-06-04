@@ -1,0 +1,119 @@
+{
+  "id": "cercanias_026",
+  "name": "Aranjuez",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Aranjuez, the Real Sitio y Villa; the deeper place-name is probably connected with medieval Aranz/Aranzuel and often related to Basque or pre-Roman *aranz, 'thorn, hawthorn' or a related landscape/water name",
+  "previous_names": "Medieval place-name forms include Arauz or Aranz (12th century), Aranzuel or Aranzuech (13th century), and Aranzueque, Aranzugue, Aranzuet or Arançuex before the modern Aranjuez form stabilized in the 15th century. The current station replaced a primitive station near the Royal Palace; no separate former station name was found.",
+  "naming_date": "1851",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanías Madrid: Estación de Aranjuez",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-aranjuez",
+      "type": "official",
+      "relevance_en": "Renfe confirms the station's activity began on 9 February 1851, identifies it as the second national railway line, and describes the current neomudéjar station.",
+      "relevance_es": "Renfe confirma que la actividad de la estación comenzó el 9 de febrero de 1851, la identifica con la segunda línea férrea nacional y describe la estación neomudéjar actual."
+    },
+    {
+      "title": "Comunidad de Madrid: Estación de Ferrocarril de Aranjuez",
+      "url": "https://www.madrid.org/monumentoscercanias/estacion-ferrocarril.html",
+      "type": "official",
+      "relevance_en": "This regional heritage page states that Aranjuez was the destination of the first railway from Madrid, opened in 1851, and that the present station was built between 1922 and 1927 after a provisional 1908 building.",
+      "relevance_es": "Esta página patrimonial regional indica que Aranjuez fue el destino del primer ferrocarril salido de Madrid, inaugurado en 1851, y que la estación actual se construyó entre 1922 y 1927 tras un edificio provisional de 1908."
+    },
+    {
+      "title": "Ayuntamiento de Aranjuez: 170 aniversario del viaje inaugural de la línea ferroviaria Madrid-Aranjuez",
+      "url": "https://www.aranjuez.es/hoy-se-conmemora-el-170o-aniversario-del-viaje-inaugural-de-la-linea-ferroviaria-madrid-aranjuez/",
+      "type": "official",
+      "relevance_en": "The municipal page gives the exact opening date, 9 February 1851, lists the original route, explains the royal-residence motive, and notes that the primitive Aranjuez station stood opposite the Royal Palace.",
+      "relevance_es": "La página municipal da la fecha exacta de inauguración, 9 de febrero de 1851, enumera el recorrido original, explica el motivo de unir residencias reales y señala que la estación primitiva de Aranjuez estaba frente al Palacio Real."
+    },
+    {
+      "title": "UNESCO World Heritage Centre: Aranjuez Cultural Landscape",
+      "url": "https://whc.unesco.org/en/list/1044/",
+      "type": "official",
+      "relevance_en": "UNESCO establishes the geographic and historical context of Aranjuez as a Tagus-Jarama cultural landscape transformed into a Royal Site during the reign of Philip II.",
+      "relevance_es": "La UNESCO aporta el contexto geográfico e histórico de Aranjuez como paisaje cultural del Tajo y el Jarama transformado en Real Sitio durante el reinado de Felipe II."
+    },
+    {
+      "title": "Patrimonio Nacional: Palacio Real de Aranjuez",
+      "url": "https://www.patrimonionacional.es/visita/palacio-real-de-aranjuez",
+      "type": "official",
+      "relevance_en": "Patrimonio Nacional confirms the royal-site context and links the palace to Felipe II's construction over the old palace of the masters of Santiago, begun in 1564.",
+      "relevance_es": "Patrimonio Nacional confirma el contexto de Real Sitio y vincula el palacio con la construcción ordenada por Felipe II sobre el antiguo palacio de los maestres de Santiago, iniciada en 1564."
+    },
+    {
+      "title": "María Blanco Rodríguez and Javier Rodríguez Fernández: Nota sobre la etimología de Aranjuez",
+      "url": "https://mediateca.educa.madrid.org/streaming.php?documentos=1&ext=.pdf&id=2yere616clp1qy3f",
+      "type": "archive",
+      "relevance_en": "This concise etymological note quotes Sarmiento's 1755 Ara Jovis proposal, cites Lapesa's 1981 connection with Basque aranz 'thorn', records medieval forms, and presents a cautious pre-Roman or hydronymic *aranz hypothesis.",
+      "relevance_es": "Esta nota etimológica cita la propuesta Ara Jovis de Sarmiento de 1755, recoge la relación planteada por Lapesa en 1981 con el vasco aranz 'espino', documenta formas medievales y expone una hipótesis prudente de *aranz prerromano o hidronímico."
+    },
+    {
+      "title": "Universidad Complutense de Madrid record: Rafael Lapesa, Historia de la lengua española",
+      "url": "https://produccioncientifica.ucm.es/documentos/61989a0a49d6133331f42012",
+      "type": "book",
+      "relevance_en": "Bibliographic record for Lapesa's 1981 Gredos edition, the standard work cited for the Basque aranz explanation; the book itself should be checked for the precise wording and page.",
+      "relevance_es": "Registro bibliográfico de la edición de Gredos de 1981 de Lapesa, obra estándar citada para la explicación vasca aranz; conviene consultar el libro directamente para verificar la formulación y la página exactas."
+    },
+    {
+      "title": "Open Library: Historia de la lengua española by Rafael Lapesa",
+      "url": "https://openlibrary.org/books/OL3839460M/Historia_de_la_lengua_espan%CC%83ola",
+      "type": "book",
+      "relevance_en": "Additional bibliographic cue for the 1981 ninth corrected and enlarged edition of Lapesa's Historia de la lengua española.",
+      "relevance_es": "Referencia bibliográfica adicional de la novena edición corregida y aumentada de 1981 de la Historia de la lengua española de Lapesa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the confidence from fully verified to probable for the town-name etymology, while keeping the direct station-name origin as verified.",
+      "es": "Cambiar la confianza de verificada a probable para la etimología del topónimo, manteniendo como verificado el origen directo del nombre de la estación."
+    },
+    {
+      "en": "Do not state that Basque arantza is simply the most accepted explanation without qualification; present it as a leading scholarly hypothesis among several.",
+      "es": "No afirmar sin matices que el vasco arantza sea simplemente la explicación más aceptada; conviene presentarla como una hipótesis filológica principal entre varias."
+    },
+    {
+      "en": "Correct the Spanish named_after value: it should say 'espino/espino albar', not the English gloss 'thorn/hawthorn'.",
+      "es": "Corregir el valor named_after_es: debe decir 'espino/espino albar', no la glosa inglesa 'thorn/hawthorn'."
+    },
+    {
+      "en": "Clarify that the 1851 railway was Madrid's first railway and the second on the Spanish peninsula, not the first railway in Spain if island precedents are being counted differently.",
+      "es": "Aclarar que el ferrocarril de 1851 fue el primero de Madrid y el segundo de la Península, no necesariamente el primero de España si se computan de otro modo los precedentes insulares."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full dataset review should inspect the exact page in Lapesa's Historia de la lengua española and the original medieval documents cited for Arauz, Aranz, Aranzuel and Aranzuech.",
+      "es": "Una revisión completa del conjunto de datos debería consultar la página exacta de la Historia de la lengua española de Lapesa y los documentos medievales originales citados para Arauz, Aranz, Aranzuel y Aranzuech."
+    },
+    {
+      "en": "The CVC Rinconete page cited in the input could not be opened cleanly during this run because of a decoding error; it should be rechecked manually or through another archive copy.",
+      "es": "La página de Rinconete del CVC citada en la entrada no pudo abrirse correctamente durante esta consulta por un error de decodificación; debería revisarse manualmente o mediante otra copia archivada."
+    },
+    {
+      "en": "The exact formal date on which the current neomudéjar station building inherited or displayed the name was not found; 1851 is the date of the railway service and first station.",
+      "es": "No se ha localizado la fecha formal exacta en que el edificio neomudéjar actual heredó o exhibió el nombre; 1851 es la fecha del servicio ferroviario y de la primera estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_026/en/summary.short.md",
+      "summary": "content/stations/cercanias_026/en/summary.md",
+      "story": "content/stations/cercanias_026/en/story.md",
+      "confidence": "content/stations/cercanias_026/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_026/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_026/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_026/es/summary.short.md",
+      "summary": "content/stations/cercanias_026/es/summary.md",
+      "story": "content/stations/cercanias_026/es/story.md",
+      "confidence": "content/stations/cercanias_026/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_026/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_026/es/research-note.md"
+    }
+  }
+}

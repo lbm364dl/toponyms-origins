@@ -1,0 +1,1 @@
+La fila acierta al decir que la estación toma el nombre del barrio getafense de El Bercial y que el topónimo de fondo es probablemente botánico, de bercial, lugar con berceos o barceos. Sin embargo, el valor named_after lo glosa erróneamente como zona de berros, y la forma antigua Hervestial es una hipótesis citada, no un origen verificado.

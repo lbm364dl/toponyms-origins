@@ -1,0 +1,108 @@
+{
+  "id": "cercanias_052",
+  "name": "San José de Valderas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "San José de Valderas neighbourhood in Alcorcón, named from the Quinta de San José and the Castillos de Valderas estate",
+  "previous_names": "",
+  "naming_date": "29 October 1976",
+  "sources": [
+    {
+      "title": "Estación de San José de Valderas | Rodajes Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-san-jose-de-valderas",
+      "type": "official",
+      "relevance_en": "Renfe confirms the station name, C-5 context, opening date of 29 October 1976, and location in the San José de Valderas neighbourhood of Alcorcón.",
+      "relevance_es": "Renfe confirma el nombre de la estación, su contexto en la C-5, la fecha de puesta en servicio del 29 de octubre de 1976 y su ubicación en el barrio de San José de Valderas de Alcorcón."
+    },
+    {
+      "title": "SAN JOSE DE VALDERAS - Ficha de estación 35604",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35604.pdf",
+      "type": "official",
+      "relevance_en": "Renfe's station file confirms the station code, operator Renfe Viajeros, municipality Alcorcón, address, coordinates, and commercial line C5.",
+      "relevance_es": "La ficha de estación de Renfe confirma el código de estación, el explotador Renfe Viajeros, el municipio de Alcorcón, la dirección, las coordenadas y la línea comercial C5."
+    },
+    {
+      "title": "Los Castillos de San José de Valderas",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2023-04/1_octubre_2019.Los%20Castillos_.pdf",
+      "type": "official",
+      "relevance_en": "Municipal text by María Luisa Martínez explains the Castles, the former Valdecuervo/San José estate, the chapel dedicated to Saint Joseph, the 1957 sale, and the first stone of the housing development on 1 April 1958.",
+      "relevance_es": "Texto municipal de María Luisa Martínez que explica los Castillos, la antigua finca de Valdecuervo/San José, la capilla dedicada a San José, la venta de 1957 y la primera piedra de la urbanización el 1 de abril de 1958."
+    },
+    {
+      "title": "La Heredad o Quinta de San José",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2024-08/LA%20HEREDAD%20QUINTA%20DE%20SAN%20JOS%C3%89%202.pdf",
+      "type": "official",
+      "relevance_en": "Recent Alcorcón municipal PDF by Francisco José Francos Sevilla documents the 1913 purchase of the Quinta de San José and surrounding plots, the 10 June 1913 deed, the 1917 completion, and the claim that the Castles gave name to the later neighbourhood.",
+      "relevance_es": "PDF municipal reciente de Francisco José Francos Sevilla que documenta la compra en 1913 de la Quinta de San José y fincas próximas, la escritura del 10 de junio de 1913, la finalización en 1917 y la afirmación de que los Castillos dieron nombre al barrio posterior."
+    },
+    {
+      "title": "Los Castillos de Valderas. Más de 100 años de historia 1917-2021",
+      "url": "https://www.mava.es/sites/default/files/2022-12/Los-Castillos-de-Valderas_0.pdf",
+      "type": "book",
+      "relevance_en": "Centenary volume published by MAVA/Alcorcón cultural context; the opening essay by Hipólito Sanchiz Álvarez de Toledo gives the most nuanced origin of the name as the Quinta de San José of the Marquises of Valderas, with the chapel dedication as a related oral-tradition hypothesis.",
+      "relevance_es": "Volumen del centenario publicado en el contexto del MAVA/Alcorcón; el ensayo inicial de Hipólito Sanchiz Álvarez de Toledo ofrece la explicación más matizada del nombre como la Quinta de San José de los marqueses de Valderas, con la advocación de la capilla como hipótesis relacionada de tradición oral."
+    },
+    {
+      "title": "Los Castillos | Ayuntamiento de Alcorcón",
+      "url": "https://www.ayto-alcorcon.es/en/node/127",
+      "type": "official",
+      "relevance_en": "Municipal page confirming that Los Castillos park is in the San José de Valderas neighbourhood and that the Castles of Valderas remain a central cultural landmark there.",
+      "relevance_es": "Página municipal que confirma que el parque de Los Castillos está en el barrio de San José de Valderas y que los Castillos de Valderas siguen siendo un hito cultural central de la zona."
+    },
+    {
+      "title": "Villa de Valderas - Red de Conjuntos Históricos de Castilla y León",
+      "url": "https://www.recohicyl.com/villa-de-valderas/",
+      "type": "reference",
+      "relevance_en": "Provides historical context for the Leonese town of Valderas and notes the 1113 documentary form Valde Heras, useful for checking the inherited toponymy claim.",
+      "relevance_es": "Aporta contexto histórico sobre la villa leonesa de Valderas y recoge la forma documental Valde Heras de 1113, útil para comprobar la afirmación toponímica heredada."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the immediate etymology as a place-name: the station is named after the neighbourhood, although the underlying place-name includes a religious dedication.",
+      "es": "Clasificar la etimología inmediata como topónimo: la estación toma el nombre del barrio, aunque el topónimo de fondo incluya una advocación religiosa."
+    },
+    {
+      "en": "Do not state that the neighbourhood name comes only from the chapel; the San José name is documented as the Quinta de San José acquired in 1913, and the chapel was dedicated to Saint Joseph taking that estate name.",
+      "es": "No afirmar que el nombre del barrio procede solo de la capilla; San José está documentado como la Quinta de San José adquirida en 1913, y la capilla se dedicó a San José tomando ese nombre de la finca."
+    },
+    {
+      "en": "Revise the Valderas toponymy note: Valde Heras is documented in 1113, with Vald'Heras in 1121; 'valley of threshing floors' is probable, not absolutely certain.",
+      "es": "Revisar la nota toponímica sobre Valderas: Valde Heras está documentado en 1113, con Vald'Heras en 1121; 'valle de las eras' es probable, no absolutamente seguro."
+    },
+    {
+      "en": "Use 1 April 1958 as the documented first-stone date for the housing development, not necessarily as a formal neighbourhood naming act.",
+      "es": "Usar el 1 de abril de 1958 como fecha documentada de colocación de la primera piedra de la urbanización, no necesariamente como acto formal de denominación del barrio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning or neighbourhood-register document could confirm the exact date, if any, when San José de Valderas became an official neighbourhood name.",
+      "es": "Un documento urbanístico municipal o un registro de barrios podría confirmar la fecha exacta, si existe, en que San José de Valderas pasó a ser denominación oficial del barrio."
+    },
+    {
+      "en": "The medieval etymology of Valderas would benefit from inspecting the cited diplomatic collections directly, although secondary historical sources consistently support Valde Heras / val de eras.",
+      "es": "La etimología medieval de Valderas ganaría fuerza con la consulta directa de las colecciones diplomáticas citadas, aunque las fuentes históricas secundarias apoyan de forma consistente Valde Heras / val de eras."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_052/en/summary.short.md",
+      "summary": "content/stations/cercanias_052/en/summary.md",
+      "story": "content/stations/cercanias_052/en/story.md",
+      "confidence": "content/stations/cercanias_052/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_052/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_052/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_052/es/summary.short.md",
+      "summary": "content/stations/cercanias_052/es/summary.md",
+      "story": "content/stations/cercanias_052/es/story.md",
+      "confidence": "content/stations/cercanias_052/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_052/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_052/es/research-note.md"
+    }
+  }
+}

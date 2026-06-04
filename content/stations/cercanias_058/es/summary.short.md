@@ -1,0 +1,1 @@
+La estación de Fuenlabrada lleva el nombre del municipio al que sirve. El topónimo significa aproximadamente “fuente labrada” o “fuente de piedra trabajada”, en recuerdo de una antigua fuente que los primeros testimonios relacionaban con el nombre del lugar.

@@ -1,0 +1,1 @@
+El origen está respaldado directamente por fuentes de transporte y aeroportuarias: el CRTM identifica el intercambiador con la Terminal T4, Aena documenta la historia de la terminal y las fuentes de transporte y prensa documentan la cronología de Metro y Cercanías. No existe una etimología alternativa creíble.

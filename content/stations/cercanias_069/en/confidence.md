@@ -1,0 +1,1 @@
+The current station name is verified by Adif, Renfe and CRTM, and the Galapagar etymology is strongly supported by Toponomasticon Hispaniae. Confidence is limited to probable because the exact official renaming date and the specific La Navata toponym derivation were not found in a primary naming act or an authoritative entry for this exact place.

@@ -1,0 +1,9 @@
+Robledo de Chavela station is named after the municipality of Robledo de Chavela, in Madrid's Sierra Oeste. Transport sources list the railway stop under that municipal name, so the station name itself is not commemorative: it identifies the place served by the line.
+
+The older name behind the station is a layered place name. Toponomasticon Hispaniae explains Robledo as a Castilian form related to Latin roboretum, an abundant or collective word for an oak grove. In plain terms, the first half of the name points to a landscape once identified by oaks.
+
+The second half, Chavela, is the more interesting and disputed element. The strongest source found, Toponomasticon Hispaniae, interprets it as a medieval personal name made from Echa and Vela. In that reading, Echa is connected with Basque aita through an affectionate medieval form, and Vela is a personal name of Germanic origin; the whole place name would have meant something like the oak grove belonging to a man called Echa Vela.
+
+The historical record supports an old compound name. Toponomasticon cites forms such as Robredo de Chavela in 1341, Robredo de Enchauela in 1355, Robledo de Chavela in 1454, and Robledo de Chabela in 1488. Those examples also show that robredo and robledo coexisted for a long time before the modern form became fixed.
+
+Local and municipal accounts preserve several other theories for Chavela: a romantic 'ocho en vela' story tied to watchmen at the church-fortress, a connection with Isabel la Catolica, Gregorio de Andres's 'house or possession of the Vela' explanation, and Jose Luis Lopez's Arabic djebel or 'mountain' proposal. They are worth mentioning as local tradition, but the current best-supported etymology is the Toponomasticon Hispaniae analysis: Robledo de Chavela is an oak-grove place name with a medieval personal-name second element.

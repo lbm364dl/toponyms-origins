@@ -1,0 +1,9 @@
+Rivas Futura takes its name from the urban and commercial development built around the station in Rivas-Vaciamadrid. It is a modern place-name: the stop was not named after a historical figure or an old village, but after the new district and commercial complex that the Metro was meant to serve.
+
+The name was already attached to a large mixed-use project promoted in the 2000s. The Parque Comercial Rivas Futura describes itself as part of a macro-project together with H2Ocio, with retail, business and leisure uses beside the A-3 corridor. Madrid's tourism site describes H2O, opened in 2007, as a shopping centre of about 50,000 square metres with restaurants, leisure uses and 13 cinema screens.
+
+The station opened to passengers on 11 July 2008, not in 2006. Contemporary reports say trains began stopping there that afternoon, making it the third Metro station in Rivas-Vaciamadrid. It was inserted between the existing Rivas Urbanizaciones and Rivas Vaciamadrid stations on the Line 9B section toward Arganda del Rey.
+
+The transport project followed the municipality's explosive growth. Rivas's own urban-agenda material says the municipality grew from about 650 inhabitants in 1980 to around 100,000 today, a demographic jump that reshaped its urban form and public-service needs. Rivas Futura is one of the names produced by that new phase of growth: a forward-looking commercial brand placed directly onto the Metro map.
+
+The etymology is therefore well supported at the level that matters for public display: the station is named for the surrounding Rivas Futura development. What is less directly documented is the branding choice behind the word “Futura” itself; sources support its association with a modern growth project, but I found no official naming resolution explaining the exact marketing intent of the word.

@@ -1,0 +1,1 @@
+Parla station is named after the Madrid municipality it serves. The best-supported scholarly explanation derives the place-name from a Roman personal name, Parilus, in the sense of an estate or villa belonging to that owner.

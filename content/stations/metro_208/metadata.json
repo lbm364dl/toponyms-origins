@@ -1,0 +1,111 @@
+{
+  "id": "metro_208",
+  "name": "Begoña",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Colonia/Poblado de Absorción Virgen de Begoña, ultimately Nuestra Señora de Begoña",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - Metro station: Begoña",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_188/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, line 10 service, and accesses including Ciudad Sanitaria La Paz and San Modesto/Begoña.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 10 y los accesos por Ciudad Sanitaria La Paz y San Modesto/Begoña."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Plan Integral de Barrio de Virgen de Begoña",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Pr%C3%A1cticas%20Servicio%20Planificaci%C3%B3n%20Participada/Pruebas%20agosto%2019/Contenidos%20Gen%C3%A9ricos/Fuencarral%20-%20El%20Pardo/Barrio%20de%20Bego%C3%B1a/ficheros/Barrio%20de%20Bego%C3%B1a.pdf",
+      "type": "official",
+      "relevance_en": "Documents the Poblado de Absorción Virgen de Begoña, designed in 1957-1959 and built in 1959-1967 as part of Madrid rehousing operations.",
+      "relevance_es": "Documenta el Poblado de Absorción Virgen de Begoña, diseñado en 1957-1959 y construido en 1959-1967 dentro de las operaciones de realojo de Madrid."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Estudio sociodemográfico de los barrios PIBA 2019",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Publicaciones_Fondo_Documental/Estudio_Sociologico_Barrios_PIBA/Estudio_PIBA_2019_I.pdf",
+      "type": "official",
+      "relevance_en": "Provides historical-social context for Virgen de Begoña and states that the estate was part of the housing response to Madrid's 1940-1970 immigration wave.",
+      "relevance_es": "Aporta contexto histórico-social de Virgen de Begoña y señala que el poblado formó parte de la respuesta residencial a la oleada inmigratoria que acogió Madrid entre 1940 y 1970."
+    },
+    {
+      "title": "Fundación Arquitectura COAM - Unidad Vecinal de Absorción Virgen de Begoña para el INV",
+      "url": "https://fcoam.eu/guia/F3/F3.35.htm",
+      "type": "reference",
+      "relevance_en": "Gives architectural and planning details for the Virgen de Begoña estate, including its 1957 date, authors, location, and public-housing origin.",
+      "relevance_es": "Ofrece detalles arquitectónicos y urbanísticos de la Unidad Vecinal Virgen de Begoña, incluida la fecha de 1957, autores, ubicación y origen como vivienda pública."
+    },
+    {
+      "title": "The Basilica of Begoña, Bilbao - History",
+      "url": "https://begona.org/en/sanctuary/history/",
+      "type": "official",
+      "relevance_en": "Identifies Our Lady of Begoña as patron saint of Bilbao and Biscay and explains the sanctuary's devotional role and feast days.",
+      "relevance_es": "Identifica a Nuestra Señora de Begoña como patrona de Bilbao y Bizkaia y explica el papel devocional del santuario y sus festividades."
+    },
+    {
+      "title": "Real Academia Galega - Guía de nomes: Begoña",
+      "url": "https://academia.gal/nomes/-/nome/Bego%C3%B1a",
+      "type": "reference",
+      "relevance_en": "States that Begoña is a toponymic name with disputed etymology and reports that Euskaltzaindia considers the popular 'bego oina' explanation baseless.",
+      "relevance_es": "Señala que Begoña es un nombre de origen toponímico con etimología discutida y recoge que Euskaltzaindia considera sin base la explicación popular 'bego oina'."
+    },
+    {
+      "title": "Hospital Universitario La Paz - Reseña histórica",
+      "url": "https://www.comunidad.madrid/hospital/lapaz/nosotros/resena-historica",
+      "type": "official",
+      "relevance_en": "Confirms the hospital context near the station: construction began in 1962 and the General Hospital opened in July 1964.",
+      "relevance_es": "Confirma el contexto hospitalario cercano a la estación: la construcción comenzó en 1962 y el Hospital General se inauguró en julio de 1964."
+    },
+    {
+      "title": "CRTM - La Comunidad de Madrid transforma la estación de Metro de Begoña en 100% accesible",
+      "url": "https://crtm.es/comunicacion/sala-de-prensa/noticias/noticias/09062025-la-comunidad-de-madrid-transforma-la-estacion-de-metro-de-begona-en-100-accesible-con-la-instalacion-de-siete-nuevos-ascensores/",
+      "type": "official",
+      "relevance_en": "Confirms the station's modern transport role on line 10 and its relationship to La Paz through accessibility works completed in 2025.",
+      "relevance_es": "Confirma el papel actual de la estación en la línea 10 y su relación con La Paz mediante las obras de accesibilidad terminadas en 2025."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the confident 'beg-oina / place at the foot of the hill' etymology with a note that the etymology of Begoña is disputed and that this segmentation is considered baseless by Euskaltzaindia according to the Real Academia Galega name guide.",
+      "es": "Sustituir la etimología segura 'beg-oina / lugar al pie de la colina' por una nota de que la etimología de Begoña está discutida y de que esa segmentación es considerada sin base por Euskaltzaindia según la guía de nombres de la Real Academia Galega."
+    },
+    {
+      "en": "Do not state as verified that the Madrid colony was built for northern Spanish workers, many of Basque origin; the municipal sources found describe rehousing operations and Madrid's broad migratory pressure, not a specifically Basque target population.",
+      "es": "No presentar como verificado que la colonia madrileña se construyó para trabajadores del norte de España, muchos de origen vasco; las fuentes municipales localizadas hablan de operaciones de realojo y de la presión inmigratoria general de Madrid, no de una población destinataria específicamente vasca."
+    },
+    {
+      "en": "Date the housing area more precisely: sources place design in 1957-1959 and construction mainly from 1959 to 1967, rather than only saying 'the 1960s'.",
+      "es": "Fechar el ámbito residencial con más precisión: las fuentes sitúan el diseño en 1957-1959 y la construcción principalmente entre 1959 y 1967, no solo 'en los años sesenta'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid or Ministry opening document for the 1982 old Line 8 could confirm whether the station name was formally assigned because of the Virgen de Begoña neighbourhood.",
+      "es": "Un documento de apertura de Metro de Madrid o del Ministerio sobre la antigua línea 8 de 1982 podría confirmar si el nombre de la estación se asignó formalmente por el barrio de Virgen de Begoña."
+    },
+    {
+      "en": "The original planning or parish files for the Poblado/Unidad Vecinal Virgen de Begoña may explain why this particular Marian dedication was chosen for the estate.",
+      "es": "Los expedientes originales de planeamiento o parroquia del Poblado/Unidad Vecinal Virgen de Begoña podrían explicar por qué se eligió esa advocación mariana concreta para el conjunto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_208/en/summary.short.md",
+      "summary": "content/stations/metro_208/en/summary.md",
+      "story": "content/stations/metro_208/en/story.md",
+      "confidence": "content/stations/metro_208/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_208/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_208/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_208/es/summary.short.md",
+      "summary": "content/stations/metro_208/es/summary.md",
+      "story": "content/stations/metro_208/es/story.md",
+      "confidence": "content/stations/metro_208/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_208/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_208/es/research-note.md"
+    }
+  }
+}

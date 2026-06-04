@@ -1,0 +1,1 @@
+The person commemorated, his dates, educational role, mayoral term, and death date are confirmed by Alcorcón City Council. Contemporary press directly states that the Line 10 station was named Joaquín Vilumbrales instead of the initially planned Los Castillos. CRTM official reporting confirms the 2003 Line 10 extension and the station's inclusion in MetroSur.

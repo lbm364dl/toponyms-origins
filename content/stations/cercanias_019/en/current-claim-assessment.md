@@ -1,0 +1,1 @@
+The row is substantially correct: the station name is a place name referring to Getafe, and the deeper etymology of Getafe is genuinely uncertain. The traditional Arabic/Xatafi explanation is documented in 1575, but authoritative modern discussion treats it as plausible tradition rather than proven linguistic fact.

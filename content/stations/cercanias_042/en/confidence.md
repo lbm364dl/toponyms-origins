@@ -1,0 +1,1 @@
+Official Adif, Renfe, and CRTM sources confirm the station name, location on the campus road, operator context, and C-2/C-8 service. Official university, BOE, UCM, BNE, and UNESCO sources support the historical explanation of the named institution.

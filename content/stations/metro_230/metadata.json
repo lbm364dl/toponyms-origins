@@ -1,0 +1,97 @@
+{
+  "id": "metro_230",
+  "name": "Parque Europa",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque Europa / Parque de Europa, Fuenlabrada",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Estación de Metro Parque Europa",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_220/?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport record confirming the station name, Line 12 correspondence, fare zone and accesses on Calle de Francia 34 and 36 in Fuenlabrada.",
+      "relevance_es": "Ficha oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 12, la zona tarifaria y los accesos en la calle de Francia 34 y 36 de Fuenlabrada."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional infrastructure page locating Parque Europa station under Calle Francia at the intersection with Calle Holanda and describing MetroSur as Line 12 serving the southern Madrid municipalities.",
+      "relevance_es": "Página regional de infraestructuras que sitúa la estación Parque Europa bajo la calle Francia a la altura de la calle Holanda y describe MetroSur como la línea 12 que vertebra los municipios del sur de Madrid."
+    },
+    {
+      "title": "CRTM - Plano zonal de la estación de Metro Parque Europa",
+      "url": "https://crtm.es/media/5oecgyfm/plano_zonal_parqueeuropa.pdf",
+      "type": "official",
+      "relevance_en": "Zonal transport map showing the adjacent Parque Europa and the surrounding European-themed street names, including Francia, Bélgica, Alemania, Holanda, Portugal, Italia, Suiza, Andorra, Luxemburgo and Viena.",
+      "relevance_es": "Plano zonal de transporte que muestra el Parque Europa contiguo y las calles del entorno con temática europea, como Francia, Bélgica, Alemania, Holanda, Portugal, Italia, Suiza, Andorra, Luxemburgo y Viena."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada - Finalizan los trabajos en el entorno de la Fuente de las Escaleras",
+      "url": "https://www.ayto-fuenlabrada.es/w/finalizan-los-trabajos-en-el-entorno-de-la-fuente-de-las-escaleras",
+      "type": "official",
+      "relevance_en": "Municipal page confirming the local form 'parque de Europa' beside the Fuente de las Escaleras and giving context for this emblematic nearby urban space.",
+      "relevance_es": "Página municipal que confirma la forma local 'parque de Europa' junto a la Fuente de las Escaleras y aporta contexto sobre este espacio urbano emblemático del entorno."
+    },
+    {
+      "title": "Plan de Movilidad Urbana Sostenible de Fuenlabrada, Documento 33 Diagnóstico",
+      "url": "https://portalparticipa.ayto-fuenlabrada.es/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--69c9a9867f6b842d366f19eb70aa3583d24d46cf/Documento%2033%20Plan%20Movilidad%20Urbana%20Sostenible%202008.pdf",
+      "type": "official",
+      "relevance_en": "Municipal mobility diagnosis noting that MetroSur's Parque Europa station covers the Europa and El Molino areas, useful for neighbourhood context.",
+      "relevance_es": "Diagnóstico municipal de movilidad que indica que la estación Parque Europa de MetroSur da cobertura a las zonas de Europa y El Molino, útil para contextualizar el barrio."
+    },
+    {
+      "title": "Wikiloc - Ruta Verde de Fuenlabrada",
+      "url": "https://es.wikiloc.com/rutas-a-pie/ruta-verde-de-fuenlabrada-103739893",
+      "type": "other",
+      "relevance_en": "Secondary local route description giving the park's reported 17,454 m² area, 4 May 1983 inauguration, landscape details and the statement that the park gives its name to a Metro station.",
+      "relevance_es": "Descripción secundaria de una ruta local que aporta la superficie indicada de 17.454 m², la inauguración del 4 de mayo de 1983, detalles paisajísticos y la afirmación de que el parque da nombre a una estación de Metro."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the fuller place value 'Parque Europa / Parque de Europa, Fuenlabrada' to account for both documented local forms.",
+      "es": "Conviene usar el valor de lugar más completo 'Parque Europa / Parque de Europa, Fuenlabrada' para recoger las dos formas documentadas del topónimo."
+    },
+    {
+      "en": "Do not present the 17,454 m² area or 4 May 1983 inauguration as fully official unless a municipal park inventory or archive record is later inspected.",
+      "es": "No debe presentarse la superficie de 17.454 m² ni la inauguración del 4 de mayo de 1983 como datos plenamente oficiales mientras no se consulte una ficha municipal de zonas verdes o un documento de archivo."
+    },
+    {
+      "en": "The Torrejón de Ardoz Parque Europa distinction is useful for disambiguation, but it is not part of the origin of this Metro station name.",
+      "es": "La distinción con el Parque Europa de Torrejón de Ardoz es útil para desambiguar, pero no forma parte del origen del nombre de esta estación de Metro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Fuenlabrada municipal parks/gardens records or Archivo Municipal material to confirm the park's formal opening date, original naming act and official surface area.",
+      "es": "Conviene consultar registros municipales de parques y jardines de Fuenlabrada o documentación del Archivo Municipal para confirmar la fecha formal de inauguración, el acto original de denominación y la superficie oficial del parque."
+    },
+    {
+      "en": "Confirm whether Metro de Madrid's original 2003 station-opening documentation used 'Parque Europa' from the outset or whether 'Parque de Europa' appeared in construction-era documents.",
+      "es": "Sería útil confirmar si la documentación original de apertura de Metro de Madrid en 2003 usó desde el principio 'Parque Europa' o si en documentos de obra apareció 'Parque de Europa'."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_230/en/summary.short.md",
+      "summary": "content/stations/metro_230/en/summary.md",
+      "story": "content/stations/metro_230/en/story.md",
+      "confidence": "content/stations/metro_230/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_230/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_230/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_230/es/summary.short.md",
+      "summary": "content/stations/metro_230/es/summary.md",
+      "story": "content/stations/metro_230/es/story.md",
+      "confidence": "content/stations/metro_230/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_230/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_230/es/research-note.md"
+    }
+  }
+}

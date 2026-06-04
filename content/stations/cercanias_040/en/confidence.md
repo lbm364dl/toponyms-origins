@@ -1,0 +1,1 @@
+The station-to-district link is directly supported by transport and contemporary press sources, and the older La Garena/La Garcena estate is supported by academic and municipal historical sources. Confidence is not 'verified' because the proposed linguistic derivation from garenne/warenna is plausible but not directly demonstrated for this specific place-name.

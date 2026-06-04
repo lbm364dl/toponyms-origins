@@ -1,0 +1,1 @@
+The core claim is well supported: the present name combines the nearby Assembly of Madrid with the older Entrevías station/neighbourhood name, whose toponym is explained by railway lines. However, the resident-mobilisation detail needs a stronger primary source, and sources conflict slightly between 1998 and 1999 for the renaming.

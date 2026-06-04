@@ -1,0 +1,1 @@
+Fuenlabrada Central is named for its role as the central MetroSur station and interchange in Fuenlabrada. The municipal name means 'worked/carved fountain', referring to an old stone fountain remembered in early modern records.

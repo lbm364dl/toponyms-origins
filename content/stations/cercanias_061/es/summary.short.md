@@ -1,0 +1,1 @@
+La estación de Aravaca toma su nombre del barrio y antiguo municipio de Aravaca, al noroeste de Madrid. El origen profundo del topónimo está discutido: la explicación céltica o arévaca es la propuesta académica más desarrollada, pero no está aceptada de forma unánime.

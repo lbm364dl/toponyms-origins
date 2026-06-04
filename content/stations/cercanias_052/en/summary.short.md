@@ -1,0 +1,1 @@
+The station is named after Alcorcón's San José de Valderas neighbourhood. That neighbourhood grew around the former Quinta de San José and the Castillos de Valderas, the early-20th-century estate of the Marquises of Valderas.

@@ -1,0 +1,1 @@
+The station's connection to Plaza del Pradillo is strongly supported by official location descriptions and the current public square name. The linguistic derivation from prado is supported by the RAE. Confidence is reduced to probable because the precise 16th- and 18th-century forms cited in the input were not verified against original archival documents during this search.

@@ -1,0 +1,97 @@
+{
+  "id": "cercanias_004",
+  "name": "Chamartín-Clara Campoamor",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Clara Campoamor; Chamartín district / former Chamartín de la Rosa",
+  "previous_names": "Madrid-Chamartín; Estación de ferrocarril de Madrid-Chamartín",
+  "naming_date": "Order TMA/1240/2020 dated 2020-12-08, published 2020-12-23, effective 2020-12-24",
+  "sources": [
+    {
+      "title": "BOE-A-2020-16830 - Orden TMA/1240/2020, de 8 de diciembre",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-16830",
+      "type": "official",
+      "relevance_en": "Primary legal source for the official change from Madrid-Chamartín to Madrid-Chamartín-Clara Campoamor, its publication date, effective date, and stated reason for honoring Clara Campoamor.",
+      "relevance_es": "Fuente legal primaria del cambio oficial de Madrid-Chamartín a Madrid-Chamartín-Clara Campoamor, de la fecha de publicación, de la entrada en efectos y del motivo declarado del homenaje a Clara Campoamor."
+    },
+    {
+      "title": "Estación de tren Madrid Chamartín-Clara Campoamor - Renfe",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/madrid-chamartin-clara-campoamor",
+      "type": "official",
+      "relevance_en": "Confirms current station usage by Renfe, its location in the north of Madrid, the popular Chamartín name, 1967 inauguration, and Cercanías connections.",
+      "relevance_es": "Confirma el uso actual de la estación por Renfe, su ubicación en el norte de Madrid, el nombre popular Chamartín, la inauguración en 1967 y las conexiones de Cercanías."
+    },
+    {
+      "title": "Estación de Madrid-Chamartín-Clara Campoamor - Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/estacion-madrid-chamartin-clara-campoamor",
+      "type": "official",
+      "relevance_en": "Municipal tourism source stating that the station was renamed on 23 December 2020 in memory of Clara Campoamor, a Madrid-born lawyer, writer and defender of women’s rights.",
+      "relevance_es": "Fuente turística municipal que indica que la estación pasó a llamarse así el 23 de diciembre de 2020 en recuerdo de Clara Campoamor, abogada y escritora madrileña defensora de los derechos de la mujer."
+    },
+    {
+      "title": "Chamartín - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/chamartin",
+      "type": "academic",
+      "relevance_en": "Scholarly toponymic source by E. Nieto Ballester explaining the Chamartín name family as a repopulation toponym formed from Echa and Martín, and explicitly noting the Madrid Chamartín as a related case.",
+      "relevance_es": "Fuente toponímica académica de E. Nieto Ballester que explica la familia Chamartín como topónimo de repoblación formado por Echa y Martín, y menciona expresamente el Chamartín madrileño como caso relacionado."
+    },
+    {
+      "title": "75 años formando parte de Madrid - Ayuntamiento de Madrid",
+      "url": "https://diario.madrid.es/chamartin/2024/01/31/chamartin-75-anos-formando-parte-de-madrid/",
+      "type": "official",
+      "relevance_en": "Provides municipal context for Chamartín de la Rosa, its annexation to Madrid, and the coexistence of several popular and scholarly hypotheses about the district name.",
+      "relevance_es": "Aporta contexto municipal sobre Chamartín de la Rosa, su anexión a Madrid y la coexistencia de varias hipótesis populares y académicas sobre el nombre del distrito."
+    },
+    {
+      "title": "La diputada Campoamor y los derechos civiles y políticos de las mujeres - Congreso de los Diputados",
+      "url": "https://www.congreso.es/ca/cem/vidparl1931-5",
+      "type": "official",
+      "relevance_en": "Official parliamentary source documenting Campoamor’s role in the 1931 constitutional debates and broader work for women’s civil and political rights.",
+      "relevance_es": "Fuente parlamentaria oficial que documenta el papel de Campoamor en los debates constitucionales de 1931 y su trabajo más amplio por los derechos civiles y políticos de las mujeres."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not cite the 1247 form Echamartín as direct documentation of Madrid-Chamartín; available searched evidence ties that date to Chamartín in Ávila.",
+      "es": "No debe citarse la forma Echamartín de 1247 como documentación directa de Madrid-Chamartín; la evidencia localizada vincula esa fecha a Chamartín de Ávila."
+    },
+    {
+      "en": "The current official naming date should be recorded as published on 23 December 2020 and effective from 24 December 2020, not left blank.",
+      "es": "La fecha del nombre oficial actual debe registrarse como publicada el 23 de diciembre de 2020 y efectiva desde el 24 de diciembre de 2020, no dejarse en blanco."
+    },
+    {
+      "en": "Clara Campoamor should be described as a lawyer, writer and deputy as well as a feminist politician; the BOE and Congress sources stress her parliamentary role.",
+      "es": "Clara Campoamor debe describirse como abogada, escritora y diputada además de política feminista; el BOE y el Congreso subrayan su papel parlamentario."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Madrid-specific medieval documentary form for Chamartín de la Rosa should be checked in archival or specialist works before marking the old toponym etymology as fully verified.",
+      "es": "Conviene comprobar en archivos u obras especializadas una forma documental medieval específica de Chamartín de la Rosa antes de marcar como plenamente verificada la etimología del topónimo antiguo."
+    },
+    {
+      "en": "Menéndez Pidal 1951 and Nieto Ballester’s Breve diccionario de topónimos españoles should be inspected directly for exact wording and scope if the dataset keeps a detailed linguistic derivation.",
+      "es": "Sería conveniente consultar directamente Menéndez Pidal 1951 y el Breve diccionario de topónimos españoles de Nieto Ballester para fijar la redacción exacta y el alcance si la base de datos mantiene una derivación lingüística detallada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_004/en/summary.short.md",
+      "summary": "content/stations/cercanias_004/en/summary.md",
+      "story": "content/stations/cercanias_004/en/story.md",
+      "confidence": "content/stations/cercanias_004/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_004/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_004/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_004/es/summary.short.md",
+      "summary": "content/stations/cercanias_004/es/summary.md",
+      "story": "content/stations/cercanias_004/es/story.md",
+      "confidence": "content/stations/cercanias_004/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_004/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_004/es/research-note.md"
+    }
+  }
+}

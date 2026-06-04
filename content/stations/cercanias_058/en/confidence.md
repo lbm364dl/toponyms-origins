@@ -1,0 +1,1 @@
+The direct naming after the municipality is confirmed by current transport sources, and the municipal/toponymic origin is supported by the 1576 Relaciones Topográficas, the Ayuntamiento de Fuenlabrada, and Toponomasticon Hispaniae. The confidence is not reduced by the Moorish attribution because it is treated only as reported local opinion.

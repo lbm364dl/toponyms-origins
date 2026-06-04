@@ -1,0 +1,1 @@
+The station-level naming is well supported by official transport sources showing Leganés Central on Line 12, beside the Renfe/C-5 station, opened with MetroSur on 11 April 2003. The deeper origin of Leganés is only probable because the strongest toponymy source explicitly says the légamo/légano derivation is not certain.

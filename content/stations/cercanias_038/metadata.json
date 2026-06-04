@@ -1,0 +1,86 @@
+{
+  "id": "cercanias_038",
+  "name": "Torrejón de Ardoz",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Torrejón de Ardoz, the municipality named from a tower-related settlement name and the Arroyo Ardoz hydronym",
+  "previous_names": "Historical place-name spellings: Torrejón de Hardoz (1491); Torrejon de Ardoz (1528). No former station name found.",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Torrejón de Ardoz",
+      "url": "https://toponhisp.org/node/334",
+      "type": "academic",
+      "relevance_en": "Gives the main toponymic analysis: Torrejón as a tower-related formation, Ardoz as a hydronym of uncertain origin, historical spellings from 1491 and 1528, and the settlement's early link to a defensive tower near Alcalá.",
+      "relevance_es": "Aporta el análisis toponímico principal: Torrejón como formación relacionada con torre, Ardoz como hidrónimo de origen incierto, grafías históricas de 1491 y 1528, y el vínculo inicial del asentamiento con una torre defensiva junto a Alcalá."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: ARDOZ",
+      "url": "https://toponhisp.org/index.php/es/etimo/ardoz",
+      "type": "academic",
+      "relevance_en": "Focuses on Ardoz and states that it is the Arroyo Ardoz hydronym, while its etymology is opaque and cannot be stated securely.",
+      "relevance_es": "Se centra en Ardoz y afirma que es el hidrónimo del arroyo Ardoz, pero que su etimología es opaca y no puede establecerse con seguridad."
+    },
+    {
+      "title": "Torrejón de Ardoz: una historia viva",
+      "url": "https://www.ayto-torrejon.es/sites/default/files/intranet/MiPaginaDescargas/44_LIBRO%5B1%5D.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal history edited by the Ayuntamiento; supports the frontier-tower interpretation, explains Ardoz as the stream name, notes uncertainty about the town's foundation, and records the 6 September 1554 Carta de Villazgo.",
+      "relevance_es": "Historia municipal oficial editada por el Ayuntamiento; respalda la interpretación del torreón fronterizo, explica Ardoz como nombre del arroyo, señala la incertidumbre sobre la fundación de la villa y recoge la Carta de Villazgo del 6 de septiembre de 1554."
+    },
+    {
+      "title": "CRTM: Torrejón de Ardoz",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_81?idPestana=1",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the Cercanías station name, municipality access points, fare zone, and correspondences with C-2, C-7 and C-8.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma el nombre de la estación de Cercanías, sus accesos en el municipio, la zona tarifaria y las correspondencias con C-2, C-7 y C-8."
+    },
+    {
+      "title": "Renfe station sheet 70102: Torrejón de Ardoz",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70102.pdf",
+      "type": "official",
+      "relevance_en": "Renfe data sheet confirming station code 70102, the name Torrejón de Ardoz, the municipality, coordinates, Cercanías Madrid area, and Renfe Viajeros operation.",
+      "relevance_es": "Ficha de datos de Renfe que confirma el código 70102, el nombre Torrejón de Ardoz, el municipio, las coordenadas, el área de Cercanías Madrid y la explotación por Renfe Viajeros."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Avoid presenting Ardoz as etymologically explained; it is securely a hydronym, but its underlying etymon is unknown.",
+      "es": "Debe evitarse presentar Ardoz como etimológicamente explicado; es con seguridad un hidrónimo, pero su étimo último se desconoce."
+    },
+    {
+      "en": "Refine the formation of Torrejón: Toponomasticon Hispaniae derives it through torreja/turricula and -ón, not simply by attaching a modern diminutive suffix directly to Latin turris.",
+      "es": "Conviene precisar la formación de Torrejón: Toponomasticon Hispaniae la explica a través de torreja/turricula y -ón, no como una simple adición de un sufijo diminutivo moderno directamente al latín turris."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No source inspected gave a specific railway naming date or a former station name distinct from the municipality.",
+      "es": "Ninguna fuente consultada ofreció una fecha específica de asignación del nombre ferroviario ni un nombre anterior de la estación distinto del municipio."
+    },
+    {
+      "en": "A full archival review of the PARES/Archivo Histórico Nacional documents cited by Toponomasticon Hispaniae could add documentary detail, but is not necessary to verify the displayed etymology.",
+      "es": "Una revisión archivística completa de los documentos de PARES/Archivo Histórico Nacional citados por Toponomasticon Hispaniae podría aportar más detalle documental, aunque no es necesaria para verificar la etimología mostrada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_038/en/summary.short.md",
+      "summary": "content/stations/cercanias_038/en/summary.md",
+      "story": "content/stations/cercanias_038/en/story.md",
+      "confidence": "content/stations/cercanias_038/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_038/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_038/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_038/es/summary.short.md",
+      "summary": "content/stations/cercanias_038/es/summary.md",
+      "story": "content/stations/cercanias_038/es/story.md",
+      "confidence": "content/stations/cercanias_038/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_038/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_038/es/research-note.md"
+    }
+  }
+}

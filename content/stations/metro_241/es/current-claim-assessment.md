@@ -1,0 +1,1 @@
+La afirmación básica es correcta: la estación toma el nombre de Leganés y de su posición central/de intercambio. La etimología municipal está demasiado cerrada: la toponimia académica considera Leganés un topónimo difícil y solo lo vincula con cautela a légamo/légano; el texto de las Relaciones citado por fuentes actuales da Leganar, no claramente Legamar.

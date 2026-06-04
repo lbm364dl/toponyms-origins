@@ -1,0 +1,104 @@
+{
+  "id": "metro_241",
+  "name": "Leganés Central",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Leganés; the central Renfe/Cercanías interchange in the municipality",
+  "previous_names": "No previous Metro station name found. The adjoining railway station is officially listed by Renfe/Adif as Leganés; the Metro interchange is known as Leganés Central.",
+  "naming_date": "11 April 2003",
+  "sources": [
+    {
+      "title": "CRTM: Leganés Central station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_235.aspx?idPestana=1&lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 12 service, C-5 correspondence, Leganés location, and Virgen del Camino access points.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 12, la correspondencia con C-5, la ubicación en Leganés y los accesos de Virgen del Camino."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "States that Leganés Central is on Calle Virgen del Camino beside the Renfe station and allows interchange with Cercanías C-5; also reproduces the traditional Relaciones explanation of Leganés from Leganar and légamo.",
+      "relevance_es": "Indica que Leganés Central está en la calle Virgen del Camino junto a la estación de Renfe y permite el intercambio con Cercanías C-5; además reproduce la explicación tradicional de las Relaciones que vincula Leganés con Leganar y légamo."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives MetroSur / Line 12 opening date as 11 April 2003 and describes the 28-station project across the southern municipalities.",
+      "relevance_es": "Da la fecha de puesta en servicio de MetroSur / línea 12 como 11 de abril de 2003 y describe el proyecto de 28 estaciones en los municipios del sur."
+    },
+    {
+      "title": "Ayuntamiento de Leganés: Historia de Leganés",
+      "url": "https://www.leganes.org/w/historia-de-leganes",
+      "type": "official",
+      "relevance_en": "Provides the municipal historical narrative of settlement around 1280, the name Legamar, and the association with a pantano or légamo.",
+      "relevance_es": "Aporta el relato histórico municipal sobre el asentamiento hacia 1280, el nombre Legamar y la asociación con un pantano o légamo."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Leganés",
+      "url": "https://toponhisp.org/node/6284",
+      "type": "academic",
+      "relevance_en": "Specialist toponymy source by E. Nieto Ballester; documents historical forms, quotes the 1580 Relaciones Topográficas, and explains why the légamo/légano etymology is plausible but uncertain.",
+      "relevance_es": "Fuente toponímica especializada de E. Nieto Ballester; documenta formas históricas, cita las Relaciones Topográficas de 1580 y explica por qué la etimología desde légamo/légano es plausible pero insegura."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: légamo",
+      "url": "https://dle.rae.es/l%C3%A9gamo",
+      "type": "reference",
+      "relevance_en": "Defines légamo as sticky mud/silt and as the clayey part of farmland, clarifying the word behind the traditional etymology.",
+      "relevance_es": "Define légamo como cieno, lodo o barro pegajoso y como la parte arcillosa de las tierras de labor, aclarando la voz que sostiene la etimología tradicional."
+    },
+    {
+      "title": "Renfe Data: Ficha Estación 35001 Leganés",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35001.pdf",
+      "type": "official",
+      "relevance_en": "Shows the adjoining railway station’s official name as Leganés, its C-5 service, municipality, and coordinates near the Metro station.",
+      "relevance_es": "Muestra el nombre oficial de la estación ferroviaria contigua como Leganés, su servicio C-5, el municipio y sus coordenadas próximas a la estación de Metro."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not mark the municipal etymology as fully verified; Toponomasticon Hispaniae calls Leganés a difficult toponym and treats the mud/silt explanation cautiously.",
+      "es": "No conviene marcar la etimología municipal como plenamente verificada; Toponomasticon Hispaniae considera Leganés un topónimo difícil y trata con cautela la explicación por barro o limo."
+    },
+    {
+      "en": "The sixteenth-century quotation used by Toponomasticon Hispaniae is dated 1580 and gives Leganar as the form explained from légamo, not a clear original Legamar.",
+      "es": "La cita del siglo XVI usada por Toponomasticon Hispaniae está fechada en 1580 y da Leganar como forma explicada desde légamo, no un Legamar original claro."
+    },
+    {
+      "en": "The station name should be tied first to the central Leganés interchange and the C-5 railway station, not only to the general centre of the municipality.",
+      "es": "El nombre de la estación debe vincularse primero al intercambiador central de Leganés y a la estación ferroviaria de la C-5, no solo al centro genérico del municipio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro naming resolution or original station naming file was not found online; such a document could confirm why Central was chosen instead of simply Leganés.",
+      "es": "No se localizó en línea una resolución formal de denominación de Metro ni un expediente original de nomenclatura; ese documento podría confirmar por qué se eligió Central y no simplemente Leganés."
+    },
+    {
+      "en": "The local tradition alternates between Legamar and Leganar; archival inspection of the edited Relaciones Topográficas and medieval records would help separate documented forms from later municipal narrative.",
+      "es": "La tradición local alterna entre Legamar y Leganar; revisar en archivo la edición de las Relaciones Topográficas y la documentación medieval ayudaría a separar las formas documentadas del relato municipal posterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_241/en/summary.short.md",
+      "summary": "content/stations/metro_241/en/summary.md",
+      "story": "content/stations/metro_241/en/story.md",
+      "confidence": "content/stations/metro_241/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_241/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_241/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_241/es/summary.short.md",
+      "summary": "content/stations/metro_241/es/summary.md",
+      "story": "content/stations/metro_241/es/story.md",
+      "confidence": "content/stations/metro_241/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_241/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_241/es/research-note.md"
+    }
+  }
+}

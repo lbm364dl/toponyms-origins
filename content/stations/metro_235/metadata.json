@@ -1,0 +1,97 @@
+{
+  "id": "metro_235",
+  "name": "Getafe Central",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Getafe",
+  "previous_names": "For the Metro station, no previous name found. The associated Cercanías station is Getafe Centro; Renfe states the earlier railway station kept the name Getafe-Badajoz until the creation of Cercanías Madrid.",
+  "naming_date": "11 April 2003",
+  "sources": [
+    {
+      "title": "CVC Rinconete: La Comunidad de Madrid y sus topónimos (III), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/julio_07/09072007_01.asp",
+      "type": "reference",
+      "relevance_en": "Modern toponymic discussion stating that Getafe has serious etymological problems and that the presumed Arabic origin cannot be verified beyond the medieval documentation.",
+      "relevance_es": "Discusión toponímica moderna que afirma que Getafe presenta problemas etimológicos serios y que el presunto origen árabe no puede verificarse más allá de la documentación medieval."
+    },
+    {
+      "title": "Renfe Rodajes Cercanías Madrid: Estación de Getafe Centro",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-getafe-centro",
+      "type": "official",
+      "relevance_en": "Official Renfe page identifying the station as central in Getafe, opened on 11 April 2003 with Line 12, and noting the previous railway name Getafe-Badajoz.",
+      "relevance_es": "Página oficial de Renfe que sitúa la estación en la zona céntrica de Getafe, indica su apertura el 11 de abril de 2003 con la línea 12 y menciona el nombre ferroviario anterior Getafe-Badajoz."
+    },
+    {
+      "title": "Comunidad de Madrid: Soterramiento de la línea del ferrocarril de Renfe a su paso por Getafe",
+      "url": "https://www.comunidad.madrid/servicios/transporte/soterramiento-linea-ferrocarril-renfe-su-paso-getafe",
+      "type": "official",
+      "relevance_en": "Regional infrastructure page explaining that the new Getafe Central station was built in the central part of the buried rail section and designed as an interchange with MetroSur.",
+      "relevance_es": "Página regional de infraestructuras que explica que la nueva estación Getafe Central se situó en la zona central del tramo soterrado y se diseñó como intercambiador con MetroSur."
+    },
+    {
+      "title": "Relaciones histórico-geográficas-estadísticas de Getafe mandadas hacer por Felipe II, según el interrogatorio de 1575",
+      "url": "https://museo.getafe.es/omeka/files/original/RelacionesHistoricoGeograficasDeFelipeII1576Getafe%5Bn138%5D.pdf",
+      "type": "archive",
+      "relevance_en": "Digitized transcription of the early local testimony saying the informants did not know the origin with certainty but had heard the Arabic jata / long-place explanation tied to Alarnes and the Madrid-Toledo road.",
+      "relevance_es": "Transcripción digitalizada del testimonio local temprano que dice que los informantes no conocían con certeza el origen, pero habían oído la explicación árabe jata / cosa larga ligada a Alarnes y al camino Madrid-Toledo."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: Historia de la ciudad de Getafe",
+      "url": "https://getafe.es/la-ciudad/historia/",
+      "type": "official",
+      "relevance_en": "Municipal history page presenting the traditional Xatafi/jata 'long street' account and the movement from older settlements to the Madrid-Toledo road.",
+      "relevance_es": "Página histórica municipal que presenta la explicación tradicional Xatafi/jata de la 'calle larga' y el traslado desde asentamientos antiguos hacia el camino Madrid-Toledo."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Memoria 2003",
+      "url": "https://www.crtm.es/media/yn5fiero/memoria_crtm_2003.pdf",
+      "type": "official",
+      "relevance_en": "CRTM annual report documenting the 11 April 2003 opening of MetroSur, its 28 stations, and its role connecting the five southern municipalities including Getafe.",
+      "relevance_es": "Memoria anual del CRTM que documenta la apertura de MetroSur el 11 de abril de 2003, sus 28 estaciones y su función de conexión entre los cinco municipios del sur, incluido Getafe."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the Arabic jata > Xatafi/Getafe explanation as established fact; it is a traditional explanation recorded in the Relaciones and judged unverified by García Sánchez.",
+      "es": "No debe presentarse la explicación árabe jata > Xatafi/Getafe como un hecho establecido; es una explicación tradicional recogida en las Relaciones y considerada no verificada por García Sánchez."
+    },
+    {
+      "en": "Use 1576 for the Getafe local response where appropriate, while noting that it answered Philip II's 1575 questionnaire.",
+      "es": "Conviene usar 1576 para la respuesta local de Getafe cuando proceda, señalando que respondía al interrogatorio de Felipe II de 1575."
+    },
+    {
+      "en": "Distinguish the Metro station name Getafe Central from the Cercanías name Getafe Centro and the older railway name Getafe-Badajoz.",
+      "es": "Debe distinguirse el nombre de Metro Getafe Central del nombre de Cercanías Getafe Centro y del antiguo nombre ferroviario Getafe-Badajoz."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid station-naming file or opening dossier could confirm whether 'Central' was chosen explicitly to mirror other MetroSur central interchanges.",
+      "es": "Un expediente formal de denominación de Metro de Madrid o un dossier de inauguración podría confirmar si 'Central' se eligió explícitamente siguiendo el modelo de otros intercambiadores centrales de MetroSur."
+    },
+    {
+      "en": "The medieval forms Satafi/Xatafi/Xetafe would benefit from checking the cited 1249 and ca. 1150 documents directly in archival or scholarly editions.",
+      "es": "Las formas medievales Satafi/Xatafi/Xetafe deberían comprobarse directamente en los documentos citados de 1249 y hacia 1150 mediante ediciones archivísticas o académicas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_235/en/summary.short.md",
+      "summary": "content/stations/metro_235/en/summary.md",
+      "story": "content/stations/metro_235/en/story.md",
+      "confidence": "content/stations/metro_235/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_235/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_235/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_235/es/summary.short.md",
+      "summary": "content/stations/metro_235/es/summary.md",
+      "story": "content/stations/metro_235/es/story.md",
+      "confidence": "content/stations/metro_235/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_235/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_235/es/research-note.md"
+    }
+  }
+}

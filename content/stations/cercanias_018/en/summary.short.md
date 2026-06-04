@@ -1,0 +1,1 @@
+Getafe Industrial is named for the industrial area it serves, on the eastern side of Getafe near the C-3 railway and the A-4. Its setting is closely tied to Getafe's long railway, factory and aerospace history.

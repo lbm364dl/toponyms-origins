@@ -1,0 +1,111 @@
+{
+  "id": "metro_223",
+  "name": "Parque Oeste",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Área de Centralidad Parque Oeste / barrio Parque Oeste de Alcorcón",
+  "previous_names": "",
+  "naming_date": "2003",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Comunidad de Madrid page listing Parque Oeste as an Alcorcón station on MetroSur and describing it as a fully underground station with an access beside Calle Estambul.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que incluye Parque Oeste como estación de Alcorcón en MetroSur y la describe como estación subterránea con acceso junto a la calle Estambul."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page giving MetroSur Line 12's service start date as 11 April 2003 and describing its more than 40 km and 28 underground stations.",
+      "relevance_es": "Página oficial regional que da como fecha de puesta en servicio de MetroSur, línea 12, el 11 de abril de 2003 y describe sus más de 40 km y 28 estaciones subterráneas."
+    },
+    {
+      "title": "Resolución relativa al proyecto de delimitación y expropiación... Área de Centralidad de Alcorcón",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-1998-43493",
+      "type": "official",
+      "relevance_en": "BOE notice stating that Alcorcón's Área de Centralidad, originating in the 1989 planning revision, was known as Parque Oeste de Alcorcón and later modified for mixed residential, university and service uses.",
+      "relevance_es": "Anuncio del BOE que indica que el Área de Centralidad de Alcorcón, originada en la revisión urbanística de 1989, era conocida como Parque Oeste de Alcorcón y fue modificada para usos residenciales, universitarios y de servicios."
+    },
+    {
+      "title": "Plan General de Alcorcón. Memoria, enero 1999",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2022-07/PGOU_MEMORIA-1999.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document noting that from 1994 Alcorcón's commercial structure changed with large retail centres, including those in the Área de Centralidad, Parque Oeste.",
+      "relevance_es": "Documento municipal de planeamiento que señala que desde 1994 la estructura comercial de Alcorcón cambió con grandes centros comerciales, incluidos los del Área de Centralidad, Parque Oeste."
+    },
+    {
+      "title": "García Uyarra, Ángel. Las actuaciones residenciales de Arpegio: entre la centralidad y la suburbanización",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/1350243.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article describing the Área de Centralidad Parque Oeste de Alcorcón, its 1989 approval, later planning modifications, commercial park, housing, university campus, urban park and MetroSur/Cercanías integration.",
+      "relevance_es": "Artículo académico que describe el Área de Centralidad Parque Oeste de Alcorcón, su aprobación en 1989, las modificaciones posteriores, el parque comercial, la vivienda, el campus universitario, el parque urbano y la integración con MetroSur/Cercanías."
+    },
+    {
+      "title": "Parque Oeste-Alcorcón, el mayor polígono de grandes superficies, planta su décimo híper",
+      "url": "https://elpais.com/diario/1996/09/21/madrid/843305082_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary 1996 press report documenting Parque Oeste-Alcorcón as a major retail concentration and explaining its location and origins in the approved urban action programme.",
+      "relevance_es": "Crónica de prensa de 1996 que documenta Parque Oeste-Alcorcón como gran concentración comercial y explica su localización y origen en el programa de actuación urbanística aprobado."
+    },
+    {
+      "title": "Parque Oeste | Vukile Property Fund Limited",
+      "url": "https://www.vukile.co.za/property/parque-oeste/",
+      "type": "other",
+      "relevance_en": "Current property-owner page describing the retail hub's size, two development phases in 1994 and 1996, major tenants and address on Avenida de Europa in Alcorcón.",
+      "relevance_es": "Página actual de propiedad inmobiliaria que describe el tamaño del conjunto comercial, sus dos fases de desarrollo en 1994 y 1996, operadores principales y dirección en la avenida de Europa de Alcorcón."
+    },
+    {
+      "title": "Plano zonal Parque Oeste",
+      "url": "https://crtm.es/media/mnum5bqz/plano_zonal_parqueoeste.pdf",
+      "type": "official",
+      "relevance_en": "CRTM zonal map showing the Parque Oeste Metro access, Calle Estambul, nearby commercial centre and Universidad Rey Juan Carlos Alcorcón campus.",
+      "relevance_es": "Plano zonal del CRTM que muestra el acceso de Metro Parque Oeste, la calle Estambul, el centro comercial cercano y el campus de Alcorcón de la Universidad Rey Juan Carlos."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The etymology type should be treated primarily as a place-name origin, not merely as a descriptive phrase.",
+      "es": "El tipo etimológico debería tratarse principalmente como origen toponímico de lugar, no solo como una frase descriptiva."
+    },
+    {
+      "en": "The commercial park is only part of the named area; the stronger origin is the broader Área de Centralidad / barrio Parque Oeste.",
+      "es": "El parque comercial es solo una parte del área nombrada; el origen más sólido es el conjunto más amplio del Área de Centralidad / barrio Parque Oeste."
+    },
+    {
+      "en": "The claim that 'oeste' specifically reflects the western edge of Alcorcón is plausible, but it should be marked as inference unless a planning or naming document is found.",
+      "es": "La afirmación de que 'oeste' refleja específicamente el borde occidental de Alcorcón es plausible, pero debe marcarse como inferencia salvo que aparezca un documento de planeamiento o denominación que lo confirme."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Metro de Madrid or Comunidad de Madrid station-naming files, if accessible, for the exact act that assigned the name Parque Oeste.",
+      "es": "Revisar, si son accesibles, expedientes de Metro de Madrid o de la Comunidad de Madrid sobre denominación de estaciones para localizar el acto exacto que asignó el nombre Parque Oeste."
+    },
+    {
+      "en": "Inspect the original 1989 PAU and 1992/1994/1997 modifications to determine whether the name Parque Oeste was formally motivated by geographic position, parkland design, branding, or all three.",
+      "es": "Revisar el PAU original de 1989 y sus modificaciones de 1992, 1994 y 1997 para determinar si el nombre Parque Oeste se motivó formalmente por posición geográfica, diseño de zonas verdes, marca urbanística o una combinación de estos factores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_223/en/summary.short.md",
+      "summary": "content/stations/metro_223/en/summary.md",
+      "story": "content/stations/metro_223/en/story.md",
+      "confidence": "content/stations/metro_223/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_223/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_223/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_223/es/summary.short.md",
+      "summary": "content/stations/metro_223/es/summary.md",
+      "story": "content/stations/metro_223/es/story.md",
+      "confidence": "content/stations/metro_223/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_223/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_223/es/research-note.md"
+    }
+  }
+}

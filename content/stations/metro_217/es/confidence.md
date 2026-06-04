@@ -1,0 +1,1 @@
+La denominación inmediata de la estación por el topónimo Carabanchel Alto está verificada por fuentes de transporte, por su localización y por el registro municipal histórico. La confianza se mantiene en 'probable' solo para el origen profundo de 'Carabanchel', porque circulan varias etimologías y ninguna queda establecida de forma definitiva en las fuentes consultadas.

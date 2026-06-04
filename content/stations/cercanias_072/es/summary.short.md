@@ -1,0 +1,1 @@
+La estación de Robledo de Chavela recibe el nombre del municipio al que sirve. El topónimo une Robledo, un bosque de robles, con Chavela, que el Toponomasticon Hispaniae explica preferentemente como el nombre personal medieval Echa Vela.

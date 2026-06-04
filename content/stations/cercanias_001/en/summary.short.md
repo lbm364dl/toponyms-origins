@@ -1,0 +1,1 @@
+Recoletos station is named for Paseo de Recoletos. The promenade preserves the memory of a convent of Augustinian Recollect friars founded in 1592 near the site now occupied in part by the National Library area.

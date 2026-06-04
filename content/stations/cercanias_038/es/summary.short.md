@@ -1,0 +1,1 @@
+La estación de Cercanías debe su nombre al municipio de Torrejón de Ardoz. El topónimo alude a una torre o asentamiento defensivo y al arroyo Ardoz, un hidrónimo cuyo origen último sigue siendo incierto.

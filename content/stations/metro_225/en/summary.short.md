@@ -1,0 +1,1 @@
+Móstoles Central is named for its role as the central Metro/Cercanías station of Móstoles. The town name is medieval and uncertain, with a plausible but not definitive link to Latin monasterium or *monisteriis.

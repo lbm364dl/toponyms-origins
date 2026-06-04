@@ -1,0 +1,1 @@
+San Cristóbal Industrial es un nombre ferroviario descriptivo: San Cristóbal lo vincula al entorno cercano de San Cristóbal de los Ángeles, mientras que Industrial señala su ubicación en el paisaje fabril y empresarial de Villaverde. No debe vincularse con Valdemoro.

@@ -1,0 +1,1 @@
+La estación de Alcorcón toma su nombre del municipio al que sirve. El topónimo se explica de forma más sólida como un híbrido relacionado con el latín quercus, 'roble/encina', con influencia árabe en el al- inicial, aunque también existe una teoría tradicional árabe vinculada a una colina.

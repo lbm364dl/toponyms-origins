@@ -1,0 +1,1 @@
+La estación de El Carrascal recibe el nombre del barrio de Leganés al que da servicio. El topónimo es botánico y transparente: un carrascal es un sitio o monte poblado de carrascas, encinas generalmente pequeñas.

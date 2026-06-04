@@ -1,0 +1,1 @@
+Fuentes oficiales de Adif, Renfe y el CRTM confirman el nombre de la estación, su ubicación en la carretera del Campus, el contexto ferroviario y el servicio C-2/C-8. Fuentes oficiales universitarias, BOE, UCM, BNE y UNESCO respaldan la explicación histórica de la institución que da nombre a la estación.

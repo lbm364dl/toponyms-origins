@@ -1,0 +1,1 @@
+La estación está correctamente identificada como llamada por la ciudad de Aranjuez, y la explicación vasca arantza/aranz es una línea filológica seria asociada a Rafael Lapesa. Sin embargo, la formulación es demasiado categórica: el topónimo sigue debatido, con explicaciones latinas, árabes, ibéricas/prerromanas e hidronímicas en circulación.

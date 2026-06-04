@@ -1,0 +1,111 @@
+{
+  "id": "metro_224",
+  "name": "Universidad Rey Juan Carlos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Universidad Rey Juan Carlos, Móstoles campus; the university is legally named for King Juan Carlos I of Spain",
+  "previous_names": "",
+  "naming_date": "2003",
+  "sources": [
+    {
+      "title": "BOE-A-1996-26268: Ley 7/1996, de 8 de julio, de creación de la Universidad «Rey Juan Carlos»",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1996-26268",
+      "type": "official",
+      "relevance_en": "Primary legal source creating the Universidad «Rey Juan Carlos» and giving the exact law date, publication history and initial university structure.",
+      "relevance_es": "Fuente legal primaria que crea la Universidad «Rey Juan Carlos» y aporta la fecha exacta de la ley, su publicación y la estructura inicial de la universidad."
+    },
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport page describing Line 12/MetroSur, listing Universidad Rey Juan Carlos as a Móstoles station and locating it near the university campus access on Calle Tulipán.",
+      "relevance_es": "Página oficial regional de transporte que describe la línea 12/MetroSur, incluye Universidad Rey Juan Carlos como estación de Móstoles y la sitúa cerca del acceso al campus universitario en la calle Tulipán."
+    },
+    {
+      "title": "Metro - Plan de Movilidad Urbana Sostenible de Móstoles",
+      "url": "https://www.mostoles.es/Plan_Movilidad/es/movilidad-mostoles/transportes/metro",
+      "type": "official",
+      "relevance_en": "Municipal transport page confirming that Line 12/MetroSur serves Móstoles and listing Universidad Rey Juan Carlos among the town's metro stations.",
+      "relevance_es": "Página municipal de transporte que confirma que la línea 12/MetroSur discurre por Móstoles e incluye Universidad Rey Juan Carlos entre las estaciones del municipio."
+    },
+    {
+      "title": "Campus de Móstoles - Universidad Rey Juan Carlos",
+      "url": "https://www.urjc.es/universidad/campus/campus-de-mostoles",
+      "type": "official",
+      "relevance_en": "Official URJC campus page confirming that the Móstoles campus is in southern Madrid and houses the Rector's Office, along with several faculties and schools.",
+      "relevance_es": "Página oficial del campus de la URJC que confirma que el campus de Móstoles está en el sur de Madrid y alberga el Rectorado, además de varias facultades y escuelas."
+    },
+    {
+      "title": "25 aniversario - Universidad Rey Juan Carlos",
+      "url": "https://www.urjc.es/25-aniversario",
+      "type": "official",
+      "relevance_en": "URJC institutional page stating that the university was founded under its creation law and began academic activity in October 1997.",
+      "relevance_es": "Página institucional de la URJC que indica que la universidad nació conforme a su ley de creación y comenzó su actividad académica en octubre de 1997."
+    },
+    {
+      "title": "La URJC en cifras - Universidad Rey Juan Carlos",
+      "url": "https://www.urjc.es/otra-info/la-urjc-en-cifras",
+      "type": "official",
+      "relevance_en": "Current official university figures: more than 46,000 students and the second-largest university in the Community of Madrid.",
+      "relevance_es": "Cifras oficiales actuales de la universidad: más de 46.000 estudiantes y segunda universidad más grande de la Comunidad de Madrid."
+    },
+    {
+      "title": "La Rey Juan Carlos comienza con 300 alumnos y sin edificios propios - El País",
+      "url": "https://elpais.com/diario/1997/10/07/madrid/876223466_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the opening of URJC's first course in October 1997, with 300 students and temporary facilities in Alcorcón and Móstoles.",
+      "relevance_es": "Crónica contemporánea de la apertura del primer curso de la URJC en octubre de 1997, con 300 alumnos e instalaciones provisionales en Alcorcón y Móstoles."
+    },
+    {
+      "title": "La sexta universidad pone hoy su primera piedra en Móstoles sin un proyecto definitivo - El País",
+      "url": "https://elpais.com/diario/1997/02/12/madrid/855750266_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report that the King and Queen were to place the first stone of the new university in Móstoles on 12 February 1997.",
+      "relevance_es": "Crónica contemporánea que informa de que los Reyes acudirían a Móstoles el 12 de febrero de 1997 para colocar la primera piedra de la nueva universidad."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from person to place or institutional landmark: the station is named for the university campus, with Juan Carlos I as the secondary eponym of the university.",
+      "es": "Cambiar el tipo de etimología de persona a lugar o hito institucional: la estación se llama por el campus universitario, con Juan Carlos I como epónimo secundario de la universidad."
+    },
+    {
+      "en": "The creation law is Law 7/1996 of 8 July 1996, published in the BOCM on 17 July and entering into force on 18 July; describing the university as established by a law 'in August 1996' is imprecise.",
+      "es": "La ley de creación es la Ley 7/1996, de 8 de julio de 1996, publicada en el BOCM el 17 de julio y vigente desde el 18 de julio; decir que la universidad fue creada por una ley 'en agosto de 1996' es impreciso."
+    },
+    {
+      "en": "Update the size claim if retained: URJC's current official figures say more than 46,000 students and call it the second-largest university in the Community of Madrid.",
+      "es": "Actualizar el dato de tamaño si se conserva: las cifras oficiales actuales de la URJC hablan de más de 46.000 estudiantes y la describen como la segunda universidad más grande de la Comunidad de Madrid."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A station-specific Metro de Madrid naming resolution or original 2003 station file was not found; it would be useful for confirming the exact formal naming date beyond the opening year.",
+      "es": "No se encontró una resolución específica de Metro de Madrid sobre el nombre ni una ficha original de la estación de 2003; sería útil para confirmar la fecha formal exacta de denominación más allá del año de apertura."
+    },
+    {
+      "en": "The regional MetroSur page appears to contain a small wording slip, referring near the station description to 'Universidad Juan Carlos I' rather than the legal 'Universidad Rey Juan Carlos'. This should not be treated as a former name.",
+      "es": "La página regional de MetroSur parece contener un pequeño desliz de redacción al referirse en la descripción de la estación a 'Universidad Juan Carlos I' en vez del nombre legal 'Universidad Rey Juan Carlos'. No debe tratarse como nombre anterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_224/en/summary.short.md",
+      "summary": "content/stations/metro_224/en/summary.md",
+      "story": "content/stations/metro_224/en/story.md",
+      "confidence": "content/stations/metro_224/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_224/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_224/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_224/es/summary.short.md",
+      "summary": "content/stations/metro_224/es/summary.md",
+      "story": "content/stations/metro_224/es/story.md",
+      "confidence": "content/stations/metro_224/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_224/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_224/es/research-note.md"
+    }
+  }
+}

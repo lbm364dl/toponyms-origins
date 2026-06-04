@@ -1,0 +1,1 @@
+Official regional and municipal transport pages verify the station name, location and Line 12 context, while BOE and URJC sources verify the university's legal creation and institutional history. The only nuance is interpretive: the exact administrative act assigning the station name was not found, but all available evidence points to the campus as the immediate namesake.

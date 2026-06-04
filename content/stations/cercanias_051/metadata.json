@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_051",
+  "name": "Alcorcón",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alcorcón municipality; probably a hybrid toponym from a quercus/oak root with Arabic superstrate al-, though an Arabic hill-name explanation is also traditional",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif: 35605 Alcorcón",
+      "url": "https://www.adif.es/w/35605-alcorc%C3%B3n",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming the station name Alcorcón, its address in the municipality, and C-5 service.",
+      "relevance_es": "Página oficial de infraestructura que confirma el nombre de la estación Alcorcón, su dirección en el municipio y el servicio de la C-5."
+    },
+    {
+      "title": "Renfe station sheet: ALCORCON, code 35605",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35605.pdf",
+      "type": "official",
+      "relevance_en": "Official Renfe data sheet confirming code 35605, name ALCORCON, operator Renfe Viajeros, municipality Alcorcón and commercial line C5.",
+      "relevance_es": "Ficha oficial de Renfe que confirma el código 35605, el nombre ALCORCON, el explotador Renfe Viajeros, el municipio Alcorcón y la línea comercial C5."
+    },
+    {
+      "title": "CRTM: Alcorcón station",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_5",
+      "type": "official",
+      "relevance_en": "Regional transport source confirming the station as Alcorcón, fare zone B1, C-5 service and interchange with Metro line 12.",
+      "relevance_es": "Fuente regional de transporte que confirma la estación como Alcorcón, zona tarifaria B1, servicio de C-5 y correspondencia con Metro línea 12."
+    },
+    {
+      "title": "Jairo J. García Sánchez, 'La Comunidad de Madrid y sus topónimos (II)', Centro Virtual Cervantes, 21 June 2007",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/21062007_01.asp",
+      "type": "academic",
+      "relevance_en": "Specialist toponymy article proposing that Alcorcón may derive from *corcu/qorq, from Latin quercus, with Arabic superstrate al-, making it a hybrid toponym.",
+      "relevance_es": "Artículo especializado de toponimia que propone que Alcorcón pudo derivar de *corcu/qorq, del latín quercus, con al- de superestrato árabe, por lo que sería un topónimo híbrido."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón: Historia",
+      "url": "https://www.ayto-alcorcon.es/es/historia",
+      "type": "official",
+      "relevance_en": "Municipal history page documenting the first medieval mention as Cañada de Alcorcón on 28 July 1208, the 1222 mention, and the traditional Arabic hill explanation.",
+      "relevance_es": "Página histórica municipal que documenta la primera mención medieval como Cañada de Alcorcón el 28 de julio de 1208, la mención de 1222 y la explicación tradicional árabe de la colina."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: alcor",
+      "url": "https://dle.rae.es/alcor",
+      "type": "reference",
+      "relevance_en": "Confirms that Spanish alcor means 'hill or pass' and gives its etymology from Hispanic Arabic alqúll and Latin collis, useful for evaluating the hill theory.",
+      "relevance_es": "Confirma que el castellano alcor significa 'colina o collado' y da su etimología desde el árabe hispánico alqúll y el latín collis, útil para valorar la teoría de la colina."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: alcornoque",
+      "url": "https://dle.rae.es/alcornoque",
+      "type": "reference",
+      "relevance_en": "Supports the parallel cited by García Sánchez: alcornoque is derived from Mozarabic *alqurnúq, ultimately from Latin quernus, 'of holm oak'.",
+      "relevance_es": "Apoya el paralelo citado por García Sánchez: alcornoque deriva del mozárabe *alqurnúq, en último término del latín quernus, 'de encina'."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state the quercus explanation as certain; García Sánchez says the name 'may have formed' from *corcu/qorq and explicitly notes that its origin is disputed.",
+      "es": "No conviene presentar la explicación de quercus como segura; García Sánchez dice que el nombre pudo formarse a partir de *corcu/qorq y señala expresamente que su procedencia es discutida."
+    },
+    {
+      "en": "The first documented form should be given as Cañada de Alcorcón on 28 July 1208, not simply as evidence for the station name.",
+      "es": "La primera forma documentada debe darse como Cañada de Alcorcón el 28 de julio de 1208, no como prueba directa del nombre de la estación."
+    },
+    {
+      "en": "The pottery tradition is important for Alcorcón's identity, but it should not be presented as the best linguistic origin of the place name.",
+      "es": "La tradición alfarera es importante para la identidad de Alcorcón, pero no debe presentarse como el mejor origen lingüístico del topónimo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full check of García Sánchez's broader academic work on Madrid toponymy, beyond the CVC article, could refine whether he later strengthened or revised the Alcorcón proposal.",
+      "es": "Una revisión completa de los trabajos académicos más amplios de García Sánchez sobre la toponimia madrileña, más allá del artículo del CVC, podría precisar si reforzó o revisó después la propuesta sobre Alcorcón."
+    },
+    {
+      "en": "The medieval boundary documents of 1208 and 1222 should be inspected in their edited or archival form for exact spellings and context.",
+      "es": "Conviene consultar los documentos medievales de deslinde de 1208 y 1222 en edición o archivo para comprobar grafías exactas y contexto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_051/en/summary.short.md",
+      "summary": "content/stations/cercanias_051/en/summary.md",
+      "story": "content/stations/cercanias_051/en/story.md",
+      "confidence": "content/stations/cercanias_051/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_051/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_051/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_051/es/summary.short.md",
+      "summary": "content/stations/cercanias_051/es/summary.md",
+      "story": "content/stations/cercanias_051/es/story.md",
+      "confidence": "content/stations/cercanias_051/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_051/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_051/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Soto del Henares toma su nombre del barrio homónimo del este de Torrejón de Ardoz. El topónimo alude a un soto o ribera arbolada junto al Henares, un paisaje que se refleja en el corredor fluvial cercano y en el antiguo nombre natural Soto del Henares.

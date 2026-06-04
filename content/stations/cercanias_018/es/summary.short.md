@@ -1,0 +1,1 @@
+Getafe Industrial toma su nombre de la zona industrial a la que da servicio, en el este de Getafe junto a la línea C-3 y la A-4. Su entorno está muy ligado a la historia ferroviaria, fabril y aeronáutica de Getafe.

@@ -1,0 +1,111 @@
+{
+  "id": "metro_211",
+  "name": "La Granja",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de La Granja / Polígono Industrial de Alcobendas",
+  "previous_names": "Alcobendas Industrial (planned; found only in secondary/Wikipedia-derived sources)",
+  "naming_date": "2007 (current name in use at opening; formal street/station naming date not found)",
+  "sources": [
+    {
+      "title": "CRTM - La Granja station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_278.aspx?idPestana=1&lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the station name, Line 10 connection, fare zone and access points on Calle de Sepúlveda and Calle de la Granja.",
+      "relevance_es": "Confirma el nombre de la estación, la conexión con la línea 10, la zona tarifaria y los accesos por la calle de Sepúlveda y la calle de la Granja."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Lists MetroNorte, its 2007 service date and the eleven-station extension including La Granja.",
+      "relevance_es": "Enumera MetroNorte, su fecha de puesta en servicio en 2007 y la ampliación de once estaciones, incluida La Granja."
+    },
+    {
+      "title": "Comunidad de Madrid - Metronorte PDF",
+      "url": "https://www.comunidad.madrid/sites/default/files/aud/transportes/47_comprimido.pdf",
+      "type": "official",
+      "relevance_en": "Describes the MetroNorte project and the principal areas served, including industrial estates in the Alcobendas corridor.",
+      "relevance_es": "Describe el proyecto MetroNorte y las principales áreas atendidas, incluidos polígonos industriales del corredor de Alcobendas."
+    },
+    {
+      "title": "Ayuntamiento de Alcobendas / Film Madrid - Catálogo de localizaciones en Alcobendas",
+      "url": "https://www.alcobendas.org/sites/default/files/2021-11/Cat%C3%A1logo%20de%20localizaciones%20en%20Alcobendas.pdf",
+      "type": "official",
+      "relevance_en": "Gives La Granja Metro station's address as Calle la Granja, 14 and describes it as being in the heart of Alcobendas's industrial estate.",
+      "relevance_es": "Da la dirección de la estación de Metro La Granja como calle la Granja, 14 y la describe en el corazón del polígono industrial de Alcobendas."
+    },
+    {
+      "title": "Ayuntamiento de Alcobendas - Plan Especial del Polígono Industrial",
+      "url": "https://www.alcobendas.org/sites/default/files/2021-04/Texto%20Plan%20Especial%20Pol%C3%ADgono%20Industrial.pdf",
+      "type": "official",
+      "relevance_en": "Documents Calle de La Granja within the industrial-estate planning context, confirming the local place-name setting.",
+      "relevance_es": "Documenta la calle de La Granja dentro del contexto urbanístico del polígono industrial, confirmando el marco toponímico local."
+    },
+    {
+      "title": "RAE - Diccionario de la lengua española: granja",
+      "url": "https://dle.rae.es/granja",
+      "type": "reference",
+      "relevance_en": "Defines 'granja' as a rural farmstead or property for raising animals, supporting the linguistic explanation of the name.",
+      "relevance_es": "Define 'granja' como hacienda de campo o finca dedicada a la cría de animales, apoyando la explicación lingüística del nombre."
+    },
+    {
+      "title": "El País - Metronorte contra la A-1",
+      "url": "https://elpais.com/diario/2007/04/27/madrid/1177673065_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the MetroNorte inauguration and early user experience, including a mention of La Granja.",
+      "relevance_es": "Crónica contemporánea de la inauguración de MetroNorte y de la experiencia inicial de los usuarios, con mención de La Granja."
+    },
+    {
+      "title": "Wikipedia - Estación de La Granja (Metro de Madrid)",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_La_Granja_%28Metro_de_Madrid%29",
+      "type": "reference",
+      "relevance_en": "Provides the secondary claim that 'Alcobendas Industrial' was considered as a project name; useful for tracking the claim but not decisive.",
+      "relevance_es": "Aporta la afirmación secundaria de que 'Alcobendas Industrial' se barajó como nombre de proyecto; útil para rastrear la afirmación, pero no concluyente."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that the name definitively references the area's agricultural origins with a more cautious statement: the documented source is Calle de La Granja, while the agricultural reading is plausible from the word's meaning.",
+      "es": "Sustituir la afirmación de que el nombre remite de forma definitiva a los orígenes agrícolas de la zona por una formulación más prudente: la fuente documentada es la calle de La Granja, mientras que la lectura agrícola es verosímil por el significado de la palabra."
+    },
+    {
+      "en": "Treat 'Alcobendas Industrial' as an unverified planned name unless an official project, map or naming file is found.",
+      "es": "Tratar 'Alcobendas Industrial' como nombre previsto no verificado mientras no se localice un proyecto, plano o expediente oficial que lo confirme."
+    },
+    {
+      "en": "If an exact opening date is displayed, flag the discrepancy between press/Wikipedia-style 26 April 2007 and Community of Madrid material giving 23 April 2007 as puesta en servicio.",
+      "es": "Si se muestra una fecha exacta de apertura, señalar la discrepancia entre el 26 de abril de 2007 usado por prensa y fuentes tipo Wikipedia y el 23 de abril de 2007 indicado por la Comunidad de Madrid como puesta en servicio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Alcobendas municipal street-naming records or plenary minutes to confirm why Calle de La Granja received that name.",
+      "es": "Consultar los expedientes de denominación viaria o actas plenarias del Ayuntamiento de Alcobendas para confirmar por qué la calle de La Granja recibió ese nombre."
+    },
+    {
+      "en": "Find the original MetroNorte project maps or construction documentation to verify whether 'Alcobendas Industrial' was an official planned station name.",
+      "es": "Localizar los planos originales o la documentación constructiva de MetroNorte para verificar si 'Alcobendas Industrial' fue un nombre previsto oficial de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_211/en/summary.short.md",
+      "summary": "content/stations/metro_211/en/summary.md",
+      "story": "content/stations/metro_211/en/story.md",
+      "confidence": "content/stations/metro_211/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_211/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_211/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_211/es/summary.short.md",
+      "summary": "content/stations/metro_211/es/summary.md",
+      "story": "content/stations/metro_211/es/story.md",
+      "confidence": "content/stations/metro_211/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_211/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_211/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La estación de Begoña toma su nombre del cercano núcleo residencial de Virgen de Begoña, en el norte de Madrid. Ese nombre local remite en última instancia a Nuestra Señora de Begoña, advocación mariana vinculada al santuario bilbaíno y patrona de Bilbao y Bizkaia.

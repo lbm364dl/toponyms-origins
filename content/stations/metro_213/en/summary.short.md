@@ -1,0 +1,1 @@
+Baunatal station is named for Baunatal, a town in Hesse, Germany, twinned with San Sebastián de los Reyes since 28 August 1990. The name reached Metro Line 10 through MetroNorte, which opened in San Sebastián de los Reyes on 26 April 2007.

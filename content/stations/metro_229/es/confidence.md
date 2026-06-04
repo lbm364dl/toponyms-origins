@@ -1,0 +1,1 @@
+El origen descriptivo queda confirmado por la ubicación física de la estación, la información de accesos del CRTM, la documentación de MetroSur de la Comunidad de Madrid y las páginas oficiales del propio hospital. No se ha encontrado una etimología alternativa.

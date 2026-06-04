@@ -1,0 +1,1 @@
+El nombre de la estación debe tratarse como una etiqueta funcional de transporte, no como una denominación conmemorativa. La página de MetroSur de la Comunidad de Madrid conserva además identificadores de obra como 'Fuenlabrada 2' para la estación en descripciones de ingeniería, pero parece ser un código de proyecto, no un nombre público anterior.

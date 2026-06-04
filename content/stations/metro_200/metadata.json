@@ -1,0 +1,104 @@
+{
+  "id": "metro_200",
+  "name": "Aeropuerto T1-T2-T3",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Terminals 1, 2 and 3 of Aeropuerto Adolfo Suárez Madrid-Barajas",
+  "previous_names": "Aeropuerto",
+  "naming_date": "2007-05-03",
+  "sources": [
+    {
+      "title": "Aena - Cómo llegar en metro al Aeropuerto Adolfo Suárez Madrid-Barajas",
+      "url": "https://www.aena.es/es/adolfo-suarez-madrid-barajas/como-llegar/metro.html",
+      "type": "official",
+      "relevance_en": "Confirms Line 8, the route Nuevos Ministerios-Aeropuerto T4, and the airport Metro stop for Aeropuerto T1, T2, T3 at Terminal 2, floor 1.",
+      "relevance_es": "Confirma la línea 8, el recorrido Nuevos Ministerios-Aeropuerto T4 y la parada de Metro Aeropuerto T1, T2, T3 en la Terminal 2, planta 1."
+    },
+    {
+      "title": "CRTM - Plano de accesos Aeropuerto T1-T2-T3",
+      "url": "https://www.crtm.es/media/eophjawi/90_34_librointercambiadores_aeropuertot1t2t3.pdf",
+      "type": "official",
+      "relevance_en": "Shows the official station access layout and labels the Metro station as Aeropuerto T1-T2-T3 on Line 8.",
+      "relevance_es": "Muestra el plano oficial de accesos y rotula la estación de Metro como Aeropuerto T1-T2-T3 en la línea 8."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Gives the 14 June 1999 opening of Aeropuerto and the 3 May 2007 new name Aeropuerto T1-T2-T3, plus the opening of Aeropuerto T4.",
+      "relevance_es": "Aporta la apertura de Aeropuerto el 14 de junio de 1999 y el nuevo nombre Aeropuerto T1-T2-T3 el 3 de mayo de 2007, además de la apertura de Aeropuerto T4."
+    },
+    {
+      "title": "Aena - Historia del Aeropuerto Adolfo Suárez Madrid-Barajas",
+      "url": "https://www.aena.es/es/adolfo-suarez-madrid-barajas/conocenos/historia.html",
+      "type": "official",
+      "relevance_en": "Provides the airport's 22 April 1931 opening, late-1933 commercial operations, site beside Barajas, terminal chronology, 1965 Madrid-Barajas name, T4 opening in 2006, and 2014 official renaming.",
+      "relevance_es": "Aporta la apertura del aeropuerto el 22 de abril de 1931, las operaciones comerciales de finales de 1933, el emplazamiento junto a Barajas, la cronología de terminales, el nombre Madrid-Barajas de 1965, la apertura de la T4 en 2006 y el cambio oficial de 2014."
+    },
+    {
+      "title": "BOE-A-2014-3275 - Orden FOM/480/2014, de 24 de marzo",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-3275",
+      "type": "official",
+      "relevance_en": "Legally confirms that Madrid-Barajas was officially renamed Aeropuerto Adolfo Suárez Madrid-Barajas and explains the commemorative reason.",
+      "relevance_es": "Confirma jurídicamente que Madrid-Barajas pasó a denominarse oficialmente Aeropuerto Adolfo Suárez Madrid-Barajas y explica el motivo conmemorativo."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Topónimos madrileños: Barajas', Anales del Instituto de Estudios Madrileños, XLVII (2007)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3017538.pdf",
+      "type": "academic",
+      "relevance_en": "Discusses competing etymologies for Barajas, rejects the legendary Bar Axa explanation, records the 1575 spelling Baraxas, and argues for an older pre-Roman/Hispano-Celtic personal-name base.",
+      "relevance_es": "Analiza etimologías competidoras de Barajas, rechaza la explicación legendaria de Bar Axa, documenta la grafía Baraxas en 1575 y defiende una base antroponímica antigua, prerromana o hispanocéltica."
+    },
+    {
+      "title": "Aena - El Aeropuerto Adolfo Suárez Madrid-Barajas cierra el año 2025 con cifras de tráfico récord",
+      "url": "https://www.aena.es/es/prensa/el-aeropuerto-adolfo-suarez-madrid-barajas-cierra-el-ano-2025-con-cifras---de-trafico-record.html%26p%3D1575078740846",
+      "type": "official",
+      "relevance_en": "Provides current context: Madrid-Barajas handled 68,179,054 passengers in 2025, reinforcing its status as Spain's busiest airport.",
+      "relevance_es": "Aporta contexto actual: Madrid-Barajas registró 68.179.054 pasajeros en 2025, lo que refuerza su condición de aeropuerto con mayor tráfico de España."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 500 fanegas, or explain it as an approximate historical land measure, rather than stating a precise 330 hectares as if that were Aena's wording.",
+      "es": "Conviene usar 500 fanegas, o explicarlo como una medida histórica aproximada, en lugar de afirmar 330 hectáreas exactas como si esa fuera la formulación de Aena."
+    },
+    {
+      "en": "Do not present an Arabic origin for Barajas as likely; the inspected specialist source rejects the Bar Axa legend and favors an older pre-Roman/Hispano-Celtic personal-name explanation.",
+      "es": "No debe presentarse como probable un origen árabe de Barajas; la fuente especializada consultada rechaza la leyenda de Bar Axa y favorece una explicación antroponímica antigua, prerromana o hispanocéltica."
+    },
+    {
+      "en": "Add the station-specific naming history: it opened as Aeropuerto on 14 June 1999 and received the current T1-T2-T3 name on 3 May 2007.",
+      "es": "Debe añadirse la historia nominal específica de la estación: abrió como Aeropuerto el 14 de junio de 1999 y recibió el nombre actual T1-T2-T3 el 3 de mayo de 2007."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid or Community of Madrid primary press release for the 3 May 2007 renaming would be ideal to replace secondary chronology evidence.",
+      "es": "Sería ideal localizar una nota primaria de Metro de Madrid o de la Comunidad de Madrid sobre el cambio de nombre del 3 de mayo de 2007 para sustituir la evidencia cronológica secundaria."
+    },
+    {
+      "en": "The precise historical development and public naming of Terminal 3 was not checked in depth because it is not needed to verify the station name.",
+      "es": "No se comprobó en profundidad el desarrollo histórico y la denominación pública de la Terminal 3 porque no es necesario para verificar el nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_200/en/summary.short.md",
+      "summary": "content/stations/metro_200/en/summary.md",
+      "story": "content/stations/metro_200/en/story.md",
+      "confidence": "content/stations/metro_200/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_200/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_200/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_200/es/summary.short.md",
+      "summary": "content/stations/metro_200/es/summary.md",
+      "story": "content/stations/metro_200/es/story.md",
+      "confidence": "content/stations/metro_200/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_200/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_200/es/research-note.md"
+    }
+  }
+}

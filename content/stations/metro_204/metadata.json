@@ -1,0 +1,90 @@
+{
+  "id": "metro_204",
+  "name": "Puerta del Sur",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "the station's role as the southern gateway and interchange between Line 10 and MetroSur",
+  "previous_names": "",
+  "naming_date": "2003",
+  "sources": [
+    {
+      "title": "CRTM - Puerta del Sur",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_205/",
+      "type": "official",
+      "relevance_en": "Official current station page confirming the name, Alcorcón location, fare zone, access points, and correspondences with Metro lines 10 and 12.",
+      "relevance_es": "Página oficial actual de la estación que confirma el nombre, la ubicación en Alcorcón, la zona tarifaria, los accesos y las correspondencias con las líneas 10 y 12 de Metro."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Describes MetroSur as the line serving the southern metropolitan municipalities and identifies Puerta del Sur as the double interchange station between MetroSur and Line 10.",
+      "relevance_es": "Describe MetroSur como la línea que sirve a los municipios del sur metropolitano e identifica Puerta del Sur como la estación doble de intercambio entre MetroSur y la línea 10."
+    },
+    {
+      "title": "Revista de Obras Públicas - Metrosur",
+      "url": "https://quickclick.es/rop/pdf/publico/2005/2005_diciembre_3461_01.pdf",
+      "type": "academic",
+      "relevance_en": "Technical article stating that Line 10's extension made Metro 'reach the south' and that Puerta del Sur is the interchange linking the five south-western municipalities with the rest of the Metro network.",
+      "relevance_es": "Artículo técnico que afirma que la prolongación de la línea 10 hizo que el Metro 'llegara al Sur' y que Puerta del Sur es el intercambiador que conecta los cinco municipios del suroeste con el resto de la red de Metro."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/node/17616",
+      "type": "official",
+      "relevance_en": "Search-result text and Comunidad de Madrid publication context identify MetroSur and the Line 10 extension as entering service on 11 April 2003.",
+      "relevance_es": "El texto localizado y el contexto de la publicación de la Comunidad de Madrid identifican MetroSur y la prolongación de la línea 10 como actuaciones puestas en servicio el 11 de abril de 2003."
+    },
+    {
+      "title": "HM Hospitales - Excelentes resultados de HM Puerta del Sur en su primer mes de actividad",
+      "url": "https://www.hmhospitales.com/prensa/noticias/excelentes-resultados-de-hm-puerta-del-sur-en-su-primer-mes-de-actividad",
+      "type": "press",
+      "relevance_en": "Shows that the nearby HM Puerta del Sur hospital began activity in November 2014, long after the 2003 Metro station, so it cannot be the original source of the station name.",
+      "relevance_es": "Muestra que el hospital cercano HM Puerta del Sur comenzó su actividad en noviembre de 2014, mucho después de la estación de Metro de 2003, por lo que no puede ser el origen original del nombre de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the named_after value 'Puerta del Sur commercial centre (Alcorcón)' with a functional description of the Line 10-MetroSur interchange.",
+      "es": "Sustituir el valor named_after 'Centro comercial Puerta del Sur (Alcorcón)' por una descripción funcional del intercambiador entre la línea 10 y MetroSur."
+    },
+    {
+      "en": "Avoid implying that a commercial centre is the source of the name unless a primary naming source is later found.",
+      "es": "Evitar insinuar que un centro comercial es el origen del nombre salvo que aparezca posteriormente una fuente primaria de denominación."
+    },
+    {
+      "en": "Use 2003 as the naming/opening context; the station opened with MetroSur and the Line 10 extension on 11 April 2003.",
+      "es": "Usar 2003 como contexto de denominación/apertura; la estación abrió con MetroSur y la prolongación de la línea 10 el 11 de abril de 2003."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid, MINTRA, CRTM, or Comunidad de Madrid naming resolution for the station would be needed to verify the exact official reasoning for the words 'Puerta del Sur'.",
+      "es": "Sería necesario localizar una resolución formal de Metro de Madrid, MINTRA, CRTM o la Comunidad de Madrid para verificar el razonamiento oficial exacto de las palabras 'Puerta del Sur'."
+    },
+    {
+      "en": "I did not find evidence for an Alcorcón commercial centre named Puerta del Sur as the station's namesake; a local planning file could definitively rule this out.",
+      "es": "No he encontrado pruebas de un centro comercial de Alcorcón llamado Puerta del Sur como origen del nombre de la estación; un expediente urbanístico local podría descartarlo de forma definitiva."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_204/en/summary.short.md",
+      "summary": "content/stations/metro_204/en/summary.md",
+      "story": "content/stations/metro_204/en/story.md",
+      "confidence": "content/stations/metro_204/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_204/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_204/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_204/es/summary.short.md",
+      "summary": "content/stations/metro_204/es/summary.md",
+      "story": "content/stations/metro_204/es/story.md",
+      "confidence": "content/stations/metro_204/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_204/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_204/es/research-note.md"
+    }
+  }
+}

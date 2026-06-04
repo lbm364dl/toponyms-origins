@@ -1,0 +1,1 @@
+The station-name origin is directly supported by an official Community of Madrid MetroSur page saying the station is beside the Town Hall building that gives it its name. Municipal, BOE, CRTM, and archival sources independently confirm the building's address, administrative use, pre-2003 existence, and 1994 inauguration.

@@ -1,0 +1,1 @@
+Doce de Octubre station is named for the nearby Hospital Universitario 12 de Octubre. The hospital’s current name replaced the Franco-era Ciudad Sanitaria Primero de Octubre and points instead to 12 October, Spain’s National Day.

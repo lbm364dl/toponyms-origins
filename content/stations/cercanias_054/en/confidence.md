@@ -1,0 +1,1 @@
+The station's immediate derivation from the municipality is supported by official transport sources, but the municipality's ultimate etymology is contested. The 1144 Monsteles evidence is strong, while the monisterium/monisteriis explanation remains a plausible theory rather than a settled fact.

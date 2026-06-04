@@ -1,0 +1,1 @@
+The station is correctly connected with the Cantoblanco area and the Universidad Autonoma de Madrid, but the literal explanation 'white stone/edge' is weaker than the available toponymic evidence and should be presented as a traditional or surface reading, not as verified etymology.

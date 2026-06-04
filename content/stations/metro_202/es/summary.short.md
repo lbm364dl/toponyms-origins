@@ -1,0 +1,1 @@
+Rivas-Urbanizaciones toma su nombre de las urbanizaciones residenciales del noroeste de Rivas-Vaciamadrid, especialmente el entorno de Covibar al que da servicio. Se inauguró el 7 de abril de 1999 dentro de la prolongación de la línea 9 entre Puerta de Arganda y Arganda del Rey.

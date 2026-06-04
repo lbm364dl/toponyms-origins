@@ -1,0 +1,97 @@
+{
+  "id": "metro_205",
+  "name": "Joaquín Vilumbrales",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Joaquín Vilumbrales López",
+  "previous_names": "Los Castillos (planned name, not an opened station name)",
+  "naming_date": "2003 (in service from opening on 11 April 2003; exact naming resolution not found)",
+  "sources": [
+    {
+      "title": "Biblioteca Joaquín Vilumbrales | Ayuntamiento de Alcorcón",
+      "url": "https://www.ayto-alcorcon.es/es/servicios/biblioteca-joaquin-vilumbrales",
+      "type": "official",
+      "relevance_en": "Municipal source confirming that Joaquín Vilumbrales López (1941-1999) was professor and director of IES Los Castillos and mayor of Alcorcón from June 1999 until his death on 9 September 1999.",
+      "relevance_es": "Fuente municipal que confirma que Joaquín Vilumbrales López (1941-1999) fue profesor y director del IES Los Castillos y alcalde de Alcorcón desde junio de 1999 hasta su fallecimiento el 9 de septiembre de 1999."
+    },
+    {
+      "title": "Alcorcón cambia el nombre de una calle dedicada a un alcalde del PP | El País",
+      "url": "https://elpais.com/diario/2003/09/24/madrid/1064402669_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report stating that a Line 10 station in Alcorcón was named Joaquín Vilumbrales instead of the initially planned Los Castillos, at Pablo Zúñiga's proposal.",
+      "relevance_es": "Información contemporánea que afirma que una estación de la línea 10 en Alcorcón se llamó Joaquín Vilumbrales en lugar del nombre inicialmente previsto de Los Castillos, a propuesta de Pablo Zúñiga."
+    },
+    {
+      "title": "Muere el alcalde de Alcorcón a los tres meses de llegar al cargo | El País",
+      "url": "https://elpais.com/diario/1999/09/10/madrid/936962655_850215.html",
+      "type": "press",
+      "relevance_en": "Obituary confirming Vilumbrales's death in September 1999, his age, his position as mayor of Alcorcón, and that he had won an absolute majority three months earlier.",
+      "relevance_es": "Obituario que confirma el fallecimiento de Vilumbrales en septiembre de 1999, su edad, su cargo como alcalde de Alcorcón y que había obtenido la mayoría absoluta tres meses antes."
+    },
+    {
+      "title": "Un profesor de física, candidato del PP en Alcorcón | El País",
+      "url": "https://elpais.com/diario/1995/02/18/madrid/793110284_850215.html",
+      "type": "press",
+      "relevance_en": "1995 profile identifying Vilumbrales as a physics and chemistry teacher at Instituto Los Castillos and a long-serving Alcorcón councillor.",
+      "relevance_es": "Perfil de 1995 que identifica a Vilumbrales como profesor de Física y Química en el Instituto Los Castillos y concejal de larga trayectoria en Alcorcón."
+    },
+    {
+      "title": "Memoria del Consorcio Regional de Transportes de Madrid 2004",
+      "url": "https://crtm.es/media/0k3p52mc/memoria_crtm_2004.pdf",
+      "type": "official",
+      "relevance_en": "Official transport report confirming the 11 April 2003 inauguration of the Line 10 extension from Colonia Jardín to Puerta del Sur and listing Joaquín Vilumbrales as part of the MetroSur fare/network area.",
+      "relevance_es": "Memoria oficial de transporte que confirma la inauguración el 11 de abril de 2003 de la prolongación de la línea 10 entre Colonia Jardín y Puerta del Sur y cita Joaquín Vilumbrales dentro del ámbito de MetroSur."
+    },
+    {
+      "title": "El tirón electoral de Ruiz-Gallardón aúpa en Alcorcón y Valdemoro al PP | El País",
+      "url": "https://elpais.com/diario/1999/06/15/madrid/929445863_850215.html",
+      "type": "press",
+      "relevance_en": "Post-election report describing Vilumbrales as future mayor of Alcorcón after the PP won 14 councillors in the southern belt context.",
+      "relevance_es": "Crónica postelectoral que presenta a Vilumbrales como futuro alcalde de Alcorcón tras obtener el PP 14 concejales en el contexto del cinturón sur."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat Los Castillos as a planned station name rather than a former public-service name.",
+      "es": "Debe tratarse Los Castillos como nombre previsto de la estación, no como denominación anterior en servicio."
+    },
+    {
+      "en": "The exact formal naming act has not been found; 2003 is the service/opening year, while the proposal is reported retrospectively in September 2003.",
+      "es": "No se ha encontrado el acto formal exacto de denominación; 2003 es el año de apertura en servicio, y la propuesta aparece citada retrospectivamente en septiembre de 2003."
+    },
+    {
+      "en": "The claim about lymphatic cancer is not supported by the official municipal page or the inspected El País obituary, which only confirms death after a long illness; keep it only if a stronger source is added.",
+      "es": "La afirmación sobre un cáncer linfático no queda respaldada por la página municipal oficial ni por el obituario de El País consultado, que solo confirma el fallecimiento tras una larga enfermedad; conviene mantenerla solo si se añade una fuente más sólida."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the Comunidad de Madrid or Metro de Madrid naming file for the Line 10 station to confirm the exact approval date and administrative wording.",
+      "es": "Localizar el expediente de denominación de la Comunidad de Madrid o Metro de Madrid para confirmar la fecha exacta de aprobación y la redacción administrativa."
+    },
+    {
+      "en": "Inspect electoral or municipal session records if the dataset needs a fully official source for Vilumbrales's investiture date and 1999 vote percentages.",
+      "es": "Consultar actas electorales o municipales si el conjunto de datos necesita una fuente plenamente oficial para la fecha de investidura y los porcentajes electorales de 1999."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_205/en/summary.short.md",
+      "summary": "content/stations/metro_205/en/summary.md",
+      "story": "content/stations/metro_205/en/story.md",
+      "confidence": "content/stations/metro_205/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_205/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_205/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_205/es/summary.short.md",
+      "summary": "content/stations/metro_205/es/summary.md",
+      "story": "content/stations/metro_205/es/story.md",
+      "confidence": "content/stations/metro_205/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_205/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_205/es/research-note.md"
+    }
+  }
+}

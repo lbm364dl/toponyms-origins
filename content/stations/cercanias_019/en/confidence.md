@@ -1,0 +1,1 @@
+The station-level naming is verified by transport sources: the Cercanías station is Getafe Centro and the adjoining Metro station is Getafe Central, located in central Getafe. Confidence is lower only for the remote etymology of the municipality name; the Arabic 'long thing' explanation is a documented early modern tradition but not proven by modern toponymy.

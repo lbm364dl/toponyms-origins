@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_066",
+  "name": "Pinar",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "El Pinar / Pinar de Las Rozas natural area near Las Rozas de Madrid",
+  "previous_names": "Pinar de Las Rozas; El Pinar de Las Rozas",
+  "naming_date": "By 1961 in CRTM historical railway chronology; exact formal naming act not found",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanias Madrid - Estacion Pinar de Pinar de las Rozas",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-pinar-rozas",
+      "type": "official",
+      "relevance_en": "Renfe identifies the station as Pinar de Las Rozas, says it is commonly known as Pinar, and directly states that the name is due to the nearby natural setting.",
+      "relevance_es": "Renfe identifica la estacion como Pinar de Las Rozas, indica que se conoce comunmente como Pinar y afirma directamente que el nombre se debe al entorno natural cercano."
+    },
+    {
+      "title": "CRTM - Pinar de las Rozas",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_55.aspx",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport station name, fare zone, access name and listed Cercanias correspondences.",
+      "relevance_es": "Confirma el nombre actual de la estacion en el sistema de transporte publico, la zona tarifaria, el acceso y las correspondencias de Cercanias listadas."
+    },
+    {
+      "title": "Renfe Data - Ficha Estacion 10100 Pinar de las Rozas",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10100.pdf",
+      "type": "official",
+      "relevance_en": "Provides the station code 10100, official name PINAR DE LAS ROZAS, operator Renfe Viajeros, municipality and commercial line data as of the printed station sheet.",
+      "relevance_es": "Aporta el codigo de estacion 10100, el nombre oficial PINAR DE LAS ROZAS, el explotador Renfe Viajeros, el municipio y datos de lineas comerciales segun la ficha impresa."
+    },
+    {
+      "title": "CRTM - Plano historia del ferrocarril en Madrid",
+      "url": "https://crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Records 'Estacion de Pinar de las Rozas' in 1961 as a support station for the branch toward the future Chamartin station, and records the 1989 completion of the 'Triangulo de Pinar'.",
+      "relevance_es": "Recoge la 'Estacion de Pinar de las Rozas' en 1961 como estacion de apoyo al ramal hacia la futura estacion de Chamartin, y registra la finalizacion en 1989 del 'Triangulo de Pinar'."
+    },
+    {
+      "title": "Adif - Pinar de las Rozas station page",
+      "url": "https://www.adif.es/w/10100-pinar-las-rozas",
+      "type": "official",
+      "relevance_en": "Confirms Adif's current station page for Pinar de las Rozas and its address on Avenida de los Bomberos.",
+      "relevance_es": "Confirma la pagina actual de Adif para la estacion de Pinar de las Rozas y su direccion en Avenida de los Bomberos."
+    },
+    {
+      "title": "Adif - Adif construye el paso superior de Pinar de Las Rozas, clave para duplicar la linea de Cercanias de Madrid",
+      "url": "https://www.adif.es/ca-AD/w/adif-construye-paso-superior-pinar-rozas-clave-duplicar-l%C3%ADnea-cercan%C3%ADas-madrid",
+      "type": "official",
+      "relevance_en": "Shows the present operational importance of the Pinar de Las Rozas junction and identifies the Pinar-Las Matas section as part of the Madrid-Hendaya line and Cercanias C-8, C-10 and C-3a corridor.",
+      "relevance_es": "Muestra la importancia operativa actual del nudo de Pinar de Las Rozas e identifica el tramo Pinar-Las Matas como parte de la linea Madrid-Hendaya y del corredor de Cercanias C-8, C-10 y C-3a."
+    },
+    {
+      "title": "Real Academia Espanola - Diccionario de la lengua espanola: pinar",
+      "url": "https://dle.rae.es/pinar",
+      "type": "reference",
+      "relevance_en": "Defines pinar as a site or place populated by pine trees, supporting the descriptive interpretation of the station name.",
+      "relevance_es": "Define pinar como sitio o lugar poblado de pinos, lo que respalda la interpretacion descriptiva del nombre de la estacion."
+    },
+    {
+      "title": "Guia Repsol - Dehesa de Navalcarbon",
+      "url": "https://www.guiarepsol.com/es/fichas/parque-urbano/dehesa-de-navalcarbon-16277/",
+      "type": "other",
+      "relevance_en": "Provides local landscape context, noting the pine woodland in the Dehesa de Navalcarbon and the local name 'Pinar de las Rozas' for the area.",
+      "relevance_es": "Aporta contexto paisajistico local al mencionar el pinar de la Dehesa de Navalcarbon y el uso vecinal de 'Pinar de las Rozas' para la zona."
+    },
+    {
+      "title": "El Pais - IU denuncia que Renfe cobra una tasa ilegal a vecinos de El Pinar de Las Rozas por aparcar en la estacion",
+      "url": "https://elpais.com/diario/1997/07/22/madrid/869570658_850215.html",
+      "type": "press",
+      "relevance_en": "Shows contemporary public use of 'El Pinar de Las Rozas' for the station and documents a May 1989 agreement related to station parking, helping explain why 1989 appears in secondary accounts.",
+      "relevance_es": "Muestra el uso publico contemporaneo de 'El Pinar de Las Rozas' para la estacion y documenta un convenio de mayo de 1989 relacionado con el aparcamiento, lo que ayuda a explicar la aparicion de 1989 en relatos secundarios."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state unqualified that the current stop dates from 1989; CRTM's historical railway chronology records Pinar de las Rozas in 1961, and 1989 refers to the completion of the Pinar triangle and related Cercanias works.",
+      "es": "No debe afirmarse sin matices que la parada actual data de 1989; la cronologia historica ferroviaria del CRTM recoge Pinar de las Rozas en 1961, y 1989 se refiere a la finalizacion del Triangulo de Pinar y a obras relacionadas de Cercanias."
+    },
+    {
+      "en": "The line/service statement should be reviewed: CRTM currently lists C-8/C-8a and C-10 for the station, while Adif project material also mentions C-3a on the Pinar-Las Matas corridor; the row's narrative reference to C-3 is imprecise.",
+      "es": "La informacion de lineas/servicios debe revisarse: el CRTM lista actualmente C-8/C-8a y C-10 para la estacion, mientras que material de Adif tambien menciona C-3a en el corredor Pinar-Las Matas; la referencia narrativa de la fila a C-3 es imprecisa."
+    },
+    {
+      "en": "The claim that it is one of the busiest bifurcation points in the Cercanias network was not supported by a direct traffic or operations source and should be softened or sourced.",
+      "es": "La afirmacion de que es uno de los puntos de bifurcacion mas transitados de la red de Cercanias no quedo respaldada por una fuente directa de trafico u operaciones y deberia suavizarse o documentarse."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Adif/Renfe archival station files or official opening notices to determine the exact date on which the station name Pinar de las Rozas was formally assigned.",
+      "es": "Consultar expedientes historicos de estacion de Adif/Renfe o avisos oficiales de apertura para determinar la fecha exacta en que se asigno formalmente el nombre Pinar de las Rozas."
+    },
+    {
+      "en": "Clarify whether the public station opening, the support station recorded in 1961, and the 1964 junction works refer to the same operational facility or to successive railway configurations at the same place.",
+      "es": "Aclarar si la apertura publica de la estacion, la estacion de apoyo recogida en 1961 y las obras del enlace de 1964 se refieren a la misma instalacion operativa o a configuraciones ferroviarias sucesivas en el mismo lugar."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_066/en/summary.short.md",
+      "summary": "content/stations/cercanias_066/en/summary.md",
+      "story": "content/stations/cercanias_066/en/story.md",
+      "confidence": "content/stations/cercanias_066/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_066/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_066/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_066/es/summary.short.md",
+      "summary": "content/stations/cercanias_066/es/summary.md",
+      "story": "content/stations/cercanias_066/es/story.md",
+      "confidence": "content/stations/cercanias_066/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_066/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_066/es/research-note.md"
+    }
+  }
+}

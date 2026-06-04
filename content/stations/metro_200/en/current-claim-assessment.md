@@ -1,0 +1,1 @@
+The main claim is correct: the station name is descriptive and refers to the Metro stop serving airport terminals 1, 2 and 3. The airport chronology and 2014 Adolfo Suárez renaming are well supported by Aena and the BOE, but the Arabic explanation for Barajas is weak and should not be presented as a likely origin.

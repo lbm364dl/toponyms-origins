@@ -1,0 +1,9 @@
+The station’s name is a hyphenated compromise between a regional institution and a neighbourhood. **Asamblea de Madrid** points to the parliament of the Community of Madrid, whose current seat stands nearby in Puente de Vallecas. **Entrevías** preserves the older name of the station and the barrio it serves.
+
+The older word is unusually literal. In a 2004 article on Madrid toponymy, Fernando Jiménez de Gregorio listed Entrevías as a Madrid barrio situated between two railway lines. That matches the local geography: rail corridors have long formed hard edges around this part of south-eastern Madrid and helped shape both its daily movement and its urban identity.
+
+The railway stop itself is modern compared with the lines around it. A railway chronology records that the Entrevías halt entered service on 10 February 1977 at kilometre point 3.790 of the Madrid-Barcelona line. Later Cercanías services made it one of the rail access points for Entrevías and the surrounding Puente de Vallecas neighbourhoods.
+
+The institutional half of the name arrived with a major civic relocation. The Assembly of Madrid records the inauguration of its new seat on 28 September 1998, after a decision to move the regional parliament to what it calls Madrid Sur, in the district of Puente de Vallecas. Secondary railway sources state that the station then ceased to be simply Entrevías and became Asamblea de Madrid-Entrevías, although one source gives 1999 rather than 1998 for the completed renaming.
+
+The name is therefore best read as layered rather than single-origin. It keeps the older, descriptive railway toponym while adding the new public landmark. Later works above the tracks made that irony visible: in 2006 press reports described the covering of only about 500 metres of the railway at the station, creating a public deck or boulevard while much of the line continued to divide the area.

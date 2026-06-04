@@ -1,0 +1,100 @@
+{
+  "id": "cercanias_025",
+  "name": "Ciempozuelos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Ciempozuelos municipality; ultimately 'cien pozuelos', meaning many small wells or springs",
+  "previous_names": "",
+  "naming_date": "1851 (station listed in railway chronology; exact naming act not found)",
+  "sources": [
+    {
+      "title": "Ciempozuelos | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/ciempozuelos",
+      "type": "academic",
+      "relevance_en": "Provides the main etymological authority: cien + pozuelos, with cien understood as 'many', and records the 1471 form Çientpoçuelos plus later historical attestations.",
+      "relevance_es": "Aporta la autoridad etimológica principal: cien + pozuelos, con cien entendido como 'muchos', y documenta la forma de 1471 Çientpoçuelos junto con menciones históricas posteriores."
+    },
+    {
+      "title": "Historia de Ciempozuelos - Ayuntamiento de Ciempozuelos",
+      "url": "https://ayto-ciempozuelos.org/index.php/historiadeciempozuelos/",
+      "type": "official",
+      "relevance_en": "Gives the municipal explanation connecting the name with Buzanca, a canal to the town fountain, insufficient spring flow and the digging of numerous wells.",
+      "relevance_es": "Ofrece la explicación municipal que conecta el nombre con Buzanca, un canal hasta la fuente del pueblo, el caudal insuficiente del manantial y la excavación de numerosos pozos."
+    },
+    {
+      "title": "60105 Ciempozuelos - Adif",
+      "url": "https://www.adif.es/w/60105-ciempozuelos",
+      "type": "official",
+      "relevance_en": "Confirms the current Adif station name Ciempozuelos, its address and C3 service in live station information.",
+      "relevance_es": "Confirma el nombre actual de la estación de Adif, Ciempozuelos, su dirección y el servicio C3 en la información de estación."
+    },
+    {
+      "title": "Ciempozuelos - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_19?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the station as a Cercanías stop in Ciempozuelos, with C-3 correspondence, access and local transport links.",
+      "relevance_es": "Confirma la estación como parada de Cercanías en Ciempozuelos, con correspondencia C-3, acceso y conexiones de transporte local."
+    },
+    {
+      "title": "Línea C-3 Aranjuez-Atocha-Sol-Chamartín - CRTM",
+      "url": "https://www.crtm.es/5__3___",
+      "type": "official",
+      "relevance_en": "Shows Ciempozuelos as a station on the current C-3 line list and places it between Aranjuez and Valdemoro.",
+      "relevance_es": "Muestra Ciempozuelos como estación en la lista actual de la línea C-3 y la sitúa entre Aranjuez y Valdemoro."
+    },
+    {
+      "title": "Plano historia del ferrocarril en Madrid - CRTM",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Lists Ciempozuelos in the 1851 Madrid-Aranjuez railway chronology, supporting the early railway use of the town name for the station.",
+      "relevance_es": "Incluye Ciempozuelos en la cronología del ferrocarril Madrid-Aranjuez de 1851, lo que respalda el uso ferroviario temprano del nombre de la localidad para la estación."
+    },
+    {
+      "title": "Ciempozuelos | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/centros/ciempozuelos",
+      "type": "official",
+      "relevance_en": "Confirms Ciempozuelos as a municipality in the south metropolitan area of the Community of Madrid and gives geographic context.",
+      "relevance_es": "Confirma Ciempozuelos como municipio del sur metropolitano de la Comunidad de Madrid y aporta contexto geográfico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station is directly named after the municipality; the 'many small wells' explanation is the etymology of the municipality's name, not a separate railway naming motive.",
+      "es": "Conviene aclarar que la estación toma directamente el nombre del municipio; la explicación de los 'muchos pequeños pozos' es la etimología del topónimo municipal, no un motivo ferroviario independiente."
+    },
+    {
+      "en": "Add the 1471 historical form Çientpoçuelos from Toponomasticon Hispaniae as stronger evidence for the antiquity of the place-name.",
+      "es": "Añadir la forma histórica Çientpoçuelos de 1471 recogida por Toponomasticon Hispaniae como prueba más sólida de la antigüedad del topónimo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact railway document or administrative act that first assigned the station name Ciempozuelos was not found; a railway archive or early timetable could confirm the original 1851 station naming.",
+      "es": "No se ha localizado el documento ferroviario o acto administrativo exacto que asignó por primera vez el nombre Ciempozuelos a la estación; un archivo ferroviario o un horario primitivo podría confirmar la denominación original de 1851."
+    },
+    {
+      "en": "Toponomasticon cites the 1471 Archivo Municipal de Segovia documentation and the Relaciones de Toledo; those physical or digitized source texts would be useful to inspect for exact context.",
+      "es": "Toponomasticon cita documentación de 1471 del Archivo Municipal de Segovia y las Relaciones de Toledo; sería útil consultar esos textos físicos o digitalizados para comprobar el contexto exacto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_025/en/summary.short.md",
+      "summary": "content/stations/cercanias_025/en/summary.md",
+      "story": "content/stations/cercanias_025/en/story.md",
+      "confidence": "content/stations/cercanias_025/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_025/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_025/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_025/es/summary.short.md",
+      "summary": "content/stations/cercanias_025/es/summary.md",
+      "story": "content/stations/cercanias_025/es/story.md",
+      "confidence": "content/stations/cercanias_025/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_025/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_025/es/research-note.md"
+    }
+  }
+}

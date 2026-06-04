@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_006",
+  "name": "Fuente de la Mora",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Fuente de la Mora, an old Hortaleza spring/toponym preserved in Camino de la Fuente de la Mora and Avenida de la Fuente de la Mora",
+  "previous_names": "Planned in the Cercanías 2009-2015 context as Manoteras; no former operating name found.",
+  "naming_date": "2007 for the ML1 station name; 2011 for the Cercanías station opening under the same name.",
+  "sources": [
+    {
+      "title": "CRTM - Fuente de la Mora, Cercanías Renfe station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_133",
+      "type": "official",
+      "relevance_en": "Confirms the official station name, interchange information, and accesses on Camino Fuente de la Mora and Avenida/Camino de la Fuente de la Mora.",
+      "relevance_es": "Confirma el nombre oficial de la estación, sus correspondencias y los accesos por Camino Fuente de la Mora y Avenida/Camino de la Fuente de la Mora."
+    },
+    {
+      "title": "CRTM - Fuente de la Mora, Metro Ligero/Tram station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_2?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms Fuente de la Mora as an ML1 station and interchange with Cercanías services at the same named station.",
+      "relevance_es": "Confirma Fuente de la Mora como estación de ML1 e intercambiador con servicios de Cercanías en la estación homónima."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Records Avenida de la Fuente de la Mora and Camino de la Fuente de la Mora in Hortaleza, supporting the street/toponym source of the station name.",
+      "relevance_es": "Recoge la Avenida de la Fuente de la Mora y el Camino de la Fuente de la Mora en Hortaleza, lo que respalda el origen viario/toponímico del nombre de la estación."
+    },
+    {
+      "title": "Caminos de Hortaleza - La Historia del Pueblo de Hortaleza",
+      "url": "https://hortaleza.phtz.com/caminos-de-hortaleza/",
+      "type": "other",
+      "relevance_en": "Local historical article describing old Hortaleza roads; specifically says Camino de la Fuente de la Mora branched from Camino del Charco Pescador and survives as a street in Sanchinarro.",
+      "relevance_es": "Artículo de historia local sobre los antiguos caminos de Hortaleza; indica expresamente que el Camino de la Fuente de la Mora salía del Camino del Charco Pescador y pervive como calle en Sanchinarro."
+    },
+    {
+      "title": "CVC Rinconete - La Comunidad de Madrid y sus topónimos (y IV), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Provides the broader scholarly caution for mor- in Madrid toponymy: in Valdemoro, García Sánchez treats moras, moros, anthroponyms, and pre-Roman mor- 'heap of stones' as uncertain alternatives.",
+      "relevance_es": "Aporta la cautela académica general sobre mor- en la toponimia madrileña: al tratar Valdemoro, García Sánchez presenta moras, moros, antropónimos y el prerromano mor- 'montón de piedras' como alternativas no seguras."
+    },
+    {
+      "title": "Telemadrid - Fuente de la Mora, primera estación de Cercanías en la T-4",
+      "url": "https://www.telemadrid.es/noticias/madrid/Fuente-Mora-estacion-Cercanias-T-4-0-1230176973--20110325102630.html",
+      "type": "press",
+      "relevance_en": "Documents the March 2011 Cercanías opening, the shared vestibule with Metro Ligero, and the statement that the station was initially going to be called Manoteras.",
+      "relevance_es": "Documenta la apertura de Cercanías en marzo de 2011, el vestíbulo compartido con Metro Ligero y la afirmación de que inicialmente iba a llamarse Manoteras."
+    },
+    {
+      "title": "La Moncloa - Consejo de Ministros, 18 November 2011",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2011/refc20111118.aspx?mode=Dark",
+      "type": "official",
+      "relevance_en": "Official central-government reference noting that Fuente de la Mora entered service in March 2011 and later formed part of the C-1 airport service context.",
+      "relevance_es": "Referencia oficial del Gobierno que señala que Fuente de la Mora entró en servicio en marzo de 2011 y que después formó parte del contexto de la línea C-1 al aeropuerto."
+    },
+    {
+      "title": "Comunidad de Madrid - Yacimiento arqueológico de la Fuente de la Mora",
+      "url": "https://www.comunidad.madrid/en/patrimonio-cultural/yacimiento-arqueologico-fuente-mora",
+      "type": "official",
+      "relevance_en": "Shows that the archaeological Fuente de la Mora site cited in the input is the Cerro de Fuente de la Mora in Leganés, not the Hortaleza station area.",
+      "relevance_es": "Muestra que el yacimiento arqueológico Fuente de la Mora citado en la entrada es el Cerro de Fuente de la Mora de Leganés, no el entorno de la estación de Hortaleza."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as fact that Mora here derives from pre-Roman mor-; that is a plausible wider toponymic hypothesis, not directly proven for the Hortaleza place-name.",
+      "es": "No debe afirmarse como hecho que Mora derive aquí del prerromano mor-; es una hipótesis toponímica general plausible, no probada directamente para el topónimo de Hortaleza."
+    },
+    {
+      "en": "The cited Iron Age archaeological site Fuente de la Mora is in Leganés, not near the Hortaleza station, so it should be removed from the station-specific explanation or clearly marked as unrelated.",
+      "es": "El yacimiento de la Edad del Hierro citado como Fuente de la Mora está en Leganés, no cerca de la estación de Hortaleza, por lo que debe eliminarse de la explicación de esta estación o marcarse claramente como no relacionado."
+    },
+    {
+      "en": "Official current transport pages consulted list Fuente de la Mora as an interchange with ML1 and Cercanías C-1/C-10; the dataset line field may need review if it intends to capture all current services.",
+      "es": "Las páginas oficiales de transporte consultadas incluyen Fuente de la Mora como intercambiador con ML1 y Cercanías C-1/C-10; el campo de línea del dataset debería revisarse si pretende recoger todos los servicios actuales."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal street-naming records or older cadastral/IGN maps to locate the actual Fuente de la Mora spring and determine when the street name was formally adopted.",
+      "es": "Conviene consultar expedientes municipales de denominación de vías o mapas catastrales/IGN antiguos para localizar la fuente física y determinar cuándo se oficializó el nombre viario."
+    },
+    {
+      "en": "Check Jairo J. García Sánchez's Atlas toponímico de España and any Hortaleza-specific archival material before adopting the mor- 'stones' etymology for this particular place.",
+      "es": "Conviene revisar el Atlas toponímico de España de Jairo J. García Sánchez y documentación archivística específica de Hortaleza antes de adoptar la etimología mor- 'piedras' para este lugar concreto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_006/en/summary.short.md",
+      "summary": "content/stations/cercanias_006/en/summary.md",
+      "story": "content/stations/cercanias_006/en/story.md",
+      "confidence": "content/stations/cercanias_006/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_006/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_006/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_006/es/summary.short.md",
+      "summary": "content/stations/cercanias_006/es/summary.md",
+      "story": "content/stations/cercanias_006/es/story.md",
+      "confidence": "content/stations/cercanias_006/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_006/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_006/es/research-note.md"
+    }
+  }
+}

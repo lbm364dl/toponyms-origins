@@ -1,0 +1,1 @@
+La explicación actual es sustancialmente correcta: la estación toma el nombre del municipio, cuyo topónimo combina un elemento relacionado con una torre y el hidrónimo Ardoz. Conviene afinarla indicando que Toponomasticon Hispaniae considera Ardoz opaco y que la formación de Torrejón es más matizada que un simple latín turris + diminutivo.

@@ -1,0 +1,1 @@
+La fila es sustancialmente correcta: el nombre de la estación remite al intercambiador central de Getafe, y el origen último de Getafe es realmente incierto. La explicación árabe de 'jata' / calle larga es una tradición local antigua recogida en las Relaciones, pero la discusión toponímica moderna la considera no demostrada.

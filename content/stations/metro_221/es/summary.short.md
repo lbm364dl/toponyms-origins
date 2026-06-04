@@ -1,0 +1,1 @@
+Parque Lisboa toma su nombre del barrio y topónimo local de Alcorcón que rodea la estación, referido en última instancia a Lisboa, Portugal. La zona formó parte de la expansión urbana de Alcorcón iniciada a finales de los años sesenta entre San José de Valderas y el casco antiguo.

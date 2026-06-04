@@ -1,0 +1,101 @@
+{
+  "id": "metro_218",
+  "name": "San Francisco",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Colonia de San Francisco / San Francisco de Asís (probable ultimate eponym)",
+  "previous_names": "",
+  "naming_date": "18 December 2006",
+  "sources": [
+    {
+      "title": "Estudio Informativo de Ampliación de la Línea 11 del Metro de Madrid. Tramo: Plaza Elíptica-Conde de Casal",
+      "url": "https://www.madrid.org/media/transportes/ampliacion-linea11-metro/documento1-memoria.pdf",
+      "type": "official",
+      "relevance_en": "Official Comunidad de Madrid transport study listing Line 11 phases: the San Francisco, Carabanchel Alto and La Peseta section opened in 2006, while La Fortuna opened in 2010.",
+      "relevance_es": "Estudio oficial de transporte de la Comunidad de Madrid que enumera las fases de la línea 11: el tramo con San Francisco, Carabanchel Alto y La Peseta se inauguró en 2006, mientras que La Fortuna abrió en 2010."
+    },
+    {
+      "title": "El barrio de Carabanchel Alto y el PAU, conectados desde hoy por metro con la capital a través de la línea 11",
+      "url": "https://www.europapress.es/madrid/noticia-barrio-carabanchel-alto-pau-conectados-hoy-metro-capital-traves-linea-11-20061218142914.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 18 December 2006 describing the inauguration trip through La Peseta, Carabanchel Alto and San Francisco.",
+      "relevance_es": "Crónica contemporánea del 18 de diciembre de 2006 que describe el viaje inaugural por La Peseta, Carabanchel Alto y San Francisco."
+    },
+    {
+      "title": "Distrito 11 - Carabanchel, Barrio 115 - Puerta Bonita",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/11%20-%20Carabanchel/Barrio115.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal district map showing the local place label Colonia de San Francisco in Carabanchel/Puerta Bonita.",
+      "relevance_es": "Mapa municipal de Madrid que muestra el rótulo local Colonia de San Francisco en Carabanchel/Puerta Bonita."
+    },
+    {
+      "title": "La Colonia de la Prensa",
+      "url": "https://www.esmadrid.com/informacion-turistica/colonia-prensa",
+      "type": "official",
+      "relevance_en": "Madrid tourism page explaining the nearby Colonia de la Prensa, built between 1913 and 1916 between Carabanchel Bajo and Carabanchel Alto, useful for the local urban context.",
+      "relevance_es": "Página turística oficial de Madrid que explica la cercana Colonia de la Prensa, construida entre 1913 y 1916 entre Carabanchel Bajo y Carabanchel Alto, útil para el contexto urbano local."
+    },
+    {
+      "title": "Línea 11 / Line 11 timetable, CRTM",
+      "url": "https://www.crtm.es/datos_lineas/horarios/4011H1.pdf",
+      "type": "official",
+      "relevance_en": "Current CRTM/Metro timetable confirming San Francisco as a current Line 11 station between Plaza Elíptica and La Fortuna.",
+      "relevance_es": "Horario actual del CRTM/Metro que confirma San Francisco como estación vigente de la línea 11 entre Plaza Elíptica y La Fortuna."
+    },
+    {
+      "title": "St. Francis of Assisi",
+      "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi",
+      "type": "reference",
+      "relevance_en": "Reference source for Saint Francis of Assisi's dates and role as founder of the Franciscan religious orders.",
+      "relevance_es": "Fuente de referencia para las fechas de san Francisco de Asís y su papel como fundador de las órdenes franciscanas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the opening year from 2010 to 2006; 2010 refers to the later Line 11 extension to La Fortuna.",
+      "es": "Cambiar el año de apertura de 2010 a 2006; 2010 corresponde a la prolongación posterior de la línea 11 hasta La Fortuna."
+    },
+    {
+      "en": "Replace the unsupported claim that the name comes from Calle de San Francisco with the better-supported explanation that it comes from the local San Francisco/Colonia de San Francisco area.",
+      "es": "Sustituir la afirmación no comprobada de que el nombre procede de la Calle de San Francisco por la explicación mejor respaldada de que procede de la zona local de San Francisco o Colonia de San Francisco."
+    },
+    {
+      "en": "Remove or soften the claim of medieval Franciscan presence in Carabanchel as the reason for the station name; no direct evidence for that causal link was found.",
+      "es": "Eliminar o matizar la afirmación sobre una presencia franciscana medieval en Carabanchel como razón del nombre de la estación; no se ha encontrado prueba directa de ese vínculo causal."
+    },
+    {
+      "en": "Review the neighbourhood field: available municipal mapping places the documented Colonia de San Francisco around Puerta Bonita rather than Comillas.",
+      "es": "Revisar el campo de barrio: la cartografía municipal disponible sitúa la Colonia de San Francisco documentada en el entorno de Puerta Bonita, no en Comillas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal street-naming or urban-planning files for the Colonia de San Francisco to confirm the exact date and reason for that colony name.",
+      "es": "Consultar expedientes municipales de denominación viaria o planeamiento de la Colonia de San Francisco para confirmar la fecha exacta y el motivo de ese nombre."
+    },
+    {
+      "en": "Check Metro de Madrid project documentation for the 2006 Pan Bendito-La Peseta extension to see whether the station name was formally justified in the naming proposal.",
+      "es": "Revisar la documentación de proyecto de Metro de Madrid para la prolongación Pan Bendito-La Peseta de 2006 para comprobar si la denominación de la estación fue justificada formalmente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_218/en/summary.short.md",
+      "summary": "content/stations/metro_218/en/summary.md",
+      "story": "content/stations/metro_218/en/story.md",
+      "confidence": "content/stations/metro_218/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_218/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_218/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_218/es/summary.short.md",
+      "summary": "content/stations/metro_218/es/summary.md",
+      "story": "content/stations/metro_218/es/story.md",
+      "confidence": "content/stations/metro_218/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_218/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_218/es/research-note.md"
+    }
+  }
+}

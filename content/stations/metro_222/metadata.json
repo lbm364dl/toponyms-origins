@@ -1,0 +1,104 @@
+{
+  "id": "metro_222",
+  "name": "Alcorcón Central",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alcorcón",
+  "previous_names": "Cercanías station: Alcorcón; Metro station opened as Alcorcón Central. No earlier Metro station name found.",
+  "naming_date": "2003",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid source placing Alcorcón Central in the centre of Alcorcón, beside Cercanías Renfe, and describing its interchange construction.",
+      "relevance_es": "Fuente oficial de la Comunidad de Madrid que sitúa Alcorcón Central en el centro de Alcorcón, junto a Cercanías Renfe, y describe la construcción del intercambiador."
+    },
+    {
+      "title": "Historia | Ayuntamiento de Alcorcón",
+      "url": "https://www.ayto-alcorcon.es/es/historia",
+      "type": "official",
+      "relevance_en": "Municipal history source for the 1208 Cañada de Alcorcón documentation, the Arabic hill/watchtower explanation, and the historical importance of pottery.",
+      "relevance_es": "Fuente histórica municipal para la documentación de la Cañada de Alcorcón en 1208, la explicación árabe de cerro o atalaya y la importancia histórica de la alfarería."
+    },
+    {
+      "title": "Alcorcón en transporte público | Ayuntamiento de Alcorcón",
+      "url": "https://www.ayto-alcorcon.es/es/servicios/movilidad/alcorcon-en-transporte-publico",
+      "type": "official",
+      "relevance_en": "Confirms that Alcorcón Central acts as a transport interchange, serves the urban centre and hospital area, and connects Cercanías C-5 with Metro Line 12.",
+      "relevance_es": "Confirma que Alcorcón Central actúa como intercambiador, da servicio al centro urbano y la zona del hospital, y conecta Cercanías C-5 con la línea 12 de Metro."
+    },
+    {
+      "title": "Alcorcón | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_5",
+      "type": "official",
+      "relevance_en": "Official transport listing for the Alcorcón Cercanías station, showing correspondence with Metro Line 12 and C-5.",
+      "relevance_es": "Ficha oficial de transporte de la estación de Cercanías de Alcorcón, con correspondencia con la línea 12 de Metro y la C-5."
+    },
+    {
+      "title": "35605 Alcorcón | Adif",
+      "url": "https://www.adif.es/-/35605-alcorc%C3%B3n",
+      "type": "official",
+      "relevance_en": "Official Adif station page confirming the rail station name Alcorcón, its C-5 service, and its Avenida de Móstoles address.",
+      "relevance_es": "Ficha oficial de Adif que confirma el nombre ferroviario Alcorcón, el servicio C-5 y la dirección en la avenida de Móstoles."
+    },
+    {
+      "title": "La toponimia mozárabe balear",
+      "url": "https://www.researchgate.net/publication/39287548_La_toponimia_mozarabe_balear",
+      "type": "academic",
+      "relevance_en": "Álvaro Galmés de Fuentes discusses hybrid Mozarabic place-names and specifically lists Alcorcón as a Mozarabic hybrid related to corco, a Quercus word.",
+      "relevance_es": "Álvaro Galmés de Fuentes estudia topónimos híbridos mozárabes y cita específicamente Alcorcón como híbrido mozárabe relacionado con corco, voz vinculada a Quercus."
+    },
+    {
+      "title": "La raíz K-R-K en la nomenclatura forestal",
+      "url": "https://fs.revistas.csic.es/index.php/fs/article/download/649/646/",
+      "type": "academic",
+      "relevance_en": "Search-accessible academic source by Juan Ruiz de la Torre noting that Alcorcón or corcón may refer to Quercus suber; the full PDF returned a temporary fetch error during inspection.",
+      "relevance_es": "Fuente académica localizable por búsqueda, de Juan Ruiz de la Torre, que indica que Alcorcón o corcón puede referirse a Quercus suber; el PDF completo devolvió un error temporal al intentar inspeccionarlo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the oak-grove etymology as certain; it is the best-supported philological explanation found, but it competes with a local Arabic hill/watchtower explanation.",
+      "es": "No debe presentarse la etimología de encinar como segura; es la explicación filológica mejor respaldada localizada, pero compite con la interpretación local árabe de cerro o atalaya."
+    },
+    {
+      "en": "The pottery tradition is historically well documented, but it should not be treated as the linguistic origin of Alcorcón without stronger evidence.",
+      "es": "La tradición alfarera está históricamente bien documentada, pero no debe tratarse como origen lingüístico de Alcorcón sin pruebas más sólidas."
+    },
+    {
+      "en": "For the transport station, the direct named-after value should remain simply Alcorcón, not the speculative meaning of Alcorcón.",
+      "es": "Para la estación de transporte, el valor directo de named_after debe seguir siendo simplemente Alcorcón, no el significado hipotético del topónimo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the full García Sánchez Rinconete 2007 item or its exact bibliographic record if available, because the CVC article was not reliably retrievable during this search.",
+      "es": "Conviene revisar el artículo completo de García Sánchez en Rinconete 2007 o su registro bibliográfico exacto si está disponible, porque durante esta búsqueda no se pudo recuperar con fiabilidad en el CVC."
+    },
+    {
+      "en": "A human reviewer may wish to compare Corominas directly in the relevant printed volume before retaining the statement about rejecting pottery-based folk etymologies.",
+      "es": "Un revisor humano debería contrastar directamente a Corominas en el volumen impreso correspondiente antes de mantener la afirmación sobre el rechazo de etimologías populares basadas en la alfarería."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_222/en/summary.short.md",
+      "summary": "content/stations/metro_222/en/summary.md",
+      "story": "content/stations/metro_222/en/story.md",
+      "confidence": "content/stations/metro_222/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_222/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_222/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_222/es/summary.short.md",
+      "summary": "content/stations/metro_222/es/summary.md",
+      "story": "content/stations/metro_222/es/story.md",
+      "confidence": "content/stations/metro_222/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_222/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_222/es/research-note.md"
+    }
+  }
+}

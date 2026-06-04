@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_072",
+  "name": "Robledo de Chavela",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Municipality of Robledo de Chavela; the place name probably means an oak grove associated with a medieval owner named Echa Vela",
+  "previous_names": "Station: no former official station name found. Historical place-name forms include Robredo de Chavela (1341), Robredo de Enchauela (1355), Robledo de Chabela (1488), and Robledo Chavela (1752).",
+  "naming_date": "1863 (railway arrival/projected station on the Madrid-Irun line; exact formal naming act not found)",
+  "sources": [
+    {
+      "title": "Robledo de Chavela | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/256",
+      "type": "academic",
+      "relevance_en": "Primary specialist source for the recommended etymology: Robledo from Latin roboretum and Chavela from the medieval personal-name compound Echa Vela; also supplies historical spellings from 1341 onward.",
+      "relevance_es": "Fuente especializada principal para la etimología recomendada: Robledo del latín roboretum y Chavela del compuesto antroponímico medieval Echa Vela; también aporta grafías históricas desde 1341."
+    },
+    {
+      "title": "RŌBŎRĒTU | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/etimo/roboretu",
+      "type": "academic",
+      "relevance_en": "Explains the Latin etymon roboretum and its development into Castilian robledo/robredo, supporting the oak-grove element of the name.",
+      "relevance_es": "Explica el étimo latino roboretum y su evolución hacia el castellano robledo/robredo, sustentando el elemento de robledal del nombre."
+    },
+    {
+      "title": "Robledo de Chavela station page | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_67?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the current station name, the Cercanias correspondence, and its location/access in Robledo de Chavela.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre actual de la estación, la correspondencia de Cercanías y su ubicación/acceso en Robledo de Chavela."
+    },
+    {
+      "title": "ROBLEDO DE CHAVELA station factsheet | Renfe Data",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10205.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station factsheet confirming station code 10205, the name ROBLEDO DE CHAVELA, Renfe Viajeros operation, Cercanias Madrid area, and municipality.",
+      "relevance_es": "Ficha de Renfe que confirma el código 10205, el nombre ROBLEDO DE CHAVELA, la explotación por Renfe Viajeros, el área de Cercanías Madrid y el municipio."
+    },
+    {
+      "title": "Historia de Robledo de Chavela | Web Oficial Turismo - Ayuntamiento de Robledo de Chavela",
+      "url": "https://espaciorobledo.com/patrimonio/patrimonio-cultural/historia/",
+      "type": "official",
+      "relevance_en": "Municipal tourism page summarizing local theories for Chavela, historical context, repopulation chronology, and the arrival of the railway in the nineteenth century.",
+      "relevance_es": "Página turística municipal que resume teorías locales sobre Chavela, el contexto histórico, la cronología de repoblación y la llegada del ferrocarril en el siglo XIX."
+    },
+    {
+      "title": "Sobre Robledo | Ayuntamiento de Robledo de Chavela",
+      "url": "https://robledodechavela.es/sobre-robledo/",
+      "type": "official",
+      "relevance_en": "Municipal page confirming the modern municipality, its Sierra Oeste setting, the division between the historic town and La Estacion, and the station-related settlement context.",
+      "relevance_es": "Página municipal que confirma el municipio actual, su ubicación en la Sierra Oeste, la división entre el casco urbano y La Estación, y el contexto urbano asociado a la estación."
+    },
+    {
+      "title": "Robledo de Chavela inaugura la exposición 'Robledo y el ferrocarril, 160 años de historia' | Ayuntamiento de Robledo de Chavela",
+      "url": "https://robledodechavela.es/robledo-de-chavela-inaugura-la-exposicion-robledo-y-el-ferrocarril-160-anos-de-historia/",
+      "type": "official",
+      "relevance_en": "Municipal notice giving railway historical context and associating Robledo's railway history with the Madrid-Hendaye line and the 1864 official inaugural journey.",
+      "relevance_es": "Nota municipal que aporta contexto histórico ferroviario y vincula la historia ferroviaria de Robledo con la línea Madrid-Hendaya y el viaje inaugural oficial de 1864."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'father/chief' with Toponomasticon's more precise explanation of Echa as an affectionate medieval form related to Basque aita, meaning 'little father' or 'daddy'.",
+      "es": "Sustituir 'padre/jefe' por la explicación más precisa del Toponomasticon: Echa como forma afectiva medieval relacionada con el vasco aita, con sentido de 'padrecito' o 'papaíto'."
+    },
+    {
+      "en": "Do not present the Latin/chez or Arabic djebel theories as equally supported; they appear in municipal or local-tradition summaries, while Toponomasticon gives the stronger specialist analysis.",
+      "es": "No presentar las teorías de latín/chez o árabe djebel como igual de sustentadas; aparecen en resúmenes municipales o de tradición local, mientras que el Toponomasticon ofrece el análisis especializado más sólido."
+    },
+    {
+      "en": "The Spanish input's named_after_es contains an English word: 'robledal of lord Echa Vela' should be normalized to 'robledal del señor Echa Vela' or, more cautiously, 'robledal asociado a Echa Vela'.",
+      "es": "El named_after_es de entrada contiene una palabra inglesa: 'robledal of lord Echa Vela' debe normalizarse como 'robledal del señor Echa Vela' o, con más cautela, 'robledal asociado a Echa Vela'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No primary railway naming act was found; archival railway documentation could clarify whether the station ever had a shorter operating name such as Robledo.",
+      "es": "No se localizó un acto ferroviario primario de denominación; la documentación ferroviaria de archivo podría aclarar si la estación tuvo alguna vez un nombre operativo abreviado como Robledo."
+    },
+    {
+      "en": "The named person Echa Vela is reconstructed from the place name; no independent medieval document identifying that landholder was found in this research pass.",
+      "es": "La persona Echa Vela se reconstruye a partir del topónimo; en esta investigación no se localizó un documento medieval independiente que identifique a ese poseedor."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_072/en/summary.short.md",
+      "summary": "content/stations/cercanias_072/en/summary.md",
+      "story": "content/stations/cercanias_072/en/story.md",
+      "confidence": "content/stations/cercanias_072/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_072/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_072/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_072/es/summary.short.md",
+      "summary": "content/stations/cercanias_072/es/summary.md",
+      "story": "content/stations/cercanias_072/es/story.md",
+      "confidence": "content/stations/cercanias_072/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_072/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_072/es/research-note.md"
+    }
+  }
+}

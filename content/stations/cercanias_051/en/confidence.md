@@ -1,0 +1,1 @@
+The direct station naming after the municipality is verified by Adif, Renfe and CRTM station data. The recommended deeper etymology is only probable because García Sánchez presents the quercus-derived hybrid explanation cautiously and municipal history preserves a competing Arabic hill interpretation.

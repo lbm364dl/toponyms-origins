@@ -1,0 +1,1 @@
+La estación de El Bercial toma el nombre del barrio de Getafe al que da servicio. El topónimo significa probablemente lugar con berceos o barceos, gramíneas bastas parecidas al esparto, no una zona de berros.

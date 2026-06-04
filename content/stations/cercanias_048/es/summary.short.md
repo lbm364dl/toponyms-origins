@@ -1,0 +1,1 @@
+La estación de Las Águilas toma su nombre del entorno de Las Águilas, en el distrito madrileño de Latina, con accesos en la avenida de Las Águilas. Fuentes de historia local vinculan el nombre del barrio con un antiguo Pinar de las Águilas, aunque ese topónimo anterior requiere confirmación archivística más sólida.

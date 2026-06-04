@@ -1,0 +1,1 @@
+Móstoles Central recibe su nombre por ser la estación central de Metro/Cercanías de Móstoles. El topónimo Móstoles es medieval e incierto, con una posible pero no definitiva relación con el latín monasterium o *monisteriis.

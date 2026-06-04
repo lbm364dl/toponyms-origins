@@ -1,0 +1,1 @@
+The name combines Las Margaritas, a compact north-central Getafe neighbourhood with a strong floral street-name pattern, and the nearby Getafe campus of Universidad Carlos III de Madrid. Official transport naming is currently inconsistent: CRTM still displays Las Margaritas - Universidad, while Adif and Renfe list Las Margaritas.

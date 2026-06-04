@@ -1,0 +1,1 @@
+The station-to-municipality naming is verified by current Renfe and CRTM station records. The deeper place-name etymology is best classed as probable in linguistic terms, but the overall row can be verified because it correctly names the municipality and uses the strongest available scholarly explanation while acknowledging the uncertainty of the original omitted referent.

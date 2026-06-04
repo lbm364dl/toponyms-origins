@@ -1,0 +1,1 @@
+The immediate naming origin is highly secure because official transport sources identify the station as Meco and place it in the municipality of Meco. Confidence is not marked verified overall because the municipal place-name's deeper etymology is unresolved and the inspected sources do not provide a decisive scholarly derivation.

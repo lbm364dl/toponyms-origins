@@ -1,0 +1,1 @@
+La afirmación actual es esencialmente correcta: la estación toma su nombre del edificio municipal de Leganés conocido como Casa del Reloj, en la avenida de Gibraltar. La fuente más directa es la página de MetroSur de la Comunidad de Madrid, que dice expresamente que ese edificio da nombre a la estación.

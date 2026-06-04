@@ -1,0 +1,1 @@
+Fuenlabrada station is named after the municipality it serves. The place name means roughly “worked fountain” or “carved stone fountain,” recalling an old fountain that early witnesses said gave the settlement its name.

@@ -1,0 +1,1 @@
+The direct station naming is verified by transport sources, and the strongest current toponymic source gives a clear scoria derivation. Confidence is probable rather than fully verified because respected secondary and municipal sources still support or present the aesculus/oak explanation, and the physical historical evidence for slag deposits has been debated.

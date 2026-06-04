@@ -1,0 +1,132 @@
+{
+  "id": "cercanias_061",
+  "name": "Aravaca",
+  "status": "probable",
+  "confidence": "uncertain",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Aravaca, Madrid neighbourhood and former municipality; deeper etymology uncertain, with a proposed link to the Celtiberian Arevaci",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif - 10001 Aravaca",
+      "url": "https://www.adif.es/w/10001-aravaca",
+      "type": "official",
+      "relevance_en": "Official station page confirming the station name, address and Cercanías service context.",
+      "relevance_es": "Página oficial de la estación que confirma el nombre, la dirección y el contexto de servicio de Cercanías."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 10001 Aravaca",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10001.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet listing code 10001, name ARAVACA, operator Renfe Viajeros and commercial lines C7A and C10.",
+      "relevance_es": "Ficha de estación de Renfe que recoge el código 10001, el nombre ARAVACA, el explotador Renfe Viajeros y las líneas comerciales C7A y C10."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Aravaca",
+      "url": "https://transparencia.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_9?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms Aravaca as a Cercanías station with correspondences including C-7, C-10 and Metro Ligero line 2.",
+      "relevance_es": "Confirma Aravaca como estación de Cercanías con correspondencias como C-7, C-10 y Metro Ligero línea 2."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Moncloa-Aravaca",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moncloa-Aravaca/Moncloa-Aravaca/?vgnextchannel=e9a3ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=2e47d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal page stating that Aravaca was annexed to Madrid by the decree of 28 October 1949 and listing Aravaca as a district neighbourhood.",
+      "relevance_es": "Página municipal que indica que Aravaca fue anexionado a Madrid por el decreto de 28 de octubre de 1949 y enumera Aravaca como barrio del distrito."
+    },
+    {
+      "title": "Memoria de Madrid - Actas y acuerdos del ayuntamiento de Aravaca. Libro 173. Años 1946-1950",
+      "url": "https://www.memoriademadrid.es/view/21517",
+      "type": "archive",
+      "relevance_en": "Archive record explaining that Aravaca formed part of the Villa y Tierra de Madrid, kept autonomy until 20 October 1951, and suffered major destruction during the Civil War.",
+      "relevance_es": "Registro archivístico que explica que Aravaca formó parte de la Villa y Tierra de Madrid, conservó su autonomía hasta el 20 de octubre de 1951 y sufrió una gran destrucción durante la Guerra Civil."
+    },
+    {
+      "title": "BOE, 27 November 1949 - Decreto de 28 de octubre de 1949 por el que se aprueba la anexión total del término municipal de Aravaca al de Madrid",
+      "url": "https://www.boe.es/gazeta/dias/1949/11/27/pdfs/BOE-1949-331.pdf",
+      "type": "official",
+      "relevance_en": "Primary legal source approving the total annexation of the municipality of Aravaca to Madrid.",
+      "relevance_es": "Fuente legal primaria que aprueba la anexión total del término municipal de Aravaca al de Madrid."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Algunos topónimos madrileños de origen celta: Aravaca, Alcobendas, Carabanchel, Carabaña, Chamberí, Las Vistillas, Vallecas'",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3012173.pdf",
+      "type": "academic",
+      "relevance_en": "Main scholarly source for the Arevaci/Aravaci hypothesis; rejects the plough-and-cow folk etymology and connects Aravaca with ancient ethnic names and inscriptions.",
+      "relevance_es": "Fuente académica principal para la hipótesis arévaca o aravaca; rechaza la etimología popular de arar con una vaca y relaciona Aravaca con nombres étnicos antiguos e inscripciones."
+    },
+    {
+      "title": "Emilio Nieto Ballester, 'De supuesta toponimia céltica en Castilla: el caso de Arévalo (Ávila)'",
+      "url": "https://repositorio.uam.es/bitstream/handle/10486/664951/supuesta_nieto_rfges_2005.pdf?sequence=1",
+      "type": "academic",
+      "relevance_en": "Provides methodological caution about Celtic toponymic hypotheses and specifically notes that Aravaca should be considered in a wider series of similar names.",
+      "relevance_es": "Aporta cautela metodológica sobre las hipótesis toponímicas célticas y señala expresamente que Aravaca debería considerarse dentro de una serie más amplia de nombres semejantes."
+    },
+    {
+      "title": "Pliny the Elder, Naturalis Historia 3.27",
+      "url": "https://monumenta.ch/latein/a.php?apparat=%C2%AC_first_frame%3D&domain=&id=Plinius%2C+Naturalis+Historia%2C+03%2C++27&inframe=1&lang=0+target%3D&nummer=&s=14654&sectio=27&string=&tabelle=Plinius&target=popup",
+      "type": "reference",
+      "relevance_en": "Ancient Latin text behind the Arevaci discussion, including the statement that the river Areva gave the Arevaci their name.",
+      "relevance_es": "Texto latino antiguo que está detrás de la discusión sobre los arévacos, incluida la afirmación de que el río Areva dio nombre a los Arevaci."
+    },
+    {
+      "title": "Tesauros del Patrimonio Cultural de España - Arevaquia",
+      "url": "https://tesauros.cultura.gob.es/tesauros/toponimiahistorica/1211504",
+      "type": "official",
+      "relevance_en": "Spanish cultural heritage thesaurus entry summarising Arevaquia and the Arevaci, including the possible derivation from the river Areva or Araviana.",
+      "relevance_es": "Entrada del tesauro del patrimonio cultural español que resume Arevaquia y los arévacos, incluida la posible derivación del río Areva o Araviana."
+    },
+    {
+      "title": "Relaciones Topográficas de los Pueblos de España - Aravaca",
+      "url": "https://core.ac.uk/download/pdf/71512403.pdf",
+      "type": "archive",
+      "relevance_en": "Indexed digitization of the 1576 Aravaca response preserving the folk account that the name came from a man saying 'ara, vaca'; the PDF was indexed but not directly accessible during this run due to access restrictions.",
+      "relevance_es": "Digitalización indexada de la respuesta de Aravaca de 1576 que conserva la explicación popular según la cual el nombre procedía de un hombre que decía 'ara, vaca'; el PDF estaba indexado, pero no fue accesible directamente durante esta consulta por restricciones de acceso."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the named_after value so it does not state the Arevaci derivation as settled fact; the direct namesake is the place Aravaca.",
+      "es": "Conviene cambiar el valor de named_after para que no presente la derivación arévaca como un hecho cerrado; el referente directo es el lugar Aravaca."
+    },
+    {
+      "en": "The author in the cited Anales article is Joaquín Caridad Arias, not Caridad Arias as if Caridad were the forename.",
+      "es": "El autor del artículo citado en Anales es Joaquín Caridad Arias, no Caridad Arias como si Caridad fuera el nombre de pila."
+    },
+    {
+      "en": "The Pliny passage is more safely cited as Naturalis Historia 3.27 in many editions, while Caridad Arias also refers to nearby book 3 sections in discussing Arevaci territory.",
+      "es": "El pasaje de Plinio debe citarse con más seguridad como Naturalis Historia 3.27 en muchas ediciones, aunque Caridad Arias también remite a secciones próximas del libro 3 al tratar el territorio arévaco."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect a critical edition or archival facsimile of the Fuero de Madrid and its later confirmations to pin down the earliest exact manuscript form and date for Aravaca.",
+      "es": "Conviene revisar una edición crítica o facsímil archivístico del Fuero de Madrid y sus confirmaciones posteriores para fijar la forma manuscrita y la fecha exacta más antigua de Aravaca."
+    },
+    {
+      "en": "Review Isabel Gea's printed work directly for the 'Ara Val Cea' proposal, since online secondary quotations are not enough to evaluate her evidence.",
+      "es": "Conviene revisar directamente la obra impresa de Isabel Gea para la propuesta 'Ara Val Cea', ya que las citas secundarias en línea no bastan para valorar sus pruebas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_061/en/summary.short.md",
+      "summary": "content/stations/cercanias_061/en/summary.md",
+      "story": "content/stations/cercanias_061/en/story.md",
+      "confidence": "content/stations/cercanias_061/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_061/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_061/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_061/es/summary.short.md",
+      "summary": "content/stations/cercanias_061/es/summary.md",
+      "story": "content/stations/cercanias_061/es/story.md",
+      "confidence": "content/stations/cercanias_061/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_061/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_061/es/research-note.md"
+    }
+  }
+}

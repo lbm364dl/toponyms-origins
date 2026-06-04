@@ -1,0 +1,107 @@
+{
+  "id": "metro_206",
+  "name": "Cuatro Vientos",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Cuatro Vientos, the area and aerodrome named from the old paramo known as 'A los Cuatro Vientos'",
+  "previous_names": "",
+  "naming_date": "1976 for the Cercanias halt; 2003-04-11 for the Metro Line 10 station",
+  "sources": [
+    {
+      "title": "BOE-A-2022-219: Incoacion BIC Torre de Senales del Aerodromo de Cuatro Vientos",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-219",
+      "type": "official",
+      "relevance_en": "Officially records that on 11 January 1911 land was selected in the paramo known as 'A los Cuatro Vientos' for Spain's first military aerodrome.",
+      "relevance_es": "Documenta oficialmente que el 11 de enero de 1911 se eligieron terrenos en el páramo conocido como 'A los Cuatro Vientos' para el primer aeródromo militar de España."
+    },
+    {
+      "title": "History | Madrid-Cuatro Vientos Airport | Aena",
+      "url": "https://www.aena.es/en/madrid-cuatro-vientos/get-to-know-us/history.html",
+      "type": "official",
+      "relevance_en": "Confirms the 1911 military commission, the arrival of troops and aircraft, and the early development of the aerodrome.",
+      "relevance_es": "Confirma la comisión militar de 1911, la llegada de tropas y aviones, y el desarrollo inicial del aeródromo."
+    },
+    {
+      "title": "La Comunidad de Madrid rinde homenaje a la aviacion espanola en la estacion de Metro de Cuatro Vientos",
+      "url": "https://www.comunidad.madrid/noticias/2022/10/24/comunidad-madrid-rinde-homenaje-aviacion-espanola-estacion-metro-cuatro-vientos",
+      "type": "official",
+      "relevance_en": "States that the airport's history is the station's thematic link and says the airport gave its name to the Line 10 station opened in 2003.",
+      "relevance_es": "Indica que la historia del aeropuerto es el vínculo temático de la estación y que el aeropuerto dio nombre a la estación de la línea 10 inaugurada en 2003."
+    },
+    {
+      "title": "Cuatro Vientos | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_24/",
+      "type": "official",
+      "relevance_en": "Current transport authority page showing Cuatro Vientos as a Cercanias station with Metro Line 10 and C-5 interchange.",
+      "relevance_es": "Ficha actual del Consorcio que muestra Cuatro Vientos como estación de Cercanías con correspondencia con Metro línea 10 y C-5."
+    },
+    {
+      "title": "35603 Cuatro Vientos | Adif",
+      "url": "https://www.adif.es/w/35603-cuatro-vientos",
+      "type": "official",
+      "relevance_en": "Current Adif station record confirming the Cuatro Vientos rail station, address, and C-5 service.",
+      "relevance_es": "Ficha actual de Adif que confirma la estación ferroviaria de Cuatro Vientos, su dirección y el servicio C-5."
+    },
+    {
+      "title": "Distrito 10 - Latina, Barrio 106 - Cuatro Vientos",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/10%20-%20Latina/Barrio106.pdf",
+      "type": "official",
+      "relevance_en": "Municipal map confirming Cuatro Vientos as an official neighbourhood name and showing the aerodrome and Cercanias station.",
+      "relevance_es": "Mapa municipal que confirma Cuatro Vientos como barrio oficial y muestra el aeródromo y la estación de Cercanías."
+    },
+    {
+      "title": "viento | Diccionario de la lengua espanola | RAE-ASALE",
+      "url": "https://dle.rae.es/viento",
+      "type": "reference",
+      "relevance_en": "Defines 'a los cuatro vientos' as 'in all directions, everywhere', supporting the literal sense of the old place-name.",
+      "relevance_es": "Define 'a los cuatro vientos' como 'en todas direcciones, por todas partes', lo que respalda el sentido literal del topónimo antiguo."
+    },
+    {
+      "title": "Instalaciones militares de Campamento y Cuatro Vientos | Arquitectura de Madrid, COAM",
+      "url": "https://fcoam.eu/guia/F3/F3.404.htm",
+      "type": "reference",
+      "relevance_en": "Architectural-historical reference noting military installations in Campamento and Cuatro Vientos, with earliest identified elements in 1911 and later base development.",
+      "relevance_es": "Referencia histórico-arquitectónica sobre las instalaciones militares de Campamento y Cuatro Vientos, con elementos identificados desde 1911 y desarrollo posterior de la base."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The Metro station did not open in 2006; regional and secondary transport sources place the Line 10 opening at 11 April 2003. The Cercanias halt dates to the 1976 Aluche-Mostoles railway.",
+      "es": "La estación de Metro no se inauguró en 2006; las fuentes regionales y de transporte sitúan la apertura de la línea 10 el 11 de abril de 2003. El apeadero de Cercanías procede del ferrocarril Aluche-Móstoles de 1976."
+    },
+    {
+      "en": "The row should distinguish the documented old place-name 'A los Cuatro Vientos' from the inferred explanation that the name refers to winds from all four cardinal directions.",
+      "es": "La fila debe distinguir el topónimo antiguo documentado 'A los Cuatro Vientos' de la explicación inferida de que el nombre alude a vientos procedentes de los cuatro puntos cardinales."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Madrid toponymy work or historical map source should be inspected to see whether it explicitly explains why the paramo was called 'A los Cuatro Vientos'.",
+      "es": "Conviene revisar una obra de toponimia madrileña o cartografía histórica para comprobar si explica explícitamente por qué el páramo se llamaba 'A los Cuatro Vientos'."
+    },
+    {
+      "en": "The exact administrative naming act for the original 1976 railway halt was not located; only later transport histories and current station records were found.",
+      "es": "No se localizó el acto administrativo exacto de denominación del apeadero ferroviario original de 1976; solo se encontraron historias de transporte posteriores y fichas actuales de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_206/en/summary.short.md",
+      "summary": "content/stations/metro_206/en/summary.md",
+      "story": "content/stations/metro_206/en/story.md",
+      "confidence": "content/stations/metro_206/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_206/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_206/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_206/es/summary.short.md",
+      "summary": "content/stations/metro_206/es/summary.md",
+      "story": "content/stations/metro_206/es/story.md",
+      "confidence": "content/stations/metro_206/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_206/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_206/es/research-note.md"
+    }
+  }
+}

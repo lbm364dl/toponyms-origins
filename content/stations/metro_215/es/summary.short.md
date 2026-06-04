@@ -1,0 +1,1 @@
+La estación de La Fortuna lleva el nombre del distrito leganense de La Fortuna. El nombre del barrio se explica tradicionalmente y en fuentes oficiales como un homenaje de Domingo Dos Santos a su esposa, Fortunata González Arroyo.

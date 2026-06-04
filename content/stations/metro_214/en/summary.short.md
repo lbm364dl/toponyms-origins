@@ -1,0 +1,1 @@
+The station is named for the Hospital Universitario Infanta Sofía in San Sebastián de los Reyes. That hospital was legally renamed from Hospital del Norte to Hospital Infanta Sofía in 2008, in honour of Infanta Sofía de Borbón y Ortiz.

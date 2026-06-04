@@ -1,0 +1,1 @@
+The direct place-name explanation is supported by Renfe's station page, the municipal location of Parque Natural El Soto and Via Verde Arroyo del Soto, and the RAE definition and etymology of 'soto'. The exact date when the current station name replaced Villaviciosa de Odón remains less firmly sourced, so only that chronology detail is left open.

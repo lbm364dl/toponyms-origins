@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_042",
+  "name": "Alcalá de Henares Universidad",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Universidad de Alcalá",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif: 70107 Alcalá Henar.Univ.",
+      "url": "https://www.adif.es/-/70107-alcal%C3%A1-henar.univ.",
+      "type": "official",
+      "relevance_en": "Confirms the official station page, current station name, and address on Carretera Campus Universitario de Alcalá.",
+      "relevance_es": "Confirma la ficha oficial de la estación, el nombre actual y la dirección en la carretera del Campus Universitario de Alcalá."
+    },
+    {
+      "title": "Renfe Data: FichaEstacion70107.pdf",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70107.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 70107, name Alcalá de Henares-Universidad, Cercanías Madrid area, Renfe Viajeros as operator, municipality, and coordinates.",
+      "relevance_es": "Confirma el código 70107, el nombre Alcalá de Henares-Universidad, el área Cercanías Madrid, Renfe Viajeros como explotador, el municipio y las coordenadas."
+    },
+    {
+      "title": "CRTM: Alcalá de Henares Universidad",
+      "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_3/",
+      "type": "official",
+      "relevance_en": "Confirms the station’s C-2 and C-8 correspondences and access from Ctra. del Campus in Alcalá de Henares.",
+      "relevance_es": "Confirma las correspondencias C-2 y C-8 de la estación y el acceso desde la carretera del Campus en Alcalá de Henares."
+    },
+    {
+      "title": "Universidad de Alcalá: History, mission and values",
+      "url": "https://www.uah.es/en/conoce-la-uah/la-universidad/historia-mision-y-valores/",
+      "type": "official",
+      "relevance_en": "Provides the university’s own summary of its 1293 antecedent, 1499 foundation by Cisneros, academic model, move to Madrid, 1977 reopening, and UNESCO recognition.",
+      "relevance_es": "Aporta el resumen institucional sobre el antecedente de 1293, la fundación de 1499 por Cisneros, el modelo académico, el traslado a Madrid, la reapertura de 1977 y el reconocimiento UNESCO."
+    },
+    {
+      "title": "Universidad de Alcalá: Colegio San Ildefonso. Rectorado",
+      "url": "https://www.uah.es/es/investigacion/unidades-de-investigacion/institutos-universitarios/Colegio-San-Ildefonso.-Rectorado/",
+      "type": "official",
+      "relevance_en": "Confirms the April 1499 papal bull of Alexander VI authorizing the university project in Alcalá and the central role of Colegio de San Ildefonso.",
+      "relevance_es": "Confirma la bula de Alejandro VI de abril de 1499 que autorizó el proyecto universitario en Alcalá y el papel central del Colegio de San Ildefonso."
+    },
+    {
+      "title": "UNESCO World Heritage Centre: University and Historic Precinct of Alcalá de Henares",
+      "url": "https://whc.unesco.org/en/list/876",
+      "type": "official",
+      "relevance_en": "Supports the claim that Alcalá was the world’s first planned university city and records the 1998 World Heritage inscription.",
+      "relevance_es": "Respalda la afirmación de que Alcalá fue la primera ciudad universitaria planificada del mundo y documenta la inscripción como Patrimonio Mundial en 1998."
+    },
+    {
+      "title": "Biblioteca Nacional de España: Biblia Políglota Complutense",
+      "url": "https://bne.es/es/colecciones/impresos-antiguos-reservados/post-incunables/biblia-poliglota-complutense",
+      "type": "reference",
+      "relevance_en": "Confirms the printing dates 1514-1517, Cisneros’s coordination, Brocar’s press, the languages included, and the description as the first complete Bible edition in several languages.",
+      "relevance_es": "Confirma las fechas de impresión 1514-1517, la coordinación de Cisneros, la imprenta de Brocar, las lenguas incluidas y la descripción como primera edición completa de la Biblia en varias lenguas."
+    },
+    {
+      "title": "UCM Biblioteca Histórica: Historia de la Biblioteca",
+      "url": "https://biblioteca.ucm.es/historica/historia-de-la-biblioteca",
+      "type": "official",
+      "relevance_en": "Explains the relationship between the University of Alcalá and the later Universidad Complutense de Madrid, including the transfer to Madrid and recognition by Royal Order of 29 October 1836.",
+      "relevance_es": "Explica la relación entre la Universidad de Alcalá y la posterior Universidad Complutense de Madrid, incluido el traslado a Madrid y su reconocimiento por Real Orden de 29 de octubre de 1836."
+    },
+    {
+      "title": "BOE-A-1977-14872: Real Decreto 1502/1977",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1977-14872",
+      "type": "official",
+      "relevance_en": "Primary legal source creating a new University of Madrid with its seat in Alcalá de Henares, to begin in the 1977-1978 academic year.",
+      "relevance_es": "Fuente legal primaria que crea una nueva Universidad de Madrid con sede en Alcalá de Henares, con inicio en el curso 1977-1978."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Clarify that the station serves the modern/external university campus area, while the UNESCO historic precinct is in central Alcalá.",
+      "es": "Aclarar que la estación da servicio al área del campus moderno o externo, mientras que el recinto histórico UNESCO está en el centro de Alcalá."
+    },
+    {
+      "en": "Use 'first complete polyglot Bible' for the Complutensian Polyglot Bible; 'first multilingual Bible' is too broad.",
+      "es": "Usar 'primera Biblia políglota completa' para la Biblia Políglota Complutense; 'primera biblia multilingüe' es demasiado amplio."
+    },
+    {
+      "en": "When describing Cisneros in 1499, note that 'Cardinal Cisneros' is a conventional retrospective name; chronologically he was not made cardinal until later.",
+      "es": "Al describir a Cisneros en 1499, conviene señalar que 'Cardenal Cisneros' es una denominación retrospectiva convencional; cronológicamente recibió el capelo después."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "I did not find an official source giving the exact date when the current station name was assigned.",
+      "es": "No he encontrado una fuente oficial que indique la fecha exacta de asignación del nombre actual de la estación."
+    },
+    {
+      "en": "Some secondary sources report a former name, 'Alcalá-Universidad', but I did not verify that from an official railway document.",
+      "es": "Algunas fuentes secundarias mencionan el nombre anterior 'Alcalá-Universidad', pero no lo he podido confirmar en un documento ferroviario oficial."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_042/en/summary.short.md",
+      "summary": "content/stations/cercanias_042/en/summary.md",
+      "story": "content/stations/cercanias_042/en/story.md",
+      "confidence": "content/stations/cercanias_042/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_042/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_042/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_042/es/summary.short.md",
+      "summary": "content/stations/cercanias_042/es/summary.md",
+      "story": "content/stations/cercanias_042/es/story.md",
+      "confidence": "content/stations/cercanias_042/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_042/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_042/es/research-note.md"
+    }
+  }
+}

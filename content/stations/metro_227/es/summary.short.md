@@ -1,0 +1,1 @@
+Hospital de Móstoles toma su nombre del Hospital Universitario de Móstoles, situado junto a la estación. La parada de MetroSur abrió con la línea 12 en 2003 y dio acceso ferroviario directo a un hospital inaugurado en 1983.

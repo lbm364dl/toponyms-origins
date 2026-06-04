@@ -1,0 +1,1 @@
+La etimología está respaldada por la página oficial de la ciudad de Baunatal, que documenta el hermanamiento del 28 de agosto de 1990, y por una crónica madrileña contemporánea que afirma que el nombre de la estación era un homenaje a esa ciudad alemana hermanada. La fecha de apertura y el contexto de MetroNorte están apoyados además por fuentes de cronología del transporte.

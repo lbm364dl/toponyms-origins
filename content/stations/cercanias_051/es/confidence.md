@@ -1,0 +1,1 @@
+La denominación directa de la estación por el municipio queda verificada por los datos de Adif, Renfe y CRTM. La etimología profunda recomendada solo es probable porque García Sánchez formula con cautela la explicación híbrida derivada de quercus y la historia municipal conserva una interpretación alternativa árabe vinculada a una colina.

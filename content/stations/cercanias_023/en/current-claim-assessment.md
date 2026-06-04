@@ -1,0 +1,1 @@
+The station is correctly treated as named after the municipality of Pinto. The preferred etymology from Latin *pincta/*pinctu or pinctus, meaning painted or coloured, is now supported by both García Sánchez's CVC article and the Toponomasticon Hispaniae entry, but the precise original referent behind the adjective remains inferential.

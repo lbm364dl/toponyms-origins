@@ -1,0 +1,1 @@
+La afirmación principal está bien sustentada: el nombre actual combina la cercana Asamblea de Madrid con el nombre anterior de la estación y del barrio de Entrevías, topónimo explicado por las vías ferroviarias. Sin embargo, el detalle de la movilización vecinal necesita una fuente primaria más sólida, y hay una pequeña discrepancia entre 1998 y 1999 para el cambio de nombre.

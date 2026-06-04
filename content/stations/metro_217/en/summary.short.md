@@ -1,0 +1,1 @@
+Carabanchel Alto means 'Upper Carabanchel': the station takes its name from the historic higher settlement of the two Carabancheles. The former municipality was annexed to Madrid by decree in 1948, while the older word 'Carabanchel' has several competing etymologies.

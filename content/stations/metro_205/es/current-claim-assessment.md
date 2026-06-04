@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación homenajea a Joaquín Vilumbrales López, profesor/director de Los Castillos y alcalde de Alcorcón fallecido en el cargo en 1999. El nombre previsto Los Castillos está respaldado por prensa contemporánea, pero no se ha localizado el acto administrativo exacto de denominación.

@@ -1,0 +1,1 @@
+Arroyo Culebro station is named for the Arroyo Culebro, the stream and surrounding Getafe/Leganés urban area. The hydronym means roughly “snake stream,” although the idea that it refers specifically to the stream’s winding course remains an inference.

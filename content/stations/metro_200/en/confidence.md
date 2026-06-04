@@ -1,0 +1,1 @@
+The station's descriptive meaning is directly confirmed by Aena's airport Metro information and by CRTM station access mapping. The opening date, former name, and 2007 rename are supported by a detailed metro chronology. The only lower-confidence element is the deeper etymology of Barajas, which is contextual rather than the direct source of the station name.

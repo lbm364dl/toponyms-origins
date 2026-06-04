@@ -1,0 +1,1 @@
+La estación de La Moraleja toma su nombre del área cercana de La Moraleja, en Alcobendas. El topónimo Moraleja se explica con mayor probabilidad como un colectivo diminutivo de mora, relacionado con morales, moreras o plantas de fruto semejante.

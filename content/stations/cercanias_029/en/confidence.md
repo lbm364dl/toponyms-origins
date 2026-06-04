@@ -1,0 +1,1 @@
+The station's immediate naming motivation is well supported by official transport and university sources and by a contemporary railway report from 1975. Confidence is lowered from verified to probable because the deeper etymology of Cantoblanco is contested and because official/public station-name order varies between Cantoblanco Universidad and Universidad-Cantoblanco.

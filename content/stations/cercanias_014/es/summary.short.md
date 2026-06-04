@@ -1,0 +1,1 @@
+La estación de Orcasitas toma su nombre del barrio madrileño al que sirve. El nombre del barrio se relaciona en la toponimia de Madrid con Pedro Bernardo Orcasitas Ruiz y la familia Orcasitas, grandes propietarios de la zona antes del asentamiento obrero y su posterior remodelación.

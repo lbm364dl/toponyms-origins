@@ -1,0 +1,1 @@
+San Nicasio station is named for the Leganés neighbourhood where it stands. The neighbourhood name comes from the devotion to San Nicasio, patron of Leganés, focused on the historic hermitage/parish built in the 18th century over an older local cult site.

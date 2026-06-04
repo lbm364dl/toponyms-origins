@@ -1,0 +1,1 @@
+Joaquín Vilumbrales station is named after Joaquín Vilumbrales López (1941-1999), a teacher and former mayor of Alcorcón. The station was originally planned as Los Castillos, after the neighbourhood where it stands.

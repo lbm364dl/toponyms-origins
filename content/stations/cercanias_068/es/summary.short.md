@@ -1,0 +1,1 @@
+La estación de Torrelodones toma su nombre del municipio al que sirve. El topónimo significa, en la práctica, “la torre de los lodones”, entendiendo lodones como plural de lodón, el árbol hoy llamado más habitualmente almez.

@@ -1,0 +1,1 @@
+La estación toma su nombre del barrio alcorconero de San José de Valderas. Ese barrio creció en torno a la antigua Quinta de San José y los Castillos de Valderas, finca de comienzos del siglo XX de los marqueses de Valderas.

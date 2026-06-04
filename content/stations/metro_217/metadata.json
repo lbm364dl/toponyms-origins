@@ -1,0 +1,125 @@
+{
+  "id": "metro_217",
+  "name": "Carabanchel Alto",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Carabanchel Alto, the historic upper Carabanchel settlement and former municipality, now a neighbourhood area in Madrid's district of Carabanchel",
+  "previous_names": "Carabanchel de Arriba; Carabanchel de Suso; Carabanchel de Arryba (historical place-name variants, not former station names)",
+  "naming_date": "18 December 2006",
+  "sources": [
+    {
+      "title": "CRTM - Carabanchel Alto station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_255/?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 11 service, fare zone, accessibility, and access at Avenida de Carabanchel Alto.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 11, la zona tarifaria, la accesibilidad y el acceso por la avenida de Carabanchel Alto."
+    },
+    {
+      "title": "Archivo municipal de Carabanchel Alto - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/Archivo-municipal-de-Carabanchel-Alto/?vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=27fe1265f214a810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms Carabanchel Alto's former municipal status, its archive dates, its place in the jurisdiction of Villa y Tierra de Madrid, and annexation by decree of 9 January 1948.",
+      "relevance_es": "Confirma el antiguo carácter municipal de Carabanchel Alto, las fechas de su archivo, su pertenencia a la jurisdicción de la Villa y Tierra de Madrid y su anexión por decreto de 9 de enero de 1948."
+    },
+    {
+      "title": "BOE, 31 January 1948 - Decree approving annexation of Carabanchel Bajo and Carabanchel Alto to Madrid",
+      "url": "https://www.boe.es/gazeta/dias/1948/01/31/pdfs/BOE-1948-31.pdf",
+      "type": "archive",
+      "relevance_en": "Primary legal source for the annexation of the municipal terms of Carabanchel Bajo and Carabanchel Alto to Madrid.",
+      "relevance_es": "Fuente jurídica primaria de la anexión de los términos municipales de Carabanchel Bajo y Carabanchel Alto a Madrid."
+    },
+    {
+      "title": "Discovering Carabanchel - esmadrid.com",
+      "url": "https://www.esmadrid.com/en/discovering-carabanchel",
+      "type": "official",
+      "relevance_en": "Official tourism source explaining that Carabanchel Alto was the upper original municipality and Carabanchel Bajo the lower one, both annexed in 1948.",
+      "relevance_es": "Fuente turística oficial que explica que Carabanchel Alto era el municipio originario situado arriba y Carabanchel Bajo el de abajo, ambos anexionados en 1948."
+    },
+    {
+      "title": "El barrio de Carabanchel Alto y el PAU, conectados desde hoy por metro con la capital a través de la línea 11 - Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-barrio-carabanchel-alto-pau-conectados-hoy-metro-capital-traves-linea-11-20061218142914.html",
+      "type": "press",
+      "relevance_en": "Contemporary report documenting the 18 December 2006 opening of the Line 11 extension serving Carabanchel Alto and the PAU.",
+      "relevance_es": "Crónica contemporánea que documenta la apertura, el 18 de diciembre de 2006, de la prolongación de la línea 11 que daba servicio a Carabanchel Alto y al PAU."
+    },
+    {
+      "title": "Joaquín Caridad Arias, 'Algunos topónimos madrileños de origen celta: Aravaca, Alcobendas, Carabanchel, Carabaña, Chamberí, Las Vistillas, Vallecas'",
+      "url": "https://agora.edu.es/descarga/articulo/3012173.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article proposing a Celtic or pre-Roman personal-name basis for Carabanchel and comparing related forms.",
+      "relevance_es": "Artículo académico que propone para Carabanchel una base céltica o prerromana relacionada con nombres personales y compara formas afines."
+    },
+    {
+      "title": "Origen del Nombre de Carabanchel - carabanchelalto.es",
+      "url": "https://carabanchelalto.es/historia/origen-del-nombre-de-carabanchel/",
+      "type": "other",
+      "relevance_en": "Local history summary listing three competing etymological theories, including caravan, stony/garbanzo, and Oliver Asín's 'carab' explanation.",
+      "relevance_es": "Resumen de historia local que enumera tres teorías etimológicas en competencia: caravanas, terreno pedregoso o garbanzos, y la explicación de 'carab' atribuida a Oliver Asín."
+    },
+    {
+      "title": "Carabancheles a diferentes Alturas - carabanchelalto.es",
+      "url": "https://carabanchelalto.es/historia/carabancheleles-a-diferentes-alturas/",
+      "type": "other",
+      "relevance_en": "Local source explaining the Alto/Bajo distinction through Suso/Yuso and the altitude difference between the historic nuclei.",
+      "relevance_es": "Fuente local que explica la distinción Alto/Bajo mediante Suso/Yuso y la diferencia de altitud entre los núcleos históricos."
+    },
+    {
+      "title": "Siglo XVI: Carabanchel Alto en el Imperio Español - carabanchelalto.es",
+      "url": "https://carabanchelalto.es/historia/siglo-xvi-carabanchel-alto-en-el-imperio-espanol/",
+      "type": "other",
+      "relevance_en": "Provides historical variants such as Carabanchel de Arriba, Carabanchel de Arryba and de Suso, and summarizes the 1576 response explaining 'de Arriba' by contrast with Carabanchel de Abajo.",
+      "relevance_es": "Aporta variantes históricas como Carabanchel de Arriba, Carabanchel de Arryba y de Suso, y resume la respuesta de 1576 que explica 'de Arriba' por contraste con Carabanchel de Abajo."
+    },
+    {
+      "title": "BOE-A-2025-21425 - Declaration of the former Provincial Prison of Madrid (Carabanchel Prison) as a Place of Democratic Memory",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21425",
+      "type": "official",
+      "relevance_en": "Authoritative source for the prison context: construction between 1940 and 1944 with forced labour, panoptic design, political repression, and later democratic-memory status.",
+      "relevance_es": "Fuente autorizada para el contexto de la cárcel: construcción entre 1940 y 1944 con trabajo forzoso, diseño panóptico, represión política y posterior declaración como lugar de memoria democrática."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station opened on 18 December 2006 with the Line 11 extension to La Peseta; 2010 corresponds to the later extension to La Fortuna, not to Carabanchel Alto station.",
+      "es": "La estación abrió el 18 de diciembre de 2006 con la prolongación de la línea 11 hasta La Peseta; 2010 corresponde a la prolongación posterior hasta La Fortuna, no a la estación de Carabanchel Alto."
+    },
+    {
+      "en": "The Carabanchel prison material should be treated as neighbourhood memory and context, not as the etymological reason for the station name.",
+      "es": "La información sobre la cárcel de Carabanchel debe tratarse como memoria y contexto del barrio, no como razón etimológica del nombre de la estación."
+    },
+    {
+      "en": "The annexation decree is dated 9 January 1948 and was published in the BOE on 31 January 1948; later local accounts often mention the effective annexation on 29 April 1948.",
+      "es": "El decreto de anexión está fechado el 9 de enero de 1948 y fue publicado en el BOE el 31 de enero de 1948; algunas historias locales citan además la anexión efectiva del 29 de abril de 1948."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original 1575-1576 Relaciones Topográficas text and the Toledo Cathedral document of 1181 for the earliest forms of the place-name.",
+      "es": "Conviene revisar el texto original de las Relaciones Topográficas de 1575-1576 y el documento de la catedral de Toledo de 1181 para confirmar las formas más antiguas del topónimo."
+    },
+    {
+      "en": "A specialist toponymy review could weigh Caridad Arias's Celtic/pre-Roman proposal against Oliver Asín's 'carab' explanation and other popular etymologies.",
+      "es": "Una revisión toponímica especializada podría ponderar la propuesta céltica o prerromana de Caridad Arias frente a la explicación de 'carab' atribuida a Oliver Asín y otras etimologías populares."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_217/en/summary.short.md",
+      "summary": "content/stations/metro_217/en/summary.md",
+      "story": "content/stations/metro_217/en/story.md",
+      "confidence": "content/stations/metro_217/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_217/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_217/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_217/es/summary.short.md",
+      "summary": "content/stations/metro_217/es/summary.md",
+      "story": "content/stations/metro_217/es/story.md",
+      "confidence": "content/stations/metro_217/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_217/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_217/es/research-note.md"
+    }
+  }
+}

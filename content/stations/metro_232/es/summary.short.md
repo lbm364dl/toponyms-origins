@@ -1,0 +1,1 @@
+Parque de los Estados toma su nombre del parque fuenlabreño situado junto al entorno de la estación. El nombre forma parte de una trama local de calles con nombres de países y ciudades americanas, alrededor de la Avenida de los Estados, la Calle de Venezuela y la Calle de La Habana.

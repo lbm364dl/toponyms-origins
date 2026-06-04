@@ -1,0 +1,1 @@
+The basic claim is right: the station is named for Leganés and its central/interchange location. The deeper municipal etymology is overstated: authoritative toponymy treats Leganés as difficult and only cautiously connected to légamo/légano; the Relaciones text cited by current sources gives Leganar, not clearly Legamar.

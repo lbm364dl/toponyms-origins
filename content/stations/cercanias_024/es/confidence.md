@@ -1,0 +1,1 @@
+El origen del nombre de la estación está verificado porque fuentes ferroviarias y municipales identifican Valdemoro como estación y municipio. La etimología profunda del topónimo es probable porque Toponomasticon Hispaniae presenta de forma explícita 'valle oscuro/moreno' como la interpretación más sólida, aunque admite que en algunos nombres con Valde-/moro caben otras lecturas.

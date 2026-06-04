@@ -1,0 +1,1 @@
+Casa del Reloj debe su nombre al edificio administrativo del Ayuntamiento de Leganés situado junto a la estación, en la avenida de Gibraltar. El edificio, inaugurado en 1994, es un importante punto de atención municipal y se identifica por el reloj que explica su nombre popular.

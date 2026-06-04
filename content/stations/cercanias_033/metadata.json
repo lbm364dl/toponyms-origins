@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_033",
+  "name": "Asamblea de Madrid-Entrevías",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Assembly of Madrid regional parliament and the Entrevías neighbourhood, literally a place between railway lines",
+  "previous_names": "Entrevías",
+  "naming_date": "1998 probable; some secondary sources say 1999",
+  "sources": [
+    {
+      "title": "CRTM station page: Asamblea de Madrid - Entrevías",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_10.aspx?idPestana=1&lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport name and current Cercanías connections C-2, C-7, and C-8.",
+      "relevance_es": "Confirma el nombre actual en la red de transporte público y las conexiones actuales de Cercanías C-2, C-7 y C-8."
+    },
+    {
+      "title": "Adif station page: 70002 Asamblea-Entrevías",
+      "url": "https://www.adif.es/w/70002-asamblea-entrev%C3%ADas",
+      "type": "official",
+      "relevance_en": "Confirms Adif’s current station record, name, and location on Avenida de Entrevías.",
+      "relevance_es": "Confirma la ficha actual de Adif, el nombre de la estación y su ubicación en la avenida de Entrevías."
+    },
+    {
+      "title": "Renfe station sheet: ASAMBLEA DE MADRID-ENTREVIAS, code 70002",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70002.pdf",
+      "type": "official",
+      "relevance_en": "Confirms Renfe’s station code 70002, current name, operator area, municipality, and address.",
+      "relevance_es": "Confirma el código Renfe 70002, el nombre actual, el área de explotación, el municipio y la dirección."
+    },
+    {
+      "title": "Historia - Asamblea de Madrid",
+      "url": "https://ctyp.asambleamadrid.es/web/guest/la-asamblea/historia",
+      "type": "official",
+      "relevance_en": "Confirms that the Assembly’s current seat was inaugurated on 28 September 1998 after the move to Madrid Sur, Puente de Vallecas.",
+      "relevance_es": "Confirma que la sede actual de la Asamblea se inauguró el 28 de septiembre de 1998 tras el traslado a Madrid Sur, en Puente de Vallecas."
+    },
+    {
+      "title": "Fernando Jiménez de Gregorio, \"Materiales para una toponimia de la provincia de Madrid (IV)\", Anales del Instituto de Estudios Madrileños, XLIV, 2004",
+      "url": "https://xn--institutoestudiosmadrileos-4rc.es/wp-content/uploads/2025/07/3012169.pdf",
+      "type": "academic",
+      "relevance_en": "Provides a direct toponymic explanation of Entrevías as a Madrid neighbourhood situated between two railway lines.",
+      "relevance_es": "Aporta una explicación toponímica directa de Entrevías como barrio de Madrid situado entre dos vías del tren."
+    },
+    {
+      "title": "Cronología del Ferrocarril de España, FCMAF, January 2026 edition",
+      "url": "https://fcmaf.es/Publicaciones/Cronologia_Ferrocarril_Espa%C3%B1a.pdf",
+      "type": "reference",
+      "relevance_en": "Records the opening of the Entrevías halt on 10 February 1977 at kilometre point 3.790 of the Madrid-Barcelona line.",
+      "relevance_es": "Recoge la entrada en servicio del apeadero de Entrevías el 10 de febrero de 1977 en el punto kilométrico 3,790 de la línea Madrid-Barcelona."
+    },
+    {
+      "title": "Europa Press: Gallardón inauguró la remodelación de la avenida de Entrevías, donde fueron soterrados 500 metros de vías ferroviarias",
+      "url": "https://www.europapress.es/madrid/noticia-gallardon-inauguro-remodelacion-avenida-entrevias-donde-fueron-soterrados-500-metros-vias-ferroviarias-20060912140931.html",
+      "type": "press",
+      "relevance_en": "Documents the 2006 works covering 500 metres of railway at the Assembly station area and the associated urban remodelling.",
+      "relevance_es": "Documenta las obras de 2006 que cubrieron 500 metros de vías a la altura de la estación de la Asamblea y la remodelación urbana asociada."
+    },
+    {
+      "title": "El País: Entrevías 'pierde' parte de su nombre",
+      "url": "https://elpais.com/diario/2006/09/13/madrid/1158146655_850215.html",
+      "type": "press",
+      "relevance_en": "Gives contemporary context for the partial railway covering, the continuing division of the neighbourhood, and the phrase that the railway lines gave the barrio its name.",
+      "relevance_es": "Aporta contexto contemporáneo sobre el cubrimiento parcial de las vías, la persistente división del barrio y la idea de que las vías dieron nombre al barrio."
+    },
+    {
+      "title": "El País: Vallecas estrena Parlamento",
+      "url": "https://elpais.com/diario/1998/09/29/madrid/907068263_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report of the 28 September 1998 inauguration of the new Assembly of Madrid seat in Vallecas.",
+      "relevance_es": "Crónica contemporánea de la inauguración de la nueva sede de la Asamblea de Madrid en Vallecas el 28 de septiembre de 1998."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The input metadata has fields shifted: person_nationality contains 1998 and naming_date contains Entrevias; these should not be treated as valid person or date data.",
+      "es": "Los metadatos de entrada tienen campos desplazados: person_nationality contiene 1998 y naming_date contiene Entrevias; no deben tratarse como datos válidos de persona ni de fecha."
+    },
+    {
+      "en": "The station’s older name should be recorded as Entrevías; the current-name date should be recorded as 1998 probable, with a note that some sources say 1999.",
+      "es": "El nombre anterior de la estación debe registrarse como Entrevías; la fecha del nombre actual debe registrarse como 1998 probable, con nota de que algunas fuentes indican 1999."
+    },
+    {
+      "en": "The claim that residents mobilised to preserve Entrevías is plausible but not verified from a primary source in this research pass.",
+      "es": "La afirmación de que los vecinos se movilizaron para conservar Entrevías es plausible, pero no quedó verificada con una fuente primaria en esta revisión."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the Renfe/Adif, BOCM, or municipal naming record that formally changed Entrevías to Asamblea de Madrid-Entrevías and gives the exact effective date.",
+      "es": "Localizar el registro de Renfe/Adif, BOCM o municipal que cambió formalmente Entrevías por Asamblea de Madrid-Entrevías y que indique la fecha exacta de entrada en vigor."
+    },
+    {
+      "en": "Find contemporary 1998-1999 press or neighbourhood-association records documenting the claimed resident campaign over the station name.",
+      "es": "Buscar prensa contemporánea de 1998-1999 o documentación vecinal que documente la supuesta campaña de los vecinos sobre el nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_033/en/summary.short.md",
+      "summary": "content/stations/cercanias_033/en/summary.md",
+      "story": "content/stations/cercanias_033/en/story.md",
+      "confidence": "content/stations/cercanias_033/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_033/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_033/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_033/es/summary.short.md",
+      "summary": "content/stations/cercanias_033/es/summary.md",
+      "story": "content/stations/cercanias_033/es/story.md",
+      "confidence": "content/stations/cercanias_033/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_033/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_033/es/research-note.md"
+    }
+  }
+}

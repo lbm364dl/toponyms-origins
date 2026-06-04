@@ -1,0 +1,101 @@
+{
+  "id": "metro_212",
+  "name": "La Moraleja",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Moraleja, Alcobendas",
+  "previous_names": "",
+  "naming_date": "2007-04-26",
+  "sources": [
+    {
+      "title": "CRTM - La Moraleja",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_279?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official current transport listing for La Moraleja station, showing Line 10 correspondence, fare zone B1, services and access in Alcobendas.",
+      "relevance_es": "Ficha oficial actual de transporte de la estación de La Moraleja, con correspondencia de línea 10, zona tarifaria B1, servicios y acceso en Alcobendas."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Moraleja",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/moraleja",
+      "type": "academic",
+      "relevance_en": "Gives the scholarly derivation of Moraleja as a phytotoponym from Latin MORA with collective and diminutive suffixes, and records the weaker competing *muratella theory.",
+      "relevance_es": "Ofrece la derivación académica de Moraleja como fitotopónimo procedente del latín MORA con sufijos colectivo y diminutivo, y recoge la teoría alternativa más débil de *muratella."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - MORA",
+      "url": "https://toponhisp.org/es/etimo/mora",
+      "type": "academic",
+      "relevance_en": "Explains the Latin etymon MORA and its relation to the fruit of the moral, morera and zarzamora, supporting the botanical interpretation.",
+      "relevance_es": "Explica el étimo latino MORA y su relación con el fruto del moral, la morera y la zarzamora, apoyando la interpretación vegetal."
+    },
+    {
+      "title": "Una corte para el Rey. Carlos III y los Sitios Reales",
+      "url": "https://www.madrid.org/bvirtual/BVCM019366.pdf",
+      "type": "official",
+      "relevance_en": "Comunidad de Madrid publication whose catalogue lists an 1778 plan of the bosque llamado de La Moraleja, located between Alcobendas and Hortaleza.",
+      "relevance_es": "Publicación de la Comunidad de Madrid cuyo catálogo incluye un plano de 1778 del bosque llamado de La Moraleja, situado entre Alcobendas y Hortaleza."
+    },
+    {
+      "title": "Periódico Vecinal de Hortaleza, número 32",
+      "url": "https://www.periodicohortaleza.org/wp-content/uploads/2017/01/Hortaleza-Periodico-Vecinal-n--mero-32.pdf",
+      "type": "press",
+      "relevance_en": "Local historical article stating that in 1778 Carlos III arranged the purchase of the Dehesa de La Moraleja in the term of Hortaleza.",
+      "relevance_es": "Artículo histórico local que señala que en 1778 Carlos III dispuso la compra de la Dehesa de La Moraleja en el término de Hortaleza."
+    },
+    {
+      "title": "Ayuntamiento de Alcobendas - Texto Plan Especial Paseo Conde Gaitanes, 45",
+      "url": "https://www.alcobendas.org/sites/default/files/2021-04/Texto%20Plan%20Especial%20Paseo%20Conde%20Gaitanes%2C%2045.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document identifying La Moraleja as a garden-city urban model whose ordering began in 1946.",
+      "relevance_es": "Documento urbanístico municipal que identifica La Moraleja como modelo de ciudad jardín cuya ordenación comenzó en 1946."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station-name origin as place rather than descriptive: the Metro stop is named after the La Moraleja area of Alcobendas.",
+      "es": "Clasificar el origen del nombre de la estación como place y no como descriptive: la parada de Metro toma su nombre del área de La Moraleja, en Alcobendas."
+    },
+    {
+      "en": "Qualify the mulberry-tree meaning as the best-supported linguistic interpretation, not as a directly documented local naming act.",
+      "es": "Matizar el significado relacionado con moreras como la interpretación lingüística mejor respaldada, no como un acto local de denominación documentado directamente."
+    },
+    {
+      "en": "Add that a competing but weaker theory derives Moraleja from a word related to walls or old constructions.",
+      "es": "Añadir que existe una teoría alternativa, más débil, que deriva Moraleja de una voz relacionada con muros o construcciones antiguas."
+    },
+    {
+      "en": "Add the transport nuance that the station is in Alcobendas near the La Moraleja business/urbanization area, not necessarily inside the core luxury residential estate.",
+      "es": "Añadir el matiz de transporte de que la estación está en Alcobendas junto al área empresarial y de urbanizaciones de La Moraleja, no necesariamente dentro del núcleo residencial de lujo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming record or MetroNorte project document explicitly assigning the station name would make the naming date fully documentary rather than inferred from the 2007 opening.",
+      "es": "Un acuerdo municipal de denominación o un documento del proyecto MetroNorte que asignara explícitamente el nombre de la estación haría que la fecha de denominación fuera documental y no inferida de la apertura de 2007."
+    },
+    {
+      "en": "The exact local vegetation or landscape feature that first produced the Madrid place-name La Moraleja remains unproven without inspecting older estate records or cadastral documentation.",
+      "es": "El rasgo vegetal o paisajístico concreto que originó por primera vez el topónimo madrileño La Moraleja sigue sin probarse sin revisar documentación antigua de la finca o catastros históricos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_212/en/summary.short.md",
+      "summary": "content/stations/metro_212/en/summary.md",
+      "story": "content/stations/metro_212/en/story.md",
+      "confidence": "content/stations/metro_212/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_212/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_212/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_212/es/summary.short.md",
+      "summary": "content/stations/metro_212/es/summary.md",
+      "story": "content/stations/metro_212/es/story.md",
+      "confidence": "content/stations/metro_212/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_212/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_212/es/research-note.md"
+    }
+  }
+}

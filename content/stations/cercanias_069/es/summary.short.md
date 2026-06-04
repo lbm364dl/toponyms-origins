@@ -1,0 +1,1 @@
+Galapagar-La Navata es un nombre compuesto: identifica el municipio de Galapagar y el entorno de La Navata. Galapagar se explica con solidez como «lugar abundante en galápagos», mientras que La Navata probablemente alude a una pequeña nava, una tierra llana, abierta y a veces húmeda entre alturas.

@@ -1,0 +1,1 @@
+La estación de Pozuelo debe su nombre a Pozuelo de Alarcón. El topónimo alude a pozos o manantiales, mientras que «de Alarcón» se añadió tras la adquisición de la villa por Gabriel de Ocaña y Alarcón en 1632.

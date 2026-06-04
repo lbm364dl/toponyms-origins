@@ -1,0 +1,1 @@
+The direct station etymology should stay separate from the airport's commemorative name. Aeropuerto T1-T2-T3 is not named after Adolfo Suárez, even though the airport is; the Metro name is a terminal locator created after the T4 extension made the older generic Aeropuerto label ambiguous.

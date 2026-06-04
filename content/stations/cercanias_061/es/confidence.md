@@ -1,0 +1,1 @@
+La denominación inmediata está verificada por fuentes oficiales de transporte y municipales: la estación es Aravaca y el lugar es el barrio y antiguo municipio madrileño de Aravaca. La etimología profunda es incierta porque la derivación arévaca está defendida en un artículo especializado, pero presenta reservas metodológicas y convive con explicaciones populares o alternativas.

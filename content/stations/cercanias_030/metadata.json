@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_030",
+  "name": "Alcobendas-San Sebastián de los Reyes",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "The municipalities of Alcobendas and San Sebastián de los Reyes",
+  "previous_names": "",
+  "naming_date": "2001",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanías Madrid - Estación de Alcobendas - San Sebastián de los Reyes",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-alcobendas-san-sebastian-de-los-reyes",
+      "type": "official",
+      "relevance_en": "Official Renfe page confirming the station name, 2001 opening, location on Avenida de España, C-4 service, and the continuous urban relationship between Alcobendas and San Sebastián de los Reyes.",
+      "relevance_es": "Página oficial de Renfe que confirma el nombre de la estación, su inauguración en 2001, su ubicación en la avenida de España, el servicio C-4 y la continuidad urbana entre Alcobendas y San Sebastián de los Reyes."
+    },
+    {
+      "title": "Renfe Data - Ficha de estación 19003: Alcobendas San Sebastián de los Reyes",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion19003.pdf",
+      "type": "official",
+      "relevance_en": "Official station sheet confirming code 19003, the station name, Renfe Viajeros as operator, Avenida de España address, municipality field, coordinates, and C4A commercial line.",
+      "relevance_es": "Ficha oficial de estación que confirma el código 19003, el nombre de la estación, Renfe Viajeros como explotador, la dirección en avenida de España, el municipio, las coordenadas y la línea comercial C4A."
+    },
+    {
+      "title": "CRTM - Alcobendas - S.S. de los Reyes",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_4.aspx?idPestana=1&lang=es",
+      "type": "official",
+      "relevance_en": "Regional transport authority page confirming the public transport stop name, fare zone, C-4a correspondence, and accesses labelled for Alcobendas and S.S. de los Reyes.",
+      "relevance_es": "Página del Consorcio Regional de Transportes que confirma el nombre de la parada, la zona tarifaria, la correspondencia con C-4a y los accesos rotulados para Alcobendas y S.S. de los Reyes."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Alcobendas",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/alcobendas",
+      "type": "academic",
+      "relevance_en": "Most authoritative source found for Alcobendas: documents Alcovendas in 1208, reviews Menéndez Pidal and the possible Celtic benda hypothesis, and emphasizes that the etymology is highly uncertain.",
+      "relevance_es": "Fuente más autorizada localizada para Alcobendas: documenta Alcovendas en 1208, revisa a Menéndez Pidal y la posible hipótesis céltica de benda, y subraya que la etimología es muy incierta."
+    },
+    {
+      "title": "Centro Virtual Cervantes - La Comunidad de Madrid y sus topónimos (II)",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/21062007_01.htm",
+      "type": "reference",
+      "relevance_en": "Jairo J. García Sánchez’s CVC article gives the better-known pre-Roman/Indo-European interpretation of Alcobendas as possibly related to benda, “hill,” with a possible value “hill of deer.”",
+      "relevance_es": "Artículo de Jairo J. García Sánchez en el CVC que expone la interpretación prerromana o indoeuropea más conocida de Alcobendas, posiblemente relacionada con benda, “colina”, con el posible valor “colina de ciervos”."
+    },
+    {
+      "title": "Ayuntamiento de San Sebastián de los Reyes - Información general / Turismo",
+      "url": "https://transparencia.ssreyes.org/web/ayuntamiento-de-san-sebasti%C3%A1n-de-los-reyes/informaci%C3%B3n-general1",
+      "type": "official",
+      "relevance_en": "Municipal source stating that the town celebrates 2 May as the anniversary of its 1492 foundation and that the church was built over an earlier hermitage existing when the municipality was founded by the Catholic Monarchs.",
+      "relevance_es": "Fuente municipal que indica que la localidad celebra el 2 de mayo como aniversario de su fundación en 1492 y que la iglesia se construyó sobre una ermita anterior existente cuando el municipio fue fundado por los Reyes Católicos."
+    },
+    {
+      "title": "Comunidad de Madrid - 52 propuestas de fin de semana de Turismo Cultural en la Comunidad de Madrid",
+      "url": "https://www.madrid.org/bvirtual/BVCM015246.pdf",
+      "type": "official",
+      "relevance_en": "Regional cultural tourism guide explaining that San Sebastián de los Reyes was founded by residents from Alcobendas, beside a hermitage dedicated to Saint Sebastian, and took definitive identity in 1492 under the Catholic Monarchs.",
+      "relevance_es": "Guía regional de turismo cultural que explica que San Sebastián de los Reyes fue fundada por vecinos procedentes de Alcobendas, junto a una ermita dedicada a san Sebastián, y adquirió identidad definitiva en 1492 bajo el amparo de los Reyes Católicos."
+    },
+    {
+      "title": "Parroquia San Sebastián Mártir - Historia",
+      "url": "https://www.sansebastianmartir.es/historia",
+      "type": "other",
+      "relevance_en": "Local ecclesiastical history source giving detail on the hermitage of Saint Sebastian, the 1496 provision by Isabel and Ferdinand, and the later blessing and ecclesiastical disputes.",
+      "relevance_es": "Fuente local de historia eclesiástica que aporta detalle sobre la ermita de San Sebastián, la provisión de 1496 de Isabel y Fernando, y la posterior bendición y los litigios eclesiásticos."
+    },
+    {
+      "title": "El País - Alcobendas y ‘Sanse’ estrenan Cercanías",
+      "url": "https://elpais.com/diario/2001/02/09/madrid/981721455_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report confirming that the Cercanías extension opened to the public on 9 February 2001 and included the Alcobendas-San Sebastián and Valdelasfuentes stations.",
+      "relevance_es": "Crónica de prensa contemporánea que confirma que la prolongación de Cercanías abrió al público el 9 de febrero de 2001 e incluía las estaciones de Alcobendas-San Sebastián y Valdelasfuentes."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state Alcobendas as certainly meaning “hill,” “white hill,” or “hill of the roe deer”; those are scholarly hypotheses and Toponomasticon Hispaniae calls the origin extraordinarily difficult and imprecise.",
+      "es": "No debe afirmarse que Alcobendas signifique con certeza “colina”, “colina blanca” o “colina del corzo”; son hipótesis académicas y Toponomasticon Hispaniae califica el origen como extraordinariamente difícil e impreciso."
+    },
+    {
+      "en": "The earliest secure form found in the stronger sources is Alcovendas in 1208, not 1202; the input’s Fuero de Madrid reference should be checked against the actual document it intends to cite.",
+      "es": "La forma segura más antigua encontrada en las fuentes más sólidas es Alcovendas en 1208, no 1202; conviene comprobar la referencia al Fuero de Madrid de la entrada frente al documento concreto que pretende citar."
+    },
+    {
+      "en": "The transport naming date should be tied to the Cercanías branch opening in February 2001, not left blank.",
+      "es": "La fecha de denominación ferroviaria debe vincularse a la apertura del ramal de Cercanías en febrero de 2001, no dejarse en blanco."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the cited 1202 Fuero de Madrid reference directly, because stronger accessible sources found here point instead to Alcovendas in 1208.",
+      "es": "Conviene inspeccionar directamente la referencia citada al Fuero de Madrid de 1202, porque las fuentes accesibles más sólidas localizadas aquí apuntan en cambio a Alcovendas en 1208."
+    },
+    {
+      "en": "If available, consult the full Diccionario de topónimos españoles and the ATopE reference cited by Toponomasticon Hispaniae for the exact wording of the Alcobendas hypotheses.",
+      "es": "Si está disponible, conviene consultar el Diccionario de topónimos españoles completo y la referencia ATopE citada por Toponomasticon Hispaniae para precisar la formulación exacta de las hipótesis sobre Alcobendas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_030/en/summary.short.md",
+      "summary": "content/stations/cercanias_030/en/summary.md",
+      "story": "content/stations/cercanias_030/en/story.md",
+      "confidence": "content/stations/cercanias_030/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_030/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_030/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_030/es/summary.short.md",
+      "summary": "content/stations/cercanias_030/es/summary.md",
+      "story": "content/stations/cercanias_030/es/story.md",
+      "confidence": "content/stations/cercanias_030/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_030/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_030/es/research-note.md"
+    }
+  }
+}

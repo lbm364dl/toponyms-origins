@@ -1,0 +1,1 @@
+The station is unquestionably named after the municipality, and the mud/lagoon tradition is directly attested in a 1580 local account as summarized by Toponomasticon Hispaniae. Confidence is only probable because the specialist source explicitly calls the etymology difficult and offers alternative explanations.

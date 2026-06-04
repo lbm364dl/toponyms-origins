@@ -1,0 +1,1 @@
+La estación recibe un nombre funcional: da servicio a las terminales T1, T2 y T3 del aeropuerto de Madrid-Barajas. Abrió en 1999 como Aeropuerto y recibió su nombre actual el 3 de mayo de 2007, cuando la línea 8 se prolongó hasta Aeropuerto T4.

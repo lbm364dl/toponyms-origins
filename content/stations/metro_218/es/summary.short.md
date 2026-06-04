@@ -1,0 +1,1 @@
+La estación de San Francisco toma su nombre de la zona de San Francisco en Carabanchel, en especial de la Colonia de San Francisco que figura en la cartografía municipal de Madrid. La referencia religiosa última es probablemente san Francisco de Asís, pero la base inmediata del nombre de la estación es el topónimo local.

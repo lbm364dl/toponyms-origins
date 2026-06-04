@@ -1,0 +1,1 @@
+El cambio oficial de nombre en honor de Clara Campoamor está verificado directamente en el BOE. La confianza baja a probable porque la etimología antigua de Chamartín es académica y plausible, pero la prueba concreta Echamartín de 1247 incluida en la entrada corresponde a Chamartín de Ávila, no directamente al distrito madrileño.

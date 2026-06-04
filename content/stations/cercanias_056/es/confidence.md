@@ -1,0 +1,1 @@
+La estación toma indudablemente el nombre del municipio, y la tradición del lodo o la laguna está atestiguada directamente en una respuesta local de 1580 resumida por Toponomasticon Hispaniae. La confianza es solo probable porque la fuente especializada califica expresamente la etimología como difícil y ofrece explicaciones alternativas.

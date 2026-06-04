@@ -1,0 +1,1 @@
+The station name's immediate origin is verified by official transport and municipal sources: it is the central Alcorcón interchange with Metro Line 12 and Cercanías C-5. The deeper etymology of Alcorcón remains probable rather than fully verified because authoritative sources preserve competing Arabic hill/watchtower and Mozarabic Quercus-related explanations.

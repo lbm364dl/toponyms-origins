@@ -1,0 +1,107 @@
+{
+  "id": "metro_227",
+  "name": "Hospital de Móstoles",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Hospital Universitario de Móstoles",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Hospital de Móstoles station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_216/?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the official station name, Metro connection to Line 12, fare zone B2, accessibility features and access at Calle del Río Sella in Móstoles.",
+      "relevance_es": "Confirma el nombre oficial de la estación, la conexión con la línea 12 de Metro, la zona tarifaria B2, las condiciones de accesibilidad y el acceso en la calle del Río Sella de Móstoles."
+    },
+    {
+      "title": "Comunidad de Madrid - Hospital Universitario de Móstoles",
+      "url": "https://www.comunidad.madrid/centros/hospital-universitario-mostoles",
+      "type": "official",
+      "relevance_en": "Confirms that the hospital is a public Community of Madrid hospital, gives its address and states that MetroSur improved access from the Hospital de Móstoles metro stop.",
+      "relevance_es": "Confirma que el hospital es un centro público de la Comunidad de Madrid, ofrece su dirección e indica que MetroSur mejoró el acceso desde la parada de metro Hospital de Móstoles."
+    },
+    {
+      "title": "Hospital Universitario de Móstoles - Historia",
+      "url": "https://www.comunidad.madrid/hospital/mostoles/nosotros/historia",
+      "type": "official",
+      "relevance_en": "Provides the hospital's official historical account: private initiative, later Ministry acquisition, civic demands, inauguration by Ernest Lluch on 25 June 1983, first county hospital in Madrid, architects and later expansions.",
+      "relevance_es": "Aporta la reseña histórica oficial del hospital: iniciativa privada, adquisición posterior por el Ministerio, reivindicación vecinal, inauguración por Ernest Lluch el 25 de junio de 1983, primer hospital comarcal de Madrid, arquitectos y ampliaciones posteriores."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Describes MetroSur as Line 12 connecting the main southern municipalities and lists Hospital de Móstoles among the Móstoles stations, located on Calle Río Ebro under an existing park.",
+      "relevance_es": "Describe MetroSur como la línea 12 que conecta los principales municipios del sur y enumera Hospital de Móstoles entre las estaciones de Móstoles, localizada en la calle Río Ebro bajo un parque existente."
+    },
+    {
+      "title": "El País - El 'metrosur' acerca la capital a un millón de vecinos de cinco municipios del sur de Madrid",
+      "url": "https://elpais.com/elpais/2003/04/11/actualidad/1050049020_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press account of MetroSur's inauguration on 11 April 2003, with 28 stations linking Alcorcón, Móstoles, Fuenlabrada, Getafe and Leganés.",
+      "relevance_es": "Crónica contemporánea de la inauguración de MetroSur el 11 de abril de 2003, con 28 estaciones que enlazaban Alcorcón, Móstoles, Fuenlabrada, Getafe y Leganés."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Acta del Pleno de 9 de diciembre de 2020",
+      "url": "https://www.mostoles.es/mostoles/cm/images?idMmedia=1245180",
+      "type": "official",
+      "relevance_en": "Documents the municipal motion requesting the renaming of both the Hospital General Universitario de Móstoles and the MetroSur stop Hospital de Móstoles in honour of Ernest Lluch.",
+      "relevance_es": "Documenta la moción municipal que solicitó renombrar tanto el Hospital General Universitario de Móstoles como la parada de MetroSur Hospital de Móstoles en honor de Ernest Lluch."
+    },
+    {
+      "title": "BOE - Ley 14/1986, de 25 de abril, General de Sanidad",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "type": "official",
+      "relevance_en": "Authoritative text of the 1986 General Health Law associated with Lluch's ministry; useful for accurately framing the universalization claim.",
+      "relevance_es": "Texto autorizado de la Ley General de Sanidad de 1986 asociada al ministerio de Lluch; útil para formular con precisión la afirmación sobre la universalización sanitaria."
+    },
+    {
+      "title": "Fundació Ernest Lluch - Sanidad y Estado del Bienestar",
+      "url": "https://www.fundacioernestlluch.org/es/sanidad-y-estado-del-bienestar/",
+      "type": "reference",
+      "relevance_en": "Summarizes Lluch's role as Health Minister and his connection with the 1986 General Health Law and the welfare-state health reforms.",
+      "relevance_es": "Resume el papel de Lluch como ministro de Sanidad y su relación con la Ley General de Sanidad de 1986 y las reformas sanitarias del Estado del bienestar."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the 2020 Ernest Lluch proposal as a municipal request, not as a completed renaming; official transport and health sources still use Hospital de Móstoles.",
+      "es": "Debe tratarse la propuesta de 2020 sobre Ernest Lluch como una solicitud municipal, no como un cambio de nombre consumado; las fuentes oficiales de transporte y sanidad siguen usando Hospital de Móstoles."
+    },
+    {
+      "en": "The statement that the 1986 General Health Law 'guaranteed universal public healthcare' should be softened: BOE text and specialist summaries support that it made the constitutional right effective and set universalization as a goal/process, not that all practical coverage questions were instantly settled.",
+      "es": "Conviene matizar que la Ley General de Sanidad de 1986 'garantizó la sanidad pública universal': el texto del BOE y los resúmenes especializados sostienen que hizo efectivo el derecho constitucional y fijó la universalización como objetivo/proceso, no que resolviera de forma inmediata todas las cuestiones prácticas de cobertura."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find a primary or newspaper source for the exact 1980 Ministry purchase date and the early-1970s abandoned private construction narrative; the inspected official hospital history confirms private initiative and later Ministry acquisition but not those precise dates.",
+      "es": "Localizar una fuente primaria o hemerográfica para la fecha exacta de compra ministerial en 1980 y el relato de la obra privada abandonada desde principios de los años setenta; la historia oficial consultada confirma la iniciativa privada y la posterior adquisición por el Ministerio, pero no esas fechas concretas."
+    },
+    {
+      "en": "A formal CRTM or Metro de Madrid station-naming resolution was not found; the naming date is inferred from the public opening of MetroSur on 11 April 2003.",
+      "es": "No se encontró una resolución formal del CRTM o de Metro de Madrid sobre la denominación de la estación; la fecha de nombre se infiere de la apertura pública de MetroSur el 11 de abril de 2003."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_227/en/summary.short.md",
+      "summary": "content/stations/metro_227/en/summary.md",
+      "story": "content/stations/metro_227/en/story.md",
+      "confidence": "content/stations/metro_227/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_227/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_227/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_227/es/summary.short.md",
+      "summary": "content/stations/metro_227/es/summary.md",
+      "story": "content/stations/metro_227/es/story.md",
+      "confidence": "content/stations/metro_227/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_227/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_227/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+El origen descriptivo está bien respaldado por el plano histórico ferroviario del CRTM y por el entorno industrial de la estación, y Adif confirma el nombre y la localización actuales. No se marca como verificado porque no se ha localizado una orden oficial de denominación ni la fecha exacta del cambio de Getafe-Alicante a Getafe Industrial.

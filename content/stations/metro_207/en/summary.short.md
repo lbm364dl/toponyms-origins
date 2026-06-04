@@ -1,0 +1,1 @@
+Aviación Española refers to the aviation identity of this part of Latina, beside the old military lands of Campamento and close to the historic Cuatro Vientos airfield. The strongest contemporary source says the station name honored the former Aviation barracks.

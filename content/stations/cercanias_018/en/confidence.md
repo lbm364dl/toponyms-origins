@@ -1,0 +1,1 @@
+The descriptive origin is strongly supported by CRTM's historical railway plan and by the station's industrial setting, and Adif confirms the current station name and location. Confidence is not marked verified because I did not find an official naming act or exact renaming date from Getafe-Alicante to Getafe Industrial.

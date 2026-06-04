@@ -1,0 +1,1 @@
+La estación lleva el nombre del barrio vecino de San Cristóbal de los Ángeles, en Villaverde. Ese nombre combina a San Cristóbal con el cercano Cerro de los Ángeles de Getafe, denominado por la ermita y la Virgen de los Ángeles.

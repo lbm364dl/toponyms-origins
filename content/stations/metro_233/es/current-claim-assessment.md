@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma su nombre del arroyo Culebro, el cauce y zona urbana cercana en el suroeste de Getafe. La explicación lingüística es plausible pero en parte inferida, y la longitud de 28 km entra en conflicto con al menos una fuente municipal de Getafe que da unos 25 km.

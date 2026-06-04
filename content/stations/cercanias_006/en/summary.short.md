@@ -1,0 +1,1 @@
+Fuente de la Mora is named after an older local spring/toponym preserved in the nearby Camino and Avenida de la Fuente de la Mora. The meaning of Mora is not securely documented for this specific place.

@@ -1,0 +1,1 @@
+The core claim is well supported: the name combines the local place-name El Barrial with the nearby Pozuelo shopping centre, and barrial is a Spanish word related to clay or muddy ground. The exact date of the current compound name is less securely documented than the station name itself.

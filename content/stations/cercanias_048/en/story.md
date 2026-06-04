@@ -1,0 +1,9 @@
+Las Águilas station takes its public name from the place it serves: Las Águilas, in Madrid’s Latina district. The current transport record reinforces that link, because the Consorcio Regional de Transportes lists the station on Cercanías C-5 and places its accesses on Avenida de Las Águilas.
+
+The older name behind the neighbourhood is less firmly documented but locally consistent. Madripedia’s Aluche article explains that an area beyond Avenida de los Poblados, toward the old Avenida del General Fanjul and Rafael Finat, was once loosely called Aluche but soon became known as Las Águilas in memory of a Pinar de las Águilas that had existed there. That makes the station name a layered urban place-name: railway stop, avenue, neighbourhood, and remembered landscape.
+
+The historical setting is the former Carabanchel fringe southwest of Madrid. Madrid City Council notes that Carabanchel Alto and Carabanchel Bajo signed their annexation to Madrid on 29 April 1948, part of the large mid-century expansion of the capital. Later district boundaries placed Las Águilas in Latina rather than in today’s Carabanchel district.
+
+The railway chronology is clear. The CRTM historical railway map records the Móstoles-Aluche operation in 1976 and lists Las Águilas among the stations involved, together with Aluche, Fanjul, Cuatro Vientos, San José de Valderas, Alcorcón and Móstoles. That service later became part of the Cercanías system and was absorbed into today’s C-5.
+
+A nearby wooded landmark, the Pinar de San José, should not be confused with the reported Pinar de las Águilas. Madrid municipal material documents the Pinar de San José as a stone-pine plantation repopulated in 1906 by the Brothers of Saint John of God on the old Las Piqueñas estate. It helps explain the wooded character of the wider Carabanchel-Latina edge, but it is not the direct source of the station name unless a separate source proves that the names were historically connected.

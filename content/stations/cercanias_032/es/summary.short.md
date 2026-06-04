@@ -1,0 +1,1 @@
+La estación de Cercanías toma su nombre del municipio de Colmenar Viejo. El topónimo se entiende mejor como 'colmenar viejo' o 'lugar antiguo de colmenas', mientras que la célebre historia de un viejo colmenero es una tradición local temprana más que la explicación lingüística más segura.

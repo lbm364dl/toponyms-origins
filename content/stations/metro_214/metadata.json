@@ -1,0 +1,107 @@
+{
+  "id": "metro_214",
+  "name": "Hospital Infanta Sofía",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Hospital Universitario Infanta Sofía; ultimately Infanta Sofía de Borbón y Ortiz",
+  "previous_names": "Hospital del Norte (2007-2008)",
+  "naming_date": "2008-08-08 for the metro-station name in transport chronologies; hospital renamed by Order 45/2008 of 25 January 2008, published in BOCM on 13 February 2008",
+  "sources": [
+    {
+      "title": "Orden 45/2008, de 25 de enero, de la Consejería de Sanidad, por la que se establece la nueva denominación de determinados hospitales",
+      "url": "https://gestiona.comunidad.madrid/wleg_pub/secure/normativas/contenidoNormativa.jsf?nmnorma=4923&opcion=VerHtml&eli=true",
+      "type": "official",
+      "relevance_en": "Official legal source proving that Hospital del Norte became Hospital \"Infanta Sofía\" (Norte) and that the order was published in BOCM on 13 February 2008.",
+      "relevance_es": "Fuente legal oficial que prueba que el Hospital del Norte pasó a denominarse Hospital \"Infanta Sofía\" (Norte) y que la orden se publicó en el BOCM el 13 de febrero de 2008."
+    },
+    {
+      "title": "Hospital Universitario Infanta Sofía, Memoria 2024",
+      "url": "https://www.comunidad.madrid/hospital/infantasofia/sites/infantasofia/files/inline-files/memoria_2024_hu_infanta_sofia.pdf",
+      "type": "official",
+      "relevance_en": "Official hospital annual report confirming the hospital's current name, location in San Sebastián de los Reyes, 2008 inauguration, service area, and access by MetroNorte Line 10 at Hospital Infanta Sofía.",
+      "relevance_es": "Memoria oficial del hospital que confirma el nombre actual, la ubicación en San Sebastián de los Reyes, la inauguración en 2008, el área de influencia y el acceso por MetroNorte línea 10 en Hospital Infanta Sofía."
+    },
+    {
+      "title": "S.A.R. la Infanta Doña Sofía - Casa de S.M. el Rey",
+      "url": "https://www.casareal.es/ES/FamiliaReal/InfantaSofia/Paginas/subhome.aspx",
+      "type": "official",
+      "relevance_en": "Official Royal Household biography identifying Sofía de Borbón y Ortiz as Infanta of Spain, second daughter of Felipe and Letizia, born in Madrid on 29 April 2007.",
+      "relevance_es": "Biografía oficial de la Casa de S.M. el Rey que identifica a Sofía de Borbón y Ortiz como Infanta de España, segunda hija de Felipe y Letizia, nacida en Madrid el 29 de abril de 2007."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/node/17616",
+      "type": "official",
+      "relevance_en": "Official retrospective on Madrid Metro expansion listing the MetroNorte stations, including the former terminal name Hospital del Norte, and describing the route through Alcobendas and San Sebastián de los Reyes.",
+      "relevance_es": "Retrospectiva oficial de la ampliación del Metro de Madrid que enumera las estaciones de MetroNorte, incluida la antigua terminal Hospital del Norte, y describe el trazado por Alcobendas y San Sebastián de los Reyes."
+    },
+    {
+      "title": "Hospital Infanta Sofía - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_284",
+      "type": "official",
+      "relevance_en": "Current transport authority station page confirming the present station name, Metro Line 10 service, bus connections, and location on Paseo de Europa in San Sebastián de los Reyes.",
+      "relevance_es": "Ficha actual de la autoridad de transporte que confirma el nombre vigente de la estación, el servicio de la línea 10 de Metro, las conexiones de autobús y la ubicación en el Paseo de Europa de San Sebastián de los Reyes."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Transport chronology recording 08-08-2008 as the new name Hospital Infanta Sofía for the former Hospital del Norte station.",
+      "relevance_es": "Cronología del transporte que recoge el 08-08-2008 como fecha del nuevo nombre Hospital Infanta Sofía para la antigua estación Hospital del Norte."
+    },
+    {
+      "title": "Los cambios de nombre en el Metro de Madrid. Historia de su infraestructura",
+      "url": "https://madridmobilite.com/2016/08/03/los-cambios-de-nombre-en-el-metro-de-madrid-historia-de-su-infraestructura/",
+      "type": "other",
+      "relevance_en": "Specialist transport-history article explaining the Hospital del Norte to Hospital Infanta Sofía renaming in the wider context of Madrid Metro station name changes and linking it to Order 45/2008.",
+      "relevance_es": "Artículo especializado de historia del transporte que explica el cambio de Hospital del Norte a Hospital Infanta Sofía dentro del contexto más amplio de los cambios de nombre en Metro de Madrid y lo relaciona con la Orden 45/2008."
+    },
+    {
+      "title": "Madrid completes metro extensions - Railway Gazette International",
+      "url": "https://www.railwaygazette.com/25022.article",
+      "type": "press",
+      "relevance_en": "Contemporary transport press source reporting that MetroNorte from Las Tablas to Hospital del Norte and the Line 10 extension opened on 26 April 2007.",
+      "relevance_es": "Fuente de prensa ferroviaria contemporánea que informa de que MetroNorte de Las Tablas a Hospital del Norte y la ampliación de la línea 10 se abrieron el 26 de abril de 2007."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station as directly named after a place/institution, the Hospital Universitario Infanta Sofía, while noting the hospital's ultimate eponym is Infanta Sofía de Borbón y Ortiz.",
+      "es": "Clasificar la estación como llamada directamente por un lugar/institución, el Hospital Universitario Infanta Sofía, señalando que el epónimo último del hospital es la infanta Sofía de Borbón y Ortiz."
+    },
+    {
+      "en": "Avoid saying that in 2008 the hospital was named for the younger daughter of King Felipe VI; in 2008 Felipe was still Prince of Asturias. Use 'daughter of Felipe and Letizia' or add that Felipe became king on 19 June 2014.",
+      "es": "Evitar decir que en 2008 el hospital fue nombrado por la hija menor del rey Felipe VI; en 2008 Felipe todavía era Príncipe de Asturias. Usar 'hija de Felipe y Letizia' o añadir que Felipe fue rey desde el 19 de junio de 2014."
+    },
+    {
+      "en": "Note that official Comunidad de Madrid material for the MetroNorte infrastructure lists the former station as Hospital del Norte; the commonly cited public opening date is 26 April 2007, although one official retrospective page gives 23 April 2007 as puesta en servicio.",
+      "es": "Señalar que la documentación oficial de la Comunidad de Madrid sobre MetroNorte enumera la antigua estación como Hospital del Norte; la fecha de apertura pública citada habitualmente es el 26 de abril de 2007, aunque una página retrospectiva oficial da el 23 de abril de 2007 como puesta en servicio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate an official Metro de Madrid or CRTM notice from August 2008 confirming the exact station-renaming date and implementation details.",
+      "es": "Localizar una nota oficial de Metro de Madrid o del CRTM de agosto de 2008 que confirme la fecha exacta del cambio de nombre de la estación y los detalles de implantación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_214/en/summary.short.md",
+      "summary": "content/stations/metro_214/en/summary.md",
+      "story": "content/stations/metro_214/en/story.md",
+      "confidence": "content/stations/metro_214/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_214/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_214/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_214/es/summary.short.md",
+      "summary": "content/stations/metro_214/es/summary.md",
+      "story": "content/stations/metro_214/es/story.md",
+      "confidence": "content/stations/metro_214/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_214/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_214/es/research-note.md"
+    }
+  }
+}

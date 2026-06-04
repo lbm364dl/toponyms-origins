@@ -1,0 +1,1 @@
+Fuencarral station is named for the old village and municipality of Fuencarral, now part of Madrid's Fuencarral-El Pardo district. The place name is best explained through an old fountain associated with roads and cart-drivers, though the exact meaning of carral is not completely settled.

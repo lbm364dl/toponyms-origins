@@ -1,0 +1,125 @@
+{
+  "id": "cercanias_040",
+  "name": "La Garena",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Garena urban sector and earlier La Garena or La Garcena estate in Alcalá de Henares",
+  "previous_names": "La Garena; La Garcena",
+  "naming_date": "Station inaugurated 21/22 May 2004; older estate documented around 1495",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: La Garena",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_106/?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, location/access, fare context, and Cercanías correspondences C-2, C-7, and C-8.",
+      "relevance_es": "Confirma el nombre actual de la estación, su acceso/localización, contexto tarifario y correspondencias de Cercanías C-2, C-7 y C-8."
+    },
+    {
+      "title": "Renfe Data: Ficha Estación 70111 La Garena",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70111.pdf",
+      "type": "official",
+      "relevance_en": "Provides Renfe’s station code, operator information, municipality, coordinates, and commercial line data for La Garena.",
+      "relevance_es": "Aporta el código de estación de Renfe, información de explotación, municipio, coordenadas y datos de línea comercial de La Garena."
+    },
+    {
+      "title": "Comunidad de Madrid: Consorcio Urbanístico La Garena (Alcalá de Henares)",
+      "url": "https://www.comunidad.madrid/medio-ambiente/consorcio-urbanistico-garena-alcala-henares",
+      "type": "official",
+      "relevance_en": "Shows that La Garena is an official residential and mixed urban consortium/sector created by the Community of Madrid and Alcalá City Council.",
+      "relevance_es": "Muestra que La Garena es un consorcio/sector urbanístico residencial y mixto oficial constituido por la Comunidad de Madrid y el Ayuntamiento de Alcalá."
+    },
+    {
+      "title": "BOE, 14 November 2002: contract award for the Cercanías station La Garena",
+      "url": "https://www.boe.es/boe/dias/2002/11/14/pdfs/B09635-09635.pdf",
+      "type": "official",
+      "relevance_en": "Documents the 2002 award of construction works for the Cercanías station 'La Garena' in Alcalá de Henares.",
+      "relevance_es": "Documenta la adjudicación en 2002 de las obras de la estación de Cercanías «La Garena» en Alcalá de Henares."
+    },
+    {
+      "title": "El País: La Garena, nueva estación de Cercanías en Alcalá",
+      "url": "https://elpais.com/diario/2004/05/22/madrid/1085225071_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary report of the May 2004 inauguration, explicitly placing the new station in the La Garena district and linking it to the urban consortium’s development.",
+      "relevance_es": "Crónica contemporánea de la inauguración de mayo de 2004, que sitúa expresamente la nueva estación en el barrio de La Garena y la vincula al desarrollo del consorcio urbanístico."
+    },
+    {
+      "title": "Máximo Diago Hernando, 'El protonotario Lucena en su entorno sociopolítico. Nuevos datos sobre su biografía', Sefarad 53(2), 1993",
+      "url": "https://sefarad.revistas.csic.es/index.php/sefarad/article/view/1068/1239",
+      "type": "academic",
+      "relevance_en": "Academic source stating that inquisitorial documentation mentions an estate near Alcalá called La Garena or La Garcena, bought around 1495 by Carlos de Lucena.",
+      "relevance_es": "Fuente académica que indica que la documentación inquisitorial menciona una heredad cercana a Alcalá llamada La Garena o La Garcena, comprada hacia 1495 por Carlos de Lucena."
+    },
+    {
+      "title": "M. Vicente Sánchez Moltó, 'Los Lucena y el Señorío de la Garena', Alcalá municipal magazine, October 2025",
+      "url": "https://www.ayto-alcaladehenares.es/wp-content/uploads/2025/11/Revista-Alcala-No37.pdf",
+      "type": "official",
+      "relevance_en": "Municipal history article by Alcalá’s official chronicler summarizing the estate, its Lucena ownership, Portilla’s 1725 description, and the alumbrado/Inquisition connection.",
+      "relevance_es": "Artículo histórico municipal del cronista oficial de Alcalá que resume la heredad, su propiedad por los Lucena, la descripción de Portilla de 1725 y la conexión con los alumbrados y la Inquisición."
+    },
+    {
+      "title": "CNRTL: Étymologie de garenne",
+      "url": "https://www.cnrtl.fr/etymologie/garenne",
+      "type": "reference",
+      "relevance_en": "Documents medieval forms and meanings of French garenne/warenne as a hunting reserve, useful for assessing the proposed linguistic explanation.",
+      "relevance_es": "Documenta formas y significados medievales de garenne/warenne en francés como reserva de caza, útil para valorar la explicación lingüística propuesta."
+    },
+    {
+      "title": "Dictionnaire de l’Académie française, 9e édition: garenne",
+      "url": "https://www.dictionnaire-academie.fr/article/A9G0269",
+      "type": "reference",
+      "relevance_en": "Defines garenne as a feudal hunting/fishing reserve and as sandy or wooded rabbit ground, while noting an uncertain origin.",
+      "relevance_es": "Define garenne como reserva feudal de caza o pesca y como terreno arenoso o boscoso de conejos, señalando a la vez un origen incierto."
+    },
+    {
+      "title": "Online Etymology Dictionary: warren",
+      "url": "https://www.etymonline.com/word/warren",
+      "type": "reference",
+      "relevance_en": "Supports the comparison between English warren and Old French/Anglo-French warenne/garenne, but should not be used alone to prove the Alcalá place-name.",
+      "relevance_es": "Apoya la comparación entre el inglés warren y las formas del francés antiguo o anglofrancés warenne/garenne, aunque no basta por sí sola para probar el topónimo alcalaíno."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station’s immediate namesake as the modern La Garena urban sector/district, not directly as Carlos de Lucena’s estate, although the district name appears to preserve that older estate name.",
+      "es": "Conviene tratar como referente inmediato de la estación el sector o barrio moderno de La Garena, no directamente la finca de Carlos de Lucena, aunque el nombre del barrio parece conservar el de esa antigua heredad."
+    },
+    {
+      "en": "The garenne/warren etymology should be worded as plausible rather than established; the French word itself has competing or uncertain ultimate etymologies in reference works.",
+      "es": "La etimología garenne/warren debe formularse como plausible, no como establecida; las obras de referencia consideran incierto o discutido el origen último de la palabra francesa."
+    },
+    {
+      "en": "The opening date is best stated as inauguration on 21 May 2004 with press publication on 22 May 2004, or simply May 2004, because sources differ in phrasing between the event date and publication/opening date.",
+      "es": "La fecha de apertura debe expresarse como inauguración el 21 de mayo de 2004 con publicación en prensa el 22 de mayo de 2004, o simplemente mayo de 2004, porque las fuentes distinguen entre la fecha del acto y la fecha de publicación/apertura."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original inquisitorial file AHN, Inquisición, 111-114 and the Carrete Parrondo pages cited by Diago to confirm the exact wording and date of the La Garena/La Garcena reference.",
+      "es": "Conviene revisar el expediente original AHN, Inquisición, 111-114 y las páginas de Carrete Parrondo citadas por Diago para confirmar la redacción exacta y la fecha de la referencia a La Garena/La Garcena."
+    },
+    {
+      "en": "Check whether Toponomasticon Hispaniae or a specialist Madrid/Alcalá toponymy work has a dedicated entry for La Garena before accepting the garenne derivation as more than probable.",
+      "es": "Debe comprobarse si Toponomasticon Hispaniae o alguna obra especializada de toponimia madrileña o alcalaína tiene una entrada específica sobre La Garena antes de aceptar la derivación desde garenne como algo más que probable."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_040/en/summary.short.md",
+      "summary": "content/stations/cercanias_040/en/summary.md",
+      "story": "content/stations/cercanias_040/en/story.md",
+      "confidence": "content/stations/cercanias_040/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_040/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_040/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_040/es/summary.short.md",
+      "summary": "content/stations/cercanias_040/es/summary.md",
+      "story": "content/stations/cercanias_040/es/story.md",
+      "confidence": "content/stations/cercanias_040/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_040/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_040/es/research-note.md"
+    }
+  }
+}

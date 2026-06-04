@@ -1,0 +1,1 @@
+La mejor actualización del conjunto de datos sería acotar el campo named_after: 'calle de La Granja, en el polígono industrial de Alcobendas'. No se ha demostrado que la estación reciba el nombre de una granja concreta, y 'zona industrial/comercial de La Granja' es una etiqueta moderna razonable solo si se entiende como el entorno actual de la calle y la estación.

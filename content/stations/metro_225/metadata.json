@@ -1,0 +1,111 @@
+{
+  "id": "metro_225",
+  "name": "Móstoles Central",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Móstoles",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "Metro | Plan de Movilidad Urbana Sostenible, Ayuntamiento de Móstoles",
+      "url": "https://www.mostoles.es/Plan_Movilidad/es/movilidad-mostoles/transportes/metro",
+      "type": "official",
+      "relevance_en": "Official municipal transport page listing Line 12 in Móstoles and identifying Móstoles Central as the station with C-5 Cercanías interchange.",
+      "relevance_es": "Página oficial municipal de transporte que enumera la línea 12 en Móstoles e identifica Móstoles Central como estación con correspondencia con Cercanías C-5."
+    },
+    {
+      "title": "Plano zonal Metro Móstoles Central, Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/media/soej3014/plano_zonal_metro_mostolescentral.pdf",
+      "type": "official",
+      "relevance_en": "Official CRTM zonal map locating Móstoles Central at Paseo de la Estación/Goya and marking the Metro and Cercanías station symbols.",
+      "relevance_es": "Plano zonal oficial del CRTM que sitúa Móstoles Central en el entorno de Paseo de la Estación/Goya y marca los símbolos de estación de Metro y Cercanías."
+    },
+    {
+      "title": "Historia de Móstoles, Ayuntamiento de Móstoles",
+      "url": "https://www.mostoles.es/en/ayuntamiento/ciudad/historia-mostoles",
+      "type": "official",
+      "relevance_en": "Municipal history source for possible Visigothic monastery remains, Al-Idrisi's possible Mostel attestation, and the secure October 1144 Monsteles reference.",
+      "relevance_es": "Fuente histórica municipal sobre posibles restos de un monasterio visigodo, el posible testimonio Mostel de Al-Idrisi y la referencia segura a Monsteles de octubre de 1144."
+    },
+    {
+      "title": "Recorrido por la HISTORIA de MÓSTOLES, Ayuntamiento de Móstoles PDF",
+      "url": "https://www.mostoles.es/es/ayuntamiento/ciudad/historia-mostoles.ficheros/123593-breve%20%20HISTORIA%20de%20MOSTOLES.pdf",
+      "type": "official",
+      "relevance_en": "Official PDF version giving the same chronology, including the Al-Idrisi passage, the 1144 formula, and the medieval shift of the settlement toward the parish church.",
+      "relevance_es": "Versión oficial en PDF con la misma cronología, incluido el pasaje de Al-Idrisi, la fórmula de 1144 y el traslado medieval del núcleo hacia la iglesia parroquial."
+    },
+    {
+      "title": "CVC Rinconete: La Comunidad de Madrid y sus topónimos (y IV), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Linguistic reference explaining that Móstoles has been linked to Latin monasterium or *monisteriis, while explicitly presenting the etymology as very hypothetical.",
+      "relevance_es": "Referencia lingüística que explica la relación propuesta entre Móstoles y el latín monasterium o *monisteriis, pero la presenta explícitamente como una hipótesis muy prudente."
+    },
+    {
+      "title": "Nicolás Ávila Seoane, 'Pozuelo de Belmonte, de señorío episcopal fronterizo hasta las manos de un valido de los Austrias', HID 32 (2005)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/2903839.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article quoting the 1144 Latin document with 'turrem de Monsteles' and noting that Monsteles should not be confused with the separate 1137 Morcheles donation.",
+      "relevance_es": "Artículo académico que cita el documento latino de 1144 con 'turrem de Monsteles' y advierte que Monsteles no debe confundirse con la donación distinta de Morcheles de 1137."
+    },
+    {
+      "title": "Servimedia: Madrid. MetroSur entrará en servicio el día 11",
+      "url": "https://www.servimedia.es/noticias/madrid-metrosur-entrara-servicio-dia-11/1411193284",
+      "type": "press",
+      "relevance_en": "Contemporary 6 April 2003 report stating that the Community of Madrid would put MetroSur into service on 11 April as a circular Metro line linking Móstoles and other southern municipalities.",
+      "relevance_es": "Información contemporánea del 6 de abril de 2003 que anuncia la puesta en servicio de MetroSur el 11 de abril como línea circular que enlazaba Móstoles y otros municipios del sur."
+    },
+    {
+      "title": "Jesús Rodríguez Morales, 'Etimología de Móstoles', Celtiberia.net",
+      "url": "https://celtiberia.net/es/biblioteca/?id=1935&pagina=1",
+      "type": "other",
+      "relevance_en": "Detailed specialist discussion of competing etymologies, including the monastery-based derivation, the Al-Idrisi forms, and an alternative *Boustellum/pradillo proposal; useful but less authoritative than official or peer-reviewed sources.",
+      "relevance_es": "Discusión especializada y detallada de etimologías competidoras, incluida la derivación monástica, las formas de Al-Idrisi y una alternativa *Boustellum/pradillo; útil, aunque menos autorizada que las fuentes oficiales o académicas revisadas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state the monasterium derivation as the accepted fact; the Centro Virtual Cervantes article explicitly treats it as hypothetical.",
+      "es": "No debe presentarse la derivación de monasterium como un hecho aceptado; el artículo del Centro Virtual Cervantes la trata expresamente como hipotética."
+    },
+    {
+      "en": "The Al-Idrisi form is not evidence that the name is Arabic in origin; it is a possible Arabic-script attestation of a pre-existing place-name.",
+      "es": "La forma de Al-Idrisi no prueba que el nombre tenga origen árabe; es un posible testimonio en grafía árabe de un topónimo preexistente."
+    },
+    {
+      "en": "The popular mustum et olea explanation should be marked as weak or folk-etymological unless a stronger philological source is found.",
+      "es": "La explicación popular mustum et olea debe marcarse como débil o de tipo etimología popular salvo que aparezca una fuente filológica más sólida."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Emilio Nieto Ballester's toponymic treatment directly, if available, because CVC refers to the *monisteriis hypothesis but does not provide a full apparatus for Móstoles.",
+      "es": "Conviene revisar directamente el tratamiento toponímico de Emilio Nieto Ballester, si está disponible, porque el CVC menciona la hipótesis *monisteriis pero no ofrece un aparato completo para Móstoles."
+    },
+    {
+      "en": "The exact formal naming act for the Metro station name was not located; 2003-04-11 is the opening date and likely public assignment date.",
+      "es": "No se localizó el acto formal exacto de denominación de la estación de Metro; 2003-04-11 es la fecha de apertura y probablemente la fecha de asignación pública del nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_225/en/summary.short.md",
+      "summary": "content/stations/metro_225/en/summary.md",
+      "story": "content/stations/metro_225/en/story.md",
+      "confidence": "content/stations/metro_225/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_225/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_225/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_225/es/summary.short.md",
+      "summary": "content/stations/metro_225/es/summary.md",
+      "story": "content/stations/metro_225/es/story.md",
+      "confidence": "content/stations/metro_225/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_225/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_225/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Los Espartales station takes its name from the Los Espartales area of Getafe Norte, the northern neighbourhood of Getafe where the stop is located. Official municipal and transport sources place the station on Avenida de Rigoberta Menchu and list it as one of the Line 12 MetroSur stations serving Getafe Norte.
+
+Behind the neighbourhood name is an older landscape word. The Real Academia Española defines an 'espartal' as land where esparto grows, so 'Los Espartales' literally evokes esparto fields or stands of esparto grass. Esparto is a tough dry-country grass whose leaves and fibres were traditionally used for cordage, mats, baskets and other practical objects.
+
+The modern urban chronology is much more recent than the word itself. Getafe Norte was built mainly in the mid and late 1990s as part of a major urban-development plan, and municipal references from the 1990s already use the combined planning name Getafe Norte-Los Espartales. MetroSur then arrived on 11 April 2003, giving this developing residential zone a station named for the local place-name.
+
+The name also carries a Madrid-regional craft context. The Community of Madrid's heritage material on traditional esparto spinning links esparto fibre especially with the southeast of the region, where it could be collected and worked into rope, line and other products. That does not prove that the precise station site was once an esparto field, but it shows why the word was meaningful in the regional landscape and economy.
+
+The best-supported explanation is therefore direct and local: Metro named the station for Los Espartales, and Los Espartales is a descriptive plant-landscape toponym. No earlier station name was found. A 2025 proposal sought to rename the station 'Coliseum' because it is the main Metro access to Getafe CF's stadium, but the official transport pages consulted still list the station as Los Espartales.

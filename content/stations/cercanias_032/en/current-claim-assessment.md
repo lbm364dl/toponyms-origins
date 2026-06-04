@@ -1,0 +1,1 @@
+The station is correctly identified as named after the municipality, and the basic meaning 'place of beehives' plus 'old' is well supported. However, the Celtic origin of colmena is only a doubtful hypothesis, the beekeeper story is treated by recent toponymic work as popular/anecdotal, and Toponomasticon Hispaniae gives an earlier 1275 form than the row's 1287 claim.

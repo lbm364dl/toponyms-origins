@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_048",
+  "name": "Las Águilas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Águilas neighbourhood and Avenida de Las Águilas, Madrid",
+  "previous_names": "",
+  "naming_date": "1976",
+  "sources": [
+    {
+      "title": "CRTM - Las Águilas station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_1/",
+      "type": "official",
+      "relevance_en": "Confirms the current Cercanías station, C-5 correspondence, fare zone and accesses on Avenida de Las Águilas.",
+      "relevance_es": "Confirma la estación actual de Cercanías, la correspondencia con C-5, la zona tarifaria y los accesos en la avenida de Las Águilas."
+    },
+    {
+      "title": "CRTM - Plano histórico de los ferrocarriles de Madrid",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Documents the 1976 Móstoles-Aluche railway operation and lists Las Águilas among the stations involved.",
+      "relevance_es": "Documenta la operación ferroviaria Móstoles-Aluche de 1976 e incluye Las Águilas entre las estaciones afectadas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Unidades Distritales de Colaboración, UDC Latina",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Barajas/Programacion-cultural-de-Barajas/Unidades-Distritales-de-Colaboracion/?idCapitulo=11985680&vgnextchannel=3488397137aec710VgnVCM1000001d4a900aRCRD&vgnextfmt=default&vgnextoid=6c0e8a5001ce4810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Lists Las Águilas as one of the barrios composing the Latina district.",
+      "relevance_es": "Enumera Las Águilas como uno de los barrios que componen el distrito de Latina."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - El Ayuntamiento de Madrid publica el libro Carabanchel, 75 años en Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/El-Ayuntamiento-de-Madrid-publica-el-libro-Carabanchel-75-anos-en-Madrid/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=4657b2fcf97c7810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the 29 April 1948 annexation act for Carabanchel Bajo and Carabanchel Alto, the wider historical municipality context of the area.",
+      "relevance_es": "Confirma el acta de anexión del 29 de abril de 1948 de Carabanchel Bajo y Carabanchel Alto, contexto municipal histórico amplio de la zona."
+    },
+    {
+      "title": "Madripedia - Barrio de Aluche",
+      "url": "https://madripedia.wikis.cc/wiki/Barrio_de_Aluche",
+      "type": "reference",
+      "relevance_en": "Provides the direct local-history claim that the area later called Las Águilas was named in memory of a Pinar de las Águilas in the district.",
+      "relevance_es": "Aporta la afirmación directa de historia local de que la zona posteriormente llamada Las Águilas recibió ese nombre en recuerdo de un Pinar de las Águilas existente en la demarcación."
+    },
+    {
+      "title": "Decide Madrid / Ayuntamiento de Madrid - Zonas verdes y árboles singulares: Pinar de San José",
+      "url": "https://decide.madrid.es/system/documents/attachments/000/001/674/original/fbb4e24ec31df6ab644e1540b5fd2b691e6b6345.pdf",
+      "type": "official",
+      "relevance_en": "Documents the nearby Pinar de San José, its 1906 repopulation by the Brothers of Saint John of God, the Las Piqueñas estate, and its protected green-space context.",
+      "relevance_es": "Documenta el cercano Pinar de San José, su repoblación en 1906 por los Hermanos de San Juan de Dios, la finca de Las Piqueñas y su contexto como zona verde protegida."
+    },
+    {
+      "title": "El País - El ferrocarril Aluche-Móstoles no ha resuelto casi nada",
+      "url": "https://elpais.com/diario/1977/03/08/madrid/226671861_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press source noting the Aluche-Móstoles railway opened on 29 October and served five intermediate stations including Las Águilas.",
+      "relevance_es": "Fuente periodística contemporánea que señala que el ferrocarril Aluche-Móstoles se inauguró el 29 de octubre y servía cinco estaciones intermedias, entre ellas Las Águilas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after a place, not simply as a descriptive animal reference.",
+      "es": "Conviene tratar la estación como un nombre de lugar, no simplemente como una referencia descriptiva a animales."
+    },
+    {
+      "en": "The Pinar de San José is nearby and historically documented, but it is not the same as the reported Pinar de las Águilas and should not be presented as the direct etymon.",
+      "es": "El Pinar de San José está cerca y está documentado históricamente, pero no es lo mismo que el Pinar de las Águilas citado y no debe presentarse como étimo directo."
+    },
+    {
+      "en": "The station belonged to the 1976 Aluche-Móstoles railway operation before today’s C-5 configuration.",
+      "es": "La estación perteneció a la operación ferroviaria Aluche-Móstoles de 1976 antes de la configuración actual de la C-5."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find a primary source for Pinar de las Águilas, preferably an old IGN sheet, municipal street-name file, cadastral plan, land registry reference, or archival map of Carabanchel Alto/Aluche.",
+      "es": "Localizar una fuente primaria para el Pinar de las Águilas, preferiblemente una hoja antigua del IGN, expediente municipal de denominación, plano catastral, referencia registral o mapa de archivo de Carabanchel Alto/Aluche."
+    },
+    {
+      "en": "Confirm the exact administrative date when Las Águilas became a named barrio of Latina, if a municipal district reorganisation document can be inspected.",
+      "es": "Confirmar la fecha administrativa exacta en que Las Águilas pasó a ser barrio denominado de Latina, si puede consultarse el documento municipal de reorganización distrital."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_048/en/summary.short.md",
+      "summary": "content/stations/cercanias_048/en/summary.md",
+      "story": "content/stations/cercanias_048/en/story.md",
+      "confidence": "content/stations/cercanias_048/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_048/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_048/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_048/es/summary.short.md",
+      "summary": "content/stations/cercanias_048/es/summary.md",
+      "story": "content/stations/cercanias_048/es/story.md",
+      "confidence": "content/stations/cercanias_048/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_048/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_048/es/research-note.md"
+    }
+  }
+}

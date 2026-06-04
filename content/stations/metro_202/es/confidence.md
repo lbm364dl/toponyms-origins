@@ -1,0 +1,1 @@
+La explicación directa del nombre está respaldada por documentación de infraestructuras de la Comunidad de Madrid y por una memoria urbanística municipal que identifica expresamente la estación ubicada en Covibar con el nombre Rivas-Urbanizaciones. La fecha de apertura también está documentada directamente por la Comunidad de Madrid.

@@ -1,0 +1,1 @@
+The station-name source is confirmed by current transport records, and the municipal place-name etymology is directly explained by Toponomasticon Hispaniae and supported by dictionary meanings from the RAE. The only lower-confidence element is the detailed foundation tradition about Segovian shepherds in the 13th century, which the municipality itself presents cautiously.

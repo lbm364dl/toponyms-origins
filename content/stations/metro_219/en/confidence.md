@@ -1,0 +1,1 @@
+The station's immediate naming after the Pan Bendito area is well supported by official transport location data and by the Line 11 project documentation. The deeper origin of the place-name is only probable because the available sources are local, journalistic, or autobiographical rather than an original historical naming record.

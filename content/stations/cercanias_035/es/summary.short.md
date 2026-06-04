@@ -1,0 +1,1 @@
+La estación de Santa Eugenia toma su nombre del barrio y de la avenida de Santa Eugenia, surgidos en torno a la Ciudad Residencial Santa Eugenia de 1971. La memoria local dice que la urbanización homenajeaba a la madre de los promotores, Eugenia, mientras que la documentación municipal del callejero registra la avenida como nombre de santa.

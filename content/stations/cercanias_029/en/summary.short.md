@@ -1,0 +1,1 @@
+The station name identifies the Cantoblanco area and the nearby UAM campus it was built to serve. The older place-name Cantoblanco is documented before the university, but its ultimate meaning is debated.

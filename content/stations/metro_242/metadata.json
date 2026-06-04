@@ -1,0 +1,97 @@
+{
+  "id": "metro_242",
+  "name": "San Nicasio",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "San Nicasio neighbourhood of Leganés, named for San Nicasio, patron saint of Leganés, traditionally identified locally as a bishop and martyr of Rouen",
+  "previous_names": "",
+  "naming_date": "2003",
+  "sources": [
+    {
+      "title": "CRTM - San Nicasio station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_236?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current Metro station name, Line 12 service, accesses, and Leganés location.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, el servicio de la línea 12, los accesos y la ubicación en Leganés."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page stating that San Nicasio station is located in the San Nicasio neighbourhood, near the former Cuatro Vientos military railway crossing and Avenida del Mediterráneo.",
+      "relevance_es": "Página oficial regional que indica que la estación de San Nicasio está situada en el barrio de San Nicasio, junto al cruce del antiguo ferrocarril militar de Cuatro Vientos con la avenida del Mediterráneo."
+    },
+    {
+      "title": "Ayuntamiento de Leganés - Solicitud de BIC para la Ermita de San Nicasio",
+      "url": "https://www.leganes.org/w/el-equipo-de-gobierno-propone-solicitar-a-la-comunidad-de-madrid-que-declare-bien-de-interes-cultural-la-ermita-de-san-nicasio",
+      "type": "official",
+      "relevance_en": "Municipal source identifying the hermitage as dedicated to the city's patron, describing the 18th-century neoclassical building, and citing the 1600 brotherhood record and plague-protection tradition.",
+      "relevance_es": "Fuente municipal que identifica la ermita como dedicada al patrón de la ciudad, describe el edificio neoclásico del siglo XVIII y cita el acta de la cofradía de 1600 y la tradición de protección contra las pestes."
+    },
+    {
+      "title": "Ayuntamiento de Leganés - Historia de Leganés",
+      "url": "https://www.leganes.org/w/historia-de-leganes",
+      "type": "official",
+      "relevance_en": "Municipal history page linking Ventura Rodríguez with the hermitage and describing San Nicasio as a long-standing martyr saint associated with protection from illness and drought.",
+      "relevance_es": "Página municipal de historia que vincula a Ventura Rodríguez con la ermita y presenta a San Nicasio como santo mártir de larga devoción asociado a la protección frente a enfermedades y sequías."
+    },
+    {
+      "title": "Diócesis de Getafe - Hermandad San Nicasio (Leganés)",
+      "url": "https://www.diocesisgetafe.es/index.php/diocesis/hermandades/810-leganes-hermandad-san-nicasio",
+      "type": "official",
+      "relevance_en": "Diocesan page for the brotherhood, giving the 16th-century origin of the devotion, the 1580 reference, the 1600 foundation of the brotherhood, the 11 October feast, and the 1775-1785 construction dates for the present hermitage.",
+      "relevance_es": "Página diocesana de la hermandad, con el origen de la devoción en el siglo XVI, la referencia de 1580, la fundación de la cofradía en 1600, la fiesta del 11 de octubre y las fechas 1775-1785 para la ermita actual."
+    },
+    {
+      "title": "Real Asociación Española de Cronistas Oficiales - Una ermita para un santo patrón",
+      "url": "https://www.cronistasoficiales.com/una-ermita-para-un-santo-patron/",
+      "type": "reference",
+      "relevance_en": "Article by the official chronicler of Leganés giving detailed local historical context, including the plague-vow tradition, Cisneros/Alexander VI story, earlier hermitages, Ventura Rodríguez attribution, and the Rouen identification.",
+      "relevance_es": "Artículo del cronista oficial de Leganés con contexto histórico local detallado, incluida la tradición del voto por la peste, el relato Cisneros/Alejandro VI, las ermitas anteriores, la atribución a Ventura Rodríguez y la identificación con Rouen."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the identification 'Saint Nicasius of Reims, d. 407' with the Leganés tradition: San Nicasio, bishop and martyr of Rouen, celebrated locally on 11 October.",
+      "es": "Sustituir la identificación 'San Nicasio de Reims, m. 407' por la tradición leganense: San Nicasio, obispo y mártir de Rouen, celebrado localmente el 11 de octubre."
+    },
+    {
+      "en": "Use 1775-1785 for the present hermitage/parish if following the Diocese of Getafe; mention 1772 only as the reported project/commission date, not as the completed construction span.",
+      "es": "Usar 1775-1785 para la ermita/parroquia actual si se sigue a la Diócesis de Getafe; mencionar 1772 solo como fecha documentada o atribuida del proyecto/encargo, no como intervalo completo de construcción."
+    },
+    {
+      "en": "The station is named directly after the San Nicasio neighbourhood; the saint and hermitage explain the neighbourhood name rather than being the immediate naming act for the Metro station.",
+      "es": "La estación toma el nombre directamente del barrio de San Nicasio; el santo y la ermita explican el nombre del barrio, no necesariamente un acto de denominación directo de Metro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original 1580 Relaciones Topográficas entry and the 16 April 1600 brotherhood foundation record in archival form to confirm wording and whether they explicitly name Rouen.",
+      "es": "Consultar en forma archivística la entrada original de las Relaciones Topográficas de 1580 y el acta fundacional de la cofradía del 16 de abril de 1600 para confirmar la literalidad y si nombran expresamente Rouen."
+    },
+    {
+      "en": "Check the Lorenzana descriptions cited by local historians, since they reportedly identify San Nicasio as martyr and bishop of Rouen and attribute the hermitage to Ventura Rodríguez.",
+      "es": "Comprobar las descripciones de Lorenzana citadas por historiadores locales, ya que al parecer identifican a San Nicasio como mártir y obispo de Rouen y atribuyen la ermita a Ventura Rodríguez."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_242/en/summary.short.md",
+      "summary": "content/stations/metro_242/en/summary.md",
+      "story": "content/stations/metro_242/en/story.md",
+      "confidence": "content/stations/metro_242/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_242/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_242/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_242/es/summary.short.md",
+      "summary": "content/stations/metro_242/es/summary.md",
+      "story": "content/stations/metro_242/es/story.md",
+      "confidence": "content/stations/metro_242/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_242/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_242/es/research-note.md"
+    }
+  }
+}

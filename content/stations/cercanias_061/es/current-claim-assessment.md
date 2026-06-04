@@ -1,0 +1,1 @@
+La fila acierta al indicar que la estación toma su nombre de Aravaca, barrio madrileño y antiguo municipio. La afirmación más ambiciosa de que el topónimo procede de los arévacos celtibéricos está bien documentada en Joaquín Caridad Arias, pero sigue siendo una hipótesis académica, no un hecho cerrado.

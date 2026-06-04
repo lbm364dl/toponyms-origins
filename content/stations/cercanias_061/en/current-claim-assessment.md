@@ -1,0 +1,1 @@
+The row is correct that the station is named for Aravaca, the Madrid neighbourhood and former municipality. Its stronger claim that the place-name derives from the Celtiberian Arevaci is well documented in Joaquín Caridad Arias but remains a scholarly hypothesis, not a settled fact.

@@ -1,0 +1,1 @@
+The station being named after the municipality is directly supported by transport sources and by the station's location. The preferred deeper etymology from Parilus/(villa) Parila is supported by specialist toponymic sources, but the existence of a documented palus/padule marsh explanation means the ultimate origin should be presented as probable rather than certain.

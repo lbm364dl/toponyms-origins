@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_057",
+  "name": "Parque Polvoranca",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque Forestal Polvoranca / Parque de Polvoranca, a periurban park in Leganés named from the former village and place-name of Polvoranca",
+  "previous_names": "",
+  "naming_date": "2004",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanías Madrid - Estación de Parque Polvoranca",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-parque-polvoranca",
+      "type": "official",
+      "relevance_en": "Confirms the station name, C-5 context, Leganés location, and 2004 opening to serve new urban expansions.",
+      "relevance_es": "Confirma el nombre de la estación, su contexto en la C-5, su ubicación en Leganés y la inauguración en 2004 para atender nuevos desarrollos urbanos."
+    },
+    {
+      "title": "CRTM - Parque Polvoranca",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_105",
+      "type": "official",
+      "relevance_en": "Official transport listing for the Cercanías station, showing the C-5 correspondence and the Parque Polvoranca access in Leganés.",
+      "relevance_es": "Ficha oficial de transporte de la estación de Cercanías, con correspondencia C-5 y acceso Parque Polvoranca en Leganés."
+    },
+    {
+      "title": "Comunidad de Madrid - Parques Forestales Periurbanos: Parque Forestal Polvoranca",
+      "url": "https://www.comunidad.madrid/medio-ambiente/parques-forestales-periurbanos",
+      "type": "official",
+      "relevance_en": "Defines Polvoranca as a 153-hectare periurban forest park in Leganés and the largest periurban park created by the Community of Madrid.",
+      "relevance_es": "Define Polvoranca como parque forestal periurbano de 153 hectáreas en Leganés y el mayor parque periurbano creado por la Comunidad de Madrid."
+    },
+    {
+      "title": "Comunidad de Madrid - Centro de educación ambiental Polvoranca",
+      "url": "https://www.comunidad.madrid/centros/centro-educacion-ambiental-polvoranca",
+      "type": "official",
+      "relevance_en": "Describes the park as a recovered 150-hectare green area with lagoons, environmental resources, and the historical ruins of the former settlement.",
+      "relevance_es": "Describe el parque como una zona verde recuperada de 150 hectáreas con lagunas, recursos ambientales y ruinas históricas del antiguo poblado."
+    },
+    {
+      "title": "Anales del Instituto de Estudios Madrileños - toponymy discussion including Polvoranca",
+      "url": "https://xn--institutoestudiosmadrileos-4rc.es/wp-content/uploads/2025/03/7_14TOMO-IXTOMO_IX.pdf",
+      "type": "academic",
+      "relevance_en": "Provides the most useful scholarly caution on the place-name: it discusses pol-, Loranca/Loranque, Laurianus, and says the Laurianus explanation is not necessarily the Polvoranca case.",
+      "relevance_es": "Aporta la cautela académica más útil sobre el topónimo: trata pol-, Loranca/Loranque y Laurianus, y señala que la explicación de Laurianus no corresponde necesariamente al caso de Polvoranca."
+    },
+    {
+      "title": "Leganés Activo - Historia: La fundación de Leganés",
+      "url": "https://leganesactivo.com/2015/12/28/historia-la-fundacion-de-leganes/",
+      "type": "press",
+      "relevance_en": "Local historical article citing the Archivo Municipal and noting the contrast between Miñano's independent Polvoranca and Madoz's 1849 description as attached to Leganés.",
+      "relevance_es": "Artículo histórico local que cita el Archivo Municipal y señala el contraste entre la Polvoranca independiente de Miñano y la descripción de Madoz en 1849 como agregada a Leganés."
+    },
+    {
+      "title": "Despoblados y Abandonados - Polvoranca",
+      "url": "https://www.despobladosyabandonados.com/2020/04/polvoranca.html",
+      "type": "other",
+      "relevance_en": "Useful for identifying the popular Laurianus/Loranque/Polboranca/Belluti narrative, but it should be treated as secondary and not decisive.",
+      "relevance_es": "Útil para identificar la narración divulgativa Laurianus/Loranque/Polboranca/Belluti, pero debe tratarse como fuente secundaria y no decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace \"regional park\" with \"periurban forest park\" or simply \"Parque de Polvoranca\"; the official regional page calls it Parque Forestal Polvoranca, not a parque regional.",
+      "es": "Sustituir \"parque regional\" por \"parque forestal periurbano\" o simplemente \"Parque de Polvoranca\"; la página regional oficial lo denomina Parque Forestal Polvoranca, no parque regional."
+    },
+    {
+      "en": "Do not state the Laurianus > Loranque > Polboranca > Polvoranca chain as fact; the strongest source found treats the Polvoranca etymology as conjectural and says the Laurianus explanation for Loranca is not necessarily this case.",
+      "es": "No presentar como hecho la cadena Laurianus > Loranque > Polboranca > Polvoranca; la fuente más sólida localizada considera conjetural la etimología de Polvoranca y dice que la explicación de Laurianus para Loranca no corresponde necesariamente a este caso."
+    },
+    {
+      "en": "The alleged Muslim-period element is described in popular sources as a suffix -que, not a prefix; even that point remains hypothetical.",
+      "es": "El supuesto elemento de época musulmana aparece en fuentes divulgativas como sufijo -que, no como prefijo; incluso ese punto sigue siendo hipotético."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the book Leganés. Una ciudad, una historia (Ayuntamiento de Leganés, 1994), especially pages 51-59 cited in secondary summaries, to see whether it gives archival backing for the 1849 annexation and the Belluti spelling claim.",
+      "es": "Consultar el libro Leganés. Una ciudad, una historia (Ayuntamiento de Leganés, 1994), especialmente las páginas 51-59 citadas en resúmenes secundarios, para comprobar si aporta respaldo archivístico a la anexión de 1849 y al supuesto cambio ortográfico de Belluti."
+    },
+    {
+      "en": "Check a direct facsimile of Madoz, Diccionario geográfico-estadístico-histórico, tomo XIII (1849), entry Polvoranca, for exact wording and context.",
+      "es": "Comprobar un facsímil directo de Madoz, Diccionario geográfico-estadístico-histórico, tomo XIII (1849), entrada Polvoranca, para fijar la redacción exacta y su contexto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_057/en/summary.short.md",
+      "summary": "content/stations/cercanias_057/en/summary.md",
+      "story": "content/stations/cercanias_057/en/story.md",
+      "confidence": "content/stations/cercanias_057/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_057/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_057/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_057/es/summary.short.md",
+      "summary": "content/stations/cercanias_057/es/summary.md",
+      "story": "content/stations/cercanias_057/es/story.md",
+      "confidence": "content/stations/cercanias_057/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_057/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_057/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Las Matas toma su nombre de un topónimo del paisaje que alude a matas, matorrales o terreno cubierto de vegetación baja. El ferrocarril convirtió el lugar en un núcleo estable tras la apertura de la línea Madrid-El Escorial en 1861 y la posterior estación de clasificación y barrio ferroviario.

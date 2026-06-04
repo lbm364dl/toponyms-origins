@@ -1,0 +1,1 @@
+La estación de Pan Bendito toma el nombre de la colonia y zona vecinal de Pan Bendito, en Carabanchel. El nombre antiguo suele explicarse localmente por los antiguos trigales y la idea del pan sagrado o bendito, aunque el origen exacto del topónimo sigue siendo una explicación popular más que un acuerdo municipal documentado.

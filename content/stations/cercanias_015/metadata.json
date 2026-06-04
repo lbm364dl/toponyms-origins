@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_015",
+  "name": "Puente Alcocer",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puente Alcocer, a local bridge/place-name at Calle Alcocer in Villaverde; Alcocer is a Hispano-Arabic toponymic form related to qasar/qusayr, 'alcazar, small alcazar'",
+  "previous_names": "",
+  "naming_date": "1989-09-24 (station opened with the current name)",
+  "sources": [
+    {
+      "title": "CRTM - Puente Alcocer",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_62?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, C-5 correspondence, access information, and Puente Alcocer vestibule.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, la correspondencia con C-5, los accesos y el vestíbulo Puente Alcocer."
+    },
+    {
+      "title": "Renfe Data - Ficha de estación 35704 Puente Alcocer",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35704.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming code 35704, name PUENTE ALCOCER, operator Renfe Viajeros, municipality Madrid, address Calle Alcocer 54, coordinates, and commercial line C5.",
+      "relevance_es": "Ficha de Renfe que confirma el código 35704, el nombre PUENTE ALCOCER, el explotador Renfe Viajeros, el municipio de Madrid, la dirección calle Alcocer 54, las coordenadas y la línea comercial C5."
+    },
+    {
+      "title": "Adif - 35704 Puente Alcocer",
+      "url": "https://www.adif.es/w/35704-puente-alcocer",
+      "type": "official",
+      "relevance_en": "Adif's current station page confirms the station name, C5 service context, and address at Calle Alcocer 54.",
+      "relevance_es": "La página actual de Adif confirma el nombre de la estación, el contexto de servicio C5 y la dirección en la calle Alcocer 54."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCUrbanismo/Cartografia/Callejero/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Municipal street list documenting Calle de Alcocer in the district of Villaverde, with numbering and endpoints.",
+      "relevance_es": "Callejero municipal que documenta la calle de Alcocer en el distrito de Villaverde, con numeración y extremos."
+    },
+    {
+      "title": "El Pais - CC OO califica de electoralista la apertura de la nueva linea de cercanias",
+      "url": "https://elpais.com/diario/1989/09/24/madrid/622639455_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report dated 24 September 1989 stating that the new Atocha-Villaverde Alto Cercanias section entered service and listing Puente Alcocer among the four new stations.",
+      "relevance_es": "Crónica contemporánea del 24 de septiembre de 1989 que indica la entrada en servicio del nuevo tramo Atocha-Villaverde Alto de Cercanías y cita Puente Alcocer entre las cuatro estaciones nuevas."
+    },
+    {
+      "title": "El Pais - Renfe abre la linea Villaverde Alto-Atocha sin rematar las obras de las estaciones",
+      "url": "https://elpais.com/diario/1989/09/26/madrid/622815858_850215.html",
+      "type": "press",
+      "relevance_en": "Follow-up opening report explaining that the new section separated the Fuenlabrada-Villaverde-Madrid service from the Parla line and naming Puente Alcocer among the new stations used by first passengers.",
+      "relevance_es": "Crónica posterior de la apertura que explica que el nuevo tramo independizó la línea Fuenlabrada-Villaverde-Madrid de la de Parla y menciona Puente Alcocer entre las estaciones nuevas usadas por los primeros viajeros."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - QÁṢAR",
+      "url": "https://toponhisp.org/es/etimo/qasar",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic source explaining Andalusi qasar as 'palace, alcazar', its diminutive qusayr as 'small alcazar', and listing Alcocer among cognate Hispanic toponyms.",
+      "relevance_es": "Fuente toponímica autorizada que explica el andalusí qasar como 'palacio, alcázar', su diminutivo qusayr como 'alcazarejo' e incluye Alcocer entre los topónimos hispánicos cognados."
+    },
+    {
+      "title": "Geneanet / Dictionary of American Family Names 2nd ed. - Alcoser / Alcocer",
+      "url": "https://en.geneanet.org/surnames/ALCOSER",
+      "type": "reference",
+      "relevance_en": "Reference entry citing the Dictionary of American Family Names, 2nd edition, for Alcocer as a habitational name from places called Alcocer, from Arabic al + qusayr, 'small palace', diminutive of qasr, 'citadel'.",
+      "relevance_es": "Entrada de referencia que cita el Dictionary of American Family Names, 2.ª edición, para Alcocer como apellido/topónimo habitacional procedente de lugares llamados Alcocer, del árabe al + qusayr, 'pequeño palacio', diminutivo de qasr, 'ciudadela'."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as fact that an Islamic watchtower or small fortification stood at the station site; the sources found support the general Arabic etymology of Alcocer, not that local archaeological claim.",
+      "es": "No debe afirmarse como hecho que hubiera una atalaya o pequeña fortificación islámica en el emplazamiento de la estación; las fuentes localizadas respaldan la etimología árabe general de Alcocer, no esa afirmación arqueológica local."
+    },
+    {
+      "en": "Contemporary press described the 1989 Atocha-Villaverde Alto opening as a 10 km section with four new stations, not a 9 km section.",
+      "es": "La prensa contemporánea describió la apertura Atocha-Villaverde Alto de 1989 como un tramo de 10 km con cuatro nuevas estaciones, no como un tramo de 9 km."
+    },
+    {
+      "en": "The input row appears to place the opening year '1989' in the person_nationality field; this is metadata noise and should not be treated as a person attribute.",
+      "es": "La fila de entrada parece colocar el año de apertura '1989' en el campo person_nationality; es ruido de metadatos y no debe tratarse como atributo de una persona."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal naming records or historical cartography for an explicit Puente de Alcocer bridge label before marking the immediate bridge-name origin as fully verified.",
+      "es": "Conviene revisar expedientes municipales de denominación o cartografía histórica con una etiqueta explícita Puente de Alcocer antes de dar por plenamente verificado el origen inmediato en un puente concreto."
+    },
+    {
+      "en": "A local history or archaeology source for Villaverde would be needed to confirm or reject the proposed Islamic watchtower at this exact crossing.",
+      "es": "Haría falta una fuente de historia local o arqueología de Villaverde para confirmar o descartar la supuesta atalaya islámica en este paso concreto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_015/en/summary.short.md",
+      "summary": "content/stations/cercanias_015/en/summary.md",
+      "story": "content/stations/cercanias_015/en/story.md",
+      "confidence": "content/stations/cercanias_015/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_015/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_015/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_015/es/summary.short.md",
+      "summary": "content/stations/cercanias_015/es/summary.md",
+      "story": "content/stations/cercanias_015/es/story.md",
+      "confidence": "content/stations/cercanias_015/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_015/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_015/es/research-note.md"
+    }
+  }
+}

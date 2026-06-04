@@ -1,0 +1,1 @@
+La estación Parque Oeste toma su nombre del área Parque Oeste de Alcorcón, un desarrollo urbano de finales del siglo XX situado en el lado occidental del municipio. El nombre ya aparecía en documentación urbanística oficial antes de la apertura de MetroSur en 2003.

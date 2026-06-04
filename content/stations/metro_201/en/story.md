@@ -1,0 +1,9 @@
+The name **Aeropuerto T4** is practical and literal. It means “Airport T4” and points passengers to Terminal 4 of Madrid's main airport, now officially called Aeropuerto Adolfo Suárez Madrid-Barajas. The station name is therefore not an old place-name or a dedication to a person, but a transport label tied to a specific airport terminal.
+
+Terminal 4 was the great new area built for Madrid-Barajas in the early 2000s. Aena dates its inauguration to 4 February 2006, with the first commercial flight, Iberia IB2640 to Barcelona, departing early on 5 February 2006. The terminal and its satellite, T4S, were part of the wider Plan Barajas, intended to double airport capacity and modernise Madrid's role as an international hub.
+
+The Metro arrived after the terminal itself. Line 8 was extended to Aeropuerto T4 on 3 May 2007, giving the airport a second Metro station: one for terminals T1, T2 and T3, and one for T4. The Cercanías railway connection came later, with the T4 rail link inaugurated on 22 September 2011 and commercial service beginning on 23 September 2011.
+
+The name also evokes one of Madrid's best-known contemporary buildings. Terminal 4 was designed by Richard Rogers Partnership with Estudio Lamela; its long, wavy roof, warm bamboo ceiling and colour-coded structural supports made it an architectural landmark as well as a piece of transport infrastructure. The project won the 2006 RIBA Stirling Prize, strengthening the public association between “T4” and a very recognisable airport space.
+
+There is little doubt about the origin of the station name. The main nuance is administrative: when the Metro station opened, the airport was still commonly and officially Madrid-Barajas; in March 2014 the BOE changed the airport's official name to Aeropuerto Adolfo Suárez Madrid-Barajas. The station, however, kept the short functional name Aeropuerto T4, because the terminal number remains the information passengers need most.

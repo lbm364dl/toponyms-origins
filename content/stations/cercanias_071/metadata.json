@@ -1,0 +1,125 @@
+{
+  "id": "cercanias_071",
+  "name": "El Escorial",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "The municipality of El Escorial; the place name is best treated as probably from Latin scoria / Spanish escoria, with -al, meaning a place associated with slag, ash, or waste, though an aesculus/oak derivation remains contested.",
+  "previous_names": "Historical place-name forms include Escurial, Villa del Escurial, Villa del Escorial, El Escorial de Abajo, and El Escorial o El Escorial de Abajo. No separate former station name was confirmed.",
+  "naming_date": "The station name appears tied to the railway station opened with the Madrid-El Escorial section on 9 August 1861; the municipality was standardized as El Escorial in the 1916 municipal nomenclature reform.",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Escorial, El",
+      "url": "https://toponhisp.org/node/6479",
+      "type": "academic",
+      "relevance_en": "Provides the strongest current toponymic treatment consulted: derives the place name from SCORIA plus -ALE, documents historical forms such as Escurial, and notes El Escorial de Abajo naming variants.",
+      "relevance_es": "Aporta el tratamiento toponímico actual más sólido consultado: deriva el topónimo de SCORIA más -ALE, documenta formas históricas como Escurial y recoge variantes como El Escorial de Abajo."
+    },
+    {
+      "title": "Renfe: Estación de El Escorial",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-el-escorial",
+      "type": "official",
+      "relevance_en": "Confirms the railway station name and its role as a Renfe station serving El Escorial.",
+      "relevance_es": "Confirma el nombre de la estación ferroviaria y su función como estación de Renfe al servicio de El Escorial."
+    },
+    {
+      "title": "Renfe Rodajes Cercanías Madrid: Estación de El Escorial",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-escorial",
+      "type": "official",
+      "relevance_en": "States directly that the station is located in the municipality that bears the same name and describes the station facilities.",
+      "relevance_es": "Indica directamente que la estación se sitúa en el municipio que lleva el mismo nombre y describe sus instalaciones."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: El Escorial",
+      "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_29/",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport station entry, access points in El Escorial, and Cercanías correspondence shown as C-8a.",
+      "relevance_es": "Confirma la ficha actual de transporte público, los accesos en El Escorial y la correspondencia de Cercanías mostrada como C-8a."
+    },
+    {
+      "title": "Ayuntamiento de El Escorial: El Municipio",
+      "url": "https://elescorial.es/el-municipio/",
+      "type": "official",
+      "relevance_en": "Presents the municipality's own historical narrative and locally favoured tree-based explanation from ésculo, carvajos, or quejigos, plus medieval and early modern context.",
+      "relevance_es": "Presenta la narración histórica municipal y la explicación arbórea favorecida localmente a partir de ésculo, carvajos o quejigos, además del contexto medieval y moderno."
+    },
+    {
+      "title": "Ayuntamiento de El Escorial: Escudo y simbología",
+      "url": "https://elescorial.es/escudo-y-simbologia/",
+      "type": "official",
+      "relevance_en": "Documents the 1565 royal privilege that made El Escorial a villa and preserves the form Villa de El Escurial.",
+      "relevance_es": "Documenta el privilegio real de 1565 que convirtió El Escorial en villa y conserva la forma Villa de El Escurial."
+    },
+    {
+      "title": "CVC Rinconete: La Comunidad de Madrid y sus topónimos (II), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/junio_07/21062007_01.asp",
+      "type": "reference",
+      "relevance_en": "Gives an expert secondary interpretation deriving El Escorial from aesculiale, a collective from Latin aesculus, and places it among tree-name toponyms.",
+      "relevance_es": "Ofrece una interpretación secundaria experta que deriva El Escorial de aesculiale, colectivo del latín aesculus, y lo sitúa entre los topónimos arbóreos."
+    },
+    {
+      "title": "CVC Rinconete: Escoriales, pinos y cenizas, José Miguel Lorenzo Arribas",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/enero_07/12012007_01.htm",
+      "type": "reference",
+      "relevance_en": "Summarizes the Sigüenza scoria theory, Sarmiento's esculus theory, and Casiano de Prado's 1864 observation as used by later supporters of the tree theory.",
+      "relevance_es": "Resume la teoría scoria de Sigüenza, la teoría esculus de Sarmiento y la observación de Casiano de Prado de 1864 empleada por defensores posteriores de la teoría arbórea."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: escorial",
+      "url": "https://dle.rae.es/escorial",
+      "type": "reference",
+      "relevance_en": "Defines the common Spanish noun escorial as a place or heap for metallurgical slag, supporting the semantic plausibility of the scoria derivation.",
+      "relevance_es": "Define el sustantivo común escorial como sitio o montón de escorias metalúrgicas, lo que apoya la plausibilidad semántica de la derivación desde scoria."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española: escoria",
+      "url": "https://dle.rae.es/escoria",
+      "type": "reference",
+      "relevance_en": "Gives the Latin and Greek etymology of escoria and its meanings as metallurgical slag, volcanic scoria, and residue.",
+      "relevance_es": "Aporta la etimología latina y griega de escoria y sus sentidos como escoria metalúrgica, escoria volcánica y residuo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The recommended named-after value should not present the oak/esculus derivation as the preferred result; Toponomasticon Hispaniae currently favours scoria/escoria.",
+      "es": "El valor recomendado de named_after no debería presentar la derivación encina/esculus como la preferida; Toponomasticon Hispaniae favorece actualmente scoria/escoria."
+    },
+    {
+      "en": "The Spanish named_after field in the input contains untranslated English words, 'oak' and 'slag'; these should be rendered as 'encina/roble/quejigo' and 'escoria'.",
+      "es": "El campo named_after_es de entrada contiene palabras inglesas sin traducir, 'oak' y 'slag'; deberían aparecer como 'encina/roble/quejigo' y 'escoria'."
+    },
+    {
+      "en": "For current service metadata, transport sources found during research identify the station specifically with C-8a on CRTM, while Renfe's station page also mentions C3a; the broad input line C-8 may need operational review outside the etymology task.",
+      "es": "Para los metadatos de servicio actuales, las fuentes de transporte consultadas identifican la estación específicamente con C-8a en el CRTM, mientras la página de Renfe menciona también C3a; la línea general C-8 de la entrada puede requerir revisión operativa fuera de la tarea etimológica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspecting Casiano de Prado's 1864 Descripción física y geológica de la provincia de Madrid directly would refine how strongly his no-slag observation should weigh against the scoria theory.",
+      "es": "La consulta directa de la Descripción física y geológica de la provincia de Madrid de Casiano de Prado, de 1864, permitiría precisar cuánto peso debe darse a su observación sobre la ausencia de escorias frente a la teoría de scoria."
+    },
+    {
+      "en": "A railway archival source or timetable from 1861 would be useful to confirm the exact first official station wording, rather than inferring it from later historical summaries.",
+      "es": "Una fuente ferroviaria de archivo o un horario de 1861 sería útil para confirmar la formulación oficial inicial exacta de la estación, en vez de inferirla de resúmenes históricos posteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_071/en/summary.short.md",
+      "summary": "content/stations/cercanias_071/en/summary.md",
+      "story": "content/stations/cercanias_071/en/story.md",
+      "confidence": "content/stations/cercanias_071/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_071/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_071/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_071/es/summary.short.md",
+      "summary": "content/stations/cercanias_071/es/summary.md",
+      "story": "content/stations/cercanias_071/es/story.md",
+      "confidence": "content/stations/cercanias_071/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_071/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_071/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La Moraleja station is named for the nearby La Moraleja area of Alcobendas. The place-name Moraleja is most probably a diminutive collective from mora, referring to mulberry or related bramble fruit plants.

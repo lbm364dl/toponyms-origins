@@ -1,0 +1,1 @@
+La estación de La Garena toma su nombre del actual barrio alcalaíno de La Garena. El nombre del barrio conserva el de una antigua heredad, documentada como La Garena o La Garcena en torno a 1495 en relación con la familia Lucena.

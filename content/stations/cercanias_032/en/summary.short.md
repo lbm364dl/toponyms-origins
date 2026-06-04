@@ -1,0 +1,1 @@
+The Cercanías station takes its name from the municipality of Colmenar Viejo. The place-name is best read as 'old apiary' or 'old place of beehives', while the famous story of an old beekeeper is an early local tradition rather than the safest linguistic explanation.

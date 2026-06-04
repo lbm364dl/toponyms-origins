@@ -1,0 +1,1 @@
+La Serna-Fuenlabrada is named for the La Serna neighbourhood in northern Fuenlabrada. The place-name La Serna comes from an old agricultural word, serna, meaning a portion of sown land or land worked separately.

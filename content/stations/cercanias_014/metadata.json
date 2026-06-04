@@ -1,0 +1,136 @@
+{
+  "id": "cercanias_014",
+  "name": "Orcasitas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Pedro Bernardo Orcasitas Ruiz / familia Orcasitas",
+  "previous_names": "Barrio de Orcasitas assigned in Usera by Ayuntamiento de Madrid agreement of 27-03-1987; earlier Barrio de Orcasitas assigned in Villaverde by agreement of 31-10-1968 and suppressed on 27-03-1987. No former station name found.",
+  "naming_date": "Station naming date not found; the barrio name appears in official toponymic records before the current Usera barrio assignment of 27-03-1987.",
+  "sources": [
+    {
+      "title": "Adif - 35703 Orcasitas",
+      "url": "https://www.adif.es/-/35703-orcasitas",
+      "type": "official",
+      "relevance_en": "Confirms the current official Adif station name, address at Calle Campotejar, and C-5 service shown for Orcasitas.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación en Adif, su dirección en la calle Campotejar y el servicio C-5 mostrado para Orcasitas."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Orcasitas",
+      "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_52.aspx",
+      "type": "official",
+      "relevance_en": "Confirms Orcasitas as a Cercanías station in fare zone A with C-5 correspondence and access points on Campotejar and Censo.",
+      "relevance_es": "Confirma Orcasitas como estación de Cercanías en zona tarifaria A, con correspondencia C-5 y accesos por Campotejar y Censo."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 35703 Orcasitas",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35703.pdf",
+      "type": "official",
+      "relevance_en": "Provides a Renfe station sheet naming ORCASITAS, code 35703, operator Renfe Viajeros, municipality Madrid, and commercial line C5.",
+      "relevance_es": "Aporta la ficha de Renfe con el nombre ORCASITAS, código 35703, explotador Renfe Viajeros, municipio de Madrid y línea comercial C5."
+    },
+    {
+      "title": "Luis Miguel Aparisi Laporta, 'Presencia de corregidores, alcaldes, regidores y concejales en la toponimia madrileña', Anales del Instituto de Estudios Madrileños, tomo XXXIX, 1999",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3006417.pdf",
+      "type": "academic",
+      "relevance_en": "Identifies Barrio de Orcasitas as a reference to Pedro Bernardo Orcasitas Ruiz, landowner, councillor, and acting mayor, and records municipal naming dates for the barrio.",
+      "relevance_es": "Identifica el Barrio de Orcasitas como mención a Pedro Bernardo Orcasitas Ruiz, propietario, concejal y alcalde interino, y recoge fechas municipales de denominación del barrio."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Alcaldes de Madrid. 1842-1900",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Un-paseo-por-su-historia/Alcaldes-de-Madrid-1842-1900/?vgnextchannel=5eccbadb6b997010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=85a81a6795ff9010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Pedro Bernardo Orcasitas as mayor of Madrid in 1873-1874, supporting correction of the erroneous 1878 birth claim.",
+      "relevance_es": "Confirma a Pedro Bernardo Orcasitas como alcalde de Madrid en 1873-1874, lo que respalda la corrección de la fecha errónea de nacimiento en 1878."
+    },
+    {
+      "title": "COAM / Fundación Arquitectura - Arquitectura de Madrid: Orcasitas",
+      "url": "https://fcoam.eu/guia/F3/F3.364.htm",
+      "type": "reference",
+      "relevance_en": "States that the Orcasitas family, majority owner of the land, gave its name to the area where migrant labourers settled between 1940 and 1960, and summarizes the 1970s redevelopment conflict.",
+      "relevance_es": "Afirma que la familia Orcasitas, propietaria mayoritaria de los terrenos, dio nombre a la zona donde se asentó mano de obra inmigrante entre 1940 y 1960, y resume el conflicto de remodelación de los años setenta."
+    },
+    {
+      "title": "Asociación de Vecinos Guetaria - Historia del Poblado Dirigido de Orcasitas",
+      "url": "https://avguetaria.es/historia-del-poblado-dirigido-de-orcasitas/",
+      "type": "other",
+      "relevance_en": "Neighbourhood history quoting the toponymic attribution to Pedro Bernardo Orcasitas Ruiz, noting María Orcasitas as a later landowner and describing the Poblado Dirigido context.",
+      "relevance_es": "Historia vecinal que cita la atribución toponímica a Pedro Bernardo Orcasitas Ruiz, menciona a María Orcasitas como propietaria posterior y describe el contexto del Poblado Dirigido."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Plan Integral de Barrio Meseta de Orcasitas, PIBA Usera 2019",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Fondo_Reequilibrio_Territorial/Folleto_Usera/PIBAs_Usera_Info-2019.pdf",
+      "type": "official",
+      "relevance_en": "Gives official municipal chronology for the 1950s settlement, the 1971 plan, the 1977 Supreme Court ruling on the binding memorandum, the 1979 redevelopment start, and completion in 1986.",
+      "relevance_es": "Aporta cronología municipal oficial sobre el asentamiento de los años cincuenta, el plan de 1971, la sentencia del Supremo de 1977 sobre la memoria vinculante, el inicio de la remodelación en 1979 y su culminación en 1986."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Características y actuaciones 2009-2012, Meseta de Orcasitas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Planes_Barrio/2009-2012/08_Meseta_Orcasitas/Caracteristicas_Actuaciones_2009-2012_Meseta-Orcasitas.pdf",
+      "type": "official",
+      "relevance_en": "Provides municipal context for Usera's agricultural past, mid-20th-century migration, the 1976 partial plan, and the location of Orcasitas station at the edge of Orcasur.",
+      "relevance_es": "Aporta contexto municipal sobre el pasado agrícola de Usera, la inmigración de mediados del siglo XX, el plan parcial de 1976 y la ubicación de la estación de Orcasitas en el límite con Orcasur."
+    },
+    {
+      "title": "Auñamendi Eusko Entziklopedia - Horcasitas",
+      "url": "https://aunamendi.eusko-ikaskuntza.eus/es/horcasitas/ar-52392/",
+      "type": "reference",
+      "relevance_en": "Identifies Horcasitas/Orcasitas as a Basque surname associated with Horcasitas in Arcentales and Santa María de Traslaviña, but marks the etymology as problematic.",
+      "relevance_es": "Identifica Horcasitas/Orcasitas como apellido vasco vinculado a Horcasitas en Arcentales y a Santa María de Traslaviña, pero califica su etimología de problemática."
+    },
+    {
+      "title": "FamilySearch Catalog - Las casas de Horcasitas y de Quintana",
+      "url": "https://www.familysearch.org/search/catalog/529710",
+      "type": "book",
+      "relevance_en": "Bibliographic cue for a genealogy of the Horcasitas/Orcasitas lineage from the valley of Arcentales; useful but not directly inspected beyond the catalog description.",
+      "relevance_es": "Referencia bibliográfica de una genealogía del linaje Horcasitas/Orcasitas procedente del valle de Arcentales; útil, aunque no se ha inspeccionado directamente más allá de la descripción del catálogo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Pedro Orcasitas Ruiz (b. 1878)' with 'Pedro Bernardo Orcasitas Ruiz'; the documented person was acting mayor of Madrid in 1873-1874, so a 1878 birth date is untenable.",
+      "es": "Sustituir 'Pedro Orcasitas Ruiz (n. 1878)' por 'Pedro Bernardo Orcasitas Ruiz'; la persona documentada fue alcalde interino de Madrid en 1873-1874, por lo que una fecha de nacimiento de 1878 es imposible."
+    },
+    {
+      "en": "Do not state as verified that Pedro Bernardo donated land for worker housing; the stronger sources describe ownership by the Orcasitas family and later expropriation/redevelopment, while one secondary account mentions a later donation by a daughter for a school.",
+      "es": "No afirmar como verificado que Pedro Bernardo donó terrenos para viviendas obreras; las fuentes más sólidas hablan de propiedad de la familia Orcasitas y posterior expropiación/remodelación, mientras que una fuente secundaria menciona una donación posterior de una hija para un colegio."
+    },
+    {
+      "en": "Treat the Basque surname meaning 'parcel of the roe deer' as unverified; Auñamendi says the etymology of Horcasitas is problematic.",
+      "es": "Tratar como no verificado el significado vasco del apellido como 'parcela del corzo'; Auñamendi señala que la etimología de Horcasitas es problemática."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal naming files or railway records to find the exact date on which the Cercanías station received the name Orcasitas.",
+      "es": "Consultar expedientes municipales de denominación o archivos ferroviarios para localizar la fecha exacta en que la estación de Cercanías recibió el nombre de Orcasitas."
+    },
+    {
+      "en": "Verify Pedro Bernardo Orcasitas Ruiz's full birth data and family relationship to María or 'Marichu' Orcasitas through civil, parish, notarial, or land-registry records.",
+      "es": "Verificar los datos completos de nacimiento de Pedro Bernardo Orcasitas Ruiz y su relación familiar con María o 'Marichu' Orcasitas mediante registros civiles, parroquiales, notariales o de propiedad."
+    },
+    {
+      "en": "Check Isabel Gea's toponymic works and the original 'Toponimia Madrileña' entry, if available in print, for the precise wording and supporting archive references.",
+      "es": "Revisar las obras toponímicas de Isabel Gea y la entrada original de 'Toponimia Madrileña', si está disponible en papel, para confirmar la redacción exacta y sus referencias documentales."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_014/en/summary.short.md",
+      "summary": "content/stations/cercanias_014/en/summary.md",
+      "story": "content/stations/cercanias_014/en/story.md",
+      "confidence": "content/stations/cercanias_014/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_014/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_014/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_014/es/summary.short.md",
+      "summary": "content/stations/cercanias_014/es/summary.md",
+      "story": "content/stations/cercanias_014/es/story.md",
+      "confidence": "content/stations/cercanias_014/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_014/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_014/es/research-note.md"
+    }
+  }
+}

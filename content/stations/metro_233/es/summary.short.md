@@ -1,0 +1,1 @@
+La estación de Arroyo Culebro recibe su nombre del arroyo Culebro, cauce y zona urbana del entorno de Getafe y Leganés. El hidrónimo significa aproximadamente «arroyo de la culebra», aunque la idea de que aluda concretamente a su trazado sinuoso sigue siendo una inferencia.

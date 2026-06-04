@@ -1,0 +1,1 @@
+Parque Lisboa is named for the Alcorcón neighborhood and local place name around the station, ultimately referring to Lisbon, Portugal. The area was part of Alcorcón's late-1960s expansion between San José de Valderas and the old town.

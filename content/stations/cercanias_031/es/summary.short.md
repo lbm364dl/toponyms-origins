@@ -1,0 +1,1 @@
+El Goloso toma su nombre de la zona de El Goloso junto a la carretera de Madrid a Colmenar, hoy conocida sobre todo por su base militar. El topónimo está documentado antes de la primera piedra del cuartel en 1933, pero su significado original es incierto.

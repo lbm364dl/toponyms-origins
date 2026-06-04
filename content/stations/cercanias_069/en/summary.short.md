@@ -1,0 +1,1 @@
+Galapagar-La Navata is a compound station name: it identifies the municipality of Galapagar and the nearby La Navata area. Galapagar is strongly explained as 'place abundant in galápagos', while La Navata probably refers to a small nava, a flat open or sometimes wet piece of land among hills.

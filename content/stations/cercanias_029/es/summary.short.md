@@ -1,0 +1,1 @@
+El nombre de la estación identifica la zona de Cantoblanco y el campus de la UAM al que fue construida para dar servicio. El topónimo Cantoblanco es anterior a la universidad, pero su significado último está discutido.

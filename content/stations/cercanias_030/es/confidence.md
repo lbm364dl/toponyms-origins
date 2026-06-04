@@ -1,0 +1,1 @@
+La denominación de la estación está verificada por fuentes de Renfe y del CRTM: es la parada de Cercanías de Alcobendas y San Sebastián de los Reyes. La confianza se marca como probable y no plenamente verificada porque la etimología profunda de Alcobendas está expresamente sin resolver en Toponomasticon Hispaniae, aunque San Sebastián de los Reyes sí está bien documentado.

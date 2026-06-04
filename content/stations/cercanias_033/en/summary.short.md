@@ -1,0 +1,1 @@
+The station is named for two nearby references: the Assembly of Madrid and the older Entrevías neighbourhood. Entrevías means a place between railway tracks, a description of a barrio long divided and bordered by rail lines.

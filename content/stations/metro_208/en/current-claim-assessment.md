@@ -1,0 +1,1 @@
+The core claim is likely right: the station name is tied to the nearby Virgen de Begoña residential area, whose name ultimately refers to Our Lady of Begoña. However, the proposed Basque etymology and the claim that the colony was built specifically for many Basque or northern workers are weak or unsupported by the best sources found.

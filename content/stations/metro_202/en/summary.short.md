@@ -1,0 +1,1 @@
+Rivas-Urbanizaciones is named for the residential housing estates of north-western Rivas-Vaciamadrid, especially the Covibar area it serves. It opened on 7 April 1999 as part of Line 9's extension from Puerta de Arganda to Arganda del Rey.

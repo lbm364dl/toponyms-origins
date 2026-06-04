@@ -1,0 +1,1 @@
+La estación de Azuqueca recibe el nombre del municipio de Azuqueca de Henares. El topónimo se explica mejor a partir del árabe sukayka, un diminutivo que alude a un camino, caminito o callejuela en torno al cual se formó el asentamiento primitivo.

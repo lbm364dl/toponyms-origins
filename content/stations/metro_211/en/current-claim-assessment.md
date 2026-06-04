@@ -1,0 +1,1 @@
+The core claim is mostly supported: the station is officially located at and accessed from Calle de La Granja in Alcobendas, within the industrial estate. The agricultural explanation is plausible from the ordinary meaning of 'granja', but I found no official street-naming record proving that the street was deliberately named for former farmland.

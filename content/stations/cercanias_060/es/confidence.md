@@ -1,0 +1,1 @@
+La denominacion inmediata de la estacion por el municipio esta verificada por datos oficiales de Renfe y del CRTM. La etimologia profunda solo es probable porque las fuentes inspeccionadas apoyan una interpretacion relacionada con el agua, pero discrepan sobre si la via linguistica es hidronimia paleoeuropea o el latin humidus.

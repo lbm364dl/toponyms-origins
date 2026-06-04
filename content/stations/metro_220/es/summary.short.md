@@ -1,0 +1,1 @@
+La estación de Abrantes toma su nombre de la avenida de Abrantes y del barrio de Carabanchel al que sirve. Lo más probable es que el nombre pertenezca al conjunto local de topónimos portugueses en torno a la avenida de Oporto, más que a una dedicatoria directamente documentada a los duques de Abrantes.

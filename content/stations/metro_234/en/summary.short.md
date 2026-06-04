@@ -1,0 +1,1 @@
+Conservatorio is named for the Conservatorio Profesional de Musica de Getafe, the public music conservatory beside the station area on Avenida de las Arcas del Agua. The stop opened with MetroSur on 11 April 2003.

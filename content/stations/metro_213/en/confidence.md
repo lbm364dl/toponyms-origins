@@ -1,0 +1,1 @@
+The etymology is supported by the official Baunatal town page documenting the 28 August 1990 twinning and by contemporary Madrid coverage stating that the station name was an homage to that German twin city. The opening date and MetroNorte context are independently supported by transport chronology sources.

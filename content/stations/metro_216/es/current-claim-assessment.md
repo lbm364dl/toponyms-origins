@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación toma su nombre de la Avenida de la Peseta y del tema viario del PAU dedicado a la antigua moneda española. Conviene matizar algunos detalles: la peseta convivió con el euro hasta el 28 de febrero de 2002 y la etimología de la palabra no es tan tajante como se afirma.

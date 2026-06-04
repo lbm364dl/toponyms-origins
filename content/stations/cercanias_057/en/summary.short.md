@@ -1,0 +1,1 @@
+Parque Polvoranca station is named after the nearby Parque de Polvoranca, a large periurban green space in Leganés. The park preserves the name of the former village of Polvoranca, whose deeper etymology is debated and should not be presented as certain.

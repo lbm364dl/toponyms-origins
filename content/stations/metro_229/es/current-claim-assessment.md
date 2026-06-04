@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación tiene un nombre descriptivo de MetroSur por el Hospital Universitario de Fuenlabrada situado junto a ella. La cronología del hospital es básicamente correcta, pero la frase de que Fuenlabrada era la mayor ciudad española sin hospital debe matizarse: la fuente oficial dice que era la única gran ciudad española sin hospital.

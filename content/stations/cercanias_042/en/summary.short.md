@@ -1,0 +1,1 @@
+Alcalá de Henares Universidad is named for the Universidad de Alcalá, whose modern campus lies beside the station. The name points back to the university founded in Alcalá in 1499 and restored as a public university in 1977.

@@ -1,0 +1,125 @@
+{
+  "id": "cercanias_017",
+  "name": "San Cristóbal Industrial",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "San Cristóbal de los Ángeles area and the industrial district of Villaverde",
+  "previous_names": "San Cristóbal (reported by secondary sources, not confirmed in an official naming act)",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - San Cristóbal Industrial",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_70/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, C-3 connection, EMT T41 connection and access at Calle Transversal Sexta, 32, Madrid.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, la conexión con C-3, la conexión con la EMT T41 y el acceso en la calle Transversal Sexta, 32, Madrid."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 60101 San Cristóbal Industrial",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion60101.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station file placing San Cristóbal Industrial at S/N, Polígono Industrial de Villaverde, Madrid, supporting the descriptive industrial interpretation.",
+      "relevance_es": "Ficha de estación de Renfe que sitúa San Cristóbal Industrial en S/N, Polígono Industrial de Villaverde, Madrid, lo que respalda la interpretación descriptiva industrial."
+    },
+    {
+      "title": "Adif - 60101 S. Cristóbal Ind.",
+      "url": "https://www.adif.es/-/60101-s.-crist%C3%B3bal-ind.",
+      "type": "official",
+      "relevance_en": "Adif confirms the station as part of the current rail infrastructure and identifies it by the official current name.",
+      "relevance_es": "Adif confirma la estación como parte de la infraestructura ferroviaria actual y la identifica con el nombre oficial vigente."
+    },
+    {
+      "title": "BOE-A-2006-16324 - Cercanías de Madrid. Línea C-3. 3.ª y 4.ª vías entre San Cristóbal de los Ángeles y Getafe Industrial",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2006-16324",
+      "type": "official",
+      "relevance_en": "Official BOE environmental decision mentioning the San Cristóbal Industrial station in the C-3 corridor and describing works between San Cristóbal de los Ángeles and Getafe Industrial.",
+      "relevance_es": "Decisión ambiental oficial del BOE que menciona la estación de San Cristóbal Industrial en el corredor C-3 y describe actuaciones entre San Cristóbal de los Ángeles y Getafe Industrial."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - San Cristóbal de los Ángeles, diez años renovando el barrio",
+      "url": "https://www.madrid.es/portales/munimadrid/es/San-Cristobal-de-los-Angeles-diez-anos-renovando-el-barrio/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=cad743ead9de8210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source describing San Cristóbal de los Ángeles as a protected-housing neighbourhood in Villaverde born in the 1960s as a poblado dirigido.",
+      "relevance_es": "Fuente municipal que describe San Cristóbal de los Ángeles como barrio de vivienda protegida de Villaverde nacido en los años sesenta como poblado dirigido."
+    },
+    {
+      "title": "Fundación Arquitectura COAM - Poblado dirigido de San Cristóbal de los Ángeles",
+      "url": "https://fcoam.eu/guia/F3/F3.358.htm",
+      "type": "reference",
+      "relevance_en": "Architectural reference identifying the Poblado Dirigido de San Cristóbal de los Ángeles and noting 6,077 subsidised homes built in phases from 1959.",
+      "relevance_es": "Referencia arquitectónica que identifica el Poblado Dirigido de San Cristóbal de los Ángeles y señala 6.077 viviendas subvencionadas construidas por fases desde 1959."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Prolongación de la calle San Eustaquio",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-Ayuntamiento-prolongara-la-calle-San-Eustaquio-para-conectarla-con-la-Gran-Via-de-Villaverde-una-actuacion-clave-para-el-distrito/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=8212f68f6cd76810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source linking the area around the station with the La Resina, Los Ángeles and Colonia Marconi industrial/business zones and the San Cristóbal railway stop.",
+      "relevance_es": "Fuente municipal que vincula el entorno de la estación con los polígonos de La Resina, Los Ángeles y la Colonia Marconi y con el apeadero ferroviario de San Cristóbal."
+    },
+    {
+      "title": "Turismo Madrid - La Nave (antigua Fábrica Boetticher)",
+      "url": "https://www.esmadrid.com/informacion-turistica/nave-antigua-fabrica-boetticher",
+      "type": "official",
+      "relevance_en": "Official tourism page describing the former Boetticher factory in Villaverde, built in the 1940s and used as a factory until 1992, as industrial context for the district.",
+      "relevance_es": "Página turística oficial que describe la antigua fábrica Boetticher de Villaverde, construida en los años cuarenta y utilizada como fábrica hasta 1992, como contexto industrial del distrito."
+    },
+    {
+      "title": "Fundación Eduardo Barreiros - Eduardo Barreiros",
+      "url": "https://fundacionbarreiros.com/en/biografia-eduardo-barreiros/",
+      "type": "reference",
+      "relevance_en": "Biographical foundation source documenting Barreiros's Villaverde factory and its role in Spanish industrial and motor history.",
+      "relevance_es": "Fuente biográfica de la fundación que documenta la factoría Barreiros de Villaverde y su papel en la historia industrial y automovilística española."
+    },
+    {
+      "title": "Estación de San Cristóbal Industrial - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_San_Crist%C3%B3bal_Industrial",
+      "type": "reference",
+      "relevance_en": "Secondary orientation source reporting that the station was formerly called San Cristóbal and is located in Villaverde's industrial area beside Colonia Marconi; useful but not decisive.",
+      "relevance_es": "Fuente secundaria de orientación que indica que la estación se llamó antes San Cristóbal y que está situada en el área industrial de Villaverde junto a la Colonia Marconi; útil pero no decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'San Cristóbal Industrial estate (Valdemoro)' with a Madrid/Villaverde referent: the San Cristóbal de los Ángeles area and the industrial district of Villaverde.",
+      "es": "Sustituir 'Polígono industrial de San Cristóbal (Valdemoro)' por un referente madrileño/de Villaverde: el entorno de San Cristóbal de los Ángeles y el área industrial de Villaverde."
+    },
+    {
+      "en": "Do not present the 2004 opening date as verified unless an official source is found; current accessible evidence is secondary.",
+      "es": "No presentar la fecha de inauguración de 2004 como verificada salvo que se encuentre una fuente oficial; la evidencia accesible actual es secundaria."
+    },
+    {
+      "en": "The Barreiros and other factory context is useful background for Villaverde's industrial identity, but it should be framed as context, not as the direct source of the station name.",
+      "es": "El contexto de Barreiros y de otras fábricas es útil para la identidad industrial de Villaverde, pero debe formularse como contexto, no como origen directo del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find an official Renfe, Adif, CRTM or BOE document that records the exact opening date of the passenger stop and any formal renaming from San Cristóbal to San Cristóbal Industrial.",
+      "es": "Localizar un documento oficial de Renfe, Adif, CRTM o BOE que recoja la fecha exacta de apertura del apeadero de viajeros y cualquier cambio formal de nombre de San Cristóbal a San Cristóbal Industrial."
+    },
+    {
+      "en": "Check printed Cercanías timetables or network maps from the late 1980s and early 1990s to confirm when the old name San Cristóbal disappeared.",
+      "es": "Revisar horarios impresos o planos de Cercanías de finales de los años ochenta y comienzos de los noventa para confirmar cuándo desapareció el nombre antiguo San Cristóbal."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_017/en/summary.short.md",
+      "summary": "content/stations/cercanias_017/en/summary.md",
+      "story": "content/stations/cercanias_017/en/story.md",
+      "confidence": "content/stations/cercanias_017/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_017/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_017/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_017/es/summary.short.md",
+      "summary": "content/stations/cercanias_017/es/summary.md",
+      "story": "content/stations/cercanias_017/es/story.md",
+      "confidence": "content/stations/cercanias_017/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_017/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_017/es/research-note.md"
+    }
+  }
+}

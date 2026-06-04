@@ -1,0 +1,1 @@
+La Garena station is named after the modern La Garena district of Alcalá de Henares. The district’s name preserves an older estate, documented as La Garena or La Garcena in the Lucena family records around 1495.

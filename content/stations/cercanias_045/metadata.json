@@ -1,0 +1,122 @@
+{
+  "id": "cercanias_045",
+  "name": "Guadalajara",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Guadalajara, the city served by the station; from Arabic Wad al-Hayara / Wadi al-Hijara, traditionally interpreted as 'river/valley of stones' and linked to the older name Arriaca",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - Guadalajara",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_38/",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming Guadalajara as a Cercanias station with C-2 and C-8 correspondences and giving its access at Plaza de la Estacion, Guadalajara.",
+      "relevance_es": "Página actual de la autoridad de transporte que confirma Guadalajara como estación de Cercanías con correspondencias C-2 y C-8 y sitúa su acceso en la Plaza de la Estación, Guadalajara."
+    },
+    {
+      "title": "Adif - 70200 Guadalajara",
+      "url": "https://www.adifaltavelocidad.es/es/web/adif/w/70200-guadalajara",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming the station name Guadalajara and its address at Calle Francisco Aritio, s/n.",
+      "relevance_es": "Página oficial de infraestructura que confirma el nombre de la estación, Guadalajara, y su dirección en la calle Francisco Aritio, s/n."
+    },
+    {
+      "title": "Turismo Guadalajara - Historia",
+      "url": "https://turismo.guadalajara.es/es/descubre-guadalajara/historia/",
+      "type": "official",
+      "relevance_en": "Municipal source stating that Guadalajara was known as Madinat al-Faray and Wad al-Hayara, and explaining Wad al-Hayara as the Arabic translation of pre-Roman Arriaca; also gives the 1085 incorporation into Castile.",
+      "relevance_es": "Fuente municipal que indica que Guadalajara fue conocida como Madinat al-Faray y Wad al-Hayara, y explica Wad al-Hayara como traducción árabe del prerromano Arriaca; también da la incorporación a Castilla en 1085."
+    },
+    {
+      "title": "Turismo Guadalajara - Our History",
+      "url": "https://turismo.guadalajara.es/en/discover-guadalajara/our-history/",
+      "type": "official",
+      "relevance_en": "English municipal version confirming the same origin narrative: Madinat al-Faray, Wad al-Hayara as Arabic translation of Arriaca, and the 1085 Castilian chronology.",
+      "relevance_es": "Versión inglesa municipal que confirma la misma narración de origen: Madinat al-Faray, Wad al-Hayara como traducción árabe de Arriaca y la cronología castellana de 1085."
+    },
+    {
+      "title": "Dialnet - Los nombres Arriaca, Alcarria y Guadalajara: su contexto, significado y otras particularidades",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=1309036",
+      "type": "academic",
+      "relevance_en": "Bibliographic record for Jose Antonio Ranz Yubero's specialist toponymy article in Wad-al-Hayara, identifying a scholarly source specifically on Arriaca, Alcarria, and Guadalajara.",
+      "relevance_es": "Registro bibliográfico del artículo especializado de toponimia de José Antonio Ranz Yubero en Wad-al-Hayara, que identifica una fuente académica específica sobre Arriaca, Alcarria y Guadalajara."
+    },
+    {
+      "title": "Portal Cientifico UAH - Los nombres Arriaca, Alcarria y Guadalajara",
+      "url": "https://portalcientifico.uah.es/documentos/61567bcef4a2be562344a54e?lang=en",
+      "type": "academic",
+      "relevance_en": "University research portal record confirming author, journal, year, issue, and page range for the Ranz Yubero toponymy article.",
+      "relevance_es": "Registro de portal universitario que confirma autor, revista, año, número y páginas del artículo toponímico de Ranz Yubero."
+    },
+    {
+      "title": "Spain.info - Infantado Palace",
+      "url": "https://www.spain.info/en/places-of-interest/palace-infantado/",
+      "type": "official",
+      "relevance_en": "Official tourism source for the Palacio del Infantado context: Mendoza family, construction begun in 1480 by Juan Guas, bombardment in 1936, restoration from 1961 to 1973, and current use as Museum of Guadalajara.",
+      "relevance_es": "Fuente turística oficial para el contexto del Palacio del Infantado: familia Mendoza, construcción iniciada en 1480 por Juan Guas, bombardeo en 1936, restauración de 1961 a 1973 y uso actual como Museo de Guadalajara."
+    },
+    {
+      "title": "Turismo Castilla-La Mancha - Palacio del Infantado (Museo de Guadalajara)",
+      "url": "https://www.turismocastillalamancha.es/es/cultura-y-patrimonio/museos/guadalajara/palacio-del-infantado-museo-de-guadalajara",
+      "type": "official",
+      "relevance_en": "Regional tourism source describing the palace as a late fifteenth-century Mendoza building, a major Gothic-Isabelline monument, and the seat of the Museum of Guadalajara.",
+      "relevance_es": "Fuente turística regional que describe el palacio como edificio mendocino de finales del siglo XV, gran monumento del gótico isabelino y sede del Museo de Guadalajara."
+    },
+    {
+      "title": "ARS Magazine - El bombardeo del Palacio del Infantado",
+      "url": "https://arsmagazine.com/el-bombardeo-del-palacio-del-infantado/",
+      "type": "press",
+      "relevance_en": "Art press article tied to Museo Provincial de Guadalajara programming; gives the specific 6 December 1936 date for the bombing and notes later rehabilitation culminating in 1973.",
+      "relevance_es": "Artículo de prensa artística vinculado a la programación del Museo Provincial de Guadalajara; da la fecha concreta del 6 de diciembre de 1936 para el bombardeo y señala la rehabilitación posterior culminada en 1973."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the simple phrase 'valley of stones, describing the gravelly Henares river' with a more cautious formula: Arabic Wad al-Hayara / Wadi al-Hijara, traditionally interpreted as a stone-related name and presented by the city council as an Arabic translation of pre-Roman Arriaca.",
+      "es": "Sustituir la frase simple 'valle de piedras, en alusión al lecho pedregoso del Henares' por una fórmula más prudente: árabe Wad al-Hayara / Wadi al-Hijara, interpretado tradicionalmente como un nombre relacionado con las piedras y presentado por el Ayuntamiento como traducción árabe del prerromano Arriaca."
+    },
+    {
+      "en": "Do not make the Palacio del Infantado the etymological focus. It is valuable city context, but it does not explain the station name.",
+      "es": "No convertir el Palacio del Infantado en el eje etimológico. Es un contexto urbano valioso, pero no explica el nombre de la estación."
+    },
+    {
+      "en": "If keeping the Civil War detail, cite it precisely: Spain.info supports bombardment in 1936 and restoration between 1961 and 1973; ARS Magazine gives the specific date of 6 December 1936 and attributes the attack to Francoist aviation.",
+      "es": "Si se mantiene el detalle de la Guerra Civil, conviene citarlo con precisión: Spain.info respalda el bombardeo de 1936 y la restauración entre 1961 y 1973; ARS Magazine da la fecha concreta del 6 de diciembre de 1936 y atribuye el ataque a la aviación franquista."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the full text of Jose Antonio Ranz Yubero, 'Los nombres Arriaca, Alcarria y Guadalajara: su contexto, significado y otras particularidades', Wad-al-Hayara 18 (1991), pp. 475-480, and his Diccionario de toponimia de Guadalajara for the strongest scholarly wording.",
+      "es": "Consultar el texto completo de José Antonio Ranz Yubero, 'Los nombres Arriaca, Alcarria y Guadalajara: su contexto, significado y otras particularidades', Wad-al-Hayara 18 (1991), pp. 475-480, y su Diccionario de toponimia de Guadalajara para obtener la formulación académica más sólida."
+    },
+    {
+      "en": "Find a primary railway document for the original 1859 station naming if the dataset needs a naming_date field; current official station pages confirm the present name but not the act or date of assignment.",
+      "es": "Localizar un documento ferroviario primario sobre la denominación original de la estación de 1859 si el conjunto de datos necesita el campo naming_date; las páginas oficiales actuales confirman el nombre vigente, pero no el acto ni la fecha de asignación."
+    },
+    {
+      "en": "Clarify in specialist literature whether Arriaca is securely identified with the present city site or should be treated as a traditional but partly uncertain association.",
+      "es": "Aclarar en bibliografía especializada si Arriaca se identifica con seguridad con el emplazamiento de la ciudad actual o si debe tratarse como una asociación tradicional con parte de incertidumbre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_045/en/summary.short.md",
+      "summary": "content/stations/cercanias_045/en/summary.md",
+      "story": "content/stations/cercanias_045/en/story.md",
+      "confidence": "content/stations/cercanias_045/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_045/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_045/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_045/es/summary.short.md",
+      "summary": "content/stations/cercanias_045/es/summary.md",
+      "story": "content/stations/cercanias_045/es/story.md",
+      "confidence": "content/stations/cercanias_045/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_045/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_045/es/research-note.md"
+    }
+  }
+}

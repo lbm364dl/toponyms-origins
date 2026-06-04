@@ -1,0 +1,1 @@
+La estación recibe sin duda el nombre del municipio de Móstoles, pero la explicación profunda que deriva el topónimo del latín monisterium o monisteriis, 'monasterios', es solo una teoría plausible y no debe presentarse como segura.

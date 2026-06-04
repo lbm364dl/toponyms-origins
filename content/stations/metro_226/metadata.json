@@ -1,0 +1,107 @@
+{
+  "id": "metro_226",
+  "name": "Pradillo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza del Pradillo, Móstoles",
+  "previous_names": "No former station name found. For the square/place, secondary local-history sources report Plaza del Perezal, Pedreçal, Plaza de Abajo del Perezal, and later Pradillo del Caño.",
+  "naming_date": "Station opened with MetroSur on 2003-04-11; no separate station naming act found.",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page locating Pradillo station in the old centre of Móstoles between Agustina de Aragón, Dos de Mayo and Mártires, and listing it among the Móstoles MetroSur stations.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que ubica la estación de Pradillo en el casco antiguo de Móstoles, entre Agustina de Aragón, Dos de Mayo y Mártires, y la incluye entre las estaciones mostoleñas de MetroSur."
+    },
+    {
+      "title": "La Comunidad de Madrid celebra el 20º aniversario de Metrosur",
+      "url": "https://www.comunidad.madrid/noticias/2023/03/31/comunidad-madrid-celebra-20o-aniversario-metrosur-homenaje-cinco-municipios-circula",
+      "type": "official",
+      "relevance_en": "Confirms that the 28 MetroSur stations opened on 11 April 2003 and connected Alcorcón, Fuenlabrada, Getafe, Leganés and Móstoles.",
+      "relevance_es": "Confirma que las 28 estaciones de MetroSur se inauguraron el 11 de abril de 2003 y conectaron Alcorcón, Fuenlabrada, Getafe, Leganés y Móstoles."
+    },
+    {
+      "title": "Metro | Plan de Movilidad Urbana Sostenible, Ayuntamiento de Móstoles",
+      "url": "https://www.mostoles.es/Plan_Movilidad/es/movilidad-mostoles/transportes/metro",
+      "type": "official",
+      "relevance_en": "Municipal mobility page listing Pradillo as one of the Line 12 Metro stations in Móstoles.",
+      "relevance_es": "Página municipal de movilidad que enumera Pradillo entre las estaciones de Metro de la línea 12 en Móstoles."
+    },
+    {
+      "title": "Fuente de los Peces | Ayuntamiento de Móstoles",
+      "url": "https://www.mostoles.es/es/localizaciones/monumentos/fuente-peces",
+      "type": "official",
+      "relevance_en": "States that in 1851 a fountain was planned in the Pradillo, described as a spacious and central site, and that it was inaugurated in spring 1852.",
+      "relevance_es": "Indica que en 1851 se proyectó una fuente en el Pradillo, descrito como sitio espacioso y céntrico, y que fue inaugurada en la primavera de 1852."
+    },
+    {
+      "title": "prado | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/prado",
+      "type": "reference",
+      "relevance_en": "Authoritative linguistic source defining prado and giving its etymology from Latin pratum.",
+      "relevance_es": "Fuente lingüística autorizada que define prado y ofrece su etimología desde el latín pratum."
+    },
+    {
+      "title": "Plaza del Pradillo - MonumentalNet",
+      "url": "https://www.monumentalnet.org/monumento.php?r=M-092000100-MOS-PZA-PRA&seo=plaza-del-pradillo-mostoles-madrid-comunidad-de-madrid",
+      "type": "reference",
+      "relevance_en": "Heritage reference identifying Plaza del Pradillo in Móstoles and describing it as traditionally the town's most frequented place.",
+      "relevance_es": "Referencia patrimonial que identifica la Plaza del Pradillo en Móstoles y la describe como el lugar tradicionalmente más concurrido de la población."
+    },
+    {
+      "title": "Fichas de Bienes y Espacios Catalogados, Móstoles",
+      "url": "https://idem.madrid.org/cartografia/planea/planeamiento/planeamiento/Mostoles/Vigente/PPATRIMONIO_HISTORICO_005.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning/heritage catalogue locating the monument to Andrés Torrejón in Plaza del Pradillo and describing it as an early-20th-century historical monument.",
+      "relevance_es": "Catálogo municipal de planeamiento y patrimonio que sitúa el monumento a Andrés Torrejón en la Plaza del Pradillo y lo describe como monumento histórico de principios del siglo XX."
+    },
+    {
+      "title": "Plaza del Pradillo - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Plaza_del_Pradillo",
+      "type": "other",
+      "relevance_en": "Secondary orientation source for the reported older names Plaza del Perezal/Pedreçal and Pradillo del Caño; useful but not decisive.",
+      "relevance_es": "Fuente secundaria de orientación para los nombres antiguos comunicados, Plaza del Perezal/Pedreçal y Pradillo del Caño; útil, pero no decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Plaza del Pradillo as the immediate named-after value, not Calle del Pradillo; the official transport and heritage context points to the square/park area in central Móstoles.",
+      "es": "Conviene usar Plaza del Pradillo como valor inmediato de named_after, no Calle del Pradillo; el contexto oficial de transporte y patrimonio apunta a la plaza/zona ajardinada del centro de Móstoles."
+    },
+    {
+      "en": "Do not mark the early names Plaza del Perezal/Pedreçal and Pradillo del Caño as fully verified unless the original cited documents or a stronger archival publication are inspected.",
+      "es": "No conviene marcar como plenamente verificados los nombres tempranos Plaza del Perezal/Pedreçal y Pradillo del Caño sin revisar los documentos originales citados o una publicación archivística más sólida."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original municipal or notarial documents behind the reported 16th-century Plaza del Perezal/Pedreçal forms and the 18th-century Pradillo del Caño form.",
+      "es": "Revisar los documentos municipales o notariales originales que sustentan las formas del siglo XVI Plaza del Perezal/Pedreçal y la forma del siglo XVIII Pradillo del Caño."
+    },
+    {
+      "en": "Check whether Metro de Madrid or the regional government issued a formal station naming list for MetroSur before the 11 April 2003 opening.",
+      "es": "Comprobar si Metro de Madrid o la Comunidad de Madrid publicaron una relación formal de nombres de estaciones de MetroSur antes de la inauguración del 11 de abril de 2003."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_226/en/summary.short.md",
+      "summary": "content/stations/metro_226/en/summary.md",
+      "story": "content/stations/metro_226/en/story.md",
+      "confidence": "content/stations/metro_226/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_226/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_226/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_226/es/summary.short.md",
+      "summary": "content/stations/metro_226/es/summary.md",
+      "story": "content/stations/metro_226/es/story.md",
+      "confidence": "content/stations/metro_226/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_226/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_226/es/research-note.md"
+    }
+  }
+}

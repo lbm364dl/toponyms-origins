@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_067",
+  "name": "Las Matas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Las Matas, from mata: low woody plant, thicket, or scrub-covered ground",
+  "previous_names": "Matas Altas (older area/toponym; no distinct former station name found)",
+  "naming_date": "Current station name in use by the 1861 Madrid-El Escorial railway service; exact formal naming act not found",
+  "sources": [
+    {
+      "title": "Diccionario de la lengua española: mata",
+      "url": "https://dle.rae.es/mata",
+      "type": "reference",
+      "relevance_en": "Defines mata as a low woody plant, small plant, herb sprig, and vegetation-covered portion of land, and gives the tentative etymology from Late Latin matta.",
+      "relevance_es": "Define mata como planta leñosa baja, planta pequeña, ramita o pie de hierba y porción de terreno con vegetación, y da la etimología tentativa desde el latín tardío matta."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: MATTA",
+      "url": "https://toponhisp.org/node/2407",
+      "type": "academic",
+      "relevance_en": "Explains the toponymic development from Late Latin MATTA 'mat' to scrub-covered ground, thicket, bramble patch, extensive mata and individual plant.",
+      "relevance_es": "Explica el desarrollo toponímico desde el latín tardío MATTA 'estera' hacia terreno cubierto de matorral, zarzal, mata extensa y planta individual."
+    },
+    {
+      "title": "Plan General de Ordenación Urbana de Las Rozas de Madrid, Volumen I. Memoria de información",
+      "url": "https://www.lasrozas.es/sites/NPGOU/DOCUMENTO%20DE%20AVANCE/BLOQUE%20I.%20DOCUMENTACI%C3%93N%20INFORMATIVA/VOLUMEN%20I.%20MEMORIA%20DE%20INFORMACION.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document cited in search results as recording Matas Altas (Las Matas) on a 1755 map, later railway development, the 1861 northern line, and the first classification station in Spain near Las Rozas.",
+      "relevance_es": "Documento urbanístico municipal citado en resultados de búsqueda que registra Matas Altas (Las Matas) en un mapa de 1755, el desarrollo ferroviario posterior, la línea del Norte de 1861 y la primera estación de clasificación de España cerca de Las Rozas."
+    },
+    {
+      "title": "Museo del Ferrocarril Pablo Rubio | Ayuntamiento de Las Rozas de Madrid",
+      "url": "https://www.lasrozas.es/cultura/museo-del-ferrocarril",
+      "type": "official",
+      "relevance_en": "Las Rozas municipal page describing Las Matas as an essential railway-history site and its railway district as one of Spain's best-preserved railway settlements.",
+      "relevance_es": "Página municipal de Las Rozas que describe Las Matas como enclave esencial para la historia ferroviaria y su barrio ferroviario como uno de los poblados ferroviarios mejor conservados de España."
+    },
+    {
+      "title": "Las Rozas Municipal Magazine no. 122, July 2022",
+      "url": "https://www.lasrozas.es/WEB_CONTENT/pages/Sala%20de%20prensa/Revista%20municipal/LasRozasMunicipalN122.pdf",
+      "type": "official",
+      "relevance_en": "Municipal publication stating that Las Matas gained a railway character from the 1861 Madrid-Irun line, that the classification yard works ended in 1919, and that the first railway workers' houses began construction in 1922.",
+      "relevance_es": "Publicación municipal que indica que Las Matas adquirió carácter ferroviario desde la línea Madrid-Irún de 1861, que las obras de la estación de clasificación terminaron en 1919 y que las primeras viviendas ferroviarias comenzaron a construirse en 1922."
+    },
+    {
+      "title": "CRTM station page: Las Matas",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_44/",
+      "type": "official",
+      "relevance_en": "Confirms the current public transport station name, location at Plaza del Ferrocarril in Las Rozas de Madrid, and current Cercanías correspondences including C-8/C-8a and C-10.",
+      "relevance_es": "Confirma el nombre actual de la estación, su ubicación en la Plaza del Ferrocarril de Las Rozas de Madrid y las correspondencias actuales de Cercanías, incluidas C-8/C-8a y C-10."
+    },
+    {
+      "title": "Renfe station file: LAS MATAS, code 10101",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10101.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station data confirming station code 10101, name LAS MATAS, operator Renfe Viajeros, municipality Las Rozas de Madrid, coordinates, and commercial lines C8B, C8A and C10.",
+      "relevance_es": "Ficha de Renfe que confirma el código 10101, el nombre LAS MATAS, el explotador Renfe Viajeros, el municipio Las Rozas de Madrid, las coordenadas y las líneas comerciales C8B, C8A y C10."
+    },
+    {
+      "title": "150 años de tren en Pozuelo | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/gabinete-de-prensa/reportajes-especiales/150-anos-de-tren-en-pozuelo",
+      "type": "official",
+      "relevance_en": "Municipal historical article confirming that the Madrid-El Escorial railway section opened to the public on 9 August 1861.",
+      "relevance_es": "Artículo histórico municipal que confirma que el tramo ferroviario Madrid-El Escorial se abrió al público el 9 de agosto de 1861."
+    },
+    {
+      "title": "Spanish Railway: Caminos de Hierro del Norte de España",
+      "url": "https://www.spanishrailway.com/caminos-de-hierro-del-norte-de-espana/",
+      "type": "reference",
+      "relevance_en": "Specialist railway-history reference giving details on the Las Matas classification yard and its support role for Madrid freight traffic, with references to Revista de Obras Públicas.",
+      "relevance_es": "Referencia especializada de historia ferroviaria que aporta detalles sobre la estación de clasificación de Las Matas y su función de apoyo al tráfico de mercancías de Madrid, con referencias a la Revista de Obras Públicas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Qualify 'settlement born from the railway': the railway workers' settlement was born from railway activity, but the place-name Matas Altas/Las Matas predates it.",
+      "es": "Matizar 'asentamiento nacido del ferrocarril': el poblado ferroviario nació de la actividad ferroviaria, pero el topónimo Matas Altas/Las Matas es anterior."
+    },
+    {
+      "en": "Use 'probably' or 'perhaps' for the Late Latin matta etymology, because the RAE marks it as tentative.",
+      "es": "Usar 'probablemente' o 'quizá' para la etimología desde el latín tardío matta, porque la RAE la presenta como tentativa."
+    },
+    {
+      "en": "Separate the passenger station from Las Matas-Clasificación: the 1919 date refers to the freight classification yard, not the original passenger stop.",
+      "es": "Separar la estación de viajeros de Las Matas-Clasificación: la fecha de 1919 corresponde a la estación de clasificación de mercancías, no al apeadero o estación original de viajeros."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the 1755 map directly, if available in a cartographic archive, to confirm the exact spelling and placement of Matas Altas rather than relying on municipal secondary references.",
+      "es": "Consultar directamente el mapa de 1755, si está disponible en un archivo cartográfico, para confirmar la grafía y ubicación exactas de Matas Altas sin depender de referencias municipales secundarias."
+    },
+    {
+      "en": "Locate a primary 1861 timetable, concession document, or company notice to document the first formal use of Las Matas as a station name.",
+      "es": "Localizar un horario, documento de concesión o aviso de compañía de 1861 para documentar el primer uso formal de Las Matas como nombre de estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_067/en/summary.short.md",
+      "summary": "content/stations/cercanias_067/en/summary.md",
+      "story": "content/stations/cercanias_067/en/story.md",
+      "confidence": "content/stations/cercanias_067/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_067/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_067/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_067/es/summary.short.md",
+      "summary": "content/stations/cercanias_067/es/summary.md",
+      "story": "content/stations/cercanias_067/es/story.md",
+      "confidence": "content/stations/cercanias_067/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_067/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_067/es/research-note.md"
+    }
+  }
+}

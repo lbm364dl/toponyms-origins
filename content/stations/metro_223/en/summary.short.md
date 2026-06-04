@@ -1,0 +1,1 @@
+Parque Oeste station is named for the Parque Oeste area of Alcorcón, a late-20th-century urban development on the municipality's western side. The name was already in official urban-planning use before MetroSur opened in 2003.

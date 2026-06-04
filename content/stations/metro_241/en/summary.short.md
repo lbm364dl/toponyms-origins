@@ -1,0 +1,1 @@
+Leganés Central is named for the central transport node of Leganés, beside the C-5 railway station. The town name is traditionally explained from légamo or légano, mud or silt, but modern toponymy treats that origin as plausible rather than certain.

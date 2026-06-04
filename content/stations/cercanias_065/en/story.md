@@ -1,0 +1,9 @@
+Las Rozas station is named for Las Rozas de Madrid, the municipality northwest of Madrid where the station stands. In the rail network, the name is therefore a place-name first: the stop identifies the town rather than a person, event, or monument.
+
+The deeper origin lies in the Spanish word **roza**. In agricultural vocabulary, **rozar** means clearing land of brush and useless plants before working it, and **roza** came to mean a cleared or newly prepared plot. The plural **Las Rozas** evokes not one farm but a landscape of cleared lands, probably opened from scrub or woodland for cultivation.
+
+Local historical summaries connect the name with an early rural settlement and with the need to create productive agricultural land. The municipality's tourism material says the name points to an area of cultivation and places the first major rise in population in the 16th century, when Madrid became the capital and the building of El Escorial increased demand for food and supply routes in the northwest.
+
+The railway adds another layer to the name. Municipal material on Las Matas and the Northern Railway records official tests between Madrid and Las Rozas in April 1861, the Madrid-El Escorial opening in June 1861, and public service on the first section in August 1861; Las Rozas was one of the original stations. Today's Cercanias stop keeps that old railway place-name while serving lines C-7 and C-10.
+
+The agricultural etymology is strong, but some details should remain cautious. A municipal environmental PDF reports older written forms including **ROÇAS** in the 13th century, **ROZAS** in a 1312 text, map forms such as **ALAROZAS** and **ALAROZA**, and the current **Las Rozas de Madrid**. The broad meaning is well supported; the exact first naming act for the station has not been found, and slash-and-burn should not be treated as the only meaning of **roza** unless a specific historical source proves burning in this place.

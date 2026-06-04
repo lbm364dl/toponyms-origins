@@ -1,0 +1,1 @@
+The core claim is well supported: the Cercanias station is named for Las Rozas de Madrid, and the municipal name is connected with Castilian roza, cleared or newly broken land for cultivation. The wording should be softened where it implies burning as necessary and where it uses the Majadahonda contrast as evidence.

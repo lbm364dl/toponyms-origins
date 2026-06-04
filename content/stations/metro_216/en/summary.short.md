@@ -1,0 +1,1 @@
+La Peseta is named for Avenida de la Peseta, the main avenue of the PAU de Carabanchel. The avenue belongs to a local naming scheme that recalled Spain's old currency just as the euro replaced the peseta.

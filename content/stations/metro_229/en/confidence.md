@@ -1,0 +1,1 @@
+The descriptive origin is confirmed by the station's physical location, CRTM access information, Comunidad de Madrid MetroSur documentation, and the hospital's own official pages. No competing etymology was found.

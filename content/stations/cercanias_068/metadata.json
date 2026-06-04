@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_068",
+  "name": "Torrelodones",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Torrelodones, the municipality; ultimately 'La Torre de Lodones', a watchtower associated with lodón/almez trees",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Torrelodones",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/torrelodones",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic entry explaining Torrelodones as a Castilian compound of torre and lodones, plural of lodón/almez; also documents historical forms including 'La Torre de Lodones' ca. 1340 and discusses competing interpretations.",
+      "relevance_es": "Ficha toponímica autorizada que explica Torrelodones como compuesto castellano de torre y lodones, plural de lodón/almez; además documenta formas históricas como “La Torre de Lodones” hacia 1340 y comenta interpretaciones alternativas."
+    },
+    {
+      "title": "Ayuntamiento de Torrelodones: El nombre de Torrelodones",
+      "url": "https://www.torrelodones.es/torrelodones/historia/nombre",
+      "type": "official",
+      "relevance_en": "Municipal history page stating that the Arabic name of the tower is unknown, that Torrelodones is a Romance word after 1085, that it appears in documents in 1287, and that several traditional explanations exist.",
+      "relevance_es": "Página histórica municipal que afirma que se desconoce el nombre árabe de la atalaya, que Torrelodones es una palabra romance posterior a 1085, que aparece en documentos en 1287 y que existen varias explicaciones tradicionales."
+    },
+    {
+      "title": "Ayuntamiento de Torrelodones: Atalaya de Torrelodones",
+      "url": "https://www.torrelodones.es/torrelodones/patrimonio-historico-artistico-y-etnografico/atalaya-de-torrelodones",
+      "type": "official",
+      "relevance_en": "Municipal heritage article describing the watchtower as the oldest symbolic heritage element of Torrelodones and explaining its probable 10th-century Andalusi defensive context and later restorations.",
+      "relevance_es": "Artículo patrimonial municipal que describe la atalaya como el elemento simbólico más antiguo de Torrelodones y explica su probable contexto defensivo andalusí del siglo X y sus restauraciones posteriores."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Torrelodones",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_82?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the Cercanías station name, location at Plaza de Salvador Sánchez Frascuelo, fare zone B3, and correspondences with C-8/C-8a/C-10 and local buses.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre de la estación de Cercanías, su ubicación en la Plaza de Salvador Sánchez Frascuelo, la zona tarifaria B3 y las correspondencias con C-8/C-8a/C-10 y autobuses urbanos."
+    },
+    {
+      "title": "Renfe Data: Ficha de estación TORRELODONES",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10103.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming station code 10103, name TORRELODONES, operator Renfe Viajeros, municipality Torrelodones, coordinates, and commercial lines C8B, C8A and C10.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código 10103, el nombre TORRELODONES, el explotador Renfe Viajeros, el municipio de Torrelodones, las coordenadas y las líneas comerciales C8B, C8A y C10."
+    },
+    {
+      "title": "BOE-A-1983-29602: Real Decreto 2863/1983",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1983-29602",
+      "type": "official",
+      "relevance_en": "Official legal reference for the 1983 declaration of Madrid watchtowers and towers, including the Torrelodones tower, as national historic-artistic monuments.",
+      "relevance_es": "Referencia legal oficial de la declaración de 1983 de varias atalayas y torres madrileñas, incluida la de Torrelodones, como monumentos histórico-artísticos de carácter nacional."
+    },
+    {
+      "title": "Ayuntamiento de Torrelodones: Estación de Cercanías",
+      "url": "https://torrelodones.es/torrelodones/patrimonio/patrimonio-arquitectonico-contemporaneo/estacion-de-cercanias/",
+      "type": "official",
+      "relevance_en": "Municipal heritage page, visible in search result text, placing the station in the Colonia de la Estación about 3 km from the historic centre and noting the early-20th-century station building and relocation associated with double-tracking.",
+      "relevance_es": "Página patrimonial municipal, visible en el texto del resultado de búsqueda, que sitúa la estación en la Colonia de la Estación a unos 3 km del casco histórico y menciona el edificio de comienzos del siglo XX y el cambio de emplazamiento ligado a la doble vía."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat 1287 as a municipal claim unless a direct document is added; the inspected Toponomasticon entry cites 'La Torre de Lodones' ca. 1340.",
+      "es": "Conviene tratar 1287 como una afirmación municipal mientras no se añada el documento directo; la ficha consultada del Toponomasticon cita “La Torre de Lodones” hacia 1340."
+    },
+    {
+      "en": "Avoid saying the name proves the tower was literally surrounded by hackberry trees; the evidence supports the linguistic meaning 'lodones' as the plural of lodón/almez, not a reconstructed tree count or exact vegetation ring.",
+      "es": "Debe evitarse decir que el nombre prueba que la torre estaba literalmente rodeada de almeces; la evidencia respalda el valor lingüístico de “lodones” como plural de lodón/almez, no una reconstrucción exacta de la vegetación alrededor de la torre."
+    },
+    {
+      "en": "The current claim should mention competing traditional explanations, especially the mud/lodos theory and legendary personal-name theories, but mark them as weaker than the lodón-tree explanation.",
+      "es": "La explicación actual debería mencionar las teorías tradicionales alternativas, sobre todo la de los lodos y las leyendas de nombres personales, pero marcarlas como más débiles que la explicación por el árbol lodón."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the document behind the municipal date 1287 to verify the exact spelling and context of the earliest reference.",
+      "es": "Consultar el documento que sustenta la fecha municipal de 1287 para verificar la grafía exacta y el contexto de la referencia más antigua."
+    },
+    {
+      "en": "If a station-opening history field is needed, inspect railway archival sources for the exact status and naming of the original halt or station in 1864 and later relocations.",
+      "es": "Si se necesita un campo histórico sobre la apertura ferroviaria, conviene revisar fuentes archivísticas ferroviarias para precisar el estatus y el nombre del apeadero o estación original en 1864 y sus traslados posteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_068/en/summary.short.md",
+      "summary": "content/stations/cercanias_068/en/summary.md",
+      "story": "content/stations/cercanias_068/en/story.md",
+      "confidence": "content/stations/cercanias_068/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_068/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_068/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_068/es/summary.short.md",
+      "summary": "content/stations/cercanias_068/es/summary.md",
+      "story": "content/stations/cercanias_068/es/story.md",
+      "confidence": "content/stations/cercanias_068/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_068/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_068/es/research-note.md"
+    }
+  }
+}

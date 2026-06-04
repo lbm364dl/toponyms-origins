@@ -1,0 +1,1 @@
+The direct naming explanation is supported by Community of Madrid infrastructure documentation and a municipal planning document that explicitly identifies the station as the one in Covibar named Rivas-Urbanizaciones. The opening date is also directly documented by the Community of Madrid.

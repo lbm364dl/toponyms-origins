@@ -1,0 +1,126 @@
+{
+  "id": "cercanias_021",
+  "name": "Las Margaritas Universidad",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Margaritas neighbourhood in Getafe and the nearby Getafe campus of Universidad Carlos III de Madrid",
+  "previous_names": "Las Margaritas",
+  "naming_date": "1995; 28 May 1995 is reported in secondary railway/Wikidata-derived sources but was not confirmed in a primary source inspected",
+  "sources": [
+    {
+      "title": "Las Margaritas - Ayuntamiento de Getafe",
+      "url": "https://getafe.es/la-ciudad/poblacion/las-margaritas/",
+      "type": "official",
+      "relevance_en": "Official municipal neighbourhood page describing Las Margaritas as a 1970s, compact north-central Getafe neighbourhood and stating that it contains UC3M facilities and the Las Margaritas Universidad C-4 station.",
+      "relevance_es": "Página municipal oficial del barrio que describe Las Margaritas como un barrio compacto del centro-norte de Getafe construido en los años setenta y señala que contiene instalaciones de la UC3M y la estación Las Margaritas Universidad de la C-4."
+    },
+    {
+      "title": "Las Margaritas - Universidad - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_43",
+      "type": "official",
+      "relevance_en": "Current CRTM station page showing the transport name Las Margaritas - Universidad, C-4/C-4a/C-4b service, fare zone B1, and access at Calle Madrid in Getafe.",
+      "relevance_es": "Página actual del CRTM que muestra la denominación Las Margaritas - Universidad, el servicio C-4/C-4a/C-4b, la zona tarifaria B1 y el acceso en la calle Madrid de Getafe."
+    },
+    {
+      "title": "37010 Las Margaritas - Adif",
+      "url": "https://www.adif.es/w/37010-las-margaritas",
+      "type": "official",
+      "relevance_en": "Current infrastructure-manager page listing the station as Las Margaritas, giving the Calle Madrid 155 address and C-4 service information; it documents the current naming discrepancy with CRTM.",
+      "relevance_es": "Página actual del gestor de infraestructura que registra la estación como Las Margaritas, con dirección en calle Madrid 155 e información de servicio C-4; documenta la discrepancia actual con el CRTM."
+    },
+    {
+      "title": "Ficha de estación 37010 LAS MARGARITAS - Renfe Data",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion37010.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet naming code 37010 as LAS MARGARITAS, in Getafe, on commercial lines C4A and C4B.",
+      "relevance_es": "Ficha de Renfe que denomina el código 37010 como LAS MARGARITAS, en Getafe, en las líneas comerciales C4A y C4B."
+    },
+    {
+      "title": "BOCM Order of 31 October 2018 declaring the regeneration area Barrios de Las Margaritas y Fátima (La Alhóndiga)",
+      "url": "https://www.comunidad.madrid/sites/default/files/doc/vivienda/2018.10.31_-_bocm_-_barrios_de_las_margaritas_y_fatima_la_alhondiga_getafe.pdf",
+      "type": "official",
+      "relevance_en": "Official regional source listing Las Margaritas streets, proving the strong flower-name pattern while also showing some non-floral street names.",
+      "relevance_es": "Fuente oficial regional que enumera calles de Las Margaritas, prueba el fuerte patrón de nombres florales y al mismo tiempo muestra algunos nombres de calles no florales."
+    },
+    {
+      "title": "BOE-A-1989-10176 Ley 9/1989, de 5 de mayo, de creación de la Universidad Carlos III de Madrid",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1989-10176",
+      "type": "official",
+      "relevance_en": "Primary legal source creating Universidad Carlos III de Madrid and placing its Faculty of Social and Legal Sciences on the Getafe campus.",
+      "relevance_es": "Fuente legal primaria que crea la Universidad Carlos III de Madrid y sitúa su Facultad de Ciencias Sociales y Jurídicas en el campus de Getafe."
+    },
+    {
+      "title": "Getafe Campus - Universidad Carlos III de Madrid",
+      "url": "https://www.uc3m.es/about-uc3m/how-to-go-here/getafe-campus-uc3m",
+      "type": "official",
+      "relevance_en": "UC3M travel page identifying Las Margaritas Universidad as the train stop for the Getafe campus and giving the campus address at Calle Madrid 126.",
+      "relevance_es": "Página de acceso de la UC3M que identifica Las Margaritas Universidad como la parada de tren del campus de Getafe y da la dirección del campus en la calle Madrid 126."
+    },
+    {
+      "title": "Nuevo apeadero de Renfe - El País, 23 January 1987",
+      "url": "https://elpais.com/diario/1987/01/23/madrid/538403059_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press notice reporting that the new Renfe halt of Las Margaritas would enter service on 23 January 1987 for Madrid-Parla commuter trains.",
+      "relevance_es": "Noticia contemporánea que informa de que el nuevo apeadero de Renfe de Las Margaritas entraría en servicio el 23 de enero de 1987 para los trenes de cercanías Madrid-Parla."
+    },
+    {
+      "title": "FCMAF - Ferrocarril Madrid a Badajoz, vía Algodor: estaciones",
+      "url": "https://fcmaf.es/Ferrocarriles/R37-Madrid_a_Badajoz-%28MCR%29_estaciones.htm",
+      "type": "reference",
+      "relevance_en": "Railway reference listing Las Margaritas as halt code 37010 at kilometre point 12/855 and stating it entered service on 23 January 1987.",
+      "relevance_es": "Referencia ferroviaria que lista Las Margaritas como apeadero código 37010 en el punto kilométrico 12/855 y señala su puesta en servicio el 23 de enero de 1987."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state that all streets in Las Margaritas are named after flowers; official BOCM listings show many flower-named streets but also non-floral streets such as Artillería, Sánchez Morate, Velarde and Avenida de las Ciudades.",
+      "es": "No debe afirmarse que todas las calles de Las Margaritas llevan nombres de flores; los listados oficiales del BOCM muestran muchas calles florales, pero también vías no florales como Artillería, Sánchez Morate, Velarde y Avenida de las Ciudades."
+    },
+    {
+      "en": "Add a current-name caveat: Adif and Renfe list station code 37010 as Las Margaritas, while CRTM and Getafe municipal pages still display Las Margaritas - Universidad or Las Margaritas Universidad.",
+      "es": "Debe añadirse una cautela sobre el nombre actual: Adif y Renfe registran el código 37010 como Las Margaritas, mientras que el CRTM y páginas municipales de Getafe siguen mostrando Las Margaritas - Universidad o Las Margaritas Universidad."
+    },
+    {
+      "en": "The opening date should be corrected to 23 January 1987 where supported by contemporary press and railway listings, rather than leaving it blank or using unsourced dates.",
+      "es": "La fecha de apertura debe corregirse a 23 de enero de 1987, apoyada por prensa contemporánea y listados ferroviarios, en lugar de dejarla en blanco o usar fechas sin fuente."
+    },
+    {
+      "en": "The claim that Universidad was appended when the Getafe campus opened on 28 May 1995 is imprecise: UC3M was created by law on 5 May 1989 and Getafe campus activity began around 1989/1990; 28 May 1995 appears to be a secondary-source date for station reform or renaming, not the university's opening.",
+      "es": "La afirmación de que Universidad se añadió cuando se inauguró el campus de Getafe el 28 de mayo de 1995 es imprecisa: la UC3M fue creada por ley el 5 de mayo de 1989 y la actividad del campus de Getafe comenzó hacia 1989/1990; el 28 de mayo de 1995 parece ser una fecha secundaria de reforma o cambio de nombre de la estación, no de apertura de la universidad."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary Renfe, Adif, municipal plenary, timetable or press source should be inspected to confirm whether the station was officially renamed Las Margaritas-Universidad on 28 May 1995.",
+      "es": "Conviene revisar una fuente primaria de Renfe, Adif, pleno municipal, horario o prensa para confirmar si la estación fue renombrada oficialmente Las Margaritas-Universidad el 28 de mayo de 1995."
+    },
+    {
+      "en": "The daisy streetlamp motif is attested mainly in weak or derivative web sources; it should be verified with municipal urban-design material, photographs, or field inspection before being used as a display fact.",
+      "es": "El motivo de las farolas con margaritas aparece sobre todo en fuentes débiles o derivadas; debería comprobarse con documentación municipal de urbanización, fotografías o inspección de campo antes de usarlo como dato divulgativo."
+    },
+    {
+      "en": "The ultimate reason why the neighbourhood itself was named Las Margaritas has not been found in an authoritative source; the flower-street pattern supports the interpretation but does not by itself prove the original municipal naming decision.",
+      "es": "No se ha localizado una fuente autorizada que explique la razón última del nombre del barrio de Las Margaritas; el patrón de calles florales respalda la interpretación, pero por sí solo no prueba la decisión municipal original."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_021/en/summary.short.md",
+      "summary": "content/stations/cercanias_021/en/summary.md",
+      "story": "content/stations/cercanias_021/en/story.md",
+      "confidence": "content/stations/cercanias_021/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_021/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_021/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_021/es/summary.short.md",
+      "summary": "content/stations/cercanias_021/es/summary.md",
+      "story": "content/stations/cercanias_021/es/story.md",
+      "confidence": "content/stations/cercanias_021/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_021/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_021/es/research-note.md"
+    }
+  }
+}

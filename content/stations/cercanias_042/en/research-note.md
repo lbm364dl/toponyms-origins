@@ -1,0 +1,1 @@
+The station name is secure, but its public explanation should avoid implying that trains stop at the historic Colegio de San Ildefonso precinct. The station is by the external/science-campus area; the historic university story is still relevant because it explains the institutional name Universidad de Alcalá.

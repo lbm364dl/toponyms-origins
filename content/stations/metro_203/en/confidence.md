@@ -1,0 +1,1 @@
+Multiple independent sources identify the station as serving the Rivas Futura urbanization/commercial area, and contemporary press states that it was located in the development bearing the station's name. Official CRTM and municipal pages confirm the current station name, line and location. The only remaining nuance is that no formal naming-resolution document was found.

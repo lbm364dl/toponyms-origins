@@ -1,0 +1,1 @@
+La estación está correctamente interpretada como nombre tomado del municipio de Pinto. La etimología preferente desde el latín *pincta/*pinctu o pinctus, con el sentido de pintado o de cierto color, queda respaldada por el artículo de García Sánchez en el CVC y por la entrada del Toponomasticon Hispaniae, aunque el referente original exacto del adjetivo sigue siendo inferido.

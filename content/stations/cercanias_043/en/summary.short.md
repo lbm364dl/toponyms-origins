@@ -1,0 +1,1 @@
+Meco station takes its name from the municipality it serves. The place-name itself is old and disputed, with Celtic, Roman and Arabic explanations in circulation, but no inspected source proves one etymology decisively.

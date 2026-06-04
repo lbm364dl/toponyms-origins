@@ -1,0 +1,1 @@
+The Galapagar explanation is well supported by Toponomasticon Hispaniae and by the municipal arms. The La Navata explanation is plausible through nava plus a diminutive form, but the row overstates the evidence and should say pre-Roman, not simply Basque.

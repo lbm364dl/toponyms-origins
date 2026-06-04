@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_027",
+  "name": "Parla",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parla municipality; probably from Latin (villa) Parila, the estate of a Roman owner named Parilus",
+  "previous_names": "Current station: no former name found. Earlier railway stop: Parla; later reported as Parla-Industrial after the modern station opened.",
+  "naming_date": "1995 for the current Cercanías station; the railway place-name Parla was already used by the earlier nineteenth-century station.",
+  "sources": [
+    {
+      "title": "CVC Rinconete: La Comunidad de Madrid y sus topónimos (y IV), Jairo J. García Sánchez",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Specialist toponymic article stating that Parla is considered to come from Roman Parilus through Latin (villa) Parila.",
+      "relevance_es": "Artículo toponímico especializado que afirma que Parla se considera procedente del antropónimo romano Parilus a través del latín (villa) Parila."
+    },
+    {
+      "title": "Comunidad de Madrid, Camino de Andalucía, section Parla",
+      "url": "https://www.madrid.org/bvirtual/BVCM001217.pdf",
+      "type": "official",
+      "relevance_en": "Official regional publication summarizing Fernando Jiménez de Gregorio's alternative derivation from Latin padule/palus and listing local lagoon and wet-ground names used to support it; also gives historical context for Parla's medieval lordship.",
+      "relevance_es": "Publicación oficial regional que resume la derivación alternativa de Fernando Jiménez de Gregorio desde el latín padule/palus y enumera lagunas y nombres de terreno húmedo usados para apoyarla; también aporta contexto histórico sobre el señorío medieval de Parla."
+    },
+    {
+      "title": "Renfe Cercanías Madrid: Estación de Parla",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-parla",
+      "type": "official",
+      "relevance_en": "Renfe page for the current Parla station, stating that the C-4 to Parla was inaugurated on part of the old Madrid-Ciudad Real line and that the current station opened in 1995 as a line head station.",
+      "relevance_es": "Página de Renfe sobre la estación actual de Parla, que indica que la C-4 hacia Parla se inauguró sobre parte de la antigua línea Madrid-Ciudad Real y que la estación actual abrió en 1995 como cabecera de línea."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Parla station",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_53/",
+      "type": "official",
+      "relevance_en": "Current transport authority listing for Parla as a Cercanías station served by C-4 branches and linked with local bus services.",
+      "relevance_es": "Ficha actual de la autoridad de transporte que registra Parla como estación de Cercanías servida por los ramales C-4 y conectada con autobuses locales e interurbanos."
+    },
+    {
+      "title": "Open Library record: Breve diccionario de topónimos españoles, Emilio Nieto Ballester",
+      "url": "https://openlibrary.org/books/OL286158M/Breve_diccionario_de_topo%CC%81nimos_espan%CC%83oles",
+      "type": "book",
+      "relevance_en": "Bibliographic record for the printed specialist dictionary cited for the Parilus/(villa) Parila explanation; I could verify the bibliographic details online but not inspect the printed entry directly.",
+      "relevance_es": "Registro bibliográfico del diccionario especializado impreso citado para la explicación Parilus/(villa) Parila; pude verificar los datos bibliográficos en línea, pero no consultar directamente la entrada impresa."
+    },
+    {
+      "title": "Universidad Autónoma de Madrid repository: Hernández Sousa thesis citing Nieto Ballester on Parla",
+      "url": "https://repositorio.uam.es/bitstream/handle/10486/690379/hernandez_sousa_jose_miguel.pdf?isAllowed=y&sequence=1",
+      "type": "academic",
+      "relevance_en": "Academic work that cites Nieto Ballester for Parla as a possible estate or villa name, villa Parila, supporting the presence of this explanation in scholarly literature.",
+      "relevance_es": "Trabajo académico que cita a Nieto Ballester para Parla como posible nombre de hacienda o villa, villa Parila, lo que respalda la presencia de esta explicación en la bibliografía académica."
+    },
+    {
+      "title": "FCMAF: Ferrocarril Madrid a Ciudad Real (Vía Algodor)",
+      "url": "https://fcmaf.es/Ferrocarriles/R37-Madrid_a_Badajoz-%28MCR%29.htm",
+      "type": "reference",
+      "relevance_en": "Railway-history reference for the Madrid-Ciudad Real line, including the nineteenth-century construction context behind Parla's older railway stop.",
+      "relevance_es": "Referencia de historia ferroviaria sobre la línea Madrid-Ciudad Real, incluido el contexto constructivo decimonónico de la antigua parada ferroviaria de Parla."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the confidence from verified to probable for the ultimate etymology; only the station's naming after the municipality is fully secure.",
+      "es": "Cambiar la confianza de verificada a probable para la etimología última; lo plenamente seguro es solo que la estación toma el nombre del municipio."
+    },
+    {
+      "en": "Keep the folk story about someone beginning to speak after drinking from a fountain explicitly labelled as legend or folk etymology, not as a competing scholarly derivation.",
+      "es": "Mantener la historia popular de una persona que empieza a hablar tras beber de una fuente etiquetada explícitamente como leyenda o etimología popular, no como una derivación académica competidora."
+    },
+    {
+      "en": "Add the transport chronology: Renfe states that the present station opened in 1995 and became the C-4 head station, after an earlier railway presence on the Madrid-Ciudad Real line.",
+      "es": "Añadir la cronología de transporte: Renfe indica que la estación actual se inauguró en 1995 y pasó a ser cabecera de la C-4, después de una presencia ferroviaria anterior en la línea Madrid-Ciudad Real."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the physical entry for Parla in Emilio Nieto Ballester, Breve diccionario de topónimos españoles, p. 274, to confirm the exact wording and any caveats in the original printed source.",
+      "es": "Consultar físicamente la entrada de Parla en Emilio Nieto Ballester, Breve diccionario de topónimos españoles, p. 274, para confirmar la redacción exacta y los matices de la fuente impresa original."
+    },
+    {
+      "en": "Check the municipal archive or original 1255 document cited by local histories for the earliest form Pero Parla, because accessible web copies are secondary and not ideal for final dataset authority.",
+      "es": "Comprobar en el archivo municipal o en el documento original de 1255 citado por historias locales la forma temprana Pero Parla, porque las copias accesibles en la web son secundarias y no ideales como autoridad final del conjunto de datos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_027/en/summary.short.md",
+      "summary": "content/stations/cercanias_027/en/summary.md",
+      "story": "content/stations/cercanias_027/en/story.md",
+      "confidence": "content/stations/cercanias_027/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_027/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_027/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_027/es/summary.short.md",
+      "summary": "content/stations/cercanias_027/es/summary.md",
+      "story": "content/stations/cercanias_027/es/story.md",
+      "confidence": "content/stations/cercanias_027/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_027/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_027/es/research-note.md"
+    }
+  }
+}

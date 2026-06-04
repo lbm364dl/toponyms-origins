@@ -1,0 +1,1 @@
+The station's name is best treated as a functional transport label rather than as a commemorative naming. Comunidad de Madrid's MetroSur page also preserves construction-stage identifiers such as 'Fuenlabrada 2' for the station in engineering descriptions, but this appears to be a project code, not a public previous name.

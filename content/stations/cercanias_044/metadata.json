@@ -1,0 +1,100 @@
+{
+  "id": "cercanias_044",
+  "name": "Azuqueca",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Azuqueca de Henares",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Azuqueca de Henares",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/azuqueca-de-henares",
+      "type": "academic",
+      "relevance_en": "Best specialized source for the etymology: derives Azuqueca from Arabic sukayka, a diminutive linked to a small road, path, or alley, and records historical forms.",
+      "relevance_es": "Fuente especializada principal para la etimología: deriva Azuqueca del árabe sukayka, diminutivo vinculado a un camino, paso o callejuela, y recoge formas históricas."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Henares",
+      "url": "https://toponhisp.org/node/3682",
+      "type": "academic",
+      "relevance_en": "Explains the second element Henares as a river name derived from henar, a hay meadow or place with hay.",
+      "relevance_es": "Explica el segundo elemento Henares como nombre de río derivado de henar, lugar de heno o prados de heno."
+    },
+    {
+      "title": "Renfe Data station sheet: AZUQUECA, code 70105",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70105.pdf",
+      "type": "official",
+      "relevance_en": "Official Renfe station sheet confirming the station name AZUQUECA, municipality Azuqueca de Henares, Cercanías Madrid area, and commercial line C2.",
+      "relevance_es": "Ficha oficial de Renfe que confirma el nombre de estación AZUQUECA, el municipio Azuqueca de Henares, el ámbito de Cercanías Madrid y la línea comercial C2."
+    },
+    {
+      "title": "Adif: 70105 Azuqueca",
+      "url": "https://www.adif.es/-/70105-azuqueca",
+      "type": "official",
+      "relevance_en": "Official infrastructure/operator page for the current station, address, and active Cercanías services.",
+      "relevance_es": "Página oficial de infraestructura/operador sobre la estación actual, su dirección y los servicios de Cercanías activos."
+    },
+    {
+      "title": "José Antonio Ranz Yubero, Una nueva teoría sobre el topónimo Azuqueca",
+      "url": "https://ieecc.es/wp-content/uploads/2024/08/10-Una-nuev.pdf",
+      "type": "academic",
+      "relevance_en": "Discusses earlier theories: Arabic market, Arabic small road/alley, and a proposed water-channel interpretation; useful for documenting uncertainty and contested interpretations.",
+      "relevance_es": "Analiza teorías anteriores: mercado árabe, camino o calleja árabe, y una propuesta hidráulica; es útil para documentar incertidumbres e interpretaciones discutidas."
+    },
+    {
+      "title": "Catálogo Colectivo de la Red de Bibliotecas de los Archivos Estatales: Azuqueca de Henares, ayer y hoy en su historia",
+      "url": "https://www.mcu.es/ccbae/en/consulta/busqueda_referencia.do?campo=idtitulo&idValor=794659",
+      "type": "book",
+      "relevance_en": "Catalogue record for Pedro A. Valdivieso García's municipal history, published by Azuqueca de Henares Town Council in 1999 and cited by Toponomasticon.",
+      "relevance_es": "Registro catalográfico de la historia municipal de Pedro A. Valdivieso García, publicada por el Ayuntamiento de Azuqueca de Henares en 1999 y citada por Toponomasticon."
+    },
+    {
+      "title": "Relaciones topográficas de Felipe II: Azuqueca de Henares",
+      "url": "https://es.wikisource.org/wiki/Relaciones_topogr%C3%A1ficas_de_Felipe_II/Azuqueca_de_Henares",
+      "type": "archive",
+      "relevance_en": "Transcription of the 1575 questionnaire for Azuqueca, showing the settlement as an aldeia under Guadalajara and preserving early modern local context.",
+      "relevance_es": "Transcripción del interrogatorio de 1575 de Azuqueca, que muestra el lugar como aldea bajo Guadalajara y conserva contexto local de la Edad Moderna."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the named_after gloss 'possibly Arabic al-suqayqa: small market' with 'Azuqueca de Henares; Azuqueca probably from Arabic sukayka, small road/path/alley'.",
+      "es": "Sustituir la glosa de named_after 'posiblemente del árabe al-suqayqa: pequeño mercado' por 'Azuqueca de Henares; Azuqueca probablemente del árabe sukayka, camino pequeño/paso/callejuela'."
+    },
+    {
+      "en": "Do not state the 'small market' explanation as the recommended origin; Toponomasticon Hispaniae explicitly treats it as less plausible.",
+      "es": "No presentar la explicación de 'mercadillo' como origen recomendado; Toponomasticon Hispaniae la considera expresamente menos verosímil."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact date on which the railway station first received the name Azuqueca was not found in an official naming act; railway history sources commonly connect the station with the 3 May 1859 opening of the Madrid-Guadalajara section.",
+      "es": "No se ha localizado el acto oficial exacto en el que la estación recibió el nombre de Azuqueca; las fuentes de historia ferroviaria suelen vincular la estación con la apertura del tramo Madrid-Guadalajara el 3 de mayo de 1859."
+    },
+    {
+      "en": "A full inspection of Pedro A. Valdivieso García's municipal history could add more local documentary nuance, but an online catalogue confirms the work and Toponomasticon cites it.",
+      "es": "La consulta completa de la historia municipal de Pedro A. Valdivieso García podría aportar más matices documentales locales, pero un catálogo en línea confirma la obra y Toponomasticon la cita."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_044/en/summary.short.md",
+      "summary": "content/stations/cercanias_044/en/summary.md",
+      "story": "content/stations/cercanias_044/en/story.md",
+      "confidence": "content/stations/cercanias_044/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_044/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_044/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_044/es/summary.short.md",
+      "summary": "content/stations/cercanias_044/es/summary.md",
+      "story": "content/stations/cercanias_044/es/story.md",
+      "confidence": "content/stations/cercanias_044/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_044/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_044/es/research-note.md"
+    }
+  }
+}

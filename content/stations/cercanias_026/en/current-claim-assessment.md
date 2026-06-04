@@ -1,0 +1,1 @@
+The station is correctly identified as being named after the town of Aranjuez, and the Basque arantza/aranz explanation is a serious scholarly line associated with Rafael Lapesa. The claim is too categorical, however: the place-name remains debated, with older Latin, Arabic, Iberian/pre-Roman and hydronymic explanations in circulation.

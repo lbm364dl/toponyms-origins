@@ -1,0 +1,1 @@
+El Pozo toma su nombre de El Pozo del Tío Raimundo, el barrio cercano cuyo topónimo alude a un pozo asociado a un hombre llamado Raimundo. El lugar se hizo célebre a mediados del siglo XX como uno de los asentamientos obreros autoconstruidos más emblemáticos de Madrid.

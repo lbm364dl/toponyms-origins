@@ -1,0 +1,1 @@
+La estación está correctamente vinculada con la zona de Cantoblanco y la Universidad Autónoma de Madrid, pero la explicación literal 'canto/piedra blanca' es más débil que la evidencia toponímica disponible y debe presentarse como lectura tradicional o superficial, no como etimología verificada.

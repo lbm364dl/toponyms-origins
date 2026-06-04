@@ -1,0 +1,1 @@
+Getafe Sector 3 is a descriptive station name taken from the nearby Sector III neighbourhood. The neighbourhood's own name comes from a technical urban-planning designation used for a large late-20th-century residential development west of the old Toledo road.

@@ -1,0 +1,1 @@
+The row is substantially correct: the Metro station name is a place/interchange name, and the municipality's toponym is well supported as 'fuente labrada', a worked or carved stone fountain. The only important caveat is that the Moorish attribution is a 16th-century local tradition, not a proven construction date.

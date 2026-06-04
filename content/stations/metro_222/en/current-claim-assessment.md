@@ -1,0 +1,1 @@
+The station-level claim is well supported: Alcorcón Central is named for its central/interchange position in Alcorcón. The deeper etymology of Alcorcón is plausible but should be presented as contested: an Arabic hill/watchtower explanation is used by the municipality, while a stronger philological source supports a Mozarabic hybrid from corco, related to Quercus trees.

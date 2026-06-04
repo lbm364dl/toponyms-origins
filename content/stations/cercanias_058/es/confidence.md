@@ -1,0 +1,1 @@
+La denominación directa por el municipio está confirmada por fuentes actuales de transporte, y el origen toponímico municipal está respaldado por las Relaciones Topográficas de 1576, el Ayuntamiento de Fuenlabrada y Toponomasticon Hispaniae. La confianza no se reduce por la atribución a los moros porque se presenta solo como opinión local transmitida.

@@ -1,0 +1,9 @@
+The Cercanías station is called **Ciempozuelos** because it serves the municipality of Ciempozuelos, south of Madrid, on today’s C-3 corridor. Its name is not a modern railway invention: the train inherited an established local place-name.
+
+The deeper origin is descriptive. Toponomasticon Hispaniae analyses Ciempozuelos as a clear compound of **cien** and **pozuelos**. In this kind of Spanish toponymy, cien should not be read as a strict count of one hundred; it means 'many' or 'a great number'. Pozuelos is the diminutive of pozo, so the sense is 'many little wells' or small water sources.
+
+The municipal historical account gives the local landscape behind that wording. It links the name to the Buzanca area, about two kilometres from the town centre, where a canal once began to carry spring water to the fountain in the town square. Because the spring was not abundant enough, numerous wells were dug to increase the supply, and those wells became the identifying feature of the settlement.
+
+The name is old. Toponomasticon Hispaniae records a 1471 form, **Çientpoçuelos**, followed by later early modern spellings close to the present form. The same source also notes that the name fits the municipality’s position in the Jarama valley, a setting where water, springs, irrigation and wells were central to settlement and farming.
+
+For the station itself, the naming is straightforward: Adif and the Consorcio Regional de Transportes identify the stop as Ciempozuelos, with C-3 service and access in the municipality. A Madrid transport-history chronology lists Ciempozuelos among the stations of the 1851 Madrid-Aranjuez railway, so the station name appears to have followed the town name from the railway’s early history. The exact administrative act assigning the station name was not located, but the etymology of the underlying place-name is well established.

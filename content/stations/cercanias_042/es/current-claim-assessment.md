@@ -1,0 +1,1 @@
+La afirmación principal está verificada: el nombre de la estación remite a la Universidad de Alcalá. El contexto histórico es correcto en líneas generales, pero la estación está junto al campus moderno o externo, no junto al campus histórico central, y conviene precisar algunos detalles académicos.

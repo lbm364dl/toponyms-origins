@@ -1,0 +1,1 @@
+La afirmación principal está bien sustentada: el nombre combina el topónimo local El Barrial con el centro comercial cercano de Pozuelo, y barrial es una palabra española vinculada a terrenos arcillosos o embarrados. La fecha exacta de adopción del nombre compuesto está peor documentada que el nombre actual de la estación.

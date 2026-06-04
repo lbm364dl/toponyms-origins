@@ -1,0 +1,9 @@
+The name **Doce de Octubre** is first of all practical: this Cercanías station is the rail stop for the Hospital Universitario 12 de Octubre, one of the major public hospital complexes in southern Madrid. Adif and Renfe list the station as Doce de Octubre on the C-5, with its address at Calle Tomelloso 59, beside the hospital area in Usera.
+
+The deeper story is in the hospital name. The Community of Madrid’s hospital history says the centre opened on 2 October 1973 as **Ciudad Sanitaria 1º de Octubre**. That older name referred not to the opening day, but to 1 October 1936, the date associated with Franco’s proclamation as head of state during the Civil War.
+
+After the dictatorship, the name was changed in the democratic period. The hospital’s own history places the change to **12 de octubre** at the end of the 1980s, and a Congressional bulletin from November 1988 refers to the Hospital Primero de Octubre as having “passed to be called” 12 de Octubre. The exact day often given, 12 October 1988, is plausible and symbolically neat, but I did not find an inspected official renaming order that proves that exact date.
+
+The new date was not neutral either, but it belonged to a different public vocabulary. Law 18/1987, published in the BOE on 8 October 1987, declared 12 October the **Fiesta Nacional de España**. In official language, the date symbolized Spain’s historical projection beyond Europe; in everyday speech it is still often associated with the Día de la Hispanidad and Columbus’s 1492 landfall.
+
+The railway station followed the hospital’s new public identity. Press coverage from 24 September 1989 reports the opening of a new Cercanías section between Atocha and Villaverde Alto, including four new stations: Puente Alcocer, Orcasitas, Doce de Octubre and Méndez Álvaro. So the station name is reliable, but the most careful wording is that it is named for the hospital, whose own name had recently replaced a Franco-era commemorative name.

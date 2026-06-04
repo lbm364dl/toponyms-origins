@@ -1,0 +1,1 @@
+The station's immediate naming after the El Goloso place/base area is strongly supported by transport, railway, municipal, military, and cartographic sources. Confidence is limited to probable because no primary station-naming act was found and the original linguistic motivation of the rural toponym remains unexplained.

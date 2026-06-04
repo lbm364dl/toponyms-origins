@@ -1,0 +1,108 @@
+{
+  "id": "cercanias_037",
+  "name": "San Fernando de Henares",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "San Fernando de Henares municipality; ultimately Saint Ferdinand III of Castile and the Henares river",
+  "previous_names": "Place/municipality: Torrejón de la Ribera before the 1746 royal purchase; Real Sitio de San Fernando in the eighteenth century; San Fernando before the official 1916 change to San Fernando de Henares. Some local/secondary accounts report San Fernando de Jarama, but the 1916 Gaceta list records the prior name as San Fernando. Railway context: a Comunidad de Madrid/COAM architectural history notes that the Madrid-Guadalajara railway had a secondary station at Coslada that initially was called San Fernando.",
+  "naming_date": "Municipal name San Fernando de Henares fixed by the 1916 nomenclature reform published in Gaceta de Madrid on 2 July 1916; station naming date not verified",
+  "sources": [
+    {
+      "title": "Adif - 70101 S. Fernando Henares",
+      "url": "https://www.adif.es/w/70101-s.fernando-henares",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming the station name San Fernando de Henares, address, and live Cercanias service references including C-7 and C-8 branches.",
+      "relevance_es": "Página oficial de infraestructura que confirma el nombre de la estación San Fernando de Henares, la dirección y referencias de servicio de Cercanías, incluidas C-7 y ramas de C-8."
+    },
+    {
+      "title": "Renfe data station sheet - SAN FERNANDO DE HENARES, code 70101",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion70101.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming code 70101, name SAN FERNANDO DE HENARES, operator Renfe Viajeros, Cercanias Madrid area, municipality, coordinates, and commercial line information.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código 70101, el nombre SAN FERNANDO DE HENARES, el explotador Renfe Viajeros, el área Cercanías Madrid, el municipio, las coordenadas y la información de línea comercial."
+    },
+    {
+      "title": "CRTM - Cercanias station San Fernando",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_71",
+      "type": "official",
+      "relevance_en": "Regional transport page showing the Cercanias stop as San Fernando, with correspondences C-2, C-7 and C-8, fare zone B1, and access listed at San Fernando de Henares - Calle Estacion de Ferrocarril, 6 (Coslada).",
+      "relevance_es": "Página del Consorcio Regional de Transportes que muestra la parada de Cercanías como San Fernando, con correspondencias C-2, C-7 y C-8, zona tarifaria B1 y acceso indicado como San Fernando de Henares - calle Estación de Ferrocarril, 6 (Coslada)."
+    },
+    {
+      "title": "Ayuntamiento de San Fernando de Henares - Historia de la ciudad",
+      "url": "https://www.ayto-sanfernando.com/historia-de-la-ciudad/",
+      "type": "official",
+      "relevance_en": "Official municipal history page used for the 1746 origin around Torrejón de la Ribera, Felipe V's decree, Fernando VI's possession of the place, the Real Fabrica de Panos, and the 1916 change to San Fernando de Henares.",
+      "relevance_es": "Página oficial de historia municipal usada para el origen de 1746 en torno a Torrejón de la Ribera, el decreto de Felipe V, la toma de posesión por Fernando VI, la Real Fábrica de Paños y el cambio de 1916 a San Fernando de Henares."
+    },
+    {
+      "title": "Comunidad de Madrid / COAM - San Fernando de Henares, Arquitectura y Desarrollo Urbano",
+      "url": "https://www.coam.org/media/Default%20Files/fundacion/biblioteca/biblioteca-digital/docs/Arquitectura%20y%20Desarrollo%20Urbano/San_Fernando.pdf",
+      "type": "academic",
+      "relevance_en": "Detailed architectural and urban-history PDF documenting the Real Sitio, the 29 June 1746 royal decree annexing Torrejón de la Ribera to the Crown, the cloth factory, the rational industrial town plan, and the early Madrid-Guadalajara railway context.",
+      "relevance_es": "PDF detallado de historia arquitectónica y urbana que documenta el Real Sitio, el real decreto de 29 de junio de 1746 por el que Torrejón de la Ribera se anexionó a la Corona, la fábrica de paños, el trazado racional de ciudad industrial y el contexto inicial del ferrocarril Madrid-Guadalajara."
+    },
+    {
+      "title": "Gaceta de Madrid, num. 184, 2 July 1916",
+      "url": "https://www.boe.es/gazeta/dias/1916/07/02/pdfs/GMD-1916-184.pdf",
+      "type": "archive",
+      "relevance_en": "Official 1916 nomenclature reform source stating that 'San Fernando, partido de Alcala de Henares' would be called 'San Fernando de Henares'.",
+      "relevance_es": "Fuente oficial de la reforma de nomenclatura de 1916 que establece que “San Fernando, partido de Alcalá de Henares” se llamaría “San Fernando de Henares”."
+    },
+    {
+      "title": "Biblioteca Virtual del Patrimonio Bibliografico - Fernando III, Rey de Castilla, Santo, 1201-1252",
+      "url": "https://bvpb.mcu.es/es/consulta_aut/registro.do?control=BVPB20070025369",
+      "type": "reference",
+      "relevance_en": "Authority record identifying Ferdinand III as king of Castile and saint, giving the 1201-1252 dates and noting canonization in 1671.",
+      "relevance_es": "Registro de autoridad que identifica a Fernando III como rey de Castilla y santo, da las fechas 1201-1252 y señala su canonización en 1671."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station's direct naming as a place-name rather than purely religious: it is named for the municipality, although that municipality ultimately refers to Saint Ferdinand/Ferdinand III.",
+      "es": "Clasificar el nombre directo de la estación como topónimo de lugar, no como nombre puramente religioso: se nombra por el municipio, aunque el municipio remite en último término a san Fernando/Fernando III."
+    },
+    {
+      "en": "Nuance the foundation statement: Felipe V ordered the purchase on 29 June 1746; Fernando VI then took possession and promoted the factory-town project.",
+      "es": "Matizar la fundación: Felipe V ordenó la compra el 29 de junio de 1746; Fernando VI tomó después posesión del lugar e impulsó el proyecto de la ciudad-fábrica."
+    },
+    {
+      "en": "Do not present 'San Fernando de Jarama' as the only documented former official name without qualification; the 1916 Gaceta records the prior municipal name as 'San Fernando'.",
+      "es": "No presentar “San Fernando de Jarama” como único nombre oficial anterior documentado sin matiz; la Gaceta de 1916 recoge el nombre municipal previo como “San Fernando”."
+    },
+    {
+      "en": "Mention that official transport sources vary: Adif/Renfe use San Fernando de Henares, while CRTM displays the Cercanias station as San Fernando.",
+      "es": "Mencionar que las fuentes oficiales de transporte varían: Adif/Renfe usan San Fernando de Henares, mientras que el CRTM muestra la estación de Cercanías como San Fernando."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the full municipal archive or original royal documentation to confirm whether the initial 'San Fernando' name was explicitly chosen for Fernando VI's patron saint or more generally for the reigning king's name.",
+      "es": "Consultar el archivo municipal completo o la documentación regia original para confirmar si el nombre inicial “San Fernando” se eligió explícitamente por el santo patrón de Fernando VI o de forma más general por el nombre del rey reinante."
+    },
+    {
+      "en": "Verify from railway timetables or Adif historical files the exact date when the Cercanias/railway station adopted the current San Fernando de Henares form and whether it was ever officially Coslada-San Fernando.",
+      "es": "Verificar en horarios ferroviarios o archivos históricos de Adif la fecha exacta en que la estación ferroviaria/de Cercanías adoptó la forma actual San Fernando de Henares y si alguna vez fue oficialmente Coslada-San Fernando."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_037/en/summary.short.md",
+      "summary": "content/stations/cercanias_037/en/summary.md",
+      "story": "content/stations/cercanias_037/en/story.md",
+      "confidence": "content/stations/cercanias_037/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_037/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_037/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_037/es/summary.short.md",
+      "summary": "content/stations/cercanias_037/es/summary.md",
+      "story": "content/stations/cercanias_037/es/story.md",
+      "confidence": "content/stations/cercanias_037/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_037/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_037/es/research-note.md"
+    }
+  }
+}

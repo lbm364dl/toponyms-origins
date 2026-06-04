@@ -1,0 +1,1 @@
+The station is named for the neighbouring San Cristóbal de los Ángeles housing district in Villaverde. That district name combines a Christian saint, San Cristóbal, with the nearby Cerro de los Ángeles in Getafe, whose name comes from the Virgen de los Ángeles shrine.

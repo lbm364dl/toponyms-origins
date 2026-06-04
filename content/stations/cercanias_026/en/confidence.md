@@ -1,0 +1,1 @@
+It is verified that the station is named after the town of Aranjuez and that the railway opened under that destination name in 1851. The deeper etymology of the town-name is only probable because scholarly and local sources preserve several competing explanations; the Basque aranz/arantza theory is strong and well attested, but not demonstrated beyond dispute.

@@ -1,0 +1,114 @@
+{
+  "id": "metro_216",
+  "name": "La Peseta",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Spanish peseta, Spain's former national currency",
+  "previous_names": "",
+  "naming_date": "18 December 2006",
+  "sources": [
+    {
+      "title": "CRTM - La Peseta station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_256?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport listing for La Peseta, showing Line 11 service, fare zone A, connections, and accesses at Avenida de la Peseta 61.",
+      "relevance_es": "Ficha oficial de transporte de La Peseta, con servicio de la línea 11, zona tarifaria A, correspondencias y accesos en Avenida de la Peseta 61."
+    },
+    {
+      "title": "CRTM - Metro Line 11: Plaza Elíptica-La Fortuna",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/lineas/4__11___.aspx",
+      "type": "official",
+      "relevance_en": "Official line page confirming La Peseta as a station on Metro Line 11 between Carabanchel Alto and La Fortuna.",
+      "relevance_es": "Página oficial de la línea que confirma La Peseta como estación de la línea 11 de Metro entre Carabanchel Alto y La Fortuna."
+    },
+    {
+      "title": "Acta de la sesión ordinaria de la Junta Municipal del Distrito de Carabanchel, 2 February 2017",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/DistritoCarabanchel/Publicaciones/OrdenesYActas/2017/Febrero/ActaCarabanchel2Feb2017.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal minutes documenting the proposal to name the nearby park Salvador Allende and recording that neighbourhood groups had also requested Salvador Allende for the Line 11 station, while the authorities chose La Peseta.",
+      "relevance_es": "Acta municipal de Madrid que documenta la propuesta de denominar Parque Salvador Allende al parque cercano y recoge que colectivos vecinales también habían pedido Salvador Allende para la estación de la línea 11, aunque las autoridades eligieron La Peseta."
+    },
+    {
+      "title": "Banco de España - Historia de la peseta",
+      "url": "https://www.bde.es/wbe/es/areas-actuacion/billetes-monedas/historia-peseta/",
+      "type": "official",
+      "relevance_en": "Authoritative source for the 19 October 1868 decree establishing the peseta, the first coins in 1869, and the euro exchange/legal tender chronology.",
+      "relevance_es": "Fuente autorizada para el decreto de 19 de octubre de 1868 que estableció la peseta, las primeras monedas de 1869 y la cronología de canje y curso legal con el euro."
+    },
+    {
+      "title": "FNMT - History of the Peseta",
+      "url": "https://www.fnmt.es/en/historia-de-la-peseta",
+      "type": "official",
+      "relevance_en": "Official Royal Mint history explaining the peseta's creation in 1868, minting in Madrid, and the familiarity of the name before official adoption.",
+      "relevance_es": "Historia oficial de la Casa de la Moneda que explica la creación de la peseta en 1868, su acuñación en Madrid y la familiaridad del nombre antes de su adopción oficial."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - peseta",
+      "url": "https://dle.rae.es/peseta",
+      "type": "reference",
+      "relevance_en": "Defines peseta as Spain's monetary unit between 1869 and 2002 and gives the RAE etymology as a diminutive of peso 'coin'.",
+      "relevance_es": "Define peseta como unidad monetaria de España entre 1869 y 2002 y da la etimología académica como diminutivo de peso 'moneda'."
+    },
+    {
+      "title": "El País - Hoy se inauguran las tres nuevas estaciones de la línea 11 de Metro",
+      "url": "https://elpais.com/diario/2006/12/18/madrid/1166444656_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary report dated 18 December 2006 confirming the inauguration of the Line 11 extension to Carabanchel Alto and the PAU, starting at La Peseta.",
+      "relevance_es": "Crónica contemporánea del 18 de diciembre de 2006 que confirma la inauguración de la ampliación de la línea 11 hasta Carabanchel Alto y el PAU, comenzando por La Peseta."
+    },
+    {
+      "title": "Asociación Vecinal de Carabanchel Alto - Parque Salvador Allende y Auditorio Violeta Parra en Carabanchel",
+      "url": "https://carabanchelalto.org/2017/02/05/parque-salvador-allende-y-auditorio-violeta-parra-en-carabanchel/",
+      "type": "other",
+      "relevance_en": "Neighbourhood association account stating that in the early 2000s it asked for Salvador Allende to name the main PAU avenue and the Line 11 station, but La Peseta was chosen.",
+      "relevance_es": "Relato de la asociación vecinal que afirma que a comienzos de los años 2000 pidió Salvador Allende para la avenida principal del PAU y para la estación de la línea 11, pero se eligió La Peseta."
+    },
+    {
+      "title": "Tesis doctoral, Universidad Autónoma de Madrid, 2021",
+      "url": "https://repositorio.uam.es/bitstreams/5e7799e4-e9d4-46c6-8274-bff2e724cc9d/download",
+      "type": "academic",
+      "relevance_en": "Academic study of the PAU de Carabanchel explaining Avenida de la Peseta as the neighbourhood's main spine and noting the monetary street-name theme tied to Spain's adoption of the euro.",
+      "relevance_es": "Estudio académico sobre el PAU de Carabanchel que explica la Avenida de la Peseta como eje principal del barrio y señala la temática de monedas vinculada a la adopción del euro en España."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not say simply that the peseta was replaced on 1 January 2002; euro cash entered circulation that day, but the peseta remained legal tender alongside the euro until 28 February 2002.",
+      "es": "No conviene decir sin más que la peseta fue sustituida el 1 de enero de 2002; ese día entró en circulación el efectivo en euros, pero la peseta siguió siendo moneda de curso legal junto al euro hasta el 28 de febrero de 2002."
+    },
+    {
+      "en": "The Catalan-origin statement should be softened or sourced separately: the RAE derives peseta from a diminutive of peso 'coin', while Catalan dictionaries present a Catalan peceta/pessa origin as possible rather than settled.",
+      "es": "La afirmación sobre el origen catalán debe matizarse o citarse aparte: la RAE deriva peseta de un diminutivo de peso 'moneda', mientras que diccionarios catalanes presentan el origen en peceta/peça como posible, no definitivo."
+    },
+    {
+      "en": "The claim that Spain was among the first decimal-currency countries is not necessary for this station and is weak without a precise comparative source; Spain had already introduced a decimal monetary structure with the escudo before the 1868 peseta reform.",
+      "es": "La afirmación de que España fue de los primeros países con moneda decimal no es necesaria para esta estación y resulta débil sin una fuente comparativa precisa; España ya había introducido una estructura monetaria decimal con el escudo antes de la reforma de la peseta de 1868."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid or Comunidad de Madrid naming-resolution document for the station was not located; inspecting administrative files from the 2006 Line 11 extension could confirm the exact act that fixed the station name.",
+      "es": "No se localizó una resolución formal de Metro de Madrid o de la Comunidad de Madrid sobre la denominación de la estación; revisar expedientes administrativos de la ampliación de la línea 11 de 2006 podría confirmar el acto exacto que fijó el nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_216/en/summary.short.md",
+      "summary": "content/stations/metro_216/en/summary.md",
+      "story": "content/stations/metro_216/en/story.md",
+      "confidence": "content/stations/metro_216/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_216/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_216/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_216/es/summary.short.md",
+      "summary": "content/stations/metro_216/es/summary.md",
+      "story": "content/stations/metro_216/es/story.md",
+      "confidence": "content/stations/metro_216/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_216/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_216/es/research-note.md"
+    }
+  }
+}

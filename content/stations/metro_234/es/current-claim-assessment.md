@@ -1,0 +1,1 @@
+La afirmacion principal es correcta: el nombre de la estacion alude al cercano Conservatorio Profesional de Musica de Getafe. El valor named_after es erroneo porque apunta al Real Conservatorio Superior de Musica de Madrid, una institucion distinta.

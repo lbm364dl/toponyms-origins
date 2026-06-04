@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_013",
+  "name": "Doce de Octubre",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Hospital Universitario 12 de Octubre",
+  "previous_names": "Station: no former name found. Hospital/place: Ciudad Sanitaria 1º de Octubre / Ciudad Sanitaria Primero de Octubre.",
+  "naming_date": "Station opened under current name on 1989-09-24; hospital current name in use by 1988-10-25, with official hospital history placing the change in the late 1980s.",
+  "sources": [
+    {
+      "title": "Historia | Hospital Universitario 12 de Octubre",
+      "url": "https://www.comunidad.madrid/hospital/12octubre/ciudadanos/historia",
+      "type": "official",
+      "relevance_en": "Official hospital history confirming the 2 October 1973 opening as Ciudad Sanitaria 1º de Octubre, the original site and building details, the 1974 bed expansion plan, the 1980 Materno-Infantil building, and the late-1980s change to 12 de octubre.",
+      "relevance_es": "Historia oficial del hospital que confirma la inauguración del 2 de octubre de 1973 como Ciudad Sanitaria 1º de Octubre, los datos del solar y del edificio original, el plan de ampliación de camas de 1974, el Materno-Infantil de 1980 y el cambio a 12 de octubre a finales de los años ochenta."
+    },
+    {
+      "title": "35702 Doce Octubre - Adif",
+      "url": "https://www.adif.es/en/w/35702-doce-octubre",
+      "type": "official",
+      "relevance_en": "Official Adif station page confirming the current station name Doce de Octubre, address and active Cercanías service.",
+      "relevance_es": "Página oficial de Adif que confirma el nombre actual de la estación, Doce de Octubre, su dirección y el servicio activo de Cercanías."
+    },
+    {
+      "title": "DOCE DE OCTUBRE - Ficha de estación Renfe/Data Renfe",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35702.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming station code 35702, name DOCE DE OCTUBRE, operator Renfe Viajeros, Cercanías Madrid area, postal address, coordinates and commercial line C5.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código 35702, el nombre DOCE DE OCTUBRE, el explotador Renfe Viajeros, el área de Cercanías Madrid, la dirección postal, las coordenadas y la línea comercial C5."
+    },
+    {
+      "title": "Ley 18/1987, de 7 de octubre, que establece el día de la Fiesta Nacional de España en el 12 de octubre",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1987-22831",
+      "type": "official",
+      "relevance_en": "BOE law establishing 12 October as Spain’s National Day and giving the official democratic-era meaning of the date.",
+      "relevance_es": "Ley del BOE que establece el 12 de octubre como Fiesta Nacional de España y proporciona el significado oficial de la fecha en la etapa democrática."
+    },
+    {
+      "title": "BOE, 2 March 1988: fiscalización de la Ciudad Sanitaria «Primero de Octubre»",
+      "url": "https://www.boe.es/boe/dias/1988/03/02/",
+      "type": "official",
+      "relevance_en": "BOE entry documenting the old hospital name Ciudad Sanitaria Primero de Octubre in relation to accounts from 1981-1983, shortly before the renaming.",
+      "relevance_es": "Entrada del BOE que documenta el antiguo nombre Ciudad Sanitaria Primero de Octubre en relación con las cuentas de 1981-1983, poco antes del cambio de denominación."
+    },
+    {
+      "title": "Boletín Oficial de las Cortes Generales, Congreso, Serie D, núm. 244, 7 November 1988",
+      "url": "https://www.congreso.es/public_oficiales/L3/CONG/BOCG/D/D_244.PDF",
+      "type": "archive",
+      "relevance_en": "Parliamentary question dated 25 October 1988 referring to the Hospital Primero de Octubre as having changed its name to 12 de Octubre, proving the new name was in use by then.",
+      "relevance_es": "Pregunta parlamentaria fechada el 25 de octubre de 1988 que menciona que el Hospital Primero de Octubre pasó a llamarse 12 de Octubre, lo que prueba que el nuevo nombre ya se usaba entonces."
+    },
+    {
+      "title": "CC OO califica de electoralista la apertura de la nueva línea de cercanías",
+      "url": "https://elpais.com/diario/1989/09/24/madrid/622639455_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report from 24 September 1989 stating that the new Atocha-Villaverde Alto Cercanías section entered service with four new stations, including Doce de Octubre.",
+      "relevance_es": "Crónica de prensa contemporánea del 24 de septiembre de 1989 que indica que el nuevo tramo de Cercanías Atocha-Villaverde Alto entraba en servicio con cuatro estaciones nuevas, incluida Doce de Octubre."
+    },
+    {
+      "title": "Renfe abre la línea Villaverde Alto-Atocha sin rematar las obras de las estaciones",
+      "url": "https://elpais.com/diario/1989/09/26/madrid/622815858_850215.html",
+      "type": "press",
+      "relevance_en": "Follow-up contemporary report naming Doce de Octubre among the four new stations used by passengers immediately after opening.",
+      "relevance_es": "Crónica contemporánea posterior que cita Doce de Octubre entre las cuatro estaciones nuevas usadas por los viajeros justo después de la apertura."
+    },
+    {
+      "title": "Adif invierte 26,5 M€ en la mejora de las estaciones Doce de Octubre y Puente Alcocer",
+      "url": "https://www.adif.es/en/-/adif-invierte-26-5-m%E2%82%AC-en-la-mejora-de-las-estaciones-doce-de-octubre-y-puente-alcocer",
+      "type": "official",
+      "relevance_en": "Recent Adif release confirming Doce de Octubre as a C-5 Cercanías Madrid station and describing its underground access, concourse and platform levels.",
+      "relevance_es": "Nota reciente de Adif que confirma Doce de Octubre como estación de la C-5 de Cercanías Madrid y describe sus accesos, vestíbulo soterrado y andenes."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The input’s 'person_nationality' value of '1989' is a data-field error; this is not a person-name station.",
+      "es": "El valor '1989' en el campo 'person_nationality' de la entrada es un error de datos; no se trata de una estación nombrada por una persona."
+    },
+    {
+      "en": "The official hospital history gives the original hospital building as 18 floors above ground and three below, not 15 floors.",
+      "es": "La historia oficial del hospital describe el edificio original con 18 plantas en altura y tres en el subsuelo, no 15 plantas."
+    },
+    {
+      "en": "The exact hospital renaming date should be treated cautiously unless a primary order or official notice is found; inspected authoritative sources support late 1980s and use of the new name by 25 October 1988.",
+      "es": "La fecha exacta del cambio de nombre del hospital debe tratarse con cautela salvo que se localice una orden o aviso oficial primario; las fuentes autorizadas inspeccionadas apoyan finales de los años ochenta y el uso del nuevo nombre el 25 de octubre de 1988."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find the INSALUD, Ministry of Health or Madrid official act that formally changed the hospital’s name, if it exists in a gazette, internal resolution or press archive.",
+      "es": "Localizar el acto formal de INSALUD, del Ministerio de Sanidad o de Madrid que cambió oficialmente el nombre del hospital, si existe en un boletín, resolución interna o archivo de prensa."
+    },
+    {
+      "en": "Check Renfe/Ministry project documentation for the Atocha-Villaverde Alto C-5 works to see whether the station naming rationale is explicitly stated.",
+      "es": "Revisar documentación de Renfe o del Ministerio sobre las obras de la C-5 entre Atocha y Villaverde Alto para comprobar si se explicita la razón del nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_013/en/summary.short.md",
+      "summary": "content/stations/cercanias_013/en/summary.md",
+      "story": "content/stations/cercanias_013/en/story.md",
+      "confidence": "content/stations/cercanias_013/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_013/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_013/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_013/es/summary.short.md",
+      "summary": "content/stations/cercanias_013/es/summary.md",
+      "story": "content/stations/cercanias_013/es/story.md",
+      "confidence": "content/stations/cercanias_013/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_013/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_013/es/research-note.md"
+    }
+  }
+}

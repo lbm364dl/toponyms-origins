@@ -1,0 +1,1 @@
+Robledo de Chavela station is named for the municipality it serves. The place name joins Robledo, an oak grove, with Chavela, best explained by Toponomasticon Hispaniae as the medieval personal name Echa Vela.

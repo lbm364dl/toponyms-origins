@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_016",
+  "name": "San Cristóbal de los Ángeles",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "San Cristóbal de los Ángeles neighbourhood in Villaverde, Madrid",
+  "previous_names": "Los Ángeles (reported by secondary sources; date not verified)",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM: San Cristóbal de los Ángeles",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_69/",
+      "type": "official",
+      "relevance_en": "Verifies the current public transport station name, C-3 correspondence, zone and Calle de Paterna accesses.",
+      "relevance_es": "Verifica el nombre actual de la estación, su correspondencia con la C-3, la zona tarifaria y los accesos por la calle de Paterna."
+    },
+    {
+      "title": "Renfe data station sheet: SAN CRISTOBAL DE LOS ANGELES",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion60107.pdf",
+      "type": "official",
+      "relevance_en": "Gives Renfe station code 60107, name, Cercanías Madrid area, operator Renfe Viajeros, address and commercial line C3.",
+      "relevance_es": "Aporta el código Renfe 60107, el nombre, el área Cercanías Madrid, el explotador Renfe Viajeros, la dirección y la línea comercial C3."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Características y actuaciones 2009-2012, San Cristóbal de los Ángeles",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Planes_Barrio/2009-2012/15_San_Cristobal_Angeles/Caracteristicas_Actuaciones_2009-2012_San-Cristobal-Angeles.pdf",
+      "type": "official",
+      "relevance_en": "States that San Cristóbal de los Ángeles originated as a social-housing operation with 6,077 subsidised homes built in phases from 1959 on former La Norah brickworks land.",
+      "relevance_es": "Indica que San Cristóbal de los Ángeles nació como actuación de vivienda social con 6.077 viviendas subvencionadas construidas por fases desde 1959 sobre terrenos de la antigua fábrica de ladrillo La Norah."
+    },
+    {
+      "title": "Madrid Film Office: Poblado dirigido de San Cristóbal de los Ángeles",
+      "url": "https://madridfilmoffice.com/localizacion/poblado-dirigido-de-san-cristobal-de-los-angeles/",
+      "type": "official",
+      "relevance_en": "Municipal cultural-location page confirming the neighbourhood's housing-development origin, scale, former brickworks land and surviving chimney landmark.",
+      "relevance_es": "Ficha municipal de localizaciones que confirma el origen residencial del barrio, su escala, los antiguos terrenos de la fábrica de ladrillo y la chimenea conservada como hito."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: Cerro de los Ángeles",
+      "url": "https://getafe.es/placemarks/cerro-de-los-angeles/",
+      "type": "official",
+      "relevance_en": "Explains that the Cerro de los Ángeles is associated with the Ermita/Virgen de los Ángeles, from which the hill receives its name, and repeats the traditional central-place claim.",
+      "relevance_es": "Explica que el Cerro de los Ángeles se vincula con la ermita y la Virgen de los Ángeles, de la que recibe su nombre, y recoge la afirmación tradicional de centralidad."
+    },
+    {
+      "title": "Vatican News: San Cristóbal, mártir",
+      "url": "https://www.vaticannews.va/es/santos/07/25/s--cristobal--martir.html",
+      "type": "reference",
+      "relevance_en": "Supports the religious background: Saint Christopher is invoked as patron of boatmen, pilgrims and travellers.",
+      "relevance_es": "Respalda el trasfondo religioso: San Cristóbal es invocado como patrono de barqueros, peregrinos y viajeros."
+    },
+    {
+      "title": "Comunidad de Madrid: Aranjuez, Estación de Ferrocarril",
+      "url": "https://www.madrid.org/monumentoscercanias/estacion-ferrocarril.html",
+      "type": "official",
+      "relevance_en": "Verifies the 1851 opening of the Madrid-Aranjuez railway and its status as the first railway line departing Madrid and the second in Spain.",
+      "relevance_es": "Verifica la inauguración del ferrocarril Madrid-Aranjuez en 1851 y su condición de primera línea ferroviaria que partió de Madrid y segunda de España."
+    },
+    {
+      "title": "UVaDOC: Manual del ferrocarril de Madrid a Aranjuez",
+      "url": "https://uvadoc.uva.es/handle/10324/22183",
+      "type": "archive",
+      "relevance_en": "Bibliographic record for the 1851 Manual del ferrocarril de Madrid a Aranjuez, useful primary-period context for the original railway corridor.",
+      "relevance_es": "Registro bibliográfico del Manual del ferrocarril de Madrid a Aranjuez de 1851, útil como contexto de época para el corredor ferroviario original."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the direct station etymology as a place-name, because the station is named after the neighbourhood; the religious explanation is an underlying layer of that neighbourhood name.",
+      "es": "Clasificar la etimología directa de la estación como topónimo de lugar, porque la estación toma el nombre del barrio; la explicación religiosa es una capa subyacente del nombre del barrio."
+    },
+    {
+      "en": "Do not state as verified that the current station name dates from the 1851 Madrid-Aranjuez opening; the neighbourhood originated from housing development begun in 1959.",
+      "es": "No afirmar como verificado que el nombre actual de la estación date de la inauguración Madrid-Aranjuez de 1851; el barrio procede de una actuación residencial iniciada en 1959."
+    },
+    {
+      "en": "Present the Cerro de los Ángeles centre-of-the-peninsula claim as traditional or official-local, not as an uncontested geographical fact.",
+      "es": "Presentar la afirmación del Cerro de los Ángeles como centro de la Península como tradición o afirmación oficial local, no como hecho geográfico indiscutido."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the official railway or municipal renaming record that changed the station from Los Ángeles to San Cristóbal de los Ángeles, if that secondary-source former name is correct.",
+      "es": "Localizar el expediente ferroviario o municipal oficial que cambió el nombre de la estación de Los Ángeles a San Cristóbal de los Ángeles, si ese nombre anterior citado por fuentes secundarias es correcto."
+    },
+    {
+      "en": "Inspect original planning or naming documents for the Poblado Dirigido de San Cristóbal de los Ángeles to confirm who selected the compound name and why.",
+      "es": "Revisar documentos originales de planeamiento o denominación del Poblado Dirigido de San Cristóbal de los Ángeles para confirmar quién eligió el nombre compuesto y por qué."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_016/en/summary.short.md",
+      "summary": "content/stations/cercanias_016/en/summary.md",
+      "story": "content/stations/cercanias_016/en/story.md",
+      "confidence": "content/stations/cercanias_016/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_016/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_016/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_016/es/summary.short.md",
+      "summary": "content/stations/cercanias_016/es/summary.md",
+      "story": "content/stations/cercanias_016/es/story.md",
+      "confidence": "content/stations/cercanias_016/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_016/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_016/es/research-note.md"
+    }
+  }
+}

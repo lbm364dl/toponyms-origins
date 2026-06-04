@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes its name from Avenida de la Peseta and the wider PAU street-name theme commemorating Spain's former currency. Some details need tightening: the peseta co-circulated with the euro until 28 February 2002, and the word-origin claim is not as settled as stated.

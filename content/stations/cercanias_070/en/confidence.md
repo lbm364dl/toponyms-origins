@@ -1,0 +1,1 @@
+The linguistic derivation of San Yago/Sant Iago from the Santiago name family is well supported by onomastic sources, and official transport documents verify the station name and location. Confidence is not 'verified' because no primary document was found that explicitly states the station was named for Saint James or records the date and act of naming.

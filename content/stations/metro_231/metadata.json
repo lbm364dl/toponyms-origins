@@ -1,0 +1,89 @@
+{
+  "id": "metro_231",
+  "name": "Fuenlabrada Central",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Fuenlabrada",
+  "previous_names": "Metro station opened as Fuenlabrada Central; adjoining Cercanías/rail station is Fuenlabrada.",
+  "naming_date": "11 April 2003",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Fuenlabrada",
+      "url": "https://toponhisp.org/pt/node/230",
+      "type": "academic",
+      "relevance_en": "Provides the strongest modern toponymic analysis: Fuenlabrada is a Castilian compound of fuente and labrada, probably meaning a worked or carved stone fountain, and cites 1576 documentation.",
+      "relevance_es": "Aporta el análisis toponímico moderno más sólido: Fuenlabrada es un compuesto castellano de fuente y labrada, probablemente con el sentido de fuente de piedra trabajada o tallada, y cita documentación de 1576."
+    },
+    {
+      "title": "Ayuntamiento de Fuenlabrada: Historia",
+      "url": "https://www.ayto-fuenlabrada.es/historia",
+      "type": "official",
+      "relevance_en": "Official municipal history page explaining the settlement's origins from Loranca and Fregacedos and quoting the old-fountain explanation, including the local belief that Moors made it.",
+      "relevance_es": "Página histórica oficial municipal que explica los orígenes del asentamiento desde Loranca y Fregacedos y cita la explicación de la fuente vieja, incluida la creencia local de que la hicieron los moros."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official transport page describing MetroSur, listing Fuenlabrada Central, and locating the station beside the Renfe Cercanías station with its accesses.",
+      "relevance_es": "Página oficial de transporte que describe MetroSur, enumera Fuenlabrada Central y sitúa la estación junto a la estación de Cercanías de Renfe con sus accesos."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official source for MetroSur's service date, 11 April 2003, and for the project scale of more than 40 km and 28 underground stations.",
+      "relevance_es": "Fuente oficial para la fecha de puesta en servicio de MetroSur, 11 de abril de 2003, y para la escala del proyecto: más de 40 km y 28 estaciones subterráneas."
+    },
+    {
+      "title": "Adif: 35002 Fuenlabrada",
+      "url": "https://www.adif.es/-/35002-fuenlabrada",
+      "type": "official",
+      "relevance_en": "Confirms the adjoining railway station's official name as Fuenlabrada and its address at Paseo de Roma, useful for distinguishing it from the Metro station name.",
+      "relevance_es": "Confirma que la estación ferroviaria contigua se denomina oficialmente Fuenlabrada y que su dirección está en el paseo de Roma, dato útil para distinguirla del nombre de la estación de Metro."
+    },
+    {
+      "title": "CRTM: Plano zonal Metro Fuenlabrada Central",
+      "url": "https://www.crtm.es/media/bp5fbosv/plano_zonal_metro_fuenlabradacentral.pdf",
+      "type": "official",
+      "relevance_en": "Current 2026 zonal map confirming the present name Fuenlabrada Central and its interchange environment with Cercanías, buses, and local streets.",
+      "relevance_es": "Plano zonal vigente de 2026 que confirma el nombre actual Fuenlabrada Central y su entorno de intercambio con Cercanías, autobuses y calles locales."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Present 'Moorish-era stone fountain' as a recorded local tradition, not as a verified archaeological fact.",
+      "es": "Presentar 'fuente de piedra de época morisca' como una tradición local documentada, no como un hecho arqueológico comprobado."
+    },
+    {
+      "en": "Clarify that the station name is not directly named after the fountain, but after the municipality and the central interchange location.",
+      "es": "Aclarar que la estación no recibe el nombre directamente de la fuente, sino del municipio y de su ubicación central como intercambiador."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A physical inspection of the full 1576 Relaciones Topográficas manuscript or critical edition could refine the exact wording and context of the old fountain tradition.",
+      "es": "La consulta física o crítica completa de las Relaciones Topográficas de 1576 podría precisar la redacción exacta y el contexto de la tradición sobre la fuente vieja."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_231/en/summary.short.md",
+      "summary": "content/stations/metro_231/en/summary.md",
+      "story": "content/stations/metro_231/en/story.md",
+      "confidence": "content/stations/metro_231/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_231/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_231/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_231/es/summary.short.md",
+      "summary": "content/stations/metro_231/es/summary.md",
+      "story": "content/stations/metro_231/es/story.md",
+      "confidence": "content/stations/metro_231/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_231/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_231/es/research-note.md"
+    }
+  }
+}

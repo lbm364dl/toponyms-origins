@@ -1,0 +1,1 @@
+San Cristóbal Industrial is a descriptive railway name: San Cristóbal links it to the nearby San Cristóbal de los Ángeles area, while Industrial identifies its setting in Villaverde's factory and business-zone landscape. It should not be tied to Valdemoro.

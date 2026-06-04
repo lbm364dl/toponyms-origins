@@ -1,0 +1,1 @@
+La estación de Coslada toma su nombre del municipio al que sirve. El topónimo es antiguo y discutido: Menéndez Pidal lo relacionó con una voz céltica para el avellano, mientras otros autores lo han vinculado al pedernal, al yeso o a las vías ganaderas locales.

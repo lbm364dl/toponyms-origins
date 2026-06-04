@@ -1,0 +1,1 @@
+La denominación de la estación está bien respaldada por fuentes oficiales de transporte que sitúan Leganés Central en la línea 12, junto a Renfe/C-5, abierta con MetroSur el 11 de abril de 2003. El origen profundo de Leganés solo es probable porque la fuente toponímica más sólida afirma expresamente que la derivación desde légamo/légano no es segura.

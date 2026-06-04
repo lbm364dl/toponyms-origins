@@ -1,0 +1,1 @@
+Las Retamas is a botanical place-name: retamas are broom shrubs, a common Mediterranean plant with yellow flowers. The station appears to take its name from Avenida de las Retamas and the surrounding Alcorcon area, rather than from a documented naming act about the vegetation at the station site.

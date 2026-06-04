@@ -1,0 +1,1 @@
+Rivas Futura is named after the nearby Rivas Futura urban and commercial development, a 2000s growth area in Rivas-Vaciamadrid. The station opened on 11 July 2008 as an infill stop on Line 9 between Rivas Urbanizaciones and Rivas Vaciamadrid.

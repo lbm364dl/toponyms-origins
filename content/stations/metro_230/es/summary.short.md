@@ -1,0 +1,1 @@
+La estación Parque Europa toma su nombre del parque urbano contiguo de Fuenlabrada. El nombre encaja con un entorno de calles de tema europeo, como Francia, Bélgica, Italia, Portugal, Holanda, Suiza y Viena.

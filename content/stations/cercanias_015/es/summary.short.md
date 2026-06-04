@@ -1,0 +1,1 @@
+Puente Alcocer toma su nombre del topónimo local Puente Alcocer, junto a la calle Alcocer en Villaverde. En un nivel más antiguo, Alcocer pertenece a la familia toponímica árabe qasar/qusayr, relacionada con un alcázar o pequeño recinto fortificado o palacial.

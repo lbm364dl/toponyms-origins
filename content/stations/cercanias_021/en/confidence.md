@@ -1,0 +1,1 @@
+The place-based etymology is strongly supported by current CRTM, Getafe, Adif/Renfe, BOE, BOCM and UC3M sources. Confidence is not marked verified because the exact 1995 renaming date and the streetlamp motif claim were not confirmed in authoritative primary sources, and current operator naming is inconsistent.

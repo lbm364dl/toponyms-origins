@@ -1,0 +1,1 @@
+The existing claim is essentially correct: the station is named for the nearby Leganés Town Hall building known as Casa del Reloj on Avenida de Gibraltar. The strongest source is the Community of Madrid's MetroSur page, which explicitly says the building gives the station its name.

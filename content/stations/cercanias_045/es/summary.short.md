@@ -1,0 +1,1 @@
+La estación de Guadalajara se llama así por la ciudad a la que sirve. El nombre de la ciudad procede del árabe Wad al-Hayara o Wadi al-Hijara, normalmente interpretado como un nombre relacionado con las piedras y vinculado al antiguo Arriaca.

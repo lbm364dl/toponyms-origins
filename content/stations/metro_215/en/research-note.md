@@ -1,0 +1,1 @@
+The best update is not to demote the Fortunata González Arroyo origin, but to model it as an indirect etymology: station -> barrio -> Fortunata. The Comunidad de Madrid extension booklet is the strongest located source for the personal dedication, while CRTM sources are strongest for the station's opening and transport context.

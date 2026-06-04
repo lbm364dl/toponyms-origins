@@ -1,0 +1,1 @@
+The core claim is correct: the station takes its name from Arroyo Culebro, the nearby stream and urban area in southwest Getafe. The linguistic explanation is plausible but partly inferential, and the 28 km length conflicts with at least one Getafe municipal source that gives about 25 km.

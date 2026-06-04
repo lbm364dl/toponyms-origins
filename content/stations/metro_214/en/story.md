@@ -1,0 +1,9 @@
+The station's name comes first from a place: the Hospital Universitario Infanta Sofía, the large public hospital next to the metro stop in San Sebastián de los Reyes. It is therefore best understood as a hospital-name station, with a royal eponym behind the hospital's own name.
+
+When the MetroNorte extension reached this part of the northern metropolitan area, the station was known as **Hospital del Norte**. That descriptive name matched the health centre planned for the north of the Comunidad de Madrid and the role of the new Line 10 branch: linking Madrid with Alcobendas and San Sebastián de los Reyes.
+
+The hospital's name changed in 2008. Order 45/2008 of the Comunidad de Madrid stated that the Hospital del Norte, managed by the Empresa Pública Hospital del Norte, would become Hospital "Infanta Sofía" (Norte). The same order also renamed the hospitals of Vallecas and Sur after Infanta Leonor and Infanta Cristina, placing the northern hospital within a broader 2008 policy for new Madrid hospitals.
+
+The eponym is Infanta Sofía de Borbón y Ortiz. The official biography of the Spanish Royal Household identifies her as the second daughter of Felipe and Letizia and records her birth in Madrid on 29 April 2007, just three days after the MetroNorte opening date commonly given for the station. In 2008 she was the daughter of the Prince and Princess of Asturias; references to her as the daughter of King Felipe VI are accurate only from 19 June 2014 onward.
+
+The station-name chronology is slightly less directly documented than the hospital-name change. Official Madrid material confirms that MetroNorte included a terminal station called Hospital del Norte, while transport chronologies and station references record the later metro name change to Hospital Infanta Sofía on 8 August 2008. The origin itself is well supported: the metro station follows the hospital, and the hospital's name honours Infanta Sofía.

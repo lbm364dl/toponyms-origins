@@ -1,0 +1,1 @@
+Aeropuerto T4 toma su nombre directamente de la Terminal 4 del principal aeropuerto de Madrid. La línea 8 de Metro llegó a la terminal en 2007, tras la apertura de la T4 en 2006; la estación de Cercanías llegó en 2011.

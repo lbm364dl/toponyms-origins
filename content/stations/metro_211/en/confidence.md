@@ -1,0 +1,1 @@
+The station's current name, address, access points and industrial-estate context are supported by official CRTM, Community of Madrid and Alcobendas municipal sources. Confidence is reduced because the deeper agricultural motivation for the street name and the alleged planned name 'Alcobendas Industrial' were not verified in a primary naming document.

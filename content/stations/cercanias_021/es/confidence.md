@@ -1,0 +1,1 @@
+La etimología toponímica está sólidamente apoyada por fuentes actuales del CRTM, Ayuntamiento de Getafe, Adif/Renfe, BOE, BOCM y UC3M. No se marca como verificada porque la fecha exacta de renombramiento de 1995 y el detalle de las farolas con margaritas no se han confirmado en fuentes primarias autorizadas, y la denominación operativa actual no es uniforme.

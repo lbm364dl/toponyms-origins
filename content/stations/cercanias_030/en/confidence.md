@@ -1,0 +1,1 @@
+The station naming itself is verified by Renfe and CRTM sources: it is the Cercanías stop for Alcobendas and San Sebastián de los Reyes. The confidence is marked probable rather than fully verified because the deeper etymology of Alcobendas is explicitly unresolved in Toponomasticon Hispaniae, even though San Sebastián de los Reyes is well documented.

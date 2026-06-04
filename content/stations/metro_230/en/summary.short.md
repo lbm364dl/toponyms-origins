@@ -1,0 +1,1 @@
+Parque Europa station is named after the adjacent urban park in Fuenlabrada. The name fits a nearby cluster of streets with European country and city names, including Francia, Bélgica, Italia, Portugal, Holanda, Suiza and Viena.

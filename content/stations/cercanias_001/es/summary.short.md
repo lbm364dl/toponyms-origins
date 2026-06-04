@@ -1,0 +1,1 @@
+La estación de Recoletos debe su nombre al paseo de Recoletos. El paseo conserva la memoria de un convento de agustinos recoletos fundado en 1592 en el entorno que hoy ocupa en parte la zona de la Biblioteca Nacional.

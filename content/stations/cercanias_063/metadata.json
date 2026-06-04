@@ -1,0 +1,97 @@
+{
+  "id": "cercanias_063",
+  "name": "Pozuelo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pozuelo de Alarcón, a municipality whose name means roughly 'small well' or 'little well place' in Castilian, with 'de Alarcón' from the surname of Gabriel de Ocaña y Alarcón",
+  "previous_names": "Pozuelo de Aravaca (former place/municipal name before the 1632 change to Pozuelo de Alarcón); no separate former station name found",
+  "naming_date": "Station opened 9 August 1861; exact station naming act not found. Place-name change to Pozuelo de Alarcón followed the sale dated 31 January 1632.",
+  "sources": [
+    {
+      "title": "Adif: 10002 Pozuelo",
+      "url": "https://www.adif.es/w/10002-pozuelo",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name Pozuelo and shows Cercanías C-7 and C-10 services using the station.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, Pozuelo, y muestra servicios de Cercanías C-7 y C-10 en la estación."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: Historia",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Provides the official municipal account: wells and springs behind Pozuelo, first documentation in 1208, the former name Pozuelo de Aravaca, and the 1632 purchase by Gabriel Ocaña de Alarcón.",
+      "relevance_es": "Aporta el relato municipal oficial: pozos y manantiales detrás de Pozuelo, primera documentación en 1208, antiguo nombre Pozuelo de Aravaca y compra de 1632 por Gabriel Ocaña de Alarcón."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Pozuelo de Alarcón",
+      "url": "https://toponhisp.org/node/3294",
+      "type": "academic",
+      "relevance_en": "Specialist toponymic source explaining Pozuelo as a Castilian diminutive of pozo, Alarcón as an anthroponymic addition, and the documented 31 January 1632 sale.",
+      "relevance_es": "Fuente toponímica especializada que explica Pozuelo como diminutivo castellano de pozo, Alarcón como añadido antroponímico y la venta documentada del 31 de enero de 1632."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: PŬTĔŎLU",
+      "url": "https://toponhisp.org/es/etimo/puteolu",
+      "type": "academic",
+      "relevance_en": "Clarifies the linguistic issue: Latin puteolus existed, but many Castilian Pozuelo place names can be Romance formations rather than direct Latin continuations.",
+      "relevance_es": "Aclara la cuestión lingüística: existió el latín puteolus, pero muchos topónimos castellanos Pozuelo pueden ser formaciones romances y no continuaciones latinas directas."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: 150 años de tren en Pozuelo",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/gabinete-de-prensa/reportajes-especiales/150-anos-de-tren-en-pozuelo",
+      "type": "official",
+      "relevance_en": "Documents the railway context: the Madrid-El Escorial section opened to the public on 9 August 1861, Pozuelo was the first station after Madrid, and the railway helped create the La Estación neighborhood.",
+      "relevance_es": "Documenta el contexto ferroviario: el tramo Madrid-El Escorial se abrió al público el 9 de agosto de 1861, Pozuelo era la primera estación después de Madrid y el ferrocarril contribuyó al nacimiento del barrio de La Estación."
+    },
+    {
+      "title": "Pozuelo IN: ...y pasó a llamarse Pozuelo de Alarcón",
+      "url": "https://pozueloin.es/publicacion/febrero-de-2021/memoriahistorica/y-paso-llamarse-pozuelo-de-alarcon/",
+      "type": "press",
+      "relevance_en": "Useful secondary local account quoting the reported condition that Pozuelo de Aravaca should thereafter be called Villa de Pozuelo de Alarcón; helpful but less authoritative than the town council and Toponomasticon.",
+      "relevance_es": "Relato local secundario que cita la condición atribuida de que Pozuelo de Aravaca pasara a llamarse Villa de Pozuelo de Alarcón; útil, aunque menos autoritativo que el Ayuntamiento y Toponomasticon."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the direct derivation 'from Latin puteolu' with a more cautious formulation: Pozuelo is a Castilian diminutive of pozo; Latin puteolu existed and would have yielded pozuelo, but Toponomasticon Hispaniae says most Castilian Pozuelo names are Romance formations rather than necessarily direct Latin survivals.",
+      "es": "Sustituir la derivación directa «del latín puteolu» por una fórmula más cauta: Pozuelo es un diminutivo castellano de pozo; existió el latín puteolu y habría dado pozuelo, pero Toponomasticon Hispaniae indica que la mayoría de los Pozuelo castellanos son formaciones romances, no necesariamente continuidades latinas directas."
+    },
+    {
+      "en": "Treat the Muslim-dug-well explanation as local tradition or a secondary theory, not as a verified historical fact.",
+      "es": "Tratar la explicación de los pozos excavados por musulmanes como tradición local o teoría secundaria, no como hecho histórico verificado."
+    },
+    {
+      "en": "Use Gabriel de Ocaña y Alarcón or Gabriel Ocaña de Alarcón consistently; authoritative local sources identify him as the purchaser linked to the 1632 name change.",
+      "es": "Usar de forma coherente Gabriel de Ocaña y Alarcón o Gabriel Ocaña de Alarcón; las fuentes locales autorizadas lo identifican como el comprador vinculado al cambio de nombre de 1632."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A direct archival image or transcription of the 31 January 1632 sale deed would be useful to verify the exact legal wording of the name-change condition.",
+      "es": "Sería útil consultar una imagen o transcripción archivística directa de la escritura de venta del 31 de enero de 1632 para verificar la redacción legal exacta de la condición de cambio de nombre."
+    },
+    {
+      "en": "No official act assigning the railway station name 'Pozuelo' was found; the station appears to have inherited the established place name when the Madrid-El Escorial railway opened in 1861.",
+      "es": "No se ha localizado un acto oficial que asigne a la estación el nombre «Pozuelo»; la estación parece haber heredado el topónimo existente al abrirse el ferrocarril Madrid-El Escorial en 1861."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_063/en/summary.short.md",
+      "summary": "content/stations/cercanias_063/en/summary.md",
+      "story": "content/stations/cercanias_063/en/story.md",
+      "confidence": "content/stations/cercanias_063/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_063/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_063/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_063/es/summary.short.md",
+      "summary": "content/stations/cercanias_063/es/summary.md",
+      "story": "content/stations/cercanias_063/es/story.md",
+      "confidence": "content/stations/cercanias_063/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_063/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_063/es/research-note.md"
+    }
+  }
+}

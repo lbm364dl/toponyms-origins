@@ -1,0 +1,1 @@
+The station's official location and Renfe station file clearly support an industrial Villaverde interpretation, and municipal sources support the San Cristóbal de los Ángeles context. Confidence is not marked verified because I did not find a primary source explicitly explaining the naming decision, the exact renaming date, or the opening date.

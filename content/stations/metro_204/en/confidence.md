@@ -1,0 +1,1 @@
+The station's current name, location, interchange role, and 2003 opening are supported by official CRTM and Comunidad de Madrid material and by a technical Revista de Obras Públicas article. Confidence is probable rather than verified because I did not locate a formal naming act or an official source explicitly saying 'the station was named Puerta del Sur because...'.

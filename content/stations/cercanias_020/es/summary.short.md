@@ -1,0 +1,1 @@
+Getafe Sector 3 es un nombre descriptivo tomado del cercano barrio del Sector III. El nombre del barrio procede de una denominación técnica urbanística usada para un gran desarrollo residencial de finales del siglo XX al oeste de la antigua carretera de Toledo.

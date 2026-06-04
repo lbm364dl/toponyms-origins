@@ -1,0 +1,1 @@
+The station was formerly Madrid-Chamartín and received the official name Madrid-Chamartín-Clara Campoamor in 2020 to honor Clara Campoamor, the Madrid-born lawyer and parliamentarian central to women’s suffrage in Spain. Chamartín itself preserves the name of the old municipality of Chamartín de la Rosa, probably a medieval repopulation toponym built from personal names.

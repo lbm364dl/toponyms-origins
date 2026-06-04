@@ -1,0 +1,1 @@
+The botanical and linguistic explanation of retama is well supported, but the row overstates direct evidence that the station was named for wild plants on this exact site. The station is in Alcorcon and is best explained as taking its name from Avenida de las Retamas / the local Las Retamas area, not from a Mostoles neighbourhood.

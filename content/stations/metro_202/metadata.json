@@ -1,0 +1,104 @@
+{
+  "id": "metro_202",
+  "name": "Rivas-Urbanizaciones",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "the Rivas urbanizaciones residential area around Covibar in Rivas-Vaciamadrid",
+  "previous_names": "",
+  "naming_date": "7 April 1999",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 9. Tramo: Puerta de Arganda-Arganda del Rey",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-9-tramo-puerta-arganda-arganda-rey",
+      "type": "official",
+      "relevance_en": "Community of Madrid source documenting the 7 April 1999 opening, the four new stations, TFM concession, and that Rivas Urbanizaciones serves a residential area of urbanizaciones and facilities.",
+      "relevance_es": "Fuente oficial de la Comunidad de Madrid que documenta la apertura del 7 de abril de 1999, las cuatro estaciones nuevas, la concesión de TFM y que Rivas Urbanizaciones sirve a un conjunto residencial de urbanizaciones y equipamientos."
+    },
+    {
+      "title": "Memoria informativa del Plan General de Ordenación de Rivas-Vaciamadrid",
+      "url": "https://www.nuevosvecinos.com/descargas/brivassectores/MEMORIA-INFOR.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document stating that the Community of Madrid had decided the names: the station in the old town as Rivas-Vaciamadrid and the one located in Covibar as Rivas-Urbanizaciones.",
+      "relevance_es": "Memoria de planeamiento municipal que indica que la Comunidad de Madrid había decidido los nombres: la estación del casco antiguo como Rivas-Vaciamadrid y la ubicada en Covibar como Rivas-Urbanizaciones."
+    },
+    {
+      "title": "Estación de Rivas Urbanizaciones",
+      "url": "https://www.memoriademadrid.es/view/567867/estacion-de-rivas-urbanizaciones",
+      "type": "archive",
+      "relevance_en": "Archivo fotográfico de Metro de Madrid, via memoriademadrid, confirming the station belonged to Line 9, opened in April 1999, and served Rivas-Vaciamadrid, specifically the Covibar neighbourhood.",
+      "relevance_es": "Archivo fotográfico de Metro de Madrid, a través de memoriademadrid, que confirma que la estación pertenecía a la línea 9, se inauguró en abril de 1999 y prestaba servicio a Rivas-Vaciamadrid, concretamente al barrio de Covibar."
+    },
+    {
+      "title": "INEbase: Alteraciones de los municipios en los Censos de Población desde 1842 - Rivas-Vaciamadrid",
+      "url": "https://www.ine.es/intercensal/intercensal.do?btnBuscarDenom=Consultar+selecci%EF%BF%BDn&cmbTipoBusq=0&search=1&textoMunicipio=rivas-vaciamadrid",
+      "type": "official",
+      "relevance_en": "INE census table confirming Rivas-Vaciamadrid had 653 population of derecho in 1981 and recording former census names such as Ribas de Jarama and Rivas de Jarama.",
+      "relevance_es": "Tabla censal del INE que confirma que Rivas-Vaciamadrid tenía 653 habitantes de derecho en 1981 y recoge denominaciones censales anteriores como Ribas de Jarama y Rivas de Jarama."
+    },
+    {
+      "title": "Rivas, una ciudad ya de 85.000 habitantes",
+      "url": "https://www.rivasciudad.es/noticias/organizacion-municipal/2016/06/20/rivas-una-ciudad-ya-de-85-000-habitantes/862600042576/",
+      "type": "official",
+      "relevance_en": "Municipal article explaining that Rivas Vaciamadrid took that denomination in 1845 after the union of Ribas del Jarama and Vaciamadrid, useful background for the municipal place-name.",
+      "relevance_es": "Artículo municipal que explica que Rivas Vaciamadrid adoptó esa denominación en 1845 tras la unión de Ribas del Jarama y Vaciamadrid, contexto útil para el topónimo municipal."
+    },
+    {
+      "title": "Rutas de Restaurantes y algo más en la Comunidad de Madrid",
+      "url": "https://www.madrid.org/bvirtual/BVCM015033.pdf",
+      "type": "official",
+      "relevance_en": "Community of Madrid publication giving background on Vaciamadrid's possible derivation from Mazalmadrit, Manzil Mayrit, or Haçalmadrit and noting later urban growth through Pablo Iglesias and Covibar housing developments.",
+      "relevance_es": "Publicación de la Comunidad de Madrid que aporta contexto sobre la posible derivación de Vaciamadrid desde Mazalmadrit, Manzil Mayrit o Haçalmadrit, y menciona el crecimiento posterior por las urbanizaciones de Pablo Iglesias y Covibar."
+    },
+    {
+      "title": "¿Cuál es el gentilicio de Vaciamadrid?",
+      "url": "https://www.diarioderivas.es/gentilicio-vaciamadrid/",
+      "type": "press",
+      "relevance_en": "Local article summarizing scholarly references on Vaciamadrid, including Jaime Oliver Asín and Dolores Oliver, useful for identifying contested or variant Arabic etymologies.",
+      "relevance_es": "Artículo local que resume referencias académicas sobre Vaciamadrid, incluidos Jaime Oliver Asín y Dolores Oliver, útil para identificar variantes o debates sobre la etimología árabe."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 653 inhabitants in 1981 from INE census data, rather than 500.",
+      "es": "Usar 653 habitantes en 1981 según los censos del INE, no 500."
+    },
+    {
+      "en": "The station is named more specifically after the Rivas urbanizaciones/Covibar residential area, not simply after the whole municipality of Rivas-Vaciamadrid.",
+      "es": "La estación toma su nombre más específicamente de las urbanizaciones de Rivas/el entorno de Covibar, no simplemente de todo el municipio de Rivas-Vaciamadrid."
+    },
+    {
+      "en": "The medieval etymology of Vaciamadrid should be presented as background and with variants, not as the station's direct etymology.",
+      "es": "La etimología medieval de Vaciamadrid debe presentarse como contexto y con variantes, no como la etimología directa de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal naming resolution or BOCM notice assigning the station name was not found; the best available evidence is project and municipal planning documentation.",
+      "es": "No se localizó una resolución formal o anuncio del BOCM que asignara el nombre de la estación; la mejor prueba disponible procede de documentación de proyecto y planeamiento municipal."
+    },
+    {
+      "en": "The older Rivas/Vaciamadrid etymologies would benefit from direct inspection of Jaime Oliver Asín's 1948 article if the dataset wants to describe the municipality name in detail.",
+      "es": "Las etimologías antiguas de Rivas/Vaciamadrid se beneficiarían de la consulta directa del artículo de Jaime Oliver Asín de 1948 si el conjunto de datos quiere explicar con detalle el nombre municipal."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_202/en/summary.short.md",
+      "summary": "content/stations/metro_202/en/summary.md",
+      "story": "content/stations/metro_202/en/story.md",
+      "confidence": "content/stations/metro_202/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_202/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_202/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_202/es/summary.short.md",
+      "summary": "content/stations/metro_202/es/summary.md",
+      "story": "content/stations/metro_202/es/story.md",
+      "confidence": "content/stations/metro_202/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_202/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_202/es/research-note.md"
+    }
+  }
+}

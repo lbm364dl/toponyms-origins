@@ -1,0 +1,1 @@
+La estación de Parla recibe el nombre del municipio madrileño al que sirve. La explicación académica mejor respaldada deriva el topónimo de un nombre personal romano, Parilus, con el sentido de una finca o villa perteneciente a ese propietario.

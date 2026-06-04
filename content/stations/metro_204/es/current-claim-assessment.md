@@ -1,0 +1,1 @@
+La explicación funcional está bien respaldada: Puerta del Sur es el intercambiador donde la línea 10 conecta la red principal de Metro de Madrid con MetroSur. La afirmación de que se llama así por un centro comercial de Alcorcón no aparece respaldada en las fuentes localizadas y probablemente es errónea.

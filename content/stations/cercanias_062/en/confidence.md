@@ -1,0 +1,1 @@
+The current station name, operator, location and C-7/C-10 service are confirmed by Renfe, Adif and CRTM sources; the linguistic meaning of barrial is confirmed by the RAE. The commercial-centre context is strongly supported by contemporary press coverage, while the precise renaming date remains less directly sourced.

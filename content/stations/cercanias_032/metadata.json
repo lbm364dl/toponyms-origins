@@ -1,0 +1,108 @@
+{
+  "id": "cercanias_032",
+  "name": "Colmenar Viejo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Colmenar Viejo, the municipality; the place-name is best understood as 'old apiary/place of beehives', from Spanish colmenar and viejo",
+  "previous_names": "No former station name found. Historical place-name spellings/forms found: 'colmenar vieio' (1275), 'Colmenar Viejo' (1485 and later), 'Colmenar' (1697 map), 'Colmenarejo' (1707 map, treated by Toponomasticon Hispaniae as probably a written transcription error).",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Renfe data station sheet: COLMENAR VIEJO, code 17005",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion17005.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the railway station name, municipality, coordinates, operator area and commercial line C4B.",
+      "relevance_es": "Confirma el nombre de la estación ferroviaria, el municipio, las coordenadas, el área de explotación y la línea comercial C4B."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Colmenar Viejo",
+      "url": "https://toponhisp.org/node/1423",
+      "type": "academic",
+      "relevance_en": "Provides the strongest toponymic analysis: Colmenar as 'place/concentration of beehives', Viejo as a transparent adjective, early documentation from 1275, and a warning that the old-man story looks like popular etymology.",
+      "relevance_es": "Aporta el análisis toponímico más sólido: Colmenar como 'lugar/concentración de colmenas', Viejo como adjetivo transparente, documentación desde 1275 y la advertencia de que la historia del viejo parece una etimología popular."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: COLMENA",
+      "url": "https://toponhisp.org/es/etimo/colmena",
+      "type": "academic",
+      "relevance_en": "Explains the uncertain origin of colmena, the doubtful Celtic hypothesis attributed to Coromines, and the early medieval use of colmenar.",
+      "relevance_es": "Explica el origen incierto de colmena, la hipótesis céltica dudosa atribuida a Coromines y el uso medieval temprano de colmenar."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: VĔT(Ŭ)LA, VĔT(Ŭ)LU",
+      "url": "https://toponhisp.org/es/etimo/vetula-vetulu",
+      "type": "academic",
+      "relevance_en": "Documents the Latin source of Spanish viejo and links Colmenar Viejo to that etymon.",
+      "relevance_es": "Documenta la procedencia latina de viejo y vincula Colmenar Viejo con ese étimo."
+    },
+    {
+      "title": "Ayuntamiento de Colmenar Viejo: El nombre de Colmenar Viejo",
+      "url": "https://colmenarviejo.com/ayuntamiento/concejalias/cultura-y-turismo/turismo/evolucion-historica/el-nombre-de-colmenar-viejo",
+      "type": "official",
+      "relevance_en": "Shows the municipality's public account of the two-hypothesis/unclear origin and the traditional story involving Diego González Primo's houses, a beehive site, an old man, and the Alcalá-Segovia road.",
+      "relevance_es": "Muestra la explicación pública municipal sobre el origen no claro y la tradición vinculada a las casas de Diego González Primo, un colmenar, un anciano y el camino de Alcalá a Segovia."
+    },
+    {
+      "title": "Colmenar Viejo. Territorio y villa",
+      "url": "https://dialnet.unirioja.es/descarga/libro/1021517.pdf",
+      "type": "book",
+      "relevance_en": "Recent local history volume with detailed discussion of the Relaciones Topográficas answers, the 1579-1580 chronology, the exact traditional account, and skepticism about whether the old-beekeeper story can be fully accepted.",
+      "relevance_es": "Volumen reciente de historia local con una discusión detallada de las respuestas de las Relaciones Topográficas, la cronología de 1579-1580, el relato tradicional exacto y las cautelas sobre si la historia del viejo colmenero puede aceptarse plenamente."
+    },
+    {
+      "title": "Instituto Geográfico Nacional: La cartografía histórica del I.G.N., fuente para el estudio de núcleos urbanos: el caso de Colmenar Viejo (Madrid)",
+      "url": "https://www.ign.es/web/resources/docs/IGNCnig/CTC-Cartografia-Historica-Colmenar-Viejo.pdf",
+      "type": "official",
+      "relevance_en": "Provides historical-cartographic context for Colmenar Viejo, including its administrative position in the 18th and 19th centuries and IGN map documentation.",
+      "relevance_es": "Aporta contexto histórico-cartográfico sobre Colmenar Viejo, incluida su posición administrativa en los siglos XVIII y XIX y la documentación cartográfica del IGN."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state the Celtic origin of colmena as fact; Toponomasticon Hispaniae says the origin is uncertain and that Coromines proposed the Celtic *kolmena hypothesis with doubts.",
+      "es": "No debe afirmarse como hecho el origen céltico de colmena; Toponomasticon Hispaniae indica que el origen es incierto y que Coromines propuso con dudas la hipótesis céltica *kolmena."
+    },
+    {
+      "en": "The first attestation should be updated from 1287 to the 1275 'colmenar vieio' cited by Toponomasticon Hispaniae, unless the dataset is specifically tracking another documentary series.",
+      "es": "La primera documentación debería actualizarse de 1287 a la forma 'colmenar vieio' de 1275 citada por Toponomasticon Hispaniae, salvo que el conjunto de datos esté siguiendo otra serie documental concreta."
+    },
+    {
+      "en": "The old beekeeper account should be marked as a 16th-century local/traditional explanation, not as the most secure etymology.",
+      "es": "La historia del viejo colmenero debe marcarse como explicación local o tradicional del siglo XVI, no como la etimología más segura."
+    },
+    {
+      "en": "The Relaciones Topográficas material is tied to the 1579 questionnaire and answers known on 6 January 1580; using only '1579' is understandable but imprecise.",
+      "es": "El material de las Relaciones Topográficas se vincula al cuestionario de 1579 y a respuestas conocidas el 6 de enero de 1580; decir solo '1579' es comprensible, pero impreciso."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspecting the original manuscript or a critical edition of the Relaciones Topográficas for Colmenar Viejo would allow exact wording and dating to be normalized beyond the quoted secondary transcriptions.",
+      "es": "La consulta del manuscrito original o de una edición crítica de las Relaciones Topográficas de Colmenar Viejo permitiría normalizar la literalidad y la datación más allá de las transcripciones secundarias citadas."
+    },
+    {
+      "en": "No official naming act for the railway station was found; it appears to have carried the municipal name from railway use, but the exact administrative naming date remains unverified.",
+      "es": "No se ha localizado un acto oficial de denominación de la estación ferroviaria; parece haber usado el nombre municipal desde su explotación ferroviaria, pero la fecha administrativa exacta de asignación del nombre queda sin verificar."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_032/en/summary.short.md",
+      "summary": "content/stations/cercanias_032/en/summary.md",
+      "story": "content/stations/cercanias_032/en/story.md",
+      "confidence": "content/stations/cercanias_032/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_032/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_032/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_032/es/summary.short.md",
+      "summary": "content/stations/cercanias_032/es/summary.md",
+      "story": "content/stations/cercanias_032/es/story.md",
+      "confidence": "content/stations/cercanias_032/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_032/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_032/es/research-note.md"
+    }
+  }
+}

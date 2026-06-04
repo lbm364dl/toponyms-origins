@@ -1,0 +1,9 @@
+The Cercanías stop called **Recoletos** is named directly after Paseo de Recoletos, the boulevard above the station between Cibeles and Colón. Renfe's own station page locates the stop on that paseo, and Renfe's etymology note states that both the promenade and the rail stop take their name from the former convent of the Recollects of Saint Augustine.
+
+Behind the modern street name was the **Convento de Agustinos Recoletos**, founded in 1592 by Eufrasia de Guzmán, princess of Ascoli. The RAE definition helps explain the word: *recoleto* originally refers especially to an Augustinian religious person or order practising a stricter form of observance. In other words, Recoletos is not a family name here, but a memory of a religious community.
+
+The area was still on the edge of early modern Madrid when the convent appeared. Historical landscape research describes the northern continuation of the Prado de San Jerónimo as the Prado de los Agustinos Recoletos because it passed through or beside land connected with the convent founded in 1592. The making of the paseo was not simply the result of monastic gardens: it involved municipal works such as expropriations, leveling, tree planting and water management.
+
+The convent did not survive the nineteenth century. Memoria de Madrid records that it was demolished after the 1836 disentailment, and that its site was later transformed; today the surrounding area is associated with major cultural buildings such as the Biblioteca Nacional and the Museo Arqueológico Nacional, as well as nineteenth-century palaces and cultural foundations along the boulevard.
+
+The station therefore carries a layered name. Operationally it is a central Cercanías stop on the Atocha-Chamartín corridor; toponymically it is a street name; historically it is a religious name. The best-supported chain is: station -> Paseo de Recoletos -> former Augustinian Recollect convent.

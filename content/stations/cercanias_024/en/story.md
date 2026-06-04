@@ -1,0 +1,9 @@
+Valdemoro station takes its name directly from Valdemoro, the municipality south of Madrid where it stands. The rail stop is not named after a person, saint, battle, or railway company: it carries the local place-name into the Cercanías network.
+
+The most authoritative etymological source found, Toponomasticon Hispaniae, treats Valdemoro as a Castilian compound. Its first element is valle, 'valley'; the difficult part is moro. Emilio Nieto Ballester's entry argues that, in this case, moro is probably an adjective meaning 'dark' or 'brownish', so the name would mean something like 'dark valley' or 'dusky valley'.
+
+That reading also explains why the modern form has de. Toponomasticon Hispaniae proposes an evolution from a form like Vallemoro to Valmoro and then Valdemoro, with de added by analogy with many Spanish Valde- place-names. The same source points to related names such as Valmoreno, Valmorisco, Valdemorito and Valmoro as support for an adjective rather than a literal ethnic reference.
+
+The town itself is old enough for the name to predate the railway by many centuries. The Ayuntamiento notes that no written testimony for Valdemoro is preserved before the medieval period, and that the place was linked to the Segovian council in 1190 under Alfonso VIII. The railway arrived much later: Valdemoro was chosen as an intermediate stop on the Madrid-Aranjuez line, opened on 9 February 1851.
+
+There are competing explanations, including 'valley of the Moor(s)', Arabic Wadi al-murr, blackberries or mulberries, a personal name Maurus, and a theory involving walls or ruins. These are useful local traditions and scholarly possibilities, but the best current evidence favors the Romance 'dark valley' interpretation. The confidence is high that the station is named after the municipality, and probable rather than absolute for the deeper etymology of the place-name.

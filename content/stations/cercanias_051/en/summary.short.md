@@ -1,0 +1,1 @@
+Alcorcón station is named after the municipality it serves. The town name is most plausibly explained as a hybrid name connected with Latin quercus, 'oak/holm oak', with Arabic influence in the initial al-, although a traditional Arabic 'hill' theory also exists.

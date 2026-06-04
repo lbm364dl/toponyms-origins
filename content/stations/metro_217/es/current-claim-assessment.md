@@ -1,0 +1,1 @@
+La afirmación central es correcta: la estación toma el nombre de Carabanchel Alto, el Carabanchel situado a mayor altura y antiguo municipio anexionado a Madrid en 1948. La etimología profunda de 'Carabanchel' sigue discutida, y el contexto de la cárcel es una memoria local importante, pero no es el origen del nombre de la estación.

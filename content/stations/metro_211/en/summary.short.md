@@ -1,0 +1,1 @@
+La Granja station takes its name from Calle de La Granja, one of the streets of Alcobendas's industrial estate. The word means 'farm', but the documented origin is the local street and business-area name rather than a verified historical farm.

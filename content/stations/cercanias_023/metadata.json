@@ -1,0 +1,97 @@
+{
+  "id": "cercanias_023",
+  "name": "Pinto",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pinto, the Madrid municipality; its name is best explained as a Romance/Latin colour adjective from *PĪNCTA/*PĪNCTU or pinctus, 'painted, coloured', probably with an omitted noun or possibly through a nickname.",
+  "previous_names": "",
+  "naming_date": "1851 (railway line and Pinto stop documented; no separate station naming act found)",
+  "sources": [
+    {
+      "title": "Renfe station sheet: PINTO, Código 60103",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion60103.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the current station name PINTO, municipality Pinto, operator Renfe Viajeros, Cercanías Madrid area, and commercial line C3.",
+      "relevance_es": "Confirma el nombre actual de la estación, PINTO, el municipio de Pinto, el explotador Renfe Viajeros, el área de Cercanías Madrid y la línea comercial C3."
+    },
+    {
+      "title": "CRTM station page: Pinto",
+      "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_56/",
+      "type": "official",
+      "relevance_en": "Confirms Pinto as a current Cercanías station on C-3 with access in the municipality of Pinto.",
+      "relevance_es": "Confirma Pinto como estación actual de Cercanías en la C-3, con acceso en el municipio de Pinto."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Pinto",
+      "url": "https://toponhisp.org/node/3197",
+      "type": "academic",
+      "relevance_en": "Provides the strongest current scholarly toponymic source: Latin *PĪNCTA/*PĪNCTU, colour value, possible omitted noun or nickname route, and historical documentation from 1239 onward.",
+      "relevance_es": "Aporta la fuente toponímica académica más sólida: latín *PĪNCTA/*PĪNCTU, valor de color, posible sustantivo omitido o vía de apodo, y documentación histórica desde 1239."
+    },
+    {
+      "title": "Jairo J. García Sánchez, 'La Comunidad de Madrid y sus topónimos (y IV)', Centro Virtual Cervantes, 31 August 2007",
+      "url": "https://cvc.cervantes.es/el_rinconete/anteriores/agosto_07/31082007_02.htm",
+      "type": "reference",
+      "relevance_en": "Supports the pinctus explanation for Pinto as an adjective meaning painted or of a certain colour, with an omitted noun.",
+      "relevance_es": "Respalda la explicación de Pinto desde pinctus como adjetivo con sentido de pintado o de cierto color, con un sustantivo omitido."
+    },
+    {
+      "title": "Agenda 21 en Pinto: Diagnóstico, Ayuntamiento de Pinto",
+      "url": "https://agenda21.ayto-pinto.es/documents/525005/6515cf3e-3d69-2c17-fa10-5282e2ef5d01",
+      "type": "official",
+      "relevance_en": "Documents the municipal historical narrative: the punctum crossing hypothesis, the Islamic centre-of-the-peninsula tradition, Alfonso VI in 1083, and the 1851 Madrid-Aranjuez railway passing and stopping in Pinto.",
+      "relevance_es": "Documenta el relato histórico municipal: la hipótesis de punctum como cruce, la tradición islámica del centro de la península, Alfonso VI en 1083 y el ferrocarril Madrid-Aranjuez de 1851 con parada en Pinto."
+    },
+    {
+      "title": "El País, 'Pinto, y centro', 23 September 2007",
+      "url": "https://elpais.com/diario/2007/09/23/madrid/1190546664_850215.html",
+      "type": "press",
+      "relevance_en": "Gives useful context for the centre-of-Spain legend and cites an eighteenth-century heraldic explanation connecting Pinto with 'Punto', illustrating the older folk etymology.",
+      "relevance_es": "Aporta contexto sobre la leyenda del centro de España y cita una explicación heráldica del siglo XVIII que relaciona Pinto con 'Punto', mostrando la etimología popular antigua."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the punctum, 'point/crossing', explanation as the best etymology; it is a popular or municipal historical hypothesis, while current scholarly toponymy favours the colour adjective.",
+      "es": "No conviene presentar la explicación desde punctum, 'punto/cruce', como la mejor etimología; es una hipótesis popular o histórico-municipal, mientras que la toponimia académica actual prefiere el adjetivo de color."
+    },
+    {
+      "en": "The input confidence of 'verified' should be nuanced: the station name source is verified, but the exact older landscape noun behind Pinto is not documented.",
+      "es": "La confianza 'verified' del registro debe matizarse: el origen inmediato del nombre de la estación está verificado, pero no está documentado el sustantivo paisajístico antiguo que habría quedado detrás de Pinto."
+    },
+    {
+      "en": "The Spanish named_after value should translate the gloss consistently as 'pintado/coloreado', not leave the English phrase 'painted/coloured'.",
+      "es": "El valor named_after_es debe traducir de forma coherente la glosa como 'pintado/coloreado', no dejar la frase inglesa 'painted/coloured'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No separate act assigning the station name was found; the practical naming date is tied to the Madrid-Aranjuez railway and Pinto stop in 1851.",
+      "es": "No se localizó un acto independiente de asignación del nombre de la estación; la fecha práctica de denominación queda ligada al ferrocarril Madrid-Aranjuez y a la parada de Pinto en 1851."
+    },
+    {
+      "en": "The exact noun modified by the original colour adjective, if there was one, remains unknown.",
+      "es": "Sigue sin conocerse el sustantivo exacto al que modificaba el adjetivo de color original, si lo hubo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_023/en/summary.short.md",
+      "summary": "content/stations/cercanias_023/en/summary.md",
+      "story": "content/stations/cercanias_023/en/story.md",
+      "confidence": "content/stations/cercanias_023/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_023/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_023/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_023/es/summary.short.md",
+      "summary": "content/stations/cercanias_023/es/summary.md",
+      "story": "content/stations/cercanias_023/es/story.md",
+      "confidence": "content/stations/cercanias_023/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_023/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_023/es/research-note.md"
+    }
+  }
+}

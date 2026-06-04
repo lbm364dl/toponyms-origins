@@ -1,0 +1,1 @@
+Coslada station is named after the municipality it serves. The place-name is old and disputed: Menéndez Pidal connected it with a Celtic word for hazel, while other authors relate it to local flint, gypsum, or livestock routes.

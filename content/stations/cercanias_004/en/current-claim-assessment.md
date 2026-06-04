@@ -1,0 +1,1 @@
+The Clara Campoamor part is officially verified by the BOE. The Chamartín etymology is plausible and supported for the Chamartín name family, but the input overstates the Madrid-specific evidence: the cited 1247 Echamartín form belongs to Chamartín in Ávila, not directly to Madrid-Chamartín.

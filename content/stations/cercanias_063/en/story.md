@@ -1,0 +1,9 @@
+The Cercanías station called **Pozuelo** is named for the municipality it serves, Pozuelo de Alarcón, just west of Madrid. Adif's current station page lists the station simply as Pozuelo, while the municipality behind the name is Pozuelo de Alarcón.
+
+The oldest part of the name is **Pozuelo**. Toponymists explain it as a Castilian diminutive of **pozo**, meaning 'well': a small well, or a place identified by wells and springs. The official municipal history also connects the name with the presence of wells and springs in the local territory.
+
+The name is medieval in documentation. The town council records the first appearance of Pozuelo in 1208, when Alfonso VIII fixed boundaries between Segovia and neighboring territories and the text said that **Pozolos** remained on Madrid's side. The municipality was long known as **Pozuelo de Aravaca**, because it lay within the sexmo of Aravaca, an administrative subdivision of Madrid's medieval territory.
+
+The second half of the municipal name, **de Alarcón**, came later. In 1632, the former royal jurisdiction was acquired by Gabriel de Ocaña y Alarcón, and the official municipal history says he made the change from Pozuelo de Aravaca to Pozuelo de Alarcón a condition of the purchase. Toponomasticon Hispaniae gives the specific date of the sale as 31 January 1632 and treats Alarcón here as a family name, itself ultimately derived from the town-name Alarcón in Cuenca.
+
+The railway adds another layer to the name's public life. The Madrid-El Escorial railway section opened on 9 August 1861, and Pozuelo was the first station after Madrid on a route that later became part of the northern railway corridor. The older dataset claim is therefore right in substance, but the Latin wording should be softened: there was a Latin diminutive **puteolu**, yet the best specialist source says the Madrid name is more securely a Castilian formation from **pozo** than a proven direct Latin survival.

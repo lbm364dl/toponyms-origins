@@ -1,0 +1,1 @@
+Getafe Central debe su nombre a su función como intercambiador central de MetroSur y Cercanías en Getafe. El topónimo Getafe probablemente procede de formas medievales como Xetafe/Xatafi, pero la explicación popular árabe de la 'calle larga' no está demostrada.

@@ -1,0 +1,1 @@
+El Goloso is named for the El Goloso area beside the Madrid-Colmenar road, now best known for its military base. The place-name is documented before the 1933 first stone of the barracks, but the original meaning of the toponym is uncertain.

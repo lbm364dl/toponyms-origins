@@ -1,0 +1,9 @@
+Rivas-Urbanizaciones is named after the residential urbanizaciones of Rivas-Vaciamadrid. In the station name, **Rivas** anchors the stop in the municipality, while **Urbanizaciones** identifies the housing-estate area rather than the old town. Community of Madrid documentation describes the stop as serving a residential complex made up of urbanizaciones, facilities, and services.
+
+The most specific local reference is Covibar, the cooperative housing area beside the station. A municipal planning document says the Community of Madrid had decided the names of the extension's Rivas stations: the one in the old town would be Rivas-Vaciamadrid, and the one located in Covibar would be Rivas-Urbanizaciones. That makes the name descriptive, but also locally precise.
+
+The transport chronology is clear. The Puerta de Arganda-Arganda del Rey extension entered service on **7 April 1999**, bringing Metro de Madrid beyond the city into the south-eastern corridor. Rivas-Urbanizaciones was one of the four new stations on that extension, together with Rivas-Vaciamadrid, La Poveda, and Arganda del Rey.
+
+The name also captures a major urban change. Rivas-Vaciamadrid was a very small municipality through much of the twentieth century; INE census data record 653 inhabitants in 1981. The growth of cooperative and planned residential developments such as Covibar and Pablo Iglesias helped transform it into a large suburban city, so the word Urbanizaciones marks the landscape that the new metro was built to serve.
+
+There is a deeper story behind the municipal name Rivas-Vaciamadrid, including the former places Ribas/Rivas del Jarama and Vaciamadrid, joined in the nineteenth century. However, that older toponymy is background here. The station's own name is best understood as a late twentieth-century transport name for the residential urbanizations of Rivas, not as a direct commemoration of a person or of the medieval origin of Vaciamadrid.

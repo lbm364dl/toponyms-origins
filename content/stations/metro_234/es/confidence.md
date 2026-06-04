@@ -1,0 +1,1 @@
+Fuentes oficiales de la Comunidad de Madrid y del CRTM conectan directamente la estacion con el cercano Conservatorio Profesional de Musica de Getafe, y la estacion se inauguro con la linea 12 bajo este nombre. La unica limitacion es que no se encontro una resolucion especifica de denominacion de la estacion, pero la evidencia geografica e institucional es directa.

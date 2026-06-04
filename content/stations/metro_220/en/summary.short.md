@@ -1,0 +1,1 @@
+Abrantes station is named for Avenida de Abrantes and the Carabanchel neighbourhood it serves. The name most probably belongs to the local group of Portuguese place-names around Avenida de Oporto, rather than to a directly documented dedication to the Dukes of Abrantes.

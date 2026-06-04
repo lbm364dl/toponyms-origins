@@ -1,0 +1,1 @@
+La denominación de la estación está respaldada directamente por las fichas de Renfe y Adif, que sitúan AZUQUECA en el municipio de Azuqueca de Henares. La etimología cuenta con un respaldo fuerte de Toponomasticon Hispaniae, proyecto especializado de investigación, aunque siguen documentadas teorías alternativas anteriores.

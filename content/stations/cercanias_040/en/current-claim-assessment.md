@@ -1,0 +1,1 @@
+The row is broadly supported: the station is named for the La Garena urban/residential area in Alcalá de Henares, and that name is documented as an older Lucena-family estate, also written La Garcena, around 1495. The proposed linguistic derivation from French/medieval Latin garenne/warenna is plausible but not proven for this specific Alcalá toponym.

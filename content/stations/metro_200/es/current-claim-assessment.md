@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación es descriptivo y alude a la parada de Metro que sirve a las terminales 1, 2 y 3 del aeropuerto. La cronología del aeropuerto y el cambio de nombre de 2014 a Adolfo Suárez están bien respaldados por Aena y el BOE, pero la explicación árabe de Barajas es débil y no debería presentarse como origen probable.

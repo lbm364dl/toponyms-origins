@@ -1,0 +1,1 @@
+La Peseta toma su nombre de la Avenida de la Peseta, eje principal del PAU de Carabanchel. La avenida forma parte de una toponimia local que recordaba la antigua moneda española justo cuando el euro sustituyó a la peseta.

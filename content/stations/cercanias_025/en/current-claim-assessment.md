@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station is named for the municipality, whose name is transparently formed from cien + pozuelos, with cien used in the toponymic sense of 'many'. The Buzanca water-supply explanation is supported by the municipal history, while Toponomasticon Hispaniae provides the stronger linguistic basis and a 1471 historical attestation.

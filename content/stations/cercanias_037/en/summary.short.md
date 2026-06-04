@@ -1,0 +1,1 @@
+The station is named for San Fernando de Henares, the town beside it. The town's name comes from the Royal Site of San Fernando, created in the 1740s around a royal cloth factory, and ultimately evokes Saint Ferdinand III of Castile plus the Henares river.

@@ -1,0 +1,1 @@
+La denominación directa de la estación por el municipio está confirmada por la ficha de Renfe, y el análisis toponímico recomendado está respaldado por Toponomasticon Hispaniae. La confianza no es absoluta en cuanto al origen remoto de colmena ni respecto a la historia del viejo colmenero, que las fuentes tratan expresamente como inciertas o probablemente populares.

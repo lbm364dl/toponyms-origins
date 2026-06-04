@@ -1,0 +1,1 @@
+El nombre de la estación está bien acreditado, pero la explicación pública debe evitar dar a entender que los trenes paran junto al recinto histórico del Colegio de San Ildefonso. La estación está junto al área del campus externo o científico; aun así, la historia universitaria es pertinente porque explica el nombre institucional Universidad de Alcalá.

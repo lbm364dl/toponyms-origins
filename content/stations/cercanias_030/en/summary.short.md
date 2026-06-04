@@ -1,0 +1,1 @@
+The station is named for the two municipalities it serves, Alcobendas and San Sebastián de los Reyes, whose urban centres meet along Avenida de España. San Sebastián de los Reyes has a documented royal-and-religious origin, while the older name Alcobendas remains etymologically uncertain.

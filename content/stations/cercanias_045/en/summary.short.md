@@ -1,0 +1,1 @@
+Guadalajara station is named after the city it serves. The city name goes back to the Arabic Wad al-Hayara or Wadi al-Hijara, usually interpreted as a stone-related name and often linked with the older Arriaca.

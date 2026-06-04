@@ -1,0 +1,1 @@
+The transport-name origin is strongly supported by Renfe and regional infrastructure sources: the station is in the central part of Getafe and opened as a MetroSur/Cercanías interchange in 2003. Confidence is not 'verified' for the deeper city-name etymology because the Arabic derivation is a recorded tradition but is explicitly treated as uncertain by a modern toponymist.

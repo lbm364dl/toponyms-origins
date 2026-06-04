@@ -1,0 +1,1 @@
+La estación de Doce de Octubre debe su nombre al cercano Hospital Universitario 12 de Octubre. El nombre actual del hospital sustituyó al franquista Ciudad Sanitaria Primero de Octubre y remite al 12 de octubre, Fiesta Nacional de España.

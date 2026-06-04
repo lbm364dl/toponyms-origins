@@ -1,0 +1,1 @@
+Renfe directly states that the station's name is due to the nearby natural setting, and the RAE definition supports the descriptive meaning of pinar as a pine-covered place. Official transport sources also confirm the station's current name as Pinar de las Rozas/Pinar, though the exact administrative act assigning the name was not located.

@@ -1,0 +1,1 @@
+El Pozo takes its name from El Pozo del Tío Raimundo, the nearby neighbourhood whose older name refers to a well associated with a man called Raimundo. The place became famous in the mid-20th century as one of Madrid's emblematic self-built working-class settlements.

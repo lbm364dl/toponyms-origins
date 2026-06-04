@@ -1,0 +1,1 @@
+La estación de San Nicasio toma su nombre del barrio leganense donde se encuentra. El topónimo procede de la devoción a San Nicasio, patrón de Leganés, centrada en la histórica ermita/parroquia levantada en el siglo XVIII sobre un culto local anterior.

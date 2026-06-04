@@ -1,0 +1,1 @@
+El nombre combina Las Margaritas, barrio compacto del centro-norte de Getafe con un claro patrón de calles con nombres florales, y el cercano campus de Getafe de la Universidad Carlos III de Madrid. La denominación oficial del transporte aparece hoy de forma desigual: el CRTM mantiene Las Margaritas - Universidad, mientras que Adif y Renfe figuran como Las Margaritas.

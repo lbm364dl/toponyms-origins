@@ -1,0 +1,1 @@
+Santa Eugenia station is named for the surrounding Santa Eugenia neighbourhood and avenue, created around the private Ciudad Residencial Santa Eugenia of 1971. Local memory says the development honored the developers' mother Eugenia, while Madrid's street-name documentation records Avenida de Santa Eugenia as a saint's name.

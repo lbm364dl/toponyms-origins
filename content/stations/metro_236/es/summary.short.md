@@ -1,0 +1,1 @@
+El Casar toma su nombre de la zona de El Casar, en Getafe Norte, junto a la avenida del Casar. El topónimo procede de casar, voz castellana antigua que significa un conjunto de casas, un caserío o, en uso más antiguo, un despoblado o solar arruinado.

@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_056",
+  "name": "Leganés",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Leganés, municipality south of Madrid; its name is traditionally linked to a former lagoon and légamo/légano, though specialist toponymy treats the etymology as difficult and not fully settled.",
+  "previous_names": "No former Cercanías station name found. For the place-name, early modern tradition gives Leganar or Legamar as earlier forms; Toponomasticon records medieval/early modern documentary forms such as Leganes.",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Leganés",
+      "url": "https://toponhisp.org/node/6284",
+      "type": "academic",
+      "relevance_en": "Specialist toponymic source: gives the 1580 lagoon/légano explanation, early documentary forms, and competing hypotheses; it explicitly treats the etymology as difficult.",
+      "relevance_es": "Fuente toponímica especializada: recoge la explicación de 1580 basada en la laguna y el légano, formas documentales antiguas e hipótesis competidoras; califica expresamente la etimología como difícil."
+    },
+    {
+      "title": "Ayuntamiento de Leganés: Historia de Leganés",
+      "url": "https://www.leganes.org/w/historia-de-leganes",
+      "type": "official",
+      "relevance_en": "Municipal historical account by the official chronicler; supports the local narrative of medieval settlement, Butarque, Legamar, water, farming, and later urban identity.",
+      "relevance_es": "Relato histórico municipal del cronista oficial; apoya la narración local del poblamiento medieval, Butarque, Legamar, el agua, las huertas y la identidad urbana posterior."
+    },
+    {
+      "title": "Adif: 35001 Leganés",
+      "url": "https://www.adif.es/w/35001-Legan%C3%A9s",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming the current station name Leganés, its address, and C-5 service information.",
+      "relevance_es": "Página oficial de infraestructura que confirma el nombre actual de la estación, Leganés, su dirección y la información de servicio de la C-5."
+    },
+    {
+      "title": "CRTM: Leganés Cercanías station",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_41/",
+      "type": "official",
+      "relevance_en": "Madrid transport consortium page confirming the station as Leganés, with C-5, Metro line 12, and bus interchanges.",
+      "relevance_es": "Página del Consorcio Regional de Transportes de Madrid que confirma la estación como Leganés, con correspondencias de C-5, Metro línea 12 y autobuses."
+    },
+    {
+      "title": "Renfe data: Ficha Estación 35001 Leganés",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35001.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming code 35001, name LEGANES, operator Renfe Viajeros, municipality Leganés, and commercial line C5.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el código 35001, el nombre LEGANES, el explotador Renfe Viajeros, el municipio Leganés y la línea comercial C5."
+    },
+    {
+      "title": "Comunidad de Madrid: Relaciones topográficas de Felipe II. Madrid",
+      "url": "https://www.comunidad.madrid/publicacion/ref/3083",
+      "type": "book",
+      "relevance_en": "Bibliographic record for the edited Madrid volume of the Relaciones Topográficas, the key primary-source corpus behind the sixteenth-century Leganés testimony; the full text was not inspected online.",
+      "relevance_es": "Registro bibliográfico de la edición madrileña de las Relaciones Topográficas, el corpus documental clave para el testimonio leganense del siglo XVI; el texto completo no se pudo consultar en línea."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española: légano",
+      "url": "https://dle.rae.es/l%C3%A9gano",
+      "type": "reference",
+      "relevance_en": "Lexical reference confirming that légano is a little-used synonym of légamo, supporting the meaning used in the traditional explanation.",
+      "relevance_es": "Referencia léxica que confirma que légano es un sinónimo poco usado de légamo, apoyando el significado empleado en la explicación tradicional."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the definitive 'from Latin leganos' with a more cautious formulation: the name is traditionally linked to Spanish légano/légamo, whose own origin is obscure.",
+      "es": "Sustituir el definitivo 'del latín leganos' por una formulación más prudente: el nombre se relaciona tradicionalmente con el español légano/légamo, cuyo origen propio es oscuro."
+    },
+    {
+      "en": "Do not present Legamar or Leganar as proven original forms; they are forms reported by early modern local tradition.",
+      "es": "No presentar Legamar o Leganar como formas originales probadas; son formas transmitidas por la tradición local de la Edad Moderna."
+    },
+    {
+      "en": "The claimed first documentation in 1232 was not confirmed in the inspected authoritative sources; Toponomasticon Hispaniae lists documentary attestations from 1476 onward.",
+      "es": "La supuesta primera documentación de 1232 no se confirmó en las fuentes autorizadas consultadas; Toponomasticon Hispaniae recoge testimonios documentales desde 1476."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the full printed edition of Alfredo Alvar Ezquerra, Relaciones topográficas de Felipe II: Madrid, to verify the exact Leganés wording and whether it reads Legamar, Leganar, or both in the manuscript tradition.",
+      "es": "Consultar la edición impresa completa de Alfredo Alvar Ezquerra, Relaciones topográficas de Felipe II: Madrid, para verificar la redacción exacta de Leganés y si la tradición manuscrita lee Legamar, Leganar o ambas formas."
+    },
+    {
+      "en": "Check archival material for the alleged 1232 attestation, because it was not corroborated by the sources inspected here.",
+      "es": "Comprobar documentación archivística sobre la supuesta mención de 1232, porque no quedó corroborada por las fuentes consultadas aquí."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_056/en/summary.short.md",
+      "summary": "content/stations/cercanias_056/en/summary.md",
+      "story": "content/stations/cercanias_056/en/story.md",
+      "confidence": "content/stations/cercanias_056/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_056/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_056/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_056/es/summary.short.md",
+      "summary": "content/stations/cercanias_056/es/summary.md",
+      "story": "content/stations/cercanias_056/es/story.md",
+      "confidence": "content/stations/cercanias_056/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_056/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_056/es/research-note.md"
+    }
+  }
+}

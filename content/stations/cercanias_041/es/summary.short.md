@@ -1,0 +1,1 @@
+La estación toma su nombre de Alcalá de Henares, la ciudad histórica a la que sirve. Alcalá conserva una palabra árabe para castillo o fortaleza, mientras que Henares es el nombre del río, explicado mejor como 'henares' o campos de heno.

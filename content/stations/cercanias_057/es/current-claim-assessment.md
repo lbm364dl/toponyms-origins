@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre del Parque de Polvoranca o Parque Forestal Polvoranca, en Leganés. Sin embargo, llamarlo parque regional es impreciso, y la cadena etimológica Laurianus-Loranque-Polboranca-Belluti es mucho más hipotética de lo que indica la fila.

@@ -1,0 +1,1 @@
+La estación de Aranjuez toma su nombre del Real Sitio y Villa al que sirve, célebre por su palacio, sus jardines y el paisaje del Tajo y el Jarama. El topónimo procede probablemente de las formas medievales Aranz/Aranzuel y suele relacionarse con el vasco aranz/arantza, 'espino' o 'espino albar', aunque la etimología no está cerrada.

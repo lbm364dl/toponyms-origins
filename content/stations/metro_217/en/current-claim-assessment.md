@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for Carabanchel Alto, the upper of the historic Carabanchel settlements and former municipality annexed to Madrid in 1948. The deeper etymology of 'Carabanchel' is genuinely debated, and the prison context is important local history but not the source of the station name.

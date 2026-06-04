@@ -1,0 +1,1 @@
+La relación entre la estación y el parque está sólidamente respaldada por la información de Renfe y del CRTM y por la situación geográfica. El topónimo histórico está bien documentado, pero la derivación lingüística detallada de la entrada no queda verificada y aparece contradicha o matizada por un estudio académico de toponimia.

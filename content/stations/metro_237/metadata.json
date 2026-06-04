@@ -1,0 +1,114 @@
+{
+  "id": "metro_237",
+  "name": "Los Espartales",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Los Espartales area/neighbourhood in Getafe Norte; the toponym means 'the esparto grass fields'",
+  "previous_names": "",
+  "naming_date": "11 April 2003",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Los Espartales",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_229",
+      "type": "official",
+      "relevance_en": "Current official transport listing confirming the station name, Line 12 connection, fare zone, access at Avenida de Rigoberta Menchu in Getafe, and associated services.",
+      "relevance_es": "Ficha oficial actual de transporte que confirma el nombre de la estación, la conexión con la línea 12, la zona tarifaria, el acceso en la avenida de Rigoberta Menchu en Getafe y los servicios asociados."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: Getafe Norte",
+      "url": "https://getafe.es/la-ciudad/poblacion/getafe-norte/",
+      "type": "official",
+      "relevance_en": "Municipal page stating that Getafe Norte is in the north of the municipality, was built mainly in the mid and late 1990s, and is served by Line 12 stations Los Espartales and El Casar.",
+      "relevance_es": "Página municipal que indica que Getafe Norte está al norte del municipio, se construyó sobre todo a mediados y finales de los años noventa, y cuenta con las estaciones de línea 12 Los Espartales y El Casar."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: Estación de Metro Los Espartales",
+      "url": "https://getafe.es/placemarks/estacion-de-metro-los-espartales/",
+      "type": "official",
+      "relevance_en": "Municipal place entry confirming the station name and address in Getafe.",
+      "relevance_es": "Ficha municipal de lugar que confirma el nombre de la estación y su dirección en Getafe."
+    },
+    {
+      "title": "Real Academia Española: espartal, Diccionario del estudiante",
+      "url": "https://www.rae.es/diccionario-estudiante/espartal",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source defining 'espartal' as land where esparto grows.",
+      "relevance_es": "Fuente léxica autorizada que define 'espartal' como terreno donde se cría esparto."
+    },
+    {
+      "title": "Real Academia Española: esparto, Diccionario del estudiante",
+      "url": "https://www.rae.es/diccionario-estudiante/esparto",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source describing esparto as a dry-zone plant with resistant leaves used for ropes, mats, paper pulp and other objects.",
+      "relevance_es": "Fuente léxica autorizada que describe el esparto como planta de zonas secas, con hojas resistentes usadas para cuerdas, esteras, pasta de papel y otros objetos."
+    },
+    {
+      "title": "Metro de Madrid, ¿Por qué sus estaciones se llaman así? sample: Los Espartales",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2023/03/7pag-MetroEstaciones.pdf",
+      "type": "book",
+      "relevance_en": "Book sample specifically covering Los Espartales: places it in Getafe Norte, notes its relation to the Coliseum football stadium, and states service began on 11 April 2003.",
+      "relevance_es": "Muestra de libro que trata específicamente Los Espartales: la sitúa en Getafe Norte, señala su relación con el estadio Coliseum y afirma que estableció servicio el 11 de abril de 2003."
+    },
+    {
+      "title": "Comunidad de Madrid: Hilado tradicional del esparto",
+      "url": "https://www.comunidad.madrid/patrimonio-cultural/hilado-tradicional-esparto",
+      "type": "official",
+      "relevance_en": "Official cultural-heritage page explaining esparto fibre, its extraction from atocha and albardin in the southeast of the Madrid region, and traditional products such as ropes and scouring pads.",
+      "relevance_es": "Página oficial de patrimonio cultural que explica la fibra de esparto, su extracción de atocha y albardín en el sureste de la región madrileña, y productos tradicionales como sogas y estropajos."
+    },
+    {
+      "title": "BOCM: Decreto 32/2025, Hilado Tradicional del Esparto",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2025/05/30/BOCM-20250530-44.PDF",
+      "type": "official",
+      "relevance_en": "Official legal declaration of traditional esparto spinning as intangible cultural heritage in the Community of Madrid, useful for the broader regional context of esparto.",
+      "relevance_es": "Declaración legal oficial del hilado tradicional del esparto como patrimonio cultural inmaterial de la Comunidad de Madrid, útil para contextualizar regionalmente el esparto."
+    },
+    {
+      "title": "Cadena SER Madrid Sur: La Comunidad de Madrid estudiará el cambio de nombre de la estación de Los Espartales de Getafe por 'Coliseum'",
+      "url": "https://cadenaser.com/cmadrid/2025/02/27/la-comunidad-de-madrid-estudiara-el-cambio-de-nombre-de-la-estacion-de-los-espartales-de-getafe-por-coliseum-ser-madrid-sur/",
+      "type": "press",
+      "relevance_en": "Reports the 2025 proposal to rename the station because of its proximity to Getafe CF's stadium; useful as current naming-change context, not as etymological proof.",
+      "relevance_es": "Informa de la propuesta de 2025 para cambiar el nombre de la estación por su cercanía al estadio del Getafe CF; útil como contexto de posible cambio, no como prueba etimológica."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station's direct naming as place-based rather than purely descriptive: it is named after the Los Espartales area, whose own name is descriptive.",
+      "es": "Clasificar la denominación directa de la estación como basada en un lugar, no solo como descriptiva: la estación se llama por la zona de Los Espartales, cuyo nombre sí es descriptivo."
+    },
+    {
+      "en": "Avoid presenting the exact former vegetation of the station site as proven; the sources support the meaning of 'espartal' and the regional ecology/craft context, but not a plot-level reconstruction.",
+      "es": "Evitar presentar como probada la vegetación antigua exacta del emplazamiento; las fuentes respaldan el significado de 'espartal' y el contexto ecológico/artesanal regional, pero no una reconstrucción parcela por parcela."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning file or naming act for Getafe Norte-Los Espartales would be useful to confirm whether the urban-sector name preserved a pre-existing rural toponym.",
+      "es": "Sería útil consultar un expediente urbanístico municipal o un acuerdo de denominación de Getafe Norte-Los Espartales para confirmar si el nombre del ámbito urbanístico conservaba un topónimo rural anterior."
+    },
+    {
+      "en": "The 2025 proposal to rename the station 'Coliseum' should be monitored, although official transport sources consulted still use Los Espartales.",
+      "es": "Conviene vigilar la propuesta de 2025 para renombrar la estación como 'Coliseum', aunque las fuentes oficiales de transporte consultadas siguen usando Los Espartales."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_237/en/summary.short.md",
+      "summary": "content/stations/metro_237/en/summary.md",
+      "story": "content/stations/metro_237/en/story.md",
+      "confidence": "content/stations/metro_237/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_237/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_237/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_237/es/summary.short.md",
+      "summary": "content/stations/metro_237/es/summary.md",
+      "story": "content/stations/metro_237/es/story.md",
+      "confidence": "content/stations/metro_237/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_237/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_237/es/research-note.md"
+    }
+  }
+}

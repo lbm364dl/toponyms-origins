@@ -1,0 +1,1 @@
+Carabanchel Alto significa el Carabanchel situado a mayor altura: la estación toma el nombre del antiguo núcleo alto de los dos Carabancheles. El municipio fue anexionado a Madrid por decreto en 1948, aunque el origen último de la palabra 'Carabanchel' sigue teniendo varias teorías.

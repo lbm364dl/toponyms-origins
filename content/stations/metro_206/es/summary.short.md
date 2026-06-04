@@ -1,0 +1,1 @@
+Cuatro Vientos toma su nombre de la zona y del aeródromo histórico cercanos. El origen más antiguo procede de un páramo documentado oficialmente como 'A los Cuatro Vientos', es decir, abierto 'a los cuatro vientos'.

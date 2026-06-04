@@ -1,0 +1,1 @@
+Loranca station takes its name from the Loranca neighbourhood of Fuenlabrada. The neighbourhood name revives an older medieval hamlet/despoblado of Loranca, remembered in early modern accounts as one of the settlements whose inhabitants moved to form Fuenlabrada.

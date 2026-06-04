@@ -1,0 +1,1 @@
+El nombre actual de la estación y el municipio están confirmados por datos de Renfe/Adif, y el significado agrícola de roza está respaldado por el diccionario de la RAE, material histórico municipal y referencias toponímicas. La confianza solo se matiza respecto al acto exacto de denominación de la estación y a detalles como la roza y quema o el contraste con Majadahonda.

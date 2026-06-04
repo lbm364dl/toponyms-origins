@@ -1,0 +1,97 @@
+{
+  "id": "cercanias_054",
+  "name": "Móstoles",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Móstoles, the municipality served by the station",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Estación Móstoles",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_48/",
+      "type": "official",
+      "relevance_en": "Confirms the current transport station name Móstoles, its C-5 correspondence, location in Móstoles, and interchange context.",
+      "relevance_es": "Confirma el nombre actual de la estación de transporte Móstoles, su correspondencia con la C-5, su ubicación en Móstoles y el contexto de intercambio."
+    },
+    {
+      "title": "Renfe: Plano de Cercanías Madrid, diciembre 2024",
+      "url": "https://www.renfe.com/content/dam/renfe/es/Viajeros/Secciones/Cercanias/Mapas/2024/plano-cercanias-madrid-dic-2024.pdf",
+      "type": "official",
+      "relevance_en": "Shows Móstoles as a station on the official Cercanías Madrid map and Móstoles-El Soto as the C-5 western terminus.",
+      "relevance_es": "Muestra Móstoles como estación en el plano oficial de Cercanías Madrid y Móstoles-El Soto como cabecera occidental de la C-5."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles: Recorrido por la Historia de Móstoles",
+      "url": "https://www.mostoles.es/es/ayuntamiento/ciudad/historia-mostoles.ficheros/123593-breve%20%20HISTORIA%20de%20MOSTOLES.pdf",
+      "type": "official",
+      "relevance_en": "Provides the local historical chronology, including a possible Visigothic monastery, the possible Arabic Mostel reference, and the secure 1144 phrase turrem de Monsteles.",
+      "relevance_es": "Aporta la cronología histórica local, incluido un posible monasterio visigodo, la posible referencia árabe Mostel y la forma segura de 1144 turrem de Monsteles."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Monesterio",
+      "url": "https://toponhisp.org/ca/node/3908",
+      "type": "academic",
+      "relevance_en": "Documents the wider Spanish toponymic family derived from Latin monasterium and notes that Móstoles may possibly belong to it.",
+      "relevance_es": "Documenta la familia toponímica española derivada del latín monasterium y señala que Móstoles podría pertenecer a ella."
+    },
+    {
+      "title": "Jesús Rodríguez Morales: Etimología de Móstoles",
+      "url": "https://celtiberia.net/es/biblioteca/?id=1935&pagina=1",
+      "type": "reference",
+      "relevance_en": "Summarizes the monisterium/monisteriis theory and presents a competing proposal from bustellum or a pasture-related term, useful for documenting the contested status.",
+      "relevance_es": "Resume la teoría de monisterium/monisteriis y presenta una propuesta rival desde bustellum o un término relacionado con prados, útil para documentar el carácter discutido."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles: Historia del ferrocarril Madrid-Almorox",
+      "url": "https://www.mostoles.es/fr/ayuntamiento/concejalias/concejalia-seguridad-emergencias-medioambiente/medio-ambiente/proyectos-ambientales/proyecto-via-verde-mostoles-almorox.fichiers/251700-Historia%20ferrocarril-Via%20verde.pdf",
+      "type": "official",
+      "relevance_en": "Gives transport chronology for the earlier Madrid-Almorox railway and the 1976 reuse of part of the route for the Madrid-Móstoles Cercanías service.",
+      "relevance_es": "Ofrece la cronología ferroviaria del antiguo Madrid-Almorox y la reutilización parcial del trazado en 1976 para el servicio de Cercanías Madrid-Móstoles."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state that Móstoles definitively means 'monasteries'; present this as one plausible etymology among several.",
+      "es": "No debe afirmarse que Móstoles signifique de forma definitiva 'monasterios'; conviene presentarlo como una etimología plausible entre varias."
+    },
+    {
+      "en": "The input's Spanish named_after value should say 'monasterios', not the English word 'monasteries'.",
+      "es": "El valor español named_after_es debe decir 'monasterios', no la palabra inglesa 'monasteries'."
+    },
+    {
+      "en": "The earliest secure document supports the medieval form Monsteles, but it does not by itself prove the existence of name-giving pre-Islamic monasteries.",
+      "es": "El documento seguro más antiguo respalda la forma medieval Monsteles, pero por sí solo no prueba la existencia de monasterios preislámicos que dieran nombre al lugar."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect a physical or digitized copy of Alejandro Peris Barrio, Móstoles: de pequeña aldea a ciudad populosa, especially the early pages cited by secondary summaries for the anthroponym theory.",
+      "es": "Consultar un ejemplar físico o digitalizado de Alejandro Peris Barrio, Móstoles: de pequeña aldea a ciudad populosa, especialmente las primeras páginas citadas por resúmenes secundarios para la teoría antroponímica."
+    },
+    {
+      "en": "Check the original 1144 charter and 1208 boundary record in an archival edition to confirm exact spellings and diplomatic context.",
+      "es": "Comprobar la carta original de 1144 y el deslinde de 1208 en una edición archivística para confirmar grafías exactas y contexto diplomático."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_054/en/summary.short.md",
+      "summary": "content/stations/cercanias_054/en/summary.md",
+      "story": "content/stations/cercanias_054/en/story.md",
+      "confidence": "content/stations/cercanias_054/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_054/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_054/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_054/es/summary.short.md",
+      "summary": "content/stations/cercanias_054/es/summary.md",
+      "story": "content/stations/cercanias_054/es/story.md",
+      "confidence": "content/stations/cercanias_054/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_054/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_054/es/research-note.md"
+    }
+  }
+}

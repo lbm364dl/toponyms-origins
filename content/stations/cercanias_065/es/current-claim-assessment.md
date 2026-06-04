@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación de Cercanías toma el nombre de Las Rozas de Madrid, y el topónimo municipal se relaciona con el castellano roza, terreno desbrozado o roturado para cultivo. Conviene matizar la redacción cuando da por necesaria la quema y cuando usa el contraste con Majadahonda como prueba.

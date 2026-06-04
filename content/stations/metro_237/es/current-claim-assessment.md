@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación toma su nombre de la zona de Los Espartales en Getafe Norte, y 'espartal' significa terreno donde se cría esparto. La mención más amplia a los suelos calcáreos del sur de Madrid es verosímil, pero las fuentes consultadas no la prueban directamente para el emplazamiento de la estación.

@@ -1,0 +1,9 @@
+Majadahonda station takes its name directly from the municipality of Majadahonda, west of Madrid. In transport terms, this is a place-derived station name: the Cercanías stop identifies the town it serves rather than commemorating a person or event.
+
+The older name behind the town is unusually transparent. Toponomasticon Hispaniae analyzes Majadahonda as the union of **majada**, a place where livestock is gathered at night and shepherds lodge, and **honda**, meaning deep or lower than the surrounding ground. In plain English, the name points to a deep or low-lying sheepfold: a pastoral place-name rooted in livestock, terrain, and settlement.
+
+Local history gives that linguistic explanation a settlement story. The Ayuntamiento de Majadahonda says the town's birth is not fully clear, but that it is believed Segovian shepherds settled in the area around the 13th century and built a few huts, forming a modest hamlet called Majada-Honda. The same municipal account adds caution: archaeological finds from a Roman-Visigothic settlement may push human occupation of the area further back.
+
+The name is documented well before the modern railway suburb. Toponomasticon Hispaniae records forms such as Majadahonda in late-15th-century documents, a passage from the Relaciones Topográficas around 1575 explaining huts rising in the deep sheepfold, and later spellings including Maxadahonda, Majalaonda and Majadaonda. Those variants show normal historical spelling fluctuation, not a different origin.
+
+The current Cercanías station belongs to lines C-7 and C-10. Renfe's station information says the present Majadahonda station opened in 1989, replacing the closed El Plantío stop; CRTM and Adif list the station today under the name Majadahonda. The etymology is therefore very secure, while the precise 13th-century foundation narrative should be treated as a supported local tradition rather than as the same level of proof as the word origin.

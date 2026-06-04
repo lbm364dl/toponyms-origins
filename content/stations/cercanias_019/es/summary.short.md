@@ -1,0 +1,1 @@
+Getafe Centro debe su nombre a su posición central en el municipio de Getafe. El nombre de la ciudad tiene un origen antiguo e incierto, con una tradición local de 1575 que hacía derivar Xetafe de voces árabes asociadas a la longitud porque el núcleo creció a lo largo del camino de Madrid a Toledo.

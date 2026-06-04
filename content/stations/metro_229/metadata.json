@@ -1,0 +1,96 @@
+{
+  "id": "metro_229",
+  "name": "Hospital de Fuenlabrada",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Hospital Universitario de Fuenlabrada",
+  "previous_names": "",
+  "naming_date": "2003-04-11 (station opened with MetroSur; no separate naming act found)",
+  "sources": [
+    {
+      "title": "CRTM - Hospital de Fuenlabrada metro station",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_219/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 12 connection, fare zone, and accesses on Camino del Molino, including hospital and university access labels.",
+      "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 12, la zona tarifaria y los accesos en el Camino del Molino, incluidos los accesos rotulados hacia hospital y universidad."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Places Hospital de Fuenlabrada station on Camino del Molino and describes it as part of MetroSur's Fuenlabrada section.",
+      "relevance_es": "Sitúa la estación Hospital de Fuenlabrada en el Camino del Molino y la describe como parte del tramo de Fuenlabrada de MetroSur."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/node/17616",
+      "type": "official",
+      "relevance_en": "Gives MetroSur's puesta en servicio date as 11 April 2003.",
+      "relevance_es": "Aporta la fecha de puesta en servicio de MetroSur: 11 de abril de 2003."
+    },
+    {
+      "title": "Hospital Universitario de Fuenlabrada - Historia",
+      "url": "https://www.comunidad.madrid/hospital/fuenlabrada/nosotros/historia-0",
+      "type": "official",
+      "relevance_en": "Provides the hospital's origin story, prior dependence on Hospital Severo Ochoa, planning in 1998, construction dates, January 2004 start, June 2004 full opening, and 2005 full operation.",
+      "relevance_es": "Aporta la historia del hospital, la dependencia previa del Hospital Severo Ochoa, la planificación de 1998, las fechas de construcción, el inicio en enero de 2004, la apertura total en junio de 2004 y el funcionamiento pleno en 2005."
+    },
+    {
+      "title": "BOE - Ley 13/2002, de 20 de diciembre, de Medidas Fiscales y Administrativas",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-4507",
+      "type": "official",
+      "relevance_en": "Primary legal source creating the public entity Hospital de Fuenlabrada and defining its healthcare purpose.",
+      "relevance_es": "Fuente legal primaria que crea el Ente Público Hospital de Fuenlabrada y define su finalidad asistencial."
+    },
+    {
+      "title": "Hospital Universitario de Fuenlabrada - Localización y plano",
+      "url": "https://www.comunidad.madrid/hospital/fuenlabrada/ciudadanos/localizacion-plano",
+      "type": "official",
+      "relevance_en": "Confirms the hospital's location at Camino del Molino 2 and explicitly says it is next to the Hospital de Fuenlabrada metro station.",
+      "relevance_es": "Confirma la ubicación del hospital en Camino del Molino 2 y afirma expresamente que está junto a la estación de metro Hospital de Fuenlabrada."
+    },
+    {
+      "title": "El País - El Insalud recibe 9.915 millones para el hospital de Fuenlabrada",
+      "url": "https://elpais.com/diario/1999/04/10/madrid/923743469_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press source documenting the 1999 investment decision and the intended service population of Fuenlabrada, Humanes and Moraleja de Enmedio.",
+      "relevance_es": "Fuente de prensa contemporánea que documenta la decisión inversora de 1999 y la población prevista de referencia de Fuenlabrada, Humanes y Moraleja de Enmedio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'largest Spanish city without its own hospital' with the better-supported official wording: Fuenlabrada was described as the only large Spanish city without a hospital.",
+      "es": "Sustituir 'la mayor ciudad española sin hospital propio' por la formulación oficial mejor respaldada: Fuenlabrada era descrita como la única gran ciudad española sin hospital."
+    },
+    {
+      "en": "Use June 2004 for the hospital's full opening and 2005 for the point at which it was functioning fully, rather than merging both as a single opening date.",
+      "es": "Usar junio de 2004 para la apertura total del hospital y 2005 para el momento en que funcionaba plenamente, en lugar de fusionarlos como una sola fecha de apertura."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No separate official station-naming resolution was found; the naming date is inferred from the MetroSur opening date.",
+      "es": "No se ha encontrado una resolución oficial específica de denominación de la estación; la fecha de denominación se infiere de la apertura de MetroSur."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_229/en/summary.short.md",
+      "summary": "content/stations/metro_229/en/summary.md",
+      "story": "content/stations/metro_229/en/story.md",
+      "confidence": "content/stations/metro_229/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_229/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_229/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_229/es/summary.short.md",
+      "summary": "content/stations/metro_229/es/summary.md",
+      "story": "content/stations/metro_229/es/story.md",
+      "confidence": "content/stations/metro_229/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_229/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_229/es/research-note.md"
+    }
+  }
+}

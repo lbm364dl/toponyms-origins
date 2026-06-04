@@ -1,0 +1,1 @@
+Rivas Futura debe su nombre al cercano desarrollo urbanístico y comercial Rivas Futura, una zona de expansión de Rivas-Vaciamadrid en los años 2000. La estación abrió el 11 de julio de 2008 como parada intermedia de la línea 9 entre Rivas Urbanizaciones y Rivas Vaciamadrid.

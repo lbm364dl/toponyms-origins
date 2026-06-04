@@ -1,0 +1,1 @@
+The strongest nuance is that Parque Oeste was not simply a shopping-centre label. Official and academic sources identify it as an Área de Centralidad planned from the late 1980s and reshaped through the 1990s into a mixed urban district. The station name follows that place-name; the commercial park helped popularize it, but it is not the whole etymology.

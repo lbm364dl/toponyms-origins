@@ -1,0 +1,108 @@
+{
+  "id": "cercanias_020",
+  "name": "Getafe Sector 3",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Sector III neighbourhood of Getafe, named from an urban-planning sector designation",
+  "previous_names": "",
+  "naming_date": "1995-05-28",
+  "sources": [
+    {
+      "title": "Ayuntamiento de Getafe: Sector III",
+      "url": "https://getafe.es/la-ciudad/poblacion/sector-iii/",
+      "type": "official",
+      "relevance_en": "Official municipal page identifying Sector III as a residential neighbourhood of Getafe, describing its terraced-house character, south-western location, facilities, and 2019 population of about 29,200.",
+      "relevance_es": "Página oficial municipal que identifica el Sector III como barrio residencial de Getafe y describe su carácter de viviendas adosadas, ubicación suroeste, equipamientos y población de unos 29.200 habitantes en 2019."
+    },
+    {
+      "title": "Renfe station data sheet: GETAFE-SECTOR 3, code 37011",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion37011.pdf",
+      "type": "official",
+      "relevance_en": "Official Renfe data sheet confirming the station name GETAFE-SECTOR 3, operator Renfe Viajeros, municipality Getafe, coordinates, and commercial lines C4A and C4B.",
+      "relevance_es": "Ficha oficial de Renfe que confirma el nombre GETAFE-SECTOR 3, el explotador Renfe Viajeros, el municipio de Getafe, las coordenadas y las líneas comerciales C4A y C4B."
+    },
+    {
+      "title": "CRTM: Getafe Sector 3",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_36",
+      "type": "official",
+      "relevance_en": "Regional transport page confirming current service on C-4a/C-4b, urban bus links, access at Calle del Cementerio Municipal, and fare-zone information.",
+      "relevance_es": "Página del Consorcio Regional de Transportes que confirma el servicio actual en C-4a/C-4b, enlaces con autobuses urbanos, acceso por la calle del Cementerio Municipal y zona tarifaria."
+    },
+    {
+      "title": "El País: Renfe da luz verde a la construcción de la quinta estación en Getafe",
+      "url": "https://elpais.com/diario/1995/06/13/madrid/803042662_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report stating that the Sector III station entered service on 28 May 1995, served the Sector III neighbourhood, and was located by the road to the municipal cemetery.",
+      "relevance_es": "Noticia contemporánea que indica que la estación del Sector III entró en funcionamiento el 28 de mayo de 1995, daba servicio al barrio del Sector III y se situaba junto a la carretera del cementerio municipal."
+    },
+    {
+      "title": "El País: El maleficio del Sector III",
+      "url": "https://elpais.com/diario/1995/11/19/madrid/816783857_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary follow-up describing the delayed construction of the Sector III Cercanías stop and noting that it opened to the public in May 1995.",
+      "relevance_es": "Seguimiento contemporáneo que describe los retrasos en la construcción del apeadero de Cercanías del Sector III y señala que se abrió al público en mayo de 1995."
+    },
+    {
+      "title": "Getafe_JRN.pdf",
+      "url": "https://museo.getafe.es/omeka/files/original/Getafe_JRN.pdf",
+      "type": "archive",
+      "relevance_en": "Local historical PDF explaining that the area urbanised between 1979 and 1988 continued to be known as Sector III from the technical designation in the General Urban Plan.",
+      "relevance_es": "PDF histórico local que explica que el área urbanizada entre 1979 y 1988 siguió conociéndose como Sector III por la denominación técnica del Plan General de Ordenación Urbana."
+    },
+    {
+      "title": "Acta municipal de Getafe, proposición sobre catálogo de bienes y espacios protegidos",
+      "url": "https://sede.getafe.es/portalGetafe/sede/RecursosWeb/DOCUMENTOS/1/0_18626_1.pdf",
+      "type": "official",
+      "relevance_en": "Municipal plenary documentation from 2023 asking to include the bunkers of the Cerro de los Ángeles and Sector III in Getafe's protected-assets catalogue and to seek regional heritage protection.",
+      "relevance_es": "Documentación plenaria municipal de 2023 que solicita incluir los búnkeres del Cerro de los Ángeles y del Sector III en el catálogo de bienes protegidos de Getafe e instar su protección patrimonial regional."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 28 May 1995 as the station opening/naming date rather than only a generic 1995.",
+      "es": "Usar el 28 de mayo de 1995 como fecha de apertura/asignación del nombre, no solo el año genérico 1995."
+    },
+    {
+      "en": "Treat 'Sector III' as the formal neighbourhood/planning name; 'Sector 3' is the station spelling used by transport operators.",
+      "es": "Tratar 'Sector III' como el nombre formal del barrio y del ámbito urbanístico; 'Sector 3' es la grafía de la estación usada por los operadores de transporte."
+    },
+    {
+      "en": "Remove or flag as unverified the claim that 1985 bulldozers nearly destroyed the bunkers and that the mayor ordered their preservation.",
+      "es": "Eliminar o marcar como no verificada la afirmación de que en 1985 las excavadoras casi destruyeron los búnkeres y que el alcalde ordenó conservarlos."
+    },
+    {
+      "en": "The input field person_nationality contains '1995', which is a data error for a non-person descriptive station.",
+      "es": "El campo de entrada person_nationality contiene '1995', un error de datos en una estación descriptiva que no remite a una persona."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Getafe General Urban Plan or Sector III partial-plan files to document the exact administrative wording and date of the 'Sector III' designation.",
+      "es": "Consultar el Plan General de Getafe original o los expedientes del plan parcial del Sector III para documentar la redacción administrativa exacta y la fecha de la denominación 'Sector III'."
+    },
+    {
+      "en": "Check local newspaper archives or municipal works files from the mid-1980s for the specific bunker-preservation story during Sector III construction.",
+      "es": "Revisar hemeroteca local o expedientes municipales de obras de mediados de los años ochenta para comprobar la historia concreta de preservación de los búnkeres durante la construcción del Sector III."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_020/en/summary.short.md",
+      "summary": "content/stations/cercanias_020/en/summary.md",
+      "story": "content/stations/cercanias_020/en/story.md",
+      "confidence": "content/stations/cercanias_020/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_020/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_020/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_020/es/summary.short.md",
+      "summary": "content/stations/cercanias_020/es/summary.md",
+      "story": "content/stations/cercanias_020/es/story.md",
+      "confidence": "content/stations/cercanias_020/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_020/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_020/es/research-note.md"
+    }
+  }
+}

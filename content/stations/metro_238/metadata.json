@@ -1,0 +1,111 @@
+{
+  "id": "metro_238",
+  "name": "El Bercial",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "El Bercial neighbourhood and older local place-name in Getafe; probably from bercial, a site with berceos/barceos (albardín), esparto-like grasses",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: estación El Bercial",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_230/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, Line 12 service, Getafe location, access, fare-zone and connecting bus services.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, el servicio de la línea 12, la ubicación en Getafe, el acceso, la zona tarifaria y las conexiones de autobús."
+    },
+    {
+      "title": "Ayuntamiento de Getafe: El Bercial",
+      "url": "https://getafe.es/la-ciudad/poblacion/el-bercial/",
+      "type": "official",
+      "relevance_en": "Municipal page confirming El Bercial as a Getafe neighbourhood and stating that its Metro Line 12 station bears the neighbourhood’s name.",
+      "relevance_es": "Página municipal que confirma El Bercial como barrio de Getafe y afirma que su estación de Metro de la línea 12 lleva el nombre del barrio."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española: bercial",
+      "url": "https://dle.rae.es/bercial",
+      "type": "reference",
+      "relevance_en": "Defines bercial as a site populated by berceos, supporting the botanical/topographic interpretation.",
+      "relevance_es": "Define bercial como sitio poblado de berceos, lo que respalda la interpretación botánica y topográfica."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española: albardín",
+      "url": "https://dle.rae.es/albard%C3%ADn",
+      "type": "reference",
+      "relevance_en": "Defines albardín as an esparto-like grass of Spanish steppes and gives barceo and berceo as synonyms.",
+      "relevance_es": "Define albardín como una mata parecida al esparto propia de las estepas españolas y da barceo y berceo como sinónimos."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Bercero",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/bercero",
+      "type": "academic",
+      "relevance_en": "A scholarly toponymy entry explaining that barceo, berceo and bercial indicate places abundant in barceo/Stipa-type grasses, useful as comparative evidence for the Madrid place-name.",
+      "relevance_es": "Ficha académica de toponimia que explica que barceo, berceo y bercial indican lugares abundantes en barceo o gramíneas del tipo Stipa, útil como evidencia comparativa para el topónimo madrileño."
+    },
+    {
+      "title": "Archivo Municipal de Getafe / Museo Getafe: El Bercial",
+      "url": "https://museo.getafe.es/omeka/files/original/ElBercial.pdf",
+      "type": "archive",
+      "relevance_en": "Local archival article explaining El Bercial from berceo/barceo/albardín, citing clear municipal references from the eighteenth century, and describing the modern urban development from 1956 onward.",
+      "relevance_es": "Artículo archivístico local que explica El Bercial por berceo/barceo/albardín, cita referencias municipales claras desde el siglo XVIII y describe el desarrollo urbano moderno desde 1956."
+    },
+    {
+      "title": "CP Seseña y Benavente: Datos del centro",
+      "url": "https://www.educa2.madrid.org/web/centro.cp.sesena.getafe/datos-del-centro",
+      "type": "official",
+      "relevance_en": "Public school page in El Bercial reporting the local uncertainty, the Hervestial map tradition, the berceo explanation, first residents in 1958, and the Metro station named for the neighbourhood.",
+      "relevance_es": "Página pública del colegio de El Bercial que recoge la incertidumbre local, la tradición cartográfica de Hervestial, la explicación por berceos, los primeros vecinos en 1958 y la estación de Metro con el nombre del barrio."
+    },
+    {
+      "title": "CRTM: Plano histórico de la red de Metro de Madrid 2019",
+      "url": "https://crtm.es/media/heofhgdi/serie_i_historico_metro_2019_portada.pdf",
+      "type": "official",
+      "relevance_en": "Official historical metro map showing El Bercial on MetroSur and the 11-4-2003 opening date for the Line 12 stations.",
+      "relevance_es": "Plano histórico oficial del Metro que muestra El Bercial en MetroSur y la fecha de apertura 11-4-2003 para las estaciones de la línea 12."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace “watercress area” with “place with berceos/barceos, esparto-like grasses”; watercress would be berro, not berceo.",
+      "es": "Sustituir “zona de berros” por “lugar con berceos/barceos, gramíneas parecidas al esparto”; berro no equivale a berceo."
+    },
+    {
+      "en": "Downgrade the underlying etymology from verified to probable because the Hervestial explanation is reported locally but not resolved by the available sources.",
+      "es": "Rebajar la etimología de fondo de verificada a probable, porque la explicación de Hervestial se cita localmente pero no queda resuelta con las fuentes disponibles."
+    },
+    {
+      "en": "Treat the station’s immediate naming source as the El Bercial neighbourhood/place-name, not directly as the plant itself.",
+      "es": "Tratar la fuente inmediata del nombre de la estación como el barrio/topónimo El Bercial, no directamente como la planta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original eighteenth-century municipal records and the Catastro de Ensenada entries cited by the Getafe archive text to confirm exact forms and dates.",
+      "es": "Consultar los documentos municipales originales del siglo XVIII y las entradas del Catastro de Ensenada citadas por el texto del archivo de Getafe para confirmar formas y fechas exactas."
+    },
+    {
+      "en": "Locate the historical map or maps that show Hervestial and determine whether it is a precursor, a parallel form, a scribal/cartographic error, or an unrelated nearby toponym.",
+      "es": "Localizar el mapa o los mapas históricos que muestran Hervestial y determinar si es antecedente, forma paralela, error gráfico/cartográfico o un topónimo cercano no relacionado."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_238/en/summary.short.md",
+      "summary": "content/stations/metro_238/en/summary.md",
+      "story": "content/stations/metro_238/en/story.md",
+      "confidence": "content/stations/metro_238/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_238/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_238/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_238/es/summary.short.md",
+      "summary": "content/stations/metro_238/es/summary.md",
+      "story": "content/stations/metro_238/es/story.md",
+      "confidence": "content/stations/metro_238/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_238/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_238/es/research-note.md"
+    }
+  }
+}

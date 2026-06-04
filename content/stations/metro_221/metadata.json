@@ -1,0 +1,103 @@
+{
+  "id": "metro_221",
+  "name": "Parque Lisboa",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque Lisboa / Parque de Lisboa, Alcorcón; ultimately Lisboa (Lisbon), Portugal",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Parque Lisboa station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_210?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current public-transport station name, Line 12 connection, fare zone, access points in Alcorcón, and the ticket hall name Parque de Lisboa.",
+      "relevance_es": "Confirma el nombre actual de la estación en el transporte público, la correspondencia con la línea 12, la zona tarifaria, los accesos en Alcorcón y el vestíbulo denominado Parque de Lisboa."
+    },
+    {
+      "title": "CRTM - Plano zonal Metro Parque Lisboa",
+      "url": "https://crtm.es/media/nmqpkfpw/plano_zonal_metro_parquelisboa.pdf",
+      "type": "official",
+      "relevance_en": "Maps the station access and nearby urban setting, including the station label Parque Lisboa.",
+      "relevance_es": "Sitúa cartográficamente el acceso de la estación y su entorno urbano, con la etiqueta Parque Lisboa."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón - Memoria definitiva para firma (planning/urban context)",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2022-12/Memoria%20definitiva%20para%20firma%20%28003%29.pdf",
+      "type": "official",
+      "relevance_en": "Provides the key historical context: Parque Lisboa began in 1969 between San José de Valderas and the old town, as part of Alcorcón's metropolitan residential expansion.",
+      "relevance_es": "Aporta el contexto histórico clave: Parque Lisboa se inició en 1969 entre San José de Valderas y el casco, dentro de la expansión residencial metropolitana de Alcorcón."
+    },
+    {
+      "title": "Archivo Municipal de Alcorcón - El Club Deportivo Parque Lisboa y el Ayuntamiento de Alcorcón, una historia a través de los documentos",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2024-07/ABRIL%202024%20EL%20CSD%20PARQUE%20LISBOA%20Y%20EL%20AYUNTAMIENTO%20DE%20ALCORC%C3%93N.pdf",
+      "type": "archive",
+      "relevance_en": "Shows the Parque de Lisboa name in local documentary use from 1968-1974 and links it to the San José de Valderas superblock area.",
+      "relevance_es": "Muestra el nombre Parque de Lisboa en uso documental local entre 1968 y 1974 y lo vincula a la supermanzana del poblado de San José de Valderas."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón - Alcorcón en transporte público",
+      "url": "https://www.ayto-alcorcon.es/es/servicios/movilidad/alcorcon-en-transporte-publico",
+      "type": "official",
+      "relevance_en": "Confirms Parque Lisboa as one of the Alcorcón areas served by local rail and states that Line 12/MetroSur includes Parque Lisboa among the stations in the municipality.",
+      "relevance_es": "Confirma Parque Lisboa como una de las zonas de Alcorcón servidas por el ferrocarril local y señala que la línea 12/MetroSur incluye Parque Lisboa entre las estaciones del municipio."
+    },
+    {
+      "title": "Comunidad de Madrid - 20th anniversary of MetroSur",
+      "url": "https://www.comunidad.madrid/noticias/2023/03/31/comunidad-madrid-celebra-20o-aniversario-metrosur-homenaje-cinco-municipios-circula",
+      "type": "official",
+      "relevance_en": "Confirms that the 28 MetroSur stations opened on 11 April 2003 and that the line connected Alcorcón with the other major south/southwest municipalities and the wider network.",
+      "relevance_es": "Confirma que las 28 estaciones de MetroSur se inauguraron el 11 de abril de 2003 y que la línea conectó Alcorcón con los demás grandes municipios del sur/suroeste y con el resto de la red."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón - ESMASA en tu zona llega a Parque Lisboa",
+      "url": "https://www.ayto-alcorcon.es/es/comunicacion/el-programa-esmasa-en-tu-zona-llega-parque-lisboa-para-optimizar-la-limpieza-y-el-mantenimiento-del-barrio",
+      "type": "official",
+      "relevance_en": "Confirms contemporary municipal use of Parque Lisboa as a neighborhood name and records nearby street names such as Porto Cristo, Porto Colón and Avenida de Lisboa.",
+      "relevance_es": "Confirma el uso municipal contemporáneo de Parque Lisboa como barrio y recoge calles próximas como Porto Cristo, Porto Colón y la avenida de Lisboa."
+    },
+    {
+      "title": "Visit Lisboa - Câmara Municipal de Lisboa",
+      "url": "https://www.visitlisboa.com/es/sitios/camara-municipal-de-lisboa",
+      "type": "official",
+      "relevance_en": "Supports the ultimate referent of the name by identifying Lisboa as the capital city of Portugal.",
+      "relevance_es": "Respalda el referente último del nombre al identificar Lisboa como la ciudad capital de Portugal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should be described as named after the Parque Lisboa/Parque de Lisboa neighborhood or local area, ultimately after Lisbon, rather than simply as named directly after the city of Lisbon.",
+      "es": "La estación debe describirse como nombrada por el barrio o área local Parque Lisboa/Parque de Lisboa, en última instancia por Lisboa, y no simplemente como nombrada directamente por la ciudad de Lisboa."
+    },
+    {
+      "en": "The development context can be made more precise: municipal documentation says Parque Lisboa began in 1969 between San José de Valderas and the old town center.",
+      "es": "El contexto de desarrollo puede precisarse más: la documentación municipal indica que Parque Lisboa se inició en 1969 entre San José de Valderas y el casco urbano."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or plenary agreement would be needed to prove the exact reason why the streets and neighborhood were given Lisbon/Portuguese names.",
+      "es": "Sería necesario consultar un expediente municipal de rotulación o acuerdo plenario para probar la razón exacta por la que las calles y el barrio recibieron nombres lisboetas o portugueses."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_221/en/summary.short.md",
+      "summary": "content/stations/metro_221/en/summary.md",
+      "story": "content/stations/metro_221/en/story.md",
+      "confidence": "content/stations/metro_221/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_221/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_221/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_221/es/summary.short.md",
+      "summary": "content/stations/metro_221/es/summary.md",
+      "story": "content/stations/metro_221/es/story.md",
+      "confidence": "content/stations/metro_221/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_221/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_221/es/research-note.md"
+    }
+  }
+}

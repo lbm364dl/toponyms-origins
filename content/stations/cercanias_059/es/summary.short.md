@@ -1,0 +1,1 @@
+La Serna-Fuenlabrada toma su nombre del barrio de La Serna, al norte de Fuenlabrada. El topónimo La Serna procede de la antigua voz agraria serna, una porción de tierra de sembradura o labrada aparte.

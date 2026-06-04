@@ -1,0 +1,1 @@
+La estación toma su nombre del municipio de El Escorial. El topónimo está discutido, pero Toponomasticon Hispaniae se inclina actualmente por una derivación de scoria, escoria o residuo, vinculada a antiguos contextos de herrería y carboneo en torno a La Herrería.

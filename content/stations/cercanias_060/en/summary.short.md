@@ -1,0 +1,1 @@
+Humanes station is named after Humanes de Madrid, the municipality it serves at the southern end of Cercanias line C-5. The place-name is best explained as a water-related toponym, although sources differ between a Paleo-European hydronymic root and Latin humidus, 'humid'.

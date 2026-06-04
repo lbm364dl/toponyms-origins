@@ -1,0 +1,1 @@
+Getafe Centro is named for its central position in the municipality of Getafe. The city name has an old, uncertain origin, with a 1575 local tradition deriving Xetafe from Arabic words associated with length because the settlement grew along the Madrid-Toledo road.
