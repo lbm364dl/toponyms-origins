@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación toma el nombre del barrio de Aluche, cuyo nombre se vincula al antiguo arroyo Luche. Sin embargo, la derivación desde una abreviatura cartográfica 'A. Luche' es débil y entra en conflicto con la documentación de 'Aluche' ya en 1580.

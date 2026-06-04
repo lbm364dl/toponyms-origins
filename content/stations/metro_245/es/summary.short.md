@@ -1,0 +1,1 @@
+La estación de Sierra de Guadalupe toma su nombre de la cercana calle de la Sierra de Guadalupe. Esa vía madrileña conserva el nombre del paisaje serrano de Guadalupe/Villuercas, en Cáceres, vinculado históricamente a la villa y al monasterio de Guadalupe.

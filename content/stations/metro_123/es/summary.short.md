@@ -1,0 +1,1 @@
+La estación de Pío XII toma su nombre de la avenida de Pío XII, vía madrileña dedicada al papa Pío XII, nacido Eugenio Pacelli. La estación se abrió el 30 de diciembre de 1983 en el tramo norte de la línea 9.

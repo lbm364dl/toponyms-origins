@@ -1,0 +1,1 @@
+La estación toma su nombre del Parque de las Avenidas, la zona residencial y ajardinada de mediados del siglo XX en La Guindalera. El nombre alude a la red planificada de avenidas y calles del conjunto, muchas con nombres de ciudades como Bruselas, Bonn y Brasilia.

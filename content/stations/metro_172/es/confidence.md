@@ -1,0 +1,1 @@
+La ubicación y el nombre de la estación están confirmados por fuentes de transporte, y el lugar llamado Parque de las Avenidas queda confirmado por fuentes municipales y arquitectónicas. No se marca como verificación plena porque no se ha localizado un acuerdo de denominación de Metro que explique explícitamente por qué se escogió ese nombre.

@@ -1,0 +1,1 @@
+Hospital Severo Ochoa station is named for the adjacent Leganés hospital. The hospital in turn honors Severo Ochoa de Albornoz, the Spanish-born biochemist and 1959 Nobel laureate in Physiology or Medicine.

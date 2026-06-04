@@ -1,0 +1,1 @@
+La estación de Avenida de Guadalajara debe su nombre a la avenida madrileña bajo la que se sitúa. La avenida remite a Guadalajara, la ciudad castellana cuyo nombre procede del árabe Wad/Wadi al-Hayara o Wadi al-Hiyara, entendido habitualmente como 'río' o 'valle de piedras'.

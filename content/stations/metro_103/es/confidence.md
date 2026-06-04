@@ -1,0 +1,1 @@
+Fuentes oficiales de turismo y patrimonio municipal identifican directamente la plaza de Colón como dedicada a Cristóbal Colón y documentan los autores y la cronología del monumento. La documentación regional de transportes confirma el contexto histórico de la línea 4 y su trazado inicial de 1944, y la ficha turística actual identifica Colón como L4.

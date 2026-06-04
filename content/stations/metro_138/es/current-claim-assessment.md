@@ -1,0 +1,1 @@
+La afirmación principal es verosímil: el nombre de la estación remite al barrio madrileño de Pueblo Nuevo, literalmente 'pueblo nuevo'. Sin embargo, el detalle del origen procede de fuentes secundarias de historia local; la cronología de anexión debe corregirse a Canillas y Canillejas en 1950 y Vicálvaro en 1951.

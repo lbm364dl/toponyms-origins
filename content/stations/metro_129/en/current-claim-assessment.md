@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes a compound place-and-landmark name from the Arganzuela district and the nearby Planetario de Madrid. Several supporting details are correct, but the claim that the name was chosen specifically to distinguish it from Legazpi is plausible inference rather than directly sourced evidence.

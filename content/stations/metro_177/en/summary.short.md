@@ -1,0 +1,1 @@
+San Lorenzo station takes its name from the San Lorenzo barrio in Hortaleza, where it opened on 15 December 1998. The barrio name is ultimately religious, referring to Saint Lawrence of Rome, though the direct naming source is the local neighbourhood rather than a documented parish dedication.

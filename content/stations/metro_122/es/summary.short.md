@@ -1,0 +1,1 @@
+Toma su nombre de la Ciudad Universitaria de Madrid, gran campus universitario y barrio oficial de Moncloa-Aravaca. El proyecto nació bajo Alfonso XIII en 1927 y se convirtió en uno de los grandes paisajes académicos de Madrid.

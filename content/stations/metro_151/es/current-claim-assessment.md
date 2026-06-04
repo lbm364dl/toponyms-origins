@@ -1,0 +1,1 @@
+La afirmación existente es sustancialmente correcta: el nombre de la estación alude a Julián Besteiro Fernández, profesor madrileño, político socialista, dirigente del PSOE y de la UGT y presidente de las Cortes Constituyentes republicanas. Conviene añadir el contexto local de la estación en Leganés y usar la página del Congreso para las fechas parlamentarias precisas.

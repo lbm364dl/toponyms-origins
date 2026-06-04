@@ -1,0 +1,9 @@
+Las Rosas station is named for the place it serves: the Las Rosas urban area in the district of San Blas-Canillejas. The current administrative neighborhood is officially called Rosas, while everyday and transport usage often keeps the article in Las Rosas. That is why the Metro terminus uses the familiar local form rather than the shorter administrative one.
+
+The strongest evidence points to a modern urban-planning name. Madrid municipal documentation describes the barrio of Rosas as taking its name from the Las Rosas urbanization, a recently urbanized area continuing the newer part of Arcos. Planning records from the 1985 General Plan and later status reports also identify sectors called Las Rosas in San Blas.
+
+The wider story is one of Madrid's eastern expansion. The area formed part of the Ensanche Este de San Blas, planned to complete and transform the city's eastern fringe between existing San Blas, Vicálvaro, the cemetery area and the M-40. Contemporary planning literature for the sector Las Rosas described it as a major opportunity to create new housing, streets, parks and facilities on what had been peripheral land.
+
+This name also carries a sharp urban-history contrast. Municipal and press sources link the development of Las Rosas with the disappearance of the Los Focos or Los Módulos shanty settlement near Avenida de Guadalajara. In the 1990s, the new residential district, shopping centre and later Metro extension helped consolidate a very different image for this part of San Blas.
+
+The literal meaning of Las Rosas is 'the roses', but that should not be mistaken for a proven etymology. I found no authoritative source showing that the name came from a specific old estate, nursery or rose garden. The safe public explanation is therefore that the station is named after the modern Las Rosas urbanization and Rosas neighborhood; the ultimate reason why that urban sector was called Las Rosas remains open.

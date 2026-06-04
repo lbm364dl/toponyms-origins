@@ -1,0 +1,111 @@
+{
+  "id": "metro_153",
+  "name": "Alonso de Mendoza",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Alonso de Mendoza y Núñez de Prado",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Alonso de Mendoza station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_225?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 12, fare zone, access points, and Getafe location.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la línea 12, la zona tarifaria, los accesos y su ubicación en Getafe."
+    },
+    {
+      "title": "CRTM - Plano zonal de Alonso de Mendoza",
+      "url": "https://www.crtm.es/media/1kfns3wj/plano_zonal_alonsodemendoza.pdf",
+      "type": "official",
+      "relevance_en": "Official station-area map showing Calle de Alonso de Mendoza next to the station, supporting the street-derived naming explanation.",
+      "relevance_es": "Plano oficial del entorno de la estación que muestra la calle de Alonso de Mendoza junto a la estación, respaldando la explicación del nombre por la calle."
+    },
+    {
+      "title": "Ayuntamiento de Getafe - Estación de Metro Alonso de Mendoza",
+      "url": "https://getafe.es/placemarks/estacion-de-metro-alonso-de-mendoza-2/",
+      "type": "official",
+      "relevance_en": "Municipal page confirming the station as a Getafe place and giving its local address at Calle Greco.",
+      "relevance_es": "Página municipal que confirma la estación como equipamiento de Getafe y da su dirección local en la calle Greco."
+    },
+    {
+      "title": "Fundación Hospital de San José - El Hospitalillo",
+      "url": "https://fundacionhospitaldesanjose.es/conoce-el-hospitalillo/",
+      "type": "official",
+      "relevance_en": "Foundation source identifying Alonso de Mendoza y Núñez de Prado, his 5 September 1507 will at Bonilla de la Sierra, his link to Alonso Carrillo de Albornoz, and the charitable purpose of the hospital.",
+      "relevance_es": "Fuente de la Fundación que identifica a Alonso de Mendoza y Núñez de Prado, su testamento del 5 de septiembre de 1507 en Bonilla de la Sierra, su vínculo con Alonso Carrillo de Albornoz y la finalidad benéfica del hospital."
+    },
+    {
+      "title": "Comunidad de Madrid - Hospitalillo de San José",
+      "url": "https://www.madrid.org/monumentoscercanias/hospitalillo-san-jose.html",
+      "type": "official",
+      "relevance_en": "Regional heritage page describing the Hospitalillo de San José, its attribution to Alonso de Mendoza, its historic hospital use, later restoration, and current social-services role.",
+      "relevance_es": "Página patrimonial regional que describe el Hospitalillo de San José, su atribución a Alonso de Mendoza, su uso hospitalario histórico, su rehabilitación posterior y su función actual de servicios sociales."
+    },
+    {
+      "title": "Comunidad de Madrid - 20th anniversary of MetroSur",
+      "url": "https://www.comunidad.madrid/noticias/2023/03/31/comunidad-madrid-celebra-20o-aniversario-metrosur-homenaje-cinco-municipios-circula",
+      "type": "official",
+      "relevance_en": "Official regional source confirming that MetroSur's 28 stations opened on 11 April 2003 and connected Getafe with the other southern municipalities and Madrid.",
+      "relevance_es": "Fuente oficial regional que confirma que las 28 estaciones de MetroSur se inauguraron el 11 de abril de 2003 y conectaron Getafe con los demás municipios del sur y con Madrid."
+    },
+    {
+      "title": "La Gatera de la Villa nº 57 - El Hospital de San José de Getafe, camino de los cinco siglos de historia",
+      "url": "https://es.slideshare.net/slideshow/la-gatera-de-la-villa-n-57-historia-y-patrimonio-de-madrid/283296114",
+      "type": "reference",
+      "relevance_en": "Local-history article explicitly stating that the Metro station is named after the adjacent street and that the Getafe name refers to the hospital benefactor, not the conquistador; it also cites the 1507 will and Archivo Histórico de Getafe materials.",
+      "relevance_es": "Artículo de historia local que afirma expresamente que la estación toma el nombre de la calle contigua y que el topónimo getafense alude al benefactor del hospital, no al conquistador; también cita el testamento de 1507 y materiales del Archivo Histórico de Getafe."
+    },
+    {
+      "title": "Investigart - La historia cuenta: El Hospitalillo de San José en Getafe",
+      "url": "https://www.investigart.com/2015/07/06/la-historia-cuenta-el-hospitalillo-de-san-jose-en-getafe/",
+      "type": "other",
+      "relevance_en": "Accessible heritage essay explaining Mendoza's charitable foundation or endowment, the hospital's placement on the Madrid-Toledo road, its care for poor sick people from Getafe, Pinto, and Griñón, and later architectural history.",
+      "relevance_es": "Ensayo patrimonial accesible que explica la fundación o dotación benéfica de Mendoza, la ubicación del hospital en el camino Madrid-Toledo, la atención a enfermos pobres de Getafe, Pinto y Griñón, y su evolución arquitectónica posterior."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not identify the station name with the conquistador Alonso de Mendoza, founder of La Paz; the better-supported Getafe referent is the hospital benefactor Alonso de Mendoza y Núñez de Prado.",
+      "es": "No debe identificarse el nombre de la estación con el conquistador Alonso de Mendoza, fundador de La Paz; el referente getafense mejor respaldado es el benefactor hospitalario Alonso de Mendoza y Núñez de Prado."
+    },
+    {
+      "en": "Phrase the hospital claim carefully: inspected sources support his 1507 testamentary endowment and the enlargement or regulation of an existing hospital, while some summaries simplify this as founding the Hospital de San José.",
+      "es": "Conviene formular con cuidado la referencia al hospital: las fuentes consultadas respaldan su dotación testamentaria de 1507 y la ampliación u ordenación de un hospital ya existente, aunque algunos resúmenes lo simplifican como fundación del Hospital de San José."
+    },
+    {
+      "en": "The inspected sources prove the 5 September 1507 will date, but not a precise death date; 'd. c. 1507' should remain approximate unless a primary death record is inspected.",
+      "es": "Las fuentes consultadas prueban la fecha del testamento, 5 de septiembre de 1507, pero no una fecha exacta de fallecimiento; 'm. c. 1507' debe mantenerse como aproximado salvo que se consulte una partida o documento primario de defunción."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The municipal act or street-naming file for Calle de Alonso de Mendoza in Getafe was not located; it would be the strongest source for the street's official namesake.",
+      "es": "No se ha localizado el acuerdo municipal o expediente de denominación de la calle de Alonso de Mendoza en Getafe; sería la fuente más sólida para confirmar oficialmente a quién se dedicó la calle."
+    },
+    {
+      "en": "The will of Alonso de Mendoza dated 5 September 1507 is cited as held by the Archivo Histórico de Getafe, but the full primary document was not directly inspected here.",
+      "es": "El testamento de Alonso de Mendoza fechado el 5 de septiembre de 1507 se cita como conservado en el Archivo Histórico de Getafe, pero no se ha consultado directamente el documento primario completo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_153/en/summary.short.md",
+      "summary": "content/stations/metro_153/en/summary.md",
+      "story": "content/stations/metro_153/en/story.md",
+      "confidence": "content/stations/metro_153/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_153/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_153/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_153/es/summary.short.md",
+      "summary": "content/stations/metro_153/es/summary.md",
+      "story": "content/stations/metro_153/es/story.md",
+      "confidence": "content/stations/metro_153/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_153/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_153/es/research-note.md"
+    }
+  }
+}

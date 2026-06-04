@@ -1,0 +1,1 @@
+El nombre actual de la estación, la línea y el contexto de apertura están respaldados por fuentes del CRTM y de la Comunidad de Madrid, y el significado literal de peña/grande está respaldado por el diccionario de la RAE. La motivación histórica exacta del topónimo local es menos segura porque las fuentes consultadas no documentan directamente una roca concreta como hito.

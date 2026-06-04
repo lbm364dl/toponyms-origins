@@ -1,0 +1,118 @@
+{
+  "id": "metro_257",
+  "name": "Villaverde Alto",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Villaverde Alto, Casco Histórico de Villaverde",
+  "previous_names": "Barrio administrativo: San Andrés, renamed Villaverde Alto, Casco Histórico de Villaverde in 2017. Station former names: none found.",
+  "naming_date": "Place-name Villaverde Alto used from 1954 after Villaverde's integration into Madrid; Metro station opened 21 April 2007; administrative barrio renamed 31 October 2017.",
+  "sources": [
+    {
+      "title": "Plan Integral de Barrio de Villaverde Alto, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Fondo_Reequilibrio_Territorial/Folleto_Villaverde/PIBAs_Villaverde_Info-2019.pdf",
+      "type": "official",
+      "relevance_en": "States that Villaverde Alto is the oldest nucleus and origin of the municipality, and that the name was taken in 1954 in contrast with Villaverde Bajo across the old Andalucía road by the railway workshops.",
+      "relevance_es": "Indica que Villaverde Alto es el núcleo más antiguo y origen del municipio, y que tomó ese nombre en 1954 en contraposición a Villaverde Bajo, al otro lado de la antigua carretera de Andalucía junto a los talleres ferroviarios."
+    },
+    {
+      "title": "BOAM nº 8034/2478, Acuerdo de 31 de octubre de 2017 del Pleno del Ayuntamiento de Madrid",
+      "url": "https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?vgnextchannel=741d814231ede410VgnVCM1000000b205a0aRCRD&vgnextoid=3ff02f84749bf510VgnVCM2000001f4a900a0RCRD",
+      "type": "official",
+      "relevance_en": "Officially records the change of the barrio name from San Andrés to Villaverde Alto, Casco Histórico de Villaverde.",
+      "relevance_es": "Registra oficialmente el cambio de denominación del barrio de San Andrés a Villaverde Alto, Casco Histórico de Villaverde."
+    },
+    {
+      "title": "Archivo municipal de Villaverde, Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villaverde/Archivo-de-Villa/?idCapitulo=12083840&vgnextchannel=9f51ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Villaverde's municipal archive dates to 1918-1954 and that Villaverde was annexed to Madrid by Ministry of the Interior decree of 2 July 1954.",
+      "relevance_es": "Confirma que el archivo municipal de Villaverde comprende documentación de 1918-1954 y que Villaverde fue anexionado a Madrid por decreto del Ministerio de la Gobernación de 2 de julio de 1954."
+    },
+    {
+      "title": "Inauguración de la ampliación de L 3 a Villaverde Alto, memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/568599/inauguracion-de-la-ampliacion-de-l-3-a-villaverde-alto",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record documenting the 2007 inauguration of the Line 3 extension to Villaverde.",
+      "relevance_es": "Registro del Archivo fotográfico de Metro de Madrid que documenta la inauguración en 2007 de la ampliación de la línea 3 hasta Villaverde."
+    },
+    {
+      "title": "Aguirre y Gallardón inauguran el Metro a Villaverde, Europa Press",
+      "url": "https://www.europapress.es/nacional/noticia-aguirre-gallardon-inauguran-metro-villaverde-conecta-sur-madrid-sol-menos-30-minutos-20070421154058.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 21 April 2007 giving the opening date and listing Villaverde Alto among the seven new stations on the Line 3 extension.",
+      "relevance_es": "Crónica contemporánea del 21 de abril de 2007 que da la fecha de apertura y enumera Villaverde Alto entre las siete nuevas estaciones de la ampliación de la línea 3."
+    },
+    {
+      "title": "VĬRĬDE, Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/etimo/viride",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic reference linking Spanish place-names including Villaverde to the Latin viridis element meaning green.",
+      "relevance_es": "Referencia toponímica autorizada que vincula topónimos españoles, incluido Villaverde, con el elemento latino viridis, 'verde'."
+    },
+    {
+      "title": "¿Qué es verde en Villaverde? El origen del nombre de los barrios de Madrid, Verne / El País",
+      "url": "https://verne.elpais.com/verne/2018/11/08/articulo/1541696193_356223.html",
+      "type": "press",
+      "relevance_en": "Madrid toponymy article citing Luis Miguel Sánchez Molledo and noting competing explanations for Villaverde: surrounding greenery or Santiago el Verde, with documentation from the fifteenth century.",
+      "relevance_es": "Artículo de toponimia madrileña que cita a Luis Miguel Sánchez Molledo y recoge explicaciones competidoras para Villaverde: el verdor del entorno o Santiago el Verde, con documentación desde el siglo XV."
+    },
+    {
+      "title": "Villaverde Alto, Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_92/?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current intermodal transport role of Villaverde Alto, including Metro line 3 and Cercanías C-4/C-5 connections.",
+      "relevance_es": "Confirma la función intermodal actual de Villaverde Alto, incluidas la línea 3 de Metro y las conexiones de Cercanías C-4/C-5."
+    },
+    {
+      "title": "Fábrica Barreiros Diesel, Guía de Arquitectura de Madrid, COAM",
+      "url": "https://fcoam.eu/guia/F3/F3.351.htm",
+      "type": "reference",
+      "relevance_en": "Provides authoritative architectural context for the Barreiros industrial complex in Villaverde, including its expansion into a 1,300,000 m2 factory complex.",
+      "relevance_es": "Aporta contexto arquitectónico autorizado sobre el complejo industrial Barreiros en Villaverde, incluida su ampliación hasta formar un conjunto fabril de 1.300.000 m²."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present 'Villaverde = villa viridis' as a fully verified Latin form for this Madrid place; present it more cautiously as a probable relation to villa plus verde/Latin viridis, with an alternative Santiago el Verde theory noted.",
+      "es": "No debe presentarse 'Villaverde = villa viridis' como forma latina plenamente verificada para este lugar madrileño; conviene formularlo con más cautela como probable relación con villa más verde/latín viridis, mencionando la teoría alternativa de Santiago el Verde."
+    },
+    {
+      "en": "The Barreiros factory is important local industrial context, but it is not part of the station name's origin.",
+      "es": "La fábrica Barreiros es un contexto industrial local importante, pero no forma parte del origen del nombre de la estación."
+    },
+    {
+      "en": "The administrative barrio name was San Andrés until the 2017 Madrid City Council agreement renamed it Villaverde Alto, Casco Histórico de Villaverde.",
+      "es": "El barrio administrativo se llamó San Andrés hasta que el acuerdo municipal de 2017 lo renombró Villaverde Alto, Casco Histórico de Villaverde."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full historical-toponymic verification would require inspecting the fifteenth-century documentation in which Villaverde first appears and the relevant local-history works cited by Madrid toponymy specialists.",
+      "es": "Una verificación histórico-toponímica completa requeriría revisar la documentación del siglo XV en la que aparece Villaverde por primera vez y las obras de historia local citadas por especialistas en toponimia madrileña."
+    },
+    {
+      "en": "No direct evidence was found that the railway station itself ever had a different official name before the current intermodal name.",
+      "es": "No se encontró evidencia directa de que la estación ferroviaria tuviera otro nombre oficial antes de la denominación intermodal actual."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_257/en/summary.short.md",
+      "summary": "content/stations/metro_257/en/summary.md",
+      "story": "content/stations/metro_257/en/story.md",
+      "confidence": "content/stations/metro_257/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_257/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_257/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_257/es/summary.short.md",
+      "summary": "content/stations/metro_257/es/summary.md",
+      "story": "content/stations/metro_257/es/story.md",
+      "confidence": "content/stations/metro_257/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_257/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_257/es/research-note.md"
+    }
+  }
+}

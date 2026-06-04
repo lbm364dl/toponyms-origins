@@ -1,0 +1,1 @@
+La etimología léxica de «congosto» como desfiladero o paso estrecho procedente del latín coangustus está bien respaldada. Sin embargo, la estación toma el nombre de forma más directa de la calle del Congosto y del área o colonia de Congosto, no de un barrio oficial de Madrid; queda sin verificar el motivo local exacto por el que se nombró la calle.

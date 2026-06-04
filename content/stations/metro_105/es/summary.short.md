@@ -1,0 +1,1 @@
+La estación de Alonso Cano toma su nombre de la calle de Alonso Cano, en Chamberí, dedicada al artista barroco granadino Alonso Cano (1601-1667). Cano destacó por practicar la pintura, la escultura, la arquitectura y el dibujo.

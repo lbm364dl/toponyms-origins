@@ -1,0 +1,1 @@
+La estación de Urgel toma su nombre de la calle de Urgel, en Carabanchel. El nombre de la calle remite a Urgell, topónimo catalán asociado al histórico Condado de Urgell y a lugares actuales de Lleida.

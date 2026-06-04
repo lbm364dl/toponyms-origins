@@ -1,0 +1,1 @@
+Transport opening dates and the existence of Calle/Camino de la Laguna are well supported by press, municipal, and archive sources. The remaining uncertainty is the exact original naming act and the specific historical water body behind the toponym.

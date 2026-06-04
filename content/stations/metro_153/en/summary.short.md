@@ -1,0 +1,1 @@
+Alonso de Mendoza station takes its name from the adjacent street, which local historical sources link to Alonso de Mendoza y Núñez de Prado, the early-16th-century benefactor of Getafe's Hospital de San José. His 1507 will endowed hospital care for poor sick people, especially from Getafe, Pinto, and Griñón.

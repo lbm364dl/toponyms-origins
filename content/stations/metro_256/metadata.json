@@ -1,0 +1,97 @@
+{
+  "id": "metro_256",
+  "name": "San Cristóbal",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Barrio de San Cristóbal de los Ángeles; ultimately San Cristóbal / Saint Christopher",
+  "previous_names": "",
+  "naming_date": "21 April 2007",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 3 desde Legazpi a Villaverde Alto - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-3-legazpi-villaverde-alto",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the Line 3 extension entered service on 21 April 2007 and that one station was placed opposite San Cristóbal de los Ángeles.",
+      "relevance_es": "Fuente oficial de transporte que confirma la puesta en servicio de la prolongación de la línea 3 el 21 de abril de 2007 y que una estación se situó frente a San Cristóbal de los Ángeles."
+    },
+    {
+      "title": "San Cristóbal - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_272/",
+      "type": "official",
+      "relevance_en": "Current transport listing for San Cristóbal station, showing it as a Metro station on Line 3 with associated bus connections.",
+      "relevance_es": "Ficha actual de transporte de la estación de San Cristóbal, que la identifica como estación de Metro de la línea 3 con conexiones de autobús asociadas."
+    },
+    {
+      "title": "Plan Integral de Barrio de San Cristóbal de los Ángeles - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Fondo_Reequilibrio_Territorial/Folleto_Villaverde/PIBAs_Villaverde_Info-2019.pdf",
+      "type": "official",
+      "relevance_en": "Municipal source stating that San Cristóbal de los Ángeles originated as a social-housing operation by the Gerencia de Poblados Dirigidos and the Instituto Nacional de la Vivienda, with 6,077 subsidised dwellings built from 1959 on land belonging to the former La Norah brickworks.",
+      "relevance_es": "Fuente municipal que indica que San Cristóbal de los Ángeles se originó como actuación de vivienda social de la Gerencia de Poblados Dirigidos y el Instituto Nacional de la Vivienda, con 6.077 viviendas subvencionadas construidas desde 1959 sobre terrenos de la antigua fábrica de ladrillos La Norah."
+    },
+    {
+      "title": "Poblado dirigido de San Cristóbal de los Ángeles - Fundación Arquitectura COAM",
+      "url": "https://fcoam.eu/guia/F3/F3.358.htm",
+      "type": "reference",
+      "relevance_en": "Architectural reference giving the project and works chronology, the team of eight architects led by Eugenio Casar Estellés, the former La Norah brickworks site, the surviving chimney, and later structural problems from expansive clays.",
+      "relevance_es": "Referencia arquitectónica que aporta la cronología de proyecto y obra, el equipo de ocho arquitectos encabezado por Eugenio Casar Estellés, el solar de la antigua fábrica La Norah, la chimenea conservada y los problemas estructurales posteriores por arcillas expansivas."
+    },
+    {
+      "title": "Cristóbal de Licia, Santo - Catholic.net / EWTN",
+      "url": "https://es.catholic.net/op/articulos/31822/cristbal-de-licia-santo.html",
+      "type": "reference",
+      "relevance_en": "Religious reference explaining the name Cristóbal as 'bearer of Christ' and listing Saint Christopher’s patronage of travellers, transport workers and drivers.",
+      "relevance_es": "Referencia religiosa que explica el nombre Cristóbal como 'portador de Cristo' y recoge el patronazgo de san Cristóbal sobre viajeros, transportistas y conductores."
+    },
+    {
+      "title": "Spatial Crisis and the Experimental Production of Urban Space in Franco’s Spain: The History of Madrid’s Poblados Dirigidos - Journal of Urban History",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/00961442231164179",
+      "type": "academic",
+      "relevance_en": "Academic context for Madrid’s poblados dirigidos as Franco-era planned satellite neighbourhoods designed to redirect urban growth and control informal urbanisation.",
+      "relevance_es": "Contexto académico sobre los poblados dirigidos madrileños como barrios satélite planificados durante el franquismo para encauzar el crecimiento urbano y controlar la urbanización informal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the immediate namesake as the barrio of San Cristóbal de los Ángeles; the reference to Saint Christopher is the deeper religious origin, not directly proven as the Metro station’s formal naming act.",
+      "es": "Conviene tratar como referente inmediato el barrio de San Cristóbal de los Ángeles; la referencia a san Cristóbal es el origen religioso de fondo, no un acto formal de denominación de la estación directamente probado."
+    },
+    {
+      "en": "Replace the single figure of 5,828 homes with more source-specific figures: COAM and Madrid municipal material state 6,077 subsidised dwellings overall, while the directed settlement is described as 4,066 dwellings.",
+      "es": "Sustituir la cifra única de 5.828 viviendas por cifras más precisas según fuente: COAM y documentación municipal indican 6.077 viviendas subvencionadas en conjunto, mientras que el poblado dirigido se describe con 4.066 viviendas."
+    },
+    {
+      "en": "Use the COAM chronology: 1958-1959 for the project phase and 1959-1967 for works, rather than presenting 1958-1965 as the full construction period.",
+      "es": "Usar la cronología de COAM: 1958-1959 para la fase de proyecto y 1959-1967 para las obras, en lugar de presentar 1958-1965 como periodo completo de construcción."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming file, planning approval, parish record, or early Gerencia de Poblados Dirigidos document would be needed to prove exactly why the barrio was called San Cristóbal de los Ángeles and why the suffix 'de los Ángeles' was chosen.",
+      "es": "Sería necesario consultar un expediente municipal de denominación, aprobación urbanística, archivo parroquial o documentación temprana de la Gerencia de Poblados Dirigidos para probar exactamente por qué el barrio recibió el nombre de San Cristóbal de los Ángeles y por qué se eligió el añadido 'de los Ángeles'."
+    },
+    {
+      "en": "Some sources spell the former brickworks as La Norah and others as La Nora; COAM and the Madrid PIBA material use La Norah, so that is the recommended spelling pending archival confirmation.",
+      "es": "Algunas fuentes escriben el nombre de la antigua fábrica como La Norah y otras como La Nora; COAM y el material municipal PIBA usan La Norah, por lo que esa es la grafía recomendada a falta de confirmación archivística."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_256/en/summary.short.md",
+      "summary": "content/stations/metro_256/en/summary.md",
+      "story": "content/stations/metro_256/en/story.md",
+      "confidence": "content/stations/metro_256/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_256/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_256/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_256/es/summary.short.md",
+      "summary": "content/stations/metro_256/es/summary.md",
+      "story": "content/stations/metro_256/es/story.md",
+      "confidence": "content/stations/metro_256/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_256/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_256/es/research-note.md"
+    }
+  }
+}

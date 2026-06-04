@@ -1,0 +1,1 @@
+Villa de Vallecas toma su nombre del antiguo pueblo y actual distrito madrileño donde se encuentra la estación. El topónimo más antiguo aparece como Balecas en el Fuero de Madrid de 1202, aunque su origen exacto sigue discutido.

@@ -1,0 +1,1 @@
+Julián Besteiro station is named for Julián Besteiro Fernández (1870-1940), a professor and socialist leader who presided over the Republican Constituent Cortes in 1931-1933. The Line 12 stop opened with MetroSur in Leganés in 2003, next to the civic and cultural facilities that also bear his name.

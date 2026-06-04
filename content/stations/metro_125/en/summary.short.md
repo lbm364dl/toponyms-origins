@@ -1,0 +1,1 @@
+Herrera Oria station is named for Ángel Herrera Oria (1886-1968), a Spanish journalist, jurist, Catholic lay leader, priest, Bishop of Málaga, and cardinal. The name also reflects the nearby Avenida del Cardenal Herrera Oria.

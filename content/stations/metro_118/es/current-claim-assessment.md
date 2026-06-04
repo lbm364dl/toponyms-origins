@@ -1,0 +1,1 @@
+La fila es sustancialmente correcta: Batán remite al topónimo de la Casa de Campo asociado a un antiguo batán y después a la Venta del Batán. Conviene distinguir el batán/topónimo antiguo del complejo taurino moderno, y la apertura de la estación puede fecharse con más precisión en febrero de 1961.

@@ -1,0 +1,1 @@
+La estación puede vincularse con seguridad a un topónimo local preexistente, respaldado por páginas oficiales de transporte y por topónimos de inventarios municipales de suelo. La confianza sigue siendo incierta para la etimología profunda porque no se ha encontrado una fuente lingüística autorizada que explique Pitis y la hipótesis pino/griego carece de pruebas.

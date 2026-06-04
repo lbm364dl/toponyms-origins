@@ -1,0 +1,1 @@
+Alto de Extremadura toma su nombre del alto y del topónimo urbano situado en el Paseo de Extremadura de Madrid. Esa vía sigue la antigua salida occidental de la ciudad hacia Alcorcón, Extremadura, Badajoz y Portugal.

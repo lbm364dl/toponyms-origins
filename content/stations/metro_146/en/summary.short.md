@@ -1,0 +1,1 @@
+Antonio Machado station is named for the nearby street honoring Antonio Machado Ruiz, the Spanish poet of the Generation of '98. Opened on Line 7 on 29 March 1999, it serves Valdezarza and Peñagrande in an area known for literary street names.

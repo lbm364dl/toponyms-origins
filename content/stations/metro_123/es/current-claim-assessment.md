@@ -1,0 +1,1 @@
+La afirmación central es correcta: el nombre de la estación procede de la avenida de Pío XII y, en último término, del papa Pío XII, Eugenio Pacelli. Conviene aclarar que Metro parece heredar el nombre de la vía, que la denominación de la estación data de su apertura el 30 de diciembre de 1983 y que el cónclave de 1939 fue breve, pero no literalmente de un solo día.

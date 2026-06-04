@@ -1,0 +1,1 @@
+Alameda de Osuna station is named for the Barajas neighbourhood it serves. The neighbourhood name preserves the memory of the old Alameda area and the country estate developed by the dukes of Osuna, especially the El Capricho garden created by María Josefa Alonso Pimentel.

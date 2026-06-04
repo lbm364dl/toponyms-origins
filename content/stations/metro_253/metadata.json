@@ -1,0 +1,126 @@
+{
+  "id": "metro_253",
+  "name": "San Fermín-Orcasur",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "barrios de San Fermín y Orcasur",
+  "previous_names": "",
+  "naming_date": "2007-04-21",
+  "sources": [
+    {
+      "title": "CRTM - San Fermín-Orcasur station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_269/?idPestana=1&lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 3 service, accesses and official transport context.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 3, los accesos y el contexto oficial de transporte."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - El Metro llega a Villaverde",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-Metro-llega-a-Villaverde/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextoid=e1ad618421312110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official 21 April 2007 press release for the Line 3 extension, naming San Fermín and Orcasur among the served southern neighbourhoods.",
+      "relevance_es": "Nota oficial del 21 de abril de 2007 sobre la ampliación de la línea 3, que cita San Fermín y Orcasur entre los barrios del sur beneficiados."
+    },
+    {
+      "title": "Todo por Hacer no. 117 - La historia del barrio de San Fermín",
+      "url": "https://www.todoporhacer.org/wp-content/uploads/2020/10/Todo-por-Hacer-no-117-octubre-2020.pdf",
+      "type": "press",
+      "relevance_en": "Gives the local-history account linking the San Fermín colony name and Navarrese street names to Federico Mayo Gayarre.",
+      "relevance_es": "Aporta el relato de historia local que vincula el nombre de la colonia de San Fermín y sus calles navarras con Federico Mayo Gayarre."
+    },
+    {
+      "title": "El País - Los cuartos 'chiquititos chiquititos' de la colonia San Fermín",
+      "url": "https://elpais.com/espana/madrid/2023-07-05/los-cuartos-chiquititos-chiquititos-de-la-colonia-san-fermin.html",
+      "type": "press",
+      "relevance_en": "Corroborates the Navarrese street-name pattern in Colonia San Fermín and connects it to Federico Mayo Gayarre's Navarrese origin.",
+      "relevance_es": "Corrobora el patrón de nombres navarros en la Colonia San Fermín y lo relaciona con el origen navarro de Federico Mayo Gayarre."
+    },
+    {
+      "title": "Gobierno de Navarra - El Palacio de Navarra",
+      "url": "https://www.navarra.es/es/gobierno-de-navarra/la-sede",
+      "type": "official",
+      "relevance_en": "Official Navarrese source stating that San Fermín and San Francisco Javier are co-patrons of the Kingdom of Navarra from 1657.",
+      "relevance_es": "Fuente oficial navarra que indica que San Fermín y San Francisco Javier son copatronos del Reino de Navarra desde 1657."
+    },
+    {
+      "title": "Fundación Arquitectura COAM - Orcasur (F3.367)",
+      "url": "https://fcoam.eu/guia/F3/F3.367.htm",
+      "type": "academic",
+      "relevance_en": "Documents Orcasur as the 1977 remodelling of the Poblado Mínimo, Poblado de Absorción and Poblado Agrícola de Orcasitas.",
+      "relevance_es": "Documenta Orcasur como la remodelación de 1977 del Poblado Mínimo, Poblado de Absorción y Poblado Agrícola de Orcasitas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Barrio 122 Orcasur map",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/12%20-%20Usera/Barrio122.pdf",
+      "type": "official",
+      "relevance_en": "Official barrio map showing Orcasur and place labels such as Poblado Agrícola de Orcasitas, Poblado de Absorción de Orcasitas and Poblado Mínimo de Orcasitas.",
+      "relevance_es": "Mapa oficial del barrio que muestra Orcasur y rótulos como Poblado Agrícola de Orcasitas, Poblado de Absorción de Orcasitas y Poblado Mínimo de Orcasitas."
+    },
+    {
+      "title": "Mil y una historias - Origen del nombre de Orcasitas",
+      "url": "https://leyendasytradiciones.blogspot.com/2019/12/origen-del-nombre-de-orcasitas.html",
+      "type": "other",
+      "relevance_en": "Repeats, citing Isabel Gea, the claim that Orcasitas was named for Pedro Orcasitas, owner of much of the land; useful but secondary and needing verification.",
+      "relevance_es": "Repite, citando a Isabel Gea, la afirmación de que Orcasitas recibió su nombre de Pedro Orcasitas, dueño de gran parte de los terrenos; útil pero secundaria y pendiente de verificación."
+    },
+    {
+      "title": "Sancho el Sabio - Estudios Alaveses article mentioning Horcasitas/Orcasitas",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/4969051.pdf",
+      "type": "academic",
+      "relevance_en": "Provides academic context for the Horcasitas family, sometimes written Orcasitas, from the Arcentales valley and linked to Madrid networks.",
+      "relevance_es": "Aporta contexto académico sobre la familia Horcasitas, a veces escrita Orcasitas, procedente del valle de Arcentales y vinculada a redes madrileñas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station name primarily as a place-based compound name, not simply as a religious dedication.",
+      "es": "Clasificar el nombre de la estación principalmente como topónimo compuesto de lugar, no solo como dedicación religiosa."
+    },
+    {
+      "en": "Replace 'patron of Navarra' with the more precise 'co-patron of Navarra with San Francisco Javier'.",
+      "es": "Sustituir 'patrón de Navarra' por la forma más precisa 'copatrón de Navarra junto con San Francisco Javier'."
+    },
+    {
+      "en": "Treat 'Orcasur = Orcasitas Sur' as plausible shorthand, but support the public explanation with the documented remodelling of the old Orcasitas settlements.",
+      "es": "Tratar 'Orcasur = Orcasitas Sur' como abreviación verosímil, pero apoyar la explicación pública en la remodelación documentada de los antiguos poblados de Orcasitas."
+    },
+    {
+      "en": "Do not present the Basque horkatz/roe-deer derivation as verified unless a direct onomastic source is inspected.",
+      "es": "No presentar la derivación vasca horkatz/corzo como verificada salvo que se consulte una fuente onomástica directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Isabel Gea's printed Curiosidades de Madrid or Diccionario Enciclopédico de Madrid entry for Orcasitas to confirm the Pedro Orcasitas attribution.",
+      "es": "Consultar la entrada de Orcasitas en Curiosidades de Madrid o en el Diccionario Enciclopédico de Madrid de Isabel Gea para confirmar la atribución a Pedro Orcasitas."
+    },
+    {
+      "en": "Look for the municipal or Metro naming file from the 2007 Line 3 extension to confirm whether there was controversy or an official rationale for the compound station name.",
+      "es": "Buscar el expediente municipal o de Metro de la ampliación de la línea 3 de 2007 para confirmar si hubo controversia o una justificación oficial del nombre compuesto."
+    },
+    {
+      "en": "Check land-registry or historical cadastral material for the Orcasitas/Horcasitas landowners before stating the family-landowner claim as fully verified.",
+      "es": "Comprobar documentación registral o catastral histórica sobre los propietarios Orcasitas/Horcasitas antes de dar por plenamente verificada la afirmación sobre la familia propietaria."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_253/en/summary.short.md",
+      "summary": "content/stations/metro_253/en/summary.md",
+      "story": "content/stations/metro_253/en/story.md",
+      "confidence": "content/stations/metro_253/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_253/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_253/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_253/es/summary.short.md",
+      "summary": "content/stations/metro_253/es/summary.md",
+      "story": "content/stations/metro_253/es/story.md",
+      "confidence": "content/stations/metro_253/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_253/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_253/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "metro_166",
+  "name": "Alameda de Osuna",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alameda de Osuna neighbourhood, named from the historic Alameda/El Capricho area associated with the dukes of Osuna",
+  "previous_names": "",
+  "naming_date": "24 November 2006 (station opened with the current name)",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Alameda de Osuna",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_252",
+      "type": "official",
+      "relevance_en": "Official current transport page confirming the station name, Line 5, fare zone and access information.",
+      "relevance_es": "Página oficial actual de transporte que confirma el nombre de la estación, la línea 5, la zona tarifaria y los accesos."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Documents the Line 5 Canillejas-Alameda de Osuna extension and gives its service date as 24 November 2006.",
+      "relevance_es": "Documenta la prolongación de la línea 5 Canillejas-Alameda de Osuna e indica su puesta en servicio el 24 de noviembre de 2006."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: El Capricho de la Alameda Osuna",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Jardin-historico-El-Capricho-de-la-Alameda-Osuna/?vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=9db6fb010e99e210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal page identifying El Capricho as María Josefa Alonso Pimentel's creation, noting her titles and land purchases between 1783 and 1803, and locating it in Alameda de Osuna/Barajas.",
+      "relevance_es": "Página municipal oficial que identifica El Capricho como creación de María Josefa Alonso Pimentel, recoge sus títulos y las compras de terrenos entre 1783 y 1803, y lo sitúa en Alameda de Osuna/Barajas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Castillo de la Alameda - Historia del castillo",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Castillo-de-la-Alameda/?idCapitulo=7070100&vgnextchannel=c937f073808fe410VgnVCM2000000c205a0aRCRD&vgnextoid=0a3245e7e4770410VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Explains the historical landscape between La Alameda and Barajas and states that, after the nearby ducal palace and El Capricho, the area became known as Alameda de Osuna.",
+      "relevance_es": "Explica el paisaje histórico entre La Alameda y Barajas y afirma que, tras el cercano palacete ducal y El Capricho, el área pasó a conocerse como Alameda de Osuna."
+    },
+    {
+      "title": "Real Academia Española: alameda",
+      "url": "https://dle.rae.es/alameda",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary definition of 'alameda' as a poplar grove, a walk with poplars, or a walk with trees of any kind.",
+      "relevance_es": "Definición lexicográfica autorizada de 'alameda' como sitio poblado de álamos, paseo con álamos o paseo con árboles de cualquier clase."
+    },
+    {
+      "title": "Real Academia de la Historia / Historia Hispánica: María Josefa Alonso Pimentel y Borja",
+      "url": "https://historia-hispanica.rah.es/biografias/2249-maria-josefa-alonso-pimentel-y-borja",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for María Josefa Alonso Pimentel, her titles and her position within one of Spain's major noble lineages.",
+      "relevance_es": "Referencia biográfica autorizada sobre María Josefa Alonso Pimentel, sus títulos y su posición dentro de uno de los grandes linajes nobiliarios de España."
+    },
+    {
+      "title": "Museo Nacional del Prado: Los duques de Osuna y sus hijos",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/los-duques-de-osuna-y-sus-hijos/09085b96-441d-40e3-9092-9230bbe1fa99",
+      "type": "official",
+      "relevance_en": "Prado collection entry confirming the family portrait, identifying the IX duke of Osuna and Josefa Alonso de Pimentel, and describing the dukes as early patrons of Goya at La Alameda.",
+      "relevance_es": "Ficha del Prado que confirma el retrato familiar, identifica al IX duque de Osuna y a Josefa Alonso de Pimentel, y describe a los duques como primeros mecenas de Goya en La Alameda."
+    },
+    {
+      "title": "Museo Nacional del Prado: Vuelo de brujas",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/vuelo-de-brujas/5e44d19d-7cda-472b-b6d8-8868c599d252",
+      "type": "official",
+      "relevance_en": "Confirms that 'Witches' Flight' formed part of six canvases Goya sold in 1798 to the dukes of Osuna for their country house at La Alameda.",
+      "relevance_es": "Confirma que 'Vuelo de brujas' formaba parte de seis lienzos que Goya vendió en 1798 a los duques de Osuna para su casa de campo de La Alameda."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat María Josefa Alonso Pimentel as essential historical context, not as the direct namesake of the station; the direct namesake is the neighbourhood/place.",
+      "es": "Conviene tratar a María Josefa Alonso Pimentel como contexto histórico esencial, no como dedicataria directa de la estación; el referente directo es el barrio/topónimo."
+    },
+    {
+      "en": "Replace the modern label 'influencer of the Spanish Enlightenment' with a neutral description such as Enlightenment aristocrat, salon host and arts patron.",
+      "es": "Debe sustituirse la etiqueta moderna 'influencer de la Ilustración española' por una descripción neutral, como aristócrata ilustrada, anfitriona de salón y mecenas artística."
+    },
+    {
+      "en": "Nuance the definition of 'alameda': the RAE defines it as a site with poplars, a walk with poplars, or a walk with trees of any kind.",
+      "es": "Debe matizarse la definición de 'alameda': la RAE la define como sitio poblado de álamos, paseo con álamos o paseo con árboles de cualquier clase."
+    },
+    {
+      "en": "The claim that she was the first woman admitted to the Matritense should be checked carefully; stronger wording is that she was among the first women associated with it and became first president of the Junta de Damas.",
+      "es": "La afirmación de que fue la primera mujer admitida en la Matritense debe verificarse con cautela; es más sólido decir que estuvo entre las primeras mujeres vinculadas a ella y que fue primera presidenta de la Junta de Damas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid naming resolution was not found; the opening and transport documents show the station operating under its current name from 24 November 2006.",
+      "es": "No se localizó una resolución formal de denominación de Metro de Madrid; los documentos de apertura y transporte muestran la estación con su nombre actual desde el 24 de noviembre de 2006."
+    },
+    {
+      "en": "For a museum-level account of the estate's ownership and urbanization after the nineteenth-century decline of the Osuna house, inspect local archival plans and monographs on El Capricho and Barajas.",
+      "es": "Para una explicación de nivel museográfico sobre la propiedad de la finca y su urbanización tras la decadencia decimonónica de la casa de Osuna, convendría consultar planos de archivo y monografías sobre El Capricho y Barajas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_166/en/summary.short.md",
+      "summary": "content/stations/metro_166/en/summary.md",
+      "story": "content/stations/metro_166/en/story.md",
+      "confidence": "content/stations/metro_166/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_166/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_166/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_166/es/summary.short.md",
+      "summary": "content/stations/metro_166/es/summary.md",
+      "story": "content/stations/metro_166/es/story.md",
+      "confidence": "content/stations/metro_166/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_166/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_166/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Arroyofresno is named for the Arroyo del Fresno area and stream in Fuencarral-El Pardo. The name literally points to a small watercourse and an ash tree, although the station’s one-word spelling is a modern Metro form.

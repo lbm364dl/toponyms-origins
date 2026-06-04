@@ -1,0 +1,1 @@
+The station's name exactly matches the adjacent historic park, official municipal material lists Casa de Campo station among the park's metro accesses, and transport chronologies document the 2002 opening of the interchange under this name. The deeper origin of the park name is strongly supported by the official 2010 heritage declaration.

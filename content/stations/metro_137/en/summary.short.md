@@ -1,0 +1,1 @@
+San Blas station is named for the San Blas neighbourhood it serves. The neighbourhood name is commonly explained as a Franco-era tribute to Blas Pérez González, but the clearest sources found present that as a reported tradition rather than a documented naming act.

@@ -1,0 +1,1 @@
+Coslada Central debe su nombre al municipio de Coslada y a su papel como intercambiador central entre Metro y Cercanías. El topónimo Coslada es antiguo y discutido, con documentación medieval y varias explicaciones lingüísticas competidoras.

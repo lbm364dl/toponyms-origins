@@ -1,0 +1,125 @@
+{
+  "id": "metro_148",
+  "name": "Colonia Jardín",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Colonia Jardín, the local name for the garden-like military residential colony around Arroyo Meaques",
+  "previous_names": "",
+  "naming_date": "2002-10-22 (station opened with current name; no separate naming act found)",
+  "sources": [
+    {
+      "title": "CRTM - Colonia Jardín station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_202?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, connections, access points, and Colonia Jardín ticket hall.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, sus conexiones, accesos y el vestíbulo denominado Colonia Jardín."
+    },
+    {
+      "title": "Comunidad de Madrid - Metro Ligero Colonia Jardín-Boadilla del Monte",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-boadilla-monte",
+      "type": "official",
+      "relevance_en": "Official regional infrastructure page explaining that the light metro route starts at Colonia Jardín station and connects with Line 10.",
+      "relevance_es": "Página oficial regional de infraestructuras que explica que el recorrido del metro ligero parte de la estación de Colonia Jardín y enlaza con la línea 10."
+    },
+    {
+      "title": "Comunidad de Madrid - Metro Ligero Colonia Jardín-Pozuelo de Alarcón",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Official regional page describing Colonia Jardín as the interchange where the Pozuelo light metro route begins.",
+      "relevance_es": "Página oficial regional que describe Colonia Jardín como el intercambiador donde comienza el trazado del metro ligero hacia Pozuelo."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - La recuperación de la colonia militar Arroyo Meaques incluye la plantación de 1.200 árboles",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/La-recuperacion-de-la-colonia-militar-Arroyo-Meaques-incluye-la-plantacion-de-1-200-arboles/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=3185bca2ceff5110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source stating that Arroyo Meaques has 133 detached houses, is one of Madrid's protected historic colonies, and was built in the 1940s by the former Ministry of the Army for officers and non-commissioned officers.",
+      "relevance_es": "Fuente municipal que indica que Arroyo Meaques tiene 133 viviendas unifamiliares, es una de las colonias históricas protegidas de Madrid y fue construida en los años cuarenta por el antiguo Ministerio del Ejército para oficiales y suboficiales."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón / Ruta Verde 5.5 - Colonia Jardín-Cuatro Vientos-Alcorcón",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2022-10/Ruta%20verde%205.5.pdf",
+      "type": "official",
+      "relevance_en": "Official route PDF describing the Colonia Arroyo Meaques near Metro Colonia Jardín as a post-Civil-War military housing area with small country-house-like buildings, auxiliary structures, gardens, and a village-like appearance.",
+      "relevance_es": "PDF oficial de ruta que describe la Colonia Arroyo Meaques junto al metro Colonia Jardín como un ámbito militar de vivienda posterior a la Guerra Civil, con casas pequeñas tipo casa de campo, edificaciones auxiliares, jardines y aspecto de pequeño pueblo."
+    },
+    {
+      "title": "El País - Cuando el Ejército es el casero",
+      "url": "https://elpais.com/diario/2010/07/27/madrid/1280229865_850215.html",
+      "type": "press",
+      "relevance_en": "Press report giving contemporary detail on the Arroyo Meaques military colony, its military landlord, 133 homes, lifetime low rents, and the Colonia Jardín metro entrance at its door.",
+      "relevance_es": "Reportaje de prensa que aporta detalles contemporáneos sobre la colonia militar Arroyo Meaques, su casero militar, sus 133 viviendas, los alquileres bajos vitalicios y la boca de metro de Colonia Jardín junto a ella."
+    },
+    {
+      "title": "Telemadrid - Vivir en una colonia militar",
+      "url": "https://www.telemadrid.es/programas/mi-camara-y-yo/Vivir-colonia-militar-2-2051214871--20180921113500.amp.html",
+      "type": "press",
+      "relevance_en": "Local television source stating that the Arroyo Meaques houses are in the area now known as Colonia Jardín and noting the military-married requirement, gardens, rank-related house size, and low rents.",
+      "relevance_es": "Fuente televisiva local que indica que las viviendas de Arroyo Meaques están en la zona ahora conocida como Colonia Jardín y menciona el requisito de ser militar y estar casado, los jardines, el tamaño según rango y las rentas bajas."
+    },
+    {
+      "title": "El País - La línea 10 del metro recobra la actividad tras 12 semanas de obras",
+      "url": "https://elpais.com/diario/2002/10/22/madrid/1035285860_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the 22 October 2002 opening of Colonia Jardín and Casa de Campo stations on the Line 10 extension.",
+      "relevance_es": "Crónica contemporánea sobre la inauguración el 22 de octubre de 2002 de las estaciones de Colonia Jardín y Casa de Campo en la ampliación de la línea 10."
+    },
+    {
+      "title": "memoriademadrid - Acceso a la estación de Colonia Jardín",
+      "url": "https://www.memoriademadrid.es/view/386765/acceso-a-la-estacion-de-colonia-jardin?limit=100&offset=668&q=facet%2Cmetadata.contributor.es.keyword%2Cequals%2CMetro+de+Madrid",
+      "type": "archive",
+      "relevance_en": "Municipal memory archive entry stating that Colonia Jardín station opened on 22 October 2002 as a Line 10 terminus and was expanded in 2007 for ML2 and ML3.",
+      "relevance_es": "Entrada del archivo municipal memoriademadrid que indica que la estación de Colonia Jardín abrió el 22 de octubre de 2002 como cabecera de la línea 10 y se amplió en 2007 para las líneas ML2 y ML3."
+    },
+    {
+      "title": "Comunidad de Madrid - Plan Especial del APR 10.03 Colonia Militar Arroyo Meaques",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/22-011_dae.pdf",
+      "type": "official",
+      "relevance_en": "Planning document for the protected Colonia Militar Arroyo Meaques area; useful for present-day planning context and for the garden as a central element of the colony.",
+      "relevance_es": "Documento de planeamiento del ámbito protegido Colonia Militar Arroyo Meaques; útil para el contexto urbanístico actual y para el papel del jardín como elemento central de la colonia."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Colonia Militar Arroyo Meaques as the best documented historical colony behind the local name, rather than implying that Colonia Jardín was necessarily its formal original name.",
+      "es": "Usar Colonia Militar Arroyo Meaques como la colonia histórica mejor documentada detrás del topónimo local, en lugar de dar a entender que Colonia Jardín fue necesariamente su nombre formal original."
+    },
+    {
+      "en": "Treat the Ebenezer Howard garden-city connection as broader urban context unless a direct architectural or planning source for this colony is found.",
+      "es": "Tratar la relación con la ciudad-jardín de Ebenezer Howard como contexto urbanístico general salvo que aparezca una fuente arquitectónica o de planeamiento que la vincule directamente con esta colonia."
+    },
+    {
+      "en": "The construction chronology should be cautious: Madrid City Council says the colony was built in the 1940s, while other local material says from 1950 or more generally postwar.",
+      "es": "La cronología de construcción debe formularse con cautela: el Ayuntamiento de Madrid habla de los años cuarenta, mientras otros materiales locales indican a partir de 1950 o, de forma más general, la posguerra."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive naming act or Metro de Madrid internal naming file for the 2002 Line 10 extension would be needed to verify the naming rationale beyond probability.",
+      "es": "Para verificar la motivación del nombre más allá de la probabilidad haría falta localizar el acuerdo de denominación o un expediente interno de Metro de Madrid de la ampliación de la línea 10 de 2002."
+    },
+    {
+      "en": "The 1997 special plan mentioned in press coverage, or the full planning file for APR 10.03, may clarify the architectural origin of the colony and whether garden-city theory was explicitly invoked.",
+      "es": "El plan especial de 1997 citado en prensa, o el expediente completo de planeamiento del APR 10.03, podría aclarar el origen arquitectónico de la colonia y si se invocó expresamente la teoría de la ciudad-jardín."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_148/en/summary.short.md",
+      "summary": "content/stations/metro_148/en/summary.md",
+      "story": "content/stations/metro_148/en/story.md",
+      "confidence": "content/stations/metro_148/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_148/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_148/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_148/es/summary.short.md",
+      "summary": "content/stations/metro_148/es/summary.md",
+      "story": "content/stations/metro_148/es/story.md",
+      "confidence": "content/stations/metro_148/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_148/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_148/es/research-note.md"
+    }
+  }
+}

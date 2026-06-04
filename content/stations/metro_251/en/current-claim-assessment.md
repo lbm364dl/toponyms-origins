@@ -1,0 +1,1 @@
+The core claim is correct: the station takes its name from Plaza de Alsacia, and Alsacia refers to the European region of Alsace. The broader interpretation about a European geography-themed street cluster and the symbolism of reconciliation is plausible but partly inferential, and the statement that Alsace was simply French from 1648 needs nuance.

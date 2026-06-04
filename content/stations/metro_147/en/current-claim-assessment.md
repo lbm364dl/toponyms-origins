@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes its name from the Valdezarza neighbourhood, and the name is plausibly read as 'val de zarza', a valley or hollow associated with brambles. However, the row overstates certainty for the deeper toponymic etymology, gives an unsupported Basque form, and should nuance the neighbourhood's urbanisation chronology.

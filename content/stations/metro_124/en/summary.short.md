@@ -1,0 +1,1 @@
+The station is named for Plaza del Duque de Pastrana, one of the old centers of Chamartín de la Rosa. The title of Duke of Pastrana began in 1572 with Ruy Gómez de Silva, but the Madrid place name mainly reflects the ducal house and its local estate history.

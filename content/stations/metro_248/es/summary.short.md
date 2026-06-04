@@ -1,0 +1,1 @@
+La estación de Valdecarros toma su nombre del gran ámbito urbanístico de Valdecarros, junto al Ensanche de Vallecas. El sentido profundo probablemente es el compuesto transparente val de carros, 'valle de carros', aunque falta una prueba documental específica para el topónimo madrileño.

@@ -1,0 +1,1 @@
+Transport and municipal sources confirm the station's current name, location, Line 5 service, and 18 January 1980 opening. Official and reference sources identify Juan Antonio Suanzes Fernández and the 1960 marquisate; the remaining nuance is whether the station was named directly for the person or through the already established local designation Marqués de Suanzes.

@@ -1,0 +1,1 @@
+La identificación principal es correcta: Suanzes remite a Juan Antonio Suanzes Fernández, responsable de política industrial durante el franquismo y primer presidente del INI. La fila contiene un error claro: el marquesado se le concedió en 1960 en vida, no a título póstumo; posteriormente fue suprimido por la Ley de Memoria Democrática de 2022.

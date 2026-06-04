@@ -1,0 +1,1 @@
+La estación de Puerta del Ángel lleva el nombre del barrio y la plaza madrileños homónimos. Ese topónimo procede de una antigua puerta de la Casa de Campo asociada a la desaparecida ermita del Santo Ángel de la Guarda.

@@ -1,0 +1,1 @@
+Urgel station takes its name from Calle de Urgel in Carabanchel. The street name points to Urgell, a Catalan toponym associated with the historic County of Urgell and with present-day places in Lleida.

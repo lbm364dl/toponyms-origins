@@ -1,0 +1,1 @@
+Vinateros toma su nombre de la calle o Camino de los Vinateros, un nombre viario histórico de Moratalaz. La palabra vinatero designa a una persona dedicada a producir o comerciar vino, y la tradición local vincula la ruta con la entrada de vino a Madrid desde el sureste.

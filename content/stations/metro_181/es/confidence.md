@@ -1,0 +1,1 @@
+La denominación directa por el hospital está sólidamente respaldada por páginas oficiales de transporte y del hospital, y por prensa contemporánea que explica que la prolongación de la línea 7 se amplió para dar servicio al centro sanitario. La etimología del río está respaldada por Toponomasticon Hispaniae; solo requiere matiz la cronología exacta de inauguración y apertura.

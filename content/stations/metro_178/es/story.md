@@ -1,0 +1,9 @@
+El nombre de la estación es local antes que devocional. San Fernando, en la línea 7, está en el municipio de San Fernando de Henares, y su denominación identifica la localidad a la que sirve, no una iglesia, santuario o calle aislada.
+
+Detrás de ese topónimo municipal hay un proyecto regio del siglo XVIII. En 1746, el lugar de Torrejón de la Ribera fue incorporado a la Corona para establecer una fábrica real de paños. Bajo Fernando VI, la fábrica, las viviendas de los trabajadores y las plazas planificadas dieron origen al Real Sitio de San Fernando, un experimento industrial y urbano de la Ilustración borbónica.
+
+La palabra Fernando apunta en dos direcciones a la vez. Recuerda a Fernando VI, el monarca vinculado a la fundación, pero la forma religiosa San Fernando remite al santo de su onomástica: Fernando III de Castilla y León, el rey medieval conocido como el Santo. El culto de Fernando III fue extendido formalmente en 1671, lo que ayuda a explicar que su nombre funcionara en el siglo XVIII como referencia regia y devocional de prestigio.
+
+La estación está además muy cerca de la historia fundacional. Las descripciones de la estación la sitúan en el casco histórico, junto al ámbito de la antigua Real Fábrica de Paños; la documentación de transporte de la línea 7B recoge la prolongación de 2003-2007 hacia Coslada y San Fernando de Henares, y la página de ampliaciones de Metro de la Comunidad de Madrid identifica la prolongación Las Musas-Coslada-San Fernando de Henares como MetroEste.
+
+El elemento Henares es posterior y algo problemático desde el punto de vista histórico. El Ayuntamiento documenta que en 1916 el pueblo pasó de llamarse San Fernando de Jarama a San Fernando de Henares, aunque el Jarama es el río más ligado al emplazamiento original. Para uso público, la formulación más segura es que la estación toma el nombre del municipio, cuyo topónimo combina un San Fernando regio-devocional con la designación fluvial posterior Henares.

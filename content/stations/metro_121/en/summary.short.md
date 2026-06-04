@@ -1,0 +1,1 @@
+Named after Madrid's Plaza de España, the square formed where the San Gil barracks and the earlier San Marcial parade ground gave way to the western end of Gran Vía. Its modern identity was fixed by the Cervantes monument and by twentieth- and twenty-first-century urban redesigns.

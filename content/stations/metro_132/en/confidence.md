@@ -1,0 +1,1 @@
+The direct link to Plaza de Quintana is verified by municipal and station sources. The deeper origin is only probable because the strongest evidence is circumstantial but local: older references to Barrio de la Quintana and Quinta de la Quintana near Arroyo Calero. I found no official nomenclature record proving a dedication to Manuel José Quintana.

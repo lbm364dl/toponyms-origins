@@ -1,0 +1,1 @@
+La estación de Hortaleza toma su nombre del distrito madrileño, que conserva el del antiguo pueblo y municipio de Hortaleza. El municipio fue anexionado a Madrid por decreto en 1949 e incorporado efectivamente el 31 de marzo de 1950; el topónimo antiguo es discutido, con mejor apoyo lingüístico para una relación con fortaleza que con las huertas.

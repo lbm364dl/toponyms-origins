@@ -1,0 +1,1 @@
+CRTM confirms the present station name, line and access/vestibule at Avenida de América beside Cartagena; the official Madrid street directory confirms Calle de Cartagena in Chamartín and Salamanca; official Cartagena municipal and museum sources confirm the ancient Qart Hadasht/Hasdrubal origin of the Murcian city. No evidence of a former station name was found.

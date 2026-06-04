@@ -1,0 +1,1 @@
+The Community of Madrid explicitly states that Ángel Herrera Oria is the figure who gives the station its name, and independent transport chronology confirms the station opened as Herrera Oria in 1983. Biographical facts are supported by RAH, BNE, Fundación Pablo VI, and ACdP sources.

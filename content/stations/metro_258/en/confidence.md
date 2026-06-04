@@ -1,0 +1,1 @@
+The station date, Line 1 extension, official existence and naming of Avenida de Las Suertes, and the agricultural dictionary meaning of suerte are well supported. Confidence is not raised to verified because the direct official rationale for the station name and the exact historical origin of this Vallecas toponym were not found.

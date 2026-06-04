@@ -1,0 +1,1 @@
+Lacoma toma su nombre de la cercana Colonia Lacoma, vinculada a Margarita Gonzalez Lacoma, empresaria de la moda y del sector inmobiliario. La estacion abrio en la linea 7 el 29 de marzo de 1999, cuando el Metro llego a este extremo noroeste de Madrid.

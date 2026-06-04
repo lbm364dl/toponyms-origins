@@ -1,0 +1,1 @@
+Official transport sources verify the station name, Line 10, Alcobendas location, Calle Manuel de Falla access, and opening date of 26 April 2007. Authoritative cultural and academic sources verify the identity and significance of Manuel de Falla. The only remaining gap is the original municipal street-naming act, which was not found online.

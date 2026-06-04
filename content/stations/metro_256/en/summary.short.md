@@ -1,0 +1,1 @@
+San Cristóbal station is named for the neighbouring barrio of San Cristóbal de los Ángeles in Villaverde. The barrio’s name points to Saint Christopher, traditionally associated with travellers, while its modern urban history is tied to a large 1950s-60s social-housing estate on the former La Norah brickworks site.

@@ -1,0 +1,1 @@
+The existing claim is broadly correct: the station name comes from the local Las Musas place-name, tied to Calle de las Musas and Colonia Las Musas, and ultimately to the Muses of Greco-Roman mythology. It should be tightened: the station is in the current administrative neighbourhood of Rosas, not simply in Canillejas, and the exact opening date is 17 July 1974.

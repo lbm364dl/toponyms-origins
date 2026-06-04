@@ -1,0 +1,1 @@
+Pueblo Nuevo station is named for the surrounding Madrid neighbourhood, whose name means 'New Town'. The toponym appears to have grown out of a nineteenth- and early twentieth-century suburban settlement around the Calle de Alcalá and the old Aragón road.

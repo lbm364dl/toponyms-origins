@@ -1,0 +1,9 @@
+Alvarado station takes its name from its immediate street setting. Metro de Madrid's own historical sheet locates the station under Calle de Bravo Murillo, close to Calle de Alvarado, and the station-name tradition identifies that street as the source of the Metro name.
+
+The person behind the street name is Pedro de Alvarado y Contreras, a sixteenth-century Spanish conquistador. He served with Hernán Cortés in the conquest of Mexico-Tenochtitlan and later became governor and captain general of Guatemala, where his campaigns reshaped the history of Guatemala and neighbouring regions through conquest, forced submission and colonial rule.
+
+Alvarado's name is also tied to one of the most violent episodes of the conquest of Mexico: the massacre during the Tóxcatl festival at the Templo Mayor in 1520. Modern historical work treats the episode as a contested event in its details and motivations, but early narratives and later scholarship repeatedly identify Alvarado as the Spanish commander most directly associated with it.
+
+The Madrid station belongs to the first great northward growth of Line 1. It opened on 6 March 1929 in the Cuatro Caminos-Tetuán extension, when the northern end of the line reached an area still shaped by the old Tetuán de las Victorias and the former municipality of Chamartín de la Rosa. Metro's archive material also records a 1926 station setting-out plan already using the name Alvarado.
+
+The etymology is therefore solid, but it is worth presenting carefully. The station is not named after a local landscape feature called alvarado; it is a street-derived station name whose deeper reference is a historical person. The public story should also avoid a celebratory tone: Pedro de Alvarado is historically important, but his legacy is inseparable from conquest violence in Mexico and Central America.

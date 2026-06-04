@@ -1,0 +1,9 @@
+The direct origin of the station name is local and practical: Manuel de Falla station is on Line 10 in Alcobendas, and the CRTM lists its access at Calle Manuel de Falla, 59. The station therefore preserves on the metro map the name of the nearby street, which in turn commemorates the composer Manuel de Falla.
+
+Manuel de Falla y Matheu was born in Cádiz on 23 November 1876 and died in Alta Gracia, Argentina, on 14 November 1946. Fundación Juan March describes him as the most important Spanish composer of the twentieth century, because his compact catalogue brought together Spanish popular and historical traditions with an international modern language.
+
+His Madrid and Paris years made that reputation. La vida breve reached the stage in France in 1913 and Madrid in 1914; El amor brujo was first performed in Madrid in 1915; Noches en los jardines de España premiered at the Teatro Real in 1916; and Diaghilev's Ballets Russes premiered El sombrero de tres picos in London in 1919, with choreography by Léonide Massine and sets and costumes by Pablo Picasso.
+
+The station itself belongs to a much later urban story. It opened on 26 April 2007 as part of MetroNorte, the Line 10 extension that carried Madrid Metro north through Fuencarral, Las Tablas, Alcobendas, and San Sebastián de los Reyes. In Alcobendas, the musical street name sits naturally among nearby cultural and civic landmarks, including the Teatro Auditorio Ciudad de Alcobendas, for which the municipality lists Metro Manuel de Falla as a transport access.
+
+The broad etymology is well supported: this is a person-name station honouring Manuel de Falla. What remains less directly documented online is the municipal act that originally assigned the street name, so the safest wording is that the metro station takes its name from Calle Manuel de Falla and that both point to the composer. The station has no former metro name found in the consulted official chronology.

@@ -1,0 +1,115 @@
+{
+  "id": "metro_195",
+  "name": "La Rambla",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Rambla area/paseo in Coslada, especially around Calle Honduras and Avenida de los Príncipes de España; ultimately from Spanish rambla, from Andalusi Arabic rámla/classical Arabic ramlah, 'sandy place, natural rainwater bed'",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "CRTM - La Rambla station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_289/?idPestana=1&lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 7 connection, fare zone B1, access at Calle Honduras in Coslada and station services.",
+      "relevance_es": "Ficha oficial de transporte que confirma el nombre de la estación, la conexión con la línea 7, la zona tarifaria B1, el acceso por la calle Honduras en Coslada y los servicios de la estación."
+    },
+    {
+      "title": "memoriademadrid - Estación de La Rambla",
+      "url": "https://www.memoriademadrid.es/view/568497",
+      "type": "archive",
+      "relevance_en": "Archive record from Metro de Madrid photographic material; places La Rambla station in Coslada, dates it to 2007 and notes its Line 7 context.",
+      "relevance_es": "Registro archivístico procedente del material fotográfico de Metro de Madrid; sitúa la estación de La Rambla en Coslada, la fecha en 2007 y la relaciona con la línea 7."
+    },
+    {
+      "title": "memoriademadrid - Acceso a la estación de Coslada Central",
+      "url": "https://www.memoriademadrid.es/view/400411",
+      "type": "archive",
+      "relevance_en": "Quotes Metro de Madrid's 2007 activity report on the Line 7 MetroEste extension, listing La Rambla among the new stations serving Coslada and San Fernando de Henares.",
+      "relevance_es": "Cita la memoria de actuaciones de Metro de Madrid de 2007 sobre la prolongación de la línea 7 MetroEste, donde La Rambla aparece entre las nuevas estaciones que dan servicio a Coslada y San Fernando de Henares."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: rambla",
+      "url": "https://dle.rae.es/rambla",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for the etymology from Andalusi Arabic rámla/classical Arabic ramlah and for the meanings 'natural bed of rainwater' and urban promenade.",
+      "relevance_es": "Fuente lexicográfica autorizada para la etimología desde el árabe andalusí rámla y el árabe clásico ramlah, y para los sentidos de lecho natural de aguas pluviales y paseo urbano."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - RÁMLA",
+      "url": "https://toponhisp.org/es/etimo/ramla",
+      "type": "academic",
+      "relevance_en": "Specialized toponymy source explaining the Arabic root rámla/ramlah, its hydronymic classification and its relation to Castilian and Catalan rambla.",
+      "relevance_es": "Fuente especializada en toponimia que explica la raíz árabe rámla/ramlah, su clasificación hidronímica y su relación con el castellano y catalán rambla."
+    },
+    {
+      "title": "Ayuntamiento de Coslada - Diagnóstico Coslada Ciudad Amigable con las Personas Mayores",
+      "url": "https://coslada.es/servicios-sociales-y-mayores/wp-content/uploads/sites/9/2023/10/Diagnostico_Ayto-Coslada_Ciudades-Amigables.pdf",
+      "type": "official",
+      "relevance_en": "Municipal PDF identifying Parque del Lago as located in Valleaguado on the axis of the paseo de La Rambla, and separately locating La Rambla station in La Espinilla.",
+      "relevance_es": "PDF municipal que identifica el Parque del Lago como situado en Valleaguado y en el eje del paseo de La Rambla, y que además ubica la estación de La Rambla en La Espinilla."
+    },
+    {
+      "title": "Ayuntamiento de Coslada - Coslada Información, March 2023",
+      "url": "https://coslada.es/wp-content/uploads/2023/03/Coslada-Informacion-PERIODICO-marzo-2023.pdf",
+      "type": "official",
+      "relevance_en": "Municipal newspaper article describing La Rambla as a former open dirt area transformed from 2008 into a social axis between Calle Honduras and Avenida de los Príncipes de España.",
+      "relevance_es": "Artículo del periódico municipal que describe La Rambla como un antiguo terrizo transformado desde 2008 en eje social entre la calle Honduras y la avenida de los Príncipes de España."
+    },
+    {
+      "title": "El País - La línea 7 de metro 'se estira' hasta Coslada y San Fernando",
+      "url": "https://elpais.com/diario/2007/05/05/madrid/1178364264_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary press account of the MetroEste opening on 5 May 2007, useful for the opening chronology of the Line 7 extension.",
+      "relevance_es": "Crónica de prensa contemporánea de la apertura de MetroEste el 5 de mayo de 2007, útil para la cronología de la prolongación de la línea 7."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'Calle de la Rambla' as the primary naming source with the broader local La Rambla area/paseo around Calle Honduras and Avenida de los Príncipes de España, unless a municipal street-naming source is later found.",
+      "es": "Sustituir 'Calle de la Rambla' como fuente principal del nombre por el área o paseo local de La Rambla en torno a la calle Honduras y la avenida de los Príncipes de España, salvo que aparezca más adelante una fuente municipal de callejero."
+    },
+    {
+      "en": "Do not state as verified that the Coslada name preserves seasonal watercourses draining toward the Henares; mark that as interpretation unless a local historical or hydrological source is found.",
+      "es": "No afirmar como verificado que el nombre de Coslada conserve cauces estacionales que drenaban hacia el Henares; debe tratarse como interpretación mientras no aparezca una fuente histórica o hidrológica local."
+    },
+    {
+      "en": "The Barcelona Rambla comparison is unnecessary for this station and should be removed from the station-specific summary unless used only as optional broader context.",
+      "es": "La comparación con la Rambla de Barcelona no es necesaria para esta estación y debería retirarse del resumen específico, salvo como contexto general opcional."
+    },
+    {
+      "en": "The Spanish named_after value currently includes the English phrase 'sandy riverbed'; translate it fully if retained.",
+      "es": "El valor español de named_after contiene actualmente la frase inglesa 'sandy riverbed'; debe traducirse por completo si se conserva."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Coslada municipal street-name records or plenary agreements, if available, to determine whether La Rambla was ever formally assigned as a street, paseo, park or planning-sector name before the 2007 station opening.",
+      "es": "Revisar los registros municipales de callejero o acuerdos plenarios de Coslada, si están disponibles, para determinar si La Rambla fue asignado formalmente como calle, paseo, parque o sector urbanístico antes de la apertura de la estación en 2007."
+    },
+    {
+      "en": "Check older cadastral maps, IGN mapping or municipal planning documents for any documented rambla, arroyo or drainage line at the present La Rambla/Valleaguado site.",
+      "es": "Consultar cartografía catastral antigua, mapas del IGN o documentos urbanísticos municipales para comprobar si existió una rambla, arroyo o línea de drenaje documentada en el actual entorno de La Rambla/Valleaguado."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_195/en/summary.short.md",
+      "summary": "content/stations/metro_195/en/summary.md",
+      "story": "content/stations/metro_195/en/story.md",
+      "confidence": "content/stations/metro_195/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_195/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_195/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_195/es/summary.short.md",
+      "summary": "content/stations/metro_195/es/summary.md",
+      "story": "content/stations/metro_195/es/story.md",
+      "confidence": "content/stations/metro_195/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_195/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_195/es/research-note.md"
+    }
+  }
+}

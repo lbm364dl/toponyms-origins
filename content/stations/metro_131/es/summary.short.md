@@ -1,0 +1,1 @@
+Ciudad Lineal toma su nombre del área madrileña cuyo topónimo procede del pionero proyecto de ciudad lineal de Arturo Soria y Mata. La estación abrió en 1964 en el nudo de transportes de la calle de Alcalá con la calle de Arturo Soria, junto al eje conservado de aquel experimento urbano.

@@ -1,0 +1,107 @@
+{
+  "id": "metro_158",
+  "name": "Avenida de la Paz",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Avenida de la Paz",
+  "previous_names": "",
+  "naming_date": "1979-01-05; Avenida de la Paz street name recorded 1965-11-26",
+  "sources": [
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid - Relación de viales con su evolución histórica",
+      "url": "https://datos.madrid.es/egob/catalogo/213605-4-callejero-oficial-madrid.csv",
+      "type": "official",
+      "relevance_en": "Direct municipal dataset listing Avenida de la Paz as COD_VIA 570400, AVENIDA DE LA PAZ, with FECHA_DE_ALTA 26/11/1965 and current status.",
+      "relevance_es": "Conjunto de datos municipal directo que registra la avenida de la Paz como COD_VIA 570400, AVENIDA DE LA PAZ, con FECHA_DE_ALTA 26/11/1965 y estado vigente."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid - Relación de viales vigentes",
+      "url": "https://datos.madrid.es/egob/catalogo/213605-0-callejero-oficial-madrid.csv",
+      "type": "official",
+      "relevance_en": "Shows the current official street extent: Avenida de la Paz begins at Avenida del Manzanares and ends at Avenida de Burgos.",
+      "relevance_es": "Muestra el trazado oficial vigente: la avenida de la Paz comienza en la avenida del Manzanares y termina en la avenida de Burgos."
+    },
+    {
+      "title": "Descripción de ficheros de Callejero Oficial",
+      "url": "https://www.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/Callejero%20oficial%20-%20descripci%C3%B3n%20de%20ficheros.pdf",
+      "type": "official",
+      "relevance_en": "Explains how the historical street-name dataset works and warns that some placeholder dates indicate older documentation not fully digitized.",
+      "relevance_es": "Explica el funcionamiento del fichero histórico del callejero y advierte que algunas fechas convencionales indican documentación anterior no totalmente informatizada."
+    },
+    {
+      "title": "La Línea 4 de Metro de Madrid",
+      "url": "https://pcen.prod.comunidad.madrid/transporte/linea-4-metro-madrid",
+      "type": "official",
+      "relevance_en": "Community of Madrid page confirming that the Alfonso XIII-Esperanza extension of Line 4 opened in January 1979 with three new stations.",
+      "relevance_es": "Página de la Comunidad de Madrid que confirma que la prolongación Alfonso XIII-Esperanza de la línea 4 se inauguró en enero de 1979 con tres nuevas estaciones."
+    },
+    {
+      "title": "Avenida de La Paz - CRTM",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_67/?lang=en",
+      "type": "official",
+      "relevance_en": "Current transport authority station page locating the station access at Avenida de la Paz and Avenida de Ramón y Cajal and confirming Line 4 service.",
+      "relevance_es": "Ficha actual del Consorcio Regional de Transportes que sitúa el acceso en avenida de la Paz y avenida de Ramón y Cajal y confirma el servicio de la línea 4."
+    },
+    {
+      "title": "Historia de Madrid Calle 30",
+      "url": "https://mc30.es/historia/",
+      "type": "official",
+      "relevance_en": "Madrid Calle 30 history dates the birth of the M-30 to 11 November 1974 and describes later Avenida de la Paz links and the Abroñigal context.",
+      "relevance_es": "La historia de Madrid Calle 30 fecha el nacimiento de la M-30 el 11 de noviembre de 1974 y describe enlaces posteriores de la avenida de la Paz y el contexto del Abroñigal."
+    },
+    {
+      "title": "Treinta años de M-30",
+      "url": "https://elpais.com/diario/2004/11/11/madrid/1100175864_850215.html",
+      "type": "press",
+      "relevance_en": "Provides historical detail on the 1974 M-30 opening, the 15-kilometre Avenida de la Paz sector, costs, displacement, and the Abroñigal valley.",
+      "relevance_es": "Aporta detalle histórico sobre la apertura de la M-30 en 1974, el sector de 15 kilómetros de la avenida de la Paz, costes, realojos y la vaguada del Abroñigal."
+    },
+    {
+      "title": "167 calles de Madrid conservan nombres asociados al franquismo",
+      "url": "https://elpais.com/diario/2004/12/01/madrid/1101903855_850215.html",
+      "type": "press",
+      "relevance_en": "Cites Luis Miguel Aparisi Laporta's municipal toponymy work and states that Avenida de la Paz refers expressly to the peace after the Civil War.",
+      "relevance_es": "Cita la obra municipal de toponimia de Luis Miguel Aparisi Laporta y afirma que la avenida de la Paz alude expresamente a la paz posterior a la Guerra Civil."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the row's 'officially denominated in 1991' statement with the official callejero date 26 November 1965 for Avenida de la Paz; 1991 is not supported as the naming date.",
+      "es": "Sustituir la frase 'recibió su denominación oficial en 1991' por la fecha del callejero oficial, 26 de noviembre de 1965, para la avenida de la Paz; 1991 no queda respaldado como fecha de denominación."
+    },
+    {
+      "en": "Avoid saying simply that the avenue was inaugurated in 1974: the first M-30 sections opened on 11 November 1974, but Avenida de la Paz works and links were completed in phases through 1976-1977.",
+      "es": "Evitar decir sin matices que la avenida fue inaugurada en 1974: los primeros tramos de la M-30 abrieron el 11 de noviembre de 1974, pero las obras y enlaces de la avenida de la Paz se completaron por fases hasta 1976-1977."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Ayuntamiento de Madrid naming file or municipal agreement of 26 November 1965 to confirm the exact justification used for 'Avenida de la Paz'.",
+      "es": "Consultar el expediente original o acuerdo municipal del Ayuntamiento de Madrid de 26 de noviembre de 1965 para confirmar la justificación exacta usada para 'avenida de la Paz'."
+    },
+    {
+      "en": "Check a physical or digitized copy of Luis Miguel Aparisi Laporta, *Toponimia madrileña. Proceso evolutivo*, for the full entry on Avenida de la Paz.",
+      "es": "Revisar un ejemplar físico o digitalizado de Luis Miguel Aparisi Laporta, *Toponimia madrileña. Proceso evolutivo*, para ver la entrada completa de la avenida de la Paz."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_158/en/summary.short.md",
+      "summary": "content/stations/metro_158/en/summary.md",
+      "story": "content/stations/metro_158/en/story.md",
+      "confidence": "content/stations/metro_158/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_158/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_158/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_158/es/summary.short.md",
+      "summary": "content/stations/metro_158/es/summary.md",
+      "story": "content/stations/metro_158/es/story.md",
+      "confidence": "content/stations/metro_158/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_158/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_158/es/research-note.md"
+    }
+  }
+}

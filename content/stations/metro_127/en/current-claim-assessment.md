@@ -1,0 +1,1 @@
+The main claim is well supported: the station takes its name from the La Ventilla area, and the usual explanation derives Ventilla from a roadside venta. The neighborhood history is broadly corroborated by municipal and academic sources, but the specific inn-origin is documented mainly in local secondary history rather than an official toponymic source.

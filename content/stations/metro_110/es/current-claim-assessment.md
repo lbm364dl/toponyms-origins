@@ -1,0 +1,1 @@
+La explicación actual acierta en lo esencial al vincular la estación con el topónimo vallecano Nueva Numancia y, en último término, con Numancia, pero exagera el papel de la solicitud de 1873: el nombre ya está documentado antes de 1873, la petición aparece en el Boletín del 14 de junio de 1873 y la denegación en el del 15 de septiembre de 1873.

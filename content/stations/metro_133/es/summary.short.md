@@ -1,0 +1,1 @@
+El Carmen debe su nombre a la antigua Capilla del Carmen, capilla y escuela de 1928 situada en la actual calle de Alcalá 246. La capilla desapareció, pero su nombre pervivió en la estación de Metro inaugurada allí en 1964.

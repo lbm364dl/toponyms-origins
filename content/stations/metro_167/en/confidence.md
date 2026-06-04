@@ -1,0 +1,1 @@
+The station can be confidently linked to a pre-existing local place-name, supported by official transport pages and municipal land-inventory toponyms. Confidence remains uncertain for the deeper etymology because no authoritative linguistic source explaining Pitis was found and the pine/Greek hypothesis lacks evidence.

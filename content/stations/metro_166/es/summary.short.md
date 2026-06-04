@@ -1,0 +1,1 @@
+La estación de Alameda de Osuna toma su nombre del barrio de Barajas al que da servicio. El nombre del barrio conserva la memoria de la antigua Alameda y de la finca de recreo impulsada por los duques de Osuna, especialmente el jardín de El Capricho creado por María Josefa Alonso Pimentel.

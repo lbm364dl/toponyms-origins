@@ -1,0 +1,1 @@
+Official transport and regional infrastructure sources confirm the station, line, location, opening date and that Calle de Alonso Cano gives the station its name. Authoritative art-history sources confirm the identity and significance of Alonso Cano; the only remaining uncertainty is the original municipal date when the street itself was named.

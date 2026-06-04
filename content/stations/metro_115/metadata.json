@@ -1,0 +1,121 @@
+{
+  "id": "metro_115",
+  "name": "Laguna",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle/Camino de la Laguna",
+  "previous_names": "No former station names found; related older place/street form: Camino de la Laguna.",
+  "naming_date": "1983 for the Metro station name; 1984 for the Cercanías station name.",
+  "sources": [
+    {
+      "title": "El ministro de Transportes inaugura hoy el tramo de 'metro' Oporto-Laguna",
+      "url": "https://elpais.com/diario/1983/06/01/madrid/423314659_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report confirming the 1 June 1983 inauguration of the Oporto-Laguna Metro extension and its service area around Virgen de los Remedios and Caño Roto.",
+      "relevance_es": "Crónica contemporánea que confirma la inauguración del tramo de Metro Oporto-Laguna el 1 de junio de 1983 y su ámbito de servicio en torno a Virgen de los Remedios y Caño Roto."
+    },
+    {
+      "title": "Cuatro ayuntamientos madrileños piden subidas de tarifas de transportes urbanos de viajeros",
+      "url": "https://elpais.com/diario/1984/01/23/madrid/443708654_850215.html",
+      "type": "press",
+      "relevance_en": "Reports that the Aluche-Laguna section of the Madrid-Móstoles suburban railway was inaugurated the previous Thursday and entered service in January 1984.",
+      "relevance_es": "Informa de que el tramo Aluche-Laguna del ferrocarril suburbano Madrid-Móstoles fue inaugurado el jueves anterior y entró en servicio en enero de 1984."
+    },
+    {
+      "title": "Farmacia en la calle de la Laguna",
+      "url": "https://www.memoriademadrid.es/view/384945/farmacia-en-la-calle-de-la-laguna?limit=100&offset=149&q=facet%2Cmetadata.lugar.es.keyword%2Cequals%2CMadrid+%28Carabanchel%29",
+      "type": "archive",
+      "relevance_en": "Archive record stating that in 1958 the pharmacy was on the then Camino de la Laguna, 37, now Calle de la Laguna, 48; this supports an older local toponym before the station.",
+      "relevance_es": "Registro de archivo que indica que en 1958 la farmacia estaba en el entonces Camino de la Laguna, 37, hoy calle de la Laguna, 48; apoya la existencia de un topónimo local anterior a la estación."
+    },
+    {
+      "title": "Callejero Oficial. Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Lists Calle de la Laguna in Carabanchel and Latina and Camino de la Laguna, confirming official street/toponym use.",
+      "relevance_es": "Recoge la calle de la Laguna en Carabanchel y Latina y el Camino de la Laguna, confirmando el uso oficial del nombre viario/toponímico."
+    },
+    {
+      "title": "laguna | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/laguna",
+      "type": "reference",
+      "relevance_en": "Provides the meaning and Latin etymology of laguna: from Latin lacuna, a natural water deposit generally smaller than a lake.",
+      "relevance_es": "Aporta el significado y la etimología latina de laguna: del latín lacuna, depósito natural de agua generalmente menor que un lago."
+    },
+    {
+      "title": "Planes Integrales de Barrio - Latina - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villaverde/Direcciones-y-telefonos/Planes-Integrales-de-Barrio/?idCapitulo=11019157&vgnextchannel=6bdd48e063f28010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=1c510ca52df44810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Lists Latina's official administrative neighbourhoods, showing that Laguna is not one of them.",
+      "relevance_es": "Enumera los barrios administrativos oficiales de Latina y muestra que Laguna no figura entre ellos."
+    },
+    {
+      "title": "Plan de arbolado viario del distrito Latina",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/ZonasVerdes/TodoSobre/PlanInfraestructuraVerdeYBiodiversidad/PlanesDistrito/PlanesArboladoViarioDistrito/Plan%20arbolado%20viario%20Latina.pdf",
+      "type": "official",
+      "relevance_en": "Gives municipal context for Latina as a recent district, originally sparsely populated and crossed by streams, before becoming residential.",
+      "relevance_es": "Aporta contexto municipal sobre Latina como distrito reciente, al principio poco poblado y recorrido por arroyos, antes de convertirse en un distrito residencial."
+    },
+    {
+      "title": "Línea 6 Circular - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/4__6___/",
+      "type": "official",
+      "relevance_en": "Current transport authority listing confirming Laguna on Metro line 6 with Cercanías C-5 interchange.",
+      "relevance_es": "Ficha actual de la autoridad de transporte que confirma Laguna en la línea 6 de Metro con correspondencia con Cercanías C-5."
+    },
+    {
+      "title": "Renfe, 75 años, palabras, documentos",
+      "url": "https://www.museodelferrocarril.org/75renfe/",
+      "type": "archive",
+      "relevance_en": "Railway heritage chronology noting the 1984 opening of the Laguna-Aluche commuter railway section.",
+      "relevance_es": "Cronología patrimonial ferroviaria que señala la apertura en 1984 del tramo de cercanías Laguna-Aluche."
+    },
+    {
+      "title": "Colonia Caño Roto - Arquitectura de Madrid",
+      "url": "https://fcoam.eu/guia/F3/F3.428.htm",
+      "type": "reference",
+      "relevance_en": "Provides architectural and urban context for Caño Roto, one of the housing areas served by the Laguna Metro extension.",
+      "relevance_es": "Aporta contexto arquitectónico y urbano sobre Caño Roto, uno de los ámbitos residenciales servidos por la ampliación de Metro hasta Laguna."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'named after the Laguna neighbourhood' with 'named after the local Calle/Camino de la Laguna'; Laguna is not listed as an official administrative neighbourhood of Latina.",
+      "es": "Sustituir 'debe su nombre al barrio de Laguna' por 'debe su nombre a la calle/camino de la Laguna'; Laguna no aparece como barrio administrativo oficial de Latina."
+    },
+    {
+      "en": "Downgrade the claim about a former body of standing water from verified fact to probable inference unless a primary map or naming file is found.",
+      "es": "Rebajar la afirmación sobre una antigua masa de agua estancada de hecho verificado a inferencia probable mientras no se localice un plano primario o expediente de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect historical maps such as the 1856 Plano de Madrid y sus contornos and municipal Carabanchel Bajo records to see whether Camino de la Laguna is tied to a mapped lagoon or wetland.",
+      "es": "Revisar planos históricos, como el Plano de Madrid y sus contornos de 1856, y documentación municipal de Carabanchel Bajo para comprobar si el Camino de la Laguna se vincula a una laguna o humedal cartografiado."
+    },
+    {
+      "en": "Locate the Metro or RENFE station naming file, if preserved, to confirm whether the immediate source was Calle de la Laguna, Camino de la Laguna, or a broader local usage.",
+      "es": "Localizar, si se conserva, el expediente de denominación de Metro o RENFE para confirmar si la fuente inmediata fue la calle de la Laguna, el Camino de la Laguna o un uso local más amplio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_115/en/summary.short.md",
+      "summary": "content/stations/metro_115/en/summary.md",
+      "story": "content/stations/metro_115/en/story.md",
+      "confidence": "content/stations/metro_115/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_115/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_115/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_115/es/summary.short.md",
+      "summary": "content/stations/metro_115/es/summary.md",
+      "story": "content/stations/metro_115/es/story.md",
+      "confidence": "content/stations/metro_115/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_115/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_115/es/research-note.md"
+    }
+  }
+}

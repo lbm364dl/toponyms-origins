@@ -1,0 +1,1 @@
+The row is broadly well supported: the station is named for the Manoteras area, and municipal/local histories place the older name Las Manoteras in 1807. The deeper Latin etymology attributed to Emilio Nieto Ballester is plausible and repeated in secondary works, but I could not directly inspect the dictionary entry online.

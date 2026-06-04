@@ -1,0 +1,1 @@
+Hortaleza station is named for the Madrid district, which preserves the name of the former village and municipality of Hortaleza. The municipality was annexed to Madrid by decree in 1949 and effectively incorporated on 31 March 1950; the older toponym is contested, with stronger linguistic support for a connection to fortaleza than to orchards.

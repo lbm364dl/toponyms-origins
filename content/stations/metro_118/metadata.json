@@ -1,0 +1,93 @@
+{
+  "id": "metro_118",
+  "name": "Batán",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "El Batán / Venta del Batán, a Casa de Campo toponym from a former fulling mill",
+  "previous_names": "",
+  "naming_date": "1961-02-04/1961-02-06",
+  "sources": [
+    {
+      "title": "Diccionario de la lengua española: batán",
+      "url": "https://dle.rae.es/bat%C3%A1n",
+      "type": "reference",
+      "relevance_en": "Defines batán as the fulling machine or the building where it operated, supporting the linguistic basis of the station-name explanation.",
+      "relevance_es": "Define batán como la máquina de abatanar o el edificio donde funcionaba, lo que respalda la base lingüística de la explicación del nombre."
+    },
+    {
+      "title": "Comunidad de Madrid: Línea 10 de Metro",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-10-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives the official line context for Batán and states that the Suburbano section including Batán entered service on 6 February 1961.",
+      "relevance_es": "Aporta el contexto oficial de línea de Batán e indica que el tramo del Suburbano que incluía Batán entró en servicio el 6 de febrero de 1961."
+    },
+    {
+      "title": "FCMAF: 60 años del Ferrocarril Suburbano de Carabanchel",
+      "url": "https://www.fcmaf.es/60-anos-del-ferrocarril-suburbano-de-carabanchel/",
+      "type": "other",
+      "relevance_en": "Provides transport-history context for the Carabanchel Suburban Railway and lists Batán among the original stations inaugurated in February 1961.",
+      "relevance_es": "Proporciona contexto histórico ferroviario del Ferrocarril Suburbano de Carabanchel y enumera Batán entre las estaciones originales inauguradas en febrero de 1961."
+    },
+    {
+      "title": "La Casa de Campo: Un batán para la Casa de Campo",
+      "url": "https://lacasadecampo.es/2016/09/18/un-batan-para-la-casa-de-campo/",
+      "type": "other",
+      "relevance_en": "Local historical article connecting the Casa de Campo toponym with a former batán and summarizing the 1734 purchase-document tradition.",
+      "relevance_es": "Artículo histórico local que vincula el topónimo de la Casa de Campo con un antiguo batán y resume la tradición documental de la compra de 1734."
+    },
+    {
+      "title": "La Casa de Campo: La Venta de El Batán",
+      "url": "https://lacasadecampo.es/2021/01/07/la-venta-de-el-batan/",
+      "type": "other",
+      "relevance_en": "Explains the modern Venta del Batán, its bullfighting function, and its relationship to the older Casa de Campo place name.",
+      "relevance_es": "Explica la Venta del Batán moderna, su función taurina y su relación con el topónimo antiguo de la Casa de Campo."
+    },
+    {
+      "title": "BOE: Real Decreto 1747/2010, Casa de Campo as Bien de Interés Cultural",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-20014",
+      "type": "official",
+      "relevance_en": "Official heritage declaration for Casa de Campo, useful for the broader protected-landscape context in which the Batán place name sits.",
+      "relevance_es": "Declaración oficial de la Casa de Campo como bien de interés cultural, útil para contextualizar el paisaje protegido donde se sitúa el topónimo Batán."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the modern Venta del Batán as the visible twentieth-century continuation of the name, not as the sole or original source of the word Batán.",
+      "es": "Conviene tratar la Venta del Batán moderna como la continuación visible del nombre en el siglo XX, no como la fuente única u original de la palabra Batán."
+    },
+    {
+      "en": "The station opening should be stated as February 1961; sources differ between inauguration on 4 February and public service on 6 February.",
+      "es": "La apertura de la estación debe expresarse como febrero de 1961; las fuentes distinguen entre inauguración el 4 de febrero y servicio público el 6 de febrero."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary inspection of the 1734 royal purchase record would be useful to confirm the exact wording about the batán house, stables, well, workshop, flour mill, and later chamois-leather use.",
+      "es": "Sería útil revisar directamente el documento real de compra de 1734 para confirmar la redacción exacta sobre la casa de batán, caballerizas, pozo, obrador, molino harinero y uso posterior como fábrica de gamuzas."
+    },
+    {
+      "en": "No separate administrative act assigning the station name Batán was found; the name appears already in contemporary accounts of the 1961 Suburbano opening.",
+      "es": "No se localizó un acto administrativo independiente que asignara el nombre Batán a la estación; el nombre aparece ya en las noticias y relaciones contemporáneas de la apertura del Suburbano en 1961."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_118/en/summary.short.md",
+      "summary": "content/stations/metro_118/en/summary.md",
+      "story": "content/stations/metro_118/en/story.md",
+      "confidence": "content/stations/metro_118/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_118/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_118/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_118/es/summary.short.md",
+      "summary": "content/stations/metro_118/es/summary.md",
+      "story": "content/stations/metro_118/es/story.md",
+      "confidence": "content/stations/metro_118/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_118/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_118/es/research-note.md"
+    }
+  }
+}

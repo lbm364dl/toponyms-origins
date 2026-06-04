@@ -1,0 +1,1 @@
+La estación de La Elipa toma su nombre de la zona madrileña de La Elipa, en torno a Marqués de Corbera. El topónimo es antiguo: aparece como Helipa/Elipa en documentos patrimoniales de época moderna y se explica tradicionalmente como recuerdo de Phelipa de Vargas, aunque ese último paso es probable más que plenamente probado con las fuentes primarias accesibles.

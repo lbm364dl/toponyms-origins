@@ -1,0 +1,1 @@
+San Fernando station is named for the municipality of San Fernando de Henares, where it stands. The town's name goes back to the eighteenth-century Royal Site promoted under Fernando VI and ultimately to Saint Ferdinand III, with Henares added as a river-name element in 1916.

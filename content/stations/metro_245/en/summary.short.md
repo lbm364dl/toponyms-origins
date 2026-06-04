@@ -1,0 +1,1 @@
+Sierra de Guadalupe station is named for the nearby Calle de la Sierra de Guadalupe. That Madrid street preserves the name of the Guadalupe/Villuercas mountain landscape in Cáceres, closely associated with the historic town and monastery of Guadalupe.

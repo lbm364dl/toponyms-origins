@@ -1,0 +1,115 @@
+{
+  "id": "metro_167",
+  "name": "Pitis",
+  "status": "verified",
+  "confidence": "uncertain",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pitis (historic rural place-name in Fuencarral-El Pardo)",
+  "previous_names": "",
+  "naming_date": "1964 for the railway station name; 29 March 1999 for the Metro line 7 interchange",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 7 de Metro de Madrid. Tramo: Valdezarza-Pitis",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-valdezarza-pitis",
+      "type": "official",
+      "relevance_en": "Official regional source for the Metro extension, its 29 March 1999 opening, the objective of linking Metro with the Cercanías station at Pitis, and the rehabilitation of the old station building.",
+      "relevance_es": "Fuente oficial regional para la ampliación de Metro, su puesta en servicio el 29 de marzo de 1999, el objetivo de enlazar con la estación de Cercanías de Pitis y la rehabilitación del antiguo edificio ferroviario."
+    },
+    {
+      "title": "Estación de Pitis | Rodajes Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-pitis",
+      "type": "official",
+      "relevance_en": "Renfe source confirming Pitis as a Cercanías station serving C-3a, C-7 and C-8, connected with Metro line 7, and located at María Casares and Gloria Fuertes in Fuencarral-El Pardo.",
+      "relevance_es": "Fuente de Renfe que confirma Pitis como estación de Cercanías de las líneas C-3a, C-7 y C-8, conectada con la línea 7 de Metro y situada en María Casares y Gloria Fuertes, en Fuencarral-El Pardo."
+    },
+    {
+      "title": "Pitis - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_58/",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the Pitis interchange, access name, fare zone, Metro/Cercanías correspondences and bus links.",
+      "relevance_es": "Página actual del Consorcio que confirma el intercambiador de Pitis, el acceso, la zona tarifaria, las correspondencias Metro/Cercanías y los enlaces de autobús."
+    },
+    {
+      "title": "Inventario del Ayuntamiento de Madrid 2024 - Patrimonio Municipal de Suelo",
+      "url": "https://transparencia.madrid.es/FWProjects/transparencia/EconomiaYPresuestos/PatrimonioInventario/PatrimonioSuelo/ficheros/inventariopatrimoniomunicipalsuelo2024.pdf",
+      "type": "official",
+      "relevance_en": "Municipal land inventory preserving rural site-name formulas around the area, including Hoya del Rencajo o Pitis, supporting Pitis as a pre-existing local toponym.",
+      "relevance_es": "Inventario municipal de suelo que conserva fórmulas de paraje rural en la zona, incluida Hoya del Rencajo o Pitis, y respalda Pitis como topónimo local preexistente."
+    },
+    {
+      "title": "FilóbLogos: Toponimia natural de Madrid",
+      "url": "https://filoblogos.blogspot.com/2007/02/toponimia-natural-de-madrid.html",
+      "type": "other",
+      "relevance_en": "Useful secondary orientation source listing Pitis among Madrid natural toponyms and showing that no etymology was supplied in that discussion; not authoritative enough to settle the origin.",
+      "relevance_es": "Fuente secundaria útil de orientación que incluye Pitis entre los topónimos naturales de Madrid y muestra que en esa discusión no se ofreció una etimología; no es suficientemente autorizada para resolver el origen."
+    },
+    {
+      "title": "Historias matritenses: Peñagrande - Lacoma - El barrio",
+      "url": "https://historias-matritenses.blogspot.com/2010/11/penagrande-lacoma-el-barrio.html",
+      "type": "other",
+      "relevance_en": "Local-history account describing the Pitis area in the 1960s as a leafy poplar grove with a stream, useful for landscape context but not a formal etymology.",
+      "relevance_es": "Relato de historia local que describe la zona de Pitis en los años sesenta como una alameda frondosa con un arroyuelo, útil para el contexto paisajístico pero no como etimología formal."
+    },
+    {
+      "title": "Próxima parada, Pitis: el final de la ciudad donde las chabolas dieron paso al PAU",
+      "url": "https://www.eldiario.es/madrid/somos/proxima-parada-pitis-final-ciudad-chabolas-dieron-paso-pau_1_12381415.html",
+      "type": "press",
+      "relevance_en": "Recent local press synthesis on Pitis as a station area, its 1964 railway background, later Metro reactivation, shantytown memory and PAU urban transformation.",
+      "relevance_es": "Síntesis periodística local reciente sobre Pitis como entorno de estación, su trasfondo ferroviario de 1964, la reactivación con el Metro, la memoria del poblado chabolista y la transformación urbana del PAU."
+    },
+    {
+      "title": "Plano Historia del Ferrocarril en Madrid - CRTM",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Transport-history timeline mentioning Pitis station and the later arrival of Metro line 7; useful for chronology, though the OCR/date presentation should be checked against primary railway files.",
+      "relevance_es": "Cronología de historia ferroviaria que menciona la estación de Pitis y la llegada posterior de la línea 7 de Metro; útil para la cronología, aunque la presentación OCR/fecha debe contrastarse con expedientes ferroviarios primarios."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the Greek Pitys or pine explanation as an etymology; it is only an unsupported hypothesis.",
+      "es": "No debe presentarse la explicación griega Pitys o pino como etimología; es solo una hipótesis no demostrada."
+    },
+    {
+      "en": "The exact 25 May 1964 date should be handled cautiously: it is well associated with the Madrid railway links, but I did not find a primary source proving that exact day as the passenger station's naming date.",
+      "es": "La fecha exacta del 25 de mayo de 1964 debe tratarse con cautela: está bien asociada a los enlaces ferroviarios de Madrid, pero no he encontrado una fuente primaria que pruebe ese día exacto como fecha de denominación de la estación de viajeros."
+    },
+    {
+      "en": "Current service metadata should be reviewed: Renfe lists Pitis on C-3a, C-7 and C-8, while the input line field omits C-3a.",
+      "es": "Conviene revisar los metadatos de servicio actuales: Renfe incluye Pitis en C-3a, C-7 y C-8, mientras que el campo de líneas de entrada omite C-3a."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect RENFE or Ministry circulars from 1964 to confirm the exact opening or naming date of Pitis station as a passenger stop.",
+      "es": "Consultar circulares de RENFE o del Ministerio de 1964 para confirmar la fecha exacta de apertura o denominación de Pitis como parada de viajeros."
+    },
+    {
+      "en": "Check cadastral, notarial or historical municipal records of Fuencarral for earlier occurrences of Pitis and possible variants that might clarify the origin.",
+      "es": "Revisar documentación catastral, notarial o municipal histórica de Fuencarral para localizar menciones anteriores de Pitis y posibles variantes que aclaren su origen."
+    },
+    {
+      "en": "No entry or scholarly treatment was found in readily accessible toponymic references; a specialist Madrid toponymy study may still exist offline.",
+      "es": "No se localizó una entrada o estudio académico en referencias toponímicas accesibles; podría existir algún estudio especializado de toponimia madrileña fuera de línea."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_167/en/summary.short.md",
+      "summary": "content/stations/metro_167/en/summary.md",
+      "story": "content/stations/metro_167/en/story.md",
+      "confidence": "content/stations/metro_167/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_167/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_167/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_167/es/summary.short.md",
+      "summary": "content/stations/metro_167/es/summary.md",
+      "story": "content/stations/metro_167/es/story.md",
+      "confidence": "content/stations/metro_167/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_167/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_167/es/research-note.md"
+    }
+  }
+}

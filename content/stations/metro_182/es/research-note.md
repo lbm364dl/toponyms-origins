@@ -1,0 +1,1 @@
+La fila actual contiene material histórico valioso sobre el Condado de Urgell, pero su cadena probatoria salta de la estación a la calle y de la calle al condado medieval. La actualización más defendible es mantener el condado como contexto, cambiar la etimología directa a 'calle de Urgel / Urgell' y dejar marcada como no verificada la intención municipal exacta.

@@ -1,0 +1,1 @@
+Las fechas de apertura del transporte y la existencia de la calle/camino de la Laguna están bien respaldadas por fuentes de prensa, municipales y de archivo. La incertidumbre restante es el acto exacto de denominación y la masa de agua histórica concreta que originó el topónimo.

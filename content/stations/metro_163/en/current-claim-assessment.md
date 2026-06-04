@@ -1,0 +1,1 @@
+The core claim is well supported: Empalme refers to the connection point between the Ferrocarril Suburbano and the Madrid-Almorox railway. However, the row overstates some details: the station did not open as Line 5 in 1961, and the original-name form 'Empalme-Goya' is weaker than the documented planned forms 'Madrid-Empalme' or 'Goya-Empalme'.

@@ -1,0 +1,108 @@
+{
+  "id": "metro_177",
+  "name": "San Lorenzo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio/Colonia San Lorenzo, ultimately San Lorenzo (Saint Lawrence of Rome)",
+  "previous_names": "",
+  "naming_date": "15 December 1998",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 4. Tramo: Mar de Cristal-Parque de Santa María",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-4-tramo-mar-cristal-parque-santa-maria",
+      "type": "official",
+      "relevance_en": "Officially states the extension entered service on 15 December 1998 and that San Lorenzo station is located in the barrio from which it takes its name.",
+      "relevance_es": "Indica oficialmente que la prolongación se puso en servicio el 15 de diciembre de 1998 y que la estación de San Lorenzo se ubica en el barrio del que toma su nombre."
+    },
+    {
+      "title": "CRTM - San Lorenzo station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_72",
+      "type": "official",
+      "relevance_en": "Confirms the current station, Line 4, fare zone, services, and accesses on Avenida de la Barranquilla and Calle de Baranoa.",
+      "relevance_es": "Confirma la estación actual, la línea 4, la zona tarifaria, los servicios y los accesos en la avenida de la Barranquilla y la calle de Baranoa."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distrito 16 Hortaleza, Barrio 164 Pinar del Rey map",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/16%20-%20Hortaleza/Barrio164.pdf",
+      "type": "official",
+      "relevance_en": "Municipal mapping places San Lorenzo and Colonia San Lorenzo within the Pinar del Rey administrative barrio, correcting the input's Piovera location.",
+      "relevance_es": "La cartografía municipal sitúa San Lorenzo y la Colonia San Lorenzo dentro del barrio administrativo de Pinar del Rey, corrigiendo la ubicación de entrada en Piovera."
+    },
+    {
+      "title": "Fundación Arquitectura COAM - Colonia San Lorenzo",
+      "url": "https://fcoam.eu/guia/L3/L3.127.htm",
+      "type": "reference",
+      "relevance_en": "Documents Colonia San Lorenzo in Hortaleza as a housing estate/neighbourhood dated 1967, with project and works in 1967-1972.",
+      "relevance_es": "Documenta la Colonia San Lorenzo en Hortaleza como colonia, barrio o polígono fechado en 1967, con proyecto y obras entre 1967 y 1972."
+    },
+    {
+      "title": "Hortaleza Periódico Vecinal - La lucha vecinal empujó el Metro hasta Hortaleza",
+      "url": "https://www.periodicohortaleza.org/la-lucha-vecinal-empujo-el-metro-en-hortaleza/",
+      "type": "press",
+      "relevance_en": "Provides local historical context for the neighbourhood campaigns that led to the Line 4 extension and notes the opening of San Lorenzo on 15 December 1998.",
+      "relevance_es": "Aporta contexto histórico local sobre las movilizaciones vecinales que impulsaron la prolongación de la línea 4 y menciona la apertura de San Lorenzo el 15 de diciembre de 1998."
+    },
+    {
+      "title": "Vatican News - San Lorenzo: los pobres son las estrellas y los tesoros de la Iglesia",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2021-08/san-lorenzo-pobres-estrellas-tesoros-iglesia.html",
+      "type": "official",
+      "relevance_en": "Summarizes the Catholic tradition about Saint Lawrence: deacon of Rome, martyr under Valerian in 258, feast day 10 August, and the 'treasures of the Church' story.",
+      "relevance_es": "Resume la tradición católica sobre san Lorenzo: diácono de Roma, mártir bajo Valeriano en 258, festividad del 10 de agosto y relato de los 'tesoros de la Iglesia'."
+    },
+    {
+      "title": "Encyclopaedia Britannica - St. Lawrence",
+      "url": "https://www.britannica.com/biography/Saint-Lawrence",
+      "type": "reference",
+      "relevance_en": "Provides a cautious reference biography of Saint Lawrence, including his role as a Roman deacon, execution in 258, feast day, patronage, and the legendary status of the gridiron account.",
+      "relevance_es": "Ofrece una biografía de referencia prudente de san Lorenzo, con su papel como diácono romano, ejecución en 258, festividad, patronazgos y el carácter legendario del relato de la parrilla."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station did not open in 1979; official sources date the Mar de Cristal-Parque de Santa María extension, including San Lorenzo, to 15 December 1998.",
+      "es": "La estación no se inauguró en 1979; las fuentes oficiales fechan la prolongación Mar de Cristal-Parque de Santa María, incluida San Lorenzo, el 15 de diciembre de 1998."
+    },
+    {
+      "en": "The station's direct name source should be the San Lorenzo barrio or Colonia San Lorenzo, not an asserted parish unless a specific parish source is later found.",
+      "es": "La fuente directa del nombre debe ser el barrio o Colonia San Lorenzo, no una supuesta parroquia salvo que se localice posteriormente una fuente parroquial específica."
+    },
+    {
+      "en": "The input neighbourhood 'Piovera' appears inconsistent with municipal mapping; San Lorenzo is shown within the Pinar del Rey administrative barrio.",
+      "es": "El barrio administrativo de entrada, 'Piovera', parece incoherente con la cartografía municipal; San Lorenzo aparece dentro del barrio administrativo de Pinar del Rey."
+    },
+    {
+      "en": "The gridiron martyrdom and famous remark should be labelled as tradition or legend; Britannica notes that Lawrence was probably beheaded.",
+      "es": "El martirio en la parrilla y la célebre frase deben presentarse como tradición o leyenda; Britannica señala que Lorenzo probablemente fue decapitado."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning or naming file for Colonia San Lorenzo could clarify why the 1960s housing development received the name San Lorenzo.",
+      "es": "Un expediente municipal de planeamiento o denominación de la Colonia San Lorenzo podría aclarar por qué la promoción de los años sesenta recibió el nombre San Lorenzo."
+    },
+    {
+      "en": "No authoritative source was found tying the station name to a specific parish of San Lorenzo in Hortaleza.",
+      "es": "No se ha encontrado una fuente autorizada que vincule el nombre de la estación a una parroquia concreta de San Lorenzo en Hortaleza."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_177/en/summary.short.md",
+      "summary": "content/stations/metro_177/en/summary.md",
+      "story": "content/stations/metro_177/en/story.md",
+      "confidence": "content/stations/metro_177/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_177/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_177/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_177/es/summary.short.md",
+      "summary": "content/stations/metro_177/es/summary.md",
+      "story": "content/stations/metro_177/es/story.md",
+      "confidence": "content/stations/metro_177/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_177/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_177/es/research-note.md"
+    }
+  }
+}

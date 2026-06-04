@@ -1,0 +1,103 @@
+{
+  "id": "metro_106",
+  "name": "Cuzco",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Cusco/Cuzco, Peru",
+  "previous_names": "",
+  "naming_date": "10 June 1982",
+  "sources": [
+    {
+      "title": "CRTM - Cuzco station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_191/?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current Cuzco Metro station, fare zone, Line 10 connection, and accesses on Paseo de la Castellana.",
+      "relevance_es": "Confirma la estación actual de Metro de Cuzco, su zona tarifaria, la conexión con la línea 10 y los accesos en el paseo de la Castellana."
+    },
+    {
+      "title": "CRTM - Metro Line 10",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/lineas/4__10___.aspx",
+      "type": "official",
+      "relevance_en": "Lists Cuzco as a station on Madrid Metro Line 10 between Plaza de Castilla and Santiago Bernabéu.",
+      "relevance_es": "Incluye Cuzco como estación de la línea 10 del Metro de Madrid entre Plaza de Castilla y Santiago Bernabéu."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Officially records Plaza de Cuzco as a Madrid street/place name in the districts of Chamartín and Tetuán.",
+      "relevance_es": "Registra oficialmente la Plaza de Cuzco como vía o espacio público de Madrid en los distritos de Chamartín y Tetuán."
+    },
+    {
+      "title": "Proyecto para la prolongación del paseo de la Castellana - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/405591/proyecto-para-la-prolongacion-del-paseo-de-la-castellana?limit=50&offset=2&q=facet%2Cmetadata.subject.es.keyword%2Cequals%2CProyecto+de+prolongaci%C3%B3n+de+la+Castellana",
+      "type": "archive",
+      "relevance_en": "Provides archival context for the planned northward extension of Paseo de la Castellana, the urban framework in which the later Plaza de Cuzco sits.",
+      "relevance_es": "Aporta contexto archivístico sobre la prolongación hacia el norte del paseo de la Castellana, el marco urbano en el que se sitúa la posterior Plaza de Cuzco."
+    },
+    {
+      "title": "UNESCO World Heritage Centre - City of Cuzco",
+      "url": "https://whc.unesco.org/en/list/273/",
+      "type": "official",
+      "relevance_en": "Authoritative source for Cuzco/Cusco as a World Heritage city and historic Inca capital.",
+      "relevance_es": "Fuente autorizada sobre Cuzco/Cusco como ciudad Patrimonio Mundial y capital histórica inca."
+    },
+    {
+      "title": "Encyclopaedia Britannica - Cuzco",
+      "url": "https://www.britannica.com/place/Cuzco",
+      "type": "reference",
+      "relevance_en": "Supports the Cusco/Cuzco spelling variants, Quechua Qosqo, the 'navel/centre' etymology, and the city's role as capital of the Inca Empire.",
+      "relevance_es": "Respalda las variantes Cusco/Cuzco, el quechua Qosqo, la etimología de 'ombligo/centro' y el papel de la ciudad como capital del Imperio inca."
+    },
+    {
+      "title": "Estación de Cuzco - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Cuzco",
+      "type": "reference",
+      "relevance_en": "Useful secondary source for the station's opening on 10 June 1982 as part of the former Line 8 and later incorporation into Line 10; should be backed by press or Metro archive for final dataset use.",
+      "relevance_es": "Fuente secundaria útil para la apertura de la estación el 10 de junio de 1982 como parte de la antigua línea 8 y su posterior incorporación a la línea 10; conviene respaldarla con prensa o archivo de Metro para el uso definitivo en el conjunto de datos."
+    },
+    {
+      "title": "Plaza de Cuzco - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Plaza_de_Cuzco",
+      "type": "reference",
+      "relevance_en": "Secondary source for the specific claim that the square has borne the name of the Peruvian city since 21 October 1953 and for the 1930s Castellana-extension context.",
+      "relevance_es": "Fuente secundaria para la afirmación concreta de que la plaza lleva el nombre de la ciudad peruana desde el 21 de octubre de 1953 y para el contexto de la prolongación de la Castellana en los años treinta."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 10 June 1982 as the station naming/opening date, since the station appears to have opened under the name Cuzco; the 1953 date applies to the square, not the Metro station.",
+      "es": "Usar el 10 de junio de 1982 como fecha de denominación/apertura de la estación, ya que parece que abrió con el nombre Cuzco; la fecha de 1953 corresponde a la plaza, no a la estación de Metro."
+    },
+    {
+      "en": "Phrase the 'Latin American street-name cluster' as contextual interpretation unless a municipal source is added.",
+      "es": "Formular el 'conjunto de nombres latinoamericanos' como contexto interpretativo salvo que se añada una fuente municipal."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid municipal minutes or street-naming file for 21 October 1953 to confirm the exact plaza naming act.",
+      "es": "Consultar las actas municipales o el expediente de denominación viaria del Ayuntamiento de Madrid del 21 de octubre de 1953 para confirmar el acuerdo exacto de la plaza."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_106/en/summary.short.md",
+      "summary": "content/stations/metro_106/en/summary.md",
+      "story": "content/stations/metro_106/en/story.md",
+      "confidence": "content/stations/metro_106/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_106/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_106/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_106/es/summary.short.md",
+      "summary": "content/stations/metro_106/es/summary.md",
+      "story": "content/stations/metro_106/es/story.md",
+      "confidence": "content/stations/metro_106/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_106/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_106/es/research-note.md"
+    }
+  }
+}

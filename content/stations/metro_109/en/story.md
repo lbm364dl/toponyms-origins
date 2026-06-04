@@ -1,0 +1,9 @@
+Puente de Vallecas is a very literal name: it means the bridge of, or bridge toward, Vallecas. The metro station took the name already used for the surrounding place, a settlement that grew around the crossing from Madrid toward the old town of Vallecas.
+
+The bridge was over the Arroyo Abroñigal, a stream that once ran along this edge of Madrid. An official catalogue from Madrid's municipal museum system records a 1729 drawing by Pedro de Ribera for a bridge over the Abroñigal on the Camino de Vallecas. Ribera, one of Madrid's major Baroque architects and municipal master builder, was also responsible for works such as the Puente de Toledo and the Conde Duque complex.
+
+Before Vallecas was annexed to Madrid in 1950, this was a frontier space: Madrid on one side, Vallecas on the other. Academic urban-history work describes Puente de Vallecas as the territory immediately beyond the planned city, across the Abroñigal, where the old Valencia road continued toward Vallecas. That crossing helped turn a piece of infrastructure into a place-name.
+
+Metro made the name more visible. The Line 1 extension from Atocha to Puente de Vallecas opened to public service on 8 May 1923, with Menéndez Pelayo, Pacífico and Puente de Vallecas as the new stations. At first, Puente de Vallecas was the end of the line, linking the working suburb more directly with central Madrid.
+
+The current row is right about the broad origin, but some details should be treated carefully. Pedro de Ribera's 1729 bridge design is well documented; the often repeated figure of about 65,000 reales and a completion around 1731 are plausible but should ideally be tied to an archival municipal works file. The statement that the Abroñigal was documented in 1206 is weaker for this station: inspected references more clearly point to Valnegral/Moratalaz and Calatrava lands, not directly to the bridge-name Puente de Vallecas.

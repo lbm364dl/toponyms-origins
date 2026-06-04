@@ -1,0 +1,86 @@
+{
+  "id": "metro_180",
+  "name": "Henares",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Río Henares",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Henares",
+      "url": "https://toponhisp.org/node/3682",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic entry explaining Henares as the plural of henar, 'place populated by hay', from the Latin fenum family and formed in Romance; also gives historical forms and geography of the river.",
+      "relevance_es": "Entrada toponímica autorizada que explica Henares como plural de henar, 'sitio poblado de heno', de la familia latina de fenum y formado en época románica; aporta además formas históricas y geografía del río."
+    },
+    {
+      "title": "CRTM: Henares metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_292/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming Henares as a Metro Line 7 station, with access at Avenida de Algorta 12 in San Fernando de Henares.",
+      "relevance_es": "Página oficial de transporte que confirma Henares como estación de la línea 7 de Metro, con acceso en la avenida de Algorta 12 de San Fernando de Henares."
+    },
+    {
+      "title": "CRTM: Line 7 Hospital del Henares-Pitis",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/4__7___/",
+      "type": "official",
+      "relevance_en": "Official line listing that places Henares on Line 7 between Hospital del Henares and Jarama in the Metro network.",
+      "relevance_es": "Listado oficial de línea que sitúa Henares en la línea 7 entre Hospital del Henares y Jarama dentro de la red de Metro."
+    },
+    {
+      "title": "Madridiario/EFE: El Metro llega a San Fernando de Henares y Coslada",
+      "url": "https://www.madridiario.es/noticia/20514/transportes/el-metro-llega-a-san-fernando-de-henares-y-coslada.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 5 May 2007 documenting the opening of MetroEste and listing Henares among the San Fernando de Henares stations.",
+      "relevance_es": "Crónica contemporánea del 5 de mayo de 2007 que documenta la inauguración de MetroEste y enumera Henares entre las estaciones de San Fernando de Henares."
+    },
+    {
+      "title": "Informe sobre el estado de conservación del río Henares (tramo Guadalajara-Jarama)",
+      "url": "https://asociaciongrama.org/documentacion/informes/Informe%20Estado%20de%20Conservacion%20del%20Rio%20Henares%20%28Tramo%20Guadalajara%20Jarama%29.pdf",
+      "type": "other",
+      "relevance_en": "Environmental report giving useful local context on the river and summarizing the Wad al-Hayara/Guadalajara tradition, though it is less authoritative for etymology than Toponomasticon Hispaniae.",
+      "relevance_es": "Informe ambiental que aporta contexto local sobre el río y resume la tradición Wad al-Hayara/Guadalajara, aunque es menos autoritativo para la etimología que Toponomasticon Hispaniae."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the Arabic-period Guadalajara/Wad al-Hayara note as contextual and secondary, not as part of the direct etymology of the station name.",
+      "es": "Conviene tratar la nota sobre Guadalajara/Wad al-Hayara en época islámica como contexto secundario, no como parte de la etimología directa del nombre de la estación."
+    },
+    {
+      "en": "The current row should cite Toponomasticon Hispaniae instead of relying mainly on Wikipedia for the river-name etymology.",
+      "es": "La fila debería citar Toponomasticon Hispaniae en lugar de apoyarse principalmente en Wikipedia para la etimología del hidrónimo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No official Metro naming-resolution document was found that explicitly says the station was named after the river; the conclusion is based on the station name, its location in San Fernando de Henares, and the established hydronym.",
+      "es": "No se localizó un documento oficial de denominación de Metro que diga expresamente que la estación recibió el nombre del río; la conclusión se basa en el nombre de la estación, su ubicación en San Fernando de Henares y el hidrónimo consolidado."
+    },
+    {
+      "en": "The Islamic-period Wad al-Hayara/Guadalajara tradition would benefit from a specialist medieval source if it is retained in dataset notes.",
+      "es": "La tradición sobre Wad al-Hayara/Guadalajara en época islámica debería apoyarse en una fuente medievalista especializada si se conserva en las notas del conjunto de datos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_180/en/summary.short.md",
+      "summary": "content/stations/metro_180/en/summary.md",
+      "story": "content/stations/metro_180/en/story.md",
+      "confidence": "content/stations/metro_180/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_180/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_180/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_180/es/summary.short.md",
+      "summary": "content/stations/metro_180/es/summary.md",
+      "story": "content/stations/metro_180/es/story.md",
+      "confidence": "content/stations/metro_180/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_180/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_180/es/research-note.md"
+    }
+  }
+}

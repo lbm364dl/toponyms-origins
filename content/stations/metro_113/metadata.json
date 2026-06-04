@@ -1,0 +1,104 @@
+{
+  "id": "metro_113",
+  "name": "Alto de Extremadura",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alto de Extremadura / Paseo de Extremadura",
+  "previous_names": "No former station name found. Older place-name for the area: Cerro Bermejo; historical form: Altos de Extremadura.",
+  "naming_date": "1995-05-10",
+  "sources": [
+    {
+      "title": "CRTM - Alto de Extremadura",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_129?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station, Line 6 correspondence, tariff zone, and accesses at Plaza Alto de Extremadura / Paseo de Extremadura.",
+      "relevance_es": "Confirma la estación actual, la correspondencia con la línea 6, la zona tarifaria y los accesos en Plaza Alto de Extremadura / Paseo de Extremadura."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Gives the 10-05-1995 opening date for the Laguna-Ciudad Universitaria section and lists Alto de Extremadura among its six stations.",
+      "relevance_es": "Aporta la fecha de apertura del 10-05-1995 para el tramo Laguna-Ciudad Universitaria y enumera Alto de Extremadura entre sus seis estaciones."
+    },
+    {
+      "title": "Comunidad de Madrid - La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides official context for the staged development of Line 6 before it became circular.",
+      "relevance_es": "Aporta contexto oficial sobre el desarrollo por etapas de la línea 6 antes de convertirse en circular."
+    },
+    {
+      "title": "Ayuntamiento de Madrid / Madrid Río - Informe de hallazgos arqueológicos",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ProyectosSingularesUrbanismo/ProyectoMadridRio/Ficheros/AprobacionDefinitva/1-InfHallazArqueo1.2.pdf",
+      "type": "official",
+      "relevance_en": "Identifies the old camino de Alcorcón, today Paseo de Extremadura; mentions the Altos de Extremadura and the older name Cerro Bermejo with its clay-based explanation.",
+      "relevance_es": "Identifica el antiguo camino de Alcorcón, hoy Paseo de Extremadura; menciona los Altos de Extremadura y el antiguo nombre Cerro Bermejo con su explicación por las arcillas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid / Madrid Río - Paseo de Extremadura, intervenciones de viario",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ProyectosSingularesUrbanismo/ProyectoMadridRio/Ficheros/AprobacionDefinitva/Fich4y5/IntervViario-5.3.pdf",
+      "type": "official",
+      "relevance_en": "Documents Plaza Alto de Extremadura in planning context and notes the Cañada Real de Madrid protection context along the corridor.",
+      "relevance_es": "Documenta la Plaza Alto de Extremadura en contexto de planeamiento y recoge el marco de protección de la Cañada Real de Madrid en el corredor."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - El Ayuntamiento de Madrid publica el libro Carabanchel, 75 años en Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/El-Ayuntamiento-de-Madrid-publica-el-libro-Carabanchel-75-anos-en-Madrid/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=4657b2fcf97c7810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the 29 April 1948 annexation acts for Carabanchel Bajo and Carabanchel Alto, useful context for the surrounding district history.",
+      "relevance_es": "Confirma las actas de anexión del 29 de abril de 1948 de Carabanchel Bajo y Carabanchel Alto, contexto útil para la historia del entorno."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - ALTA, ALTU",
+      "url": "https://www.toponhisp.org/index.php/eu/node/2883",
+      "type": "academic",
+      "relevance_en": "Provides linguistic background for alto/alta as a Romance toponymic element meaning high or elevated.",
+      "relevance_es": "Aporta contexto lingüístico para alto/alta como elemento toponímico romance con sentido de altura o elevación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The input opening year 1981 is incorrect for this station; Alto de Extremadura opened on 10 May 1995 with the Laguna-Ciudad Universitaria section of Line 6.",
+      "es": "El año de apertura 1981 del registro de entrada es incorrecto para esta estación; Alto de Extremadura abrió el 10 de mayo de 1995 con el tramo Laguna-Ciudad Universitaria de la línea 6."
+    },
+    {
+      "en": "The name should be framed first as a local place/road name, not simply as a direct dedication to the autonomous region of Extremadura.",
+      "es": "El nombre debe presentarse ante todo como un topónimo local y viario, no simplemente como una dedicación directa a la comunidad autónoma de Extremadura."
+    },
+    {
+      "en": "The drove-road and Mesta context is plausible background for the corridor, but the researched sources do not show it as the direct naming reason for the metro station.",
+      "es": "El contexto de vías pecuarias y de la Mesta es un fondo plausible para el corredor, pero las fuentes consultadas no lo muestran como la razón directa del nombre de la estación de metro."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or historical gazetteer entry for Plaza Alto de Extremadura could further confirm when the surface place-name was officially assigned.",
+      "es": "Un expediente municipal de rotulación o una entrada histórica del nomenclátor de la Plaza Alto de Extremadura permitiría confirmar mejor cuándo se asignó oficialmente el topónimo en superficie."
+    },
+    {
+      "en": "The older name Cerro Bermejo is supported by a Madrid Río historical report; inspecting the cited historical maps directly would refine the chronology of its replacement by Alto(s) de Extremadura.",
+      "es": "El antiguo nombre Cerro Bermejo está respaldado por un informe histórico de Madrid Río; consultar directamente los planos históricos citados permitiría precisar la cronología de su sustitución por Alto(s) de Extremadura."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_113/en/summary.short.md",
+      "summary": "content/stations/metro_113/en/summary.md",
+      "story": "content/stations/metro_113/en/story.md",
+      "confidence": "content/stations/metro_113/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_113/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_113/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_113/es/summary.short.md",
+      "summary": "content/stations/metro_113/es/summary.md",
+      "story": "content/stations/metro_113/es/story.md",
+      "confidence": "content/stations/metro_113/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_113/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_113/es/research-note.md"
+    }
+  }
+}

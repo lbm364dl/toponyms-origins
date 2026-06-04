@@ -1,0 +1,1 @@
+La estación toma su nombre del Barrio de la Concepción, en Ciudad Lineal. El nombre del barrio parece conservar un topónimo mariano anterior, la Purísima Concepción, reutilizado después por la gran promoción residencial de posguerra.

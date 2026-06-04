@@ -1,0 +1,1 @@
+La estación de Pueblo Nuevo toma su nombre del barrio madrileño donde se ubica, cuyo nombre significa literalmente 'pueblo nuevo'. El topónimo parece proceder del asentamiento suburbano formado entre el siglo XIX y comienzos del XX en torno a la calle de Alcalá y la antigua carretera de Aragón.

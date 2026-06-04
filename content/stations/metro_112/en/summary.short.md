@@ -1,0 +1,1 @@
+Puerta del Ángel station is named after the Madrid neighbourhood and plaza of the same name. That place-name comes from a former Casa de Campo gate associated with the vanished Hermitage of the Santo Ángel de la Guarda.

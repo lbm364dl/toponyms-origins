@@ -1,0 +1,1 @@
+La estación de Lista conserva el antiguo nombre de la calle de Lista, hoy calle de José Ortega y Gasset. Aquella vía homenajeaba a Alberto Rodríguez de Lista y Aragón, sacerdote sevillano, matemático, poeta, periodista, crítico y maestro influyente.

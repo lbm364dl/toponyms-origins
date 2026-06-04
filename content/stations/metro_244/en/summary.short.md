@@ -1,0 +1,1 @@
+Miguel Hernández station is named for the nearby Avenida de Miguel Hernández, which honors the Orihuela-born poet Miguel Hernández Gilabert. The station opened on Line 1 on 7 April 1994 as part of Metro's extension into Palomeras, Vallecas.

@@ -1,0 +1,1 @@
+La Gavia is named for the nearby Avenida de la Gavia and, ultimately, the Arroyo de La Gavia, a small tributary valley of the Manzanares in Vallecas. The word gavia means a drainage ditch or trench and comes from Latin cavea, 'cavity' or 'cage'.

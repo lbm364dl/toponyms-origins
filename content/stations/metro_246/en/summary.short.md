@@ -1,0 +1,1 @@
+Villa de Vallecas is named for the historic town and present Madrid district around the station. The older name Vallecas is documented as Balecas in the 1202 Fuero de Madrid, but its exact origin remains debated.

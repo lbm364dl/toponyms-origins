@@ -1,0 +1,1 @@
+Pitis toma su nombre de un antiguo topónimo rural del borde noroeste de Madrid, no de una persona conocida. La documentación oficial y municipal conserva Pitis como nombre de paraje, pero su origen lingüístico sigue sin resolverse.

@@ -1,0 +1,1 @@
+The core claim is right: the station name points to Argentina through Madrid's Plaza de la República Argentina. However, the row places the station in Hispanoamérica and overstates the Latin-American street-grid explanation; official municipal mapping and heritage records place the plaza/station area in El Viso, Chamartín.

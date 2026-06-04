@@ -1,0 +1,97 @@
+{
+  "id": "metro_102",
+  "name": "Lista",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Alberto Rodríguez de Lista y Aragón",
+  "previous_names": "No former station name found; opened as Lista. The associated street name Calle de Lista was replaced by Calle de José Ortega y Gasset in 1955.",
+  "naming_date": "1932-09-17",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Lista",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-lista.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro heritage PDF documenting the station’s opening on 17 September 1932, its original Line 2B context, its current location, the old street names Torrijos and Lista, and the 1958 incorporation into Line 4.",
+      "relevance_es": "PDF oficial del patrimonio de Metro que documenta la inauguración de la estación el 17 de septiembre de 1932, su contexto original en la línea 2B, su ubicación, los antiguos nombres de Torrijos y Lista, y su incorporación a la línea 4 en 1958."
+    },
+    {
+      "title": "Diario de Madrid - Ortega y Gasset, más calidad ambiental y mejor movilidad para el peatón",
+      "url": "https://diario.madrid.es/blog/2022/10/05/ortega-y-gasset-mas-calidad-ambiental-y-mejor-movilidad-para-el-peaton/",
+      "type": "official",
+      "relevance_en": "Madrid municipal article stating that the street was formerly Calle de Lista in homage to Alberto Lista y Aragón, that it was renamed José Ortega y Gasset in 1955, and that the Metro stop preserves Lista.",
+      "relevance_es": "Artículo municipal madrileño que indica que la calle fue antes calle de Lista en homenaje a Alberto Lista y Aragón, que pasó a denominarse José Ortega y Gasset en 1955 y que la parada de Metro conserva el nombre de Lista."
+    },
+    {
+      "title": "Real Academia de la Historia - Correspondencia con la Historia: Metro Madrid biographies",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "official",
+      "relevance_en": "RAH and Metro Madrid collaboration page listing LISTA as a Metro station name linked to Alberto Rodríguez de Lista y Aragón.",
+      "relevance_es": "Página de colaboración entre la RAH y Metro Madrid que enumera LISTA como nombre de estación vinculado a Alberto Rodríguez de Lista y Aragón."
+    },
+    {
+      "title": "Real Academia de la Historia - Historia Hispánica: Alberto Rodríguez de Lista y Aragón",
+      "url": "https://historia-hispanica.rah.es/biografias/39359-alberto-rodriguez-de-lista-y-aragon",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry identifying Alberto Rodríguez de Lista y Aragón and his dates and occupations; the page is client-rendered, but indexed RAH snippets confirm the key biographical metadata.",
+      "relevance_es": "Entrada biográfica autorizada que identifica a Alberto Rodríguez de Lista y Aragón, sus fechas y ocupaciones; la página se renderiza en cliente, pero los extractos indexados de la RAH confirman los principales metadatos biográficos."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Biografía de Alberto Lista",
+      "url": "https://www.cervantesvirtual.com/portales/alberto_lista/autor_biografia/",
+      "type": "academic",
+      "relevance_en": "Detailed literary biography confirming Lista’s birth in Triana in 1775, his early mathematical teaching, professorships, journalistic and educational career, political controversies, and influence on pupils including Espronceda and Ventura de la Vega.",
+      "relevance_es": "Biografía literaria detallada que confirma el nacimiento de Lista en Triana en 1775, su temprana docencia matemática, sus cátedras, su carrera periodística y educativa, sus controversias políticas y su influencia en discípulos como Espronceda y Ventura de la Vega."
+    },
+    {
+      "title": "Memoria de Madrid - Registro Fiscal del Madrid-Ensanche, Barrio de Las Mercedes, manzana nº 256",
+      "url": "https://www.memoriademadrid.es/view/683719/registro-fiscal-del-madrid-ensanche-comprobacion-grafica-barrio-de-las-mercedes-manzana-no-256",
+      "type": "archive",
+      "relevance_en": "Archivo de Villa record from ca. 1907 showing Calle de Lista in the Ensanche and indexing it with today’s Calle de José Ortega y Gasset.",
+      "relevance_es": "Registro del Archivo de Villa, ca. 1907, que muestra la calle de Lista en el Ensanche y la vincula en la catalogación con la actual calle de José Ortega y Gasset."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the fuller name Alberto Rodríguez de Lista y Aragón as the recommended named-after value; 'Alberto Lista' is the common shortened form.",
+      "es": "Conviene usar el nombre completo Alberto Rodríguez de Lista y Aragón como valor recomendado; «Alberto Lista» es la forma abreviada habitual."
+    },
+    {
+      "en": "The station is located under today’s Calle de Conde de Peñalver, formerly Torrijos, at its junction with the former Calle de Lista/current Calle de José Ortega y Gasset; it is not simply under the old Calle de Lista.",
+      "es": "La estación se sitúa bajo la actual calle de Conde de Peñalver, antes Torrijos, en su encuentro con la antigua calle de Lista/actual calle de José Ortega y Gasset; no está simplemente bajo la antigua calle de Lista."
+    },
+    {
+      "en": "The station opened on 17 September 1932, not 17 April 1932 as stated in at least one secondary excerpt.",
+      "es": "La estación se inauguró el 17 de septiembre de 1932, no el 17 de abril de 1932 como indica al menos un extracto secundario."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal record assigning the street name Calle de Lista, reported by secondary sources as 1871, should be inspected in the Archivo de Villa or a contemporary municipal gazette.",
+      "es": "Sería conveniente consultar en el Archivo de Villa o en una publicación municipal contemporánea el acuerdo exacto que asignó el nombre de calle de Lista, indicado por fuentes secundarias como 1871."
+    },
+    {
+      "en": "No separate Metro naming-resolution document was inspected; the name is inferred from the station’s 1932 opening material and its location by the former Calle de Lista.",
+      "es": "No se ha consultado un expediente específico de denominación de Metro; el nombre se infiere de la documentación de inauguración de 1932 y de su ubicación junto a la antigua calle de Lista."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_102/en/summary.short.md",
+      "summary": "content/stations/metro_102/en/summary.md",
+      "story": "content/stations/metro_102/en/story.md",
+      "confidence": "content/stations/metro_102/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_102/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_102/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_102/es/summary.short.md",
+      "summary": "content/stations/metro_102/es/summary.md",
+      "story": "content/stations/metro_102/es/story.md",
+      "confidence": "content/stations/metro_102/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_102/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_102/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Hospital del Henares toma su nombre del hospital público situado junto a la estación en Coslada. El nombre del hospital remite al río Henares, un topónimo castellano relacionado con antiguos campos de heno en su valle.

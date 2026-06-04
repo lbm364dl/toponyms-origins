@@ -1,0 +1,1 @@
+Fuentes oficiales de transporte e infraestructuras confirman la estación, la línea, la ubicación, la fecha de apertura y que la calle de Alonso Cano da nombre a la estación. Fuentes autorizadas de historia del arte confirman la identidad y relevancia de Alonso Cano; la única incertidumbre pendiente es la fecha municipal original en que se asignó el nombre a la calle.

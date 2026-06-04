@@ -1,0 +1,90 @@
+{
+  "id": "metro_143",
+  "name": "Artilleros",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Calle del Pico de los Artilleros and the former Moratalaz artillery firing range",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - Artilleros",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_177/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming Artilleros as a Metro station on line 9 and listing accesses on Calle del Pico de los Artilleros, including the Pico de Artilleros access.",
+      "relevance_es": "Ficha oficial de transporte que confirma Artilleros como estación de Metro de la línea 9 y enumera accesos en la calle del Pico de los Artilleros, incluido el acceso Pico de Artilleros."
+    },
+    {
+      "title": "Historias Matritenses - Moratalaz, de dehesa a distrito",
+      "url": "https://historias-matritenses.blogspot.com/2012/10/moratalaz-de-dehesa-distrito.html?m=0",
+      "type": "other",
+      "relevance_en": "Detailed local-history article explaining the Moratalaz artillery manoeuvre field: lease in November 1861, road repairs for troops and artillery in 1886, public-utility declaration in 1907, and last known manoeuvre in June 1927.",
+      "relevance_es": "Artículo detallado de historia local que explica el campo de maniobras de artillería de Moratalaz: arrendamiento en noviembre de 1861, reparación del camino por el paso de tropas y artillería en 1886, declaración de utilidad pública en 1907 y última maniobra conocida en junio de 1927."
+    },
+    {
+      "title": "Ricardo Márquez Ruiz, Moratalaz, de dehesa a distrito - extract",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2021/02/Extracto-Moralataz-ebook-2.pdf",
+      "type": "book",
+      "relevance_en": "Inspectable book extract with a section on the artillery firing range, giving the same chronology and placing the field around the present Avenida del Mediterráneo/A-3 corridor.",
+      "relevance_es": "Extracto inspeccionable del libro con un apartado sobre el campo de tiro de artillería, que ofrece la misma cronología y sitúa el campo en torno al actual eje de la avenida del Mediterráneo/A-3."
+    },
+    {
+      "title": "Marcial Pons - Moratalaz, de dehesa a distrito",
+      "url": "https://www.marcialpons.es/libros/moratalaz/9788415801061/",
+      "type": "book",
+      "relevance_en": "Bibliographic record identifying the book as Ricardo Márquez Ruiz, Moratalaz, de dehesa a distrito, Temporae, Madrid, 2013, ISBN 9788415801061.",
+      "relevance_es": "Ficha bibliográfica que identifica el libro como Ricardo Márquez Ruiz, Moratalaz, de dehesa a distrito, Temporae, Madrid, 2013, ISBN 9788415801061."
+    },
+    {
+      "title": "Metro-madrid.es - Estación de metro Artilleros",
+      "url": "https://metro-madrid.es/estaciones/artilleros/",
+      "type": "other",
+      "relevance_en": "Unofficial station information page giving the station address as Camino de los Vinateros with Pico de los Artilleros and the opening date as 31 January 1980; useful only as a secondary check.",
+      "relevance_es": "Página no oficial de información de la estación que da la dirección como Camino de los Vinateros con Pico de los Artilleros y la fecha de inauguración como 31 de enero de 1980; útil solo como comprobación secundaria."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full current street form 'Calle del Pico de los Artilleros' rather than the shortened 'Pico de Artilleros' when explaining the immediate source of the station name.",
+      "es": "Usar la forma viaria completa actual, 'calle del Pico de los Artilleros', en lugar del abreviado 'Pico de Artilleros' al explicar la fuente inmediata del nombre de la estación."
+    },
+    {
+      "en": "Frame the station as named from the nearby street/toponym, which in turn recalls the artillery range, rather than as directly named by Metro after the range itself.",
+      "es": "Presentar la estación como denominada por la calle/topónimo cercano, que a su vez recuerda el campo de tiro de artillería, y no como un nombre dado directamente por Metro al campo militar."
+    },
+    {
+      "en": "Do not imply that 'artilleros' refers to specific named artillerymen; the evidence points to a historical military place-name.",
+      "es": "No sugerir que 'artilleros' aluda a artilleros concretos con nombre propio; la evidencia apunta a un topónimo histórico de origen militar."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming record for Calle del Pico de los Artilleros would be needed to establish the exact date when the street name was officially assigned.",
+      "es": "Haría falta un expediente municipal de denominación de la calle del Pico de los Artilleros para establecer la fecha exacta en que el nombre fue aprobado oficialmente."
+    },
+    {
+      "en": "The printed works 'Moratalaz y Vicálvaro' by María Isabel Gea Ortigas and 'Moratalaz y sus calles' by Parera Cartró and García Márquez may add street-level naming details, but I could not inspect their relevant pages online.",
+      "es": "Las obras impresas 'Moratalaz y Vicálvaro', de María Isabel Gea Ortigas, y 'Moratalaz y sus calles', de Parera Cartró y García Márquez, podrían aportar detalles viarios adicionales, pero no he podido inspeccionar en línea sus páginas relevantes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_143/en/summary.short.md",
+      "summary": "content/stations/metro_143/en/summary.md",
+      "story": "content/stations/metro_143/en/story.md",
+      "confidence": "content/stations/metro_143/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_143/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_143/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_143/es/summary.short.md",
+      "summary": "content/stations/metro_143/es/summary.md",
+      "story": "content/stations/metro_143/es/story.md",
+      "confidence": "content/stations/metro_143/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_143/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_143/es/research-note.md"
+    }
+  }
+}

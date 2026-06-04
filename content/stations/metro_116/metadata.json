@@ -1,0 +1,107 @@
+{
+  "id": "metro_116",
+  "name": "Aluche",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Aluche neighbourhood, ultimately the Arroyo Luche",
+  "previous_names": "No former station name found. Nearby Parque Aluche was officially Parque Alcalde Carlos Arias / Parque Carlos Arias Navarro until the municipal change approved in 2016, although the popular name Parque Aluche was long used.",
+  "naming_date": "1961 for the Ferrocarril Suburbano station name; 1976 for the Renfe Aluche-Móstoles interchange and incorporation of Carabanchel-Aluche into Metro line 5",
+  "sources": [
+    {
+      "title": "Museo Nacional del Prado: Paisaje. Arroyada de las huertas de Luche (cercanías de Madrid)",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/paisaje-arroyada-de-las-huertas-de-luche/d741e2a5-3ae2-4ee6-a368-6b13a561c217",
+      "type": "official",
+      "relevance_en": "Official museum catalogue entry for an 1873 painting; it states that the landscape represents orchards near the Arroyo Luche, a Manzanares tributary that ran through today's Aluche and gave the neighbourhood its name.",
+      "relevance_es": "Ficha oficial del museo para un cuadro de 1873; afirma que el paisaje representa huertas junto al arroyo Luche, afluente del Manzanares que discurría por el actual Aluche y dio nombre al barrio."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Parque Aluche",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Parque-Aluche/?vgnextchannel=bf5bfea95c92e210VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=c5b4abb9e009e210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal park page describing an artificial stream in Parque Aluche that follows or recalls the course of the old Arroyo de Luche.",
+      "relevance_es": "Página municipal del parque que describe una ría artificial en el Parque Aluche que sigue o recuerda el curso del antiguo arroyo de Luche."
+    },
+    {
+      "title": "Asociación de Vecinos de Aluche: Aluche, la historia de un barrio vivo. Capítulo I",
+      "url": "https://www.avaluche.org/assets/documents/Historia_de_Aluche_AVA_Cap%C3%ADtulo-I_1960_1980_1.pdf",
+      "type": "other",
+      "relevance_en": "Local-history PDF stating that Aluche derives from the Arroyo Luche, that the stream watered orchards and followed the present park area, and that the land belonged to Carabanchel Bajo until annexation to Madrid in 1948.",
+      "relevance_es": "PDF de historia local que afirma que Aluche deriva del arroyo Luche, que el arroyo regaba huertas y pasaba por el actual parque, y que esos terrenos pertenecieron a Carabanchel Bajo hasta su anexión a Madrid en 1948."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 5 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-5-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page stating that in October 1976, with the opening of the Aluche-Móstoles railway, the Carabanchel-Aluche section was incorporated into Metro line 5.",
+      "relevance_es": "Página oficial regional que indica que en octubre de 1976, al inaugurarse el ferrocarril Aluche-Móstoles, el tramo Carabanchel-Aluche se incorporó a la línea 5 de Metro."
+    },
+    {
+      "title": "Renfe data station sheet: ALUCHE, code 35600",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35600.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet confirming the station name ALUCHE, Cercanías Madrid area, Renfe Viajeros operation, coordinates, address and commercial line C5.",
+      "relevance_es": "Ficha de estación de Renfe que confirma el nombre ALUCHE, el área de Cercanías Madrid, la explotación por Renfe Viajeros, coordenadas, dirección y línea comercial C5."
+    },
+    {
+      "title": "FCMAF: Red de Metro y Metro Ligero de la Comunidad de Madrid, edición 12",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Detailed chronological reference listing Aluche among the Ferrocarril Suburbano de Carabanchel stations opened on 4 February 1961 and noting the 29 October 1976 incorporation of Carabanchel-Aluche into line 5.",
+      "relevance_es": "Referencia cronológica detallada que incluye Aluche entre las estaciones del Ferrocarril Suburbano de Carabanchel abiertas el 4 de febrero de 1961 y anota la incorporación del tramo Carabanchel-Aluche a la línea 5 el 29 de octubre de 1976."
+    },
+    {
+      "title": "PARES / Ministerio de Cultura: Respuestas Generales del Catastro de Ensenada",
+      "url": "https://pares.cultura.gob.es/catastro/servlets/ServletController?accion=2&opcion=110",
+      "type": "archive",
+      "relevance_en": "Official archival portal explaining the Catastro de Ensenada and noting that the former separate municipalities including Carabanchel have preserved responses; useful for future verification of the reported 'parage de Aluche' references.",
+      "relevance_es": "Portal archivístico oficial que explica el Catastro de Ensenada e indica que se conservan respuestas de antiguos municipios separados como Carabanchel; útil para verificar en el futuro las referencias citadas al 'parage de Aluche'."
+    },
+    {
+      "title": "Europa Press: El Parque Carlos Arias Navarro se llama ya oficialmente Parque Aluche",
+      "url": "https://www.europapress.es/madrid/ayto-madrid-01030/noticia-parque-carlos-arias-navarro-llama-ya-oficialmente-parque-aluche-20160602190953.html",
+      "type": "press",
+      "relevance_en": "Press report on the 2016 municipal approval changing the official park name from Carlos Arias Navarro to Parque Aluche, useful context for former place names near the station.",
+      "relevance_es": "Noticia sobre la aprobación municipal de 2016 que cambió el nombre oficial del parque de Carlos Arias Navarro a Parque Aluche, contexto útil sobre denominaciones anteriores del entorno de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the 'A. Luche' map-abbreviation explanation as fact; it is weakly sourced and contradicted by citations of 'Aluche' in 1580.",
+      "es": "No debe presentarse como hecho la explicación de la abreviatura cartográfica 'A. Luche'; está débilmente documentada y queda contradicha por citas de 'Aluche' en 1580."
+    },
+    {
+      "en": "The current row should distinguish the station name, the neighbourhood name, and the older stream name instead of collapsing them into a single origin story.",
+      "es": "La fila actual debería distinguir entre el nombre de la estación, el nombre del barrio y el nombre más antiguo del arroyo, en lugar de fundirlos en una sola explicación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original or digitized text of the 1580 Royal Cedula in the compilation of royal forest ordinances to verify the exact wording and context.",
+      "es": "Conviene revisar el original o la digitalización de la Real Cédula de 1580 en la recopilación de ordenanzas de bosques reales para verificar la redacción exacta y el contexto."
+    },
+    {
+      "en": "Inspect the Carabanchel entries in the Catastro de Ensenada to confirm the exact 'parage/Huerta de Aluche' wording from the archival source.",
+      "es": "Conviene revisar las entradas de Carabanchel en el Catastro de Ensenada para confirmar en la fuente archivística la redacción exacta de 'parage/Huerta de Aluche'."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_116/en/summary.short.md",
+      "summary": "content/stations/metro_116/en/summary.md",
+      "story": "content/stations/metro_116/en/story.md",
+      "confidence": "content/stations/metro_116/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_116/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_116/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_116/es/summary.short.md",
+      "summary": "content/stations/metro_116/es/summary.md",
+      "story": "content/stations/metro_116/es/story.md",
+      "confidence": "content/stations/metro_116/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_116/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_116/es/research-note.md"
+    }
+  }
+}

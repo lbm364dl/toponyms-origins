@@ -1,0 +1,9 @@
+Lucero station is named for the Lucero neighbourhood in the Latina district, the area it serves. The Consorcio Regional de Transportes lists Lucero as a Line 6 Metro station with access from Calle de Cebreros and Calle de las Higueras, placing it in the everyday geography of this western Madrid neighbourhood.
+
+The deeper origin of the neighbourhood name is less certain. In ordinary Spanish, lucero means the planet Venus or a bright-looking star; the RAE derives the word from luz and the suffix -ero. That meaning is useful background, but it does not prove why this Madrid neighbourhood was given the name.
+
+The name was already established before the Metro station. A municipal bulletin from 1 November 1954 referred to the existing barrio del Lucero in the area around the Carretera de Extremadura, the Colonia de los Ferroviarios and nearby post-war housing. Local historical summaries also describe Lucero as a former rural and suburban area shaped by orchards near the Arroyo Luche, the Madrid-Almorox railway, post-war migration and the urban development of the 1960s.
+
+The Metro connection came later. The Community of Madrid's infrastructure history explains that the closure of Line 6 between Laguna and Ciudad Universitaria created six new stations, including Lucero, and put the circular line into service in May 1995. Lucero therefore belongs to the great 1990s moment when Line 6 became Madrid's circular distributor rather than to the earlier 1983 Oporto-Laguna extension.
+
+The safest public explanation is therefore modest: the station is named after the Lucero neighbourhood, while the neighbourhood's original naming motive remains unverified. The attractive celestial meaning of lucero can be mentioned as the word's meaning, but the theories about a finca, a person or a star-viewing point should be treated as speculation unless a land record, street-naming file or older map is found.

@@ -1,0 +1,9 @@
+Coslada Central is named first of all for Coslada, the Madrid municipality in which the station stands. The word “Central” is practical: it marks the Metro station that serves the municipality’s central urban area and, especially, the interchange with the Cercanías railway station named Coslada.
+
+The transport name is modern, but the place-name behind it is old. Municipal historical material describes Coslada as a settlement whose foundation is unknown and whose written record appears in the later Middle Ages. One municipal account places the first written mention in 1283, while a local historical summary citing Julio González gives 1273; either way, the secure documentation is medieval, not Roman or modern.
+
+The origin of the word Coslada is not settled. Local historical writing records several explanations: one connects COS with hard stone or flint and LADA with scrub or rockrose landscape; another reads COS as flint and LATE as extensive; Menéndez Pidal’s pre-Roman toponymy work is cited for a Celtic comparison with coslo/cosla, meaning hazelnut. These theories are useful context, but none should be presented as proven.
+
+The station’s own history is clearer. MetroEste, the Line 7 extension toward Coslada and San Fernando de Henares, entered service in May 2007. Official transport pages list Coslada Central as a Line 7 station with connections to Cercanías C-2, C-7 and C-8, and Renfe describes the Metro station as lying below the railway station and forming a Metro-Cercanías interchange.
+
+For that reason, the station name is best explained at two levels. The direct naming is verified: Coslada Central is the central/interchange Metro station for Coslada. The older meaning of Coslada remains probable only in broad terms: it is a medieval place-name with several competing etymological proposals, and the public display should avoid choosing one as definitive.

@@ -1,0 +1,97 @@
+{
+  "id": "metro_173",
+  "name": "Barrio de la Concepción",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio de la Concepción, a Madrid neighborhood whose name preserves the older Marian dedication to La Purísima/Inmaculada Concepción",
+  "previous_names": "No former station names found. Older related place names: Colonia Agrícola La Purísima Concepción; Pueblo Nuevo de la Concepción, according to local historical accounts.",
+  "naming_date": "1975; the station name appears to date from the opening of the Line 7 Pueblo Nuevo-Avenida de América section. Comunidad de Madrid gives 18 March 1975 for the section, while several station listings give 17 March 1975.",
+  "sources": [
+    {
+      "title": "La Ampliación del Metro de Madrid - Línea 7",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid transport history giving the chronology of Line 7 and the Pueblo Nuevo-Avenida de América section in March 1975.",
+      "relevance_es": "Historia oficial de transportes de la Comunidad de Madrid que da la cronología de la línea 7 y del tramo Pueblo Nuevo-Avenida de América en marzo de 1975."
+    },
+    {
+      "title": "Metro remodelará la estación de Barrio de la Concepción para hacerla accesible a PMR",
+      "url": "https://www.comunidad.madrid/noticias/2017/01/25/metro-remodelara-estacion-barrio-concepcion-hacerla-accesible-pmr",
+      "type": "official",
+      "relevance_en": "Official regional notice identifying Barrio de la Concepción as a Line 7 metro station and describing its 1970s construction context.",
+      "relevance_es": "Nota oficial regional que identifica Barrio de la Concepción como estación de la línea 7 y menciona su contexto constructivo de los años setenta."
+    },
+    {
+      "title": "El barrio de la Concepción",
+      "url": "https://oa.upm.es/49378/1/Lucio_Barrio_Concepcion.pdf",
+      "type": "academic",
+      "relevance_en": "Academic chapter by Ramón López de Lucio describing the first phase of the Barrio de la Concepción as a major postwar private residential development promoted by José Banús.",
+      "relevance_es": "Capítulo académico de Ramón López de Lucio que describe la primera fase del Barrio de la Concepción como una gran actuación residencial privada de posguerra promovida por José Banús."
+    },
+    {
+      "title": "Ampliación del barrio de La Concepción (Las Colmenas)",
+      "url": "https://lacasadelaarquitectura.es/en/resource/ampliacion-del-barrio-de-la-concepcion-las/c07187a7-4c26-4008-8f9b-05f1eb0c14af",
+      "type": "reference",
+      "relevance_en": "Architectural reference explaining the 1948-1952 planning and 1950s construction of a new neighborhood called de la Concepción and its later Las Colmenas extension.",
+      "relevance_es": "Referencia arquitectónica que explica la planificación entre 1948 y 1952 y la construcción en los años cincuenta de un nuevo barrio denominado de la Concepción, así como su ampliación de Las Colmenas."
+    },
+    {
+      "title": "El barrio de la Concepción - Madrid",
+      "url": "https://historias-matritenses.blogspot.com/2011/03/el-barrio-de-la-concepcion-madrid.html",
+      "type": "other",
+      "relevance_en": "Local historical article linking the older name to the Colonia Agrícola La Purísima Concepción, the Camino de la Cuerda, the Carretera de Aragón, and the later Pueblo Nuevo de la Concepción name.",
+      "relevance_es": "Artículo de historia local que vincula el nombre antiguo con la Colonia Agrícola La Purísima Concepción, el Camino de la Cuerda, la carretera de Aragón y la denominación posterior Pueblo Nuevo de la Concepción."
+    },
+    {
+      "title": "Planes Integrales de Barrio - Ciudad Lineal",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Planes-Integrales-de-Barrio/?idCapitulo=11018171&vgnextchannel=b068ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=1c510ca52df44810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal page confirming Concepción as one of the present administrative neighborhoods of the Ciudad Lineal district.",
+      "relevance_es": "Página municipal que confirma Concepción como uno de los barrios administrativos actuales del distrito de Ciudad Lineal."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station's direct etymology as a place name; the religious element belongs to the older neighborhood toponym.",
+      "es": "Clasificar la etimología directa de la estación como topónimo de lugar; el elemento religioso corresponde al topónimo anterior del barrio."
+    },
+    {
+      "en": "Do not state as verified that a local parish reinforced or determined the name unless a parish-specific source is added.",
+      "es": "No afirmar como verificado que una parroquia local reforzó o determinó el nombre salvo que se añada una fuente específica sobre esa parroquia."
+    },
+    {
+      "en": "Note the small opening-date discrepancy: official regional Line 7 history gives 18 March 1975 for the section, while some station pages give 17 March 1975.",
+      "es": "Señalar la pequeña discrepancia de fecha: la historia oficial regional de la línea 7 da el 18 de marzo de 1975 para el tramo, mientras algunas fichas de estación indican el 17 de marzo de 1975."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary 1857 newspaper notice or municipal file for the Colonia Agrícola La Purísima Concepción should be inspected to strengthen the oldest-name claim.",
+      "es": "Conviene revisar un anuncio de prensa de 1857 o un expediente municipal primario de la Colonia Agrícola La Purísima Concepción para reforzar la afirmación sobre el nombre más antiguo."
+    },
+    {
+      "en": "The exact administrative act assigning the station name has not been located; it likely coincides with the 1975 opening documentation for Line 7.",
+      "es": "No se ha localizado el acto administrativo exacto de asignación del nombre de la estación; probablemente coincide con la documentación de apertura de la línea 7 en 1975."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_173/en/summary.short.md",
+      "summary": "content/stations/metro_173/en/summary.md",
+      "story": "content/stations/metro_173/en/story.md",
+      "confidence": "content/stations/metro_173/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_173/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_173/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_173/es/summary.short.md",
+      "summary": "content/stations/metro_173/es/summary.md",
+      "story": "content/stations/metro_173/es/story.md",
+      "confidence": "content/stations/metro_173/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_173/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_173/es/research-note.md"
+    }
+  }
+}

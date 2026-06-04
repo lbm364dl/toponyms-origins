@@ -1,0 +1,1 @@
+Coslada Central is named for the municipality of Coslada and for its role as the central Metro-Cercanías interchange. The town name Coslada is old and disputed, with medieval documentation and several competing linguistic explanations.

@@ -1,0 +1,111 @@
+{
+  "id": "metro_104",
+  "name": "República Argentina",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza de la República Argentina; ultimately Argentina (country)",
+  "previous_names": "No previous station name found. The plaza is popularly nicknamed plaza de los delfines / plaza de los delfines.",
+  "naming_date": "1979-10-10 inauguration of Line 6 section; public opening reported for 1979-10-11",
+  "sources": [
+    {
+      "title": "Fuente de los Delfines - Patrimonio cultural y paisaje urbano, Ayuntamiento de Madrid",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Fuente-de-los-Delfines/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4f58091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record locating the Fuente de los Delfines at Plaza República Argentina 1 in El Viso / Chamartín and explaining its origin in the 1949 Monument to the Argentine Nation competition.",
+      "relevance_es": "Ficha patrimonial municipal que sitúa la Fuente de los Delfines en plaza República Argentina 1, El Viso / Chamartín, y explica su origen en el concurso de 1949 para el Monumento a la Nación Argentina."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Official street gazetteer listing Plaza de la República Argentina in Chamartín and showing its connections with nearby streets such as Serrano and Joaquín Costa.",
+      "relevance_es": "Callejero oficial que recoge la plaza de la República Argentina en Chamartín y muestra sus conexiones con vías próximas como Serrano y Joaquín Costa."
+    },
+    {
+      "title": "Distrito 05 - Chamartín, Barrio 51 - El Viso",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/05%20-%20Chamartin/Barrio051.pdf",
+      "type": "official",
+      "relevance_en": "Municipal statistical map placing Plaza de la República Argentina within Barrio 51, El Viso, correcting the input row's Hispanoamérica context.",
+      "relevance_es": "Mapa estadístico municipal que sitúa la plaza de la República Argentina dentro del barrio 51, El Viso, corrigiendo el contexto de Hispanoamérica de la fila de entrada."
+    },
+    {
+      "title": "CRTM - Línea 6 Circular",
+      "url": "https://crtm.es/tu-transporte-publico/metro/4__6___",
+      "type": "official",
+      "relevance_en": "Current official transport listing for Metro Line 6, including República Argentina as a station on the circular line.",
+      "relevance_es": "Relación oficial actual de transporte para la línea 6 de Metro, que incluye República Argentina como estación de la línea circular."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, Federación Castellano Manchega de Amigos del Ferrocarril",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronology table listing the 10-10-1979 inauguration of the Cuatro Caminos-Pacífico Line 6 section and its stations, including República Argentina.",
+      "relevance_es": "Tabla cronológica que recoge la inauguración del tramo Cuatro Caminos-Pacífico de la línea 6 el 10-10-1979 y sus estaciones, incluida República Argentina."
+    },
+    {
+      "title": "El Rey inauguró la nueva línea de Metro entre Pacífico y Cuatro Caminos - El País",
+      "url": "https://elpais.com/diario/1979/10/11/madrid/308492658_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report that the new Cuatro Caminos-Pacífico metro line was inaugurated and that the ceremony was held at República Argentina station.",
+      "relevance_es": "Crónica contemporánea que informa de la inauguración de la nueva línea de Metro Cuatro Caminos-Pacífico y de que el acto se celebró en la estación de República Argentina."
+    },
+    {
+      "title": "Revista Nacional de Arquitectura Nº 91, Julio 1949 - COAM",
+      "url": "https://www.coam.org/es/fundacion/biblioteca/revista-arquitectura-100-anios/etapa-1946-1958/revista-nacional-arquitectura-n91-Julio-1949",
+      "type": "archive",
+      "relevance_en": "Architectural archive entry for the 1949 competition for a Monument to the Argentine Nation in the plaza, corroborating the commemorative origin of the fountain project.",
+      "relevance_es": "Entrada de archivo arquitectónico sobre el concurso de 1949 para un Monumento a la Nación Argentina en la plaza, que corrobora el origen conmemorativo del proyecto de la fuente."
+    },
+    {
+      "title": "La 'plaza de los delfines' cumple 75 años - Madridiario",
+      "url": "https://www.madridiario.es/448093/efemeride-plaza-delfines",
+      "type": "press",
+      "relevance_en": "Press article reporting the plaza's inauguration on 9 September 1942 and its popular nickname, useful but secondary for the plaza chronology.",
+      "relevance_es": "Artículo de prensa que informa de la inauguración de la plaza el 9 de septiembre de 1942 y de su apodo popular, útil pero secundario para la cronología de la plaza."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the neighbourhood context from Hispanoamérica to El Viso for the plaza/station area.",
+      "es": "Cambiar el contexto de barrio de Hispanoamérica a El Viso para el entorno de la plaza y la estación."
+    },
+    {
+      "en": "Soften the claim that every street in the area bears a Latin-American country or capital name; official street records around the plaza include many non-American odonyms.",
+      "es": "Matizar la afirmación de que todas las calles de la zona llevan nombres de países o capitales latinoamericanas; el callejero oficial del entorno incluye muchos odónimos no americanos."
+    },
+    {
+      "en": "Use the more precise origin: named after Plaza de la República Argentina, ultimately honouring Argentina, with the Fuente de los Delfines/Monument to the Argentine Nation as supporting context.",
+      "es": "Usar el origen más preciso: llamada por la plaza de la República Argentina, en último término en honor de Argentina, con la Fuente de los Delfines/Monumento a la Nación Argentina como contexto de apoyo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The original municipal or Metro de Madrid naming file for the station was not found online; an archive search could confirm the formal date and wording of the station name.",
+      "es": "No se ha localizado en línea el expediente municipal o de Metro de Madrid de denominación de la estación; una consulta de archivo podría confirmar la fecha formal y la redacción exacta del nombre."
+    },
+    {
+      "en": "The plaza's reported inauguration on 9 September 1942 is supported by press summaries, but the original municipal act or commemorative plaque record would be a stronger primary source.",
+      "es": "La inauguración de la plaza el 9 de septiembre de 1942 está respaldada por resúmenes de prensa, pero el acta municipal original o el expediente de la placa conmemorativa serían una fuente primaria más sólida."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_104/en/summary.short.md",
+      "summary": "content/stations/metro_104/en/summary.md",
+      "story": "content/stations/metro_104/en/story.md",
+      "confidence": "content/stations/metro_104/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_104/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_104/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_104/es/summary.short.md",
+      "summary": "content/stations/metro_104/es/summary.md",
+      "story": "content/stations/metro_104/es/story.md",
+      "confidence": "content/stations/metro_104/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_104/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_104/es/research-note.md"
+    }
+  }
+}

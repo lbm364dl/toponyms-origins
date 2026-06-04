@@ -1,0 +1,1 @@
+Official Ayuntamiento and Comunidad de Madrid sources confirm the station name, Line 6 location, and 26 January 2007 inauguration; official Planetario and Madrid tourism sources confirm the landmark and its location in Parque Tierno Galván. The only weaker element is the unstated motive behind choosing the compound name.

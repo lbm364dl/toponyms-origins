@@ -1,0 +1,1 @@
+Laguna most probably takes its name from the nearby Calle/Camino de la Laguna, an older Carabanchel-Latina place name. The word means a natural pool or small lake, but the specific historical lagoon behind the street name remains insufficiently documented.

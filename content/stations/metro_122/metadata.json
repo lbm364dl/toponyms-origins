@@ -1,0 +1,110 @@
+{
+  "id": "metro_122",
+  "name": "Ciudad Universitaria",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Ciudad Universitaria de Madrid",
+  "previous_names": "",
+  "naming_date": "1987-01-13",
+  "sources": [
+    {
+      "title": "La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport history confirming that the Cuatro Caminos-Ciudad Universitaria section opened on 13 January 1987 with three stations.",
+      "relevance_es": "Historia oficial regional del transporte que confirma que el tramo Cuatro Caminos-Ciudad Universitaria se inauguró el 13 de enero de 1987 con tres estaciones."
+    },
+    {
+      "title": "Orígenes | Visitas UCM",
+      "url": "https://www.ucm.es/visitas-ucm/origenes",
+      "type": "official",
+      "relevance_en": "UCM source giving the formal origin of the campus project: the royal decree of 17 May 1927 creating the Junta Constructora, plus Alfonso XIII, Florestán Aguilar, and Modesto López Otero context.",
+      "relevance_es": "Fuente de la UCM que fija el origen formal del proyecto del campus: el real decreto de 17 de mayo de 1927 que creó la Junta Constructora, con contexto sobre Alfonso XIII, Florestán Aguilar y Modesto López Otero."
+    },
+    {
+      "title": "Junta Constructora de la Ciudad Universitaria",
+      "url": "https://www.ucm.es/junta-constructora",
+      "type": "official",
+      "relevance_en": "UCM archive page confirming Alfonso XIII's 1927 cession of La Moncloa land for a Ciudad Universitaria and the role of the Junta Constructora until 1973.",
+      "relevance_es": "Página archivística de la UCM que confirma la cesión en 1927 por Alfonso XIII de la finca de La Moncloa para construir una Ciudad Universitaria y el papel de la Junta Constructora hasta 1973."
+    },
+    {
+      "title": "Descubre la Ciudad Universitaria | Turismo Madrid",
+      "url": "https://www.esmadrid.com/descubre-ciudad-universitaria",
+      "type": "official",
+      "relevance_en": "Municipal tourism source identifying Ciudad Universitaria as a Moncloa-Aravaca neighbourhood, describing its universities, BIC status since 1999, and construction beginning in 1929.",
+      "relevance_es": "Fuente turística municipal que identifica Ciudad Universitaria como barrio de Moncloa-Aravaca, describe sus universidades, su condición de BIC desde 1999 y el inicio de las obras en 1929."
+    },
+    {
+      "title": "Distritos y barrios - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moncloa-Aravaca/Distritos-y-barrios/?vgnextchannel=e9a3ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=5a86befb3fd31810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal list showing Ciudad Universitaria as Barrio 93 in Moncloa-Aravaca.",
+      "relevance_es": "Listado municipal oficial que muestra Ciudad Universitaria como Barrio 93 de Moncloa-Aravaca."
+    },
+    {
+      "title": "Ruta Verde Ciudad Universitaria",
+      "url": "https://www.madrid.org/bvirtual/BVCM006187.pdf",
+      "type": "official",
+      "relevance_en": "Regional transport route leaflet explaining campus access before the metro, the 1987 station opening, its eight years as Line 6 terminus, and the 1995 extension toward Laguna.",
+      "relevance_es": "Folleto regional de transporte que explica los accesos al campus antes del metro, la apertura de la estación en 1987, sus ocho años como cabecera de la línea 6 y la prolongación de 1995 hacia Laguna."
+    },
+    {
+      "title": "Ciudad Universitaria | CRTM",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_124?lang=en",
+      "type": "official",
+      "relevance_en": "Current public transport consortium station page confirming the active station name and Line 6 service.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma el nombre vigente de la estación y el servicio de la línea 6."
+    },
+    {
+      "title": "La Ciudad Universitaria de Madrid. Cultura y política (1927-1931)",
+      "url": "https://www.cepc.gob.es/publicaciones/revistas/historia-y-politica/numero-35-enerojunio-2016/la-ciudad-universitaria-de-madrid-cultura-y-politica-1927-1931-1",
+      "type": "academic",
+      "relevance_en": "Academic article giving interpretive context for the campus as a political, international, and modernization project from May 1927 to the fall of the monarchy.",
+      "relevance_es": "Artículo académico que aporta contexto interpretativo sobre el campus como proyecto político, internacional y modernizador desde mayo de 1927 hasta la caída de la monarquía."
+    },
+    {
+      "title": "El 'metro' Cuatro Caminos-Ciudad Universitaria se inaugura hoy",
+      "url": "https://elpais.com/diario/1987/01/13/madrid/537539059_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report from 13 January 1987 documenting the public opening of the Line 6 extension to Ciudad Universitaria.",
+      "relevance_es": "Crónica de prensa contemporánea del 13 de enero de 1987 que documenta la apertura al público de la prolongación de la línea 6 hasta Ciudad Universitaria."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace Wikipedia-only sourcing with official and institutional sources from Comunidad de Madrid, Ayuntamiento/Turismo Madrid, UCM, and CRTM.",
+      "es": "Sustituir la dependencia exclusiva de Wikipedia por fuentes oficiales e institucionales de la Comunidad de Madrid, Ayuntamiento/Turismo Madrid, UCM y CRTM."
+    },
+    {
+      "en": "Clarify chronology: the campus project was formally initiated by the royal decree of 17 May 1927; construction is described by Madrid tourism sources as beginning in 1929.",
+      "es": "Aclarar la cronología: el proyecto del campus se inició formalmente con el real decreto de 17 de mayo de 1927; las fuentes turísticas municipales indican que las obras comenzaron en 1929."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A station-specific Metro de Madrid naming order or internal naming file was not located; the naming date is inferred from the station opening with this name on 13 January 1987.",
+      "es": "No se localizó una orden o expediente interno específico de Metro de Madrid sobre la denominación de la estación; la fecha de denominación se infiere de su inauguración con este nombre el 13 de enero de 1987."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_122/en/summary.short.md",
+      "summary": "content/stations/metro_122/en/summary.md",
+      "story": "content/stations/metro_122/en/story.md",
+      "confidence": "content/stations/metro_122/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_122/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_122/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_122/es/summary.short.md",
+      "summary": "content/stations/metro_122/es/summary.md",
+      "story": "content/stations/metro_122/es/story.md",
+      "confidence": "content/stations/metro_122/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_122/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_122/es/research-note.md"
+    }
+  }
+}

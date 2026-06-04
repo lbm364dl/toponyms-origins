@@ -1,0 +1,1 @@
+La estación toma su nombre de la plaza del Duque de Pastrana, uno de los antiguos núcleos de Chamartín de la Rosa. El título de duque de Pastrana nació en 1572 con Ruy Gómez de Silva, pero el topónimo madrileño alude sobre todo a la casa ducal y a su historia patrimonial en la zona.

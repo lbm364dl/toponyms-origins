@@ -1,0 +1,101 @@
+{
+  "id": "metro_135",
+  "name": "Simancas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Simancas neighbourhood of Madrid, ultimately associated with Simancas, Valladolid",
+  "previous_names": "",
+  "naming_date": "1974-07; exact naming resolution not found",
+  "sources": [
+    {
+      "title": "Estación de Simancas | memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/568055",
+      "type": "official",
+      "relevance_en": "Municipal heritage record from Metro de Madrid's photographic archive; states that Simancas station opened in July 1974 as part of Line 7's first section and that it takes its name from the Simancas neighbourhood.",
+      "relevance_es": "Ficha patrimonial municipal procedente del archivo fotográfico de Metro de Madrid; indica que la estación de Simancas se abrió en julio de 1974 como parte del primer tramo de la línea 7 y que toma su nombre del barrio de Simancas."
+    },
+    {
+      "title": "Simancas | Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/San-Blas-Canillejas/Simancas/?vgnextchannel=5822ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=c799a0c279f3d610VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official Madrid city page confirming Simancas as a current neighbourhood-level entity in the San Blas-Canillejas district.",
+      "relevance_es": "Página oficial del Ayuntamiento de Madrid que confirma Simancas como entidad barrial actual dentro del distrito de San Blas-Canillejas."
+    },
+    {
+      "title": "Distrito 20 - San Blas-Canillejas, Barrio 201 - Simancas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/20%20-%20San%20Blas%20-%20Canillejas/Barrio201.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid city map identifying Barrio 201 as Simancas and showing the local urban context, including Calle de Simancas.",
+      "relevance_es": "Mapa oficial del Ayuntamiento de Madrid que identifica el Barrio 201 como Simancas y muestra el contexto urbano local, incluida la calle de Simancas."
+    },
+    {
+      "title": "Simancas | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/1405",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic entry giving Septimanca as the etymon, classifying the semantic origin as obscure, listing early attestations, and warning that the seven-maidens story is a folk-etymological association.",
+      "relevance_es": "Ficha toponímica autorizada que da Septimanca como étimo, clasifica el origen semántico como oscuro, reúne testimonios antiguos y advierte que la historia de las siete doncellas es una asociación de etimología popular."
+    },
+    {
+      "title": "Historia Villa de Simancas | Ayuntamiento de Simancas",
+      "url": "https://aytosimancas.es/villa-de-simancas-historia/",
+      "type": "official",
+      "relevance_en": "Official local history page for Simancas, Valladolid; supports the Septimancas/Simancas continuity, the 939 battle, the castle-archive history, and the living seven-maidens tradition.",
+      "relevance_es": "Página oficial de historia local de Simancas, Valladolid; respalda la continuidad Septimancas/Simancas, la batalla de 939, la historia del castillo-archivo y la tradición viva de las siete doncellas."
+    },
+    {
+      "title": "Presentación - Archivo General de Simancas | Ministerio de Cultura",
+      "url": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/ags/presentacion.html",
+      "type": "official",
+      "relevance_en": "Official Ministry of Culture page describing the Archivo General de Simancas as begun by Charles V and completed by Philip II, preserving major documentation of the Hispanic Monarchy from 1475 to 1834.",
+      "relevance_es": "Página oficial del Ministerio de Cultura que describe el Archivo General de Simancas como iniciado por Carlos V y culminado por Felipe II, y como custodio de documentación de la Monarquía Hispánica de 1475 a 1834."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the 'si mancas' story as a folk etymology and legend, not as the proven origin of the place-name.",
+      "es": "Presentar la historia de 'si mancas' como etimología popular y leyenda, no como origen probado del topónimo."
+    },
+    {
+      "en": "Distinguish the legend's Abd al-Rahman II and Ramiro I setting from the historical Battle of Simancas in 939, involving Abd al-Rahman III and Ramiro II.",
+      "es": "Distinguir el marco legendario de Abderramán II y Ramiro I de la batalla histórica de Simancas de 939, con Abderramán III y Ramiro II."
+    },
+    {
+      "en": "Avoid saying the linguistic meaning of Simancas is settled; Toponomasticon Hispaniae classifies the older name's meaning as obscure.",
+      "es": "Evitar afirmar que el significado lingüístico de Simancas está resuelto; Toponomasticon Hispaniae clasifica el significado del nombre antiguo como oscuro."
+    },
+    {
+      "en": "The 'over 33 million documents' figure was not confirmed in the strongest current official sources inspected and should be used only with a specific supporting citation.",
+      "es": "La cifra de 'más de 33 millones de documentos' no quedó confirmada en las fuentes oficiales actuales más sólidas consultadas y debería usarse solo con una cita específica que la respalde."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal street-naming or barrio-delimitation records to confirm when and why the Madrid barrio received the name Simancas.",
+      "es": "Consultar expedientes municipales de rotulación o delimitación de barrios de Madrid para confirmar cuándo y por qué el barrio madrileño recibió el nombre de Simancas."
+    },
+    {
+      "en": "Find the original Metro de Madrid opening or naming documentation for Line 7 to confirm the exact station naming date beyond the July 1974 opening.",
+      "es": "Localizar la documentación original de apertura o denominación de Metro de Madrid para la línea 7 y confirmar la fecha exacta de asignación del nombre, más allá de la apertura de julio de 1974."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_135/en/summary.short.md",
+      "summary": "content/stations/metro_135/en/summary.md",
+      "story": "content/stations/metro_135/en/story.md",
+      "confidence": "content/stations/metro_135/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_135/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_135/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_135/es/summary.short.md",
+      "summary": "content/stations/metro_135/es/summary.md",
+      "story": "content/stations/metro_135/es/story.md",
+      "confidence": "content/stations/metro_135/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_135/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_135/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Reyes Católicos is named for the Catholic Monarchs, Isabella I of Castile and Ferdinand II of Aragon. In San Sebastián de los Reyes the name has a local resonance: the town commemorates its foundation under their royal protection in 1492.

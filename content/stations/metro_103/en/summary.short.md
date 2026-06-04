@@ -1,0 +1,1 @@
+Colón station is named for Plaza de Colón, the square dedicated to Christopher Columbus, known in Spanish as Cristóbal Colón. The metro stop opened on Line 4 in 1944 beside one of Madrid’s main commemorative urban spaces.

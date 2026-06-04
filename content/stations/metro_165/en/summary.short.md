@@ -1,0 +1,1 @@
+El Capricho station is named for the nearby historic garden created by María Josefa Alonso Pimentel, Duchess of Osuna. The park’s name was the duchess’s own, and it refers both to her personal pleasure estate and to the fanciful garden buildings known as caprichos.

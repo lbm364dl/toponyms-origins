@@ -1,0 +1,1 @@
+The direct local source is a municipal street-history publication giving the exact 1958 council agreement, former street name, and honoree. Transport and press sources confirm that the station was named for that local street area, and archival/Congress sources independently confirm Ossorio Arévalo's title and offices.

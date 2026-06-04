@@ -1,0 +1,82 @@
+{
+  "id": "metro_103",
+  "name": "Colón",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Christopher Columbus / Cristóbal Colón",
+  "previous_names": "No former station name found. The square is reported in secondary sources as formerly Plaza de Santiago, but the exact municipal renaming act was not verified.",
+  "naming_date": "23 March 1944 for the station name at opening; plaza dedication/name in use by the late 19th century, exact municipal naming act not verified.",
+  "sources": [
+    {
+      "title": "Plaza de Colón | Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/plaza-colon",
+      "type": "official",
+      "relevance_en": "Official city tourism page stating that the square is dedicated to Columbus, describing the monument, the Jardines del Descubrimiento, the underground cultural centre, and current metro access as Colón L4.",
+      "relevance_es": "Página oficial de turismo municipal que indica que la plaza está dedicada a Colón, describe el monumento, los Jardines del Descubrimiento, el centro cultural subterráneo y el acceso actual en metro como Colón L4."
+    },
+    {
+      "title": "Cristóbal Colón - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Cristobal-Colon/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4c08091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid municipal heritage source documenting the monument’s origin, Mélida and Suñol’s roles, completion in 1885, official handover on 12 October 1892, and later relocations.",
+      "relevance_es": "Fuente municipal de patrimonio que documenta el origen del monumento, los papeles de Mélida y Suñol, su terminación en 1885, la entrega oficial del 12 de octubre de 1892 y sus traslados posteriores."
+    },
+    {
+      "title": "La Línea 4 de Metro de Madrid | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-4-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional transport infrastructure page describing the early Line 4 route from Goya to Argüelles via Génova and noting its original eight-station configuration.",
+      "relevance_es": "Página regional de infraestructuras de transporte que describe el recorrido inicial de la línea 4 entre Goya y Argüelles por Génova y su configuración original de ocho estaciones."
+    },
+    {
+      "title": "Fernán Gómez. Centro Cultural de la Villa - Historia - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Centro/Fernan-Gomez-Centro-Cultural-de-la-Villa?idCapitulo=1254405&vgnextchannel=b068ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=8b26bb2ecfdab010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal history of the cultural centre explaining the 1970s remodelling of Plaza de Colón, the former Casa de la Moneda site, underground works, and the monument’s role in the new layout.",
+      "relevance_es": "Historia municipal del centro cultural que explica la remodelación de la plaza de Colón en los años setenta, el solar de la antigua Casa de la Moneda, las obras subterráneas y el papel del monumento en la nueva ordenación."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Railway reference PDF listing the 23-03-1944 Argüelles-Goya opening of Line 4 and including Colón among the stations in that section.",
+      "relevance_es": "PDF de referencia ferroviaria que enumera la apertura del tramo Argüelles-Goya de la línea 4 el 23-03-1944 e incluye Colón entre las estaciones de ese tramo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Remove the statement that the station has served Line 8 since 1998; current evidence identifies Colón as a Line 4 metro station.",
+      "es": "Eliminar la afirmación de que la estación da servicio a la línea 8 desde 1998; la evidencia actual identifica Colón como estación de la línea 4."
+    },
+    {
+      "en": "Attribute the monument more precisely: Arturo Mélida designed/carved the pedestal and Jerónimo Suñol sculpted the Columbus statue.",
+      "es": "Atribuir el monumento con más precisión: Arturo Mélida proyectó y labró el pedestal y Jerónimo Suñol esculpió la estatua de Colón."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal act or date by which the older Plaza de Santiago name became Plaza de Colón was not found in the inspected sources.",
+      "es": "No se localizó en las fuentes consultadas el acuerdo municipal exacto o la fecha precisa en que la antigua plaza de Santiago pasó a llamarse plaza de Colón."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_103/en/summary.short.md",
+      "summary": "content/stations/metro_103/en/summary.md",
+      "story": "content/stations/metro_103/en/story.md",
+      "confidence": "content/stations/metro_103/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_103/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_103/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_103/es/summary.short.md",
+      "summary": "content/stations/metro_103/es/summary.md",
+      "story": "content/stations/metro_103/es/story.md",
+      "confidence": "content/stations/metro_103/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_103/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_103/es/research-note.md"
+    }
+  }
+}

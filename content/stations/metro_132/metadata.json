@@ -1,0 +1,111 @@
+{
+  "id": "metro_132",
+  "name": "Quintana",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza de Quintana / historic Barrio de la Quintana, probably linked to the older Quinta de la Quintana place-name",
+  "previous_names": "",
+  "naming_date": "1964",
+  "sources": [
+    {
+      "title": "Plaza de Quintana - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Ciudad-Lineal/Direcciones-y-telefonos/Plaza-de-Quintana/?vgnextchannel=5a33d47ffee28010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=12abd9f83f8e6610VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal page locating Plaza de Quintana at Calle de Alcalá 339 in the Quintana neighbourhood of Ciudad Lineal.",
+      "relevance_es": "Página municipal oficial que localiza la plaza de Quintana en la calle de Alcalá 339, dentro del barrio de Quintana del distrito de Ciudad Lineal."
+    },
+    {
+      "title": "Estación de Quintana - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/568069/estacion-de-quintana",
+      "type": "archive",
+      "relevance_en": "Archive entry from the Metro de Madrid photographic archive stating that Quintana station is in the homonymous square, was inaugurated in 1964 and was fully integrated into Line 5 in 1970.",
+      "relevance_es": "Ficha archivística procedente del archivo fotográfico de Metro de Madrid que indica que la estación de Quintana está situada en la plaza homónima, fue inaugurada en 1964 y se integró plenamente en la línea 5 en 1970."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronology listing Quintana among the stations opened on the Ventas-Ciudad Lineal section in 1964 and incorporated into Line 5 on 20 July 1970.",
+      "relevance_es": "Cronología que incluye Quintana entre las estaciones abiertas en el tramo Ventas-Ciudad Lineal en 1964 e incorporadas a la línea 5 el 20 de julio de 1970."
+    },
+    {
+      "title": "Inventario del Ayuntamiento de Madrid 2024: Patrimonio Municipal de Suelo",
+      "url": "https://www.madrid.es/FWProjects/transparencia/EconomiaYPresupuestos/PatrimonioInventario/PatrimonioSuelo/ficheros/inventariopatrimoniomunicipalsuelo2024.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal inventory repeatedly recording Ciudad Lineal parcels located between the estate or place called \"Quinta de la Quintana\" and Arroyo Calero.",
+      "relevance_es": "Inventario municipal oficial que registra repetidamente parcelas de Ciudad Lineal situadas entre la finca o paraje denominado \"Quinta de la Quintana\" y el arroyo Calero."
+    },
+    {
+      "title": "Historia y Centenario - Parroquia San Juan Bautista",
+      "url": "https://sanjuanbautista.archimadrid.es/historia-de-la-parroquia-y-centenario/",
+      "type": "other",
+      "relevance_en": "Local ecclesiastical history listing \"Barrio de la Quintana\" among the areas of old Canillas and noting the annexation of Canillas to Madrid in 1949.",
+      "relevance_es": "Historia local parroquial que enumera el \"Barrio de la Quintana\" entre los ámbitos del antiguo Canillas y señala la anexión de Canillas a Madrid en 1949."
+    },
+    {
+      "title": "quintana - Diccionario de la lengua española, RAE-ASALE",
+      "url": "https://dle.rae.es/quintana",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for the Latin origin and meanings of the common noun quintana, useful as linguistic context only.",
+      "relevance_es": "Fuente lexicográfica autorizada para el origen latino y los significados del sustantivo común quintana, útil solo como contexto lingüístico."
+    },
+    {
+      "title": "Manuel José Quintana y Lorenzo - Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/37034-manuel-jose-quintana-y-lorenzo",
+      "type": "reference",
+      "relevance_en": "Authoritative biography confirming Manuel José Quintana's dates and public roles; useful for assessing, but not proving, the competing dedication theory.",
+      "relevance_es": "Biografía autorizada que confirma las fechas y cargos públicos de Manuel José Quintana; sirve para valorar, pero no para probar, la teoría alternativa de la dedicatoria."
+    },
+    {
+      "title": "Archivo de Villa de Madrid catalog result: Terrenos llamados La Quinta de La Quintana",
+      "url": "https://catalogoarchivodevillapre.madrid.es/ms-opac/search?fo=and&fq=mssearch_materials&fv=%22MOVIMIENTO+DE+TIERRAS%22&norm=%2A&q=%2A%3A%2A&rows=12&sort=fecha+asc&start=0",
+      "type": "archive",
+      "relevance_en": "Catalog search result indicating archival records for land called La Quinta de La Quintana; the full record should be inspected for a firmer historical reconstruction.",
+      "relevance_es": "Resultado de catálogo que apunta a expedientes sobre terrenos llamados La Quinta de La Quintana; conviene inspeccionar la ficha completa para reconstruir con mayor firmeza el topónimo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the current claim from verified to probable: the station is verified as named after Plaza de Quintana, but the Manuel José Quintana dedication is not verified.",
+      "es": "Cambiar la afirmación actual de verificada a probable: la estación sí está verificada como nombre tomado de la plaza de Quintana, pero la dedicatoria a Manuel José Quintana no está verificada."
+    },
+    {
+      "en": "Recommended named_after should not be simply \"Quintana (neighbourhood)\" if the goal is etymology; use Plaza de Quintana with a note that the older source is probably Barrio or Quinta de la Quintana.",
+      "es": "El valor recomendado de named_after no debería ser solo \"Quintana (barrio)\" si se busca la etimología; conviene usar plaza de Quintana con una nota de que la fuente anterior probablemente es el Barrio o la Quinta de la Quintana."
+    },
+    {
+      "en": "The Latin meaning of quintana is correct as linguistic background, but it should not be presented as the station's direct naming reason.",
+      "es": "El origen latino de quintana es correcto como contexto lingüístico, pero no debe presentarse como la razón directa del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid street-naming or nomenclature file for Plaza de Quintana to see whether it records an official dedication, approval date or older name.",
+      "es": "Consultar el expediente de denominación o nomenclátor del Ayuntamiento de Madrid para la plaza de Quintana, por si registra una dedicatoria oficial, fecha de aprobación o nombre anterior."
+    },
+    {
+      "en": "Inspect Archivo de Villa records titled \"Terrenos llamados La Quinta de La Quintana\" for dates, owners and exact location; the catalog result was found but not fully inspected through the web tool.",
+      "es": "Consultar en el Archivo de Villa los registros titulados \"Terrenos llamados La Quinta de La Quintana\" para precisar fechas, propietarios y localización exacta; se localizó el resultado de catálogo, pero no se pudo inspeccionar completo con la herramienta web."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_132/en/summary.short.md",
+      "summary": "content/stations/metro_132/en/summary.md",
+      "story": "content/stations/metro_132/en/story.md",
+      "confidence": "content/stations/metro_132/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_132/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_132/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_132/es/summary.short.md",
+      "summary": "content/stations/metro_132/es/summary.md",
+      "story": "content/stations/metro_132/es/story.md",
+      "confidence": "content/stations/metro_132/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_132/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_132/es/research-note.md"
+    }
+  }
+}

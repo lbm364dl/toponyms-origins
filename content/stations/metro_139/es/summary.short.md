@@ -1,0 +1,1 @@
+Pinar del Rey toma su nombre del barrio y del pinar histórico de Hortaleza. El origen mejor documentado no es un bosque propiedad de la Corona, sino la Fiesta del Árbol del 26 de marzo de 1896 en el Cerro del Centinela, donde las infantas plantaron en nombre de Alfonso XIII el árbol destinado al rey.

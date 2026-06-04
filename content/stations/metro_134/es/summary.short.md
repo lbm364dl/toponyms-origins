@@ -1,0 +1,1 @@
+García Noblejas toma su nombre de la cercana Calle de los Hermanos García Noblejas, dedicada a miembros de la familia García-Noblejas Brunet vinculados a Falange, al carlismo y a la Guerra Civil. La calle fue sustituida temporalmente por Avenida de la Institución Libre de Enseñanza, pero la estación conservó García Noblejas.

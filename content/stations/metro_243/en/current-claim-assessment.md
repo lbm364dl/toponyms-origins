@@ -1,0 +1,1 @@
+The core claim is sound: the station takes its name from Avenida de Buenos Aires, at whose junction with Avenida de la Albufera it has an access. The older 1880 Buenos Aires street reference is directly supported, but the Latin American street-cluster framing and the exact 1968-1971 formalization need stronger official documentation.

@@ -1,0 +1,1 @@
+Arganzuela-Planetario debe su nombre al distrito de Arganzuela y al Planetario de Madrid, junto al parque Enrique Tierno Galván. La estación abrió en la línea 6 el 26 de enero de 2007 entre Legazpi y Méndez Álvaro.

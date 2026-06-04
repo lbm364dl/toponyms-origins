@@ -1,0 +1,78 @@
+{
+  "id": "metro_133",
+  "name": "El Carmen",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Capilla del Carmen / Virgen del Carmen",
+  "previous_names": "No former station name found; opened as El Carmen. Earlier local religious reference: Capilla del Carmen at Carretera de Aragón 40 / Calle de Alcalá 246.",
+  "naming_date": "1964",
+  "sources": [
+    {
+      "title": "Historia de la Parroquia Espíritu Santo",
+      "url": "https://www.parroquiaespiritusanto.es/historia-de-la-parroquia",
+      "type": "official",
+      "relevance_en": "Primary parish history stating that the Capilla del Carmen opened in 1928 at today’s Calle de Alcalá 246, became the seat of Parroquia Espíritu Santo in 1940, and gave its name to Metro El Carmen.",
+      "relevance_es": "Historia oficial parroquial que indica que la Capilla del Carmen se abrió en 1928 en la actual calle de Alcalá 246, pasó a ser sede de la Parroquia del Espíritu Santo en 1940 y dio nombre al Metro El Carmen."
+    },
+    {
+      "title": "La Parroquia - Parroquia Espíritu Santo",
+      "url": "https://www.parroquiaespiritusanto.es/nuestra-parroquia",
+      "type": "official",
+      "relevance_en": "Concise official parish summary confirming the 1928 Capilla del Carmen, its location at Calle de Alcalá 246, the naming link to Metro El Carmen, and the 1968 move to the current church.",
+      "relevance_es": "Resumen oficial de la parroquia que confirma la Capilla del Carmen de 1928, su ubicación en la calle de Alcalá 246, el vínculo nominal con Metro El Carmen y el traslado de 1968 al templo actual."
+    },
+    {
+      "title": "El Carmen - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_80/",
+      "type": "official",
+      "relevance_en": "Official CRTM station page confirming El Carmen as a Metro station on line 5 and listing an access at Calle de Alcalá 246, matching the chapel site.",
+      "relevance_es": "Ficha oficial del CRTM que confirma El Carmen como estación de Metro de la línea 5 y enumera un acceso en la calle de Alcalá 246, coincidente con el lugar de la capilla."
+    },
+    {
+      "title": "Cronología de la red de Metro de Madrid",
+      "url": "https://www.vialibre-ffe.com/pdf/5829_CRONOLOGIA_1.pdf",
+      "type": "reference",
+      "relevance_en": "Metro chronology recording El Carmen’s later integration into line 5 on 20 July 1970 and providing transport-history context for the station.",
+      "relevance_es": "Cronología de Metro que registra la integración posterior de El Carmen en la línea 5 el 20 de julio de 1970 y aporta contexto histórico de transporte para la estación."
+    },
+    {
+      "title": "Declaramos Bien de Interés Patrimonial el Noviciado de las Damas Apostólicas",
+      "url": "https://www.comunidad.madrid/noticias/2018/04/03/declaramos-bien-interes-patrimonial-noviciado-damas-apostolicas",
+      "type": "official",
+      "relevance_en": "Regional government source confirming the historical presence and institutional identity of the Damas Apostólicas in Madrid, useful background for the congregation linked by the parish to the chapel.",
+      "relevance_es": "Fuente de la Comunidad de Madrid que confirma la presencia histórica y la identidad institucional de las Damas Apostólicas en Madrid, como contexto de la congregación vinculada por la parroquia a la capilla."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "For precision, the immediate namesake should be recorded as the Capilla del Carmen, with Virgen del Carmen as the religious dedication behind that chapel.",
+      "es": "Para mayor precisión, el origen inmediato debe registrarse como la Capilla del Carmen, con la Virgen del Carmen como advocación religiosa de fondo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A future archival check could inspect the 1940 parish erection decree, early baptism registers, or Metro naming files to confirm the administrative wording of the chapel and station name.",
+      "es": "Una revisión archivística futura podría consultar el decreto parroquial de 1940, las primeras partidas bautismales o expedientes de nomenclatura de Metro para confirmar la formulación administrativa del nombre de la capilla y de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_133/en/summary.short.md",
+      "summary": "content/stations/metro_133/en/summary.md",
+      "story": "content/stations/metro_133/en/story.md",
+      "confidence": "content/stations/metro_133/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_133/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_133/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_133/es/summary.short.md",
+      "summary": "content/stations/metro_133/es/summary.md",
+      "story": "content/stations/metro_133/es/story.md",
+      "confidence": "content/stations/metro_133/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_133/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_133/es/research-note.md"
+    }
+  }
+}

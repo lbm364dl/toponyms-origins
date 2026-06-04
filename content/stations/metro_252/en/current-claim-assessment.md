@@ -1,0 +1,1 @@
+The row is right about the ultimate religious reference to the Virgen de la Almudena and the Arabic origin of the name, but it appears to identify the wrong immediate source: official transport and city sources place the station beside the Cementerio de Nuestra Señora de la Almudena, not beside the historic Calle de la Almudena in central Madrid.

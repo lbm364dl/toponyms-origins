@@ -1,0 +1,1 @@
+La afirmación principal está bien sustentada: la estación de Bambú pertenece a la línea 1 y su acceso está en la calle del Bambú, junto a la calle de la Yuca. La explicación más amplia sobre un plan de nombres de plantas tropicales de mediados del siglo XX es verosímil por las calles cercanas, pero no se ha confirmado con un acuerdo oficial de denominación.

@@ -1,0 +1,1 @@
+The station's location and name are confirmed by transport sources, and the place called Parque de las Avenidas is confirmed by municipal and architectural sources. Confidence is not marked fully verified because I did not find a Metro naming act explicitly stating why the station name was chosen.

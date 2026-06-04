@@ -1,0 +1,111 @@
+{
+  "id": "metro_144",
+  "name": "Avenida de América",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Avenida de América, Madrid; ultimately América, the American continent",
+  "previous_names": "",
+  "naming_date": "26 March 1973 (station opened with current name); avenue naming date not found",
+  "sources": [
+    {
+      "title": "CRTM - Avenida de América interchange",
+      "url": "https://www.crtm.es/tu-transporte-publico/intercambiadores/grandes-intercambiadores/90_4?idPestana=3",
+      "type": "official",
+      "relevance_en": "Official transport source confirming that Avenida de América connects Metro lines 4, 6, 7 and 9 with suburban and long-distance buses entering Madrid via the A-2.",
+      "relevance_es": "Fuente oficial de transporte que confirma que Avenida de América conecta las líneas 4, 6, 7 y 9 de Metro con autobuses interurbanos y de largo recorrido que entran por la A-2."
+    },
+    {
+      "title": "CRTM - Metro station Avenida de América",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_64?lang=es",
+      "type": "official",
+      "relevance_en": "Official station page for the current Metro stop and its transport connections.",
+      "relevance_es": "Página oficial de la estación actual de Metro y sus correspondencias de transporte."
+    },
+    {
+      "title": "Memoria de Madrid - Inauguración del tramo de línea 4 Diego de León-Alfonso XIII",
+      "url": "https://www.memoriademadrid.es/view/389719/inauguracion-del-tramo-de-linea-4-diego-de-leon-alfonso-xiii",
+      "type": "archive",
+      "relevance_en": "Preserves Metro de Madrid archival text stating that the Line 4 extension opened on 26 March 1973 with Avenida de América among its three new stations, and that the station was planned for future lines 4, 6, 7 and 9.",
+      "relevance_es": "Conserva texto archivístico de Metro de Madrid que indica que la prolongación de la línea 4 abrió el 26 de marzo de 1973 con Avenida de América entre sus tres estaciones nuevas, y que la estación se proyectó para futuras líneas 4, 6, 7 y 9."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Official street directory listing Avenida de América as a Madrid road and showing its presence across several districts.",
+      "relevance_es": "Callejero oficial que recoge la avenida de América como vía madrileña y muestra su presencia en varios distritos."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 7 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-7-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional source for Line 7 chronology, including the Pueblo Nuevo-Avenida de América extension in 1975.",
+      "relevance_es": "Fuente oficial regional para la cronología de la línea 7, incluida la prolongación Pueblo Nuevo-Avenida de América en 1975."
+    },
+    {
+      "title": "Memoria de Madrid - Inauguración del intercambiador de Avenida de América",
+      "url": "https://www.memoriademadrid.es/view/389471/inauguracion-del-intercambiador-de-avenida-de-america",
+      "type": "archive",
+      "relevance_en": "Archival Metro de Madrid photograph record dated 7 January 2000 documenting the inauguration of the Avenida de América transport interchange.",
+      "relevance_es": "Registro fotográfico archivístico de Metro de Madrid fechado el 7 de enero de 2000 que documenta la inauguración del intercambiador de transportes de Avenida de América."
+    },
+    {
+      "title": "Archivo Histórico Digital UPM - Vista aérea de Madrid. Avenida de América, carretera de Aragón...",
+      "url": "https://ahdb.upm.es/index.php/vista-a-rea-de-madrid-avenida-de-am-rica-carretera-de-barcelona",
+      "type": "archive",
+      "relevance_en": "Historical aerial-photo catalogue title linking Avenida de América with the old Aragón/Barcelona road corridor at Francisco Silvela.",
+      "relevance_es": "Título catalográfico de fotografía aérea histórica que relaciona la avenida de América con el corredor de la antigua carretera de Aragón/Barcelona en Francisco Silvela."
+    },
+    {
+      "title": "RAE/ASALE - Ortografía de la lengua española: Lugares",
+      "url": "https://www.rae.es/ortograf%C3%ADa/lugares",
+      "type": "reference",
+      "relevance_en": "Language reference showing América as a proper place name for the New World/continent, supporting the interpretation of the avenue name as geographic.",
+      "relevance_es": "Referencia lingüística que muestra América como nombre propio de lugar para el Nuevo Mundo/continente, apoyando la interpretación geográfica del nombre de la avenida."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Phrase the origin as 'named after Avenida de América, whose name refers to America/the American continent' rather than as a proven official tribute to Spain-Latin America ties.",
+      "es": "Formular el origen como 'llamada por la avenida de América, cuyo nombre remite a América/el continente americano', no como un homenaje oficial probado a los vínculos entre España y América Latina."
+    },
+    {
+      "en": "The bus interchange opened in 2000; the metro station opened in 1973. The row should avoid implying that the whole modern interchange existed from 1973.",
+      "es": "El intercambiador de autobuses se inauguró en 2000; la estación de metro abrió en 1973. La ficha debe evitar sugerir que todo el intercambiador moderno existía ya en 1973."
+    },
+    {
+      "en": "The Hispanoamérica neighbourhood is relevant nearby context, but the station itself is at the Salamanca-Chamartín edge near Avenida de América/Francisco Silvela/María de Molina, not simply inside the Hispanoamérica neighbourhood.",
+      "es": "El barrio de Hispanoamérica es un contexto cercano relevante, pero la estación está en el borde Salamanca-Chamartín junto a avenida de América/Francisco Silvela/María de Molina, no simplemente dentro del barrio de Hispanoamérica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal street-naming files or plenary records to identify the exact date and wording that assigned the name Avenida de América.",
+      "es": "Consultar expedientes municipales del callejero o actas plenarias de Madrid para identificar la fecha y redacción exactas que asignaron el nombre de avenida de América."
+    },
+    {
+      "en": "Check historical city maps between the post-war period and the 1960s to determine whether any section had a prior official name before Avenida de América.",
+      "es": "Revisar planos históricos de la ciudad entre la posguerra y los años sesenta para determinar si algún tramo tuvo una denominación oficial anterior a avenida de América."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_144/en/summary.short.md",
+      "summary": "content/stations/metro_144/en/summary.md",
+      "story": "content/stations/metro_144/en/story.md",
+      "confidence": "content/stations/metro_144/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_144/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_144/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_144/es/summary.short.md",
+      "summary": "content/stations/metro_144/es/summary.md",
+      "story": "content/stations/metro_144/es/story.md",
+      "confidence": "content/stations/metro_144/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_144/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_144/es/research-note.md"
+    }
+  }
+}

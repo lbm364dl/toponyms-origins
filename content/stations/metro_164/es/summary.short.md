@@ -1,0 +1,1 @@
+La Gavia toma su nombre de la cercana avenida de la Gavia y, en último término, del arroyo de La Gavia, un pequeño valle tributario del Manzanares en Vallecas. La palabra gavia significa zanja o foso de desagüe y procede del latín cavea, 'cavidad' o 'jaula'.

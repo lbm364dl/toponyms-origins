@@ -1,0 +1,125 @@
+{
+  "id": "metro_105",
+  "name": "Alonso Cano",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Alonso Cano",
+  "previous_names": "",
+  "naming_date": "1998-10-16 (station opened with this name)",
+  "sources": [
+    {
+      "title": "CRTM - Alonso Cano",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_143/?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current Metro station, line 7 connection, fare zone and access points at José Abascal and Alonso Cano.",
+      "relevance_es": "Página oficial de transporte que confirma la estación actual de Metro, la conexión con la línea 7, la zona tarifaria y los accesos en José Abascal y Alonso Cano."
+    },
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 7 de Metro de Madrid. Tramo: Gregorio Marañón-Canal",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-gregorio-maranon-canal",
+      "type": "official",
+      "relevance_en": "Confirms the extension entered service on 16 October 1998, included the new Alonso Cano station, and explicitly says Calle de Alonso Cano gives the station its name.",
+      "relevance_es": "Confirma que la prolongación entró en servicio el 16 de octubre de 1998, incluyó la nueva estación de Alonso Cano y dice expresamente que la calle de Alonso Cano da nombre a la estación."
+    },
+    {
+      "title": "El País - Dos nuevas estaciones de la línea 7 del metro entran en servicio",
+      "url": "https://elpais.com/diario/1998/10/17/madrid/908623462_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 17 October 1998 confirming that Alonso Cano and Canal had entered service the previous day on line 7.",
+      "relevance_es": "Crónica contemporánea del 17 de octubre de 1998 que confirma que Alonso Cano y Canal habían entrado en servicio el día anterior en la línea 7."
+    },
+    {
+      "title": "Museo Nacional del Prado - Cano, Alonso",
+      "url": "https://www.museodelprado.es/aprende/enciclopedia/voz/cano-alonso/c6813c54-36c0-4fab-bdf7-d4a3e4ea9dcc",
+      "type": "reference",
+      "relevance_en": "Authoritative museum biography confirming Cano's dates, Granadan origin, polymathic practice, training with Pacheco, connection with Velázquez, Madrid work, wife-murder investigation, torture and absolution.",
+      "relevance_es": "Biografía museística autorizada que confirma las fechas de Cano, su origen granadino, su actividad polifacética, su formación con Pacheco, su relación con Velázquez, su etapa madrileña, la investigación por la muerte de su esposa, el tormento y la absolución."
+    },
+    {
+      "title": "Real Academia de la Historia - Alonso Cano",
+      "url": "https://dbe.rah.es/biografias/10423/alonso-cano",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry for Alonso Cano in the Diccionario Biográfico Español; useful for human review and final bibliographic control.",
+      "relevance_es": "Entrada biográfica autorizada de Alonso Cano en el Diccionario Biográfico Español; útil para revisión humana y control bibliográfico final."
+    },
+    {
+      "title": "Universidad de Granada, Facultad de Bellas Artes - Presentación",
+      "url": "https://bellasartes.ugr.es/facultad/presentacion",
+      "type": "official",
+      "relevance_en": "Official University of Granada page explaining why its Faculty of Fine Arts bears Alonso Cano's name and summarizing his importance as a polymathic Golden Age artist and defining figure of the Granadan Baroque.",
+      "relevance_es": "Página oficial de la Universidad de Granada que explica por qué su Facultad de Bellas Artes lleva el nombre de Alonso Cano y resume su importancia como artista polifacético del Siglo de Oro y figura definidora del Barroco granadino."
+    },
+    {
+      "title": "Real Academia de Bellas Artes de San Fernando - Cano, Alonso: Cristo recogiendo las vestiduras",
+      "url": "https://www.academiacolecciones.com/pinturas/inventario.php?id=0018",
+      "type": "reference",
+      "relevance_en": "Confirms Spanish art-historical details: Cano was exceptional as painter, sculptor and architect; Philip IV named him racionero of Granada Cathedral in 1651; he was ordained priest in 1658 and later appointed master of works.",
+      "relevance_es": "Confirma detalles de historia del arte española: Cano fue excepcional como pintor, escultor y arquitecto; Felipe IV lo nombró racionero de la Catedral de Granada en 1651; se ordenó sacerdote en 1658 y después fue nombrado maestro mayor."
+    },
+    {
+      "title": "Catedral de Granada - Arquitectura y Decoración: Fachada Principal",
+      "url": "https://catedraldegranada.com/arquitectura/arquitectura-decoracion/",
+      "type": "official",
+      "relevance_en": "Official cathedral source explaining Cano's 1667 project for Granada Cathedral's main facade and his very brief tenure as master of works before his death.",
+      "relevance_es": "Fuente oficial de la Catedral que explica el proyecto de Cano de 1667 para la fachada principal de la Catedral de Granada y su brevísima etapa como maestro mayor antes de morir."
+    },
+    {
+      "title": "Encyclopaedia Britannica - Alonso Cano",
+      "url": "https://www.britannica.com/biography/Alonso-Cano",
+      "type": "reference",
+      "relevance_en": "Independent reference confirming Cano's dates, roles as painter, sculptor and architect, and the common epithet 'Spanish Michelangelo' for the diversity of his talents.",
+      "relevance_es": "Fuente de referencia independiente que confirma las fechas de Cano, sus funciones como pintor, escultor y arquitecto, y el apelativo habitual de 'Miguel Ángel español' por la diversidad de sus talentos."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Los niños: revista de educación y recreo, tomo V, año 1872",
+      "url": "https://www.cervantesvirtual.com/obra-visor/los-ninos-revista-de-educacion-y-recreo--6/html/02566e14-82b2-11df-acc7-002185ce6064_8.html",
+      "type": "archive",
+      "relevance_en": "Historical anecdotal source for the story that Cano's right arm was not bound during torture by royal order; useful mainly to document the tradition, not as the strongest factual basis.",
+      "relevance_es": "Fuente histórica anecdótica sobre la tradición de que no se le ató el brazo derecho durante el tormento por orden real; sirve sobre todo para documentar la tradición, no como base factual más sólida."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "State that the station takes its name from Calle de Alonso Cano; the street is the immediate naming source, while the ultimate namesake is the artist Alonso Cano.",
+      "es": "Indicar que la estación toma su nombre de la calle de Alonso Cano; la calle es la fuente inmediata del nombre y el artista Alonso Cano es el referente último."
+    },
+    {
+      "en": "Replace or qualify 'canon of Granada Cathedral': Spanish art sources more precisely call Cano racionero of Granada Cathedral; he was ordained priest in 1658 and later became master of works shortly before his death.",
+      "es": "Sustituir o matizar 'canónigo de la Catedral de Granada': las fuentes españolas de arte lo llaman con más precisión racionero de la Catedral de Granada; se ordenó sacerdote en 1658 y poco antes de morir fue maestro mayor de las obras."
+    },
+    {
+      "en": "Do not foreground the royal-order hand-torture anecdote as settled fact; the torture and acquittal are supported by the Prado, but the spared-hand detail is best treated as an older anecdotal tradition.",
+      "es": "No presentar como hecho plenamente asentado la anécdota de la mano preservada durante el tormento por orden real; el tormento y la absolución están respaldados por el Prado, pero el detalle de la mano conviene tratarlo como tradición anecdótica antigua."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The formal municipal naming date for Calle de Alonso Cano was not located in the online sources inspected; a historical Madrid street-naming register or municipal archive entry would be useful.",
+      "es": "No se localizó en las fuentes en línea consultadas la fecha municipal formal de denominación de la calle de Alonso Cano; sería útil revisar un registro histórico del callejero de Madrid o un expediente municipal."
+    },
+    {
+      "en": "A human reviewer may want to inspect the Real Academia de la Historia DB-e entry directly for exact phrasing and bibliography, because the page was reachable but not text-extractable in the browsing tool.",
+      "es": "Un revisor humano podría consultar directamente la entrada del DB-e de la Real Academia de la Historia para comprobar la formulación exacta y la bibliografía, porque la página era accesible pero la herramienta de navegación no extrajo su texto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_105/en/summary.short.md",
+      "summary": "content/stations/metro_105/en/summary.md",
+      "story": "content/stations/metro_105/en/story.md",
+      "confidence": "content/stations/metro_105/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_105/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_105/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_105/es/summary.short.md",
+      "summary": "content/stations/metro_105/es/summary.md",
+      "story": "content/stations/metro_105/es/story.md",
+      "confidence": "content/stations/metro_105/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_105/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_105/es/research-note.md"
+    }
+  }
+}

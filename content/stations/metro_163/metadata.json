@@ -1,0 +1,108 @@
+{
+  "id": "metro_163",
+  "name": "Empalme",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "the railway junction between the Ferrocarril Suburbano and the Madrid-Almorox railway",
+  "previous_names": "Planned or early proposed forms: Madrid-Empalme or Goya-Empalme. No confirmed in-service former station name found; 'Empalme-Goya' remains unverified.",
+  "naming_date": "1961; name in use from the Suburbano-era station opening. Opening date is reported as 4 February 1961 by CRTM, but 1 April 1961/two months later by other transport-history sources.",
+  "sources": [
+    {
+      "title": "CRTM - Serie histórico Metro 1919-2019 / Cronología de la red de Metro de Madrid",
+      "url": "https://www.crtm.es/media/heofhgdi/serie_i_historico_metro_2019_portada.pdf",
+      "type": "official",
+      "relevance_en": "Official regional transport chronology listing Empalme as a Ferrocarril Suburbano station connected with the Madrid-Almorox railway, later transferred to Line 10 in 1981 and Line 5 in 2002.",
+      "relevance_es": "Cronología oficial del transporte regional que lista Empalme como estación del Ferrocarril Suburbano con conexión con el ferrocarril Madrid-Almorox, después transferida a la línea 10 en 1981 y a la línea 5 en 2002."
+    },
+    {
+      "title": "Memoria de Madrid - Estación de Empalme",
+      "url": "https://www.memoriademadrid.es/view/384949",
+      "type": "archive",
+      "relevance_en": "Municipal archive record for a 1961 image of Empalme, noting the Suburbano context and the insertion/connection between FEVE and Metro at Empalme.",
+      "relevance_es": "Ficha del archivo municipal de una imagen de Empalme de 1961, que señala el contexto del Suburbano y la inserción/conexión entre FEVE y Metro en Empalme."
+    },
+    {
+      "title": "Aluche: la construcción del barrio, excerpt hosted by Ediciones La Librería",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2022/11/7pag-Aluche.pdf",
+      "type": "book",
+      "relevance_en": "Book excerpt explaining that the Suburbano project added a stop to connect with the Almorox train, initially called Madrid-Empalme or Goya-Empalme and finally just Empalme.",
+      "relevance_es": "Extracto de libro que explica que el proyecto del Suburbano añadió un apeadero para conectar con el tren de Almorox, llamado inicialmente Madrid-Empalme o Goya-Empalme y finalmente solo Empalme."
+    },
+    {
+      "title": "Ayuntamiento de Móstoles - Historia del ferrocarril Madrid-Almorox",
+      "url": "https://www.mostoles.es/es/ayuntamiento/concejalias/concejalia-seguridad-emergencias-medio-ambiente/proyectos-ambientales/proyecto-via-verde-mostoles-almorox.ficheros/251700-Historia%20ferrocarril-Via%20verde.pdf",
+      "type": "official",
+      "relevance_en": "Municipal PDF giving the Madrid-Almorox railway chronology, its Goya terminus, purpose, staged opening from 1891 to 1901, partial suppression in 1965, and final closure in 1970.",
+      "relevance_es": "PDF municipal que aporta la cronología del ferrocarril Madrid-Almorox, su cabecera en Goya, su finalidad, la apertura por fases entre 1891 y 1901, la supresión parcial en 1965 y la clausura definitiva en 1970."
+    },
+    {
+      "title": "RAE / ASALE - Diccionario de la lengua española: empalme",
+      "url": "https://dle.rae.es/empalme",
+      "type": "reference",
+      "relevance_en": "Defines empalme as the action/effect of joining and as the point where things are joined, with synonyms including connection, transfer, crossing, and junction.",
+      "relevance_es": "Define empalme como la acción y efecto de empalmar y como el punto en que se empalma, con sinónimos como conexión, transbordo, cruce y confluencia."
+    },
+    {
+      "title": "RAE / ASALE - Diccionario de la lengua española: empalmar",
+      "url": "https://dle.rae.es/empalmar",
+      "type": "reference",
+      "relevance_en": "Defines empalmar as joining ropes, tubes, wood, or other things, and specifically says of a transport mode, especially a train, that it can join or combine with another.",
+      "relevance_es": "Define empalmar como juntar sogas, tubos, maderos u otras cosas, y específicamente indica que un medio de transporte, especialmente un tren, puede unirse o combinarse con otro."
+    },
+    {
+      "title": "Andén 1 - La Línea 5 del metro de Madrid",
+      "url": "https://anden1.es/instalaciones/lineas/la-linea-5-del-metro-de-madrid",
+      "type": "other",
+      "relevance_en": "Transport-history association page listing Empalme among current Line 5 stations and giving 1 April 1961 as its opening date, useful for documenting the date conflict.",
+      "relevance_es": "Página de una asociación de historia del transporte que lista Empalme entre las estaciones actuales de la línea 5 y da el 1 de abril de 1961 como fecha de apertura, útil para documentar la discrepancia de fechas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not say the station opened on Line 5 in 1961; it opened as part of the Ferrocarril Suburbano and became part of Line 5 on 22 October 2002.",
+      "es": "No debe decirse que la estación abrió en la línea 5 en 1961; abrió como parte del Ferrocarril Suburbano y pasó a la línea 5 el 22 de octubre de 2002."
+    },
+    {
+      "en": "Replace or qualify 'Empalme-Goya (original name)': the inspected stronger source gives Madrid-Empalme or Goya-Empalme and says the name finally remained Empalme.",
+      "es": "Conviene sustituir o matizar 'Empalme-Goya (nombre original)': la fuente más sólida inspeccionada da Madrid-Empalme o Goya-Empalme y afirma que finalmente quedó como Empalme."
+    },
+    {
+      "en": "Qualify the Madrid-Almorox closure dates: the Móstoles municipal PDF says Navalcarnero-Almorox was suppressed in 1965 and the railway was finally closed in 1970, not simply that the whole line operated only until 1965.",
+      "es": "Debe matizarse la clausura del Madrid-Almorox: el PDF municipal de Móstoles indica que en 1965 se suprimió el tramo Navalcarnero-Almorox y que el ferrocarril quedó definitivamente clausurado en 1970, no que toda la línea funcionara solo hasta 1965."
+    },
+    {
+      "en": "The claim that empalmar was originally nautical is not supported by the inspected RAE entry; the RAE derives it from empalomar and defines it broadly as joining wood, ropes, tubes, or other things.",
+      "es": "La afirmación de que empalmar fue originalmente un término náutico no queda respaldada por la entrada de la RAE inspeccionada; la RAE lo deriva de empalomar y lo define de forma amplia como juntar maderos, sogas, tubos u otras cosas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Ferrocarril Suburbano project documents or Metro de Madrid archive material to resolve whether Empalme opened on 4 February 1961 or around 1 April 1961.",
+      "es": "Conviene consultar los documentos originales del proyecto del Ferrocarril Suburbano o el Archivo Histórico de Metro de Madrid para resolver si Empalme abrió el 4 de febrero de 1961 o hacia el 1 de abril de 1961."
+    },
+    {
+      "en": "Check contemporary timetables, maps, or station signage to confirm whether Madrid-Empalme, Goya-Empalme, or Empalme-Goya ever appeared as an in-service name.",
+      "es": "Conviene revisar horarios, planos o rótulos contemporáneos para confirmar si Madrid-Empalme, Goya-Empalme o Empalme-Goya llegaron a usarse como nombre en servicio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_163/en/summary.short.md",
+      "summary": "content/stations/metro_163/en/summary.md",
+      "story": "content/stations/metro_163/en/story.md",
+      "confidence": "content/stations/metro_163/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_163/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_163/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_163/es/summary.short.md",
+      "summary": "content/stations/metro_163/es/summary.md",
+      "story": "content/stations/metro_163/es/story.md",
+      "confidence": "content/stations/metro_163/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_163/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_163/es/research-note.md"
+    }
+  }
+}

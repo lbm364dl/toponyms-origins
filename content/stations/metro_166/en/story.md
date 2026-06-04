@@ -1,0 +1,9 @@
+Alameda de Osuna station is named for the neighbourhood around it, in the district of Barajas. The transport name is therefore straightforward: Line 5 ends here because the 2006 extension was built to serve the residential area known as Alameda de Osuna.
+
+The older name is less ordinary. An *alameda* is a grove or walk planted with poplars, and by extension a tree-lined avenue or promenade; in this case it became attached to a noble estate landscape. The 'Osuna' part points to the dukes of Osuna, whose country house and gardens helped fix the name of the area.
+
+Madrid City Council's history of the nearby Castle of La Alameda explains that this territory lay between the medieval villages of La Alameda and Barajas. A fifteenth-century castle was later transformed into a Renaissance palace, and between the sixteenth and eighteenth centuries aristocratic summer villas appeared nearby, including the palatial residence of the dukes of Osuna and El Capricho; from that context, the area came to be known as Alameda de Osuna.
+
+The most important figure behind the name's cultural memory is María Josefa Alonso Pimentel, Countess-Duchess of Benavente and Duchess consort of Osuna. The City Council describes El Capricho as her personal creation and records that she bought the estate and adjoining land between 1783 and 1803. The Prado also shows why the place matters beyond local geography: the dukes were early patrons of Goya, who painted their family and later sold them six 'witchcraft' canvases for their country house at La Alameda.
+
+The station opened with this name on 24 November 2006, when the Community of Madrid put into service the Line 5 extension from Canillejas to Alameda de Osuna. No credible competing etymology was found. The only caution is wording: the station is not named directly after the duchess as a person, but after a neighbourhood whose name was shaped by the older Alameda landscape and the Osuna estate.

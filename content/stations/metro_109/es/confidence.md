@@ -1,0 +1,1 @@
+La denominación de la estación por el topónimo local está bien acreditada, y las fuentes autorizadas documentan tanto la apertura del metro en 1923 como el puente antiguo sobre el Abroñigal en el Camino de Vallecas. La incertidumbre sobre detalles secundarios no reduce la confianza en el origen directo del nombre.

@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for Avenida de América, the major road at the station. The broader interpretation that the avenue explicitly honors Spain-Latin America ties is plausible from the name and nearby toponymy, but I did not find a municipal naming record proving that intention.

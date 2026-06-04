@@ -1,0 +1,9 @@
+The station name comes first from a place: the Hospital Universitario Severo Ochoa beside Avenida de Orellana in Leganés. The regional transport authority lists the stop as Hospital Severo Ochoa on Metro line 12, with access from Avenida de Orellana and connections to several suburban bus routes.
+
+Behind that hospital name is Severo Ochoa de Albornoz, born in Luarca, Asturias, on 24 September 1905. Ochoa trained as a physician, became one of the major figures of twentieth-century biochemistry, and built much of his scientific career outside Spain, especially in the United States.
+
+The hospital link is unusually direct. The Comunidad de Madrid hospital history says the centre began providing health care in 1987 and that Doctor Severo Ochoa inaugurated it in March 1988. A contemporary El Pais report specifies that the official inauguration took place the previous day, 3 March 1988, with Vice-President Alfonso Guerra, Health Minister Julian Garcia Vargas, and Ochoa himself present.
+
+Ochoa's Nobel connection is central to the name. NobelPrize.org records that he shared the 1959 Nobel Prize in Physiology or Medicine with Arthur Kornberg for discoveries concerning the biological synthesis of ribonucleic acid and deoxyribonucleic acid. That is a little broader and more precise than saying only that he discovered enzymes involved in RNA synthesis.
+
+The Metro station arrived later, when MetroSur opened on 11 April 2003. Comunidad de Madrid describes Line 12 as a major 40-kilometre orbital project linking Alcorcon, Mostoles, Fuenlabrada, Getafe, and Leganes; its own Line 12 documentation places Hospital Severo Ochoa station on Avenida de Orellana, near Parque Miguel de Cervantes and Barrio de los Frailes. The same documentation notes the station's large murals, 'ADN y Lunas', a fitting artistic nod to the molecular science behind Ochoa's public memory.

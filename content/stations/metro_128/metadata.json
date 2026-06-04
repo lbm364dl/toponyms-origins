@@ -1,0 +1,97 @@
+{
+  "id": "metro_128",
+  "name": "Mirasierra",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Mirasierra neighbourhood / Colonia Mirasierra",
+  "previous_names": "Station: none found. Place: Colonia Mirasierra.",
+  "naming_date": "Station opened with the name Mirasierra on 2011-03-28",
+  "sources": [
+    {
+      "title": "El Metro llega a Mirasierra - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-Metro-llega-a-Mirasierra/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=669bcec182cfe210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official inauguration notice dated 28 March 2011; confirms the station, Line 9 extension from Herrera Oria, and service to the Mirasierra neighbourhood.",
+      "relevance_es": "Nota oficial de inauguración fechada el 28 de marzo de 2011; confirma la estación, la prolongación de la línea 9 desde Herrera Oria y el servicio al barrio de Mirasierra."
+    },
+    {
+      "title": "Colonia Mirasierra - Madrid Film Office",
+      "url": "https://madridfilmoffice.com/localizacion/colonia-mirasierra/",
+      "type": "official",
+      "relevance_en": "Municipal film-location page using COAM Architecture Foundation information; summarizes the 1927 Sociedad de Casas Baratas project, the 1954 housing plan, and the later urban form of Colonia Mirasierra.",
+      "relevance_es": "Página municipal de localizaciones con información de la Fundación Arquitectura COAM; resume el proyecto de 1927 de la Sociedad de Casas Baratas, el plan de vivienda de 1954 y la evolución urbana de la Colonia Mirasierra."
+    },
+    {
+      "title": "Location: Colonia Mirasierra - Madrid Film Office",
+      "url": "https://madridfilmoffice.com/en/location/colonia-mirasierra/contacto/",
+      "type": "official",
+      "relevance_en": "English version of the municipal/COAM-derived description, useful for bilingual public wording and chronology.",
+      "relevance_es": "Versión inglesa de la descripción municipal basada en información del COAM, útil para la redacción bilingüe y la cronología."
+    },
+    {
+      "title": "Barrio de Mirasierra, Madrid - Madrid Dealers",
+      "url": "https://madriddealers.es/paus-y-urbanismo/madrid-capital/barrio-de-mirasierra-madrid/",
+      "type": "other",
+      "relevance_en": "Secondary local urbanism source that explicitly states the neighbourhood name derives from the mountain landscape visible from its higher areas.",
+      "relevance_es": "Fuente local secundaria de urbanismo que afirma expresamente que el nombre del barrio deriva del paisaje montañoso visible desde sus zonas altas."
+    },
+    {
+      "title": "Diz Flórez, Guillermo - Arquitectura de Madrid, Fundación Arquitectura COAM",
+      "url": "https://fcoam.eu/guia/aut/aut.0404.htm",
+      "type": "reference",
+      "relevance_en": "COAM author index links Guillermo Diz Flórez with Colonia Mirasierra and the date 1927, supporting a connection but not the detailed 1948 claim in the input row.",
+      "relevance_es": "Índice de autores del COAM que vincula a Guillermo Diz Flórez con la Colonia Mirasierra y la fecha 1927, lo que apoya una conexión pero no el detalle de 1948 incluido en la fila de entrada."
+    },
+    {
+      "title": "Distrito 08 - Fuencarral-El Pardo, Barrio 087 - Mirasierra - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/08%20-%20Fuencarral-El%20Pardo/Barrio087.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal map confirming Mirasierra as Barrio 087 in the Fuencarral-El Pardo district.",
+      "relevance_es": "Plano municipal oficial que confirma Mirasierra como barrio 087 del distrito de Fuencarral-El Pardo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct the station opening year from 2002 to 2011; the official inauguration notice is dated 28 March 2011.",
+      "es": "Corregir el año de apertura de la estación de 2002 a 2011; la nota oficial de inauguración está fechada el 28 de marzo de 2011."
+    },
+    {
+      "en": "Classify the station's direct etymology as a place name, not only as descriptive: the station is named after the Mirasierra neighbourhood, whose own name is descriptive.",
+      "es": "Clasificar la etimología directa de la estación como nombre de lugar, no solo como descriptiva: la estación se llama por el barrio de Mirasierra, cuyo nombre sí es descriptivo."
+    },
+    {
+      "en": "Treat the 1947 Banús revival, 1948 Guillermo Diz Flórez design, and 1954 Romero Aguirre details as requiring stronger archival confirmation before displaying them as settled facts.",
+      "es": "Tratar los datos sobre la reactivación de Banús en 1947, el diseño de Guillermo Diz Flórez en 1948 y el plan de Romero Aguirre de 1954 como pendientes de confirmación archivística antes de mostrarlos como hechos cerrados."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "An original municipal or planning file naming Colonia Mirasierra would be the best source for confirming whether the 'view of the sierra' explanation was the promoter's explicit intention.",
+      "es": "Un expediente municipal o urbanístico original de denominación de la Colonia Mirasierra sería la mejor fuente para confirmar si la explicación de la 'vista a la sierra' fue intención explícita del promotor."
+    },
+    {
+      "en": "The COAM/Fundación Arquitectura original ficha for F3.23 should be inspected directly if available; Madrid Film Office reproduces COAM-derived content, but the primary ficha was not fully accessible through the indexed page.",
+      "es": "Conviene consultar directamente la ficha original F3.23 del COAM/Fundación Arquitectura si está disponible; Madrid Film Office reproduce contenido procedente del COAM, pero la ficha primaria no fue plenamente accesible mediante la página indexada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_128/en/summary.short.md",
+      "summary": "content/stations/metro_128/en/summary.md",
+      "story": "content/stations/metro_128/en/story.md",
+      "confidence": "content/stations/metro_128/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_128/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_128/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_128/es/summary.short.md",
+      "summary": "content/stations/metro_128/es/summary.md",
+      "story": "content/stations/metro_128/es/story.md",
+      "confidence": "content/stations/metro_128/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_128/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_128/es/research-note.md"
+    }
+  }
+}

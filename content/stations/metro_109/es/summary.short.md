@@ -1,0 +1,1 @@
+Puente de Vallecas debe su nombre al antiguo puente que llevaba el camino de Madrid a Vallecas sobre el arroyo Abroñigal. El puente dio nombre al arrabal y después al distrito, y el metro conservó ese topónimo cuando la línea 1 llegó en 1923.

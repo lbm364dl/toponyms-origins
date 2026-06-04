@@ -1,0 +1,1 @@
+La estación de Metro toma su nombre del Barrio del Pilar, al que da servicio. El nombre del barrio se explica habitualmente como una dedicatoria del promotor José Banús a su esposa, Pilar Calvo y Sánchez de León, y no como una advocación mariana directa.

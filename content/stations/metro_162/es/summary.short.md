@@ -1,0 +1,1 @@
+La estación de Manoteras toma su nombre de la zona de Manoteras, en Hortaleza. El topónimo antiguo Las Manoteras aparece en historias locales y municipales desde 1807 y se explica como una referencia a las lomas o terrenos altos de esta parte del norte de Madrid.

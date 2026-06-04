@@ -1,0 +1,9 @@
+Alto del Arenal is a station name rooted in a local place-name rather than in a person. The most likely immediate source is the nearby Colonia Alto del Arenal, a housing area in Puente de Vallecas whose name was already established before the Metro arrived. Read literally, the phrase means something close to 'the high sandy ground.'
+
+The two words are ordinary Spanish topographic vocabulary. The Real Academia Española defines alto, in one relevant sense, as an elevated site in the countryside, and arenal as a large sandy expanse. That makes the name descriptive: it points to terrain, not to a commemorated individual.
+
+The urban history behind the name is mid-twentieth-century Vallecas. Official Community of Madrid material says the Colonia Alto del Arenal was built at the end of the 1950s and allocated in 1961 by the Obra Sindical del Hogar, with 810 homes in a mix of attached houses and four-storey blocks. Madrid City Council regeneration material also identifies the colony as an Obra Sindical del Hogar development from the 1950s.
+
+The station came later, during the southward extension of Line 1 from Portazgo to Miguel Hernández. The Community of Madrid dates that extension to 7 April 1994 and lists Alto del Arenal as one of the three new stations, alongside Buenos Aires and Miguel Hernández. The same construction account notes sandy and clayey ground, with water in places, and says the sandy, wet section near Alto del Arenal required ground treatment during tunnelling.
+
+The current dataset claim is therefore right in its general etymology but wrong in a key chronology. Alto del Arenal was not a 2007 opening; it has been part of Line 1 since 1994. The broader housing-crisis story belongs in the background, but it should distinguish the Colonia Alto del Arenal from the nearby Poblado Dirigido de Entrevías, which is a related but separate social-housing episode.

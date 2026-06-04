@@ -1,0 +1,1 @@
+The core claim is well supported: Bambú station is on Line 1 and its access is on Calle del Bambú, beside Calle de la Yuca. The broader statement about a mid-20th-century tropical-plant naming plan is plausible from the nearby street names but was not directly confirmed by an official naming resolution.

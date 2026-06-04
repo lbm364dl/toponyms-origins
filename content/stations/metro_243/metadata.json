@@ -1,0 +1,100 @@
+{
+  "id": "metro_243",
+  "name": "Buenos Aires",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Buenos Aires, capital of Argentina, through Avenida de Buenos Aires",
+  "previous_names": "No former station name found. Older local place/street names: calle de Buenos Aires documented in Puente de Vallecas in 1880; local source reports Alto de Buenos Aires on a 1929 plan.",
+  "naming_date": "Station name in use at opening on 1994-04-07; local source dates the present avenue to 1971, not independently verified in municipal naming files.",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Buenos Aires",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_22/",
+      "type": "official",
+      "relevance_en": "Confirms the station is on Metro Line 1 and lists the Buenos Aires access at Avenida de la Albufera 140.",
+      "relevance_es": "Confirma que la estación pertenece a la línea 1 de Metro y recoge el acceso Buenos Aires en la avenida de la Albufera 140."
+    },
+    {
+      "title": "Comunidad de Madrid: Prolongación de la Línea 1. Tramo Portazgo-Miguel Hernández",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-tramo-portazgo-miguel-hernandez",
+      "type": "official",
+      "relevance_en": "Documents the construction of Buenos Aires station and states that the extension was inaugurated on 7 April 1994.",
+      "relevance_es": "Documenta la construcción de la estación de Buenos Aires y afirma que la prolongación fue inaugurada el 7 de abril de 1994."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Officially records Avenida de Buenos Aires as a current street in Puente de Vallecas, beginning at Avenida de la Albufera and ending at Avenida de Miguel Hernández.",
+      "relevance_es": "Registra oficialmente la avenida de Buenos Aires como vía vigente de Puente de Vallecas, desde la avenida de la Albufera hasta la avenida de Miguel Hernández."
+    },
+    {
+      "title": "BNE Hemeroteca Digital: El Imparcial (Madrid), 10/3/1880, página 4",
+      "url": "https://hemerotecadigital.bne.es/hd/es/card?oid=0000577885",
+      "type": "archive",
+      "relevance_en": "Provides a direct 1880 newspaper notice mentioning calle de Buenos Aires in Puente de Vallecas.",
+      "relevance_es": "Aporta una mención periodística directa de 1880 a la calle de Buenos Aires en el Puente de Vallecas."
+    },
+    {
+      "title": "Puente de Vallecas: BUENOS AIRES, Avenida de (1968)",
+      "url": "https://puentedevallecasblog.wordpress.com/buenos-aires-avenida-de-1968/",
+      "type": "other",
+      "relevance_en": "Local historical street note linking the 1880 calle Buenos Aires, the 1929 Alto de Buenos Aires, and the present avenue dated to 1971.",
+      "relevance_es": "Nota histórica local que relaciona la calle Buenos Aires de 1880, el Alto de Buenos Aires de 1929 y la avenida actual fechada en 1971."
+    },
+    {
+      "title": "Gobierno de la Ciudad de Buenos Aires: Ciudad de Buenos Aires",
+      "url": "https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad",
+      "type": "official",
+      "relevance_en": "Official city page identifying Buenos Aires as Argentina's capital and summarizing its 1536 and 1580 foundations and historic names.",
+      "relevance_es": "Página oficial de la ciudad que identifica Buenos Aires como capital argentina y resume sus fundaciones de 1536 y 1580 y sus nombres históricos."
+    },
+    {
+      "title": "Encyclopaedia Britannica: Buenos Aires",
+      "url": "https://www.britannica.com/place/Buenos-Aires",
+      "type": "reference",
+      "relevance_en": "Reference source for Buenos Aires as Argentina's capital and for the traditional origin of the city's name as Nuestra Señora Santa María del Buen Aire.",
+      "relevance_es": "Fuente de referencia sobre Buenos Aires como capital argentina y sobre el origen tradicional del nombre de la ciudad como Nuestra Señora Santa María del Buen Aire."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station did not open in 2007; the Portazgo-Miguel Hernández extension, including Buenos Aires, was inaugurated on 7 April 1994.",
+      "es": "La estación no abrió en 2007; la prolongación Portazgo-Miguel Hernández, incluida Buenos Aires, fue inaugurada el 7 de abril de 1994."
+    },
+    {
+      "en": "The Latin American-themed street-cluster claim is weak for this specific station area and should be softened unless an official planning or street-naming source is found.",
+      "es": "La afirmación sobre un conjunto de calles de temática latinoamericana es débil para el entorno concreto de esta estación y debería suavizarse salvo que aparezca una fuente oficial urbanística o de denominación viaria."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the municipal street-naming file or BOAM/Pleno agreement for Avenida de Buenos Aires to confirm whether 1968 or 1971 is the formal naming or layout date.",
+      "es": "Consultar el expediente municipal de denominación o el acuerdo publicado en BOAM/Pleno sobre la avenida de Buenos Aires para confirmar si 1968 o 1971 es la fecha formal de denominación o trazado."
+    },
+    {
+      "en": "Independently inspect the 1900 and 1929 plans cited by the local Puente de Vallecas street gazetteer to verify the identification of calle Buenos Aires, Alto de Buenos Aires, Calle Sierra del Cadí, and Calle de Juliana Sancho.",
+      "es": "Inspeccionar de forma independiente los planos de 1900 y 1929 citados por el callejero histórico local de Puente de Vallecas para verificar la identificación entre calle Buenos Aires, Alto de Buenos Aires, calle de la Sierra del Cadí y calle de Juliana Sancho."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_243/en/summary.short.md",
+      "summary": "content/stations/metro_243/en/summary.md",
+      "story": "content/stations/metro_243/en/story.md",
+      "confidence": "content/stations/metro_243/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_243/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_243/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_243/es/summary.short.md",
+      "summary": "content/stations/metro_243/es/summary.md",
+      "story": "content/stations/metro_243/es/story.md",
+      "confidence": "content/stations/metro_243/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_243/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_243/es/research-note.md"
+    }
+  }
+}

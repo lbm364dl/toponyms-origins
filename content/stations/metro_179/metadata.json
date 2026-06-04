@@ -1,0 +1,97 @@
+{
+  "id": "metro_179",
+  "name": "Jarama",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Río Jarama",
+  "previous_names": "",
+  "naming_date": "2007-05-05 (station opening; separate naming act not found)",
+  "sources": [
+    {
+      "title": "CRTM - Jarama station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_291?lang=en",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the station name, Line 7 connection, fare zone and access at Plaza de Guernica in San Fernando de Henares.",
+      "relevance_es": "Página oficial del Consorcio Regional de Transportes que confirma el nombre de la estación, la conexión con la línea 7, la zona tarifaria y el acceso en la plaza de Guernica de San Fernando de Henares."
+    },
+    {
+      "title": "Obras de mejora de la infraestructura de estaciones e instalaciones del túnel en la Línea 7B de Metro de Madrid. Tramo: Barrio del Puerto-Henares",
+      "url": "https://www.madrid.org/media/consejeria-transportes/01%20Memoria%20proyecto%20Estaciones%20L-7B.pdf",
+      "type": "official",
+      "relevance_en": "Community of Madrid technical document identifying the Line 7B extension, its 2003-2007 construction and 2007 inauguration, and listing Jarama among the San Fernando de Henares stations.",
+      "relevance_es": "Documento técnico de la Comunidad de Madrid que identifica la prolongación de la línea 7B, su construcción entre 2003 y 2007 y su inauguración en 2007, y enumera Jarama entre las estaciones de San Fernando de Henares."
+    },
+    {
+      "title": "Jarama - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/7105",
+      "type": "academic",
+      "relevance_en": "Specialist toponymy entry by Emilio Nieto Ballester giving the hydronym's historical forms, geography, and a cautious etymological assessment favoring a plant-name explanation over a secure ancient Indo-European hydronym.",
+      "relevance_es": "Entrada toponímica especializada redactada por Emilio Nieto Ballester que aporta formas históricas del hidrónimo, datos geográficos y una valoración etimológica prudente que prefiere una explicación fitonímica frente a un hidrónimo indoeuropeo seguro."
+    },
+    {
+      "title": "Parque Regional del Sureste - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/medio-ambiente/parque-regional-sureste",
+      "type": "official",
+      "relevance_en": "Official environmental page describing the Jarama as the main watercourse in the Madrid part of the Tagus basin, with 138 km in the region and a passage through San Fernando de Henares.",
+      "relevance_es": "Página oficial ambiental que describe el Jarama como curso principal de la cuenca madrileña del Tajo, con 138 km en la región y paso por San Fernando de Henares."
+    },
+    {
+      "title": "Entre el Jarama y el Torote (El valle del Henares II)",
+      "url": "https://www.madrid.org/bvirtual/BVCM001161.pdf",
+      "type": "book",
+      "relevance_en": "Community of Madrid digital publication documenting San Fernando's older name, San Fernando de Jarama, the 1916 change to San Fernando de Henares, and the town's historical connection with the Jarama valley.",
+      "relevance_es": "Publicación digital de la Comunidad de Madrid que documenta el nombre antiguo San Fernando de Jarama, el cambio de 1916 a San Fernando de Henares y la vinculación histórica de la localidad con la vega del Jarama."
+    },
+    {
+      "title": "La línea 7 de metro 'se estira' hasta Coslada y San Fernando",
+      "url": "https://elpais.com/diario/2007/05/05/madrid/1178364264_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary report dated 5 May 2007 describing the opening of the MetroEste extension of Line 7 to Coslada and San Fernando de Henares.",
+      "relevance_es": "Crónica contemporánea del 5 de mayo de 2007 que describe la apertura de la prolongación de MetroEste de la línea 7 hacia Coslada y San Fernando de Henares."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the Indo-European *sar- theory as equally strong with the specialist source; Toponomasticon Hispaniae treats it skeptically and prefers, still with doubts, a plant-name explanation.",
+      "es": "No conviene presentar la teoría indoeuropea *sar- como igualmente sólida frente a la fuente especializada; Toponomasticon Hispaniae la trata con escepticismo y prefiere, aunque con dudas, una explicación fitonímica."
+    },
+    {
+      "en": "The simple derivation from jara should be nuanced: the specialist discussion points instead to jaramago/saramago and only mentions possible influence from the familiar word jara.",
+      "es": "La derivación simple desde jara debe matizarse: la discusión especializada apunta más bien a jaramago/saramago y solo menciona una posible influencia de la palabra conocida jara."
+    },
+    {
+      "en": "The Berber 'border river' explanation appears in popular sources but was not supported by the strongest source found; it should be treated as weak unless independently documented.",
+      "es": "La explicación bereber de 'río fronterizo' aparece en fuentes divulgativas, pero no está respaldada por la fuente más sólida localizada; debe tratarse como débil salvo documentación independiente."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect a Metro de Madrid or Comunidad de Madrid naming file, if one exists, to confirm the formal reason for choosing 'Jarama' for the station.",
+      "es": "Revisar un expediente de denominación de Metro de Madrid o de la Comunidad de Madrid, si existe, para confirmar la razón formal de escoger 'Jarama' como nombre de la estación."
+    },
+    {
+      "en": "Consult printed etymological dictionaries such as Corominas-Pascual's DCECH and Nieto Ballester's Breve diccionario de topónimos españoles for a fuller comparison of the hydronym theories.",
+      "es": "Consultar diccionarios etimológicos impresos como el DCECH de Corominas-Pascual y el Breve diccionario de topónimos españoles de Nieto Ballester para comparar con más detalle las teorías sobre el hidrónimo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_179/en/summary.short.md",
+      "summary": "content/stations/metro_179/en/summary.md",
+      "story": "content/stations/metro_179/en/story.md",
+      "confidence": "content/stations/metro_179/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_179/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_179/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_179/es/summary.short.md",
+      "summary": "content/stations/metro_179/es/summary.md",
+      "story": "content/stations/metro_179/es/story.md",
+      "confidence": "content/stations/metro_179/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_179/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_179/es/research-note.md"
+    }
+  }
+}

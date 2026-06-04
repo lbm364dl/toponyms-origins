@@ -1,0 +1,1 @@
+La estación de Velázquez toma su nombre de la calle de Velázquez, una de las vías principales del barrio de Salamanca. La calle honra a Diego Rodríguez de Silva y Velázquez, pintor sevillano de cámara de Felipe IV y autor de Las Meninas.

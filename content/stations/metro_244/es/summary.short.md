@@ -1,0 +1,1 @@
+La estación de Miguel Hernández toma su nombre de la cercana avenida de Miguel Hernández, dedicada al poeta oriolano Miguel Hernández Gilabert. Se inauguró en la línea 1 el 7 de abril de 1994 como parte de la ampliación del Metro hacia Palomeras, Vallecas.

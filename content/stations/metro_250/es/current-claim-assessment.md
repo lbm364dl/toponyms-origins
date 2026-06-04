@@ -1,0 +1,1 @@
+La afirmación principal está verificada: la estación toma su nombre de la Avenida de Guadalajara, y Guadalajara es un topónimo de origen árabe. Parte del contexto añadido es más débil o innecesario: no queda probado aquí que la avenida sea la vía principal hacia Guadalajara, y la estación se sitúa mejor en Arcos, San Blas-Canillejas.

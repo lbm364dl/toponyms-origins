@@ -1,0 +1,111 @@
+{
+  "id": "metro_170",
+  "name": "La Elipa",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Elipa area/barrio; ultimately probably the old Helipa/Elipa estate traditionally linked to Phelipa de Vargas",
+  "previous_names": "For the station, no previous name found. Older place/estate forms include Helipa and Elipa; the estate also appears in later documentation as La Elipa y Canaleja.",
+  "naming_date": "Station name in use at opening on 16 February 2007; older toponym documented as Helipa/Elipa by a 1510 mayorazgo reference cited in 1789.",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: La Elipa",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_260",
+      "type": "official",
+      "relevance_en": "Official transport source confirming La Elipa as a Metro station, its Line 2 correspondence, accesses on Avenida del Marqués de Corbera, fare zone and station services.",
+      "relevance_es": "Fuente oficial de transporte que confirma La Elipa como estación de Metro, su correspondencia con la línea 2, los accesos en la avenida del Marqués de Corbera, la zona tarifaria y los servicios de la estación."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Plan de Barrio La Elipa 2009-2012: Características y actuaciones",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Planes_Barrio/2009-2012/13_La_Elipa/Caracteristicas_Actuaciones_2009-2012_La-Elipa.pdf",
+      "type": "official",
+      "relevance_en": "Municipal source explaining that the name relates to the old caserío near the arroyo de La Elipa, that the area belonged to Vicálvaro before Madrid’s 1951 annexation, and that the modern neighbourhood grew from the 1957 partial plan.",
+      "relevance_es": "Fuente municipal que explica que el nombre se relaciona con el antiguo caserío próximo al arroyo de La Elipa, que el territorio pertenecía a Vicálvaro antes de la anexión a Madrid en 1951 y que el barrio moderno creció a partir del Plan Parcial de 1957."
+    },
+    {
+      "title": "José Antonio Álvarez y Baena, Hijos de Madrid, ilustres en santidad, dignidades, armas, ciencias y artes",
+      "url": "https://www.memoriademadrid.es/download.php?id=.%2Fdoc_anexos%2FWorkflow%2F0%2F35419%2Fbhm_mb-1719.pdf&nombre=bhm_mb-1719.pdf",
+      "type": "archive",
+      "relevance_en": "Digitized historical work citing the 1510 mayorazgo of Diego de Luján and naming among its assets the estate of Helipa, today Elipa, which is the strongest accessible evidence for the old form of the toponym.",
+      "relevance_es": "Obra histórica digitalizada que cita el mayorazgo de Diego de Luján de 1510 y enumera entre sus bienes la heredad de la Helipa, hoy Elipa; es la prueba accesible más sólida de la forma antigua del topónimo."
+    },
+    {
+      "title": "Las aguas de Vicálvaro",
+      "url": "https://lbm1948.es/wp-content/uploads/2023/05/Las-aguas-de-Vicalvaro.pdf",
+      "type": "book",
+      "relevance_en": "Recent local-historical research using archival citations; it discusses the Helipa/Elipa estate, the Vargas and Luján succession, and cautions against unsupported noble-jurisdiction claims around La Elipa y Canaleja.",
+      "relevance_es": "Investigación histórico-local reciente con citas archivísticas; trata la heredad de Helipa/Elipa, la sucesión Vargas y Luján, y advierte contra afirmaciones nobiliarias o jurisdiccionales no sustentadas sobre La Elipa y Canaleja."
+    },
+    {
+      "title": "Barrio de la Elipa - Madripedia",
+      "url": "https://madripedia.wikis.cc/wiki/Barrio_de_la_Elipa",
+      "type": "reference",
+      "relevance_en": "Reference page incorporating material from María Isabel Gea’s Diccionario Enciclopédico de Madrid; it gives the traditional account that Miguel Ximénez de Luján named the place for Phelipa de Vargas.",
+      "relevance_es": "Página de referencia que incorpora material del Diccionario Enciclopédico de Madrid de María Isabel Gea; recoge la versión tradicional de que Miguel Ximénez de Luján nombró el lugar por Phelipa de Vargas."
+    },
+    {
+      "title": "Historia de Vicálvaro: Primeras noticias",
+      "url": "https://www.vicalvaro.net/historia/primeras-noticias.html",
+      "type": "other",
+      "relevance_en": "Local history source that cautiously phrases the origin of the Elipa estate as a probable royal grant to Miguel Ximénez de Luján, named in honour of his wife Phelipa de Vargas.",
+      "relevance_es": "Fuente de historia local que formula con cautela el origen de la heredad de la Elipa como probable concesión regia a Miguel Ximénez de Luján, nombrada en honor de su mujer Phelipa de Vargas."
+    },
+    {
+      "title": "El País: El metro de La Elipa que hoy se inaugura provoca temblores en un edificio de Ventas",
+      "url": "https://elpais.com/diario/2007/02/16/madrid/1171628658_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report confirming the 16 February 2007 opening of the La Elipa metro extension and the long neighbourhood campaign for the station.",
+      "relevance_es": "Crónica contemporánea que confirma la apertura de la prolongación del metro a La Elipa el 16 de febrero de 2007 y la larga reivindicación vecinal de la estación."
+    },
+    {
+      "title": "Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo",
+      "url": "https://dialnet.unirioja.es/servlet/libro?codigo=42882",
+      "type": "book",
+      "relevance_en": "Bibliographic record for the Madrid toponymy work cited in the input row. I found the bibliographic record but could not inspect the La Elipa entry online during this pass.",
+      "relevance_es": "Registro bibliográfico de la obra de toponimia madrileña citada en la fila de entrada. Localicé el registro bibliográfico, pero no pude consultar en línea la entrada de La Elipa durante esta revisión."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station opened on 16 February 2007, not 2011; 2011 is the year Line 2 was extended onward from La Elipa to Las Rosas.",
+      "es": "La estación abrió el 16 de febrero de 2007, no en 2011; 2011 es el año en que la línea 2 se prolongó desde La Elipa hasta Las Rosas."
+    },
+    {
+      "en": "The recommended classification should be place for the station’s direct name source, with a probable person-based older etymology behind the place-name.",
+      "es": "La clasificación recomendada debe ser lugar para la fuente directa del nombre de la estación, con una etimología personal probable detrás del topónimo."
+    },
+    {
+      "en": "The current row’s confidence should be lowered from verified to probable unless Aparisi Laporta or another primary/archival source is inspected for the exact Phelipa de Vargas claim.",
+      "es": "La confianza de la fila debe rebajarse de verificada a probable salvo que se inspeccione Aparisi Laporta u otra fuente primaria o archivística para la afirmación concreta sobre Phelipa de Vargas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo (Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid, 2001), especially the La Elipa entry, to confirm exactly what evidence he cites for Phelipa/Felipa de Vargas.",
+      "es": "Consultar Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo (Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid, 2001), especialmente la entrada de La Elipa, para confirmar qué prueba cita exactamente sobre Phelipa/Felipa de Vargas."
+    },
+    {
+      "en": "If available, inspect the underlying archival files cited by recent Vicálvaro water-history research, especially A.V.S. 42-341-24, 42-341-63 and related documents, for the earliest forms Helipa/Elipa and any naming explanation.",
+      "es": "Si están disponibles, revisar los expedientes archivísticos citados por la investigación reciente sobre las aguas de Vicálvaro, en especial A.V.S. 42-341-24, 42-341-63 y documentos relacionados, para comprobar las formas más antiguas Helipa/Elipa y cualquier explicación del nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_170/en/summary.short.md",
+      "summary": "content/stations/metro_170/en/summary.md",
+      "story": "content/stations/metro_170/en/story.md",
+      "confidence": "content/stations/metro_170/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_170/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_170/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_170/es/summary.short.md",
+      "summary": "content/stations/metro_170/es/summary.md",
+      "story": "content/stations/metro_170/es/story.md",
+      "confidence": "content/stations/metro_170/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_170/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_170/es/research-note.md"
+    }
+  }
+}

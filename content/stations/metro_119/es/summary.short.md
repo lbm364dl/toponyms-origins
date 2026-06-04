@@ -1,0 +1,1 @@
+La estación de Lago toma su nombre del Lago de la Casa de Campo, la gran lámina de agua artificial situada junto a la estación. Su origen está en un conjunto de estanques reales del siglo XVI, remodelados con el tiempo hasta formar el lago actual de ocio y deporte.

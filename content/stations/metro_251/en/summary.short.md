@@ -1,0 +1,1 @@
+Alsacia station is named for Plaza de Alsacia, under which it was built when Line 2 was extended to Las Rosas in 2011. The plaza’s name points to Alsace, the Rhine-border region whose modern history links France, Germany, conflict and later European reconciliation.

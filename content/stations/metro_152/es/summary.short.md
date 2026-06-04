@@ -1,0 +1,1 @@
+La estación Juan de la Cierva toma el nombre del barrio de Getafe al que sirve, dedicado a Juan de la Cierva y Codorníu, ingeniero murciano inventor del autogiro. La relación con Getafe es especialmente local porque allí se realizaron ensayos exitosos del autogiro en 1923.

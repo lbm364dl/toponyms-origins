@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre de la cercana avenida de la Ilustración, cuyo enunciado remite a la Ilustración. La fila actual exagera el peso de Carlos III como si fuera prueba del nombre de la estación; es contexto útil sobre el Madrid ilustrado, pero no una razón documentada para este nombre de estación.

@@ -1,0 +1,1 @@
+La afirmación principal está bien sustentada: la estación toma su nombre del barrio madrileño de Simancas. La relación última con la villa vallisoletana es verosímil, pero la fila exagera la leyenda de 'si mancas' como origen y debe presentar la etimología antigua como incierta.

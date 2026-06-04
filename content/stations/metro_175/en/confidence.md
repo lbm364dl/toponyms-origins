@@ -1,0 +1,1 @@
+The immediate source of the station name is verified by transport information placing the stop in Barrio del Puerto, and the deeper link to the Puerto Seco is supported by a contemporary 1998 article explicitly explaining the neighbourhood name. Official and port sources corroborate the dry port's role and connections.

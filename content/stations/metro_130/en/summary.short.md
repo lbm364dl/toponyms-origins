@@ -1,0 +1,1 @@
+Suanzes takes its name from Juan Antonio Suanzes Fernández (1891-1977), naval engineer, Franco-era minister, and first president of the Instituto Nacional de Industria. The station opened with this name on 18 January 1980, beside the Quinta de los Molinos area.

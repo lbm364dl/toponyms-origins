@@ -1,0 +1,1 @@
+Jarama station takes its name from the Jarama River, the great north-south river of eastern Madrid and a historic marker for San Fernando de Henares. The river name itself is uncertain; current specialist toponymy favors a cautious link with plant names such as jaramago/saramago rather than a secure ancient river-root.

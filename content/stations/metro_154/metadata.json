@@ -1,0 +1,107 @@
+{
+  "id": "metro_154",
+  "name": "Hospital Severo Ochoa",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Severo Ochoa de Albornoz, via Hospital Universitario Severo Ochoa",
+  "previous_names": "",
+  "naming_date": "2003-04-11",
+  "sources": [
+    {
+      "title": "CRTM - Hospital Severo Ochoa metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_234?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Metro line 12 connection, fare zone, access points on Avenida de Orellana in Leganés, and bus connections.",
+      "relevance_es": "Confirma el nombre actual de la estación, la conexión con la línea 12 de Metro, la zona tarifaria, los accesos en la avenida de Orellana de Leganés y las conexiones de autobús."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms MetroSur / Line 12 was put into service on 11 April 2003 and describes it as a more-than-40-kilometre project with 28 underground stations.",
+      "relevance_es": "Confirma que MetroSur / línea 12 se puso en servicio el 11 de abril de 2003 y lo describe como un proyecto de más de 40 kilómetros con 28 estaciones subterráneas."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Places Hospital Severo Ochoa station on Avenida de Orellana near Parque Miguel de Cervantes and Barrio de los Frailes, and documents the station murals 'ADN y Lunas'.",
+      "relevance_es": "Sitúa la estación Hospital Severo Ochoa en la avenida de Orellana, junto al Parque Miguel de Cervantes y el Barrio de los Frailes, y documenta los murales 'ADN y Lunas'."
+    },
+    {
+      "title": "Hospital Universitario Severo Ochoa - Historia",
+      "url": "https://www.comunidad.madrid/hospital/severoochoa/nosotros/historia",
+      "type": "official",
+      "relevance_en": "Official hospital history confirming that Severo Ochoa inaugurated the hospital in March 1988, that it began providing care in 1987, and that the name honors the Nobel laureate.",
+      "relevance_es": "Historia oficial del hospital que confirma que Severo Ochoa inauguró el centro en marzo de 1988, que empezó a prestar asistencia en 1987 y que el nombre honra al premio Nobel."
+    },
+    {
+      "title": "Hospital Universitario Severo Ochoa - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/hospital/severoochoa/",
+      "type": "official",
+      "relevance_en": "Confirms the hospital is a public Comunidad de Madrid health centre in Leganés, opened in 1987 and inaugurated by Severo Ochoa in 1988.",
+      "relevance_es": "Confirma que el hospital es un centro sanitario público de la Comunidad de Madrid en Leganés, abierto en 1987 e inaugurado por Severo Ochoa en 1988."
+    },
+    {
+      "title": "Guerra inaugura en Leganés el primer centro de área sanitaria",
+      "url": "https://elpais.com/diario/1988/03/04/madrid/573481458_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 4 March 1988 confirming the official inauguration on 3 March 1988, the presence of Severo Ochoa, and the hospital's progressive start-up from 30 March 1987.",
+      "relevance_es": "Crónica contemporánea del 4 de marzo de 1988 que confirma la inauguración oficial del 3 de marzo de 1988, la presencia de Severo Ochoa y la puesta en marcha progresiva desde el 30 de marzo de 1987."
+    },
+    {
+      "title": "Severo Ochoa - Facts",
+      "url": "https://www.nobelprize.org/prizes/medicine/1959/ochoa/facts/",
+      "type": "reference",
+      "relevance_en": "NobelPrize.org confirms Ochoa's birth and death dates, 1959 Nobel Prize, prize share with Arthur Kornberg, and the official prize motivation regarding RNA and DNA synthesis.",
+      "relevance_es": "NobelPrize.org confirma las fechas de nacimiento y muerte de Ochoa, el Premio Nobel de 1959, el galardón compartido con Arthur Kornberg y la motivación oficial sobre la síntesis del ARN y el ADN."
+    },
+    {
+      "title": "Real Academia de la Historia - Severo Ochoa de Albornoz",
+      "url": "https://historia-hispanica.rah.es/biografias/32515-severo-ochoa-de-albornoz",
+      "type": "reference",
+      "relevance_en": "Authoritative Spanish biographical reference for Ochoa's identity, career, and significance as a physician, biochemist, and Nobel laureate.",
+      "relevance_es": "Referencia biográfica española autorizada para la identidad, trayectoria e importancia de Ochoa como médico, bioquímico y premio Nobel."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full Nobel wording where possible: Ochoa shared the 1959 Nobel Prize with Arthur Kornberg for discoveries on the biological synthesis of RNA and DNA, not only for enzymes involved in RNA synthesis.",
+      "es": "Conviene usar la formulación completa del Nobel: Ochoa compartió el Premio Nobel de 1959 con Arthur Kornberg por descubrimientos sobre la síntesis biológica del ARN y del ADN, no solo por enzimas implicadas en la síntesis del ARN."
+    },
+    {
+      "en": "The station is most directly named after the hospital next to it; the person etymology is ultimate rather than immediate.",
+      "es": "La estación toma su nombre de forma más inmediata del hospital contiguo; la etimología personal es última, no directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find a primary source for the claim that hospital construction began in 1981; the official pages inspected confirm opening in 1987 and inauguration in March 1988, but not that construction-start date.",
+      "es": "Localizar una fuente primaria para la afirmación de que las obras del hospital comenzaron en 1981; las páginas oficiales consultadas confirman la apertura en 1987 y la inauguración en marzo de 1988, pero no ese inicio de obras."
+    },
+    {
+      "en": "A formal naming resolution for the Metro station was not found; the best supported naming date is the public opening of MetroSur on 11 April 2003.",
+      "es": "No se ha localizado una resolución formal de denominación de la estación; la fecha mejor respaldada para el nombre es la apertura pública de MetroSur el 11 de abril de 2003."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_154/en/summary.short.md",
+      "summary": "content/stations/metro_154/en/summary.md",
+      "story": "content/stations/metro_154/en/story.md",
+      "confidence": "content/stations/metro_154/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_154/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_154/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_154/es/summary.short.md",
+      "summary": "content/stations/metro_154/es/summary.md",
+      "story": "content/stations/metro_154/es/story.md",
+      "confidence": "content/stations/metro_154/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_154/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_154/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La Rambla station is named for the La Rambla area of Coslada, an urban axis around Calle Honduras and Avenida de los Príncipes de España. The word rambla ultimately comes from Arabic and in Spanish can mean both a natural rainwater channel and a broad promenade.

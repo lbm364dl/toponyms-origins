@@ -1,0 +1,1 @@
+The station's immediate origin as a place-name is strongly supported by Madrid City Council and transport sources. Confidence is reduced from verified to probable because the ultimate etymology of Villaverde is not settled: the verde/Latin viridis explanation is supported, but a Madrid-specific alternative involving Santiago el Verde is also documented.

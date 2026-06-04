@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación adopta un nombre compuesto por el distrito de Arganzuela y el cercano Planetario de Madrid. Varios detalles de contexto son correctos, pero la idea de que el nombre se eligió específicamente para distinguirla de Legazpi es una inferencia plausible más que un dato documentado directamente.

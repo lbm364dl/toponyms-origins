@@ -1,0 +1,125 @@
+{
+  "id": "metro_124",
+  "name": "Duque de Pastrana",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza del Duque de Pastrana, recalling the Dukes of Pastrana and their historic association with Chamartín de la Rosa",
+  "previous_names": "No former station name found. For the place: old Plaza Mayor of Chamartín de la Rosa; a 2017 municipal planning/registry document describes property at nos. 6-7 as formerly Plaza Calvo Sotelo, now Plaza del Duque de Pastrana.",
+  "naming_date": "Station opened with this name on 30 December 1983; formal date of the square's current name not found.",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Duque de Pastrana",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_165?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station as Duque de Pastrana on Metro Line 9 and lists its access at Calle de Mateo Inurria with the Duque de Pastrana ticket hall.",
+      "relevance_es": "Confirma la estación actual Duque de Pastrana en la línea 9 de Metro y recoge el acceso por la calle de Mateo Inurria con vestíbulo Duque de Pastrana."
+    },
+    {
+      "title": "Memoria de Madrid: Inauguración del tramo de línea 9 Plaza de Castilla-Avenida de América",
+      "url": "https://www.memoriademadrid.es/view/387817/inauguracion-del-tramo-de-linea-9-del-tramo-plaza-de-castilla-avenida-de-america?limit=100&offset=2234&q=facet%2Cmetadata.contributor.es.keyword%2Cequals%2CMetro+de+Madrid",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record dating the inauguration event for the Plaza de Castilla-Avenida de América section to 30 December 1983.",
+      "relevance_es": "Registro del archivo fotográfico de Metro de Madrid que fecha el acto de inauguración del tramo Plaza de Castilla-Avenida de América el 30 de diciembre de 1983."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 9 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-9-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional infrastructure history explaining that northern Line 9B included the Plaza de Castilla-Avenida de América section, opened on 30 December 1983.",
+      "relevance_es": "Historia oficial regional de la infraestructura que explica que la línea 9B norte incluyó el tramo Plaza de Castilla-Avenida de América, inaugurado el 30 de diciembre de 1983."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: 70 años de la anexión de Chamartín de la Rosa a Madrid",
+      "url": "https://diario.madrid.es/chamartin/2018/10/22/70-anos-de-la-anexion-de-chamartin-de-la-rosa-a-madrid/",
+      "type": "official",
+      "relevance_en": "Municipal district history stating that the former Plaza Mayor of Chamartín de la Rosa was located at the current Plaza del Duque de Pastrana.",
+      "relevance_es": "Historia distrital municipal que afirma que la antigua plaza Mayor de Chamartín de la Rosa estaba en la actual plaza del Duque de Pastrana."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Callejero Oficial 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Confirms Plaza del Duque de Pastrana as an official street/square name in the district of Chamartín.",
+      "relevance_es": "Confirma la plaza del Duque de Pastrana como denominación oficial de vía/plaza en el distrito de Chamartín."
+    },
+    {
+      "title": "Ministerio de Justicia: Guía Oficial de Grandezas y Títulos del Reino 2023",
+      "url": "https://www.mjusticia.gob.es/es/AreaTematica/derechos-gracia/Documents/Gu%C3%ADa%20Oficial%20de%20Grandezas%20y%20T%C3%ADtulos%20del%20Reino_24-05-2023.pdf",
+      "type": "official",
+      "relevance_en": "Official title guide recording the Duchy of Pastrana as granted on 20 December 1572 to Don Ruy Gómez de Silva, prince of Éboli.",
+      "relevance_es": "Guía oficial de títulos que recoge el ducado de Pastrana como concedido el 20 de diciembre de 1572 a don Ruy Gómez de Silva, príncipe de Éboli."
+    },
+    {
+      "title": "Real Academia de la Historia, Historia Hispánica: Ruy Gómez de Silva",
+      "url": "https://historia-hispanica.rah.es/biografias/19868-ruy-gomez-de-silva",
+      "type": "reference",
+      "relevance_en": "Authoritative biography identifying Ruy Gómez de Silva as first Duke of Pastrana, born in Chamusca in 1516 and deceased in Madrid on 29 July 1573, with court-service context.",
+      "relevance_es": "Biografía autorizada que identifica a Ruy Gómez de Silva como primer duque de Pastrana, nacido en Chamusca en 1516 y fallecido en Madrid el 29 de julio de 1573, con contexto de su servicio cortesano."
+    },
+    {
+      "title": "BOE: Real Decreto 741/1979, Palacio de los Duques de Pastrana",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1979-9767",
+      "type": "official",
+      "relevance_en": "Declares the Palacio de los Duques de Pastrana, between Calle de Platería and Paseo de la Habana in Madrid, a national historic-artistic monument.",
+      "relevance_es": "Declara monumento histórico-artístico nacional el Palacio de los Duques de Pastrana, entre la calle de Platería y el paseo de la Habana de Madrid."
+    },
+    {
+      "title": "esmadrid: Palacio de los Duques de Pastrana",
+      "url": "https://www.esmadrid.com/informacion-turistica/palacio-de-los-duques-de-pastrana",
+      "type": "official",
+      "relevance_en": "Madrid tourism page locating the Palacio de los Duques de Pastrana in Chamartín and noting its 1860 construction, 1979 protected status, and nearby Duque de Pastrana Metro station.",
+      "relevance_es": "Página turística municipal que sitúa el Palacio de los Duques de Pastrana en Chamartín y recoge su construcción en 1860, su protección de 1979 y la cercana estación de Metro Duque de Pastrana."
+    },
+    {
+      "title": "Ayuntamiento de Madrid Transparencia: Convenio APE Callejón de los Morales Sur",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/ConveniosUrbanisticos/Ficheros/2017/CONVENIO%20APE%20CALLEJON%20DE%20LOS%20MORALES%20SUR.pdf",
+      "type": "official",
+      "relevance_en": "Search result text reports a property description as Plaza Calvo Sotelo, now Plaza del Duque de Pastrana nos. 6-7; useful lead for a former place-name, but the PDF needs direct inspection.",
+      "relevance_es": "El texto del resultado de búsqueda recoge una descripción de finca como Plaza Calvo Sotelo, hoy plaza del Duque de Pastrana números 6 y 7; es una pista útil sobre un nombre anterior del lugar, pero el PDF requiere inspección directa."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the recommended direct named-after value from Ruy Gómez de Silva alone to Plaza del Duque de Pastrana / the Dukes of Pastrana, with Ruy as title-origin background.",
+      "es": "Cambiar el valor directo recomendado de named_after de Ruy Gómez de Silva solo a plaza del Duque de Pastrana / duques de Pastrana, dejando a Ruy como antecedente del título."
+    },
+    {
+      "en": "Keep the 1572 creation of the duchy, but avoid implying that the station itself was intentionally named to honor the first duke personally.",
+      "es": "Mantener la creación del ducado en 1572, pero evitar afirmar que la estación fue nombrada intencionadamente para homenajear personalmente al primer duque."
+    },
+    {
+      "en": "Add the Chamartín de la Rosa context: the current square corresponds to the old village Plaza Mayor, which is highly relevant to the station name.",
+      "es": "Añadir el contexto de Chamartín de la Rosa: la plaza actual corresponde a la antigua plaza Mayor de la villa, dato muy relevante para el nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal street-naming files or historical plenary records to determine when Plaza del Duque de Pastrana received its current name and whether the dedication was to Ruy Gómez de Silva, to a later duke, or to the ducal house generally.",
+      "es": "Consultar expedientes municipales de denominación de vías o actas históricas del Ayuntamiento de Madrid para determinar cuándo recibió la plaza del Duque de Pastrana su nombre actual y si la dedicatoria fue a Ruy Gómez de Silva, a un duque posterior o a la casa ducal en general."
+    },
+    {
+      "en": "Verify the Plaza Calvo Sotelo reference in the underlying 2017 urban-planning PDF or land-registry documents, because the web snippet is clear but the PDF could not be fully opened during this check.",
+      "es": "Verificar la referencia a Plaza Calvo Sotelo en el PDF urbanístico de 2017 o en documentos registrales, porque el resultado web es claro pero el PDF no pudo abrirse completamente durante esta comprobación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_124/en/summary.short.md",
+      "summary": "content/stations/metro_124/en/summary.md",
+      "story": "content/stations/metro_124/en/story.md",
+      "confidence": "content/stations/metro_124/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_124/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_124/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_124/es/summary.short.md",
+      "summary": "content/stations/metro_124/es/summary.md",
+      "story": "content/stations/metro_124/es/story.md",
+      "confidence": "content/stations/metro_124/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_124/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_124/es/research-note.md"
+    }
+  }
+}

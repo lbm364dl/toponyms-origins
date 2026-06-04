@@ -1,0 +1,104 @@
+{
+  "id": "metro_249",
+  "name": "Las Rosas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Rosas urbanization / Rosas neighborhood, San Blas-Canillejas",
+  "previous_names": "",
+  "naming_date": "2011-03-16",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 2 a Las Rosas",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-2-rosas",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the line 2 extension to Las Rosas, the four station names, and the 16 March 2011 service date.",
+      "relevance_es": "Fuente oficial de transporte que confirma la prolongación de la línea 2 a Las Rosas, los nombres de las cuatro estaciones y la puesta en servicio el 16 de marzo de 2011."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - La Línea 2 de Metro ya llega a Las Rosas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/La-Linea-2-de-Metro-ya-llega-a-Las-Rosas/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=0cfdd1c735ebe210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal press release tying the new line 2 extension directly to the Las Rosas neighborhood area.",
+      "relevance_es": "Nota de prensa municipal que vincula directamente la nueva prolongación de la línea 2 con el ámbito del barrio de Las Rosas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Cartografía Acústica del Distrito San Blas, 20.2.5 Barrio Rosas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Sostenibilidad/Ruido/MapaRuido/MapaRuido2006/Ficheros/Distrito_20_San_Blas.pdf",
+      "type": "official",
+      "relevance_en": "Municipal district document stating that barrio Rosas takes its name from containing the Las Rosas urbanization and describing its recent urbanization and Los Focos context.",
+      "relevance_es": "Documento municipal de distrito que indica que el barrio Rosas toma su nombre por contener la urbanización de Las Rosas y describe su urbanización reciente y el contexto de Los Focos."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Estudio sociodemográfico de los barrios de Madrid, San Blas-Canillejas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Publicaciones_Fondo_Documental/Estudio_Sociologico_Barrios_PIBA/Estudio_PIBA_2019_II-parte-segunda.pdf",
+      "type": "official",
+      "relevance_en": "Provides municipal historical context: Canillejas annexation, San Blas as peripheral farmland, the 1985 Ensanche Este de Madrid, and the present barrio of Las Rosas/Rosas.",
+      "relevance_es": "Aporta contexto histórico municipal: anexión de Canillejas, San Blas como periferia de campos de cultivo, el Ensanche Este de Madrid de 1985 y el actual barrio de Las Rosas/Rosas."
+    },
+    {
+      "title": "COAM Revista Urbanismo 16 - Ensanche al este de San Blas. Planes Parciales I-6, I-7 y II-4 del sector Las Rosas",
+      "url": "https://www.fundacioncoam.org/media/Default%20Files/fundacion/biblioteca/revista-urbanismo/docs/revista-urbanismo-n16-pag66-71.pdf",
+      "type": "academic",
+      "relevance_en": "Contemporary planning article documenting the sector name Las Rosas and the urban-planning objectives of the eastern San Blas expansion.",
+      "relevance_es": "Artículo urbanístico contemporáneo que documenta el nombre del sector Las Rosas y los objetivos de planeamiento del ensanche oriental de San Blas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Estado de desarrollo de los ámbitos del Plan General a 1 de enero de 2013: San Blas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/EstadoDesarrollo/20_SanBlasn.pdf",
+      "type": "official",
+      "relevance_en": "Official planning status report listing API.20.08 Sector I/6 Las Rosas and API.20.09 Sector II/4 Las Rosas under PGOUM-85.",
+      "relevance_es": "Informe oficial de desarrollo urbanístico que recoge API.20.08 Sector I/6 Las Rosas y API.20.09 Sector II/4 Las Rosas bajo el PGOUM-85."
+    },
+    {
+      "title": "El País - Las inmobiliarias se lanzan a la conquista del Este",
+      "url": "https://elpais.com/diario/1994/09/19/madrid/779973882_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press context for the 1990s development of Las Rosas as a large housing area on Madrid's eastern edge.",
+      "relevance_es": "Contexto periodístico contemporáneo sobre el desarrollo de Las Rosas en los años noventa como gran ámbito residencial del este de Madrid."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the rose-garden explanation with a more cautious statement: no authoritative source found confirms an old estate or garden with rose bushes as the source of the name.",
+      "es": "Sustituir la explicación del jardín de rosales por una formulación más cauta: no se ha encontrado una fuente autorizada que confirme una antigua finca o jardín con rosales como origen del nombre."
+    },
+    {
+      "en": "The input row lists the neighborhood as Rejas, but the station area and the named-after place are better identified with Rosas/Las Rosas in San Blas-Canillejas.",
+      "es": "La fila de entrada indica el barrio Rejas, pero el entorno de la estación y el lugar que le da nombre se identifican mejor con Rosas/Las Rosas, en San Blas-Canillejas."
+    },
+    {
+      "en": "Use 16 March 2011 as the naming/opening date for the station name unless a separate formal naming resolution is later found.",
+      "es": "Usar el 16 de marzo de 2011 como fecha de denominación/apertura de la estación salvo que más adelante aparezca una resolución formal de nomenclatura distinta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A physical or archival planning file for the original Las Rosas sector may explain why the sector itself received the name Las Rosas.",
+      "es": "Un expediente físico o archivístico del sector original de Las Rosas podría explicar por qué el propio sector recibió el nombre Las Rosas."
+    },
+    {
+      "en": "No authoritative source was found for the popular estate/garden theory; it should remain excluded or explicitly marked as unverified.",
+      "es": "No se ha encontrado una fuente autorizada para la teoría popular de la finca o jardín; debe quedar excluida o marcada explícitamente como no verificada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_249/en/summary.short.md",
+      "summary": "content/stations/metro_249/en/summary.md",
+      "story": "content/stations/metro_249/en/story.md",
+      "confidence": "content/stations/metro_249/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_249/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_249/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_249/es/summary.short.md",
+      "summary": "content/stations/metro_249/es/summary.md",
+      "story": "content/stations/metro_249/es/story.md",
+      "confidence": "content/stations/metro_249/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_249/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_249/es/research-note.md"
+    }
+  }
+}

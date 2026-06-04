@@ -1,0 +1,111 @@
+{
+  "id": "metro_162",
+  "name": "Manoteras",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Manoteras (area/neighbourhood in Hortaleza)",
+  "previous_names": "No former station name found. Older place-name forms: Las Manoteras; Casas de Las Manoteras; Las Manoteras Altas; Las Manoteras Bajas; Barranco Manoteras is reported on a 1962 IGN map by local history sources.",
+  "naming_date": "11 April 2007",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Manoteras",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_265.aspx",
+      "type": "official",
+      "relevance_en": "Official transport page confirming Manoteras as a Metro station on line 4, with access information in the Manoteras vestibule.",
+      "relevance_es": "Página oficial de transporte que confirma Manoteras como estación de Metro de la línea 4, con información de accesos del vestíbulo Manoteras."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: La ampliación de las líneas 4 y 1 de Metro beneficiará a 60.000 ciudadanos",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/La-ampliacion-de-las-lineas-4-y-1-de-Metro-beneficiara-a-60-000-ciudadanos/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=01d584a38dfd1110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal news item for the 11 April 2007 inauguration of the Metro extensions; search extract states that line 4 gained Manoteras, Hortaleza and Pinar de Chamartín.",
+      "relevance_es": "Noticia municipal sobre la inauguración del 11 de abril de 2007 de las ampliaciones de Metro; el extracto localizado indica que la línea 4 incorporó Manoteras, Hortaleza y Pinar de Chamartín."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Estudio sociodemográfico de los barrios de Madrid - PIBA, Manoteras",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/Publicaciones_Fondo_Documental/Estudio_Sociologico_Barrios_PIBA/Estudio_PIBA_2019_II-parte-primera.pdf",
+      "type": "official",
+      "relevance_en": "Municipal PDF stating that Manoteras originated in a zone auctioned in 1807, Las Manoteras, between Fuencarral, Hortaleza and Chamartín, and summarising later neighbourhood development.",
+      "relevance_es": "PDF municipal que afirma que Manoteras tiene su origen en una zona subastada en 1807, Las Manoteras, entre Fuencarral, Hortaleza y Chamartín, y resume el desarrollo posterior del barrio."
+    },
+    {
+      "title": "Asociación Vecinal Manoteras: Historias de Manoteras",
+      "url": "https://www.avmanoteras.org/el-barrio/historia/",
+      "type": "other",
+      "relevance_en": "Neighbourhood association page repeating the 1807 Las Manoteras reference and describing the old path, valley and houses of Las Manoteras.",
+      "relevance_es": "Página de la asociación vecinal que repite la referencia de 1807 a Las Manoteras y describe el antiguo camino, valle y casas de Las Manoteras."
+    },
+    {
+      "title": "Historias Matritenses: Manoteras, o el barrio de Santiago Apóstol",
+      "url": "https://historias-matritenses.blogspot.com/2015/02/manoteras-o-el-barrio-de-santiago.html",
+      "type": "other",
+      "relevance_en": "Detailed local-history article giving the 1807 reference, old landscape context, map evidence, and the note attributing the Lumba Altaria > Lomaotera > La Manotera derivation to Emilio Nieto Ballester via Jesús Rodríguez Morales.",
+      "relevance_es": "Artículo detallado de historia local que aporta la referencia de 1807, el contexto paisajístico antiguo, evidencia cartográfica y la nota que atribuye la derivación Lumba Altaria > Lomaotera > La Manotera a Emilio Nieto Ballester a través de Jesús Rodríguez Morales."
+    },
+    {
+      "title": "Y mis estaciones se llaman así por…",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2023/03/7pag-MetroEstaciones.pdf",
+      "type": "book",
+      "relevance_en": "Book excerpt on Madrid station names; the Manoteras entry states the station opened on 11 April 2007, takes the name from the Manoteras/Apóstol Santiago area, cites the 1807 Las Manoteras land auction, and explains the word as 'lomas altas'.",
+      "relevance_es": "Extracto de un libro sobre nombres de estaciones de Madrid; la entrada de Manoteras indica que la estación abrió el 11 de abril de 2007, toma el nombre de Manoteras/Apóstol Santiago, cita la subasta de terrenos de Las Manoteras en 1807 y explica la palabra como 'lomas altas'."
+    },
+    {
+      "title": "Universidad Autónoma de Madrid: Breve diccionario de topónimos españoles",
+      "url": "https://uam.scimarina.org/es/ipublic/item/6321644",
+      "type": "academic",
+      "relevance_en": "Institutional bibliographic record confirming the 1997 toponymic dictionary by Emilio Nieto Ballester and Araceli Striano; useful for identifying the cited authority, though not for inspecting the Manoteras entry.",
+      "relevance_es": "Registro bibliográfico institucional que confirma el diccionario toponímico de 1997 de Emilio Nieto Ballester y Araceli Striano; útil para identificar la autoridad citada, aunque no permite consultar la entrada de Manoteras."
+    },
+    {
+      "title": "memoriademadrid: Acceso estación de Hortaleza",
+      "url": "https://www.memoriademadrid.es/view/388195",
+      "type": "archive",
+      "relevance_en": "Madrid municipal archive item from Metro de Madrid photographic material noting that the line 4 extension opened on 11 April 2007 with Hortaleza, Manoteras and Pinar de Chamartín.",
+      "relevance_es": "Ficha del archivo municipal memoriademadrid, procedente de material fotográfico de Metro de Madrid, que señala que la ampliación de la línea 4 se inauguró el 11 de abril de 2007 con Hortaleza, Manoteras y Pinar de Chamartín."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Keep the etymology type as place, but phrase the Latin derivation as an attributed philological explanation rather than as directly verified from the dictionary unless the printed entry is inspected.",
+      "es": "Mantener el tipo etimológico como lugar, pero formular la derivación latina como explicación filológica atribuida, no como comprobada directamente en el diccionario, salvo que se consulte la entrada impresa."
+    },
+    {
+      "en": "The current neighbourhood should be identified as Apóstol Santiago; 'Santiago Apóstol' appears in some local narratives but is not the administrative neighbourhood name used in the input.",
+      "es": "El barrio actual debe identificarse como Apóstol Santiago; 'Santiago Apóstol' aparece en algunos relatos locales, pero no es el nombre administrativo usado en la ficha de entrada."
+    },
+    {
+      "en": "The first-documentation statement should say that local and municipal sources cite 1807, not that the original 1807 record has been independently verified here.",
+      "es": "La afirmación sobre la primera documentación debe decir que fuentes locales y municipales citan 1807, no que aquí se haya comprobado independientemente el documento original de 1807."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Emilio Nieto Ballester, Breve diccionario de topónimos españoles (Alianza, 1997), specifically the Manoteras or related entry, to verify the exact wording and forms of the proposed derivation.",
+      "es": "Consultar Emilio Nieto Ballester, Breve diccionario de topónimos españoles (Alianza, 1997), en concreto la entrada de Manoteras o una relacionada, para verificar la redacción exacta y las formas de la derivación propuesta."
+    },
+    {
+      "en": "Locate the original July 1807 auction notice, likely in a periodical or official gazette archive, to confirm the earliest cited appearance of Las Manoteras.",
+      "es": "Localizar el anuncio original de subasta de julio de 1807, probablemente en una hemeroteca o gaceta oficial, para confirmar la primera aparición citada de Las Manoteras."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_162/en/summary.short.md",
+      "summary": "content/stations/metro_162/en/summary.md",
+      "story": "content/stations/metro_162/en/story.md",
+      "confidence": "content/stations/metro_162/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_162/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_162/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_162/es/summary.short.md",
+      "summary": "content/stations/metro_162/es/summary.md",
+      "story": "content/stations/metro_162/es/story.md",
+      "confidence": "content/stations/metro_162/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_162/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_162/es/research-note.md"
+    }
+  }
+}

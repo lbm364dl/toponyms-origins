@@ -1,0 +1,9 @@
+The station name is topographic first: **Avenida de la Ilustración** is named after the nearby avenue. The Line 7 station was built under the Islas Cíes and Fermín Caballero area and entered service on 29 March 1999, when Metro reached the north-western end of the city at Pitis.
+
+Behind the avenue name is **La Ilustración**, the Enlightenment. In Spanish, the capitalized term refers to the eighteenth-century philosophical and cultural movement that placed special value on reason, knowledge and progress. That makes the station name unusual in the Metro map: it does not commemorate a single person, saint or district, but an intellectual era.
+
+The avenue itself is a late twentieth-century urban work. Madrid planned this north-western closure of the M-30 for decades: the City Council’s heritage account links the project to ideas already present in the 1963 General Plan, the 1972 arterial-road project and the 1985 General Plan. Construction was under way by 1986, and the new road opened to traffic on 14 April 1992.
+
+The name also belongs to a very visible local landmark. Andreu Alfaro’s **Puerta de la Ilustración**, popularly known as Los Arcos, stands by the avenue near La Vaguada; the City Council describes it as inseparable from the origin and development of this large western artery. The Metro extension had to pass under the M-30 here, making the station’s setting both a naming clue and an engineering challenge.
+
+The best-supported etymology is therefore indirect but clear: station -> avenue -> Enlightenment. The broad Carlos III background often attached to the word Ilustración is historically relevant to Madrid’s eighteenth-century reforms, but I found no source saying that the station or the avenue was named specifically for Carlos III. No earlier station name was found.

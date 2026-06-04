@@ -1,0 +1,1 @@
+El origen estación-calle queda verificado por fuentes de transporte y municipales. El origen bilbaíno Askao está sólidamente respaldado por Auñamendi y por fuentes de onomástica vasca, pero no se ha localizado el acuerdo municipal concreto que dio nombre a la calle de Ascao en Madrid; por eso la cadena completa debe quedar como probable y no como plenamente verificada.

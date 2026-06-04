@@ -1,0 +1,1 @@
+The lexical etymology of 'congosto' as a narrow mountain pass or gorge from Latin coangustus is well supported. The station, however, is more directly named after Calle del Congosto and the local Congosto area/colony, not an official Madrid neighbourhood; the local reason for the street name itself remains unverified.

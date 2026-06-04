@@ -1,0 +1,1 @@
+The row is substantially correct: La Gavia belongs to the local place-name family derived from the Arroyo de La Gavia, and the dictionary explanation of gavia as a drainage ditch from Latin cavea is supported by the RAE. The main nuance is that the station is more immediately named from Avenida de la Gavia, with the arroyo behind the avenue and wider toponym.

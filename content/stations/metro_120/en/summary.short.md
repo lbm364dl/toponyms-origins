@@ -1,0 +1,1 @@
+Casa de Campo station is named for the vast park on Madrid's western edge, a former royal estate developed from the Vargas family's country house and acquired by Philip II in the sixteenth century. The modern interchange opened in 2002 where lines 5 and 10 meet at the park's southern edge.

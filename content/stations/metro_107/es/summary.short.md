@@ -1,0 +1,1 @@
+La estación de Plaza de Castilla toma su nombre de la gran plaza del norte de Madrid bajo la que se sitúa. La plaza se planificó en los años cuarenta donde confluían antiguos caminos hacia el norte con la nueva Avenida del Generalísimo, después de nuevo Paseo de la Castellana.

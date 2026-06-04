@@ -1,0 +1,1 @@
+Hospital del Henares is named for the public hospital beside the station in Coslada. The hospital name reaches back to the Henares River, a Castilian toponym linked to hay meadows along the river valley.

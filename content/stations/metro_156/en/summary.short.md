@@ -1,0 +1,1 @@
+Manuel de Falla station takes its name from Calle Manuel de Falla in Alcobendas, honouring Manuel de Falla y Matheu (1876-1946), one of the central Spanish composers of the twentieth century. The station opened with MetroNorte on 26 April 2007.

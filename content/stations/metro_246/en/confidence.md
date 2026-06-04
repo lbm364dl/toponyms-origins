@@ -1,0 +1,1 @@
+The direct station-name origin is verified by transport and municipal context: it is a place-name station in the historic district of Villa de Vallecas. Confidence is kept at probable rather than fully verified for the deeper Vallecas etymology because the medieval form is clear but the linguistic derivation remains disputed among several hypotheses.

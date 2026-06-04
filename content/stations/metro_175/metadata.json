@@ -1,0 +1,96 @@
+{
+  "id": "metro_175",
+  "name": "Barrio del Puerto",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio del Puerto, Coslada; the neighbourhood name refers to the Puerto Seco de Madrid-Coslada",
+  "previous_names": "",
+  "naming_date": "2007-05-05",
+  "sources": [
+    {
+      "title": "CRTM - Barrio del Puerto station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_287?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the station name, Line 7 connection, fare zone and access at Avenida de España, 8 in Coslada.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre de la estación, la conexión con la línea 7, la zona tarifaria y el acceso en avenida de España, 8, Coslada."
+    },
+    {
+      "title": "AENA ve \"razonable\" el plan",
+      "url": "https://elpais.com/diario/1998/12/13/sociedad/913503613_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report stating that the new Barrio del Puerto would owe its name to the Puerto Seco planned for Coslada.",
+      "relevance_es": "Noticia contemporánea que afirma que el nuevo Barrio del Puerto debía su nombre al Puerto Seco previsto en Coslada."
+    },
+    {
+      "title": "El 'puerto seco' de Coslada se convertirá en la quinta aduana marítima de España",
+      "url": "https://elpais.com/diario/2002/07/08/madrid/1026127463_850215.html",
+      "type": "press",
+      "relevance_en": "Explains that the dry port project dated to 1995 and began operating in March 2001 with links to Valencia, Bilbao, Algeciras and Barcelona.",
+      "relevance_es": "Explica que el proyecto del puerto seco se remontaba a 1995 y empezó a funcionar en marzo de 2001 con conexiones a Valencia, Bilbao, Algeciras y Barcelona."
+    },
+    {
+      "title": "Puerto Seco de Madrid - Coslada",
+      "url": "https://www.portdebarcelona.cat/es/negocio-y-servicios/servicios/servicios-intermodales/terminales-maritimas-interiores/puerto-seco-de",
+      "type": "official",
+      "relevance_en": "Official Port of Barcelona page describing Puerto Seco de Madrid-Coslada, its participation by major ports and its regular rail links with Algeciras, Barcelona, Bilbao and Valencia.",
+      "relevance_es": "Página oficial del Port de Barcelona que describe el Puerto Seco de Madrid-Coslada, su participación por grandes puertos y sus conexiones ferroviarias regulares con Algeciras, Barcelona, Bilbao y Valencia."
+    },
+    {
+      "title": "La línea 7 de metro 'se estira' hasta Coslada y San Fernando",
+      "url": "https://elpais.com/diario/2007/05/05/madrid/1178364264_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Documents the opening of MetroEste on 5 May 2007 and identifies Barrio del Puerto as part of the new Line 7 extension.",
+      "relevance_es": "Documenta la apertura de MetroEste el 5 de mayo de 2007 e identifica Barrio del Puerto como parte de la nueva prolongación de la línea 7."
+    },
+    {
+      "title": "Barrio del Puerto - Asociación de Vecinos del Barrio del Puerto de Coslada",
+      "url": "https://www.barriodelpuerto.org/el-barrio/la-historia-del-barrio/",
+      "type": "other",
+      "relevance_en": "Local neighbourhood source describing the modern neighbourhood's identity, explorer sculptures, green surroundings and transport connections.",
+      "relevance_es": "Fuente vecinal local que describe la identidad del barrio moderno, las esculturas de exploradores, su entorno verde y sus conexiones de transporte."
+    },
+    {
+      "title": "Modificación Puntual del PGOU de Coslada. Documento I - Memoria",
+      "url": "https://coslada.es/politica-territorial/wp-content/uploads/sites/6/2023/01/Documento-I-MEMORIA.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document identifying AH-06 as 'Bº del Puerto' and describing it as a recent residential and mixed-use area urbanized in the early twenty-first century.",
+      "relevance_es": "Documento urbanístico municipal que identifica el AH-06 como 'Bº del Puerto' y lo describe como un ámbito residencial mixto reciente urbanizado a principios del siglo XXI."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Avoid implying that the station is directly named after the logistics terminal; the direct namesake is the neighbourhood, whose name refers to the Puerto Seco.",
+      "es": "Conviene evitar decir que la estación toma directamente el nombre de la terminal logística; el referente directo es el barrio, cuyo nombre alude al Puerto Seco."
+    },
+    {
+      "en": "Replace 'Spain's four largest seaports' with 'the ports of Algeciras, Barcelona, Bilbao and Valencia' or 'major Spanish ports', unless a specific traffic-ranking source is added.",
+      "es": "Sustituir 'los cuatro principales/mayores puertos marítimos de España' por 'los puertos de Algeciras, Barcelona, Bilbao y Valencia' o 'grandes puertos españoles', salvo que se añada una fuente específica de clasificación por tráfico."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal planning file or street-naming record could further confirm the formal date when 'Barrio del Puerto' was adopted as the neighbourhood name.",
+      "es": "Un expediente urbanístico municipal o un acuerdo de denominación viaria podría confirmar mejor la fecha formal en que se adoptó 'Barrio del Puerto' como nombre del barrio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_175/en/summary.short.md",
+      "summary": "content/stations/metro_175/en/summary.md",
+      "story": "content/stations/metro_175/en/story.md",
+      "confidence": "content/stations/metro_175/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_175/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_175/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_175/es/summary.short.md",
+      "summary": "content/stations/metro_175/es/summary.md",
+      "story": "content/stations/metro_175/es/story.md",
+      "confidence": "content/stations/metro_175/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_175/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_175/es/research-note.md"
+    }
+  }
+}

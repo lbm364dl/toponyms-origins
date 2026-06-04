@@ -1,0 +1,1 @@
+La afirmación principal de que la estación toma su nombre del barrio de San Lorenzo queda verificada por la Comunidad de Madrid. La mención adicional a una parroquia no queda respaldada por las fuentes más sólidas localizadas, y la biografía del santo debe presentarse como tradición hagiográfica, no como hechos igualmente comprobados.

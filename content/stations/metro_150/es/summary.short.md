@@ -1,0 +1,1 @@
+La estación de Rivas Vaciamadrid lleva el nombre del municipio de Rivas-Vaciamadrid, formado históricamente por Ribas/Rivas de Jarama y Vaciamadrid. El segundo elemento es un topónimo madrileño de origen árabe discutido, documentado por Jaime Oliver Asín como evolución de Fahs Mayrit mediante formas medievales y posterior etimología popular.

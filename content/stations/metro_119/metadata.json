@@ -1,0 +1,100 @@
+{
+  "id": "metro_119",
+  "name": "Lago",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Lago de la Casa de Campo",
+  "previous_names": "No official former station name found; some local and historical references use or argue for the form El Lago.",
+  "naming_date": "1961",
+  "sources": [
+    {
+      "title": "Lago de la Casa de Campo - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Un-paseo-por-su-historia/La-ciudad-desde-la-llegada-de-la-Corte/Lago-de-la-Casa-de-Campo/?vgnextchannel=94321cf0ceca8110VgnVCM1000000b205a0aRCRD&vgnextoid=5804334a68a2f210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official City Council page identifying the Casa de Campo Lake, its present dimensions and recreational, ornamental, and sporting uses.",
+      "relevance_es": "Página oficial del Ayuntamiento que identifica el Lago de la Casa de Campo, sus dimensiones actuales y sus usos ornamentales, recreativos y deportivos."
+    },
+    {
+      "title": "Casa de Campo Lake - Official Madrid Tourism",
+      "url": "https://www.esmadrid.com/en/tourist-information/lago-de-la-casa-de-campo",
+      "type": "official",
+      "relevance_en": "Official tourism source stating that the artificial lake originated in the 16th-century landscaping project ordered by Felipe II and giving Metro access as Lago on line 10.",
+      "relevance_es": "Fuente turística oficial que indica que el lago artificial procede del proyecto paisajístico del siglo XVI ordenado por Felipe II y que señala el acceso en Metro por Lago, línea 10."
+    },
+    {
+      "title": "Casa de Campo - Official Madrid Tourism",
+      "url": "https://www.esmadrid.com/barrios-de-madrid/casa-campo",
+      "type": "official",
+      "relevance_en": "Official source for Casa de Campo’s 1,722-hectare size, royal history after Felipe II’s move of the court to Madrid, and transfer to public ownership in 1931.",
+      "relevance_es": "Fuente oficial para la extensión de 1.722 hectáreas de la Casa de Campo, su historia real tras el traslado de la corte por Felipe II y su paso a dominio público en 1931."
+    },
+    {
+      "title": "Los cinco estanques de la Casa de Campo: Origen del gran Lago",
+      "url": "https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/07/Los-estanques-de-la-Casa-de-Campo-3.pdf",
+      "type": "official",
+      "relevance_en": "Madrid City Council environmental education PDF explaining the 16th-century five-pond system, the Teixeira-plan names, later uses, and the 19th-century formation of the present lake.",
+      "relevance_es": "PDF municipal de educación ambiental que explica el sistema de cinco estanques del siglo XVI, los nombres del plano de Teixeira, los usos posteriores y la formación decimonónica del lago actual."
+    },
+    {
+      "title": "La Línea 10 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-10-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Regional transport infrastructure page stating that the Plaza de España-Carabanchel suburban railway entered service on 6 February 1961 and that Lago was one of its surface stations.",
+      "relevance_es": "Página regional de infraestructuras de transporte que indica que el suburbano Plaza de España-Carabanchel entró en servicio el 6 de febrero de 1961 y que Lago era una de sus estaciones en superficie."
+    },
+    {
+      "title": "Estación de Lago - memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/386043/estacion-de-lago",
+      "type": "archive",
+      "relevance_en": "Municipal digital archive record from Metro de Madrid’s photographic archive, describing Lago station and linking it to the former Carabanchel suburban railway opened in 1961.",
+      "relevance_es": "Registro del archivo digital municipal procedente del Archivo fotográfico de Metro de Madrid, que describe la estación de Lago y la vincula al antiguo Suburbano de Carabanchel abierto en 1961."
+    },
+    {
+      "title": "Variante de la Línea 10 de Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/variante-linea-10-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Official regional source documenting the later line 10 variant between Lago, Príncipe Pío, and Plaza de España, useful for transport chronology and the station’s role in the line.",
+      "relevance_es": "Fuente regional oficial que documenta la variante posterior de la línea 10 entre Lago, Príncipe Pío y Plaza de España, útil para la cronología de transporte y el papel de la estación en la línea."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the simplified statement that the lake was created in the 18th century with a fuller chronology: five artificial ponds were built in the 16th century and the present lake form emerged through later, especially 19th-century, reshaping.",
+      "es": "Sustituir la afirmación simplificada de que el lago fue creado en el siglo XVIII por una cronología más completa: cinco estanques artificiales se construyeron en el siglo XVI y la forma actual del lago surgió mediante transformaciones posteriores, especialmente del siglo XIX."
+    },
+    {
+      "en": "Review the input district metadata: the station is commonly associated with the Casa de Campo area, and some sources place that area in Moncloa-Aravaca rather than Latina.",
+      "es": "Revisar el distrito indicado en la ficha: la estación se asocia habitualmente al ámbito de Casa de Campo, y algunas fuentes sitúan esa zona en Moncloa-Aravaca y no en Latina."
+    },
+    {
+      "en": "Avoid relying on Wikipedia or blog sources for the main claim when Madrid municipal and regional transport sources provide stronger evidence.",
+      "es": "Evitar basar la afirmación principal en Wikipedia o blogs cuando existen fuentes municipales y regionales de transporte más sólidas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect original 1961 Ferrocarril Suburbano de Carabanchel timetables, maps, or station signage to confirm whether the official opening name was printed as Lago or El Lago.",
+      "es": "Consultar planos, horarios o rotulación original de 1961 del Ferrocarril Suburbano de Carabanchel para confirmar si el nombre oficial inicial apareció como Lago o El Lago."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_119/en/summary.short.md",
+      "summary": "content/stations/metro_119/en/summary.md",
+      "story": "content/stations/metro_119/en/story.md",
+      "confidence": "content/stations/metro_119/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_119/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_119/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_119/es/summary.short.md",
+      "summary": "content/stations/metro_119/es/summary.md",
+      "story": "content/stations/metro_119/es/story.md",
+      "confidence": "content/stations/metro_119/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_119/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_119/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "metro_108",
+  "name": "Alvarado",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Pedro de Alvarado y Contreras",
+  "previous_names": "",
+  "naming_date": "1929-03-06",
+  "sources": [
+    {
+      "title": "CRTM - Alvarado",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_5",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station, Line 1 service, fare zone and Bravo Murillo accesses.",
+      "relevance_es": "Página oficial de transporte que confirma la estación actual, el servicio de la línea 1, la zona tarifaria y los accesos en Bravo Murillo."
+    },
+    {
+      "title": "Metro de Madrid, Museos Metro - Alvarado, Huellas del pasado",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-alvarado.pdf",
+      "type": "official",
+      "relevance_en": "Metro historical sheet documenting the station's location, its 1929 opening, the Cuatro Caminos-Tetuán extension, the Chamartín de la Rosa context and the 1926 station plan.",
+      "relevance_es": "Ficha histórica de Metro que documenta la ubicación de la estación, su inauguración en 1929, la prolongación Cuatro Caminos-Tetuán, el contexto de Chamartín de la Rosa y el plano de replanteo de 1926."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official street gazetteer confirming Calle de Alvarado in the Tetuán district and its route from Bravo Murillo to Tenerife.",
+      "relevance_es": "Callejero oficial que confirma la calle de Alvarado en el distrito de Tetuán y su recorrido desde Bravo Murillo hasta Tenerife."
+    },
+    {
+      "title": "Metro de Madrid cuenta la historia del nombre de sus estaciones",
+      "url": "https://www.atuc.es/noticias/metro-madrid-cuenta-historia-nombre-de-sus-estaciones.html",
+      "type": "press",
+      "relevance_en": "Reports the Metro de Madrid and Real Academia de la Historia campaign explaining station names tied to historical figures, explicitly including Alvarado among them.",
+      "relevance_es": "Informa de la campaña de Metro de Madrid y la Real Academia de la Historia para explicar nombres de estaciones vinculados a personajes históricos, incluyendo expresamente Alvarado."
+    },
+    {
+      "title": "Pedro de Alvarado | Real Academia de la Historia, Historia Hispánica",
+      "url": "https://historia-hispanica.rah.es/biografias/2508-pedro-de-alvarado",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Pedro de Alvarado used to anchor the named-after identification.",
+      "relevance_es": "Referencia biográfica autorizada sobre Pedro de Alvarado usada para fijar la identificación del personaje."
+    },
+    {
+      "title": "Estación de Alvarado - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Alvarado",
+      "type": "reference",
+      "relevance_en": "Secondary station page stating the conventional etymology: the station is named for Calle de Alvarado, dedicated to Pedro de Alvarado; useful but not treated as the sole authority.",
+      "relevance_es": "Página secundaria de la estación que recoge la etimología convencional: la estación toma el nombre de la calle de Alvarado, dedicada a Pedro de Alvarado; útil, pero no usada como única autoridad."
+    },
+    {
+      "title": "Telling violence: the Toxcatl massacre at the Templo Mayor in sixteenth-century sources",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/14701847.2016.1223463",
+      "type": "academic",
+      "relevance_en": "Academic article on the Tóxcatl/Templo Mayor massacre and the way sixteenth-century sources attribute responsibility to Pedro de Alvarado.",
+      "relevance_es": "Artículo académico sobre la matanza de Tóxcatl o del Templo Mayor y sobre cómo las fuentes del siglo XVI atribuyen la responsabilidad a Pedro de Alvarado."
+    },
+    {
+      "title": "Atemorizar la tierra: Pedro de Alvarado y la conquista de Guatemala, 1520-1541 - review in Relaciones / SciELO",
+      "url": "https://www.scielo.org.mx/article_plus.php?lng=es&pid=S0185-39292017000300325&tlng=es",
+      "type": "academic",
+      "relevance_en": "Academic review of a major modern study on Alvarado and the conquest of Guatemala, supporting the Central American context and violent-conquest framing.",
+      "relevance_es": "Reseña académica de un estudio moderno relevante sobre Alvarado y la conquista de Guatemala, que apoya el contexto centroamericano y el encuadre de conquista violenta."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 6 March 1929 as the station opening and practical naming date, not 3 June 1929.",
+      "es": "Usar el 6 de marzo de 1929 como fecha de apertura de la estación y fecha práctica de denominación, no el 3 de junio de 1929."
+    },
+    {
+      "en": "Replace broad 'Aztecs' wording with the more precise Mexica/Nahua context where possible.",
+      "es": "Sustituir la formulación amplia 'aztecas' por el contexto más preciso mexica/nahua cuando sea posible."
+    },
+    {
+      "en": "Clarify that Alvarado died from injuries after being run over by a horse near Nochistlán during the Mixtón War; describing this only as a failed campaign in Jalisco is imprecise.",
+      "es": "Aclarar que Alvarado murió por las heridas sufridas al ser arrollado por un caballo cerca de Nochistlán durante la guerra del Mixtón; describirlo solo como una campaña fallida en Jalisco es impreciso."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact Madrid municipal street-naming act for Calle de Alvarado was not located online and should be checked in Archivo de Villa or a full street-name dictionary entry.",
+      "es": "No se localizó en línea el acuerdo municipal exacto de denominación de la calle de Alvarado; convendría comprobarlo en el Archivo de Villa o en una entrada completa de un diccionario de calles."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_108/en/summary.short.md",
+      "summary": "content/stations/metro_108/en/summary.md",
+      "story": "content/stations/metro_108/en/story.md",
+      "confidence": "content/stations/metro_108/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_108/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_108/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_108/es/summary.short.md",
+      "summary": "content/stations/metro_108/es/summary.md",
+      "story": "content/stations/metro_108/es/story.md",
+      "confidence": "content/stations/metro_108/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_108/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_108/es/research-note.md"
+    }
+  }
+}

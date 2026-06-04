@@ -1,0 +1,1 @@
+The station-to-neighborhood link is secure, and the station is documented as opening as Ventilla on 3 June 1983. The linguistic elements are authoritative, but the exact historical inn behind the neighborhood name is supported by local secondary sources rather than an official archival toponymy record.

@@ -1,0 +1,114 @@
+{
+  "id": "metro_130",
+  "name": "Suanzes",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Juan Antonio Suanzes Fernández, I marqués de Suanzes",
+  "previous_names": "",
+  "naming_date": "1980-01-18",
+  "sources": [
+    {
+      "title": "CRTM: Suanzes station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_76?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms current station name, Line 5 service, fare zone A, and accesses on Calle de Alcalá 506 and 527.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 5, la zona tarifaria A y los accesos en la calle de Alcalá 506 y 527."
+    },
+    {
+      "title": "memoriademadrid: Inauguración tramo de línea 5 Ciudad Lineal-Canillejas",
+      "url": "https://www.memoriademadrid.es/view/389763/inauguracion-tramo-de-linea-5-ciudad-lineal-canillejas",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record dated 18 January 1980; describes the Line 5 extension and lists Suanzes, Torre Arias, and Canillejas as the three stations.",
+      "relevance_es": "Registro del archivo fotográfico de Metro de Madrid fechado el 18 de enero de 1980; describe la prolongación de la línea 5 y enumera Suanzes, Torre Arias y Canillejas como las tres estaciones."
+    },
+    {
+      "title": "BOE-A-1960-14040: Decreto 1830/1960, Marqués de Suanzes",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1960-14040",
+      "type": "official",
+      "relevance_en": "Primary legal source proving the marquisate was granted to Juan Antonio Suanzes y Fernández in 1960, not posthumously.",
+      "relevance_es": "Fuente legal primaria que prueba que el marquesado fue concedido a Juan Antonio Suanzes y Fernández en 1960, no de forma póstuma."
+    },
+    {
+      "title": "Real Academia de la Historia: Juan Antonio Suanzes Fernández",
+      "url": "https://historia-hispanica.rah.es/biografias/41704-juan-antonio-suanzes-fernandez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry for Suanzes; the RAH biography was also the basis for Metro's station biographical panel.",
+      "relevance_es": "Entrada biográfica autorizada sobre Suanzes; la biografía de la RAH fue además la base del panel biográfico instalado en la estación."
+    },
+    {
+      "title": "datos.bne.es: Suanzes, Juan Antonio (1891-1977)",
+      "url": "https://datos.bne.es/resource/XX1424747",
+      "type": "reference",
+      "relevance_en": "National Library authority record confirming birth and death years, Ferrol and Madrid life data, and professional categories including politician, naval engineer, military officer, and sailor.",
+      "relevance_es": "Registro de autoridad de la Biblioteca Nacional que confirma años de nacimiento y muerte, datos de Ferrol y Madrid, y categorías profesionales como político, ingeniero naval, militar y marino."
+    },
+    {
+      "title": "El País: Metro coloca el retrato de un ministro franquista que obvia su vinculación con la dictadura",
+      "url": "https://elpais.com/ccaa/2016/11/11/madrid/1478865184_226927.html",
+      "type": "press",
+      "relevance_en": "Documents the 2016 public controversy over the Suanzes biographical panel in the station and summarizes his Franco-era offices.",
+      "relevance_es": "Documenta la controversia pública de 2016 por el panel biográfico de Suanzes en la estación y resume sus cargos durante el franquismo."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Acta Pleno Distrito San Blas-Canillejas, 15 de marzo de 2017",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/JuntaDistritos/2017/ODyActasSanBlasCanillejas/Marzo/Acta15marzo17.pdf",
+      "type": "official",
+      "relevance_en": "Records the district debate and majority agreement asking for study of name changes for spaces dedicated to Marqués de Suanzes and requesting that the Metro station be renamed Quinta de los Molinos.",
+      "relevance_es": "Recoge el debate del distrito y el acuerdo mayoritario para pedir el estudio del cambio de nombre de espacios dedicados al Marqués de Suanzes y solicitar que la estación de Metro pasara a llamarse Quinta de los Molinos."
+    },
+    {
+      "title": "BOE-A-2022-17099: Ley 20/2022, de 19 de octubre, de Memoria Democrática",
+      "url": "https://boe.es/buscar/doc.php?id=BOE-A-2022-17099",
+      "type": "official",
+      "relevance_en": "Primary legal source confirming that the title Marqués de Suanzes was among the nobiliary titles suppressed by the Democratic Memory Law.",
+      "relevance_es": "Fuente legal primaria que confirma que el título de marqués de Suanzes figura entre los títulos nobiliarios suprimidos por la Ley de Memoria Democrática."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Catálogo de Parques Municipales, Quinta de los Molinos",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/TodoSobre/ContenidosTemporales/Cat%C3%A1logoParques/CATALOGO%20DE%20PARQUES%20MUNICIPALES%20MADRID_BAJA%20RESOLUCI%C3%93N%2003.08.2021.pdf",
+      "type": "official",
+      "relevance_en": "Places Quinta de los Molinos at Calle Alcalá 527 in the Salvador neighborhood of San Blas-Canillejas and lists Suanzes as the Metro access.",
+      "relevance_es": "Sitúa la Quinta de los Molinos en la calle Alcalá 527, barrio de Salvador, distrito de San Blas-Canillejas, y enumera Suanzes como acceso en Metro."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The title Marqués de Suanzes was not a posthumous honour: BOE records show it was granted to Juan Antonio Suanzes y Fernández by decree of 1 September 1960, published on 1 October 1960, while he was alive.",
+      "es": "El título de marqués de Suanzes no fue un honor póstumo: el BOE recoge que se concedió a Juan Antonio Suanzes y Fernández por decreto de 1 de septiembre de 1960, publicado el 1 de octubre de 1960, cuando aún vivía."
+    },
+    {
+      "en": "The input district appears to be wrong: current transport and municipal context place the station by Calle de Alcalá 506/527 and the Quinta de los Molinos area in San Blas-Canillejas, not Ciudad Lineal.",
+      "es": "El distrito de entrada parece incorrecto: la información actual de transporte y el contexto municipal sitúan la estación junto a la calle de Alcalá 506/527 y el entorno de la Quinta de los Molinos, en San Blas-Canillejas, no en Ciudad Lineal."
+    },
+    {
+      "en": "The title Marqués de Suanzes should be described as historical: it was suppressed by Law 20/2022 of Democratic Memory.",
+      "es": "El título de marqués de Suanzes debe describirse como histórico: fue suprimido por la Ley 20/2022 de Memoria Democrática."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming file or original Metro naming resolution for the 1980 station would be useful to prove whether the name was assigned directly for Juan Antonio Suanzes or indirectly from the surrounding Marqués de Suanzes locality.",
+      "es": "Sería útil localizar un expediente municipal de denominación o la resolución original de Metro de 1980 para probar si el nombre se asignó directamente por Juan Antonio Suanzes o indirectamente por el entorno denominado Marqués de Suanzes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_130/en/summary.short.md",
+      "summary": "content/stations/metro_130/en/summary.md",
+      "story": "content/stations/metro_130/en/story.md",
+      "confidence": "content/stations/metro_130/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_130/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_130/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_130/es/summary.short.md",
+      "summary": "content/stations/metro_130/es/summary.md",
+      "story": "content/stations/metro_130/es/story.md",
+      "confidence": "content/stations/metro_130/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_130/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_130/es/research-note.md"
+    }
+  }
+}

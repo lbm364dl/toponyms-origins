@@ -1,0 +1,1 @@
+Alonso Cano station is named from Calle de Alonso Cano in Chamberí, itself honoring the Granadan Baroque artist Alonso Cano (1601-1667). Cano was celebrated for working across painting, sculpture, architecture and drawing.

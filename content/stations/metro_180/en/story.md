@@ -1,0 +1,9 @@
+The station name **Henares** points first to the Henares River. The stop is on Line 7 in San Fernando de Henares, at Avenida de Algorta, within the eastern metropolitan corridor where the river gives its name to towns, transport destinations, and a whole regional identity.
+
+The older name behind the station is not a person or a modern institution, but a landscape word. Toponomasticon Hispaniae, in an entry by E. Nieto Ballester, explains **Henares** as the plural of **henar**, meaning a place populated by hay. In other words, the river-name evokes hayfields or grassy riverside ground rather than a single historical event.
+
+That explanation also gives the name a layered chronology. The base word belongs ultimately to the Latin family of *fenum*, 'hay', but the toponymic form is described as a Romance collective, not as an inherited ancient river-name. The same source notes that the current hydronym probably replaced an earlier name, and records medieval forms such as **Senares** in 1150 and **Henares** in later documentary use.
+
+The river itself runs through Guadalajara and Madrid and passes places whose names preserve the hydronym: Alcalá de Henares, Torrejón de Ardoz, San Fernando de Henares, and Mejorada del Campo among them. For the Metro network, the name entered public transport with MetroEste, the Line 7 extension opened on 5 May 2007 to serve Coslada and San Fernando de Henares; Henares was one of the San Fernando stations.
+
+One detail in some local histories should be handled with care. Several sources say that in the Islamic period the river or its valley was associated with **Wad al-Hayara**, later Guadalajara, often glossed as 'river of stones' or 'valley of fortresses'. That is useful context for the Henares corridor, but it is not the direct origin of the Metro station name. The clearest evidence supports a simple chain: station -> Henares River -> plural of *henar*, hay places.

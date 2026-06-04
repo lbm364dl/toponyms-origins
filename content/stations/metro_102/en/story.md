@@ -1,0 +1,9 @@
+Lista station is a surviving trace of an older Madrid street name. When the station opened in 1932, the nearby east-west street was still known as Calle de Lista; today it is Calle de José Ortega y Gasset. The Metro name therefore preserves the earlier layer of the Salamanca district’s street map.
+
+The older name referred to Alberto Rodríguez de Lista y Aragón, usually known simply as Alberto Lista. Born in Triana, Seville, on 15 October 1775 and deceased in Seville on 5 October 1848, he was a priest, mathematician, poet, journalist, literary critic, professor, and translator. His surname became attached to one of the streets of Madrid’s nineteenth-century Ensanche.
+
+Lista’s reputation was especially tied to teaching. He taught mathematics and humanities, worked in several educational institutions, and became associated with the Colegio Libre de San Mateo in Madrid. Later literary accounts and the Biblioteca Virtual Miguel de Cervantes emphasize his influence on a broad generation of pupils and writers, including figures such as Espronceda, Ventura de la Vega, Eugenio de Ochoa, and others.
+
+The transport history adds another layer. Museos Metro Madrid records that the station opened on 17 September 1932 as part of the Goya-Diego de León branch, initially operated as Line 2B. In 1958 that branch was separated from Line 2 and incorporated into Line 4, which explains why a station born in the early Line 2 network now appears on Line 4.
+
+The surface street changed in 1955, the year José Ortega y Gasset died, when Calle de Lista became Calle de José Ortega y Gasset. The station did not follow that change. For that reason, Lista is a good example of a Metro name that still points to a previous urban toponym, and through it to the nineteenth-century intellectual Alberto Lista.

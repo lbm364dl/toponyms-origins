@@ -1,0 +1,1 @@
+Nueva Numancia station takes its name from a historic Puente de Vallecas neighbourhood already documented in the 1860s. The name probably invoked ancient Numancia, the Celtiberian city remembered as a symbol of resistance to Rome, though a later local-history article notes a possible link with the 1860s frigate Numancia.

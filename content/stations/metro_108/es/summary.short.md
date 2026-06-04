@@ -1,0 +1,1 @@
+La estación de Alvarado toma su nombre de la calle de Alvarado, junto a la parada de la línea 1 en Tetuán. El nombre de la calle remite a Pedro de Alvarado y Contreras, conquistador del siglo XVI vinculado a la conquista de México y Guatemala.

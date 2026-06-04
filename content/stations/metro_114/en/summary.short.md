@@ -1,0 +1,1 @@
+Lucero station takes its name from the Lucero neighbourhood of Madrid's Latina district. The neighbourhood name was already in municipal use by the mid-20th century, but the reason why this local settlement was called Lucero remains undocumented.

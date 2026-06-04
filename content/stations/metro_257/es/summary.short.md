@@ -1,0 +1,1 @@
+Villaverde Alto toma su nombre del antiguo núcleo alto de Villaverde, origen del municipio anexionado a Madrid en 1954. El nombre lo contrapone a Villaverde Bajo, el barrio más bajo que creció junto al ferrocarril al otro lado de la antigua carretera de Andalucía.

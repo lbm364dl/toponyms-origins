@@ -1,0 +1,1 @@
+Portazgo is named for the old Portazgo de Vallecas, a toll point on the road from Madrid toward Valencia. The place-name survived after the toll disappeared and was given to the Line 1 station opened in 1962.

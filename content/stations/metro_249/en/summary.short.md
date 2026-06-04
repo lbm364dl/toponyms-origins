@@ -1,0 +1,1 @@
+Las Rosas station is named for the Las Rosas urban area, today associated with the administrative neighborhood of Rosas in San Blas-Canillejas. The deeper origin of the place-name is unclear; official urban-planning sources trace the modern name to the Las Rosas sector and urbanization, not to a documented rose garden.

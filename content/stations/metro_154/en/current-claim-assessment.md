@@ -1,0 +1,1 @@
+The main claim is correct: the MetroSur station takes its name from the nearby Hospital Universitario Severo Ochoa, whose name honors the Nobel-winning physician and biochemist Severo Ochoa de Albornoz. The hospital opening chronology is supported by official and contemporary sources, but the 1981 construction-start detail needs a stronger non-Wikipedia source.

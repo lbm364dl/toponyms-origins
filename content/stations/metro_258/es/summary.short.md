@@ -1,0 +1,1 @@
+Las Suertes probablemente toma su nombre de la avenida de Las Suertes, denominada oficialmente en el Ensanche de Vallecas en 2006. La palabra suerte puede significar una porción de tierra de labor delimitada, por lo que el nombre conserva probablemente un topónimo rural de parcelas en una zona urbanizada en los años 2000.

@@ -1,0 +1,9 @@
+The station name is direct and local: **Barrio de la Concepción** is the metro stop for the Concepción neighborhood in Madrid's Ciudad Lineal district. Official regional material identifies it as a Line 7 station, and the Community of Madrid's history of Line 7 places the Pueblo Nuevo-Avenida de América section in service in March 1975.
+
+Behind the metro name is a layered neighborhood name. Local historical research traces an older settlement called **Colonia Agrícola La Purísima Concepción** to the mid-19th century, near the junction of the Camino de la Cuerda and the old Carretera de Aragón, today's Calle de Alcalá. The words Purísima Concepción refer to the Catholic Marian title usually known in English as the Immaculate Conception.
+
+The modern neighborhood, however, was shaped especially by 20th-century housing. Architectural historians describe the first phase of the Barrio de la Concepción as one of Madrid's early large private residential developments after the Civil War, promoted by José Banús. La Casa de la Arquitectura notes that a new neighborhood called de la Concepción was planned between 1948 and 1952, with thousands of subsidized flats built during the 1950s.
+
+That postwar district helps explain why a 1975 metro station would use the name. By then Barrio de la Concepción was not simply an old religious toponym but a recognizable urban area, with streets such as Virgen del Sagrario and nearby landmarks including Parque del Calero and the later high-rise blocks known as Las Colmenas.
+
+The safest interpretation is therefore two-step: the station is named after the neighborhood, and the neighborhood name preserves an older Marian dedication. The specific claim that the name was reinforced by a local parish is weaker; I found stronger evidence for the 19th-century colony and the postwar housing development than for a parish as the decisive source of the station name.

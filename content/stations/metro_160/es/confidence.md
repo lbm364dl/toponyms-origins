@@ -1,0 +1,1 @@
+El vínculo directo del nombre está verificado por la página de la Comunidad de Madrid, que indica que la estación da servicio al Barrio de Santa María y toma su nombre de él. El origen más profundo del nombre de la zona es menos seguro, por lo que la tesis parroquial no debe presentarse como verificada.

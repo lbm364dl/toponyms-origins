@@ -1,0 +1,1 @@
+La estación Hospital Severo Ochoa se llama así por el hospital de Leganés situado junto a ella. El hospital honra a Severo Ochoa de Albornoz, bioquímico nacido en España y premio Nobel de Fisiología o Medicina en 1959.

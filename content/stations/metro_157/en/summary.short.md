@@ -1,0 +1,1 @@
+The station takes its name from Calle Marqués de la Valdavia in Alcobendas, which the town council named in 1958 for Mariano Ossorio Arévalo, III Marquess of Valdavia and president of Madrid's Provincial Deputation. The noble title ultimately points back to La Valdavia, a river valley and comarca in Palencia.

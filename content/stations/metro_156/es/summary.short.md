@@ -1,0 +1,1 @@
+La estación de Manuel de Falla toma su nombre de la calle Manuel de Falla de Alcobendas, dedicada a Manuel de Falla y Matheu (1876-1946), uno de los compositores españoles centrales del siglo XX. La estación se inauguró con MetroNorte el 26 de abril de 2007.

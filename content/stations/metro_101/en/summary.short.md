@@ -1,0 +1,1 @@
+Velázquez station is named from Calle de Velázquez, one of the main streets of the Salamanca district. The street honors Diego Rodríguez de Silva y Velázquez, the Sevillian court painter of Philip IV and author of Las Meninas.

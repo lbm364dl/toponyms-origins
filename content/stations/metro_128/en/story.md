@@ -1,0 +1,9 @@
+Mirasierra station is named after the Mirasierra neighbourhood in the district of Fuencarral-El Pardo. For a passenger, the name is local before it is linguistic: it identifies the northern Madrid residential area served by Line 9 around Avenida del Ventisquero de la Condesa.
+
+The word itself is transparent Spanish. Read literally, Mirasierra suggests 'look at the sierra' or 'view of the mountains'. Secondary local sources explain the neighbourhood name through the mountain landscape visible from the higher parts of the area, especially the Sierra de Guadarrama to the north-west of Madrid.
+
+The older place behind the station is the Colonia Mirasierra. Madrid Film Office, using information from the COAM Architecture Foundation, traces the colony's origin to a 1927 project by the Sociedad de Casas Baratas for a large satellite town of single-storey detached houses organised around circular squares. That early garden-suburb idea is the historical root of the name as an urban place.
+
+The colony did not remain frozen in that first form. A 1954 housing plan introduced taller buildings, fixed the definitive location of green areas, and regulated plot occupation; from the 1960s onward, the area grew with collective housing on the perimeter and single-family housing inside. Streets such as La Masó and Nuria, the parish complex of Nuestra Señora de las Nieves, later shops, schools, hospitals and sports facilities all helped turn the colony into a full neighbourhood.
+
+The Metro station is much newer than the name. The Madrid City Council's inauguration notice records that Mirasierra opened on 28 March 2011, extending Line 9 by 1.5 kilometres from Herrera Oria and giving the neighbourhood a new rapid-transit connection. The direct station-name origin is therefore well supported; the exact original intention behind the neighbourhood name is probable rather than fully documented in an official naming act.

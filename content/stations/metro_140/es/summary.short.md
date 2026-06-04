@@ -1,0 +1,1 @@
+Bambú toma su nombre de la calle del Bambú, donde se encuentra el acceso de la estación en Chamartín. La calle forma parte de un pequeño conjunto local de nombres vegetales, con vías como Yuca, Hiedra y Buganvilla.

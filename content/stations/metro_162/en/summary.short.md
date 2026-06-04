@@ -1,0 +1,1 @@
+Manoteras station is named after the surrounding Manoteras area in Hortaleza. The older toponym Las Manoteras is documented in local and municipal histories from 1807 and is explained as referring to high ground or hills in this part of northern Madrid.

@@ -1,0 +1,111 @@
+{
+  "id": "metro_159",
+  "name": "Alto del Arenal",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Colonia Alto del Arenal; literally a high place or elevated sandy ground",
+  "previous_names": "",
+  "naming_date": "7 April 1994 (station opening; current name already in use)",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid: Prolongación de la Línea 1. Tramo Portazgo-Miguel Hernández",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-tramo-portazgo-miguel-hernandez",
+      "type": "official",
+      "relevance_en": "Official source for the Line 1 extension, the 7 April 1994 opening date, and the construction of Alto del Arenal station.",
+      "relevance_es": "Fuente oficial para la prolongación de la línea 1, la fecha de inauguración del 7 de abril de 1994 y la construcción de la estación de Alto del Arenal."
+    },
+    {
+      "title": "CRTM: Alto del Arenal",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_23?lang=es",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the station name, Line 1 service, accesses, fare zone and connections.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma el nombre de la estación, el servicio de la línea 1, accesos, zona tarifaria y correspondencias."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Madrid Recupera, Puente de Vallecas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/EstrategiaRegenaracionUrbana/FicherosDistritos/AF13PuenteDeVallecas.pdf",
+      "type": "official",
+      "relevance_en": "Identifies the Colonia Alto del Arenal as an Obra Sindical del Hogar housing development from the 1950s and describes its later regeneration issues.",
+      "relevance_es": "Identifica la Colonia Alto del Arenal como una promoción de viviendas de la Obra Sindical del Hogar de los años cincuenta y describe sus problemas posteriores de regeneración."
+    },
+    {
+      "title": "Comunidad de Madrid: La Comunidad de Madrid construirá 234 viviendas protegidas en la UVA de Hortaleza y el Alto del Arenal",
+      "url": "https://www.comunidad.madrid/file/184653/download",
+      "type": "official",
+      "relevance_en": "Gives detailed official figures for the Colonia Alto del Arenal: built in the late 1950s, allocated in 1961, and composed of 810 homes.",
+      "relevance_es": "Aporta datos oficiales detallados sobre la Colonia Alto del Arenal: construida a finales de los años cincuenta, adjudicada en 1961 y compuesta por 810 viviendas."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: alto",
+      "url": "https://dle.rae.es/alto",
+      "type": "reference",
+      "relevance_en": "Supports the topographic meaning of alto as an elevated place or high ground.",
+      "relevance_es": "Respalda el sentido topográfico de alto como sitio elevado o terreno alto."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: arenal",
+      "url": "https://dle.rae.es/arenal",
+      "type": "reference",
+      "relevance_en": "Supports the meaning of arenal as sandy ground or a large sandy expanse.",
+      "relevance_es": "Respalda el significado de arenal como suelo arenoso o gran extensión de terreno arenoso."
+    },
+    {
+      "title": "Platform for Affordable Dwelling: Poblado Dirigido de Entrevías",
+      "url": "https://platform-affordable-dwelling.bk.tudelft.nl/database/243/poblado-dirigido-de-entrevias",
+      "type": "academic",
+      "relevance_en": "Useful context for the nearby Entrevías directed settlement and the 4,300-shack figure, while also showing that Entrevías is a distinct housing case.",
+      "relevance_es": "Contexto útil sobre el cercano Poblado Dirigido de Entrevías y la cifra de 4.300 chabolas, pero también muestra que Entrevías es un caso residencial distinto."
+    },
+    {
+      "title": "Museos Metro Madrid: Coche Quevedo en Alto del Arenal",
+      "url": "https://museosmetromadrid.es/coche-quevedo/",
+      "type": "official",
+      "relevance_en": "Metro museum page confirming that a historic Quevedo car was installed at Alto del Arenal for the 7 April 1994 inauguration of the Portazgo-Miguel Hernández section.",
+      "relevance_es": "Página del museo de Metro que confirma que un coche histórico Quevedo se instaló en Alto del Arenal con motivo de la inauguración del tramo Portazgo-Miguel Hernández el 7 de abril de 1994."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the opening year 2007 with 7 April 1994 for Alto del Arenal station.",
+      "es": "Sustituir el año de apertura 2007 por el 7 de abril de 1994 para la estación de Alto del Arenal."
+    },
+    {
+      "en": "Do not describe Alto del Arenal as simply a neighbourhood in Entrevías; the sources found identify a Colonia Alto del Arenal in Puente de Vallecas, separate from the Poblado Dirigido de Entrevías.",
+      "es": "No describir Alto del Arenal simplemente como un barrio de Entrevías; las fuentes localizadas identifican una Colonia Alto del Arenal en Puente de Vallecas, separada del Poblado Dirigido de Entrevías."
+    },
+    {
+      "en": "Qualify the 'sandy high ground' explanation as a lexical and topographic inference, unless a historical map or naming file is later found.",
+      "es": "Matizar la explicación de 'terreno arenoso elevado' como una inferencia léxica y topográfica, salvo que aparezca después un mapa histórico o expediente de nomenclatura."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid naming file or 1994 inauguration dossier could confirm explicitly whether the station was named after the Colonia Alto del Arenal.",
+      "es": "Un expediente de nomenclatura de Metro de Madrid o un dosier de inauguración de 1994 podría confirmar expresamente si la estación recibió el nombre de la Colonia Alto del Arenal."
+    },
+    {
+      "en": "Historical cadastral maps or municipal plans should be checked to establish how old the place-name Alto del Arenal is before the 1950s housing colony.",
+      "es": "Conviene revisar planos catastrales históricos o planes municipales para determinar la antigüedad del topónimo Alto del Arenal antes de la colonia de viviendas de los años cincuenta."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_159/en/summary.short.md",
+      "summary": "content/stations/metro_159/en/summary.md",
+      "story": "content/stations/metro_159/en/story.md",
+      "confidence": "content/stations/metro_159/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_159/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_159/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_159/es/summary.short.md",
+      "summary": "content/stations/metro_159/es/summary.md",
+      "story": "content/stations/metro_159/es/story.md",
+      "confidence": "content/stations/metro_159/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_159/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_159/es/research-note.md"
+    }
+  }
+}

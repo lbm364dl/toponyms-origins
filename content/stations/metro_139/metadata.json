@@ -1,0 +1,82 @@
+{
+  "id": "metro_139",
+  "name": "Pinar del Rey",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pinar del Rey neighbourhood and historic pine grove, formerly Cerro del Centinela, named after the 1896 tree-planting for King Alfonso XIII",
+  "previous_names": "No previous station names found; underlying place formerly Cerro del Centinela before the Pinar del Rey name became attached to it after 26 March 1896.",
+  "naming_date": "15 January 2007 for the Metro station opening/name; underlying Pinar del Rey toponym associated with 26 March 1896.",
+  "sources": [
+    {
+      "title": "Primera Fiesta del Árbol celebrada en Madrid (1896) - Portal del Lector, Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/portal-lector/node/1855",
+      "type": "official",
+      "relevance_en": "Official regional library article identifying 26 March 1896, Cerro del Centinela, today Pinar del Rey, as the site of Madrid's first documented Fiesta del Árbol and explaining the Alfonso XIII episode.",
+      "relevance_es": "Artículo oficial de la biblioteca regional que identifica el 26 de marzo de 1896, el Cerro del Centinela, hoy Pinar del Rey, como lugar de la primera Fiesta del Árbol documentada en Madrid y explica el episodio de Alfonso XIII."
+    },
+    {
+      "title": "Documentos referentes a la Primera Fiesta del Árbol celebrada en Madrid en 1896 - Biblioteca Digital de la Comunidad de Madrid",
+      "url": "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/es/consulta/registro.do?id=39778",
+      "type": "archive",
+      "relevance_en": "Archive catalogue record for the original 1896 programme, invitation with planting-site plan, school letter, and commemorative medal related to the event.",
+      "relevance_es": "Registro archivístico del programa original de 1896, la invitación con plano del lugar de plantación, una carta escolar y la medalla conmemorativa vinculados al acto."
+    },
+    {
+      "title": "Parque Pinar del Rey - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Hortaleza/Parque-Pinar-del-Rey/?vgnextchannel=2c21ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=d53460fc97dde210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal park page linking the present park and forest zone to the 1896 Fiesta del Árbol at the Cerro del Centinela and describing the area's surviving pine landscape.",
+      "relevance_es": "Página municipal del parque que vincula el parque y la zona forestal actuales con la Fiesta del Árbol de 1896 en el Cerro del Centinela y describe el paisaje de pinos que pervive en la zona."
+    },
+    {
+      "title": "Subirse al Metro en Pinar del Rey - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Subirse-al-Metro-en-Pinar-del-Rey/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=e8cd7f417ebb0110VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council press note dated 15 January 2007 documenting the inauguration, Line 8 location, and service area of Pinar del Rey station.",
+      "relevance_es": "Nota de prensa del Ayuntamiento de Madrid del 15 de enero de 2007 que documenta la inauguración, la ubicación en la línea 8 y el área servida por la estación de Pinar del Rey."
+    },
+    {
+      "title": "El árbol del rey - Hortaleza Periódico Vecinal",
+      "url": "https://www.periodicohortaleza.org/el-arbol-del-rey/",
+      "type": "press",
+      "relevance_en": "Local historical account giving the neighbourhood tradition and the explanation that the grove became known as Pinar del Rey after the 1896 tree-planting for Alfonso XIII.",
+      "relevance_es": "Relato histórico local que recoge la tradición vecinal y la explicación de que el pinar pasó a conocerse como Pinar del Rey tras la plantación de 1896 destinada a Alfonso XIII."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the unsupported idea of a Crown-owned royal pine forest with the better-documented 1896 Fiesta del Árbol origin at the Cerro del Centinela.",
+      "es": "Sustituir la idea no acreditada de un pinar real propiedad de la Corona por el origen mejor documentado de la Fiesta del Árbol de 1896 en el Cerro del Centinela."
+    },
+    {
+      "en": "Clarify that Alfonso XIII apparently did not plant the tree himself; official and local accounts say the infantas Isabel and Eulalia planted the tree intended for him because he was indisposed.",
+      "es": "Aclarar que Alfonso XIII no parece haber plantado el árbol personalmente; las fuentes oficiales y locales indican que las infantas Isabel y Eulalia plantaron el árbol destinado a él porque el rey estaba indispuesto."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal municipal naming file or map sequence could further pin down when the popular name Pinar del Rey replaced Cerro del Centinela in official cartography.",
+      "es": "Un expediente municipal de denominación o una serie cartográfica permitiría precisar mejor cuándo el nombre popular Pinar del Rey sustituyó a Cerro del Centinela en la cartografía oficial."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_139/en/summary.short.md",
+      "summary": "content/stations/metro_139/en/summary.md",
+      "story": "content/stations/metro_139/en/story.md",
+      "confidence": "content/stations/metro_139/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_139/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_139/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_139/es/summary.short.md",
+      "summary": "content/stations/metro_139/es/summary.md",
+      "story": "content/stations/metro_139/es/story.md",
+      "confidence": "content/stations/metro_139/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_139/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_139/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for the Arroyo del Fresno area and the underlying Arroyo del Fresno watercourse. The specific statement that the stream was historically lined with ash trees is plausible from the words, but I did not find a direct source proving that landscape detail.

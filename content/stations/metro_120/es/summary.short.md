@@ -1,0 +1,1 @@
+La estación de Casa de Campo lleva el nombre del gran parque situado al oeste de Madrid, antiguo Real Sitio desarrollado a partir de la casa de campo de la familia Vargas y adquirido por Felipe II en el siglo XVI. El intercambiador moderno se inauguró en 2002, en el borde sur del parque, como enlace entre las líneas 5 y 10.

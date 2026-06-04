@@ -1,0 +1,97 @@
+{
+  "id": "metro_114",
+  "name": "Lucero",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Lucero (neighbourhood in the Latina district)",
+  "previous_names": "",
+  "naming_date": "1995",
+  "sources": [
+    {
+      "title": "CRTM - Lucero",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_130/",
+      "type": "official",
+      "relevance_en": "Official transport source confirming Lucero as a Metro station on Line 6 and listing its accesses at Calle de Cebreros and Calle de las Higueras.",
+      "relevance_es": "Fuente oficial de transporte que confirma Lucero como estación de Metro de la línea 6 y recoge sus accesos por la calle de Cebreros y la calle de las Higueras."
+    },
+    {
+      "title": "Comunidad de Madrid - Obras anteriores en la Línea 6 (la circular)",
+      "url": "https://www.comunidad.madrid/transporte/obras-anteriores-linea-6-circular",
+      "type": "official",
+      "relevance_en": "Documents the Line 6 closure between Laguna and Ciudad Universitaria, its May 1995 service date, and the six new stations including Lucero.",
+      "relevance_es": "Documenta el cierre de la línea 6 entre Laguna y Ciudad Universitaria, su puesta en servicio en mayo de 1995 y las seis estaciones nuevas, incluida Lucero."
+    },
+    {
+      "title": "Comunidad de Madrid - La línea 6 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides the earlier Line 6 chronology and shows that the 1983 extension was Oporto-Laguna, useful for correcting the input opening context.",
+      "relevance_es": "Aporta la cronología anterior de la línea 6 y muestra que la prolongación de 1983 fue Oporto-Laguna, dato útil para corregir el contexto de apertura de la fila."
+    },
+    {
+      "title": "Boletín del Ayuntamiento de Madrid, 1 November 1954 - El nuevo barrio del Divino Maestro",
+      "url": "https://www.memoriademadrid.es/file/434824/content",
+      "type": "archive",
+      "relevance_en": "A municipal archival source that refers to the existing barrio del Lucero in 1954, proving that the neighbourhood toponym predates the Metro station.",
+      "relevance_es": "Fuente archivística municipal que menciona el barrio del Lucero en 1954, demostrando que el topónimo del barrio es anterior a la estación de Metro."
+    },
+    {
+      "title": "Guía de Aluche-Latina, June 2022 - Conoce tu distrito: Latina, 7 barrios",
+      "url": "https://www.scribd.com/document/577371215/Guia-Aluche-Latina-Junio-2022",
+      "type": "press",
+      "relevance_en": "Local historical article, citing José María Sánchez Molledo's book on Latina, summarising Lucero's agricultural origins, the Arroyo Luche, the Madrid-Almorox railway, post-war migration and later urbanisation.",
+      "relevance_es": "Artículo histórico local, basado en el libro de José María Sánchez Molledo sobre Latina, que resume el origen agrícola de Lucero, el arroyo Luche, el ferrocarril Madrid-Almorox, la inmigración de posguerra y la urbanización posterior."
+    },
+    {
+      "title": "RAE/ASALE - Diccionario de la lengua española: lucero",
+      "url": "https://dle.rae.es/lucero",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for the meaning and etymology of lucero: from luz + -ero, with senses including Venus and a bright star-like astro.",
+      "relevance_es": "Fuente lexicográfica autorizada para el significado y la etimología de lucero: de luz + -ero, con acepciones como Venus y astro grande y brillante."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct the opening context: Lucero station was part of the Line 6 circular closure placed in service in May 1995, not the 1983 Oporto-Laguna extension.",
+      "es": "Corregir el contexto de apertura: la estación de Lucero formó parte del cierre circular de la línea 6 puesto en servicio en mayo de 1995, no de la prolongación Oporto-Laguna de 1983."
+    },
+    {
+      "en": "Replace the direct derivation from Latin lucifer with the RAE-supported etymology from Spanish luz + -ero; lucifer is listed as a synonym for one sense, not as the DLE etymon.",
+      "es": "Sustituir la derivación directa desde el latín lucifer por la etimología del DLE: luz + -ero; lucifer aparece como sinónimo de una acepción, no como étimo del lema."
+    },
+    {
+      "en": "Treat the finca/person/celestial-observation explanations as open hypotheses, not as established context.",
+      "es": "Tratar las explicaciones de finca, persona o punto de observación celeste como hipótesis abiertas, no como contexto establecido."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive explanation would require inspecting municipal street- or neighbourhood-naming files, cadastral records, or older plans showing why the settlement was called Lucero.",
+      "es": "Una explicación definitiva exigiría consultar expedientes municipales de denominación, documentación catastral o planos antiguos que expliquen por qué el asentamiento recibió el nombre de Lucero."
+    },
+    {
+      "en": "The 1954 municipal bulletin proves the name was already in use, but it does not explain its origin.",
+      "es": "El boletín municipal de 1954 prueba que el nombre ya estaba en uso, pero no explica su origen."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_114/en/summary.short.md",
+      "summary": "content/stations/metro_114/en/summary.md",
+      "story": "content/stations/metro_114/en/story.md",
+      "confidence": "content/stations/metro_114/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_114/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_114/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_114/es/summary.short.md",
+      "summary": "content/stations/metro_114/es/summary.md",
+      "story": "content/stations/metro_114/es/story.md",
+      "confidence": "content/stations/metro_114/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_114/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_114/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "metro_161",
+  "name": "Hortaleza",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Hortaleza, Madrid district and former municipality",
+  "previous_names": "",
+  "naming_date": "2007-04-11",
+  "sources": [
+    {
+      "title": "Hortaleza - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Hortaleza/Hortaleza/?vgnextchannel=2c21ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=45a6c9c84c3b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Official district page stating that Hortaleza occupies the north of Madrid, includes land from the old municipalities of Canillas and Hortaleza, and that Hortaleza was annexed by decree of 22 July 1949.",
+      "relevance_es": "Página oficial del distrito que indica que Hortaleza ocupa el norte de Madrid, comprende terrenos de los antiguos municipios de Canillas y Hortaleza, y que Hortaleza fue anexionado por decreto de 22 de julio de 1949."
+    },
+    {
+      "title": "BOE, 2 September 1949: Decreto de 22 de julio de 1949 por el que se dispone la anexión a Madrid del término municipal de Hortaleza",
+      "url": "https://www.boe.es/gazeta/dias/1949/09/02/pdfs/BOE-1949-245.pdf",
+      "type": "official",
+      "relevance_en": "Primary legal source approving the total annexation of the municipal term of Hortaleza to Madrid.",
+      "relevance_es": "Fuente legal primaria que aprueba la anexión total del término municipal de Hortaleza al de Madrid."
+    },
+    {
+      "title": "Archivo de Villa - Archivo municipal de Hortaleza - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Hortaleza/Archivo-de-Villa/?idCapitulo=12082843&vgnextchannel=2c21ca5d5fb96010VgnVCM100000d90ca8c0RCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Official archival description for the former municipality, noting documentation from 1786 to 1950, its place in the jurisdiction of Villa y Tierra de Madrid, and annexation by the 22 July 1949 decree.",
+      "relevance_es": "Descripción archivística oficial del antiguo municipio, con documentación de 1786 a 1950, su pertenencia a la jurisdicción de la Villa y Tierra de Madrid y la anexión por decreto de 22 de julio de 1949."
+    },
+    {
+      "title": "Acceso estación de Hortaleza - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/388195",
+      "type": "archive",
+      "relevance_en": "Municipal archive record from Metro de Madrid's photographic archive; records the 2007 station access and notes the 11 April 2007 opening of the Line 4 extension with Hortaleza, Manoteras and Pinar de Chamartín.",
+      "relevance_es": "Ficha archivística municipal procedente del archivo fotográfico de Metro de Madrid; registra el acceso de la estación en 2007 y señala la inauguración el 11 de abril de 2007 de la ampliación de la línea 4 con Hortaleza, Manoteras y Pinar de Chamartín."
+    },
+    {
+      "title": "La ampliación de las líneas 4 y 1 de Metro beneficiará a 60.000 ciudadanos - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/La-ampliacion-de-las-lineas-4-y-1-de-Metro-beneficiara-a-60-000-ciudadanos/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=01d584a38dfd1110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official Madrid press release dated 11 April 2007 stating that Line 4 gained three new stations: Manoteras, Hortaleza and Pinar de Chamartín.",
+      "relevance_es": "Nota de prensa oficial del Ayuntamiento de Madrid del 11 de abril de 2007 que indica que la línea 4 incorporó tres nuevas estaciones: Manoteras, Hortaleza y Pinar de Chamartín."
+    },
+    {
+      "title": "Corominas, Diccionario crítico etimológico castellano e hispánico, entry huerto",
+      "url": "https://bibliamedieval.es/bibliateca.es/corominas/DATA/HTML/huerto.html",
+      "type": "reference",
+      "relevance_en": "Etymological authority noting Hortaleza as a Madrid toponym and arguing that it is a different word from hortaliza, probably a variant of fortaleza.",
+      "relevance_es": "Autoridad etimológica que registra Hortaleza como topónimo madrileño y sostiene que es palabra distinta de hortaliza, probablemente variante de fortaleza."
+    },
+    {
+      "title": "Distrito de Hortaleza - Pasea Madrid, patrimonioypaisaje.madrid.es",
+      "url": "https://patrimonioypaisaje.madrid.es/FWProjects/monumenta/contenidos/ficheros/folleto_Hortaleza.pdf",
+      "type": "official",
+      "relevance_en": "Official heritage route leaflet stating that the district arose in 1950 from the annexation to Madrid of the towns of Hortaleza and Canillas, and highlighting surviving features of the old village identity.",
+      "relevance_es": "Folleto oficial de itinerario patrimonial que indica que el distrito surgió en 1950 con la anexión a Madrid de los pueblos de Hortaleza y Canillas, y señala elementos conservados de la identidad del antiguo pueblo."
+    },
+    {
+      "title": "Cartografía de Madrid, BIA 267, table of annexed municipal terms",
+      "url": "https://www.aparejadoresmadrid.es/documents/20181/34184/BIA-267-%28Nov-Diciembre-2010%29.pdf",
+      "type": "reference",
+      "relevance_en": "Provides a consolidated table listing Hortaleza's decree date, ministerial order date, effective annexation date of 31 March 1950, area of 13.62 km2, and population of 1,518.",
+      "relevance_es": "Aporta una tabla consolidada con la fecha del decreto de Hortaleza, la orden ministerial, la fecha efectiva de anexión del 31 de marzo de 1950, la superficie de 13,62 km2 y la población de 1.518 habitantes."
+    },
+    {
+      "title": "De Fuencarral a Hortaleza: calles, barrios y distritos de Madrid que repiten nombre - Somos Madrid / elDiario.es",
+      "url": "https://www.eldiario.es/madrid/somos/fuencarral-hortaleza-calles-barrios-distritos-madrid-repiten-nombre-motivos-coincidencias_1_11275759.amp.html",
+      "type": "press",
+      "relevance_en": "Useful secondary explanation connecting Calle de Hortaleza with the old road to the village and summarizing the popular orchard theory versus the fortaleza explanation.",
+      "relevance_es": "Explicación secundaria útil que vincula la calle de Hortaleza con el antiguo camino al pueblo y resume la teoría popular de las huertas frente a la explicación de fortaleza."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as verified that Hortaleza derives from Latin hortus or from abundant vegetable gardens; present that as a popular or landscape-based explanation.",
+      "es": "No debe afirmarse como verificado que Hortaleza derive del latín hortus o de la abundancia de huertas; conviene presentarlo como explicación popular o paisajística."
+    },
+    {
+      "en": "Add the stronger etymological caveat: Corominas treats the Madrid toponym Hortaleza as probably a variant of fortaleza, not the same word as hortaliza.",
+      "es": "Debe añadirse la cautela etimológica más sólida: Corominas trata el topónimo madrileño Hortaleza como probablemente variante de fortaleza, no como la misma palabra que hortaliza."
+    },
+    {
+      "en": "Clarify the annexation chronology: the decree is dated 22 July 1949 and published in the BOE on 2 September 1949; the effective incorporation is recorded as 31 March 1950.",
+      "es": "Debe aclararse la cronología de la anexión: el decreto está fechado el 22 de julio de 1949 y publicado en el BOE el 2 de septiembre de 1949; la incorporación efectiva consta el 31 de marzo de 1950."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A specialist local history or medieval documentary source should be inspected to test the fortaleza/atalaya interpretation and whether any defensive structure was ever documented.",
+      "es": "Conviene revisar una historia local especializada o documentación medieval para comprobar la interpretación fortaleza/atalaya y si alguna estructura defensiva llegó a estar documentada."
+    },
+    {
+      "en": "The exact administrative act assigning the Metro station name was not found; the practical naming date is therefore taken as the opening date, 11 April 2007.",
+      "es": "No se localizó el acto administrativo exacto de asignación del nombre de la estación de Metro; por tanto, se toma como fecha práctica de denominación la inauguración del 11 de abril de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_161/en/summary.short.md",
+      "summary": "content/stations/metro_161/en/summary.md",
+      "story": "content/stations/metro_161/en/story.md",
+      "confidence": "content/stations/metro_161/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_161/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_161/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_161/es/summary.short.md",
+      "summary": "content/stations/metro_161/es/summary.md",
+      "story": "content/stations/metro_161/es/story.md",
+      "confidence": "content/stations/metro_161/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_161/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_161/es/research-note.md"
+    }
+  }
+}

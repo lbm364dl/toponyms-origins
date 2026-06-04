@@ -1,0 +1,1 @@
+La Elipa station is named for the Madrid area of La Elipa, around Marqués de Corbera. The place-name is old: it appears as Helipa/Elipa in early-modern estate records and is traditionally explained as a memory of Phelipa de Vargas, though that final step is probable rather than fully proven from accessible primary evidence.

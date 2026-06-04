@@ -1,0 +1,1 @@
+The core claim is correct: the station takes its name from the nearby Avenida de la Ilustración, whose wording refers to the Enlightenment. The existing row overstates the Carlos III material as if it were part of the station-name evidence; it is useful background on Spanish Enlightenment Madrid, but not a documented reason for this station name.

@@ -1,0 +1,1 @@
+Parque de Santa María is named for the local Santa María area of Hortaleza, within today’s official Pinar del Rey neighbourhood. The name was already attached to nearby housing and public space before the Line 4 station opened on 15 December 1998.

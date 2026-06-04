@@ -1,0 +1,1 @@
+The honoree, the nearby avenue, and the station's 1994 opening are supported by official municipal/transport sources and authoritative literary sources. The only weaker link is the direct station-to-avenue naming statement, which is documented mainly in secondary station references, but it is consistent with the official street name and the station's location.

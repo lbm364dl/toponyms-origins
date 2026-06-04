@@ -1,0 +1,1 @@
+La formulación pública mejor sustentada es por capas: estación llamada por el barrio madrileño; nombre del barrio asociado en último término al topónimo vallisoletano; topónimo vallisoletano documentado como Septimanca pero de significado oscuro. Así se evita sugerir que Metro bautizó directamente la estación por la batalla, el archivo o la leyenda de las siete doncellas.

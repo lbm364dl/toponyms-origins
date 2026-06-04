@@ -1,0 +1,1 @@
+La estación está junto al Lago de la Casa de Campo, las páginas oficiales turísticas y municipales identifican el lago y su acceso por Metro Lago, y la documentación archivística de transporte confirma el origen de la estación en 1961 dentro del antiguo suburbano. La única incertidumbre no afecta a la etimología, sino a si la rotulación oficial inicial fue Lago o El Lago.

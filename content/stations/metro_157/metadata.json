@@ -1,0 +1,126 @@
+{
+  "id": "metro_157",
+  "name": "Marqués de la Valdavia",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Mariano Ossorio Arévalo, III Marqués de la Valdavia",
+  "previous_names": "Station: none found; opened with current name. Underlying street: formerly Carretera del Plantío.",
+  "naming_date": "Station name in use at MetroNorte opening in April 2007; underlying street named by Alcobendas municipal plenary agreement on 15 February 1958.",
+  "sources": [
+    {
+      "title": "10 - Vive y conoce tus calles: Calle Marqués de la Valdavia",
+      "url": "https://cdnc.heyzine.com/flip-book/pdf/20478d19593db7256f1e38807cdf10a96e27942b-5.pdf",
+      "type": "official",
+      "relevance_en": "Municipal street-history source stating that Alcobendas named the former Carretera del Plantío as Calle Marqués de la Valdavia by plenary agreement of 15 February 1958 in honor of Mariano Ossorio Arévalo.",
+      "relevance_es": "Fuente municipal de historia del callejero que indica que Alcobendas bautizó la antigua Carretera del Plantío como calle Marqués de la Valdavia por acuerdo plenario del 15 de febrero de 1958 en honor de Mariano Ossorio Arévalo."
+    },
+    {
+      "title": "El Archivo Regional recibe el Fondo 'Marqueses de la Valdavia'",
+      "url": "https://www.comunidad.madrid/archivos/index.php/es/actividades/noticias/item/2395-el-archivo-regional-recibe-el-fondo-marqueses-de-la-valdavia",
+      "type": "official",
+      "relevance_en": "Community of Madrid archival notice identifying Mariano Osorio/Ossorio Arévalo as III Marquess of Valdavia, describing his offices, the family archive, and the marquessate's origin.",
+      "relevance_es": "Noticia archivística de la Comunidad de Madrid que identifica a Mariano Osorio/Ossorio Arévalo como III marqués de la Valdavia, describe sus cargos, el fondo familiar y el origen del marquesado."
+    },
+    {
+      "title": "Congreso de los Diputados - Histórico de diputados: OSORIO AREVALO, MARIANO",
+      "url": "https://www.congreso.es/es/historico-diputados?_historicodiputados_mvcRenderCommandName=mostrarDetalle&_historicodiputados_nume=59274&p_p_id=historicodiputados&p_p_lifecycle=0&p_p_mode=view&p_p_state=normal",
+      "type": "official",
+      "relevance_en": "Official parliamentary record confirming Mariano Osorio/Ossorio Arévalo's title as Marqués de Valdavia, his 1889 Madrid birth, 1969 death, and Franco-period Cortes role.",
+      "relevance_es": "Registro parlamentario oficial que confirma el título de Mariano Osorio/Ossorio Arévalo como marqués de Valdavia, su nacimiento en Madrid en 1889, su muerte en 1969 y su papel en las Cortes franquistas."
+    },
+    {
+      "title": "PARES authority record: Valdavia, marqueses de la",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/55557",
+      "type": "archive",
+      "relevance_en": "Archival authority record giving the marquessate's date of existence as 21 June 1883 and its concession by Alfonso XII to Josefa de Lamadrid y Cossío.",
+      "relevance_es": "Registro de autoridad archivística que da como fecha de existencia del marquesado el 21 de junio de 1883 y su concesión por Alfonso XII a Josefa de Lamadrid y Cossío."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Metronorte",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Community of Madrid transport page listing Marqués de la Valdavia among the MetroNorte stations serving Alcobendas and San Sebastián de los Reyes.",
+      "relevance_es": "Página de transporte de la Comunidad de Madrid que enumera Marqués de la Valdavia entre las estaciones de MetroNorte para Alcobendas y San Sebastián de los Reyes."
+    },
+    {
+      "title": "METRONORTE. Tres Olivos (Fuencarral)-Alcobendas-San Sebastián de los Reyes",
+      "url": "https://www.comunidad.madrid/sites/default/files/aud/transportes/47_comprimido.pdf",
+      "type": "official",
+      "relevance_en": "Official MetroNorte brochure locating the station at Calle Marqués de la Valdavia / Parque de Cataluña in Alcobendas.",
+      "relevance_es": "Folleto oficial de MetroNorte que sitúa la estación en la calle Marqués de la Valdavia / Parque de Cataluña de Alcobendas."
+    },
+    {
+      "title": "Batalla por el nombre de las estaciones",
+      "url": "https://elpais.com/elpais/2007/02/15/actualidad/1171531025_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report documenting the pre-opening dispute over whether the station should be named Marqués de la Valdavia or Parque de Cataluña.",
+      "relevance_es": "Crónica de prensa contemporánea que documenta la polémica previa a la apertura sobre si la estación debía llamarse Marqués de la Valdavia o Parque de Cataluña."
+    },
+    {
+      "title": "Vega-Valdavia - Palencia Turismo",
+      "url": "https://palenciaturismo.es/visitar/territorios/vega-valdavia",
+      "type": "official",
+      "relevance_en": "Provincial tourism source confirming the Palencia landscape and river context behind the Valdavia territorial name.",
+      "relevance_es": "Fuente turística provincial que confirma el contexto paisajístico y fluvial palentino del nombre territorial Valdavia."
+    },
+    {
+      "title": "Mariano Osorio de Lamadrid - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/33448-mariano-osorio-de-lamadrid",
+      "type": "reference",
+      "relevance_en": "Authoritative biography of the II Marquess, useful for distinguishing him from the III Marquess who is the better-supported Alcobendas street honoree.",
+      "relevance_es": "Biografía autorizada del II marqués, útil para distinguirlo del III marqués, que es el homenajeado mejor documentado por la calle de Alcobendas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the Plaza Duque de Pastrana explanation; it does not explain this station's name.",
+      "es": "Sustituir la explicación de la Plaza Duque de Pastrana; no explica el nombre de esta estación."
+    },
+    {
+      "en": "Change the principal person from Mariano Osorio de Lamadrid, II Marquess of Valdavia, to Mariano Ossorio Arévalo, III Marquess of Valdavia.",
+      "es": "Cambiar la persona principal de Mariano Osorio de Lamadrid, II marqués de la Valdavia, a Mariano Ossorio Arévalo, III marqués de la Valdavia."
+    },
+    {
+      "en": "Update the biographical years attached to the station honoree from 1851-1898 to 1889-1969.",
+      "es": "Actualizar los años biográficos asociados al homenajeado por la estación de 1851-1898 a 1889-1969."
+    },
+    {
+      "en": "Record the street's former name, Carretera del Plantío, and the municipal naming date, 15 February 1958.",
+      "es": "Registrar el nombre anterior de la calle, Carretera del Plantío, y la fecha municipal del nombramiento, 15 de febrero de 1958."
+    },
+    {
+      "en": "Treat the noble-title creation date cautiously: PARES gives 21 June 1883, while some secondary summaries mention the prior royal decree of 13 June 1879 or later 1883 documentation.",
+      "es": "Tratar con cautela la fecha de creación del título: PARES da el 21 de junio de 1883, mientras algunos resúmenes secundarios mencionan el real decreto previo de 13 de junio de 1879 o documentación posterior de 1883."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Alcobendas municipal plenary records from 15 February 1958 for the original wording of the street-naming resolution.",
+      "es": "Consultar las actas del Pleno municipal de Alcobendas del 15 de febrero de 1958 para comprobar la redacción original del acuerdo de denominación."
+    },
+    {
+      "en": "Inspect the full MetroNorte naming file, if preserved by the Community of Madrid or CRTM, to document the formal station-name approval date.",
+      "es": "Consultar el expediente completo de denominación de MetroNorte, si se conserva en la Comunidad de Madrid o el CRTM, para documentar la fecha formal de aprobación del nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_157/en/summary.short.md",
+      "summary": "content/stations/metro_157/en/summary.md",
+      "story": "content/stations/metro_157/en/story.md",
+      "confidence": "content/stations/metro_157/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_157/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_157/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_157/es/summary.short.md",
+      "summary": "content/stations/metro_157/es/summary.md",
+      "story": "content/stations/metro_157/es/story.md",
+      "confidence": "content/stations/metro_157/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_157/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_157/es/research-note.md"
+    }
+  }
+}

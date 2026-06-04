@@ -1,0 +1,1 @@
+Está bien respaldado que la estación toma su nombre del ámbito Las Rosas/Rosas al que sirve, pero no se ha encontrado respaldo autorizado para la idea de que el nombre proceda de una antigua finca o jardín con rosales.

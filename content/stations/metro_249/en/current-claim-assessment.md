@@ -1,0 +1,1 @@
+The station is well supported as taking its name from the Las Rosas/Rosas area it serves, but the claim that the name comes from a former estate or rose garden is not supported by the authoritative sources found.

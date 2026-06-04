@@ -1,0 +1,1 @@
+La estación de San Lorenzo toma su nombre del barrio de San Lorenzo, en Hortaleza, donde se inauguró el 15 de diciembre de 1998. El nombre del barrio es en último término religioso y remite a san Lorenzo de Roma, aunque la fuente directa del nombre es el barrio y no una advocación parroquial documentada.

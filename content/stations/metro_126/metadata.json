@@ -1,0 +1,118 @@
+{
+  "id": "metro_126",
+  "name": "Barrio del Pilar",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio del Pilar / El Pilar neighbourhood; ultimately probably Pilar Calvo y Sánchez de León, wife of developer José Banús Masdeu",
+  "previous_names": "No confirmed former public station name. A 1983 press report used \"Pilar\" for the station, and one transport-history source says \"Pilar\" was the project name; current and later transport sources use \"Barrio del Pilar\".",
+  "naming_date": "3 June 1983 for the station name at opening; neighbourhood name in use from the Banús development advertised from December 1960 and built from the early 1960s",
+  "sources": [
+    {
+      "title": "Barrio del Pilar - CRTM",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_162/",
+      "type": "official",
+      "relevance_en": "Current official transport source confirming the station name, Line 9 service, fare zone and accesses at Ginzo de Limia and Melchor Fernández Almagro.",
+      "relevance_es": "Fuente oficial actual de transporte que confirma el nombre de la estación, el servicio de la línea 9, la zona tarifaria y los accesos por Ginzo de Limia y Melchor Fernández Almagro."
+    },
+    {
+      "title": "Distritos y barrios - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Fuencarral-El-Pardo/Distritos-y-barrios/?vgnextchannel=7c73ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5a86befb3fd31810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms that Madrid's Fuencarral-El Pardo district includes the official municipal neighbourhood \"Barrio 84 - Pilar\".",
+      "relevance_es": "Confirma que el distrito madrileño de Fuencarral-El Pardo incluye el barrio municipal oficial \"Barrio 84 - Pilar\"."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Transport chronology listing Barrio del Pilar as one of the four stations opened on 3 June 1983 on the separate Line 9B section Herrera Oria-Plaza de Castilla, and its integration into Line 9 on 24 February 1986.",
+      "relevance_es": "Cronología de transporte que enumera Barrio del Pilar entre las cuatro estaciones inauguradas el 3 de junio de 1983 en el tramo independiente de la línea 9B Herrera Oria-Plaza de Castilla, e indica su integración en la línea 9 el 24 de febrero de 1986."
+    },
+    {
+      "title": "El Rey inaugura el tramo que completa 100 kilómetros de ferrocarril metropolitano",
+      "url": "https://elpais.com/diario/1983/06/04/madrid/423573855_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the 3 June 1983 opening; it describes the Plaza de Castilla-Herrera Oria section and mentions the station as \"Pilar\" in the list of four stations.",
+      "relevance_es": "Crónica contemporánea de la inauguración del 3 de junio de 1983; describe el tramo Plaza de Castilla-Herrera Oria y menciona la estación como \"Pilar\" en la lista de cuatro estaciones."
+    },
+    {
+      "title": "Barrio del Pilar - Madripedia",
+      "url": "https://madripedia.wikis.cc/wiki/Barrio_del_Pilar",
+      "type": "reference",
+      "relevance_en": "Local-history summary stating that the Barrio del Pilar was promoted by José Banús with subsidised housing and reached more than 45,600 inhabitants in 13,872 dwellings by 1970.",
+      "relevance_es": "Síntesis de historia local que indica que el Barrio del Pilar fue promovido por José Banús con viviendas de protección oficial y que en 1970 alcanzaba más de 45.600 habitantes en 13.872 viviendas."
+    },
+    {
+      "title": "El barrio del Pilar de Madrid no se llama así por la Virgen: la historia no contada de 'Pilar'",
+      "url": "https://www.elespanol.com/porfolio/revision/20231112/barrio-pilar-madrid-no-llama-virgen-historia-contada-cantante-da-nombre/808669454_0.html",
+      "type": "press",
+      "relevance_en": "Directly states the modern claim that José Banús named his first solo project after his wife, Pilar Calvo y Sánchez de León, and not after the Virgin of the Pillar.",
+      "relevance_es": "Afirma directamente la versión moderna de que José Banús puso a su primer proyecto en solitario el nombre de su esposa, Pilar Calvo y Sánchez de León, y no el de la Virgen del Pilar."
+    },
+    {
+      "title": "BOE: Orden de 1 de junio de 1998 sobre la Fundación José Banús Masdeu y Pilar Calvo y Sánchez de León",
+      "url": "https://www.boe.es/boe/dias/1998/07/15/pdfs/A23752-23753.pdf",
+      "type": "official",
+      "relevance_en": "Official document confirming Pilar Calvo y Sánchez de León's full name, that she was the widow of José Banús Masdeu, and that she instituted the foundation bearing both names.",
+      "relevance_es": "Documento oficial que confirma el nombre completo de Pilar Calvo y Sánchez de León, su condición de viuda de José Banús Masdeu y la institución de la fundación que lleva ambos nombres."
+    },
+    {
+      "title": "José Banús Masdeu, empresario y constructor",
+      "url": "https://elpais.com/diario/1984/09/22/agenda/464652001_850215.html",
+      "type": "press",
+      "relevance_en": "Obituary confirming that José Banús was a developer of popular neighbourhoods in Madrid and was married to Pilar Calvo y Sánchez de León.",
+      "relevance_es": "Necrológica que confirma que José Banús fue promotor de barrios populares en Madrid y que estaba casado con Pilar Calvo y Sánchez de León."
+    },
+    {
+      "title": "Barrio El Pilar.indd - Ediciones La Librería sample PDF",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2024/03/7pag-Bo-del-PilarW.pdf",
+      "type": "book",
+      "relevance_en": "Inspectable sample from a book on Barrio del Pilar; useful for construction context, early advertising from December 1960, phases of development, terrain and Banús construction facilities, though not for the name-origin claim itself.",
+      "relevance_es": "Muestra consultable de un libro sobre el Barrio del Pilar; aporta contexto sobre la construcción, la publicidad desde diciembre de 1960, las fases de la promoción, la orografía y las instalaciones de Banús, aunque no prueba por sí misma el origen del nombre."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The etymology type should be \"place\" for the station itself, because the Metro station is named after the neighbourhood; the personal dedication belongs to the neighbourhood's underlying origin.",
+      "es": "El tipo etimológico debería ser \"place\" para la estación, porque la estación de Metro toma el nombre del barrio; la dedicatoria personal pertenece al origen último del barrio."
+    },
+    {
+      "en": "Use the accented spelling José Banús and the fuller name Pilar Calvo y Sánchez de León when space allows.",
+      "es": "Conviene usar la grafía acentuada José Banús y el nombre completo Pilar Calvo y Sánchez de León cuando haya espacio."
+    },
+    {
+      "en": "The source claim is strong but should not be labelled fully verified unless a primary naming or development document is found.",
+      "es": "La afirmación está bien apoyada, pero no debería marcarse como plenamente verificada mientras no aparezca un documento primario de denominación o de la promoción urbanística."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Banús sales brochures, planning files, or municipal urban-development records from 1960-1962 to confirm whether the dedication to Pilar Calvo was stated contemporaneously.",
+      "es": "Revisar folletos de venta de Banús, expedientes urbanísticos o documentación municipal de 1960-1962 para confirmar si la dedicatoria a Pilar Calvo se formuló ya en la época."
+    },
+    {
+      "en": "Clarify whether \"Pilar\" was only a project or press shorthand for the Metro station, or whether it appeared on any official early signage or plans before \"Barrio del Pilar\" became standard.",
+      "es": "Aclarar si \"Pilar\" fue solo una forma abreviada de proyecto o prensa para la estación, o si apareció en alguna señalización o plano oficial inicial antes de consolidarse \"Barrio del Pilar\"."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_126/en/summary.short.md",
+      "summary": "content/stations/metro_126/en/summary.md",
+      "story": "content/stations/metro_126/en/story.md",
+      "confidence": "content/stations/metro_126/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_126/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_126/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_126/es/summary.short.md",
+      "summary": "content/stations/metro_126/es/summary.md",
+      "story": "content/stations/metro_126/es/story.md",
+      "confidence": "content/stations/metro_126/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_126/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_126/es/research-note.md"
+    }
+  }
+}

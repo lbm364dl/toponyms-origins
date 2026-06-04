@@ -1,0 +1,1 @@
+The descriptive origin is directly supported by the CRTM historical Metro chronology, which identifies Empalme as the Suburbano station connected with the Madrid-Almorox railway, and by a transport-history book excerpt describing the planned interchange stop. Confidence is not absolute for the exact opening date and early name variant because sources differ.

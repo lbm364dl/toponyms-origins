@@ -1,0 +1,9 @@
+The station name **Suanzes** points to Juan Antonio Suanzes Fernández (1891-1977), a naval engineer, military officer and politician closely associated with Spain's industrial policy under Francisco Franco. In public use around the station, the name is often linked with the title **Marqués de Suanzes**, granted to him in 1960.
+
+Suanzes was born in Ferrol, a naval city in Galicia, and trained in the world of the Armada. His career moved from naval engineering into industry and politics: he directed shipbuilding interests, joined Franco's side during the Civil War, and became minister of Industry and Trade in the first Franco government in 1938. He later returned to the same portfolio between 1945 and 1951.
+
+His most lasting institutional role was at the **Instituto Nacional de Industria**. Created in 1941, the INI became the great public industrial holding of Francoist Spain, and Suanzes was its first president until 1963. That made his surname especially visible in places connected with mid-20th-century industrial development, including parts of eastern Madrid where INI-related factories and workplaces shaped local memory.
+
+The Metro station opened to passengers on **18 January 1980**, when Line 5 was extended from Ciudad Lineal to Canillejas. It stands under Calle de Alcalá, beside the Quinta de los Molinos area in the district of San Blas-Canillejas; later proposals argued that the station should instead be renamed **Quinta de los Molinos** to foreground that historic park.
+
+The name is well supported, but it is not neutral. In 2016 and 2017 the station became part of a public memory debate after a biographical panel about Suanzes was criticized for downplaying his Francoist role, and the district council asked competent bodies to study changes to spaces dedicated to him. The marquisate itself was granted in 1960 during Suanzes's lifetime and was suppressed by Spain's 2022 Democratic Memory Law.

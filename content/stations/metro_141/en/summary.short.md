@@ -1,0 +1,1 @@
+Estrella station is named for the neighbouring barrio of La Estrella in Retiro. The barrio's name is best explained by the former Seguros La Estrella landholding, later echoed in streets named after stars, constellations and celestial figures.

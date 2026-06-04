@@ -1,0 +1,104 @@
+{
+  "id": "metro_165",
+  "name": "El Capricho",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque de El Capricho",
+  "previous_names": "Parque de la Luz (projected/provisional name; the station appears not to have opened under that name)",
+  "naming_date": "24 November 2006",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 5 desde Canillejas a Alameda de Osuna",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-5-canillejas-alameda-osuna",
+      "type": "official",
+      "relevance_en": "Official regional transport source for the Line 5 extension, the 24 November 2006 opening date, the station location, and the explicit statement that the station is named for its proximity to the historic park of the same name.",
+      "relevance_es": "Fuente oficial regional de transporte para la prolongación de la línea 5, la fecha de puesta en servicio del 24 de noviembre de 2006, la ubicación de la estación y la afirmación expresa de que recibe su denominación por la proximidad al parque histórico del mismo nombre."
+    },
+    {
+      "title": "El Capricho - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_253?lang=es",
+      "type": "official",
+      "relevance_en": "Current official transport listing confirming the station name, Line 5 correspondence, fare zone and access points.",
+      "relevance_es": "Ficha oficial actual de transporte que confirma el nombre de la estación, la correspondencia con la línea 5, la zona tarifaria y los accesos."
+    },
+    {
+      "title": "El Capricho de la Alameda Osuna - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Jardin-historico-El-Capricho-de-la-Alameda-Osuna/?vgnextoid=9db6fb010e99e210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source for the park’s origin, the duchess’s role, the statement that she gave it the name El Capricho, the 1783-1803 acquisitions, the garden styles, protections, address, hours and nearby Metro station.",
+      "relevance_es": "Fuente municipal sobre el origen del parque, el papel de la duquesa, la indicación de que ella le dio el nombre de El Capricho, las adquisiciones de 1783-1803, los estilos del jardín, las protecciones, la dirección, el horario y la estación de Metro cercana."
+    },
+    {
+      "title": "Vuelo de brujas - Museo Nacional del Prado",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/vuelo-de-brujas/5e44d19d-7cda-472b-b6d8-8868c599d252",
+      "type": "official",
+      "relevance_en": "Authoritative art-museum source documenting Vuelo de brujas as part of six canvases sold in June 1798 by Goya to the Dukes of Osuna for their country house at La Alameda.",
+      "relevance_es": "Fuente museística autorizada que documenta Vuelo de brujas como parte de seis lienzos vendidos en junio de 1798 por Goya a los duques de Osuna para su casa de campo de La Alameda."
+    },
+    {
+      "title": "Francisco de Goya - Museo Lázaro Galdiano",
+      "url": "https://www.museolazarogaldiano.es/coleccion/obras-maestras/francisco-de-goya",
+      "type": "official",
+      "relevance_en": "Museum source identifying El Aquelarre as one of the Goya canvases made for the Dukes of Osuna’s estate El Capricho.",
+      "relevance_es": "Fuente museística que identifica El Aquelarre como uno de los lienzos de Goya realizados para la finca El Capricho de los duques de Osuna."
+    },
+    {
+      "title": "El búnker de “El Capricho”, un antiguo refugio de guerra - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-bunker-de-El-Capricho-un-antiguo-refugio-de-guerra/?vgnextoid=b61abeb58717c310VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source for the Civil War bunker, its association with General Miaja and the Army of the Centre headquarters, its construction in early 1937 and its approximate 15-metre depth.",
+      "relevance_es": "Fuente municipal sobre el búnker de la Guerra Civil, su relación con el general Miaja y el Cuartel General del Ejército del Centro, su construcción en los primeros meses de 1937 y su profundidad aproximada de 15 metros."
+    },
+    {
+      "title": "El nuevo Metro de Madrid. Línea 5 - es por madrid",
+      "url": "https://www.espormadrid.es/2006/10/el-nuevo-metro-de-madrid-lnea-5.html",
+      "type": "press",
+      "relevance_en": "Contemporary non-official source showing Parque de la Luz as a planned name for the station near Parque del Capricho before opening; useful but not decisive.",
+      "relevance_es": "Fuente contemporánea no oficial que muestra Parque de la Luz como nombre previsto para la estación cercana al Parque del Capricho antes de la inauguración; útil pero no decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 1783-1803 for the duchess’s acquisition of the estate and adjoining lands when following Madrid City Council; the broader 1787-1839 construction/development range should be framed as later garden development, not simply as the duchess creating it through 1839 after her death.",
+      "es": "Usar 1783-1803 para la adquisición de la finca y terrenos colindantes por la duquesa cuando se siga al Ayuntamiento de Madrid; el rango más amplio 1787-1839 debe presentarse como desarrollo posterior del jardín, no simplemente como creación de la duquesa hasta 1839, después de su muerte."
+    },
+    {
+      "en": "Qualify the Goya wording: Prado documents the six witchcraft canvases as sold in June 1798 to the Dukes of Osuna for La Alameda; it is safer to avoid saying they were commissioned by the duchess alone unless a direct commission document is cited.",
+      "es": "Matizar la referencia a Goya: el Prado documenta los seis lienzos de brujería como vendidos en junio de 1798 a los duques de Osuna para La Alameda; es más prudente evitar que fueron encargados por la duquesa en solitario salvo que se cite un documento directo de encargo."
+    },
+    {
+      "en": "The current public opening statement should say weekends and public holidays, matching Madrid City Council’s schedule.",
+      "es": "La frase sobre la apertura actual debe decir sábados, domingos y festivos, de acuerdo con el horario del Ayuntamiento de Madrid."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary Metro, MINTRA or regional naming document should be inspected to confirm the status of Parque de la Luz as a planned or provisional station name.",
+      "es": "Conviene revisar un documento primario de Metro, MINTRA o la Comunidad de Madrid para confirmar el estatus de Parque de la Luz como nombre previsto o provisional de la estación."
+    },
+    {
+      "en": "The exact formal naming act for the station has not been located; the opening date is secure, but the administrative date of name approval may be earlier.",
+      "es": "No se ha localizado el acto formal exacto de denominación de la estación; la fecha de apertura es segura, pero la aprobación administrativa del nombre pudo ser anterior."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_165/en/summary.short.md",
+      "summary": "content/stations/metro_165/en/summary.md",
+      "story": "content/stations/metro_165/en/story.md",
+      "confidence": "content/stations/metro_165/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_165/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_165/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_165/es/summary.short.md",
+      "summary": "content/stations/metro_165/es/summary.md",
+      "story": "content/stations/metro_165/es/story.md",
+      "confidence": "content/stations/metro_165/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_165/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_165/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "metro_168",
+  "name": "Arroyofresno",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Arroyo del Fresno, the stream and residential area",
+  "previous_names": "Projected/closed station references: Arroyo del Fresno; Arroyo Fresno. Public station opened as Arroyofresno.",
+  "naming_date": "23 March 2019 public opening as Arroyofresno; exact date of the spelling change from Arroyo del Fresno/Arroyo Fresno not found",
+  "sources": [
+    {
+      "title": "CRTM station page: Arroyofresno",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_153",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, Line 7 correspondence and access location.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, la correspondencia con la línea 7 y la ubicación de sus accesos."
+    },
+    {
+      "title": "Comunidad de Madrid: La nueva estación de Metro de Arroyofresno recibe a sus primeros viajeros",
+      "url": "https://www.comunidad.madrid/noticias/2019/03/23/nueva-estacion-metro-arroyofresno-recibe-primeros-viajeros",
+      "type": "official",
+      "relevance_en": "Confirms the public opening on 23 March 2019, the station’s position between Lacoma and Pitis, and its role as Metro station number 302.",
+      "relevance_es": "Confirma la apertura al público el 23 de marzo de 2019, su ubicación entre Lacoma y Pitis y su condición de estación número 302 de Metro."
+    },
+    {
+      "title": "Comunidad de Madrid: Abriremos la estación de Metro de Arroyofresno el próximo 23 de marzo",
+      "url": "https://www.comunidad.madrid/noticias/2019/02/27/abriremos-estacion-metro-arroyofresno-proximo-23-marzo",
+      "type": "official",
+      "relevance_en": "Explains that the station belonged to the 1999 Metro expansion plan and remained closed because the neighbourhood had not yet consolidated.",
+      "relevance_es": "Explica que la estación formaba parte del Plan de Ampliación de Metro de 1999 y quedó cerrada por la falta de consolidación del barrio."
+    },
+    {
+      "title": "IGN/CNIG Nomenclátor Geográfico Nacional WFS: Arroyo del Fresno entries",
+      "url": "https://www.ign.es/wfs-inspire/ngbe?service=WFS&version=2.0.0&request=GetFeature&typeNames=gn:NamedPlace&srsName=http://www.opengis.net/def/crs/EPSG/0/4258&BBOX=40.45,-3.78,40.53,-3.68,urn:ogc:def:crs:EPSG::4258&count=300",
+      "type": "official",
+      "relevance_en": "Official geographic data includes Arroyo del Fresno as both a neighbourhood/populated-place entry and a natural watercourse near the station.",
+      "relevance_es": "Los datos geográficos oficiales incluyen Arroyo del Fresno tanto como barrio/lugar poblado como curso natural de agua cercano a la estación."
+    },
+    {
+      "title": "Second modification of the Arroyo del Fresno partial plan documentation",
+      "url": "https://idem.madrid.org/cartografia/planea/planeamiento/planeamiento/Madrid/ModificacionesPlanParcial/48199/APORTA_DOCUMEN_1.PDF",
+      "type": "official",
+      "relevance_en": "Urban planning documentation states that Arroyo del Fresno is among the Manzanares-side watercourses and that Arroyo del Monte Carmelo is the origin of Arroyo del Fresno.",
+      "relevance_es": "La documentación urbanística indica que el Arroyo del Fresno figura entre los cursos de la margen del Manzanares y que el Arroyo del Monte Carmelo es el origen del Arroyo del Fresno."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: El Ayuntamiento desbloquea el desarrollo urbanístico de Arroyo Fresno",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-Ayuntamiento-desbloquea-el-desarrollo-urbanistico-de-Arroyo-Fresno/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=b837be6986c54510VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source documenting Arroyo Fresno/Arroyo del Fresno as the urban development area and noting the 1999 partial plan.",
+      "relevance_es": "Fuente municipal que documenta Arroyo Fresno/Arroyo del Fresno como ámbito de desarrollo urbanístico y menciona el Plan Parcial de 1999."
+    },
+    {
+      "title": "MadridMobilite: Una nueva estación para el Metro de Madrid: Arroyofresno",
+      "url": "https://madridmobilite.com/2019/02/27/una-nueva-estacion-para-el-metro-de-madrid-arroyofresno/",
+      "type": "other",
+      "relevance_en": "Transport-history article noting that 1997 planning materials used Arroyo del Fresno and that later contracts used Arroyo Fresno before the public Arroyofresno name.",
+      "relevance_es": "Artículo de historia del transporte que señala que la documentación de 1997 usaba Arroyo del Fresno y que contratos posteriores empleaban Arroyo Fresno antes del nombre público Arroyofresno."
+    },
+    {
+      "title": "El País: La estación fantasma se abre 20 años después",
+      "url": "https://elpais.com/ccaa/2019/02/27/madrid/1551294756_872602.html",
+      "type": "press",
+      "relevance_en": "Contemporary reporting on the long-closed station, the earlier Arroyo del Fresno form, the name change to Arroyofresno and the delayed opening.",
+      "relevance_es": "Crónica contemporánea sobre la estación cerrada durante años, la forma anterior Arroyo del Fresno, el cambio a Arroyofresno y la apertura retrasada."
+    },
+    {
+      "title": "Diccionario de la lengua española: arroyo",
+      "url": "https://dle.rae.es/arroyo",
+      "type": "reference",
+      "relevance_en": "Lexical support for the meaning of arroyo as a small or short watercourse.",
+      "relevance_es": "Apoyo léxico para el significado de arroyo como curso de agua pequeño o corto."
+    },
+    {
+      "title": "Diccionario de la lengua española: fresno",
+      "url": "https://dle.rae.es/fresno",
+      "type": "reference",
+      "relevance_en": "Lexical support for fresno as the Spanish common name for an ash tree.",
+      "relevance_es": "Apoyo léxico para fresno como nombre común español del árbol del género Fraxinus."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as fact that the stream was historically lined with ash trees unless a direct environmental or historical source is found; present it as the literal meaning or likely descriptive sense of the name.",
+      "es": "No conviene afirmar como hecho que el arroyo estuviera históricamente bordeado de fresnos salvo que aparezca una fuente ambiental o histórica directa; debe presentarse como significado literal o sentido descriptivo probable del nombre."
+    },
+    {
+      "en": "Record the earlier project/closed-station forms Arroyo del Fresno or Arroyo Fresno separately from the public station spelling Arroyofresno.",
+      "es": "Conviene registrar las formas anteriores de proyecto o estación cerrada, Arroyo del Fresno o Arroyo Fresno, separadas de la grafía pública actual Arroyofresno."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact administrative decision or signage order that changed the station name to the one-word Arroyofresno was not located.",
+      "es": "No se ha localizado la resolución administrativa o la orden de señalización exacta que cambió el nombre de la estación a la grafía unida Arroyofresno."
+    },
+    {
+      "en": "A historical map or environmental inventory could further confirm whether ash trees were associated with the watercourse itself.",
+      "es": "Un mapa histórico o un inventario ambiental podría confirmar mejor si los fresnos estuvieron asociados al cauce concreto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_168/en/summary.short.md",
+      "summary": "content/stations/metro_168/en/summary.md",
+      "story": "content/stations/metro_168/en/story.md",
+      "confidence": "content/stations/metro_168/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_168/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_168/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_168/es/summary.short.md",
+      "summary": "content/stations/metro_168/es/summary.md",
+      "story": "content/stations/metro_168/es/story.md",
+      "confidence": "content/stations/metro_168/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_168/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_168/es/research-note.md"
+    }
+  }
+}

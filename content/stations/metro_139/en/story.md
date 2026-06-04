@@ -1,0 +1,9 @@
+The Metro station Pinar del Rey is named after the surrounding area of Hortaleza, not after a station founder or a Metro project figure. When the new Line 8 station opened on 15 January 2007, Madrid City Council described it as a stop on the Gran Vía de Hortaleza between Colombia and Mar de Cristal, serving the people of the Pinar del Rey area.
+
+The older name behind the station belongs to a landscape. Before it became known as Pinar del Rey, official and local accounts identify the place as the Cerro del Centinela. On 26 March 1896, that site hosted Madrid's first documented Fiesta del Árbol, a large civic tree-planting ceremony intended to promote urban tree cover and public affection for trees.
+
+The royal part of the name appears to come from that ceremony. Alfonso XIII was expected to attend, but he was indisposed, so the infantas Isabel and Eulalia planted the tree assigned to him. From that association with the king, the former Cerro del Centinela came to be remembered as Pinar del Rey, the King's Pine Grove.
+
+This origin is more precise than simply saying the district once contained royal woods. The 1896 event was promoted by figures such as the forestry engineer Ricardo Codorníu and the architect and deputy Mariano Belmás, organized by public institutions, and sponsored by Queen Regent María Cristina. It was a staged civic and educational act, not evidence found here of a Crown-owned forest estate.
+
+The modern neighbourhood grew much later, as Hortaleza changed from an independent village into part of Madrid and the northern edge of the city urbanized. The station therefore carries a layered name: a 2007 Metro stop named for a modern neighbourhood, a neighbourhood named for a surviving green space, and a green space whose best-documented name origin is a late nineteenth-century public tree festival connected to the child king Alfonso XIII.

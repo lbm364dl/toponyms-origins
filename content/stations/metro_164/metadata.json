@@ -1,0 +1,100 @@
+{
+  "id": "metro_164",
+  "name": "La Gavia",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Avenida de la Gavia, ultimately the Arroyo de La Gavia",
+  "previous_names": "No former station name found. Place context: Cerro de La Gavia was traditionally also known in relation to the Cueva de la Magdalena.",
+  "naming_date": "2007-05-16",
+  "sources": [
+    {
+      "title": "CRTM - La Gavia Metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_293/",
+      "type": "official",
+      "relevance_en": "Confirms the current station, Metro service, fare zone, accessibility, bus connections, and access location on Avenida del Ensanche de Vallecas.",
+      "relevance_es": "Confirma la estación actual, el servicio de Metro, la zona tarifaria, la accesibilidad, las conexiones de autobús y el acceso en la avenida del Ensanche de Vallecas."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - gavia",
+      "url": "https://dle.rae.es/gavia",
+      "type": "reference",
+      "relevance_en": "Gives the etymology from Latin cavea and defines gavia as a ditch opened in the earth for drainage or property boundary.",
+      "relevance_es": "Da la etimología desde el latín cavea y define gavia como zanja abierta en la tierra para desagüe o linde de propiedades."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Parque de la Gavia",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villa-de-Vallecas/Direcciones-y-telefonos/Parque-de-la-Gavia/?vgnextchannel=bb1d48e063f28010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=48a88d736701a410VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the modern park in Villa de Vallecas and states that its central watercourse follows where the Arroyo de la Gavia used to run.",
+      "relevance_es": "Confirma el parque moderno en Villa de Vallecas e indica que su ría central discurre por donde lo hacía el arroyo de la Gavia."
+    },
+    {
+      "title": "Cerro de la Gavia. El Madrid que encontraron los romanos - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/publicacion/ref/10524",
+      "type": "official",
+      "relevance_en": "Official publication record for the 2004 archaeological catalogue on the Second Iron Age Cerro de La Gavia site in Vallecas.",
+      "relevance_es": "Ficha oficial de la publicación arqueológica de 2004 sobre el yacimiento de la Segunda Edad del Hierro del Cerro de La Gavia en Vallecas."
+    },
+    {
+      "title": "Cerro de La Gavia catalogue PDF - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/TemaCulturaYOcio/SanIsidro/CerroGavia/CatalogoGavia.pdf",
+      "type": "academic",
+      "relevance_en": "States that several southeast Madrid toponyms called La Gavia take their name from the Arroyo de La Gavia, describes the stream and valley, notes the Cerro de La Gavia and the traditional Cueva de la Magdalena association, and documents Paleolithic and Iron Age context.",
+      "relevance_es": "Afirma que varios topónimos del sureste de Madrid llamados La Gavia toman su nombre del arroyo de La Gavia, describe el cauce y el valle, menciona el Cerro de La Gavia y la asociación tradicional con la Cueva de la Magdalena, y documenta el contexto paleolítico y de la Edad del Hierro."
+    },
+    {
+      "title": "El cerro de la Gavia (Villa de Vallecas, Madrid capital): urbanismo y vivienda de la II Edad del Hierro en la Comunidad de Madrid",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/1409971.pdf",
+      "type": "academic",
+      "relevance_en": "Provides archaeological detail on the fortified Second Iron Age settlement, occupation phases from the 4th century BC into the 1st century AD, and its urban layout.",
+      "relevance_es": "Aporta detalle arqueológico sobre el poblado fortificado de la Segunda Edad del Hierro, sus fases de ocupación desde el siglo IV a. C. hasta el siglo I d. C. y su organización urbana."
+    },
+    {
+      "title": "Estación de metro La Gavia - lineasdelmetro.com",
+      "url": "https://www.lineasdelmetro.com/estaciones/madrid/la-gavia/",
+      "type": "other",
+      "relevance_en": "Secondary transport source giving the station's opening date, location at Avenida del Ensanche de Vallecas and Avenida de la Gavia, and the common explanation that the avenue name comes from the Arroyo de la Gavia.",
+      "relevance_es": "Fuente secundaria de transporte que da la fecha de apertura, la ubicación en la avenida del Ensanche de Vallecas y la avenida de la Gavia, y la explicación habitual de que la avenida procede del arroyo de la Gavia."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the immediate naming chain: station from Avenida de la Gavia, ultimately from Arroyo de La Gavia, rather than implying the Metro station was named directly from the stream alone.",
+      "es": "Conviene usar la cadena inmediata: estación por la avenida de la Gavia, en último término por el arroyo de La Gavia, en vez de sugerir que la estación fue nombrada directamente solo por el arroyo."
+    },
+    {
+      "en": "Treat the Cerro de La Gavia archaeology as important context for the toponym, not as the direct source of the station name.",
+      "es": "Debe tratarse la arqueología del Cerro de La Gavia como contexto importante del topónimo, no como la fuente directa del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming record for Avenida de la Gavia would make the street-to-arroyo link fully primary.",
+      "es": "Un acuerdo municipal de denominación de la avenida de la Gavia permitiría documentar de forma plenamente primaria el enlace entre la vía y el arroyo."
+    },
+    {
+      "en": "No historical document was inspected that records the first use of Arroyo de La Gavia as a place name.",
+      "es": "No se inspeccionó ningún documento histórico que registre el primer uso de Arroyo de La Gavia como topónimo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_164/en/summary.short.md",
+      "summary": "content/stations/metro_164/en/summary.md",
+      "story": "content/stations/metro_164/en/story.md",
+      "confidence": "content/stations/metro_164/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_164/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_164/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_164/es/summary.short.md",
+      "summary": "content/stations/metro_164/es/summary.md",
+      "story": "content/stations/metro_164/es/story.md",
+      "confidence": "content/stations/metro_164/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_164/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_164/es/research-note.md"
+    }
+  }
+}

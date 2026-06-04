@@ -1,0 +1,1 @@
+The station's current name, location on Avenida de Pío XII, and Line 9 service are supported by CRTM; a contemporary 1983 press report confirms Pío XII as one of the stations opened on the new section. The person behind the avenue is unambiguous, although the exact municipal act naming the avenue was not located.

@@ -1,0 +1,1 @@
+The station is correctly linked to the Pinar del Rey area, but the claim that the name comes from an old Crown-owned royal pine forest is not supported by the strongest sources found. Official regional and municipal sources instead connect the name to the 1896 Fiesta del Árbol on the Cerro del Centinela, when a tree intended for Alfonso XIII was planted on his behalf.

@@ -1,0 +1,1 @@
+La estación de República Argentina toma su nombre de la plaza de la República Argentina, situada sobre ella en El Viso, Chamartín. La plaza conmemora a Argentina y después quedó asociada a la Fuente de los Delfines, surgida de un proyecto de posguerra para un Monumento a la Nación Argentina.

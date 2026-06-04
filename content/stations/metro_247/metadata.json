@@ -1,0 +1,118 @@
+{
+  "id": "metro_247",
+  "name": "Congosto",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle del Congosto / Colonia Congosto, Villa de Vallecas",
+  "previous_names": "No former station name found. The surrounding area is also documented in transport usage as Barrio de Vilano / Barrio Vilano.",
+  "naming_date": "1999; inauguration campaign dated 3 March 1999, with public service reported on 4 March 1999",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Congosto",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_27/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming Congosto as a Metro Line 1 station and listing its entrances on Calle del Congosto and Plaza de Congosto.",
+      "relevance_es": "Página oficial de transporte que confirma Congosto como estación de Metro de la línea 1 y enumera sus accesos en la calle del Congosto y la plaza de Congosto."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Municipal street directory documenting Calle del Congosto in Villa de Vallecas, including its numbering and route.",
+      "relevance_es": "Callejero municipal que documenta la calle del Congosto en Villa de Vallecas, con su numeración y trazado."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: congosto",
+      "url": "https://dle.rae.es/congosto",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary entry deriving congosto from Latin coangustus and defining it as a mountain defile.",
+      "relevance_es": "Entrada lexicográfica autorizada que deriva congosto del latín coangustus y lo define como desfiladero entre montañas."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: CŎNGǓSTU, CŎNGǓSTA",
+      "url": "https://toponhisp.org/es/etimo/congustu-congusta",
+      "type": "academic",
+      "relevance_en": "Academic toponymic source explaining the Latin etymon family and its classification as terrain/narrowing toponymy.",
+      "relevance_es": "Fuente académica de toponimia que explica la familia etimológica latina y su clasificación como toponimia de relieve o estrechamiento."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Congosta",
+      "url": "https://toponhisp.org/es/toponimia-asturiano-leonesa/toponimo/congosta",
+      "type": "academic",
+      "relevance_en": "Provides broader toponymic context: congosto/congosta as a transparent place-name for narrow gorges, often river-related.",
+      "relevance_es": "Aporta contexto toponímico general: congosto/congosta como topónimo transparente para gargantas o estrechamientos, a menudo fluviales."
+    },
+    {
+      "title": "CRTM, Memoria del Consorcio 1999",
+      "url": "https://crtm.es/media/2rdmrbk2/memoria_crtm_1999.pdf",
+      "type": "official",
+      "relevance_en": "Official annual report mentioning the Line 1 Miguel Hernández-Congosto extension campaign dated 3 March 1999.",
+      "relevance_es": "Memoria oficial que menciona la campaña de la prolongación de la línea 1 Miguel Hernández-Congosto fechada el 3 de marzo de 1999."
+    },
+    {
+      "title": "CRTM, EMT line 54 timetable/scheme",
+      "url": "https://crtm.es/datos_lineas/horarios/6054H2.pdf",
+      "type": "official",
+      "relevance_en": "Transport scheme preserving the destination wording Congosto and the parenthetical Barrio de Vilano, useful for older local naming context.",
+      "relevance_es": "Esquema de transporte que conserva la denominación de destino Congosto y la indicación entre paréntesis Barrio de Vilano, útil para el contexto local antiguo."
+    },
+    {
+      "title": "Víctor Aertsen, 'Espacio fílmico, denuncia social y memoria urbana: imágenes de Vallecas en el cine quinqui madrileño (1977-1981)', L'Atalante 36",
+      "url": "https://www.revistaatalante.com/index.php/atalante/article/download/1070/1526/5241",
+      "type": "academic",
+      "relevance_en": "Academic article identifying Calle Congosto and Colonia Congosto in Villa de Vallecas and describing the early-1970s colony in the urban periphery.",
+      "relevance_es": "Artículo académico que identifica la calle Congosto y la Colonia Congosto en Villa de Vallecas y describe la colonia de comienzos de los años setenta en la periferia urbana."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Jardín de la Colonia Congosto",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villa-de-Vallecas/Programacion-cultural-de-Villa-de-Vallecas/Programa-cultural-21-distritos-Villa-de-Vallecas/Jardin-de-la-Colonia-Congosto/",
+      "type": "official",
+      "relevance_en": "Municipal page documenting the present-day Colonia Congosto name in Casco Histórico de Vallecas / Villa de Vallecas and linking it to Metro Congosto.",
+      "relevance_es": "Página municipal que documenta el uso actual de Colonia Congosto en Casco Histórico de Vallecas / Villa de Vallecas y lo vincula con Metro Congosto."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should not be treated as opened in 2007; it belongs to the Line 1 extension to Congosto in 1999. The 2007 date refers to the later extension beyond Congosto toward Valdecarros.",
+      "es": "La estación no debe figurar como inaugurada en 2007; pertenece a la prolongación de la línea 1 hasta Congosto en 1999. La fecha de 2007 corresponde a la ampliación posterior más allá de Congosto hacia Valdecarros."
+    },
+    {
+      "en": "The name is more directly from Calle del Congosto and the local Congosto area/colony than from an official Madrid neighbourhood called Congosto; the official neighbourhood in the input is Casco Histórico de Vallecas.",
+      "es": "El nombre procede de forma más directa de la calle del Congosto y del área o colonia de Congosto que de un barrio oficial madrileño llamado Congosto; el barrio oficial del registro de entrada es Casco Histórico de Vallecas."
+    },
+    {
+      "en": "Claims about mills and water infrastructure should be presented as common for congosto toponyms elsewhere, not as documented local history for the Madrid station.",
+      "es": "Las referencias a molinos e infraestructuras hidráulicas deben presentarse como frecuentes en otros topónimos congosto, no como historia local documentada de esta estación madrileña."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or historical gazetteer entry for Calle del Congosto should be inspected to confirm the exact local reason and date for the street name.",
+      "es": "Conviene revisar un expediente municipal de denominación viaria o una entrada histórica del callejero sobre la calle del Congosto para confirmar el motivo local exacto y la fecha del nombre de la calle."
+    },
+    {
+      "en": "The relationship between the older name Barrio de Vilano and the later popular/transport use of Congosto deserves archival confirmation from EMT or district planning records.",
+      "es": "La relación entre el nombre antiguo Barrio de Vilano y el uso posterior popular o de transporte de Congosto merece confirmación archivística en fuentes de EMT o de planeamiento del distrito."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_247/en/summary.short.md",
+      "summary": "content/stations/metro_247/en/summary.md",
+      "story": "content/stations/metro_247/en/story.md",
+      "confidence": "content/stations/metro_247/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_247/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_247/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_247/es/summary.short.md",
+      "summary": "content/stations/metro_247/es/summary.md",
+      "story": "content/stations/metro_247/es/story.md",
+      "confidence": "content/stations/metro_247/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_247/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_247/es/research-note.md"
+    }
+  }
+}

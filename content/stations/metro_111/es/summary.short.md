@@ -1,0 +1,1 @@
+Portazgo toma su nombre del antiguo Portazgo de Vallecas, un punto de cobro en la carretera de Madrid hacia Valencia. El topónimo sobrevivió a la desaparición del peaje y pasó a la estación de la línea 1 inaugurada en 1962.

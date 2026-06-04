@@ -1,0 +1,1 @@
+Campamento is named for the historic military camp and barracks area west of Madrid, on former Carabanchel Alto land. The word literally means an encampment, and here it became a place-name through the Campamento Militar de Carabanchel.

@@ -1,0 +1,104 @@
+{
+  "id": "metro_156",
+  "name": "Manuel de Falla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Manuel de Falla",
+  "previous_names": "",
+  "naming_date": "2007-04-26",
+  "sources": [
+    {
+      "title": "CRTM - Manuel de Falla",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_281?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 10 service, Alcobendas location, and access at Calle Manuel de Falla, 59.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, el servicio de la línea 10, la ubicación en Alcobendas y el acceso en la calle Manuel de Falla, 59."
+    },
+    {
+      "title": "CRTM - Plano histórico de la red de Metro de Madrid 1919-2019",
+      "url": "https://www.crtm.es/media/heofhgdi/serie_i_historico_metro_2019_portada.pdf",
+      "type": "official",
+      "relevance_en": "Official historical chronology listing Manuel de Falla on Line 10 as opened on 26 April 2007 within MetroNorte.",
+      "relevance_es": "Cronología histórica oficial que incluye Manuel de Falla en la línea 10 como estación inaugurada el 26 de abril de 2007 dentro de MetroNorte."
+    },
+    {
+      "title": "Fundación Archivo Manuel de Falla - Madrid (1915-1919)",
+      "url": "https://www.manueldefalla.com/es/madrid-1915-1919",
+      "type": "official",
+      "relevance_en": "Chronology from the specialist Falla archive documenting El amor brujo, Noches en los jardines de España, and the 1919 London premiere of El sombrero de tres picos with Diaghilev, Massine, and Picasso.",
+      "relevance_es": "Cronología del archivo especializado de Falla que documenta El amor brujo, Noches en los jardines de España y el estreno londinense de 1919 de El sombrero de tres picos con Diaghilev, Massine y Picasso."
+    },
+    {
+      "title": "Fundación Archivo Manuel de Falla - Granada (1920-1939)",
+      "url": "https://www.manueldefalla.com/es/granada-1920-1939",
+      "type": "official",
+      "relevance_en": "Specialist chronology documenting Falla's later Granada period, his departure for Argentina in 1939, the Franco government's pension offer, and his refusal.",
+      "relevance_es": "Cronología especializada que documenta la etapa granadina final de Falla, su salida hacia Argentina en 1939, la oferta de pensión del gobierno de Franco y su rechazo."
+    },
+    {
+      "title": "Fundación Juan March - Semblanzas de compositores españoles: Manuel de Falla",
+      "url": "https://recursos.march.es/web/musica/publicaciones/semblanzas/ebook/semblanzas-de-compositores-fundacion-juan-march.pdf",
+      "type": "reference",
+      "relevance_en": "Authoritative music reference summarizing Falla's dates, major cities, burial in Cádiz, and importance as the leading Spanish composer of the twentieth century.",
+      "relevance_es": "Referencia musical autorizada que resume las fechas de Falla, sus ciudades principales, su sepultura en Cádiz y su importancia como principal compositor español del siglo XX."
+    },
+    {
+      "title": "Eva Moreda Rodríguez, A Catholic, a patriot, a good modernist: Manuel de Falla and the Francoist musical press",
+      "url": "https://eprints.gla.ac.uk/69697/",
+      "type": "academic",
+      "relevance_en": "Academic article giving context for Falla's 1939 move to Argentina and the Franco regime's attempts to appropriate his public image.",
+      "relevance_es": "Artículo académico que contextualiza la marcha de Falla a Argentina en 1939 y los intentos del régimen franquista de apropiarse de su imagen pública."
+    },
+    {
+      "title": "Ayuntamiento de Alcobendas - Teatro Auditorio Ciudad de Alcobendas",
+      "url": "https://www.alcobendas.org/es/territorial/teatro-auditorio-ciudad-de-alcobendas",
+      "type": "official",
+      "relevance_en": "Municipal page using Metro Manuel de Falla as a local transport access, confirming the station's civic setting in Alcobendas.",
+      "relevance_es": "Página municipal que cita el Metro Manuel de Falla como acceso de transporte local, confirmando su contexto urbano en Alcobendas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace Wikipedia as the main evidence with official transport sources for the station and Fundación Archivo Manuel de Falla/Fundación Juan March for the composer.",
+      "es": "Sustituir Wikipedia como prueba principal por fuentes oficiales de transporte para la estación y por la Fundación Archivo Manuel de Falla/Fundación Juan March para el compositor."
+    },
+    {
+      "en": "Clarify that the station appears to take its name from Calle Manuel de Falla in Alcobendas, not from a separately documented metro dedication found online.",
+      "es": "Aclarar que la estación parece tomar su nombre de la calle Manuel de Falla de Alcobendas, no de una dedicación independiente del metro documentada en línea."
+    },
+    {
+      "en": "Add the opening/naming date: 26 April 2007, when Manuel de Falla opened as part of MetroNorte.",
+      "es": "Añadir la fecha de apertura/asignación del nombre: 26 de abril de 2007, cuando Manuel de Falla abrió dentro de MetroNorte."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Alcobendas municipal street-naming records or plenary minutes to confirm the exact date and wording by which Calle Manuel de Falla was named.",
+      "es": "Consultar los expedientes o actas municipales de Alcobendas para confirmar la fecha exacta y la redacción con que se nombró la calle Manuel de Falla."
+    },
+    {
+      "en": "If a public display wants to include detailed claims about Falla's illness or political choices, those should be sourced separately and kept secondary to the station-name story.",
+      "es": "Si una ficha pública quiere incluir afirmaciones detalladas sobre la enfermedad o las decisiones políticas de Falla, conviene documentarlas por separado y mantenerlas como información secundaria respecto al origen del nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_156/en/summary.short.md",
+      "summary": "content/stations/metro_156/en/summary.md",
+      "story": "content/stations/metro_156/en/story.md",
+      "confidence": "content/stations/metro_156/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_156/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_156/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_156/es/summary.short.md",
+      "summary": "content/stations/metro_156/es/summary.md",
+      "story": "content/stations/metro_156/es/story.md",
+      "confidence": "content/stations/metro_156/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_156/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_156/es/research-note.md"
+    }
+  }
+}

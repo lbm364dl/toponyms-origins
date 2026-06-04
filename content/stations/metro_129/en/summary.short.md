@@ -1,0 +1,1 @@
+Arganzuela-Planetario is named for the Arganzuela district and the Madrid Planetarium beside Parque Enrique Tierno Galván. The station opened on Line 6 on 26 January 2007 between Legazpi and Méndez Álvaro.

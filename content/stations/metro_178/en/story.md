@@ -1,0 +1,9 @@
+The Metro name is local before it is devotional. San Fernando station is on Line 7 in the municipality of San Fernando de Henares, and its name identifies the town it serves rather than a separate church, saint's shrine, or street-only reference.
+
+Behind that municipal name is an eighteenth-century royal project. In 1746, the place of Torrejón de la Ribera was incorporated into the Crown for the establishment of a royal cloth factory. Under Fernando VI, the factory, workers' housing, and planned squares gave rise to the Real Sitio de San Fernando, an industrial and urban experiment of the Bourbon Enlightenment.
+
+The word Fernando points in two directions at once. It recalls Fernando VI, the monarch associated with the foundation, but the religious form San Fernando refers to the king's name-day saint: Ferdinand III of Castile and León, the medieval ruler known as el Santo. Ferdinand III's cult was formally extended in 1671, which helps explain why the saint's name could serve as a prestigious royal and devotional reference in the eighteenth century.
+
+The station also sits unusually close to the founding story. Accounts of the station place it in the historic centre, by the area of the former Royal Cloth Factory; transport documentation for Line 7B records the 2003-2007 extension to Coslada and San Fernando de Henares, while the Community of Madrid's Metro expansion page lists the Line 7 prolongation to Las Musas-Coslada-San Fernando de Henares as MetroEste.
+
+The Henares part is later and slightly awkward historically. The municipality is documented as changing in 1916 from San Fernando de Jarama to San Fernando de Henares, although the Jarama is the river more closely tied to the original site. For public display, the safest wording is therefore that the station is named after the municipality, whose name combines a royal-devotional San Fernando with the later Henares river designation.

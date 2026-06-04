@@ -1,0 +1,1 @@
+La fila acierta en lo esencial: el nombre actual procede del topónimo Opañel en Carabanchel y la estación se llamó primero Elvas. Sin embargo, fuentes más sólidas sitúan el cambio de nombre el 27 de junio de 1983, no el 27 de junio de 1984, y la explicación hidronímica prerromana es solo una hipótesis tipológica, no una etimología demostrada para Opañel.

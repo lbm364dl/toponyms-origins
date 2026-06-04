@@ -1,0 +1,9 @@
+Simancas station is named for the Madrid neighbourhood of Simancas. A municipal record for a 1991 photograph from Metro de Madrid's archive says the station opened to the public in July 1974 as part of the first section of Line 7 and that it serves Amposta and Simancas, taking its name from the latter.
+
+Behind the Madrid neighbourhood name lies the older place-name Simancas, most recognisably the town in Valladolid. The Valladolid town stands near the Pisuerga and is historically important enough that its name has travelled through streets, neighbourhoods and institutions beyond the town itself.
+
+The deeper origin is not the colourful phrase often repeated in legend. Toponomasticon Hispaniae gives the etymon as Septimanca and describes Simancas as probably identifiable with the Septimanca of the Antonine Itinerary. It also warns that the name is likely a Latin adaptation of an earlier Celtic or Indo-European word whose meaning is unknown, even though medieval spellings encouraged later associations with Latin septem, 'seven'.
+
+That association fed the famous story of the seven maimed maidens: seven young women supposedly cut off one hand to avoid being handed over as tribute. The story remains culturally visible in Simancas, where the town hall describes local celebrations connected with the 'sietemancas' legend, but it should be presented as tradition and folk etymology rather than as proven origin.
+
+The Valladolid Simancas also matters for two solid historical reasons. Near the town, in 939, Ramiro II of Leon defeated Abd al-Rahman III's Cordoban forces in the Battle of Simancas; later, the town's castle became the Archivo General de Simancas, a major archive of the Hispanic Monarchy. For the Madrid station, however, the direct naming layer is local and urban: the Metro stop is named after the Madrid barrio, while the barrio name carries the older Castilian place-name with it.

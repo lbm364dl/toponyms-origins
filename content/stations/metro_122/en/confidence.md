@@ -1,0 +1,1 @@
+Official and institutional sources confirm the surrounding place name, the official neighbourhood name, the 1927 origin of the campus project, and the 13 January 1987 opening of the Line 6 extension to Ciudad Universitaria. No competing etymology was found.

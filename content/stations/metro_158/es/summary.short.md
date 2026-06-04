@@ -1,0 +1,1 @@
+La estación de Avenida de la Paz toma su nombre de la avenida que forma el tramo oriental de la M-30 madrileña. El nombre es anterior a la estación: el callejero municipal registra la avenida de la Paz desde el 26 de noviembre de 1965, y estudios posteriores la interpretan como una referencia franquista a la paz posterior a la Guerra Civil.

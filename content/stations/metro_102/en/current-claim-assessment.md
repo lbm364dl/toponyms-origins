@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station preserves the old street name Lista, which referred to Alberto Rodríguez de Lista y Aragón, while the street was later renamed José Ortega y Gasset in 1955. Stronger support comes from Metro de Madrid/Museos Metro Madrid and Madrid municipal material rather than Wikipedia.

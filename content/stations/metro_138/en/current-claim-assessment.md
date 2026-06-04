@@ -1,0 +1,1 @@
+The main claim is plausible: the station name refers to the Madrid barrio of Pueblo Nuevo, literally 'New Town'. However, the detailed origin in the input relies on secondary local-history material; the annexation chronology should be corrected to Canillas and Canillejas in 1950 and Vicálvaro in 1951.

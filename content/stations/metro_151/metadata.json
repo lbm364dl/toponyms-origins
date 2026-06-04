@@ -1,0 +1,100 @@
+{
+  "id": "metro_151",
+  "name": "Julián Besteiro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Julián Besteiro Fernández",
+  "previous_names": "",
+  "naming_date": "2003-04-11 (opened with current name)",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Julián Besteiro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_232?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 12 connection, fare zone B1, and Avenida Rey Juan Carlos I accesses in Leganés.",
+      "relevance_es": "Confirma el nombre actual de la estación, la conexión con la línea 12, la zona tarifaria B1 y los accesos en la avenida Rey Juan Carlos I de Leganés."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Provides official MetroSur context, including the five municipalities, more than 40 km, 28 stations, and the specific location and features of Julián Besteiro station.",
+      "relevance_es": "Aporta el contexto oficial de MetroSur, incluidos los cinco municipios, los más de 40 km, las 28 estaciones y la ubicación y características concretas de la estación Julián Besteiro."
+    },
+    {
+      "title": "Congreso de los Diputados: Julián Besteiro Fernández, presidente",
+      "url": "https://www.congreso.es/es/presidentes-del-congreso-de-los-diputados?codigo=15170&tipoHistorico=1",
+      "type": "official",
+      "relevance_en": "Authoritative parliamentary biography giving Besteiro's Cortes presidency dates, UGT role, 1939 military sentence and death in Carmona prison.",
+      "relevance_es": "Biografía parlamentaria autorizada que da las fechas de la presidencia de Besteiro en las Cortes, su papel en la UGT, la condena militar de 1939 y su muerte en la prisión de Carmona."
+    },
+    {
+      "title": "Real Academia de la Historia, Historia Hispánica: Julián Mateo José María Besteiro Fernández",
+      "url": "https://historia-hispanica.rah.es/biografias/7180-julian-mateo-jose-maria-besteiro-fernandez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry confirming his birth and death dates, professions, education at the Institución Libre de Enseñanza, and public roles.",
+      "relevance_es": "Entrada biográfica autorizada que confirma sus fechas de nacimiento y muerte, profesiones, formación en la Institución Libre de Enseñanza y cargos públicos."
+    },
+    {
+      "title": "Fundación Pablo Iglesias / Escuela Julián Besteiro: Besteiro Fernández, Julián",
+      "url": "https://escuelajulianbesteiro.ugt.org/sites/escuelajulianbesteiro.ugt.org/files/ficha_besteiro-fernandez-julian_0.pdf",
+      "type": "reference",
+      "relevance_en": "Specialized socialist movement biographical sheet documenting his PSOE and UGT career, parliamentary service, opposition to radicalization, imprisonment and death.",
+      "relevance_es": "Ficha biográfica especializada del movimiento socialista que documenta su trayectoria en el PSOE y la UGT, actividad parlamentaria, oposición a la radicalización, encarcelamiento y muerte."
+    },
+    {
+      "title": "Ayuntamiento de Leganés: Centro Cívico Julián Besteiro",
+      "url": "https://www.leganes.org/web/guest/w/centro-civico-julian-besteiro",
+      "type": "official",
+      "relevance_en": "Confirms the nearby municipal civic and cultural facility named Julián Besteiro at Avenida Rey Juan Carlos I, 30, with MetroSur access through Julián Besteiro station.",
+      "relevance_es": "Confirma el equipamiento cívico y cultural municipal cercano llamado Julián Besteiro en la avenida Rey Juan Carlos I, 30, con acceso por MetroSur mediante la estación Julián Besteiro."
+    },
+    {
+      "title": "El País: Decenas de miles de viajeros usan metrosur el día de su inauguración",
+      "url": "https://elpais.com/diario/2003/04/12/madrid/1050146667_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report documenting the inauguration of MetroSur/Line 12 on 11 April 2003 and its 41-km, 28-station scope.",
+      "relevance_es": "Crónica periodística contemporánea que documenta la inauguración de MetroSur/línea 12 el 11 de abril de 2003 y su alcance de 41 km y 28 estaciones."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full commemorated name as Julián Besteiro Fernández, not only Julián Besteiro, in the structured named-after field where possible.",
+      "es": "Usar el nombre completo conmemorado, Julián Besteiro Fernández, y no solo Julián Besteiro, en el campo estructurado de persona cuando sea posible."
+    },
+    {
+      "en": "For the presidency of the Cortes, the Congress page gives exact dates: interim 14-26 July 1931 and definitive 27 July 1931-9 October 1933.",
+      "es": "Para la presidencia de las Cortes, la página del Congreso da fechas exactas: interina del 14 al 26 de julio de 1931 y definitiva del 27 de julio de 1931 al 9 de octubre de 1933."
+    },
+    {
+      "en": "Add that the station is in Leganés, not in the municipality of Madrid, and opened as part of MetroSur/Line 12.",
+      "es": "Añadir que la estación está en Leganés, no en el municipio de Madrid, y que se abrió como parte de MetroSur/línea 12."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid, CRTM, Community of Madrid or municipal naming resolution for the station was not found in the accessible web sources; an archival project file or BOCM notice could confirm the administrative naming act.",
+      "es": "No se localizó en fuentes web accesibles un acuerdo formal de Metro de Madrid, CRTM, Comunidad de Madrid o Ayuntamiento sobre la denominación de la estación; un expediente de obra o aviso del BOCM podría confirmar el acto administrativo de nombramiento."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_151/en/summary.short.md",
+      "summary": "content/stations/metro_151/en/summary.md",
+      "story": "content/stations/metro_151/en/story.md",
+      "confidence": "content/stations/metro_151/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_151/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_151/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_151/es/summary.short.md",
+      "summary": "content/stations/metro_151/es/summary.md",
+      "story": "content/stations/metro_151/es/story.md",
+      "confidence": "content/stations/metro_151/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_151/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_151/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La estación se llama así por la avenida de la Ilustración, el tramo noroccidental de la M-30 abierto en 1992. El nombre de la avenida alude a la Ilustración, movimiento asociado a la razón, el progreso y la reforma.

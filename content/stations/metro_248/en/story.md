@@ -1,0 +1,9 @@
+Valdecarros station is named after a place: the Valdecarros development area in the district of Villa de Vallecas. When line 1 was extended south from Congosto, the three new stations were La Gavia, Las Suertes and Valdecarros; Valdecarros became the line's southern terminus on 16 May 2007.
+
+The name is older than the metro. Madrid's planning documents use Valdecarros for the huge southeastern development area beside the Ensanche de Vallecas, bounded by places such as La Atalayuela, Mercamadrid, the M-50 and the future urban fabric of the southeast. The station is therefore not named after a person, but after an inherited local place-name reused for a new urban district.
+
+As a Spanish toponym, Valdecarros is easy to parse: val means 'valley', and carros means 'carts'. That gives the likely public sense 'valley of carts', a rural name that fits the former agricultural and track-based landscape of the outskirts of Vallecas. This is a linguistic reading, not yet a fully proved archival etymology for the Madrid site.
+
+The name also shows how transport can freeze a future geography before the city is complete. Contemporary reports noted that the stations opened while much of the surrounding housing was still unfinished, and that only one in three trains initially continued to the new southern end. The metro name made Valdecarros visible on the network map before Valdecarros had become a fully built neighborhood.
+
+A caution is needed: a detailed theory linking Valdecarros to 'Valle de Navarros' and to a document dated 21 April 1296 belongs to sources about the municipality of Valdecarros in Salamanca. It should not be presented as proven for the Madrid station without a Madrid-specific archival source. For public display, the safest formulation is that the station is named after the Madrid Valdecarros development, whose place-name probably means 'valley of carts'.

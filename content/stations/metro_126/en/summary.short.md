@@ -1,0 +1,1 @@
+The Metro station is named for the Barrio del Pilar, the Madrid neighbourhood it serves. The neighbourhood name is widely explained as a dedication by developer José Banús to his wife, Pilar Calvo y Sánchez de León, rather than as a direct Marian dedication.

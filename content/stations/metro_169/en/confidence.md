@@ -1,0 +1,1 @@
+Multiple independent sources support the local-name chain: city material documents Colonia Lacoma as a 1950s Peñagrande nucleus; heritage records document Margarita Lacoma's Casa Lacoma in 1925; transport/archive and press sources document the Lacoma station opening on 29 March 1999. The only remaining uncertainty concerns some biographical details, not the station-name origin.

@@ -1,0 +1,1 @@
+Mirasierra station is named for the Madrid neighbourhood it serves. The place name is a transparent descriptive name, usually understood as 'look at the sierra' or 'view of the mountains', referring to the Sierra de Guadarrama visible from this northern, elevated part of Madrid.

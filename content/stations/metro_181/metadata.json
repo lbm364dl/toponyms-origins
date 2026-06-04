@@ -1,0 +1,89 @@
+{
+  "id": "metro_181",
+  "name": "Hospital del Henares",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Hospital Universitario del Henares",
+  "previous_names": "",
+  "naming_date": "2008-02-11",
+  "sources": [
+    {
+      "title": "Hospital del Henares - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_296/",
+      "type": "official",
+      "relevance_en": "Official current transport listing for the Hospital del Henares Metro station, showing Line 7, B1 fare zone, accesses on Camino Labor in Coslada and interchange bus lines.",
+      "relevance_es": "Ficha oficial actual de transporte de la estación de Metro Hospital del Henares, con línea 7, zona tarifaria B1, accesos en Camino Labor de Coslada y conexiones de autobús."
+    },
+    {
+      "title": "Hospital Universitario del Henares - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/centros/hospital-universitario-henares",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page stating that the hospital opened its doors on 11 February 2008 and serves residents of Coslada, San Fernando de Henares, Mejorada del Campo, Loeches and Velilla de San Antonio.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que indica que el hospital abrió sus puertas el 11 de febrero de 2008 y atiende a vecinos de Coslada, San Fernando de Henares, Mejorada del Campo, Loeches y Velilla de San Antonio."
+    },
+    {
+      "title": "Localización y acceso - Hospital Universitario del Henares",
+      "url": "https://www.comunidad.madrid/hospital/henares/nosotros/localizacion-acceso",
+      "type": "official",
+      "relevance_en": "Official hospital access page locating the hospital in Coslada and listing Metro Line 7, Pitis-Hospital del Henares, as an access route.",
+      "relevance_es": "Página oficial de accesos del hospital que lo sitúa en Coslada e incluye la línea 7 de Metro, Pitis-Hospital del Henares, como forma de llegada."
+    },
+    {
+      "title": "Henares - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/3682",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic source explaining Henares as a Castilian river name derived from the plural of henar, 'place populated with hay', ultimately from Latin fenum.",
+      "relevance_es": "Fuente toponímica autorizada que explica Henares como nombre castellano de río derivado del plural de henar, 'sitio poblado de heno', procedente en último término del latín fenum."
+    },
+    {
+      "title": "El Hospital del Henares contará desde el 11 de febrero con una estación de Metro de la línea 7 - Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-hospital-henares-contara-11-febrero-estacion-metro-linea-20080207181534.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 7 February 2008 stating that the hospital would have a Line 7 station from Monday 11 February and that the extension was lengthened to serve the hospital.",
+      "relevance_es": "Crónica contemporánea del 7 de febrero de 2008 que indica que el hospital contaría con una estación de la línea 7 desde el lunes 11 de febrero y que la prolongación se amplió para dar servicio al hospital."
+    },
+    {
+      "title": "WAD - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/index.php/an/node/4792",
+      "type": "academic",
+      "relevance_en": "Toponymic source confirming the Arabic element wadi/wad in Spanish place-names and giving Guadalajara as wad al-hajara, 'river of stones'.",
+      "relevance_es": "Fuente toponímica que confirma el elemento árabe wadi/wad en topónimos españoles y ofrece Guadalajara como wad al-hajara, 'río de las piedras'."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'opened simultaneously with the metro station' with a more precise chronology: the station was publicly presented on 7 February 2008, the hospital was officially inaugurated around 8 February, and the hospital opened its doors and had Metro access from 11 February 2008.",
+      "es": "Sustituir 'inaugurado simultáneamente con la estación de metro' por una cronología más precisa: la estación se presentó públicamente el 7 de febrero de 2008, el hospital fue inaugurado oficialmente hacia el 8 de febrero y el hospital abrió sus puertas y contó con acceso en Metro desde el 11 de febrero de 2008."
+    },
+    {
+      "en": "Treat the Arabic Guadalajara explanation as historical background for the Henares valley, not as the direct etymology of the station name.",
+      "es": "Tratar la explicación árabe de Guadalajara como contexto histórico del valle del Henares, no como etimología directa del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "An official Metro de Madrid historical station file or 2008 press release would be useful to settle the station's exact public-opening date versus inauguration date.",
+      "es": "Sería útil consultar una ficha histórica oficial de Metro de Madrid o una nota de prensa de 2008 para fijar con exactitud la fecha de apertura al público frente a la fecha de inauguración de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_181/en/summary.short.md",
+      "summary": "content/stations/metro_181/en/summary.md",
+      "story": "content/stations/metro_181/en/story.md",
+      "confidence": "content/stations/metro_181/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_181/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_181/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_181/es/summary.short.md",
+      "summary": "content/stations/metro_181/es/summary.md",
+      "story": "content/stations/metro_181/es/story.md",
+      "confidence": "content/stations/metro_181/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_181/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_181/es/research-note.md"
+    }
+  }
+}

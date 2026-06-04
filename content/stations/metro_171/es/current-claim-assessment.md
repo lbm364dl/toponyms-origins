@@ -1,0 +1,1 @@
+La afirmación general de que la estación toma el nombre del barrio/topónimo Peñagrande y que las palabras significan una peña o roca grande está bien respaldada. No se pudo confirmar en las fuentes consultadas la afirmación más narrativa sobre una roca prominente usada durante siglos como hito por pastores.

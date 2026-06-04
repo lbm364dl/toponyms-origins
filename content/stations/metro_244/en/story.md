@@ -1,0 +1,9 @@
+The station name points first to the urban toponym around it: Miguel Hernández, on Line 1, is associated with the nearby Avenida de Miguel Hernández in Puente de Vallecas. The avenue honors Miguel Hernández Gilabert, so the station is ultimately a literary commemoration rather than a descriptive place-name.
+
+Hernández was born in Orihuela, Alicante, on 30 October 1910, in a family linked to livestock and rural work. His early biography matters because it shaped his public image: he had limited formal schooling, worked as a shepherd in youth, and built much of his literary education through reading, local literary circles, and later contacts in Madrid.
+
+By the 1930s he had become a major poetic voice. His first book, *Perito en lunas*, appeared in 1933, and *El rayo que no cesa* followed in January 1936. During the Civil War he joined the Republican army, worked in cultural and propaganda activity, and published *Viento del pueblo* in 1937, a book closely tied to the wartime public voice for which he is remembered.
+
+The transport history is also precise. The Community of Madrid records the Portazgo-Miguel Hernández extension as entering service on 7 April 1994, adding Buenos Aires, Alto del Arenal and Miguel Hernández and taking Metro service into Palomeras, Vallecas. Miguel Hernández then served as the end of Line 1 until the next extension toward Congosto entered service in March 1999.
+
+The name is well supported, but one detail needs care: the station is not in Villa de Vallecas, and it did not open in 2007. Official transport documentation places the 1994 extension in Palomeras/Vallecas, while Madrid's official street list places Avenida de Miguel Hernández in Puente de Vallecas. The direct claim that the station takes its name from that nearby avenue is best documented in secondary station references, while the underlying dedication to the poet is strongly supported by official and cultural sources.

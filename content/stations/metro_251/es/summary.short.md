@@ -1,0 +1,1 @@
+La estación de Alsacia toma su nombre de la plaza de Alsacia, bajo la que se construyó al ampliarse la línea 2 hasta Las Rosas en 2011. El nombre de la plaza remite a Alsacia, la región fronteriza del Rin cuya historia moderna enlaza a Francia, Alemania, el conflicto y después la reconciliación europea.

@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes the name of the Aluche neighbourhood, whose name is tied to the historic Arroyo Luche. However, the proposed derivation from a cartographic abbreviation 'A. Luche' is weak and conflicts with evidence that 'Aluche' was already documented in 1580.

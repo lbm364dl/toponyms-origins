@@ -1,0 +1,1 @@
+La estación de Las Rosas toma su nombre del ámbito urbano de Las Rosas, hoy vinculado al barrio administrativo de Rosas en San Blas-Canillejas. El origen último del topónimo no está claro: las fuentes urbanísticas oficiales lo documentan como sector y urbanización de Las Rosas, no como un jardín de rosales comprobado.

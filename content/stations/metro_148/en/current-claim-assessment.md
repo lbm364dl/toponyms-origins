@@ -1,0 +1,1 @@
+The main idea is well supported: the station takes its name from the Colonia Jardín/Arroyo Meaques residential area by the station. Some details in the current row are over-specific or weakly sourced, especially the direct link to Ebenezer Howard and the combined statement about three postwar military colonies.

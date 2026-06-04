@@ -1,0 +1,1 @@
+La estación de Estrella toma su nombre del barrio de la Estrella, en Retiro. El origen mejor apoyado del topónimo es la antigua vinculación de los terrenos con Seguros La Estrella, reflejada después en calles con nombres de estrellas, constelaciones y figuras celestes.

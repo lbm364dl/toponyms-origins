@@ -1,0 +1,1 @@
+Colonia Jardín is named for the garden-like residential colony beside the station, historically tied to the military housing colony of Arroyo Meaques. The name reflects a low-rise enclave of small houses and gardens on the Campamento edge of Madrid.

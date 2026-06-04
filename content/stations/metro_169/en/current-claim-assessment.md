@@ -1,0 +1,1 @@
+The core claim is well supported: Lacoma is best explained through Margarita Gonzalez Lacoma and the Colonia Lacoma promoted in Peñagrande. The row is too definite about her birthplace and should nuance the construction chronology and the role of the company Marcudos.

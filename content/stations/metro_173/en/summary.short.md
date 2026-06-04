@@ -1,0 +1,1 @@
+The metro station is named for the Barrio de la Concepción in Ciudad Lineal. The neighborhood name appears to preserve an older Marian toponym, La Purísima Concepción, later reused by the large postwar housing district.

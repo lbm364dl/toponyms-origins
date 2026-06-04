@@ -1,0 +1,1 @@
+The station is correctly connected with the Valdecarros place-name in Villa de Vallecas, but the detailed 1296 and Navarrese-resettlement material appears to come from the municipality of Valdecarros in Salamanca, not from the Madrid station or the Madrid development.

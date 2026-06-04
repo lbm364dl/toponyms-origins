@@ -1,0 +1,1 @@
+The core claim is well supported: the station name refers to the Henares River, and the river name is explained by authoritative toponymic work as the plural of henar, a place with hay. The statement that the river was known as Guadalajara in the Islamic period is plausible but less central and less directly documented than the henar explanation.

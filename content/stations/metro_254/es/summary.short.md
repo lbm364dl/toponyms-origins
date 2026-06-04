@@ -1,0 +1,1 @@
+Debe su nombre al barrio de Ciudad de los Ángeles, en Villaverde. El nombre del barrio se explica localmente por su cercanía al Cerro de los Ángeles de Getafe, considerado durante mucho tiempo centro simbólico o tradicional de la Península Ibérica.

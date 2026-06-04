@@ -1,0 +1,1 @@
+La afirmación existente está bien sustentada: la historia oficial de la parroquia indica que el Metro El Carmen tomó su nombre de la antigua Capilla del Carmen situada en la actual calle de Alcalá 246, abierta en 1928 y convertida después en sede parroquial del Espíritu Santo.

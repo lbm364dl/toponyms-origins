@@ -1,0 +1,1 @@
+Ciudad Lineal is named for the Madrid area whose name comes from Arturo Soria y Mata's pioneering linear-city plan. The station opened in 1964 at the transport node around Calle de Alcalá and Calle de Arturo Soria, near the surviving axis of that urban experiment.

@@ -1,0 +1,1 @@
+Campamento toma su nombre del histórico campamento militar y zona de cuarteles situada al oeste de Madrid, en antiguos terrenos de Carabanchel Alto. La palabra significa literalmente un lugar de acampada, y aquí se convirtió en topónimo por el Campamento Militar de Carabanchel.

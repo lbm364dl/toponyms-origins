@@ -1,0 +1,1 @@
+The core etymology is correct: the station name ultimately honors the poet Miguel Hernández Gilabert. The row should be corrected from 'street' to 'avenue', and its district/opening context is wrong: the station is in Puente de Vallecas and opened with the Portazgo-Miguel Hernández extension on 7 April 1994, not in Villa de Vallecas in 2007.

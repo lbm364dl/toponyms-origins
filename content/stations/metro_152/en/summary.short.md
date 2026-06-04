@@ -1,0 +1,1 @@
+Juan de la Cierva station is named for the Getafe neighbourhood it serves, which honors Juan de la Cierva y Codorníu, the Murcia-born engineer who invented the autogiro. The link is especially local because successful early autogiro trials took place at Getafe in 1923.

@@ -1,0 +1,9 @@
+Portazgo station takes its name from a place-name already established in Vallecas before the Metro arrived. In Spanish, a **portazgo** was a toll or duty paid for passing a specified point on a road; the term could also refer to the tollhouse or collection place itself.
+
+The local reference is the **Portazgo de Vallecas**, connected with the road from Madrid toward Valencia. Local historical work traces its first known notice to 1793, when a royal decision established a toll at the Fuente de Ygares to help maintain the road from Madrid to Vallecas. Nineteenth-century press references then repeatedly mention land, rentals, road conditions, and official leases around the Portazgo de Vallecas.
+
+This means the station name should not be presented simply as a medieval survival. Portazgos existed in medieval and early-modern Spain, but the Vallecas case is better documented as a late-18th- and 19th-century road-fiscal point on the Valencia road. By 1850, for example, notices described the toll as being on the Madrid-Valencia road, and later references place it between Madrid, the Puente de Vallecas area, and the old village of Vallecas.
+
+The name outlived the institution. By the late 19th century, sources suggest that fiscal control had shifted toward a fielato near the Puente de Vallecas/Pacifico area, while the older Portazgo remained a recognizable place on the road. The word then passed into the urban geography of modern Vallecas, including the present administrative barrio name and the Metro station.
+
+The station opened with the Line 1 extension to Portazgo in July 1962 and served for decades as the southeastern end of the line before later extensions. Its name is therefore best read as a transport echo: a modern rapid-transit stop named for an older stopping point where carts, goods, and travellers once encountered the fiscal edge of Madrid's road system.

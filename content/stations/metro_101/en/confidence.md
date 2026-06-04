@@ -1,0 +1,1 @@
+Metro de Madrid's historical station sheet explicitly states the station's location by Calle Velázquez and says Calle de Velázquez is named for Diego Rodríguez de Silva y Velázquez. Authoritative Prado and RAH-linked sources verify the painter's identity, dates and significance. The only unresolved part is the exact municipal date when the street itself was named.

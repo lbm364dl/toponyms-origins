@@ -1,0 +1,1 @@
+Vinateros takes its name from Calle/Camino de los Vinateros, a historic Moratalaz road name. The word vinatero means a person connected with wine production or trade, and local tradition links the route with wine entering Madrid from the southeast.

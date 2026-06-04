@@ -1,0 +1,1 @@
+La estación Barrio del Puerto toma el nombre del barrio de Coslada donde se sitúa. El topónimo alude al Puerto Seco de Madrid-Coslada, una terminal ferroviaria interior conectada con grandes puertos marítimos españoles.

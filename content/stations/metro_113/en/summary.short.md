@@ -1,0 +1,1 @@
+Alto de Extremadura is named for the high ground and urban place-name on Madrid's Paseo de Extremadura. That road follows the old western exit from Madrid toward Alcorcón, Extremadura, Badajoz and Portugal.

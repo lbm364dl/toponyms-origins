@@ -1,0 +1,1 @@
+La identificación general como topónimo del lugar es correcta, pero la fila parece mezclar el barrio/parque madrileño con una historia no respaldada sobre un parque de Cecilio Rodríguez construido en 1928-1933. Las fuentes más sólidas apuntan a una colonia y zona verde de Guindalera desarrollada entre los años cincuenta y sesenta.

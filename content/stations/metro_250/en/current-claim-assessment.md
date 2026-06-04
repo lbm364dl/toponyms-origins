@@ -1,0 +1,1 @@
+The core claim is verified: the station takes its name from Avenida de Guadalajara, and Guadalajara is a place-name of Arabic origin. Some surrounding wording is weaker or unnecessary: the avenue is not evidenced here as the main road to Guadalajara, and the station is better located in Arcos, San Blas-Canillejas.

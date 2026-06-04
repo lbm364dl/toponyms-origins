@@ -1,0 +1,1 @@
+La afirmación central está bien respaldada: el nombre de la estación alude al cercano Lago de la Casa de Campo. Conviene matizar la ficha porque el lago no es simplemente una creación del siglo XVIII; las fuentes oficiales y municipales remontan su origen a estanques artificiales del siglo XVI, reformados después hasta dar lugar al lago actual.

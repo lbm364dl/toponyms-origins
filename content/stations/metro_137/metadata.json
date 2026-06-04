@@ -1,0 +1,118 @@
+{
+  "id": "metro_137",
+  "name": "San Blas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "San Blas neighbourhood; probably, at a deeper level, Blas Pérez González according to local secondary sources",
+  "previous_names": "",
+  "naming_date": "1974",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: San Blas station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_133?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current transport station named San Blas and its Line 7 service context.",
+      "relevance_es": "Confirma la estación de transporte actual llamada San Blas y su contexto de servicio en la línea 7."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 7 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-7-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Gives the official history of Line 7, including the 1974 opening of the Las Musas-Pueblo Nuevo section.",
+      "relevance_es": "Aporta la historia oficial de la línea 7, incluida la apertura en 1974 del tramo Las Musas-Pueblo Nuevo."
+    },
+    {
+      "title": "Portal de las Bibliotecas de Madrid: San Blas, el gran barrio obrero de Madrid",
+      "url": "https://bibliotecas.madrid.es/portales/bibliotecas/es/Noticias/A-vueltas-con-Madrid-/?idCapitulo=12811775&vgnextchannel=165a0b6eb5cb3510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=26f46b471ea98510VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Authoritative municipal cultural summary of the area's rural past, 1958 housing origin, Gran San Blas development, and the arrival of Metro in 1974.",
+      "relevance_es": "Resumen cultural municipal autorizado sobre el pasado rural de la zona, el origen residencial de 1958, el desarrollo del Gran San Blas y la llegada del Metro en 1974."
+    },
+    {
+      "title": "Fundación Arquitectura COAM: Poblado Gran San Blas",
+      "url": "https://fcoam.eu/guia/F3/F3.146.htm",
+      "type": "academic",
+      "relevance_en": "Documents Gran San Blas as the major housing operation of the 1958 Social Urgency Plan, promoted by the Obra Sindical del Hogar, with dates and scale.",
+      "relevance_es": "Documenta el Gran San Blas como la gran operación residencial del Plan de Urgencia Social de 1958, promovida por la Obra Sindical del Hogar, con fechas y escala."
+    },
+    {
+      "title": "Real Academia de la Historia / Historia Hispánica: Blas Pérez González",
+      "url": "https://historia-hispanica.rah.es/biografias/35386-blas-perez-gonzalez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical source for Blas Pérez González, including his dates and tenure as Minister of Gobernación from 1942 to 1957.",
+      "relevance_es": "Fuente biográfica autorizada sobre Blas Pérez González, incluidas sus fechas y su etapa como ministro de la Gobernación entre 1942 y 1957."
+    },
+    {
+      "title": "San Blas-Canillejas: Orígenes e historia I",
+      "url": "https://sanblascanillejas.wordpress.com/acerca-de/origenes-e-historia-i/",
+      "type": "other",
+      "relevance_en": "Local history page that states the reported tradition that San Blas was named in homage to Minister Blas Pérez, while also citing Gea Ortigas as its source.",
+      "relevance_es": "Página de historia local que recoge la tradición de que San Blas recibió el nombre en homenaje al ministro Blas Pérez, citando además a Gea Ortigas como fuente."
+    },
+    {
+      "title": "Parroquia Virgen del Mar: Orígenes e historia de nuestro barrio San Blas",
+      "url": "https://virgendelmar.archimadrid.es/nuestra-historia/",
+      "type": "other",
+      "relevance_en": "Independent local reproduction of the same cautious claim that the neighbourhood is said to have been named for Blas Pérez.",
+      "relevance_es": "Reproducción local independiente de la misma atribución cautelosa según la cual se dice que el barrio recibió el nombre por Blas Pérez."
+    },
+    {
+      "title": "BOE: Decreto de 24 de junio de 1949 por el que se aprueba la anexión total de Canillejas a Madrid",
+      "url": "https://www.boe.es/gazeta/dias/1949/07/30/pdfs/BOE-1949-211.pdf",
+      "type": "official",
+      "relevance_en": "Primary source for the annexation of Canillejas to Madrid, a key administrative precondition for the later San Blas development.",
+      "relevance_es": "Fuente primaria de la anexión de Canillejas a Madrid, un antecedente administrativo clave del posterior desarrollo de San Blas."
+    },
+    {
+      "title": "BOE: Ley 1/1993 de reordenación del Instituto de la Vivienda de Madrid",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1993-6501",
+      "type": "official",
+      "relevance_en": "Clarifies that IVIMA originated from a 1984 transformation, helping correct an anachronistic attribution of the 1958 development to IVIMA.",
+      "relevance_es": "Aclara que el IVIMA procede de una transformación de 1984, lo que ayuda a corregir la atribución anacrónica del desarrollo de 1958 al IVIMA."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the station-level etymology type from person to place: the station is directly named after the San Blas neighbourhood/area.",
+      "es": "Cambiar el tipo de etimología de la estación de persona a lugar: la estación toma directamente el nombre del barrio o zona de San Blas."
+    },
+    {
+      "en": "Downgrade the Blas Pérez González explanation from verified to probable unless a primary naming act is found.",
+      "es": "Rebajar la explicación de Blas Pérez González de verificada a probable salvo que aparezca un acuerdo o documento primario de denominación."
+    },
+    {
+      "en": "Avoid saying that IVIMA planned the neighbourhood in 1958; IVIMA was created later, while the late-1950s development belongs to the Obra Sindical del Hogar and the national housing apparatus.",
+      "es": "Evitar afirmar que el IVIMA planificó el barrio en 1958; el IVIMA se creó después, mientras que la actuación de finales de los cincuenta corresponde a la Obra Sindical del Hogar y al aparato estatal de vivienda."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect María Isabel Gea Ortigas, Historia de los distritos de Madrid: Ciudad Lineal y San Blas, and the 1965 Instituto Nacional de la Vivienda volume Gran San Blas for any citation of the actual naming decision.",
+      "es": "Consultar María Isabel Gea Ortigas, Historia de los distritos de Madrid: Ciudad Lineal y San Blas, y el volumen Gran San Blas del Instituto Nacional de la Vivienda de 1965 para buscar una cita del acto real de denominación."
+    },
+    {
+      "en": "Search municipal district-board minutes, Obra Sindical del Hogar files, and Ministry of Housing or Gobernación records for a formal naming document.",
+      "es": "Buscar en actas de junta de distrito o municipales, expedientes de la Obra Sindical del Hogar y fondos de los ministerios de Vivienda o Gobernación un documento formal de denominación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_137/en/summary.short.md",
+      "summary": "content/stations/metro_137/en/summary.md",
+      "story": "content/stations/metro_137/en/story.md",
+      "confidence": "content/stations/metro_137/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_137/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_137/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_137/es/summary.short.md",
+      "summary": "content/stations/metro_137/es/summary.md",
+      "story": "content/stations/metro_137/es/story.md",
+      "confidence": "content/stations/metro_137/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_137/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_137/es/research-note.md"
+    }
+  }
+}

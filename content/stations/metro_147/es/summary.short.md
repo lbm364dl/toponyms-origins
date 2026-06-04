@@ -1,0 +1,1 @@
+La estación de Valdezarza lleva el nombre del barrio madrileño al que sirve en Moncloa-Aravaca. El topónimo probablemente significa 'valle de zarzas', al unir el castellano antiguo val, 'valle', con zarza.

@@ -1,0 +1,111 @@
+{
+  "id": "metro_112",
+  "name": "Puerta del Ángel",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puerta del Ángel neighbourhood and former Casa de Campo gate",
+  "previous_names": "No former metro station name found. Older area names recorded in Madrid Río documentation include barrio del Puente de Segovia and barrio de Colmenares.",
+  "naming_date": "May 1995 for the metro station name at opening; older place-name attested before the station.",
+  "sources": [
+    {
+      "title": "CRTM: Puerta del Ángel",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_128/?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station, Line 6 connection, accesses and location context.",
+      "relevance_es": "Página oficial de transporte que confirma la estación actual, su conexión con la línea 6, accesos y contexto de localización."
+    },
+    {
+      "title": "Memoria de Madrid: Estación de Puerta del Ángel",
+      "url": "https://www.memoriademadrid.es/view/567949/estacion-de-puerta-del-angel",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid archive record stating that Puerta del Ángel station was inaugurated in May 1995 as part of the Laguna-Ciudad Universitaria section closing Line 6.",
+      "relevance_es": "Ficha del archivo de Metro de Madrid que indica que la estación de Puerta del Ángel fue inaugurada en mayo de 1995 como parte del tramo Laguna-Ciudad Universitaria que cerró la línea 6."
+    },
+    {
+      "title": "Comunidad de Madrid: Obras anteriores en la Línea 6 (la circular)",
+      "url": "https://www.comunidad.madrid/transporte/obras-anteriores-linea-6-circular",
+      "type": "official",
+      "relevance_en": "Official regional infrastructure page giving May 1995 service date and listing Puerta del Ángel among the six new stations of the Line 6 circular closure.",
+      "relevance_es": "Página oficial regional de infraestructuras que da la puesta en servicio de mayo de 1995 y enumera Puerta del Ángel entre las seis estaciones nuevas del cierre circular de la línea 6."
+    },
+    {
+      "title": "La tapia histórica: Puertas, portillos y rejas",
+      "url": "https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/10/Tapia-historica.pdf",
+      "type": "official",
+      "relevance_en": "Madrid municipal Casa de Campo material stating that Puerta del Ángel took its name from the vanished Hermitage of the Santo Ángel de la Guarda, and describing the former Casa de Campo access.",
+      "relevance_es": "Material municipal madrileño sobre la Casa de Campo que afirma que la Puerta del Ángel tomó su nombre de la desaparecida ermita del Santo Ángel de la Guarda y describe el antiguo acceso a la Casa de Campo."
+    },
+    {
+      "title": "Informe de hallazgos arqueológicos. Plan Especial Río Manzanares",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ProyectosSingularesUrbanismo/ProyectoMadridRio/Ficheros/AprobacionDefinitva/1-InfHallazArqueo1.2.pdf",
+      "type": "official",
+      "relevance_en": "Madrid Río archaeological report giving historical context for the Paseo de Extremadura area, older local names, the Puerta del Ángel topónimo, the 1605 hermitage and the Puerta de Guadalajara image.",
+      "relevance_es": "Informe arqueológico de Madrid Río que aporta contexto histórico del entorno del paseo de Extremadura, nombres locales anteriores, el topónimo Puerta del Ángel, la ermita de 1605 y la imagen procedente de la Puerta de Guadalajara."
+    },
+    {
+      "title": "Memoria de Madrid: Puerta de Guadalaxara",
+      "url": "https://www.memoriademadrid.es/view/496222/puerta-de-guadalaxara",
+      "type": "archive",
+      "relevance_en": "Municipal heritage record for the Puerta de Guadalajara plaque, documenting its medieval importance, later rebuilding and the traditional account of destruction by celebratory illuminations.",
+      "relevance_es": "Ficha municipal patrimonial de la placa de la Puerta de Guadalajara, que documenta su importancia medieval, su reconstrucción posterior y el relato tradicional de su destrucción por luminarias festivas."
+    },
+    {
+      "title": "Parroquia de Santa Cruz: Asociación del Santo Ángel de la Guarda",
+      "url": "https://www.parroquiadesantacruz.com/hermandades-cofradias-y-congregaciones/asociacion-del-santo-angel-de-la-guarda/",
+      "type": "reference",
+      "relevance_en": "Ecclesiastical account connecting the Puerta de Guadalajara image, the 1605 confraternity, the mace-bearers and the later custody of the Santo Ángel image.",
+      "relevance_es": "Relato eclesiástico que conecta la imagen de la Puerta de Guadalajara, la cofradía de 1605, los maceros y la custodia posterior de la imagen del Santo Ángel."
+    },
+    {
+      "title": "Diccionario Madoz: Ermita del Ángel",
+      "url": "https://www.diccionariomadoz.com/ermita-del-angel-historia-de-madrid/Madrid/",
+      "type": "book",
+      "relevance_en": "Digitized Madoz dictionary entry noting that the angel image had first been in the old Puerta de Guadalajara and later in another hermitage built by municipal porters near the Segovia bridge.",
+      "relevance_es": "Entrada digitalizada del Diccionario de Madoz que señala que la efigie del ángel estuvo primero en la antigua Puerta de Guadalajara y después en otra ermita edificada por los porteros del Ayuntamiento a la salida del puente de Segovia."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station opening year in the input appears wrong: Puerta del Ángel was part of the May 1995 Line 6 closure between Laguna and Ciudad Universitaria, not the 1981 Pacífico-Oporto section.",
+      "es": "El año de apertura de la estación en la entrada parece erróneo: Puerta del Ángel formó parte del cierre de la línea 6 entre Laguna y Ciudad Universitaria en mayo de 1995, no del tramo Pacífico-Oporto de 1981."
+    },
+    {
+      "en": "The exact fire date should not be stated as securely verified as 2 September 1582; inspected sources variously give 1580, 10 December 1580, or 1582.",
+      "es": "La fecha exacta del incendio no debe presentarse como verificada de forma segura el 2 de septiembre de 1582; las fuentes consultadas dan 1580, 10 de diciembre de 1580 o 1582."
+    },
+    {
+      "en": "The best display wording should say the station is named after the neighbourhood/plaza and former Casa de Campo gate, with the hermitage and angel image as the deeper origin.",
+      "es": "La formulación más adecuada para mostrar al público debería decir que la estación toma el nombre del barrio/plaza y de la antigua puerta de la Casa de Campo, con la ermita y la imagen del ángel como origen más profundo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Agustín Gómez Iglesias, 'La Puerta de Guadalajara', and Montero Vallejo or Gea Ortigas directly to resolve the strongest scholarly dating of the Puerta de Guadalajara fire.",
+      "es": "Conviene consultar directamente a Agustín Gómez Iglesias, 'La Puerta de Guadalajara', y a Montero Vallejo o Gea Ortigas para resolver la datación académica más sólida del incendio de la Puerta de Guadalajara."
+    },
+    {
+      "en": "The exact official date on which Metro assigned the station name was not found separately from the 1995 opening of the Line 6 extension.",
+      "es": "No se encontró una fecha oficial separada para la asignación del nombre de la estación más allá de la apertura de la ampliación de la línea 6 en 1995."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_112/en/summary.short.md",
+      "summary": "content/stations/metro_112/en/summary.md",
+      "story": "content/stations/metro_112/en/story.md",
+      "confidence": "content/stations/metro_112/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_112/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_112/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_112/es/summary.short.md",
+      "summary": "content/stations/metro_112/es/summary.md",
+      "story": "content/stations/metro_112/es/story.md",
+      "confidence": "content/stations/metro_112/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_112/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_112/es/research-note.md"
+    }
+  }
+}

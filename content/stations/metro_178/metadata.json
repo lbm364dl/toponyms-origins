@@ -1,0 +1,97 @@
+{
+  "id": "metro_178",
+  "name": "San Fernando",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "San Fernando de Henares",
+  "previous_names": "Station: none found. Place/municipality: Torrejón de la Ribera; Real Sitio de San Fernando; San Fernando de Jarama before the 1916 change to San Fernando de Henares.",
+  "naming_date": "2007 for the Metro station name at opening; 1916 for the municipal form San Fernando de Henares.",
+  "sources": [
+    {
+      "title": "Historia de la ciudad | Ayuntamiento de San Fernando de Henares",
+      "url": "https://www.ayto-sanfernando.com/historia-de-la-ciudad/",
+      "type": "official",
+      "relevance_en": "Official municipal history; supports the 1746 Crown acquisition/factory context and the 1916 change from San Fernando de Jarama to San Fernando de Henares.",
+      "relevance_es": "Historia municipal oficial; respalda el contexto de la adquisición por la Corona y la fábrica en 1746, así como el cambio de 1916 de San Fernando de Jarama a San Fernando de Henares."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport page listing the Line 7 extension Las Musas-Coslada-San Fernando de Henares, MetroEste, and its 2007 opening context.",
+      "relevance_es": "Página oficial regional de transporte que recoge la prolongación de la línea 7 Las Musas-Coslada-San Fernando de Henares, MetroEste, y su contexto de puesta en servicio en 2007."
+    },
+    {
+      "title": "Obras de mejora de la infraestructura de estaciones e instalaciones del túnel en la Línea 7B de Metro de Madrid. Tramo: Barrio del Puerto-Henares",
+      "url": "https://www.madrid.org/media/consejeria-transportes/01%20Memoria%20proyecto%20Estaciones%20L-7B.pdf",
+      "type": "official",
+      "relevance_en": "Regional technical PDF stating that Line 7B was built in 2003-2007, inaugurated in 2007, and includes stations in San Fernando de Henares.",
+      "relevance_es": "PDF técnico regional que indica que la línea 7B se ejecutó entre 2003 y 2007, se inauguró en 2007 e incluye estaciones en San Fernando de Henares."
+    },
+    {
+      "title": "San Fernando de Henares, Arquitectura y Desarrollo Urbano",
+      "url": "https://www.coam.org/media/Default%20Files/fundacion/biblioteca/biblioteca-digital/docs/Arquitectura%20y%20Desarrollo%20Urbano/San_Fernando.pdf",
+      "type": "academic",
+      "relevance_en": "COAM/Community of Madrid architectural history PDF; documents the 1746 royal decree, Torrejón de la Ribera becoming the Real Sitio de San Fernando, and the Royal Cloth Factory urban origin.",
+      "relevance_es": "PDF de historia arquitectónica del COAM/Comunidad de Madrid; documenta el real decreto de 1746, el paso de Torrejón de la Ribera al Real Sitio de San Fernando y el origen urbano ligado a la Real Fábrica de Paños."
+    },
+    {
+      "title": "Fernando III, Rey de Castilla, Santo, 1201-1252 | Biblioteca Virtual del Patrimonio Bibliográfico",
+      "url": "https://bvpb.mcu.es/es/consulta_aut/registro.do?control=BVPB20070025369",
+      "type": "reference",
+      "relevance_en": "Authority record for Saint Ferdinand III, giving the historical identity, dates, and alternate forms of the name used in the etymological layer.",
+      "relevance_es": "Registro de autoridad de San Fernando III, con la identidad histórica, fechas y formas alternativas del nombre usadas en la capa etimológica."
+    },
+    {
+      "title": "La Corte Santa: arte, política y religión en torno a la figura de Fernando III | Real Academia de Bellas Artes de San Fernando",
+      "url": "https://www.realacademiabellasartessanfernando.com/actividades/conferencias/la-corte-santa-arte-politica-y-religion-en-torno-a-la-figura-de-fernando-iii/",
+      "type": "academic",
+      "relevance_en": "Academic cultural source explaining the seventeenth-century recognition and expansion of Ferdinand III's cult, relevant to the San Fernando devotional layer.",
+      "relevance_es": "Fuente académica-cultural que explica el reconocimiento y expansión del culto a Fernando III en el siglo XVII, relevante para la capa devocional de San Fernando."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from strictly religious to place for the station-level origin; the religious explanation belongs to the underlying municipal toponym.",
+      "es": "Cambiar el tipo etimológico de estrictamente religioso a lugar para el origen de la estación; la explicación religiosa corresponde al topónimo municipal subyacente."
+    },
+    {
+      "en": "Use San Fernando de Henares as the direct named_after value, with Fernando VI and Saint Ferdinand III recorded as deeper historical layers.",
+      "es": "Usar San Fernando de Henares como valor directo de named_after, dejando a Fernando VI y San Fernando III como capas históricas más profundas."
+    },
+    {
+      "en": "Add the 1916 name-change context from San Fernando de Jarama to San Fernando de Henares.",
+      "es": "Añadir el contexto del cambio de nombre de 1916 de San Fernando de Jarama a San Fernando de Henares."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal archive record or official gazette notice for the 1916 name change would be worth inspecting to confirm the exact administrative wording and date.",
+      "es": "Sería conveniente revisar un acta municipal o boletín oficial del cambio de nombre de 1916 para confirmar la redacción administrativa exacta y la fecha precisa."
+    },
+    {
+      "en": "The station's official naming file, if preserved by Metro de Madrid or the regional transport authority, could confirm whether any alternative station names were considered before opening.",
+      "es": "El expediente oficial de denominación de la estación, si se conserva en Metro de Madrid o en la autoridad regional de transporte, podría confirmar si se valoraron otros nombres antes de la apertura."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_178/en/summary.short.md",
+      "summary": "content/stations/metro_178/en/summary.md",
+      "story": "content/stations/metro_178/en/story.md",
+      "confidence": "content/stations/metro_178/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_178/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_178/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_178/es/summary.short.md",
+      "summary": "content/stations/metro_178/es/summary.md",
+      "story": "content/stations/metro_178/es/story.md",
+      "confidence": "content/stations/metro_178/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_178/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_178/es/research-note.md"
+    }
+  }
+}

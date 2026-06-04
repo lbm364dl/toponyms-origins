@@ -1,0 +1,1 @@
+La estación de San Fernando toma su nombre del municipio de San Fernando de Henares, donde se encuentra. El nombre de la localidad procede del Real Sitio del siglo XVIII impulsado bajo Fernando VI y remite en último término a San Fernando III, con Henares añadido como referencia fluvial en 1916.

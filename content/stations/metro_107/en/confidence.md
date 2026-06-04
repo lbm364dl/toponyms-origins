@@ -1,0 +1,1 @@
+The station's direct naming after the square is supported by CRTM and municipal transport sources, and the 1961 Metro opening is supported by CRTM historical material and station references. Confidence is lower only for the deeper symbolic explanation of 'Castilla', because no official naming act was found.

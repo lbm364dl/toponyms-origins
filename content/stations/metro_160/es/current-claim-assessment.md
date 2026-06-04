@@ -1,0 +1,1 @@
+La estación se vincula correctamente con la zona local de Santa María/Parque de Santa María en Hortaleza, pero no queda probado que la zona tome su nombre de la parroquia y esa relación podría estar invertida.

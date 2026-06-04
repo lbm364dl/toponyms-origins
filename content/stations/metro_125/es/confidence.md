@@ -1,0 +1,1 @@
+La Comunidad de Madrid afirma expresamente que Ángel Herrera Oria es la figura que da nombre a la estación, y la cronología independiente del transporte confirma que la estación abrió como Herrera Oria en 1983. Los datos biográficos están respaldados por fuentes de la RAH, la BNE, la Fundación Pablo VI y la ACdP.

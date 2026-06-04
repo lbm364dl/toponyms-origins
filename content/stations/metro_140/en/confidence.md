@@ -1,0 +1,1 @@
+The station access, official street gazetteer and local map strongly support a street-derived origin, and no competing explanation was found. Confidence is kept at probable rather than verified because I did not locate an official Metro or municipal act explicitly stating that the station was named after Calle del Bambú, nor the original act naming the street.

@@ -1,0 +1,1 @@
+La estación toma su nombre de la calle Marqués de la Valdavia de Alcobendas, que el Ayuntamiento bautizó en 1958 en honor de Mariano Ossorio Arévalo, III marqués de la Valdavia y presidente de la Diputación Provincial de Madrid. El título nobiliario remite en último término a La Valdavia, valle fluvial y comarca de Palencia.

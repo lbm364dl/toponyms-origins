@@ -1,0 +1,1 @@
+The person identification is supported by authoritative biographical sources from the Congress of Deputies and the Real Academia de la Historia, and by transport and municipal sources placing the Line 12 station in Leganés next to facilities named Julián Besteiro. The only missing item is a formal station naming resolution, but there is no credible competing etymology.

@@ -1,0 +1,1 @@
+The station's naming after the local place-name is secure, and authoritative sources document the 1923 metro opening and the older bridge over the Abroñigal on the Camino de Vallecas. Confidence is not reduced by uncertainty over secondary details, because the direct etymology is well supported.

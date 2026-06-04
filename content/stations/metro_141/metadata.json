@@ -1,0 +1,111 @@
+{
+  "id": "metro_141",
+  "name": "Estrella",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Estrella neighbourhood, ultimately associated with Seguros La Estrella",
+  "previous_names": "",
+  "naming_date": "31 January 1980",
+  "sources": [
+    {
+      "title": "Moratalaz y La Estrella cuentan con línea de Metro a partir de hoy",
+      "url": "https://elpais.com/diario/1980/01/30/madrid/318083063_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the opening of the first Line 9 section; it names La Estrella as one of the served neighbourhoods and lists La Estrella among the five initial stations.",
+      "relevance_es": "Crónica contemporánea de la apertura del primer tramo de la línea 9; menciona La Estrella como uno de los barrios servidos y enumera La Estrella entre las cinco estaciones iniciales."
+    },
+    {
+      "title": "La Línea 9 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-9-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid history of Line 9; useful for the chronology of the line and its 1986 connection, though less detailed on Estrella itself.",
+      "relevance_es": "Historia oficial de la Comunidad de Madrid sobre la línea 9; útil para la cronología de la línea y su conexión de 1986, aunque con menos detalle sobre Estrella."
+    },
+    {
+      "title": "Retiro - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Retiro/Retiro/?vgnextchannel=b982ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=1bcba040230b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal district page confirming La Estrella as one of Retiro's consolidated residential neighbourhoods.",
+      "relevance_es": "Página municipal del distrito que confirma La Estrella como uno de los barrios residenciales consolidados de Retiro."
+    },
+    {
+      "title": "Distrito 03 - Retiro, Barrio 33 - Estrella",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/03%20-%20Retiro/Barrio033.pdf",
+      "type": "official",
+      "relevance_en": "Official 2024 municipal map identifying Barrio 33 as Estrella and showing local streets such as Estrella Polar, Sirio, Cruz del Sur, Lira, Pez Volador and Pez Austral.",
+      "relevance_es": "Mapa municipal oficial de 2024 que identifica el Barrio 33 como Estrella y muestra calles locales como Estrella Polar, Sirio, Cruz del Sur, Lira, Pez Volador y Pez Austral."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official street gazetteer showing that Calle de la Estrella is in Centro, while Calle de la Estrella Polar is in Retiro between Calle de la Cruz del Sur and Calle de Sirio.",
+      "relevance_es": "Callejero oficial que muestra que la calle de la Estrella está en Centro, mientras que la calle de la Estrella Polar está en Retiro entre la calle de la Cruz del Sur y la calle de Sirio."
+    },
+    {
+      "title": "Barrio Estrella, Retiro",
+      "url": "https://www.plaxes.com/madrid-retiro-estrella",
+      "type": "other",
+      "relevance_en": "Local neighbourhood profile stating that Estrella takes its name from Seguros La Estrella and noting the celestial theme of the street names.",
+      "relevance_es": "Perfil local del barrio que afirma que Estrella toma su nombre de Seguros La Estrella y señala el tema celeste del callejero."
+    },
+    {
+      "title": "Barrio de Estrella - Madripedia",
+      "url": "https://madripedia.wikis.cc/wiki/Barrio_de_Estrella",
+      "type": "reference",
+      "relevance_en": "Community reference source repeating the Seguros La Estrella explanation, listing the main celestial street names and giving 1957 as the start of construction.",
+      "relevance_es": "Fuente de referencia comunitaria que repite la explicación de Seguros La Estrella, enumera las principales calles celestes y da 1957 como inicio de la construcción."
+    },
+    {
+      "title": "Retiro y sus barrios: Pacífico, Adelfas, Niño Jesús, Estrella, Ibiza, Jerónimos",
+      "url": "https://www.coam.org/media/Default%20Files/fundacion/biblioteca/donativo%20instituciones%20editoriales/2017/retiro-y-sus-barrios.pdf",
+      "type": "book",
+      "relevance_en": "Bibliographic record for a district history by José María Sánchez Molledo and J. Nicolás Ferrando; identified as a promising source but only the catalogue record was accessible, not the full text.",
+      "relevance_es": "Registro bibliográfico de una historia del distrito de José María Sánchez Molledo y J. Nicolás Ferrando; identificada como fuente prometedora, aunque solo fue accesible la ficha, no el texto completo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that the area takes its name from Calle Estrella with the better-supported explanation that it is linked to Seguros La Estrella and the later celestial street names of the neighbourhood.",
+      "es": "Sustituir la afirmación de que la zona toma su nombre de la calle Estrella por la explicación mejor apoyada: su vínculo con Seguros La Estrella y el posterior callejero celeste del barrio."
+    },
+    {
+      "en": "Do not describe La Estrella as a 19th-century neighbourhood along the eastern edge of Retiro Park; accessible sources point instead to a mid-20th-century residential development, with Madripedia giving 1957 as the start of construction.",
+      "es": "No describir La Estrella como un barrio decimonónico del borde oriental del Retiro; las fuentes accesibles apuntan más bien a un desarrollo residencial de mediados del siglo XX, y Madripedia da 1957 como inicio de la construcción."
+    },
+    {
+      "en": "Clarify the street evidence: Calle de la Estrella is in Centro, while the relevant Retiro street beside the station is Calle de la Estrella Polar.",
+      "es": "Aclarar la evidencia del callejero: la calle de la Estrella está en Centro, mientras que la vía relevante de Retiro junto a la estación es la calle de la Estrella Polar."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the printed book Retiro y sus barrios: Pacífico, Adelfas, Niño Jesús, Estrella, Ibiza, Jerónimos by José María Sánchez Molledo and J. Nicolás Ferrando for a stronger published account of the Seguros La Estrella landholding.",
+      "es": "Consultar el libro impreso Retiro y sus barrios: Pacífico, Adelfas, Niño Jesús, Estrella, Ibiza, Jerónimos, de José María Sánchez Molledo y J. Nicolás Ferrando, para obtener una explicación publicada más sólida sobre los terrenos de Seguros La Estrella."
+    },
+    {
+      "en": "A municipal planning file, land registry entry or historic cadastral source would be needed to verify directly that Seguros La Estrella owned or promoted the original plots.",
+      "es": "Sería necesario consultar un expediente urbanístico municipal, una inscripción registral o una fuente catastral histórica para verificar directamente que Seguros La Estrella poseyó o promovió los solares originales."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_141/en/summary.short.md",
+      "summary": "content/stations/metro_141/en/summary.md",
+      "story": "content/stations/metro_141/en/story.md",
+      "confidence": "content/stations/metro_141/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_141/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_141/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_141/es/summary.short.md",
+      "summary": "content/stations/metro_141/es/summary.md",
+      "story": "content/stations/metro_141/es/story.md",
+      "confidence": "content/stations/metro_141/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_141/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_141/es/research-note.md"
+    }
+  }
+}

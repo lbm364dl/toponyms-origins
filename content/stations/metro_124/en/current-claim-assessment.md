@@ -1,0 +1,1 @@
+The row is right that the station takes its name from Plaza del Duque de Pastrana and that the ducal title was created for Ruy Gómez de Silva in 1572. It overstates the direct dedication: the station name is more securely explained through the local square and the historic Pastrana/Infantado presence in old Chamartín than as a direct memorial to Ruy alone.

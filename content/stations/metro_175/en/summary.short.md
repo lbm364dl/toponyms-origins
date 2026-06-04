@@ -1,0 +1,1 @@
+Barrio del Puerto station is named after the Coslada neighbourhood where it stands. The neighbourhood name points to Coslada's inland 'dry port', a rail freight terminal linked to major Spanish seaports.

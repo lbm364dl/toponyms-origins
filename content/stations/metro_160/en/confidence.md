@@ -1,0 +1,1 @@
+The direct naming link is verified by the Community of Madrid page, which states that the station serves and takes its name from the Barrio de Santa María. The deeper origin of the area name is less certain, so the parish-origin claim should not be presented as verified.

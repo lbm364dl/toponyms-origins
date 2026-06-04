@@ -1,0 +1,100 @@
+{
+  "id": "metro_145",
+  "name": "Cartagena",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Cartagena, named for Cartagena (Murcia, Spain)",
+  "previous_names": "",
+  "naming_date": "1975-03-17",
+  "sources": [
+    {
+      "title": "CRTM - Estación de Cartagena",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_140/",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 7 service, vestibule name and Avenida de América access information.",
+      "relevance_es": "Confirma el nombre actual de la estación, el servicio de la línea 7, el nombre del vestíbulo y los accesos en avenida de América."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Lists Calle de Cartagena and places it in the districts of Chamartín and Salamanca.",
+      "relevance_es": "Enumera la calle de Cartagena y la sitúa en los distritos de Chamartín y Salamanca."
+    },
+    {
+      "title": "BOE-A-1975-12576 - Concesión de explotación del tramo avenida de América-Pueblo Nuevo, línea VII",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-1975-12576",
+      "type": "official",
+      "relevance_en": "Provides official legal context for the 1975 Line 7 section between Avenida de América and Pueblo Nuevo, the section that includes Cartagena.",
+      "relevance_es": "Aporta contexto jurídico oficial sobre el tramo de 1975 de la línea 7 entre avenida de América y Pueblo Nuevo, en el que se incluye Cartagena."
+    },
+    {
+      "title": "Ayuntamiento de Cartagena - Cartagena España",
+      "url": "https://www.cartagena.es/gestion/documentos/23057.pdf",
+      "type": "official",
+      "relevance_en": "Municipal tourism material states that Cartagena was founded as Qart Hadasht around 227 BCE by the Carthaginian general Hasdrubal.",
+      "relevance_es": "Material turístico municipal que indica que Cartagena fue fundada como Qart Hadasht hacia 227 a. C. por el general cartaginés Asdrúbal."
+    },
+    {
+      "title": "Museo Arqueológico Municipal de Cartagena - Cuadernos didácticos",
+      "url": "https://museoarqueologico.cartagena.es/gestion/documentos/57391.pdf",
+      "type": "official",
+      "relevance_en": "Explains Qart Hadasht as the Carthaginian name of Cartagena, glossed as New City, and links it to Hasdrubal and the Carthaginian capital in Iberia.",
+      "relevance_es": "Explica Qart Hadasht como el nombre cartaginés de Cartagena, traducido como Ciudad Nueva, y lo vincula con Asdrúbal y la capital cartaginesa en Iberia."
+    },
+    {
+      "title": "Encyclopaedia Britannica - Cartagena, Spain",
+      "url": "https://www.britannica.com/place/Cartagena-Spain",
+      "type": "reference",
+      "relevance_en": "Independent reference source confirming Cartagena’s ancient names, Carthaginian foundation, Phoenician etymology and later Roman importance.",
+      "relevance_es": "Fuente de referencia independiente que confirma los nombres antiguos de Cartagena, su fundación cartaginesa, la etimología fenicia y su importancia romana posterior."
+    },
+    {
+      "title": "Madrid: sus viejas calles - Cartagena (Calle de)",
+      "url": "https://callesdemadrid.blogspot.com/2015/01/cartagena-calle-de.html",
+      "type": "other",
+      "relevance_en": "Specialist street-history blog giving the reported later extension of Calle de Cartagena and absorption of part of Calle Gómez Ortega.",
+      "relevance_es": "Blog especializado de historia del callejero que aporta la noticia de la prolongación posterior de la calle de Cartagena y la absorción de parte de la calle Gómez Ortega."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The input district should not be Ciudad Lineal for this station; the station is at Avenida de América and Calle de Cartagena, between Chamartín/Prosperidad and Salamanca/La Guindalera.",
+      "es": "El distrito de entrada no debería ser Ciudad Lineal para esta estación; la estación está en la avenida de América con la calle de Cartagena, entre Chamartín/Prosperidad y Salamanca/La Guindalera."
+    },
+    {
+      "en": "The Madrid street should be described as running through Chamartín and Salamanca, not Salamanca and Ciudad Lineal.",
+      "es": "La calle madrileña debe describirse como situada en Chamartín y Salamanca, no en Salamanca y Ciudad Lineal."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The original municipal street-naming record for Calle de Cartagena was not located; it would be useful to inspect Madrid municipal naming files or older street-name dictionaries.",
+      "es": "No se ha localizado el expediente municipal original de denominación de la calle de Cartagena; convendría revisar expedientes del Ayuntamiento de Madrid o diccionarios históricos del callejero."
+    },
+    {
+      "en": "The claim that the 1960s extension absorbed part of Calle Gómez Ortega is supported by a specialist street-history blog but still needs confirmation in an official municipal record.",
+      "es": "La afirmación de que la prolongación de los años sesenta absorbió parte de la calle Gómez Ortega está apoyada por un blog especializado de historia del callejero, pero falta confirmarla en un documento municipal oficial."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_145/en/summary.short.md",
+      "summary": "content/stations/metro_145/en/summary.md",
+      "story": "content/stations/metro_145/en/story.md",
+      "confidence": "content/stations/metro_145/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_145/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_145/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_145/es/summary.short.md",
+      "summary": "content/stations/metro_145/es/summary.md",
+      "story": "content/stations/metro_145/es/story.md",
+      "confidence": "content/stations/metro_145/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_145/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_145/es/research-note.md"
+    }
+  }
+}

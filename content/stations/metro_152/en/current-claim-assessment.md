@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the name ultimately honors Juan de la Cierva y Codorníu, the Spanish engineer and inventor of the autogiro. It should add that the Metro station is directly named for the Getafe neighbourhood of Juan de la Cierva, and the neighbourhood/avenue honor the inventor; the exact municipal naming act was not found.

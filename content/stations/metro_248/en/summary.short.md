@@ -1,0 +1,1 @@
+Valdecarros station takes its name from the large Valdecarros urban development area beside the Ensanche de Vallecas. The deeper meaning is probably the transparent Spanish compound val de carros, 'valley of carts', but a Madrid-specific documentary proof for that etymology still needs stronger archival support.

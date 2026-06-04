@@ -1,0 +1,1 @@
+Alvarado station is named for Calle de Alvarado, beside the Line 1 stop in Tetuán. The street name points to Pedro de Alvarado y Contreras, the sixteenth-century conquistador associated with the conquest of Mexico and Guatemala.

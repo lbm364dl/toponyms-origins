@@ -1,0 +1,97 @@
+{
+  "id": "metro_244",
+  "name": "Miguel Hernández",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Miguel Hernández Gilabert",
+  "previous_names": "",
+  "naming_date": "7 April 1994",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 1. Tramo: Portazgo-Miguel Hernández",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-tramo-portazgo-miguel-hernandez",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the Line 1 extension, the construction of Miguel Hernández station, and the opening date of 7 April 1994.",
+      "relevance_es": "Fuente oficial de transporte que confirma la prolongación de la línea 1, la construcción de la estación de Miguel Hernández y la fecha de puesta en servicio del 7 de abril de 1994."
+    },
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 1 a Vallecas Villa. Tramo: Miguel Hernández-Congosto",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-vallecas-villa-tramo-miguel-hernandez-congosto",
+      "type": "official",
+      "relevance_en": "Shows that Miguel Hernández was the previous Line 1 terminus before the March 1999 extension toward Congosto and Villa de Vallecas.",
+      "relevance_es": "Muestra que Miguel Hernández fue cabecera previa de la línea 1 antes de la prolongación de marzo de 1999 hacia Congosto y Villa de Vallecas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official street list recording Avenida de Miguel Hernández in Puente de Vallecas, supporting the immediate toponym behind the station name and correcting the 'street' wording.",
+      "relevance_es": "Callejero oficial que recoge la avenida de Miguel Hernández en Puente de Vallecas, respaldando el topónimo inmediato detrás del nombre de la estación y corrigiendo la formulación como 'calle'."
+    },
+    {
+      "title": "Centro Virtual Cervantes - Miguel Hernández: Cronología 1910-1942",
+      "url": "https://cvc.cervantes.es/literatura/escritores/m_hernandez/cronologia.htm",
+      "type": "reference",
+      "relevance_en": "Authoritative chronology for Miguel Hernández's birth, literary career, Civil War activity, imprisonment, commuted death sentence, tuberculosis, and death in Alicante in 1942.",
+      "relevance_es": "Cronología autorizada sobre el nacimiento de Miguel Hernández, su carrera literaria, su actividad durante la Guerra Civil, su encarcelamiento, la conmutación de la pena de muerte, la tuberculosis y su muerte en Alicante en 1942."
+    },
+    {
+      "title": "Biblioteca Virtual Miguel de Cervantes - Portal Miguel Hernández",
+      "url": "https://cervantesvirtual.com/portales/miguel_hernandez/",
+      "type": "academic",
+      "relevance_en": "Specialized literary portal that frames Hernández as a major universal and memorial figure and provides access to his works, editions, correspondence, and documentation.",
+      "relevance_es": "Portal literario especializado que presenta a Hernández como figura universal y de memoria histórica, y reúne obras, ediciones, correspondencia y documentación."
+    },
+    {
+      "title": "Estación de Miguel Hernández - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Miguel_Hern%C3%A1ndez",
+      "type": "other",
+      "relevance_en": "Secondary station reference giving the direct naming statement: the station takes its name from the nearby Avenida de Miguel Hernández, which honors the poet; used only where no stronger accessible official naming note was found.",
+      "relevance_es": "Referencia secundaria de la estación que aporta la afirmación directa del nombre: la estación lo toma de la cercana avenida de Miguel Hernández, dedicada al poeta; se usa solo porque no se encontró una nota oficial accesible más fuerte sobre la denominación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the immediate source from 'street' to 'Avenida de Miguel Hernández'; Madrid's official street list records it as an avenue.",
+      "es": "Cambiar la fuente inmediata de 'calle' a 'avenida de Miguel Hernández'; el callejero oficial de Madrid la recoge como avenida."
+    },
+    {
+      "en": "Correct the station district from Villa de Vallecas/Casco Histórico de Vallecas to Puente de Vallecas, in the Palomeras area.",
+      "es": "Corregir el distrito de la estación: no es Villa de Vallecas/Casco Histórico de Vallecas, sino Puente de Vallecas, en el ámbito de Palomeras."
+    },
+    {
+      "en": "Correct the opening context: Miguel Hernández opened on 7 April 1994 with the Portazgo-Miguel Hernández Line 1 extension; 2007 refers to later Line 1 extensions, not this station.",
+      "es": "Corregir el contexto de apertura: Miguel Hernández se inauguró el 7 de abril de 1994 con la prolongación Portazgo-Miguel Hernández de la línea 1; 2007 corresponde a ampliaciones posteriores de la línea 1, no a esta estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid 'station of the month' page appears to exist for Miguel Hernández, but the site rejected direct access during research; it may contain a stronger official naming explanation and should be inspected manually if available.",
+      "es": "Parece existir una página de Metro de Madrid de 'estación del mes' sobre Miguel Hernández, pero el sitio rechazó el acceso directo durante la investigación; podría contener una explicación oficial más fuerte del nombre y convendría revisarla manualmente si está disponible."
+    },
+    {
+      "en": "The exact municipal act or date assigning the name Avenida de Miguel Hernández was not found in the accessible sources.",
+      "es": "No se localizó en las fuentes accesibles el acuerdo municipal o la fecha exacta de asignación del nombre avenida de Miguel Hernández."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_244/en/summary.short.md",
+      "summary": "content/stations/metro_244/en/summary.md",
+      "story": "content/stations/metro_244/en/story.md",
+      "confidence": "content/stations/metro_244/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_244/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_244/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_244/es/summary.short.md",
+      "summary": "content/stations/metro_244/es/summary.md",
+      "story": "content/stations/metro_244/es/story.md",
+      "confidence": "content/stations/metro_244/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_244/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_244/es/research-note.md"
+    }
+  }
+}

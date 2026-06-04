@@ -1,0 +1,1 @@
+The existing claim is well supported: the official parish history states that Metro El Carmen took its name from the former Capilla del Carmen at today’s Calle de Alcalá 246, opened in 1928 and later converted into the parish seat of Espíritu Santo.

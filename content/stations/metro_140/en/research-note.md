@@ -1,0 +1,1 @@
+The English Wikipedia-derived claim that Bambú opened on 4 November 2007 is wrong; Spanish and official/contemporary sources point to 11 April 2007. The input row's line value 1 is correct, but its prose should avoid implying that Bambú is on Line 4.

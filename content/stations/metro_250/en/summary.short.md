@@ -1,0 +1,1 @@
+Avenida de Guadalajara station is named for the Madrid avenue above it. The avenue refers to Guadalajara, the Castilian city whose name descends from the Arabic Wad/Wadi al-Hayara or Wadi al-Hiyara, commonly understood as a 'river' or 'valley of stones'.

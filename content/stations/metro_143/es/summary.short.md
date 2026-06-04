@@ -1,0 +1,1 @@
+Artilleros toma su nombre de la calle del Pico de los Artilleros, junto a la estación. La calle recuerda el campo de tiro y maniobras de artillería arrendado en Moratalaz desde 1861 y con ejercicios documentados hasta 1927.

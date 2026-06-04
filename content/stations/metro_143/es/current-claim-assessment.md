@@ -1,0 +1,1 @@
+La afirmación existente es sustancialmente correcta: el nombre de la estación se explica mejor por la calle del Pico de los Artilleros, que conserva la memoria del campo de tiro y maniobras de artillería de Moratalaz. Conviene ajustar la redacción porque la fuente inmediata del nombre es la calle/topónimo, no una denominación directa de Metro al campo militar.

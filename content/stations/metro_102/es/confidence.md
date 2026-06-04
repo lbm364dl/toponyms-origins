@@ -1,0 +1,1 @@
+La etimología está respaldada por materiales históricos de Metro de Madrid, por información municipal sobre la calle de Ortega y Gasset y por fuentes biográficas autorizadas sobre Alberto Rodríguez de Lista y Aragón. La única laguna pendiente es la consulta directa del acuerdo municipal original que dio el nombre de calle de Lista.

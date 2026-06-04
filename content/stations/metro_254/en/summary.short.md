@@ -1,0 +1,1 @@
+Named for the Ciudad de los Ángeles neighbourhood in Villaverde. The neighbourhood name is locally explained by its proximity to Getafe's Cerro de los Ángeles, long treated as a symbolic or traditional centre of the Iberian Peninsula.

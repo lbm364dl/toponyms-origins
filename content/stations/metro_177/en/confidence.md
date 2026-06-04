@@ -1,0 +1,1 @@
+The direct station etymology is verified by an official Comunidad de Madrid infrastructure page stating that San Lorenzo station is located in and named after the San Lorenzo barrio. The opening/naming date is also supported by the same page. The ultimate saint reference is well supported, but the exact reason why the 1960s colony received the saint's name remains unverified.

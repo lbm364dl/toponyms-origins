@@ -1,0 +1,1 @@
+The direct naming link is stated by the official parish history, which identifies the former Capilla del Carmen, its address, its 1928 opening, and the fact that the Metro station took its name from it. CRTM confirms the present station and access location at Calle de Alcalá 246, and transport chronologies support the 1964 opening and later integration into line 5.

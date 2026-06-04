@@ -1,0 +1,1 @@
+The core claim is well supported: the Metro station takes its name from Plaza de Cuzco, which in turn is named for the Peruvian city of Cusco/Cuzco. The exact plaza naming date of 21 October 1953 is found in secondary references, but I did not locate the original municipal naming record.

@@ -1,0 +1,1 @@
+The row is broadly plausible: the station name matches the nearby Calle de Urgel and Urgel/Urgell is a Catalan place-name tied to the medieval county. However, I did not find an official Madrid naming file proving that the street was specifically dedicated to the County of Urgell rather than to the broader Urgell toponym, comarca, diocese, or La Seu d'Urgell.

@@ -1,0 +1,125 @@
+{
+  "id": "metro_254",
+  "name": "Ciudad de los Ángeles",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Ciudad de los Ángeles / Los Ángeles neighbourhood, ultimately associated with the Cerro de los Ángeles in Getafe",
+  "previous_names": "",
+  "naming_date": "Station name in use at opening on 21 April 2007; neighbourhood name reportedly chosen in 1958",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid, Línea 3 Legazpi-Villaverde Alto",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the Line 3 Legazpi-Villaverde Alto extension and its opening date, 21 April 2007.",
+      "relevance_es": "Página oficial regional de transporte que confirma la prolongación Legazpi-Villaverde Alto de la línea 3 y su fecha de puesta en servicio, 21 de abril de 2007."
+    },
+    {
+      "title": "Guía de Arquitectura de Madrid - Ciudad de los Ángeles",
+      "url": "https://fcoam.eu/guia/F3/F3.355.htm",
+      "type": "reference",
+      "relevance_en": "COAM architecture guide gives project and construction dates, architects, and describes Ciudad de los Ángeles as a satellite city for migrant and industrial workers.",
+      "relevance_es": "La guía de arquitectura del COAM aporta fechas de proyecto y obra, arquitectos, y describe la Ciudad de los Ángeles como ciudad satélite para población emigrante y trabajadora industrial."
+    },
+    {
+      "title": "Madrid Film Office - Ciudad de los Ángeles",
+      "url": "https://madridfilmoffice.com/localizacion/ciudad-de-los-angeles/",
+      "type": "official",
+      "relevance_en": "Municipal-linked location guide summarizing the neighbourhood's development from 1956, its satellite-city character, more than 6,000 homes, and later growth.",
+      "relevance_es": "Guía de localizaciones vinculada al Ayuntamiento que resume el desarrollo del barrio desde 1956, su carácter de ciudad satélite, sus más de 6.000 viviendas y su crecimiento posterior."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distrito 17 Villaverde, Barrio 175 Ángeles map",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/17%20-%20Villaverde/Barrio175.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal map showing the current barrio as Ángeles and including the Colonia de la Ciudad de los Ángeles and station-area toponyms.",
+      "relevance_es": "Mapa municipal oficial que muestra el barrio actual como Ángeles e incluye la Colonia de la Ciudad de los Ángeles y topónimos del entorno de la estación."
+    },
+    {
+      "title": "Ayuntamiento de Getafe - Cerro de los Ángeles",
+      "url": "https://getafe.es/placemarks/cerro-de-los-angeles/",
+      "type": "official",
+      "relevance_en": "Official Getafe page explaining the Cerro de los Ángeles, its association with Nuestra Señora de los Ángeles, and its traditional central symbolism.",
+      "relevance_es": "Página oficial de Getafe que explica el Cerro de los Ángeles, su relación con Nuestra Señora de los Ángeles y su simbolismo central tradicional."
+    },
+    {
+      "title": "esmadrid - El Cerro de los Ángeles",
+      "url": "https://www.esmadrid.com/informacion-turistica/cerro-angeles",
+      "type": "official",
+      "relevance_en": "Madrid tourism page describing the Cerro as located in Getafe and considered by many the geographic centre of the Iberian Peninsula, with religious landmarks.",
+      "relevance_es": "Página turística de Madrid que describe el Cerro, situado en Getafe, como considerado por muchos centro geográfico de la Península Ibérica y señala sus hitos religiosos."
+    },
+    {
+      "title": "Francisco Javier González González, Miguel Lasso de la Vega, Daniel Morcillo Álvarez - La rehabilitación de la Ciudad de los Ángeles de Secundino Zuazo y la gestión vecinal en la recuperación del patrimonio",
+      "url": "https://repositorio.iaph.es/bitstream/11532/395078/1/4945-la-rehabilitacion-de-la-ciudad-de-los-angeles-de-secundino-zuazo-y-la-gestion-vecinal-en-la-recupera.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article documenting the neighbourhood's construction, industrial-worker context, Zuazo's role, Barreiros connection, and later rehabilitation.",
+      "relevance_es": "Artículo académico que documenta la construcción del barrio, su contexto de trabajadores industriales, el papel de Zuazo, la conexión con Barreiros y su rehabilitación posterior."
+    },
+    {
+      "title": "Madripedia - Barrio de Los Ángeles",
+      "url": "https://madripedia.wikis.cc/wiki/Barrio_de_Los_%C3%81ngeles",
+      "type": "other",
+      "relevance_en": "Local encyclopedic source confirming the popular name Ciudad de los Ángeles, the station's service to the neighbourhood, and the zarzuela street-name pattern from 1983.",
+      "relevance_es": "Fuente enciclopédica local que confirma el nombre popular Ciudad de los Ángeles, el servicio de la estación al barrio y el patrón de calles con nombres de zarzuelas desde 1983."
+    },
+    {
+      "title": "Santiago Navas Fernández - Paseos por los parques y jardines de Madrid: La City o Ciudad de los Ángeles de Villaverde",
+      "url": "https://www.santiagonavasfernandez.com/2025/05/paseos-por-los-parques-y-jardines-de.html",
+      "type": "other",
+      "relevance_en": "Local-history account explicitly stating the 1958 popular vote and the link to proximity to the Cerro de los Ángeles; useful but not primary.",
+      "relevance_es": "Relato de historia local que afirma expresamente la votación popular de 1958 y la relación con la cercanía al Cerro de los Ángeles; útil, pero no primario."
+    },
+    {
+      "title": "Memoria de Madrid - La Ciudad de los Ángeles a través de la publicidad",
+      "url": "https://www.memoriademadrid.es/file/1268034/content",
+      "type": "archive",
+      "relevance_en": "Archived booklet compiling period advertisements from 1958-1971, showing the name Ciudad de los Ángeles in contemporary promotion of the development.",
+      "relevance_es": "Cuaderno archivado que recopila publicidad de época entre 1958 y 1971, mostrando el nombre Ciudad de los Ángeles en la promoción contemporánea del desarrollo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after the Ciudad de los Ángeles/Los Ángeles neighbourhood, not directly after the Cerro de los Ángeles.",
+      "es": "Conviene tratar la estación como nombrada por el barrio de Ciudad de los Ángeles/Los Ángeles, no directamente por el Cerro de los Ángeles."
+    },
+    {
+      "en": "Replace 'geographic centre of the Iberian Peninsula' with 'traditionally or symbolically considered the centre of the Iberian Peninsula'; the exact geographic-centre claim is not settled.",
+      "es": "Sustituir 'centro geográfico de la Península Ibérica' por 'considerado tradicional o simbólicamente centro de la Península Ibérica'; la afirmación del centro geográfico exacto no está cerrada."
+    },
+    {
+      "en": "The 1958 popular contest should be marked as locally reported unless a primary source, such as a municipal file or contemporary press item, is found.",
+      "es": "El concurso popular de 1958 debe marcarse como dato transmitido por fuentes locales mientras no se localice una fuente primaria, como un expediente municipal o una noticia de época."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find a primary 1958 source for the naming contest, ideally in Madrid municipal archives, ABC/Hemeroteca, or neighbourhood association material.",
+      "es": "Localizar una fuente primaria de 1958 sobre el concurso de denominación, idealmente en archivos municipales de Madrid, ABC/Hemeroteca o documentación vecinal."
+    },
+    {
+      "en": "Check Madrid street-name/nomenclature records for the exact 1983 approval date and legal act assigning the zarzuela street names.",
+      "es": "Comprobar en el nomenclátor o expedientes de calles de Madrid la fecha exacta y el acto legal de 1983 que asignó los nombres de zarzuelas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_254/en/summary.short.md",
+      "summary": "content/stations/metro_254/en/summary.md",
+      "story": "content/stations/metro_254/en/story.md",
+      "confidence": "content/stations/metro_254/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_254/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_254/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_254/es/summary.short.md",
+      "summary": "content/stations/metro_254/es/summary.md",
+      "story": "content/stations/metro_254/es/story.md",
+      "confidence": "content/stations/metro_254/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_254/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_254/es/research-note.md"
+    }
+  }
+}

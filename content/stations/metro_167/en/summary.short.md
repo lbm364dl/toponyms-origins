@@ -1,0 +1,1 @@
+Pitis is named for an older rural place-name on Madrid's northwestern edge, not for a known person. Official and municipal records preserve Pitis as a local site-name, but its linguistic origin remains unknown.

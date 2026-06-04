@@ -1,0 +1,1 @@
+Quintana station is named for Plaza de Quintana, where it stands in Ciudad Lineal. The deeper origin is probably the older local place-name Barrio or Quinta de la Quintana, not a securely documented dedication to poet Manuel José Quintana.

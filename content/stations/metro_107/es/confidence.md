@@ -1,0 +1,1 @@
+La denominación directa de la estación por la plaza está respaldada por fuentes del CRTM y municipales de transporte, y la apertura de 1961 aparece en materiales históricos del CRTM y referencias de estación. La única cautela afecta a la explicación simbólica profunda de 'Castilla', porque no se encontró el acuerdo oficial de rotulación.

@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma su nombre de la plaza de Alsacia, y Alsacia remite a la región europea de Alsacia. La interpretación más amplia sobre un conjunto de calles de geografía europea y el simbolismo de reconciliación es plausible, pero en parte inferida, y la frase de que Alsacia fue simplemente francesa desde 1648 requiere matices.

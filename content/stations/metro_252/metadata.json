@@ -1,0 +1,115 @@
+{
+  "id": "metro_252",
+  "name": "La Almudena",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Cementerio de Nuestra Señora de la Almudena; ultimately the Virgen de la Almudena",
+  "previous_names": "",
+  "naming_date": "16 March 2011",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 2 a Las Rosas - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-2-rosas",
+      "type": "official",
+      "relevance_en": "Official regional project page for the Line 2 extension; gives the opening date of 16 March 2011, lists La Almudena among the four new stations, and states that La Almudena station is located next to the cemetery.",
+      "relevance_es": "Página oficial regional de la prolongación de la línea 2; da la fecha de puesta en servicio, 16 de marzo de 2011, enumera La Almudena entre las cuatro nuevas estaciones y afirma que la estación está situada junto al cementerio."
+    },
+    {
+      "title": "La Línea 2 de Metro ya llega a Las Rosas - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/La-Linea-2-de-Metro-ya-llega-a-Las-Rosas/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=0cfdd1c735ebe210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council press release dated 16 March 2011 confirming the inauguration of the Line 2 extension and naming the four stations, including La Almudena.",
+      "relevance_es": "Nota de prensa del Ayuntamiento de Madrid del 16 de marzo de 2011 que confirma la inauguración de la prolongación de la línea 2 y nombra las cuatro estaciones, incluida La Almudena."
+    },
+    {
+      "title": "La Almudena - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_322",
+      "type": "official",
+      "relevance_en": "Current transport listing for La Almudena station, confirming Line 2 service, access points and the station name used by the Madrid transport authority.",
+      "relevance_es": "Ficha actual de transporte de la estación La Almudena, que confirma el servicio de la línea 2, los accesos y el nombre utilizado por la autoridad madrileña de transporte."
+    },
+    {
+      "title": "Cementerio de Nuestra Señora de la Almudena - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Direcciones-y-telefonos/Cementerio-de-La-Almudena/?vgnextchannel=2bc2c8eb248fe410VgnVCM1000000b205a0aRCRD&vgnextoid=76b7b47a0559f010VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal listing for the cemetery under the name Cementerio de Nuestra Señora de la Almudena; gives its Avenida de Daroca address and lists La Almudena metro as nearby transport.",
+      "relevance_es": "Ficha municipal oficial del cementerio con el nombre Cementerio de Nuestra Señora de la Almudena; da su dirección en la avenida de Daroca e incluye el metro La Almudena como transporte próximo."
+    },
+    {
+      "title": "Cementerio de la Almudena - Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/cementerio-almudena",
+      "type": "official",
+      "relevance_en": "Madrid's official tourism page states that the cemetery receives its name from the Virgen de la Almudena, patroness of the city, and summarizes the cemetery's date, scale and sections.",
+      "relevance_es": "Página turística oficial de Madrid que afirma que el cementerio recibe su nombre de la Virgen de la Almudena, patrona de la ciudad, y resume su fecha, extensión y zonas."
+    },
+    {
+      "title": "Madrid Medieval - Ayuntamiento de Madrid, Madrid un Libro Abierto",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/ficheros/H15MadridMedieval.pdf",
+      "type": "official",
+      "relevance_en": "Municipal educational PDF explaining the Almudena tradition, the association with the city wall and Puerta de la Vega, and the derivation from Arabic al-mudayna meaning citadel.",
+      "relevance_es": "PDF educativo municipal que explica la tradición de la Almudena, la relación con la muralla y la Puerta de la Vega, y la derivación del árabe al-mudayna con el sentido de ciudadela."
+    },
+    {
+      "title": "Museo Catedral de la Almudena - Prepara la visita al Museo",
+      "url": "https://museo.catedraldelaalmudena.es/wp-content/uploads/2014/10/Prepara-la-visita-al-Museo-Nivel-II.pdf",
+      "type": "official",
+      "relevance_en": "Cathedral museum educational material identifying the Virgen de la Almudena as patroness of Madrid and presenting the traditional story of the hidden image, wall and 9 November feast.",
+      "relevance_es": "Material educativo del Museo de la Catedral que identifica a la Virgen de la Almudena como patrona de Madrid y presenta la tradición de la imagen escondida, la muralla y la fiesta del 9 de noviembre."
+    },
+    {
+      "title": "Patrocinio Fiestas de la Almudena - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Programa-anual-de-Patrocinios-de-la-Ciudad-de-Madrid/Todas-las-actividades-del-programa-anual-de-patrocinios-/Patrocinio-Fiestas-de-la-Almudena/?vgnextchannel=aef0c4c0b4317710VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=5e4db8ee54e84910VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council page confirming that 9 November is the day of the Virgen de la Almudena and that the city honors its patroness with official celebrations.",
+      "relevance_es": "Página del Ayuntamiento de Madrid que confirma que el 9 de noviembre es el día de la Virgen de la Almudena y que la ciudad honra a su patrona con celebraciones oficiales."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'named after Calle de la Almudena' with 'named after the nearby Cementerio de Nuestra Señora de la Almudena, ultimately named for the Virgen de la Almudena.'",
+      "es": "Sustituir 'debe su nombre a la Calle de la Almudena' por 'debe su nombre al cercano Cementerio de Nuestra Señora de la Almudena, llamado en último término por la Virgen de la Almudena.'"
+    },
+    {
+      "en": "Present the hidden image, crumbling wall, candles and exact rediscovery story as tradition or legend, not as verified historical fact.",
+      "es": "Presentar la imagen escondida, el muro que se abre, los cirios y el relato exacto del hallazgo como tradición o leyenda, no como hecho histórico comprobado."
+    },
+    {
+      "en": "Avoid over-stating the medieval chronology: sources vary between 1083 and 1085 for Alfonso VI's taking of Madrid or the legendary rediscovery.",
+      "es": "Evitar una cronología medieval demasiado tajante: las fuentes varían entre 1083 y 1085 para la toma de Madrid por Alfonso VI o el hallazgo legendario."
+    },
+    {
+      "en": "The attribution of the current statue should be cautious; some references attribute it to Diego Copín de Holanda, while others mention broader possible circles or uncertainty.",
+      "es": "La atribución de la talla actual debe formularse con cautela; algunas referencias la atribuyen a Diego Copín de Holanda, mientras otras mencionan círculos artísticos más amplios o incertidumbre."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A station naming file or planning memorandum from Metro de Madrid would be useful to confirm the formal naming decision, although the cemetery-based explanation is strongly supported by location and official descriptions.",
+      "es": "Sería útil localizar un expediente de denominación o memoria de planificación de Metro de Madrid para confirmar la decisión formal del nombre, aunque la explicación basada en el cementerio queda muy respaldada por la ubicación y las descripciones oficiales."
+    },
+    {
+      "en": "Specialist art-historical catalogues should be checked before making a public claim about the exact authorship of the current cathedral image.",
+      "es": "Conviene revisar catálogos histórico-artísticos especializados antes de formular para el público una atribución exacta de la imagen actual de la catedral."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_252/en/summary.short.md",
+      "summary": "content/stations/metro_252/en/summary.md",
+      "story": "content/stations/metro_252/en/story.md",
+      "confidence": "content/stations/metro_252/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_252/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_252/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_252/es/summary.short.md",
+      "summary": "content/stations/metro_252/es/summary.md",
+      "story": "content/stations/metro_252/es/story.md",
+      "confidence": "content/stations/metro_252/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_252/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_252/es/research-note.md"
+    }
+  }
+}

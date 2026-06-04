@@ -1,0 +1,1 @@
+La estación de Nueva Numancia toma su nombre de una barriada histórica del Puente de Vallecas documentada ya en la década de 1860. El nombre probablemente evocaba la antigua Numancia, ciudad celtíbera recordada como símbolo de resistencia frente a Roma, aunque un artículo local reciente plantea también una posible relación con la fragata Numancia de los años 1860.

@@ -1,0 +1,1 @@
+Lista station keeps the old name of Calle de Lista, the former name of today’s Calle de José Ortega y Gasset. That street honoured Alberto Rodríguez de Lista y Aragón, the Sevillian priest, mathematician, poet, journalist, critic, and influential teacher.

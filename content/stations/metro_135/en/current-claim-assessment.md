@@ -1,0 +1,1 @@
+The core claim is well supported: the station takes its name from the Madrid neighbourhood of Simancas. The ultimate link to the Valladolid town is plausible, but the row overstates the legendary 'si mancas' story as an origin and should treat the ancient etymology as uncertain.

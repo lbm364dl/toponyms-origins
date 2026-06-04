@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma su nombre del parque y antiguo Real Sitio de la Casa de Campo, situado junto a ella. Conviene reforzarla con fuentes municipales y patrimoniales oficiales, y corregir la posible lectura de 1961 como año de apertura de la estación, ya que Casa de Campo se inauguró el 22 de octubre de 2002.

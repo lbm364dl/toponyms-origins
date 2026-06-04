@@ -1,0 +1,1 @@
+Plaza de Castilla station is named for the major northern Madrid square above it. The square was planned in the 1940s where old northbound roads met the new Avenida del Generalísimo, later again Paseo de la Castellana.

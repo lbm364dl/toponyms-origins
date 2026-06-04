@@ -1,0 +1,1 @@
+La afirmación central está bien respaldada: la estación está en la calle de Ascao, y Ascao/Askao es un topónimo antiguo de Bilbao. La explicación más amplia sobre el patrón de nombres del barrio madrileño es plausible, pero depende de fuentes locales secundarias y no de un acuerdo municipal de denominación consultado.

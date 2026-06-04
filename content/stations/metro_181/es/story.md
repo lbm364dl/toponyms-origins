@@ -1,0 +1,9 @@
+Hospital del Henares toma su nombre directamente del Hospital Universitario del Henares, el hospital público situado junto a la estación en Coslada. No es un nombre dedicado a una persona, a un santo, a una batalla ni a una antigua aldea, sino al destino sanitario al que la estación debía dar servicio.
+
+El nombre del hospital pertenece a un paisaje más amplio de Madrid y Guadalajara: el Henares. Lo llevan el río, municipios cercanos como San Fernando de Henares y Alcalá de Henares, y el Corredor del Henares, el eje industrial y residencial situado al este de Madrid.
+
+La etimología profunda es agrícola. Toponomasticon Hispaniae identifica Henares como el plural de henar, es decir, un lugar poblado de heno; la palabra procede en último término del latín, aunque la formación colectiva del topónimo es romance. Dicho de forma sencilla, el nombre del río remite a campos o praderas de heno asociados antiguamente a su curso.
+
+La cronología del transporte es algo más compleja que una apertura exactamente simultánea. La prensa de la época informó de que la nueva estación fue visitada o inaugurada el 7 de febrero de 2008 y de que el hospital contaría con acceso en Metro desde el lunes 11 de febrero. La página hospitalaria de la Comunidad de Madrid indica que el centro abrió sus puertas el 11 de febrero de 2008 para atender a vecinos de Coslada, San Fernando de Henares, Mejorada del Campo, Loeches y Velilla de San Antonio.
+
+Una capa histórica útil es el nombre árabe Guadalajara, de wadi al-hijara o una forma próxima con el sentido de 'río de piedras'. Ese nombre se asocia de forma sólida con la ciudad de Guadalajara y, en algunos relatos, con el valle del Henares antes de imponerse el nombre moderno del río. Para esta estación, sin embargo, la cadena directa está clara: estación -> hospital -> río o corredor del Henares -> topónimo de campos de heno.

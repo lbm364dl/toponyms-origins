@@ -1,0 +1,111 @@
+{
+  "id": "metro_127",
+  "name": "Ventilla",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "La Ventilla neighborhood, probably named for a small roadside venta on the old road to France",
+  "previous_names": "",
+  "naming_date": "1983-06-03",
+  "sources": [
+    {
+      "title": "CRTM - Ventilla station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_163/?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, Line 9 service, location on Avenida de Asturias, fare zone and accesses.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, el servicio de la línea 9, su ubicación en la avenida de Asturias, la zona tarifaria y los accesos."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid, FCMAF, edición 12, septiembre 2025",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronology listing the opening of the Herrera Oria-Plaza de Castilla section on 3 June 1983 with Ventilla among its stations, and later integration into Line 9 on 24 February 1986.",
+      "relevance_es": "Cronología que recoge la apertura del tramo Herrera Oria-Plaza de Castilla el 3 de junio de 1983 con Ventilla entre sus estaciones, y su integración posterior en la línea 9 el 24 de febrero de 1986."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Planes Integrales de Barrio: Tetuán",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Chamartin/Participacion-ciudadana/Planes-Integrales-de-Barrio/?idCapitulo=11020568&vgnextchannel=37520a28e4e83310VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=1c510ca52df44810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source confirming the 1948 annexation of Chamartín de la Rosa, Tetuán's district status from 1955, and the administrative barrios including Almenara.",
+      "relevance_es": "Fuente municipal que confirma la anexión de Chamartín de la Rosa en 1948, la condición de Tetuán como distrito desde 1955 y los barrios administrativos, incluido Almenara."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Estudio sociodemográfico de los barrios de Madrid, PIBA 2019",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDGParticipacionCiudadana/1_Inversion_Territorial/04_Estudios_e_informes_tecnicos/Estudio_PIBA_2019_I.pdf",
+      "type": "official",
+      "relevance_en": "Municipal study identifying La Ventilla-Almenara as the Almenara administrative barrio coinciding with the natural neighborhood, and summarizing its early twentieth-century growth and later Avenida de Asturias transformation.",
+      "relevance_es": "Estudio municipal que identifica La Ventilla-Almenara como el barrio administrativo de Almenara coincidente con el barrio natural, y resume su crecimiento desde comienzos del siglo XX y la transformación posterior por la avenida de Asturias."
+    },
+    {
+      "title": "Somos Ventilla - Historia de La Ventilla",
+      "url": "https://www.somosventilla.com/historia-de-la-ventilla",
+      "type": "other",
+      "relevance_en": "Local neighborhood history giving the direct etymology claim: a venta called Ventilla or La Ventilla at the exit of the Carretera de Francia, plus social history of the area.",
+      "relevance_es": "Historia local vecinal que ofrece la explicación etimológica directa: una venta llamada Ventilla o La Ventilla a la salida de la carretera de Francia, además de contexto social del barrio."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: venta",
+      "url": "https://dle.rae.es/venta",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical support for venta as a roadside or isolated inn for lodging travelers.",
+      "relevance_es": "Apoyo léxico autoritativo para venta como casa en caminos o despoblados para hospedaje de viajeros."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: -illo, -illa",
+      "url": "https://dle.rae.es/-illo",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical support for -illa as a Spanish suffix with diminutive or affective value.",
+      "relevance_es": "Apoyo léxico autoritativo para -illa como sufijo español con valor diminutivo o afectivo."
+    },
+    {
+      "title": "Antonio J. Palacios García, 'El proceso de renovación-sustitución en La Ventilla (Madrid)', Nimbus 19-20, 2007",
+      "url": "https://www.researchgate.net/publication/41537363_El_proceso_de_renovacion-sustitucion_en_La_Ventilla_Madrid_la_aplicacion_tardia_del_programa_de_barrios_en_remodelacion",
+      "type": "academic",
+      "relevance_en": "Academic study of La Ventilla's urban renewal, public housing areas, Avenida de Asturias planning context, and disadvantaged-neighborhood status.",
+      "relevance_es": "Estudio académico sobre la renovación urbana de La Ventilla, sus áreas de vivienda pública, el contexto urbanístico de la avenida de Asturias y su condición de barrio desfavorecido."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade confidence from verified to probable for the specific inn-origin claim; the station name is verified, but the origin of the neighborhood name is not documented here by an official toponymic source.",
+      "es": "Rebajar la confianza de verificada a probable para el origen concreto en una venta; el nombre de la estación está verificado, pero el origen del topónimo del barrio no queda documentado aquí por una fuente toponímica oficial."
+    },
+    {
+      "en": "Remove or qualify 'Sorolla (project name)' as a previous station name unless a direct Metro planning source is found; current evidence only shows nearby Sorolla-Avenida de Asturias as an EMT bus stop name.",
+      "es": "Eliminar o matizar 'Sorolla (nombre de proyecto)' como nombre anterior de la estación salvo que aparezca una fuente directa de planificación de Metro; la evidencia actual solo muestra Sorolla-Avenida de Asturias como nombre de una parada cercana de EMT."
+    },
+    {
+      "en": "Clarify that Ventilla station is in the administrative barrio of Almenara, popularly known as La Ventilla, rather than treating Ventilla as the current official barrio name.",
+      "es": "Aclarar que la estación de Ventilla está en el barrio administrativo de Almenara, conocido popularmente como La Ventilla, en lugar de presentar Ventilla como nombre oficial actual del barrio."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A stronger result would require inspecting municipal toponymy files, old Chamartín de la Rosa records, or the work cited by Palacios as Juárez 1981 on the historical development of La Ventilla.",
+      "es": "Un resultado más sólido exigiría consultar expedientes municipales de toponimia, documentación antigua de Chamartín de la Rosa o la obra citada por Palacios como Juárez 1981 sobre el desarrollo histórico de La Ventilla."
+    },
+    {
+      "en": "No direct archival proof of the exact roadside inn called Ventilla was found in this web pass.",
+      "es": "En esta revisión web no se ha localizado una prueba archivística directa de la venta concreta llamada Ventilla."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_127/en/summary.short.md",
+      "summary": "content/stations/metro_127/en/summary.md",
+      "story": "content/stations/metro_127/en/story.md",
+      "confidence": "content/stations/metro_127/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_127/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_127/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_127/es/summary.short.md",
+      "summary": "content/stations/metro_127/es/summary.md",
+      "story": "content/stations/metro_127/es/story.md",
+      "confidence": "content/stations/metro_127/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_127/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_127/es/research-note.md"
+    }
+  }
+}

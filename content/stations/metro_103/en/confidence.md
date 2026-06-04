@@ -1,0 +1,1 @@
+Official Madrid tourism and municipal heritage sources directly identify Plaza de Colón as dedicated to Columbus and document the monument’s creators and chronology. Regional transport documentation confirms the Line 4 historical corridor and 1944 opening context, and the current tourism listing identifies Colón as L4.

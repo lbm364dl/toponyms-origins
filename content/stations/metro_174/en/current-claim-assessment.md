@@ -1,0 +1,1 @@
+The core claim is well supported: the station is at Calle de Ascao, and Ascao/Askao is an old Bilbao place-name. The wider Madrid street-naming explanation is plausible but rests on secondary local sources rather than an inspected municipal naming record.

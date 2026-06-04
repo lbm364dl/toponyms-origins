@@ -1,0 +1,107 @@
+{
+  "id": "metro_117",
+  "name": "Campamento",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Campamento Militar de Carabanchel",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Plan Especial de Protección de la Colonia Histórica Militar Campamento. Memoria",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/memoria_plan_especial.pdf",
+      "type": "official",
+      "relevance_en": "Official planning document stating that the Colonia Militar Campamento stands on land belonging to the military zone of Campamento, formerly in Carabanchel Alto, and that the Campamento Militar de Carabanchel formed in the nineteenth century.",
+      "relevance_es": "Documento oficial de planeamiento que indica que la Colonia Militar Campamento se asienta en terrenos de la zona militar de Campamento, antes pertenecientes a Carabanchel Alto, y que el Campamento Militar de Carabanchel se formó en el siglo XIX."
+    },
+    {
+      "title": "El Ayuntamiento aprueba el plan especial para mejorar las condiciones de habitabilidad de la Colonia Militar de Campamento",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-aprueba-el-plan-especial-para-mejorar-las-condiciones-de-habitabilidad-de-la-colonia-militar-de-campamento/",
+      "type": "official",
+      "relevance_en": "Madrid City Council press note summarizing the protected Military Colony of Campamento and repeating the historical context of the Campamento military zone and Carabanchel Alto.",
+      "relevance_es": "Nota de prensa del Ayuntamiento de Madrid que resume la Colonia Militar de Campamento protegida y repite el contexto histórico de la zona militar de Campamento y Carabanchel Alto."
+    },
+    {
+      "title": "Contenido - Instituto de Historia y Cultura Militar: cuartel de Infantería del Campamento de Carabanchel",
+      "url": "https://ejercito.defensa.gob.es/en/unidades/Madrid/ihycm/Localizacion/uco-infante.html",
+      "type": "official",
+      "relevance_en": "Spanish Army source identifying a barracks at the Campamento de Carabanchel, with a project approved in 1886, confirming the formal military place-name.",
+      "relevance_es": "Fuente del Ejército de Tierra que identifica un cuartel en el Campamento de Carabanchel, con proyecto aprobado en 1886, lo que confirma el topónimo militar formal."
+    },
+    {
+      "title": "Campamento - CRTM",
+      "url": "https://crtm.es/tu-transporte-publico/metro/estaciones/4_102",
+      "type": "official",
+      "relevance_en": "Current official transport listing for Campamento station, line 5, fare zone A and accesses on Avenida del Padre Piquer.",
+      "relevance_es": "Ficha oficial actual de transporte de la estación de Campamento, línea 5, zona tarifaria A y accesos en la avenida del Padre Piquer."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional transport history explaining line 5 chronology and the incorporation of former sections into the present line configuration.",
+      "relevance_es": "Historia regional del transporte que explica la cronología de la línea 5 y la incorporación de antiguos tramos a la configuración actual."
+    },
+    {
+      "title": "Historia del barrio de Campamento - Centros Municipales de Mayores Latina",
+      "url": "https://cmmlatina.wordpress.com/2023/08/07/historia-del-barrio-de-campamento/",
+      "type": "other",
+      "relevance_en": "Local-history article giving the detailed narrative of pastureland, gunpowder store, 1856 military manoeuvres, the 1885 regidor for the barrio de Campamento, and the later military population.",
+      "relevance_es": "Artículo de historia local que aporta el relato detallado de los pastos, el almacén de pólvora, las maniobras militares de 1856, el regidor de 1885 para el barrio de Campamento y la posterior población militar."
+    },
+    {
+      "title": "campamento - Diccionario de la lengua española, RAE-ASALE",
+      "url": "https://dle.rae.es/campamento",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source defining campamento in military use as a place where Army forces temporarily establish themselves in open country.",
+      "relevance_es": "Fuente léxica autorizada que define campamento en uso militar como lugar en despoblado donde se establecen temporalmente fuerzas del Ejército."
+    },
+    {
+      "title": "Archivo municipal de Carabanchel Alto - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/Archivo-municipal-de-Carabanchel-Alto/?vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=27fe1265f214a810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid City Council archival page noting that Carabanchel Alto was annexed to Madrid by decree of 9 January 1948, useful for the administrative chronology of the area.",
+      "relevance_es": "Página archivística del Ayuntamiento de Madrid que señala que Carabanchel Alto fue anexionado a Madrid por decreto de 9 de enero de 1948, útil para la cronología administrativa de la zona."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the exact 1856 manoeuvre date and the 1885 barrio-administrator episode as sourced local-history details, not as primary-archival facts unless the Carabanchel Alto municipal record is inspected.",
+      "es": "Conviene tratar la fecha exacta de 1856 para las maniobras y el episodio del regidor de barrio de 1885 como datos de historia local, no como hechos de archivo primario mientras no se inspeccione el expediente municipal de Carabanchel Alto."
+    },
+    {
+      "en": "The station name should be tied most directly to the Campamento Militar de Carabanchel and the Campamento area, rather than phrased only as a generic reference to military camps.",
+      "es": "El nombre de la estación debe vincularse de forma más directa al Campamento Militar de Carabanchel y al área de Campamento, no solo a una referencia genérica a campamentos militares."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A stronger source for the 1885 naming milestone would be the original Carabanchel Alto municipal act or appointment record, likely in Madrid municipal archival holdings.",
+      "es": "Una fuente más sólida para el hito de 1885 sería el acta municipal o expediente de nombramiento original de Carabanchel Alto, probablemente en fondos archivísticos municipales de Madrid."
+    },
+    {
+      "en": "The late-eighteenth-century gunpowder-store and 1856 manoeuvre details should be checked against military or municipal archival documentation before being displayed as fully verified dates.",
+      "es": "Los datos del almacén de pólvora de finales del siglo XVIII y de las maniobras de 1856 deberían contrastarse con documentación militar o municipal antes de mostrarse como fechas plenamente verificadas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_117/en/summary.short.md",
+      "summary": "content/stations/metro_117/en/summary.md",
+      "story": "content/stations/metro_117/en/story.md",
+      "confidence": "content/stations/metro_117/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_117/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_117/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_117/es/summary.short.md",
+      "summary": "content/stations/metro_117/es/summary.md",
+      "story": "content/stations/metro_117/es/story.md",
+      "confidence": "content/stations/metro_117/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_117/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_117/es/research-note.md"
+    }
+  }
+}

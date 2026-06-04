@@ -1,0 +1,118 @@
+{
+  "id": "metro_136",
+  "name": "Las Musas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de las Musas / Colonia Las Musas, ultimately the Muses of Greek mythology",
+  "previous_names": "",
+  "naming_date": "1974-07-17",
+  "sources": [
+    {
+      "title": "CRTM - Las Musas metro station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_132?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station, Line 7 connection, accesses on Avenida de Niza and its operating context.",
+      "relevance_es": "Página oficial de transporte que confirma la estación actual, la conexión con la línea 7, los accesos en la avenida de Niza y su contexto operativo."
+    },
+    {
+      "title": "Memoria de Madrid - Estación de Las Musas",
+      "url": "https://www.memoriademadrid.es/view/387721",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record stating that Las Musas station opened in July 1974 with the Pueblo Nuevo-Las Musas section and was configured as the line terminus.",
+      "relevance_es": "Registro del archivo fotográfico de Metro de Madrid que indica que la estación de Las Musas se inauguró en julio de 1974 con el tramo Pueblo Nuevo-Las Musas y quedó configurada como cabecera."
+    },
+    {
+      "title": "Memoria de Madrid - Estación de Pueblo Nuevo",
+      "url": "https://www.memoriademadrid.es/view/399577",
+      "type": "archive",
+      "relevance_en": "Quotes Metro de Madrid’s 1974 management report giving the exact inauguration date, 17 July 1974, for Line 7 between Las Musas and Pueblo Nuevo and the Canillejas depot.",
+      "relevance_es": "Cita la memoria de gestión de Metro de Madrid de 1974 con la fecha exacta de inauguración, 17 de julio de 1974, para la línea 7 entre Las Musas y Pueblo Nuevo y las cocheras de Canillejas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Callejero Oficial, VIALES_VIGENTES query for Musas",
+      "url": "https://sigma.madrid.es/hosted/rest/services/CALLEJERO/CALLEJERO_VIALES/MapServer/0/query?where=DEN_TX_NOMBRE%20LIKE%20%27%25MUSAS%25%27&outFields=*&returnGeometry=false&f=pjson",
+      "type": "official",
+      "relevance_en": "Official municipal GIS record for Calle de las Musas, showing it as a current Madrid street and giving a registry high-date of 1965-01-01.",
+      "relevance_es": "Registro GIS municipal oficial de la calle de las Musas, que la muestra como vía vigente de Madrid y da una fecha de alta registral de 1965-01-01."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Plan Madrid Recupera MAD-RE",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Vivienda-urbanismo-y-obras/Plan-MAD-RE/Plan-MAD-RE-recupera/Plan-Madrid-Recupera-MAD-RE-Recupera-tu-casa-Recupera-tu-barrio-Recupera-tu-ciudad/?vgnextchannel=cfe3d8cbcc179610VgnVCM1000001d4a900aRCRD&vgnextoid=05847f73d0584510VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal urban-rehabilitation page listing '20.07 Colonia Las Musas' among San Blas-Canillejas areas.",
+      "relevance_es": "Página municipal de rehabilitación urbana que enumera '20.07 Colonia Las Musas' entre los ámbitos de San Blas-Canillejas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Mapa APIRU Planos Localización, 20.07 Colonia Las Musas",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/Destacamos/ficheros/MapaAPIRUPlanosLocalizaci%C3%B3n.pdf",
+      "type": "official",
+      "relevance_en": "Official map identifying Colonia Las Musas and showing nearby classical/literary street names such as Musas, Lucano, Pitágoras, La Ilíada and Troya.",
+      "relevance_es": "Plano oficial que identifica la Colonia Las Musas y muestra nombres cercanos de temática clásica o literaria como Musas, Lucano, Pitágoras, La Ilíada y Troya."
+    },
+    {
+      "title": "BOE - Orden de 15 de julio de 1974, concesión de explotación de los tramos Pueblo Nuevo-San Blas y San Blas-Las Musas",
+      "url": "https://www.boe.es/boe/dias/1975/02/17/pdfs/A03359-03359.pdf",
+      "type": "official",
+      "relevance_en": "State gazette order documenting the concession for the Line VII sections Pueblo Nuevo-San Blas and San Blas-Las Musas, confirming the official use of the Las Musas terminal name in the 1974 infrastructure context.",
+      "relevance_es": "Orden del Boletín Oficial del Estado que documenta la concesión de los tramos Pueblo Nuevo-San Blas y San Blas-Las Musas de la línea VII, confirmando el uso oficial del nombre Las Musas en el contexto de la infraestructura de 1974."
+    },
+    {
+      "title": "Encyclopaedia Britannica - Muse",
+      "url": "https://www.britannica.com/topic/Muse-Greek-mythology",
+      "type": "reference",
+      "relevance_en": "Reference source for the mythological background: the Muses as nine sister goddesses, daughters of Zeus and Mnemosyne, associated with liberal arts and sciences.",
+      "relevance_es": "Fuente de referencia para el trasfondo mitológico: las musas como nueve diosas hermanas, hijas de Zeus y Mnemósine, asociadas a las artes liberales y las ciencias."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Parque Barrio Las Musas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Latina/Parque-Barrio-Las-Musas/?vgnextchannel=a83aca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=bf326ca7fd08e210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal page for Parque Barrio Las Musas, located at Avenida de Niza 55 in Rosas / San Blas-Canillejas, supporting current local use of the Las Musas place-name.",
+      "relevance_es": "Página municipal del Parque Barrio Las Musas, situado en la avenida de Niza 55, en Rosas / San Blas-Canillejas, que respalda el uso local actual del topónimo Las Musas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the exact opening date 17 July 1974 rather than only the year 1974.",
+      "es": "Usar la fecha exacta de apertura, 17 de julio de 1974, en lugar de solo el año 1974."
+    },
+    {
+      "en": "Describe the immediate namesake as Calle de las Musas / Colonia Las Musas in the present Rosas neighbourhood of San Blas-Canillejas, not simply as 'the Las Musas neighbourhood in the Canillejas zone.'",
+      "es": "Describir el referente inmediato como la calle de las Musas / Colonia Las Musas en el actual barrio de Rosas, distrito de San Blas-Canillejas, no simplemente como 'el barrio de Las Musas en la zona de Canillejas'."
+    },
+    {
+      "en": "The street’s official GIS high-date appears as 1965-01-01, but this should not be presented as a confirmed dedication vote without inspecting the municipal naming record.",
+      "es": "La fecha de alta de la calle en el GIS oficial aparece como 1965-01-01, pero no debe presentarse como acuerdo confirmado de dedicación sin consultar el expediente municipal de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original municipal or Metro naming file for Line 7 stations to confirm whether the station was explicitly named after Calle de las Musas, Colonia Las Musas, or both.",
+      "es": "Consultar el expediente municipal o de Metro de denominación de las estaciones de la línea 7 para confirmar si la estación se nombró expresamente por la calle de las Musas, por la Colonia Las Musas o por ambas."
+    },
+    {
+      "en": "Inspect historical planning files for Colonia Las Musas to establish who chose the classical street-name theme and whether it was assigned by the developer or by the Ayuntamiento.",
+      "es": "Consultar los expedientes urbanísticos históricos de la Colonia Las Musas para establecer quién eligió el tema clásico del callejero y si fue una decisión del promotor o del Ayuntamiento."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_136/en/summary.short.md",
+      "summary": "content/stations/metro_136/en/summary.md",
+      "story": "content/stations/metro_136/en/story.md",
+      "confidence": "content/stations/metro_136/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_136/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_136/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_136/es/summary.short.md",
+      "summary": "content/stations/metro_136/es/summary.md",
+      "story": "content/stations/metro_136/es/story.md",
+      "confidence": "content/stations/metro_136/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_136/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_136/es/research-note.md"
+    }
+  }
+}

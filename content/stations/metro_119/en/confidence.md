@@ -1,0 +1,1 @@
+The station stands by the Casa de Campo Lake, official tourism and municipal pages identify the lake and its access by Metro Lago, and archival transport records confirm the station’s 1961 origin on the former suburban railway. The only uncertainty is not the etymology but whether the earliest official station signage used Lago or El Lago.

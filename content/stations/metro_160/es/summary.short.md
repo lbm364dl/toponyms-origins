@@ -1,0 +1,1 @@
+Parque de Santa María recibe su nombre de la zona de Santa María de Hortaleza, dentro del barrio municipal actual de Pinar del Rey. El nombre ya estaba asociado a viviendas y espacios cercanos antes de que la estación de la línea 4 abriera el 15 de diciembre de 1998.

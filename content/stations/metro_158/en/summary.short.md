@@ -1,0 +1,1 @@
+Avenida de la Paz station is named after the avenue that forms the eastern stretch of Madrid's M-30. The name predates the station: the city callejero records Avenida de la Paz from 26 November 1965, and later critics have read its 'peace' as a Franco-era reference to the post-Civil War peace.

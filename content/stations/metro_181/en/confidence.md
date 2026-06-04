@@ -1,0 +1,1 @@
+The direct naming after the hospital is strongly supported by official transport and hospital pages and by contemporary press explaining that the Line 7 extension was lengthened to serve the hospital. The river etymology is supported by Toponomasticon Hispaniae; only the exact inauguration/opening chronology needs nuance.

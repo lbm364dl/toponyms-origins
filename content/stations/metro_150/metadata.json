@@ -1,0 +1,104 @@
+{
+  "id": "metro_150",
+  "name": "Rivas Vaciamadrid",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Rivas-Vaciamadrid (municipality)",
+  "previous_names": "Ribas de Jarama / Rivas de Jarama and Vaciamadrid for the historic municipality/place context; no former station name found.",
+  "naming_date": "Station opened with this name on 1999-04-07; municipal modern-name/reconstruction context: 1954 foundation and 1959-07-23 inauguration of the rebuilt nucleus.",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Rivas Vaciamadrid station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_184/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 9 correspondence, location in Rivas-Vaciamadrid and current transport context.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 9, su ubicación en Rivas-Vaciamadrid y el contexto actual de transporte."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Network chronology listing 7 April 1999 as the inauguration date of the Puerta de Arganda-Arganda del Rey Line 9 extension, including Rivas Vaciamadrid.",
+      "relevance_es": "Cronología de la red que enumera el 7 de abril de 1999 como fecha de inauguración del tramo Puerta de Arganda-Arganda del Rey de la línea 9, con Rivas Vaciamadrid."
+    },
+    {
+      "title": "Ayuntamiento de Rivas-Vaciamadrid: Conoce Rivas / Historia de Rivas",
+      "url": "https://www.rivasciudad.es/ciudad/",
+      "type": "official",
+      "relevance_en": "Municipal source for the composite local history: Guillermo Rivas/Ribas tradition, Vaciamadrid as probably from Manzil Mayrit, 1845 incorporation, Civil War destruction, 1954 reconstruction and later demographic growth.",
+      "relevance_es": "Fuente municipal para la historia local compuesta: tradición de Guillermo Rivas/Ribas, Vaciamadrid como probable derivado de Manzil Mayrit, incorporación de 1845, destrucción en la Guerra Civil, reconstrucción de 1954 y crecimiento posterior."
+    },
+    {
+      "title": "Ayuntamiento de Rivas-Vaciamadrid: Casco Antiguo: 60 años de historia (1959-2019)",
+      "url": "https://www.rivasciudad.es/noticias/cultura/2019/07/18/casco-antiguo-60-anos-de-historia-1959-2019/862600100318/",
+      "type": "official",
+      "relevance_en": "Municipal article giving the 23 July 1959 inauguration/birth date of present-day Rivas Vaciamadrid and describing the Civil War devastation and Regiones Devastadas reconstruction.",
+      "relevance_es": "Artículo municipal que da la fecha del 23 de julio de 1959 para la inauguración o nacimiento de la actual Rivas Vaciamadrid y describe la devastación de la Guerra Civil y la reconstrucción por Regiones Devastadas."
+    },
+    {
+      "title": "Jaime Oliver Asín, Estudios de toponimia madrileña: La Salmedina y Vaciamadrid",
+      "url": "https://madridislamico.org/bibliografia/estudios-de-toponimia-madrilena-la-salmedina-y-vaciamadrid/",
+      "type": "academic",
+      "relevance_en": "Bibliographic record and downloadable scan of Oliver Asín's 1948 article, inspected for the distinction between Masalmadrit/Manzil Mayrit and Hafalmadrit/Fahs Mayrit and for the folk-etymology explanation of Vaciamadrid.",
+      "relevance_es": "Registro bibliográfico y escaneo descargable del artículo de Oliver Asín de 1948, consultado para la distinción entre Masalmadrit/Manzil Mayrit y Hafalmadrit/Fahs Mayrit y para la explicación de Vaciamadrid como etimología popular."
+    },
+    {
+      "title": "Persée: review of Jaime Oliver Asín, Estudios de toponimia madrileña, La Salmedina y Vaciamadrid",
+      "url": "https://www.persee.fr/doc/hispa_0007-4640_1949_num_51_2_3188_t1_0206_0000_2",
+      "type": "academic",
+      "relevance_en": "Contemporary academic review summarizing Oliver Asín's conclusion that Vaciamadrid represents Fahs Mayrit and that the current form arose through folk etymology.",
+      "relevance_es": "Reseña académica contemporánea que resume la conclusión de Oliver Asín: Vaciamadrid representa Fahs Mayrit y la forma actual surgió por etimología popular."
+    },
+    {
+      "title": "Comunidad de Madrid / Rivas-Vaciamadrid PGOU Avance: Memoria de Información",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/01_memoria_de_informacion_11.pdf",
+      "type": "official",
+      "relevance_en": "Planning document with a historical section that repeats the Guillermo de Rivas tradition, describes the older Rivas/Vaciamadrid settlement pattern, and dates the rebuilt postwar nucleus to 1954 and its inauguration to 23 July 1959.",
+      "relevance_es": "Documento de planeamiento con apartado histórico que repite la tradición de Guillermo de Rivas, describe el patrón de poblamiento antiguo de Rivas/Vaciamadrid y fecha el núcleo reconstruido de posguerra en 1954 y su inauguración el 23 de julio de 1959."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the Fahs al-Mayrit derivation as uncontested; the city council currently says Vaciamadrid seems to descend from Manzil Mayrit, while Oliver Asín argues that Manzil/Masalmadrit referred to the parador and Fahs/Hafalmadrit produced the modern name.",
+      "es": "No debe presentarse la derivación Fahs al-Mayrit como indiscutida; el Ayuntamiento afirma actualmente que Vaciamadrid parece descender de Manzil Mayrit, mientras que Oliver Asín sostiene que Manzil/Masalmadrit se refería al parador y que Fahs/Hafalmadrit dio lugar al nombre moderno."
+    },
+    {
+      "en": "The postwar chronology should be more precise: sources distinguish the 1954 reconstruction/foundation of the new nucleus from the inauguration or birth of the current town on 23 July 1959.",
+      "es": "La cronología de posguerra debe precisarse: las fuentes distinguen la reconstrucción o fundación del nuevo núcleo en 1954 de la inauguración o nacimiento del pueblo actual el 23 de julio de 1959."
+    },
+    {
+      "en": "The station naming date can be filled: the Line 9 extension including Rivas Vaciamadrid opened on 7 April 1999.",
+      "es": "Puede completarse la fecha de denominación de la estación: el tramo de la línea 9 que incluía Rivas Vaciamadrid se abrió el 7 de abril de 1999."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival check of the 1845 incorporation and the 1954 administrative name change would require consulting the original municipal or state administrative records, not only later official summaries.",
+      "es": "Una comprobación archivística completa de la incorporación de 1845 y del cambio administrativo de nombre en 1954 requeriría consultar los expedientes municipales o estatales originales, no solo resúmenes oficiales posteriores."
+    },
+    {
+      "en": "The Guillermo Rivas/Ribas foundation story is repeated by official local sources, but a stronger medieval primary citation was not located in this pass.",
+      "es": "La historia fundacional de Guillermo Rivas/Ribas se repite en fuentes oficiales locales, pero en esta revisión no se localizó una cita primaria medieval más sólida."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_150/en/summary.short.md",
+      "summary": "content/stations/metro_150/en/summary.md",
+      "story": "content/stations/metro_150/en/story.md",
+      "confidence": "content/stations/metro_150/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_150/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_150/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_150/es/summary.short.md",
+      "summary": "content/stations/metro_150/es/summary.md",
+      "story": "content/stations/metro_150/es/story.md",
+      "confidence": "content/stations/metro_150/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_150/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_150/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Authoritative municipal sources directly connect the Ciudad Lineal place-name with Arturo Soria y Mata's 1892 project and the 1894 Compañía Madrileña de Urbanización. Transport sources confirm the current station and its Line 5 context. The only caution is that the administrative-district wording is imprecise for a station opened in 1964.

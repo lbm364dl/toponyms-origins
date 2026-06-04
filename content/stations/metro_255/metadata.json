@@ -1,0 +1,133 @@
+{
+  "id": "metro_255",
+  "name": "Villaverde Bajo-Cruce",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Villaverde Bajo and El Cruce de Villaverde",
+  "previous_names": "For the Metro station, no official former name found; some contemporary accounts use or omit hyphenation as 'Villaverde Bajo Cruce' or 'Villaverde-Cruce'. Related railway antecedents include Villaverde-Alicante and Villaverde Bajo for the nearby railway station/area.",
+  "naming_date": "21 April 2007 (station opened with this name; no separate naming act found)",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 3 desde Legazpi a Villaverde Alto",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-3-legazpi-villaverde-alto",
+      "type": "official",
+      "relevance_en": "Official construction page locating Villaverde Bajo-Cruce at Avenida de Andalucía and the Villaverde-Vallecas road, describing El Cruce and the surface bus interchange.",
+      "relevance_es": "Página oficial de la obra que sitúa Villaverde Bajo-Cruce en la avenida de Andalucía con la carretera de Villaverde a Vallecas, describe El Cruce y el intercambiador de autobuses en superficie."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Gives the Line 3 Legazpi-Villaverde Alto extension service date as 21 April 2007.",
+      "relevance_es": "Da como fecha de puesta en servicio de la prolongación Legazpi-Villaverde Alto de la línea 3 el 21 de abril de 2007."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Villaverde Bajo-Cruce",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_271/?lang=en",
+      "type": "official",
+      "relevance_en": "Current transport authority listing for the Metro station, confirming name, Line 3 service, accesses and bus connections.",
+      "relevance_es": "Ficha vigente de la autoridad de transportes que confirma el nombre de la estación, la línea 3, los accesos y las conexiones de autobús."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Villaverde, datos históricos",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villaverde/Villaverde/?vgnextchannel=9f51ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=4ad4c9c84c3b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal history source describing Villaverde as a former rural-industrial municipality and giving annexation to Madrid by decree of 2 July 1954.",
+      "relevance_es": "Fuente municipal histórica que describe Villaverde como antiguo municipio rural e industrial y da su anexión a Madrid por decreto de 2 de julio de 1954."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Archivo municipal de Villaverde",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Archivo-de-Villa/?idCapitulo=12083840&vgnextchannel=a68fed8a96b06010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "archive",
+      "relevance_en": "Confirms municipal documentation for Villaverde and states that Villaverde was annexed to Madrid by Ministry of the Interior decree of 2 July 1954.",
+      "relevance_es": "Confirma la documentación municipal de Villaverde y señala que Villaverde fue anexionado a Madrid por decreto del Ministerio de Gobernación de 2 de julio de 1954."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - VĬRĬDE",
+      "url": "https://toponhisp.org/es/etimo/viride",
+      "type": "academic",
+      "relevance_en": "Academic toponymy entry explaining Latin viridis and its continuation in Romance forms such as Spanish verde; useful for the Villaverde element 'verde'.",
+      "relevance_es": "Ficha académica de toponimia que explica el latín viridis y su continuidad en formas romances como el español verde; útil para el elemento 'verde' de Villaverde."
+    },
+    {
+      "title": "COAM Arquitectura de Madrid - Conjunto de edificaciones vinculadas a la Estación de Villaverde Bajo",
+      "url": "https://fcoam.eu/guia/F3/F3.340.htm",
+      "type": "reference",
+      "relevance_en": "Architectural reference explaining the railway role of Villaverde Bajo, its location near the bifurcation between Extremadura and Andalucía-Levante lines, and the 1893 and 1931 railway milestones.",
+      "relevance_es": "Referencia arquitectónica que explica el papel ferroviario de Villaverde Bajo, su ubicación junto a la bifurcación entre las líneas de Extremadura y Andalucía-Levante, y los hitos ferroviarios de 1893 y 1931."
+    },
+    {
+      "title": "COAM Arquitectura de Madrid - Pabellones de viviendas de la antigua estación",
+      "url": "https://fcoam.eu/guia/F3/F3.340A.htm",
+      "type": "reference",
+      "relevance_en": "Documents surviving buildings from the second Villaverde Bajo railway station, with project and works dates around 1924-1925 and the 1924-1931 railway complex.",
+      "relevance_es": "Documenta edificios conservados de la segunda estación ferroviaria de Villaverde Bajo, con fechas de proyecto y obra en torno a 1924-1925 y el complejo ferroviario de 1924-1931."
+    },
+    {
+      "title": "Archivo Histórico Ferroviario - Accidentes ferroviarios en Villaverde Bajo",
+      "url": "https://archivo.docutren.com/index.php/accidentes-ferroviarios?languages=en&listLimit=10&places=11507&sort=date&sortDir=asc",
+      "type": "archive",
+      "relevance_en": "Archive catalogue record for correspondence and 1921 press about the Villaverde Bajo collision between the Toledo and Andalucía express trains.",
+      "relevance_es": "Registro de catálogo archivístico sobre correspondencia y prensa de 1921 relativa al choque de Villaverde Bajo entre los expresos de Toledo y Andalucía."
+    },
+    {
+      "title": "El País - Villaverde Bajo ya tiene intercambiador",
+      "url": "https://elpais.com/diario/2007/04/25/madrid/1177500264_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report that the surface interchange serving the new Line 3 station would be called El Cruce and was located at the Villaverde-Vallecas road intersection.",
+      "relevance_es": "Crónica contemporánea que indica que el intercambiador de superficie vinculado a la nueva estación de la línea 3 se llamaría El Cruce y estaba situado en la intersección de la carretera de Villaverde a Vallecas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the direct named-after value from only 'Villaverde Bajo' to 'Villaverde Bajo and El Cruce de Villaverde', because official construction documentation places the station in the El Cruce area at Avenida de Andalucía and the Villaverde-Vallecas road.",
+      "es": "Cambiar el valor directo de named_after de solo 'Villaverde Bajo' a 'Villaverde Bajo y El Cruce de Villaverde', porque la documentación oficial de la obra sitúa la estación en la zona de El Cruce, en la avenida de Andalucía con la carretera de Villaverde a Vallecas."
+    },
+    {
+      "en": "Do not state 'villa viridis' as an attested historical form unless a primary medieval or archival source is found; present it instead as a transparent formation from villa plus verde, with verde from Latin viridis.",
+      "es": "No presentar 'villa viridis' como forma histórica documentada salvo que aparezca una fuente primaria medieval o archivística; conviene explicarlo como una formación transparente de villa más verde, con verde procedente del latín viridis."
+    },
+    {
+      "en": "Correct the early railway date: the Madrid-Aranjuez line opened on 9 February 1851, not 9 February 1861. COAM separately dates a notable MZA halt at Villaverde Bajo to 1893.",
+      "es": "Corregir la fecha ferroviaria temprana: la línea Madrid-Aranjuez se inauguró el 9 de febrero de 1851, no el 9 de febrero de 1861. El COAM fecha aparte un apeadero destacado de MZA en Villaverde Bajo en 1893."
+    },
+    {
+      "en": "Clarify that the 1924-1931 works refer to the nearby railway station/complex, not to the Metro station, which opened with the Line 3 extension on 21 April 2007.",
+      "es": "Aclarar que las obras de 1924-1931 se refieren a la estación o complejo ferroviario cercano, no a la estación de Metro, que abrió con la prolongación de la línea 3 el 21 de abril de 2007."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the 1906 royal order that reportedly fixed the railway name 'Villaverde Bajo' to verify the exact wording and date.",
+      "es": "Revisar la real orden de 1906 que supuestamente fijó el nombre ferroviario 'Villaverde Bajo' para comprobar la redacción y la fecha exactas."
+    },
+    {
+      "en": "Check medieval and early-modern records for Villaverde to see whether the earliest documented forms support a simple villa + verde interpretation or suggest another local motivation.",
+      "es": "Comprobar documentación medieval y moderna temprana de Villaverde para ver si las formas más antiguas respaldan la interpretación simple villa + verde o sugieren otra motivación local."
+    },
+    {
+      "en": "A full public note on the 1921 railway crash should consult the Archivo Histórico Ferroviario file ES 28079. AHF A-2-8-1-1-S-0119-0076 and the cited 1921 press items directly.",
+      "es": "Para una nota pública completa sobre el accidente ferroviario de 1921 conviene consultar directamente el expediente del Archivo Histórico Ferroviario ES 28079. AHF A-2-8-1-1-S-0119-0076 y las noticias de prensa de 1921 allí citadas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_255/en/summary.short.md",
+      "summary": "content/stations/metro_255/en/summary.md",
+      "story": "content/stations/metro_255/en/story.md",
+      "confidence": "content/stations/metro_255/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_255/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_255/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_255/es/summary.short.md",
+      "summary": "content/stations/metro_255/es/summary.md",
+      "story": "content/stations/metro_255/es/story.md",
+      "confidence": "content/stations/metro_255/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_255/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_255/es/research-note.md"
+    }
+  }
+}

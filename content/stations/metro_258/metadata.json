@@ -1,0 +1,93 @@
+{
+  "id": "metro_258",
+  "name": "Las Suertes",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Avenida de Las Suertes and the older Vallecas place-name Las Suertes, probably referring to rural land parcels or allotments",
+  "previous_names": "",
+  "naming_date": "2007-05-16 for the station opening under this name; Avenida de Las Suertes was officially assigned in the Ayuntamiento de Madrid bulletin published on 2006-08-03.",
+  "sources": [
+    {
+      "title": "Boletín del Ayuntamiento de Madrid, 3 de agosto de 2006",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/TemaUrbanismo/Competencias/Files/03082006.pdf",
+      "type": "official",
+      "relevance_en": "Officially assigns the name Avenida de Las Suertes to provisional street number 10 in the Ensanche de Vallecas.",
+      "relevance_es": "Atribuye oficialmente el nombre de avenida de Las Suertes a la calle provisional número 10 del Ensanche de Vallecas."
+    },
+    {
+      "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Documents the Congosto-Ensanche de Vallecas Line 1 extension, its 16 May 2007 service date, and the scale of the Ensanche de Vallecas development.",
+      "relevance_es": "Documenta la prolongación Congosto-Ensanche de Vallecas de la línea 1, su puesta en servicio el 16 de mayo de 2007 y la escala del desarrollo del Ensanche de Vallecas."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Lists Avenida de Las Suertes in Villa de Vallecas and gives its official numbering and endpoints.",
+      "relevance_es": "Incluye la avenida de Las Suertes en Villa de Vallecas y aporta su numeración y extremos oficiales."
+    },
+    {
+      "title": "suerte - Diccionario de la lengua española, RAE-ASALE",
+      "url": "https://dle.rae.es/suerte",
+      "type": "reference",
+      "relevance_en": "Confirms the relevant lexical meaning: suerte can mean a portion of arable land bounded from other plots.",
+      "relevance_es": "Confirma el sentido léxico relevante: suerte puede significar una parte de tierra de labor separada de otras por sus lindes."
+    },
+    {
+      "title": "El Ensanche de Vallecas, un nuevo barrio de la capital a medio habitar, tiene servicio de metro desde hoy - Europa Press",
+      "url": "https://www.europapress.es/madrid/noticia-ensanche-vallecas-nuevo-barrio-capital-medio-habitar-tiene-servicio-metro-hoy-20070516132203.html",
+      "type": "press",
+      "relevance_en": "Contemporary report of the opening of the Line 1 extension with the three stations La Gavia, Las Suertes, and Valdecarros on 16 May 2007.",
+      "relevance_es": "Crónica contemporánea de la apertura de la prolongación de la línea 1 con las tres estaciones La Gavia, Las Suertes y Valdecarros el 16 de mayo de 2007."
+    },
+    {
+      "title": "Nombres de calles de Vallecas de siempre - AV PAU Ensanche de Vallecas",
+      "url": "https://paudevallecas.org/nombres-de-calles-de-vallecas-de-siempre/",
+      "type": "other",
+      "relevance_en": "Local neighborhood source stating that names including 'de las Suertes' were older Vallecas street or place names; useful context but not decisive evidence.",
+      "relevance_es": "Fuente vecinal local que afirma que nombres como 'de las Suertes' pertenecían a la toponimia antigua de Vallecas; aporta contexto, pero no prueba concluyente."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the official street-naming date for Avenida de Las Suertes: it appears in the Ayuntamiento de Madrid bulletin of 3 August 2006 as the replacement for provisional street 'Ensanche de Vallecas number 10.'",
+      "es": "Añadir la fecha oficial de denominación de la avenida de Las Suertes: figura en el Boletín del Ayuntamiento de Madrid de 3 de agosto de 2006 como sustitución de la calle provisional 'Ensanche de Vallecas número 10.'"
+    },
+    {
+      "en": "Qualify the agricultural-allotment explanation as probable for this specific toponym, not directly proven by the municipal street-naming act.",
+      "es": "Matizar la explicación de las parcelas agrícolas como probable para este topónimo concreto, no demostrada directamente por el acuerdo municipal de denominación viaria."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal naming files or older cadastral/topographic maps for Vallecas to confirm whether 'Las Suertes' was an inherited rural place-name before the 2006 avenue naming.",
+      "es": "Consultar expedientes municipales de denominación o mapas catastrales/topográficos antiguos de Vallecas para confirmar si 'Las Suertes' era un topónimo rural heredado antes de la denominación de la avenida en 2006."
+    },
+    {
+      "en": "Find an official Metro de Madrid station file or planning document that explicitly states the station was named after Avenida de Las Suertes.",
+      "es": "Localizar una ficha oficial de Metro de Madrid o un documento de planificación que indique explícitamente que la estación tomó el nombre de la avenida de Las Suertes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_258/en/summary.short.md",
+      "summary": "content/stations/metro_258/en/summary.md",
+      "story": "content/stations/metro_258/en/story.md",
+      "confidence": "content/stations/metro_258/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_258/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_258/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_258/es/summary.short.md",
+      "summary": "content/stations/metro_258/es/summary.md",
+      "story": "content/stations/metro_258/es/story.md",
+      "confidence": "content/stations/metro_258/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_258/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_258/es/research-note.md"
+    }
+  }
+}

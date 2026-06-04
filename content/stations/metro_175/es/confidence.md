@@ -1,0 +1,1 @@
+El origen inmediato del nombre de la estación queda verificado por la información de transporte que sitúa la parada en el Barrio del Puerto, y el vínculo más profundo con el Puerto Seco está respaldado por una noticia contemporánea de 1998 que explica explícitamente el nombre del barrio. Fuentes oficiales y portuarias corroboran el papel y las conexiones del puerto seco.

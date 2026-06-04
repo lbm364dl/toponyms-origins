@@ -1,0 +1,1 @@
+La estación de Simancas lleva el nombre del barrio madrileño al que da servicio. Ese nombre remite en último término a Simancas, en Valladolid, una villa castellana histórica cuya forma antigua, Septimanca, es muy temprana pero de etimología incierta.

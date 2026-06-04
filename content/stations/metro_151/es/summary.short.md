@@ -1,0 +1,1 @@
+La estación Julián Besteiro debe su nombre a Julián Besteiro Fernández (1870-1940), profesor y dirigente socialista que presidió las Cortes Constituyentes republicanas entre 1931 y 1933. La parada de la línea 12 se abrió con MetroSur en Leganés en 2003, junto a equipamientos cívicos y culturales que también llevan su nombre.

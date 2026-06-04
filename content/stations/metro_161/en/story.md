@@ -1,0 +1,9 @@
+Hortaleza station takes its name from the Madrid district in which it stands. The district name is older than the Metro: it preserves the name of the former village and municipality of Hortaleza, a rural settlement north-east of Madrid that was later absorbed into the capital.
+
+The old municipality mattered enough to give its name not only to the modern district, but also to the central Calle de Hortaleza, historically the road from Madrid toward that village. That repeated name is a reminder that many Madrid street and district names began as practical directions: roads led to independent towns that later became part of the city.
+
+The annexation is well documented. A decree dated 22 July 1949 approved the total annexation of the municipal term of Hortaleza to Madrid, and municipal historical summaries give 31 March 1950 as the date when the incorporation was carried out. The old municipality was small: later municipal and cartographic summaries list it as 13.62 square kilometres with about 1,518 inhabitants at the time of annexation.
+
+The deeper origin of the word Hortaleza is more delicate. A common explanation links it with huertas or hortalizas, fitting the area's rural and agricultural past. However, Joan Corominas's etymological dictionary explicitly treats the Madrid toponym as a different word from hortaliza and proposes that it is a variant of fortaleza. Some local explanations connect that idea with the village's position on higher ground, although no surviving fortress is securely documented.
+
+For the station itself, the name is secure: it is a place-name inherited from the district and the former municipality. What should be presented with caution is the older linguistic explanation. The orchard story is culturally attractive and plausible in the landscape, but the strongest etymological source found supports the fortaleza line more directly.

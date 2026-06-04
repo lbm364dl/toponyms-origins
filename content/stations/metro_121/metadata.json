@@ -1,0 +1,118 @@
+{
+  "id": "metro_121",
+  "name": "Plaza de España",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza de España",
+  "previous_names": "No former station name found. Earlier place context: Plaza de San Marcial / plaza de armas de San Marcial; site of the Cuartel de San Gil.",
+  "naming_date": "Place name documented in a 1910 municipal proposal and consolidated by the 1911 urbanization plan; Metro station name in service on Line 3 from 16 July 1941 and on the former Suburbano/Line 10 from 6 February 1961.",
+  "sources": [
+    {
+      "title": "Memoria de Madrid - La plaza de España",
+      "url": "https://www.memoriademadrid.es/view/476335/la-plaza-de-espana",
+      "type": "archive",
+      "relevance_en": "Digitized 1910 press notice from La Correspondencia de España recording a municipal proposal for a large square named Plaza de España on the plots left by the demolition of the old San Gil barracks.",
+      "relevance_es": "Noticia de prensa de 1910 de La Correspondencia de España, digitalizada, que documenta una propuesta municipal para formar una gran plaza llamada Plaza de España sobre los solares resultantes del derribo del antiguo cuartel de San Gil."
+    },
+    {
+      "title": "La nueva Plaza de España - Portal de las Bibliotecas de Madrid",
+      "url": "https://bibliotecas.madrid.es/portales/bibliotecas/es/Te-recomendamos/La-nueva-Plaza-de-Espana/?vgnextchannel=225a0b6eb5cb3510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=621e2068c28dd710VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal library article explaining the San Marcial parade ground, the San Gil barracks, the 1907 demolition approval, the 1910 request for the lands, and the early urbanization of the square.",
+      "relevance_es": "Artículo de bibliotecas municipales que explica la plaza de armas de San Marcial, el cuartel de San Gil, la aprobación del derribo en 1907, la solicitud de terrenos en 1910 y la primera urbanización de la plaza."
+    },
+    {
+      "title": "Estudio de la evolución histórica de la Plaza de España",
+      "url": "https://decide.madrid.es/docs/01_estudio_de_la_evolucion_historica.pdf",
+      "type": "official",
+      "relevance_en": "Municipal historical study stating that after the 1908 demolition of the San Gil barracks, the resulting space plus the former Plaza de San Marcial received a first urbanization plan in 1911 and that the name Plaza de España survived from that project.",
+      "relevance_es": "Estudio histórico municipal que afirma que tras el derribo del cuartel de San Gil en 1908, el espacio resultante unido a la extinta plaza de San Marcial recibió un primer plan de urbanización en 1911 y que de aquel proyecto quedó el nombre de Plaza de España."
+    },
+    {
+      "title": "Comunidad de Madrid - Declaramos Bien de Interés Patrimonial el monumento a Cervantes de la Plaza de España",
+      "url": "https://www.comunidad.madrid/noticias/2018/11/25/declaramos-bien-interes-patrimonial-monumento-cervantes-plaza-espana",
+      "type": "official",
+      "relevance_en": "Regional heritage source for the Cervantes monument: 1915 site decision, 1916 winning team, partial inauguration in 1929, completion in 1969, and iconographic program.",
+      "relevance_es": "Fuente patrimonial regional sobre el monumento a Cervantes: decisión de emplazamiento en 1915, equipo ganador de 1916, inauguración parcial en 1929, finalización en 1969 y programa iconográfico."
+    },
+    {
+      "title": "Turismo Madrid - Monument to Cervantes",
+      "url": "https://www.esmadrid.com/en/tourist-information/monumento-a-cervantes",
+      "type": "official",
+      "relevance_en": "Official tourism source describing the monument, its commission in 1915, its 1920s construction phase, and its completion in the 1960s.",
+      "relevance_es": "Fuente turística oficial que describe el monumento, su encargo en 1915, su fase constructiva de los años veinte y su conclusión en los años sesenta."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 3 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/linea-3-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Regional transport source confirming that the Line 3 Sol-Argüelles section opened on 16 July 1941.",
+      "relevance_es": "Fuente regional de transporte que confirma que el tramo Sol-Argüelles de la línea 3 se inauguró el 16 de julio de 1941."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Regional transport source confirming that the Suburbano between Plaza de España and Carabanchel entered service on 6 February 1961, and giving technical context for the deep Plaza de España station and later Line 10 changes.",
+      "relevance_es": "Fuente regional de transporte que confirma que el Suburbano entre Plaza de España y Carabanchel entró en servicio el 6 de febrero de 1961, y aporta contexto técnico sobre la estación profunda de Plaza de España y las transformaciones posteriores de la línea 10."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Recorrido arqueológico por la historia de la plaza de España",
+      "url": "https://diario.madrid.es/blog/2023/04/24/recorrido-arqueologico-por-la-historia-de-la-plaza-de-espana/",
+      "type": "official",
+      "relevance_en": "Municipal source on archaeological remains revealed by the Plaza de España works, including the Godoy Palace, Royal Stables, and San Gil barracks context.",
+      "relevance_es": "Fuente municipal sobre los restos arqueológicos revelados por las obras de la Plaza de España, incluido el contexto del palacio de Godoy, las Caballerizas Reales y el cuartel de San Gil."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Almeida define la nueva plaza de España como un espacio que nos pertenece a todos los madrileños",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Almeida-define-la-nueva-plaza-de-Espana-como-un-espacio-que-nos-pertenece-a-todos-los-madrilenos/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextoid=1372aabb8974d710VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal press release dated 22 November 2021 documenting the reopening of the renewed square and the traffic-tunnel intervention that shifted road traffic below the surface.",
+      "relevance_es": "Nota de prensa municipal del 22 de noviembre de 2021 que documenta la reapertura de la plaza renovada y la intervención del túnel que trasladó el tráfico rodado al nivel inferior."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station on Line 3 should be dated to the Sol-Argüelles extension opened to the public on 16 July 1941, not to 1925; the Line 10/Suburbano part opened in 1961.",
+      "es": "La estación de la línea 3 debe fecharse en la prolongación Sol-Argüelles abierta al público el 16 de julio de 1941, no en 1925; la parte del Suburbano/línea 10 abrió en 1961."
+    },
+    {
+      "en": "The Cervantes monument was linked in official regional heritage material to the 1915 decision to place it in the new square and to the 1916 winning team; it was partially inaugurated in 1929 and completed in 1969.",
+      "es": "La documentación patrimonial regional vincula el monumento a Cervantes con la decisión de 1915 de situarlo en la nueva plaza y con el equipo ganador de 1916; se inauguró parcialmente en 1929 y se terminó en 1969."
+    },
+    {
+      "en": "The statement that the bronze Don Quixote and Sancho figures were only added in the 1960s is not supported by the stronger sources consulted; official tourism material instead says the 1960s completion involved Aldonza and Dulcinea on the sides, while regional heritage material treats Don Quixote and Sancho as part of the monument's central iconography.",
+      "es": "La afirmación de que las figuras en bronce de don Quijote y Sancho se añadieron solo en los años sesenta no queda respaldada por las fuentes más sólidas consultadas; el material turístico oficial atribuye a la conclusión de los años sesenta la incorporación de Aldonza y Dulcinea en los laterales, mientras que la documentación patrimonial regional integra a don Quijote y Sancho en la iconografía central del monumento."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal naming decree or council minute that formally assigned the name Plaza de España should be checked in the Archivo de Villa or official municipal proceedings.",
+      "es": "Conviene comprobar en el Archivo de Villa o en las actas municipales el decreto o acuerdo exacto que asignó formalmente el nombre de Plaza de España."
+    },
+    {
+      "en": "Some secondary sources vary between 1906, 1908, 1909 and 1910 for the demolition process of the San Gil barracks; the best display wording should describe it as a process culminating around 1908-1910 unless a primary demolition record is inspected.",
+      "es": "Algunas fuentes secundarias oscilan entre 1906, 1908, 1909 y 1910 para el derribo del cuartel de San Gil; para una ficha pública es preferible describirlo como un proceso culminado hacia 1908-1910 salvo que se consulte el expediente primario de derribo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_121/en/summary.short.md",
+      "summary": "content/stations/metro_121/en/summary.md",
+      "story": "content/stations/metro_121/en/story.md",
+      "confidence": "content/stations/metro_121/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_121/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_121/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_121/es/summary.short.md",
+      "summary": "content/stations/metro_121/es/summary.md",
+      "story": "content/stations/metro_121/es/story.md",
+      "confidence": "content/stations/metro_121/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_121/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_121/es/research-note.md"
+    }
+  }
+}

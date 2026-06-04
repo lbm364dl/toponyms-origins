@@ -1,0 +1,118 @@
+{
+  "id": "metro_160",
+  "name": "Parque de Santa María",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Barrio de Santa María / Parque de Santa María, Hortaleza",
+  "previous_names": "",
+  "naming_date": "1998-12-15",
+  "sources": [
+    {
+      "title": "Prolongación de la Línea 4. Tramo: Mar de Cristal-Parque de Santa María",
+      "url": "https://www.comunidad.madrid/servicios/transporte/prolongacion-linea-4-tramo-mar-cristal-parque-santa-maria",
+      "type": "official",
+      "relevance_en": "Official regional source for the Line 4 extension; states the 15 December 1998 service date and says Parque de Santa María station serves and takes its name from the Barrio de Santa María.",
+      "relevance_es": "Fuente oficial regional sobre la prolongación de la línea 4; indica la puesta en servicio del 15 de diciembre de 1998 y señala que la estación de Parque de Santa María da servicio al Barrio de Santa María y toma su nombre de él."
+    },
+    {
+      "title": "Parroquia Santa María del Parque - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Hortaleza/Direcciones-y-telefonos/Parroquia-Santa-Maria-del-Parque/?vgnextchannel=3ae3d47ffee28010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=5ee2b069a541f010VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms the parish exists at Calle Santa Virgilia 13 and is officially listed in Pinar del Rey/Hortaleza, near the station.",
+      "relevance_es": "Confirma que la parroquia existe en la calle Santa Virgilia 13 y figura oficialmente en Pinar del Rey/Hortaleza, cerca de la estación."
+    },
+    {
+      "title": "Plano zonal Metro Parque de Santa María",
+      "url": "https://crtm.es/media/nsho5fef/plano_zonal_metro_parquedesantamaria.pdf",
+      "type": "official",
+      "relevance_en": "CRTM local transport map showing the station accesses, nearby streets Santa Virgilia and Santa Susana, and the Parroquia Santa María del Parque.",
+      "relevance_es": "Plano zonal del CRTM que muestra los accesos de la estación, las calles cercanas Santa Virgilia y Santa Susana, y la Parroquia Santa María del Parque."
+    },
+    {
+      "title": "Distrito 16 - Hortaleza, Barrio 164 - Pinar del Rey",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/16%20-%20Hortaleza/Barrio164.pdf",
+      "type": "official",
+      "relevance_en": "Municipal map confirming the station area lies within the official Pinar del Rey barrio and labels nearby Santa María/Parque de Santa María features.",
+      "relevance_es": "Mapa municipal que confirma que el entorno de la estación está dentro del barrio oficial de Pinar del Rey y rotula elementos cercanos de Santa María/Parque de Santa María."
+    },
+    {
+      "title": "El nuevo metro alcanza los barrios de San Lorenzo y Santa María",
+      "url": "https://elpais.com/diario/1998/12/16/madrid/913811070_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 16 December 1998 describing the opening of the new Line 4 stations for San Lorenzo and Santa María.",
+      "relevance_es": "Crónica contemporánea del 16 de diciembre de 1998 que describe la apertura de las nuevas estaciones de la línea 4 para San Lorenzo y Santa María."
+    },
+    {
+      "title": "Estación de Parque de Santa María - Memoria de Madrid",
+      "url": "https://www.memoriademadrid.es/view/567865",
+      "type": "archive",
+      "relevance_en": "Municipal digital archive item from the Metro de Madrid photographic archive; dates the station image to 1998 and links it to the Line 4 extension.",
+      "relevance_es": "Ficha del archivo digital municipal procedente del archivo fotográfico de Metro de Madrid; fecha la imagen de la estación en 1998 y la vincula con la ampliación de la línea 4."
+    },
+    {
+      "title": "Inauguración de la ampliación de la línea 4 entre Mar de Cristal y Parque Sta. María",
+      "url": "https://www.memoriademadrid.es/view/399325/inauguracion-de-la-ampliacion-de-la-linea-4-entre-mar-de-cristal-y-parque-sta-maria",
+      "type": "archive",
+      "relevance_en": "Archive record for the 15 December 1998 inauguration, noting that Parque de Santa María was the Line 4 terminus until 2007.",
+      "relevance_es": "Ficha de archivo de la inauguración del 15 de diciembre de 1998, que señala que Parque de Santa María fue cabecera de la línea 4 hasta 2007."
+    },
+    {
+      "title": "Luis Cubillo de Arteaga - Instituto de Estudios Madrileños",
+      "url": "https://xn--institutoestudiosmadrileos-4rc.es/portfolio_page/c-89-1-luis-cubillo-de-arteaga/",
+      "type": "reference",
+      "relevance_en": "Architectural chronology listing a 1970 housing complex in the Barrio de Santa María on Santa Susana and Santa Virgilia, supporting the local place-name before the Metro station.",
+      "relevance_es": "Cronología arquitectónica que recoge un conjunto de viviendas de 1970 en el Barrio de Santa María, en Santa Susana y Santa Virgilia, lo que apoya la existencia del topónimo local antes de la estación."
+    },
+    {
+      "title": "Parque de Santa María, barrio a la venta",
+      "url": "https://www.periodicohortaleza.org/decenas-de-viviendas-de-parque-de-santa-maria-cambian-de-dueno-con-sus-inquilinos-dentro/",
+      "type": "press",
+      "relevance_en": "Local reporting documenting Parque de Santa María as a recognised Hortaleza neighbourhood and stating that its 1960s blocks were built by Construcciones Residenciales y Sociales.",
+      "relevance_es": "Información vecinal que documenta Parque de Santa María como barrio reconocido de Hortaleza y afirma que sus bloques de los años sesenta fueron construidos por Construcciones Residenciales y Sociales."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the recommended etymology type from religious to place for the station-level name origin; the religious element is deeper and indirect.",
+      "es": "Cambiar el tipo etimológico recomendado de religioso a lugar para el origen directo del nombre de la estación; el elemento religioso es más profundo e indirecto."
+    },
+    {
+      "en": "Do not state as fact that the neighbourhood was named after the Parroquia Santa María del Parque; the sources found do not prove that sequence.",
+      "es": "No afirmar como hecho que el barrio recibió el nombre de la Parroquia Santa María del Parque; las fuentes localizadas no prueban esa secuencia."
+    },
+    {
+      "en": "Clarify that Parque de Santa María/Santa María is a local area within the official municipal neighbourhood of Pinar del Rey, not a separate administrative barrio of Madrid.",
+      "es": "Aclarar que Parque de Santa María/Santa María es una zona local dentro del barrio municipal de Pinar del Rey, no un barrio administrativo independiente de Madrid."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Consult COAM archive files for the 1970 Barrio de Santa María housing project to confirm the developer, project title, and whether the name predates the parish.",
+      "es": "Consultar los expedientes del COAM del proyecto de viviendas del Barrio de Santa María de 1970 para confirmar promotora, título del proyecto y si el nombre precede a la parroquia."
+    },
+    {
+      "en": "Consult Archdiocese or parish foundation records for Santa María del Parque to establish its exact creation date and whether it was named after the local area.",
+      "es": "Consultar archivos del Arzobispado o de la parroquia de Santa María del Parque para establecer su fecha exacta de creación y si recibió el nombre de la zona."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_160/en/summary.short.md",
+      "summary": "content/stations/metro_160/en/summary.md",
+      "story": "content/stations/metro_160/en/story.md",
+      "confidence": "content/stations/metro_160/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_160/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_160/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_160/es/summary.short.md",
+      "summary": "content/stations/metro_160/es/summary.md",
+      "story": "content/stations/metro_160/es/story.md",
+      "confidence": "content/stations/metro_160/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_160/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_160/es/research-note.md"
+    }
+  }
+}

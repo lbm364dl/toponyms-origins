@@ -1,0 +1,1 @@
+El contexto de la línea 5 y la existencia de la calle de Urgel en Carabanchel están respaldados por fuentes oficiales de transporte y municipales, y la historia medieval de Urgell está bien documentada. El punto no resuelto es la falta de un expediente de rotulación madrileño que pruebe que la calle se dedicó oficialmente y de forma específica al Condado de Urgell.

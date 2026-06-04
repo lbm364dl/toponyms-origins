@@ -1,0 +1,1 @@
+La estación de Congosto toma su nombre de la calle del Congosto y del entorno de la Colonia Congosto, en Villa de Vallecas. La palabra congosto significa desfiladero o paso estrecho entre montañas y procede del latín coangustus.

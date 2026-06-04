@@ -1,0 +1,9 @@
+Bambú is a local, street-derived station name. The Consorcio Regional de Transportes de Madrid lists the station access as **Calle del Bambú, 14**, and the official Madrid street gazetteer includes **Calle del Bambú** in the district of Chamartín. The simplest and best-supported explanation is therefore that Metro adopted the name of the street at the station entrance.
+
+The word behind the street is the Spanish common noun **bambú**, bamboo: a woody grass associated in Spanish dictionaries with strong, light canes and tropical or subtropical landscapes. In this part of Chamartín the name is not isolated. The CRTM station-area map also shows Calle de la Yuca, Calle de la Hiedra and Calle de la Buganvilla nearby, which makes Bambú part of a small botanical pocket in the street map.
+
+The surrounding district has an older history than the station. Chamartín corresponds to the former municipality of Chamartín de la Rosa, annexed to Madrid by decree in 1947. Madrid’s district history notes that, apart from the old rural core, much of the area remained only lightly urbanized until after the Civil War, when the north of the city began to fill in with new infrastructure, housing and business uses.
+
+The station itself is recent. It opened on **11 April 2007**, when Line 1 was extended from Chamartín to Pinar de Chamartín; the same transport programme also connected Line 4 to Pinar de Chamartín. That explains why a very old metro line has a modern northern station with a botanical street name rather than a historic village, parish or estate name.
+
+No former station name was found. The direct origin, Calle del Bambú, is strong; the deeper explanation of why the street received that botanical name is less secure because the original municipal street-naming act was not located. Nearby plant-name streets support the botanical-theme reading, but the exact date and planning decision for the street name remain open.

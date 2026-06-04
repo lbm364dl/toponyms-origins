@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station name is best explained through Calle del Pico de los Artilleros, whose name preserves the memory of the Moratalaz artillery firing and manoeuvre ground. The wording should be tightened because the immediate source is the street/toponym, not a station directly named by Metro after the military range.

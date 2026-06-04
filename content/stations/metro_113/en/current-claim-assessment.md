@@ -1,0 +1,1 @@
+The core claim is supported: the station takes its name from the Alto de Extremadura area/plaza on the Paseo de Extremadura, a road historically tied to the western route out of Madrid. Some details are overextended or need correction, especially the station opening date and the broad claim about Mesta sheep routes.

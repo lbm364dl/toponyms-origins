@@ -1,0 +1,104 @@
+{
+  "id": "metro_109",
+  "name": "Puente de Vallecas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puente de Vallecas, the bridge and surrounding settlement at the road from Madrid to Vallecas over the Arroyo Abroñigal",
+  "previous_names": "",
+  "naming_date": "1923-05-08",
+  "sources": [
+    {
+      "title": "CRTM - Puente de Vallecas station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_19/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current Metro station, Line 1 service and station location/accesses.",
+      "relevance_es": "Página oficial de transporte que confirma la estación actual de Metro, el servicio de la línea 1 y la localización/accesos de la estación."
+    },
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Puente de Vallecas",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2025/05/1_FICHA-PUENTE-DE-VALLECAS.pdf",
+      "type": "official",
+      "relevance_en": "Metro museum fiche giving the Atocha-Puente de Vallecas section, public opening on 8 May 1923, and the explanation that the neighbourhood name came from the bridge over the Abroñigal.",
+      "relevance_es": "Ficha del museo de Metro que indica el tramo Atocha-Puente de Vallecas, la apertura al público el 8 de mayo de 1923 y la explicación de que el barrio tomó el nombre del puente sobre el Abroñigal."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distrito de Puente de Vallecas, datos históricos",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Puente-de-Vallecas/Puente-de-Vallecas/?vgnextchannel=3970ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=57b25969e83b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Municipal page documenting the district's 1987 creation, the 1950 annexation of Vallecas, and the role of the metro in Puente de Vallecas' expansion.",
+      "relevance_es": "Página municipal que documenta la creación del distrito en 1987, la anexión de Vallecas en 1950 y el papel del metro en la expansión de Puente de Vallecas."
+    },
+    {
+      "title": "Arquitectura madrileña: dibujos en el Museo de Historia de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/MuseosMunicipales/MuseoDeHistoriaDeMadrid/EspecialInformativo/05_Publicaciones/ArquitecturaMadrile%C3%B1a/Arquitec.Mad.XVII-XVIII.pdf",
+      "type": "official",
+      "relevance_en": "Official museum catalogue identifying Pedro de Ribera's 1729 plan and elevation for a bridge over the Arroyo Abroñigal on the Camino de Vallecas.",
+      "relevance_es": "Catálogo oficial del museo que identifica el plano y alzado de Pedro de Ribera de 1729 para un puente sobre el arroyo Abroñigal en el Camino de Vallecas."
+    },
+    {
+      "title": "Análisis del desarrollo urbano de Puente de Vallecas - Archivo Digital UPM",
+      "url": "https://oa.upm.es/76869/",
+      "type": "academic",
+      "relevance_en": "Academic urban-history work explaining Puente de Vallecas as the area just beyond the planned city, across the Abroñigal, where the old Valencia road continued over the primitive bridge.",
+      "relevance_es": "Trabajo académico de historia urbana que explica Puente de Vallecas como el territorio inmediato a la ciudad planificada, al otro lado del Abroñigal, donde la antigua carretera de Valencia continuaba por el puente primitivo."
+    },
+    {
+      "title": "ABC Madrid, 7 May 1923 - 'En el Metropolitano'",
+      "url": "https://www.abc.es/archivo/periodicos/abc-madrid-19230507.html",
+      "type": "press",
+      "relevance_en": "Contemporary press evidence for the inauguration of the new Atocha-Vallecas metro line immediately before public service began.",
+      "relevance_es": "Testimonio de prensa contemporáneo sobre la inauguración de la nueva línea Atocha-Vallecas justo antes de su apertura al público."
+    },
+    {
+      "title": "Dialnet - De Atocha al Puente de Vallecas: otro tramo de Metro camino del centenario",
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6514619",
+      "type": "academic",
+      "relevance_en": "Specialist article summary stating that the Atocha-Puente de Vallecas section opened to the public on 8 May 1923 with 2,297 metres and three stations.",
+      "relevance_es": "Resumen de artículo especializado que indica que el tramo Atocha-Puente de Vallecas se abrió al público el 8 de mayo de 1923 con 2.297 metros y tres estaciones."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace Wikipedia as the main evidence with official Metro/CRTM sources for the station and municipal or academic sources for the district and bridge.",
+      "es": "Sustituir Wikipedia como prueba principal por fuentes oficiales de Metro/CRTM para la estación y fuentes municipales o académicas para el distrito y el puente."
+    },
+    {
+      "en": "Use 1729 for Pedro de Ribera's documented bridge design; describe 1731 construction and the 65,000-reales cost as repeated but requiring archival confirmation unless a municipal works file is cited.",
+      "es": "Usar 1729 para el proyecto documentado de Pedro de Ribera; presentar la construcción hacia 1731 y el coste de 65.000 reales como datos repetidos que requieren confirmación archivística si no se cita un expediente municipal."
+    },
+    {
+      "en": "Avoid saying the station name is directly connected to a 1206 Abroñigal reference; the accessible evidence more clearly concerns Valnegral/Moratalaz and Calatrava lands.",
+      "es": "Evitar afirmar que el nombre de la estación se conecta directamente con una referencia al Abroñigal de 1206; la evidencia accesible se refiere con más claridad a Valnegral/Moratalaz y a tierras de Calatrava."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Archivo de Villa/Archivo de Secretaría file for the bridge works to confirm the final construction date, material choice and exact cost.",
+      "es": "Consultar el expediente original del Archivo de Villa/Archivo de Secretaría sobre las obras del puente para confirmar la fecha final de construcción, la solución material y el coste exacto."
+    },
+    {
+      "en": "Confirm from municipal plans or demolition records whether the historical bridge commonly called Puente de los Tres Ojos was demolished in 1984 and how directly it corresponds to Ribera's eighteenth-century bridge.",
+      "es": "Confirmar en planos municipales o expedientes de demolición si el puente histórico conocido como Puente de los Tres Ojos fue demolido en 1984 y hasta qué punto correspondía directamente al puente dieciochesco de Ribera."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_109/en/summary.short.md",
+      "summary": "content/stations/metro_109/en/summary.md",
+      "story": "content/stations/metro_109/en/story.md",
+      "confidence": "content/stations/metro_109/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_109/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_109/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_109/es/summary.short.md",
+      "summary": "content/stations/metro_109/es/summary.md",
+      "story": "content/stations/metro_109/es/story.md",
+      "confidence": "content/stations/metro_109/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_109/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_109/es/research-note.md"
+    }
+  }
+}

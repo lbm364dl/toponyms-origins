@@ -1,0 +1,104 @@
+{
+  "id": "metro_155",
+  "name": "Reyes Católicos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Reyes Católicos (Isabel I de Castilla and Fernando II de Aragón)",
+  "previous_names": "",
+  "naming_date": "2007-04-26",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Reyes Católicos",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_283?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Line 10 correspondence, fare zone, accessibility symbols and access in San Sebastián de los Reyes.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 10, la zona tarifaria, los servicios de accesibilidad y el acceso en San Sebastián de los Reyes."
+    },
+    {
+      "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/node/17616",
+      "type": "official",
+      "relevance_en": "Regional source describing MetroNorte as serving Alcobendas and San Sebastián de los Reyes and listing Reyes Católicos among the new northern Line 10 stations.",
+      "relevance_es": "Fuente regional que describe MetroNorte como servicio a Alcobendas y San Sebastián de los Reyes y enumera Reyes Católicos entre las nuevas estaciones del tramo norte de la línea 10."
+    },
+    {
+      "title": "Ayuntamiento de San Sebastián de los Reyes - Información general",
+      "url": "https://transparencia.ssreyes.org/web/ayuntamiento-de-san-sebasti%C3%A1n-de-los-reyes/informaci%C3%B3n-general1",
+      "type": "official",
+      "relevance_en": "Municipal page noting the 2 May festivities as the anniversary of the town’s 1492 foundation and stating that the church was built over a hermitage existing when the municipality was founded by the Catholic Monarchs.",
+      "relevance_es": "Página municipal que menciona las Fiestas del 2 de Mayo como aniversario de la fundación del municipio en 1492 y señala que la iglesia se levantó sobre una ermita existente cuando el municipio fue fundado por los Reyes Católicos."
+    },
+    {
+      "title": "Comunidad de Madrid - XV Jornadas de Archivos Municipales PDF",
+      "url": "https://www.comunidad.madrid/archivos/images/ACTIVIDADES/PUBLICACIONES/XVjarchivosmunicipales.pdf",
+      "type": "archive",
+      "relevance_en": "Archival publication snippet states that San Sebastián de los Reyes was founded by a royal charter of the Catholic Monarchs dated 2 May 1492, under the protection of the Council of Madrid.",
+      "relevance_es": "Publicación archivística cuyo texto localizado indica que San Sebastián de los Reyes fue fundado por Real Cédula de los Reyes Católicos de 2 de mayo de 1492, bajo la protección del Concejo de Madrid."
+    },
+    {
+      "title": "Real Academia de la Historia - Reyes Católicos",
+      "url": "https://www.rah.es/reyes-catolicos/",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Isabella I and Ferdinand II, including dates, marriage chronology and key events of their reign.",
+      "relevance_es": "Referencia biográfica autorizada sobre Isabel I y Fernando II, con fechas, cronología matrimonial y hechos principales de su reinado."
+    },
+    {
+      "title": "Callejero de San Sebastián de los Reyes - Avenida de los Reyes Católicos",
+      "url": "https://san-sebastian-de-los-reyes.callejero.net/av-de-los-reyes-catolicos.html",
+      "type": "reference",
+      "relevance_en": "Street gazetteer evidence for the existence of Avenida de los Reyes Católicos in San Sebastián de los Reyes, supporting the immediate urban source of the station name.",
+      "relevance_es": "Evidencia de callejero sobre la existencia de la avenida de los Reyes Católicos en San Sebastián de los Reyes, útil para sostener el origen urbano inmediato del nombre de la estación."
+    },
+    {
+      "title": "El País - El metro te lleva en media hora de Madrid a San Sebastián de los Reyes",
+      "url": "https://elpais.com/elpais/2007/04/26/actualidad/1177575425_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report dated 26 April 2007 confirming the inauguration of MetroNorte, the Line 10 extension connecting Madrid with Alcobendas and San Sebastián de los Reyes.",
+      "relevance_es": "Crónica periodística contemporánea del 26 de abril de 2007 que confirma la inauguración de MetroNorte, la prolongación de la línea 10 que conectó Madrid con Alcobendas y San Sebastián de los Reyes."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add that the station is most directly named after the local Avenida de los Reyes Católicos, while the ultimate referents are Isabella I and Ferdinand II.",
+      "es": "Añadir que la estación toma su nombre de forma más inmediata de la avenida local de los Reyes Católicos, aunque los referentes últimos son Isabel I y Fernando II."
+    },
+    {
+      "en": "Replace 'their marriage unified the crowns of Castile and Aragon' with a more precise formulation: it created a dynastic union and joint rule, while the crowns retained distinct institutions.",
+      "es": "Sustituir 'su matrimonio unificó las coronas de Castilla y Aragón' por una fórmula más precisa: creó una unión dinástica y un gobierno conjunto, mientras las coronas conservaron instituciones diferenciadas."
+    },
+    {
+      "en": "The references to Granada and Columbus are historically relevant context for 1492, but they do not directly explain the station name and should be kept secondary.",
+      "es": "Las referencias a Granada y a Colón son contexto histórico relevante de 1492, pero no explican directamente el nombre de la estación y conviene dejarlas en segundo plano."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro de Madrid or Community of Madrid naming resolution for the station was not found; inspecting project files or official inauguration documentation could confirm the exact naming act.",
+      "es": "No se ha localizado un acuerdo formal de Metro de Madrid o de la Comunidad de Madrid sobre la denominación de la estación; revisar expedientes del proyecto o documentación oficial de inauguración podría confirmar el acto exacto de nombramiento."
+    },
+    {
+      "en": "The full original 2 May 1492 royal charter should be inspected in an archival edition or municipal archive record for exact wording about the settlers, Madrid council protection and jurisdiction.",
+      "es": "Conviene revisar la Real Cédula original del 2 de mayo de 1492 en una edición archivística o en el archivo municipal para comprobar la redacción exacta sobre los pobladores, la protección del Concejo de Madrid y la jurisdicción."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_155/en/summary.short.md",
+      "summary": "content/stations/metro_155/en/summary.md",
+      "story": "content/stations/metro_155/en/story.md",
+      "confidence": "content/stations/metro_155/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_155/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_155/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_155/es/summary.short.md",
+      "summary": "content/stations/metro_155/es/summary.md",
+      "story": "content/stations/metro_155/es/story.md",
+      "confidence": "content/stations/metro_155/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_155/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_155/es/research-note.md"
+    }
+  }
+}

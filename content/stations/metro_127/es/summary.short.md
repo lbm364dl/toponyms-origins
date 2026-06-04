@@ -1,0 +1,1 @@
+Ventilla debe su nombre a La Ventilla, nombre tradicional de la zona de Almenara en Tetuán. El topónimo probablemente procede de una pequeña venta de camino situada junto a la antigua carretera de Francia.

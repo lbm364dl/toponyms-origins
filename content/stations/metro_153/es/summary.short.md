@@ -1,0 +1,1 @@
+La estación de Alonso de Mendoza toma su nombre de la calle contigua, que las fuentes históricas locales vinculan con Alonso de Mendoza y Núñez de Prado, benefactor del Hospital de San José de Getafe a comienzos del siglo XVI. Su testamento de 1507 dotó asistencia hospitalaria para enfermos pobres, con preferencia para vecinos de Getafe, Pinto y Griñón.

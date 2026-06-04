@@ -1,0 +1,1 @@
+The naming after the local Manoteras area is confirmed by transport and local sources, and the 1807 Las Manoteras reference is repeated in municipal and neighbourhood histories. Confidence is reduced from verified because the precise Emilio Nieto Ballester dictionary entry and the original 1807 auction notice were not directly inspected.

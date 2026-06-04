@@ -1,0 +1,111 @@
+{
+  "id": "metro_129",
+  "name": "Arganzuela-Planetario",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Arganzuela district + Planetario de Madrid",
+  "previous_names": "",
+  "naming_date": "2007-01-26",
+  "sources": [
+    {
+      "title": "Aguirre y Gallardón inauguran la nueva estación Arganzuela-Planetario en la línea 6 de Metro",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/Aguirre-y-Gallardon-inauguran-la-nueva-estacion-Arganzuela-Planetario-en-la-linea-6-de-Metro/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=3e1297aba0e70110VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal press note confirming the station name, Line 6, inauguration date of 26 January 2007, and position between Legazpi and Méndez Álvaro.",
+      "relevance_es": "Nota de prensa municipal oficial que confirma el nombre de la estación, la línea 6, la fecha de inauguración del 26 de enero de 2007 y su ubicación entre Legazpi y Méndez Álvaro."
+    },
+    {
+      "title": "Estación Arganzuela-Planetario",
+      "url": "https://www.comunidad.madrid/transporte/estacion-arganzuela-planetario",
+      "type": "official",
+      "relevance_en": "Community of Madrid technical page placing the station in the Arganzuela district, beside Parque Tierno Galván, and explaining the urban and Line 6 context for building it.",
+      "relevance_es": "Página técnica de la Comunidad de Madrid que sitúa la estación en el distrito de Arganzuela, junto al parque Tierno Galván, y explica el contexto urbano y funcional de la línea 6 para su construcción."
+    },
+    {
+      "title": "Planetario de Madrid",
+      "url": "https://planetmad.es/",
+      "type": "official",
+      "relevance_en": "Official Planetario de Madrid site confirming that it is a municipal cultural facility, located in Parque Tierno Galván, inaugurated on 29 September 1986 and renovated in 2016-2017.",
+      "relevance_es": "Sitio oficial del Planetario de Madrid que confirma que es un centro municipal, ubicado en el parque Tierno Galván, inaugurado el 29 de septiembre de 1986 y renovado en 2016-2017."
+    },
+    {
+      "title": "Guía didáctica 2025-2026: La escuela en el Planetario",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/Capitulos/ficheros/Gu%C3%ADa_La_Escuela_en_el_Planetario.pdf",
+      "type": "official",
+      "relevance_en": "Official educational guide confirming the planetarium's 1986 origin, 2016-2017 technological renewal, former Zeiss projector, current Megastar II system, and 17.5-metre dome.",
+      "relevance_es": "Guía educativa oficial que confirma el origen del planetario en 1986, la renovación tecnológica de 2016-2017, el antiguo proyector Zeiss, el sistema actual Megastar II y la cúpula de 17,5 metros."
+    },
+    {
+      "title": "Arganzuela: medio siglo como distrito",
+      "url": "https://diario.madrid.es/blog/2020/10/09/arganzuela-medio-siglo-como-distrito/",
+      "type": "official",
+      "relevance_en": "Madrid city article summarising the district's historic landscape, the old Dehesa de Arganzuela, the 1492 royal licence, and the main local explanation of the toponym.",
+      "relevance_es": "Artículo municipal que resume el paisaje histórico del distrito, la antigua Dehesa de Arganzuela, la licencia real de 1492 y la principal explicación local del topónimo."
+    },
+    {
+      "title": "Parque Enrique Tierno Galván",
+      "url": "https://www.esmadrid.com/informacion-turistica/parque-enrique-tierno-galvan",
+      "type": "official",
+      "relevance_en": "Official Madrid tourism page confirming that Parque Enrique Tierno Galván contains the Planetario de Madrid and a statue honouring Mayor Enrique Tierno Galván.",
+      "relevance_es": "Página oficial de turismo de Madrid que confirma que el parque Enrique Tierno Galván alberga el Planetario de Madrid y una estatua en honor al alcalde Enrique Tierno Galván."
+    },
+    {
+      "title": "Enrique Tierno Galván - Patrimonio cultural y paisaje urbano",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos/Monumentos-urbanos/Enrique-Tierno-Galvan/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4918091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage record identifying Enrique Tierno Galván as Madrid's mayor from 1979 until his death in 1986 and locating his statue in the park dedicated to his memory.",
+      "relevance_es": "Ficha municipal de patrimonio que identifica a Enrique Tierno Galván como alcalde de Madrid desde 1979 hasta su fallecimiento en 1986 y sitúa su estatua en el parque dedicado a su memoria."
+    },
+    {
+      "title": "Catálogo de parques municipales de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/TodoSobre/ContenidosTemporales/Cat%C3%A1logoParques/CATALOGO%20DE%20PARQUES%20MUNICIPALES%20MADRID_BAJA%20RESOLUCI%C3%93N%2003.08.2021.pdf",
+      "type": "official",
+      "relevance_en": "Municipal park catalogue listing Parque Enrique Tierno Galván in Arganzuela-Legazpi and giving 1987 as its creation date.",
+      "relevance_es": "Catálogo municipal de parques que recoge el parque Enrique Tierno Galván en Arganzuela-Legazpi y da 1987 como fecha de creación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace Wikipedia and non-authoritative blog sourcing with official Ayuntamiento de Madrid, Comunidad de Madrid, Planetario de Madrid, and municipal tourism sources.",
+      "es": "Sustituir la dependencia de Wikipedia y de blogs no oficiales por fuentes del Ayuntamiento de Madrid, la Comunidad de Madrid, el Planetario de Madrid y turismo municipal."
+    },
+    {
+      "en": "Treat the idea that the name was chosen to distinguish the station from Legazpi as inference unless an official naming file or contemporary source is found.",
+      "es": "Tratar la idea de que el nombre se eligió para distinguir la estación de Legazpi como una inferencia mientras no aparezca un expediente oficial de denominación o una fuente contemporánea."
+    },
+    {
+      "en": "Clarify the park chronology: municipal park catalogues give 1987 as the park creation date, while the planetarium itself was inaugurated on 29 September 1986.",
+      "es": "Aclarar la cronología del parque: los catálogos municipales de parques dan 1987 como fecha de creación del parque, mientras que el planetario fue inaugurado el 29 de septiembre de 1986."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the formal Metro or regional naming resolution, if preserved, to confirm whether any alternative such as Arganzuela-Bolívar was officially considered.",
+      "es": "Localizar la resolución formal de Metro o de la Comunidad, si se conserva, para confirmar si alguna alternativa como Arganzuela-Bolívar llegó a considerarse oficialmente."
+    },
+    {
+      "en": "Check the printed book 'Arganzuela 50 años' for a more detailed discussion of the district toponym and its bibliographic basis.",
+      "es": "Consultar el libro impreso 'Arganzuela 50 años' para obtener una explicación más detallada del topónimo del distrito y de su base bibliográfica."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_129/en/summary.short.md",
+      "summary": "content/stations/metro_129/en/summary.md",
+      "story": "content/stations/metro_129/en/story.md",
+      "confidence": "content/stations/metro_129/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_129/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_129/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_129/es/summary.short.md",
+      "summary": "content/stations/metro_129/es/summary.md",
+      "story": "content/stations/metro_129/es/story.md",
+      "confidence": "content/stations/metro_129/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_129/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_129/es/research-note.md"
+    }
+  }
+}

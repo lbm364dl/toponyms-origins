@@ -1,0 +1,1 @@
+Lago station is named for the Casa de Campo Lake, the large artificial body of water beside the station. Its origin lies in a group of 16th-century royal ponds, later reshaped into the lake now used for boating, sport, and recreation.

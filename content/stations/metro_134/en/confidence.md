@@ -1,0 +1,1 @@
+The station's current name and access are confirmed by CRTM, Line 7's 1974 opening is confirmed by Comunidad de Madrid, and the street-renaming dispute is documented by official BOAM records, municipal minutes, and press reports of the court outcome. The exact biographies of individual brothers require archival checking, but they do not change the station-name origin.

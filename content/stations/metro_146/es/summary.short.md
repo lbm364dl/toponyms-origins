@@ -1,0 +1,1 @@
+La estación de Antonio Machado toma su nombre de la calle cercana dedicada a Antonio Machado Ruiz, poeta español de la Generación del 98. Inaugurada en la línea 7 el 29 de marzo de 1999, da servicio a Valdezarza y Peñagrande en un entorno marcado por nombres literarios.

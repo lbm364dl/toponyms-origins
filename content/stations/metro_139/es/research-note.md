@@ -1,0 +1,1 @@
+El contexto ambiental amplio de la fila de entrada es verosímil en términos generales, porque el parque y la zona forestal actuales conservan la identidad del pinar, pero el mecanismo etimológico principal debe cambiarse. Las fuentes más sólidas apuntan a una fiesta cívica del árbol patrocinada por la reina regente y asociada a Alfonso XIII, no a la propiedad regia del monte.

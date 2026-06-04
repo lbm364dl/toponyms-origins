@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre del área de Arroyo del Fresno y del curso de agua Arroyo del Fresno. La idea concreta de que el arroyo estuviera históricamente bordeado de fresnos es plausible por el significado de las palabras, pero no he encontrado una fuente directa que pruebe ese detalle paisajístico.

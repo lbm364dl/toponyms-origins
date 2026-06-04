@@ -1,0 +1,1 @@
+Colonia Jardín recibe el nombre del conjunto residencial ajardinado situado junto a la estación, históricamente vinculado a la Colonia Militar Arroyo Meaques. El topónimo alude a un enclave de casas bajas con jardines en el borde madrileño de Campamento.

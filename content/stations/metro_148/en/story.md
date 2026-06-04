@@ -1,0 +1,9 @@
+Colonia Jardín is named for the residential place around the station, a green, low-rise enclave on the Campamento side of Madrid. The name literally means Garden Colony, and in local use it points to the area of small houses and gardens beside the Carabanchel-Aravaca road and the Arroyo Meaques corridor.
+
+The most securely documented historical nucleus behind the name is the Colonia Militar Arroyo Meaques. Madrid City Council describes it as a military colony built in the 1940s by the former Ministry of the Army to house officers and non-commissioned officers; other local route material places its genesis after the Civil War and emphasizes its small country-house type, auxiliary buildings, and gardens.
+
+That history explains why the station name feels more suburban than monumental. This was not a grand avenue name or a commemorative dedication, but a transport label attached to a nearby settlement pattern: modest detached houses, garden plots, and streets that long retained the character of a small village caught between military land, the Casa de Campo edge, and later metropolitan roads.
+
+The station opened to the public on 22 October 2002 as part of the Line 10 extension, initially serving as a terminus before the line continued toward MetroSur. In 2007 it gained a second role as the shared starting point for light metro services to Pozuelo and Boadilla, which made the old local place-name into a major interchange name for western Madrid.
+
+The current etymology should therefore be kept, but tightened. The station is very probably named after the local Colonia Jardín area associated with the Arroyo Meaques military colony; however, I did not find an official naming act saying this explicitly. Claims about direct inspiration from Ebenezer Howard's garden-city movement should be treated as contextual rather than proven for this specific colony unless a planning or architectural source is inspected.

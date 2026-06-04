@@ -1,0 +1,1 @@
+Debe su nombre a la Plaza de España de Madrid, nacida donde el cuartel de San Gil y la antigua plaza de armas de San Marcial dieron paso al remate occidental de la Gran Vía. Su identidad moderna quedó marcada por el monumento a Cervantes y por las reformas urbanas de los siglos XX y XXI.

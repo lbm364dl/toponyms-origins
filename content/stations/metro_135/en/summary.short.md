@@ -1,0 +1,1 @@
+Simancas station is named for the Madrid neighbourhood it serves. That neighbourhood's name ultimately points to Simancas in Valladolid, a historic Castilian town whose older form, Septimanca, is ancient but etymologically uncertain.

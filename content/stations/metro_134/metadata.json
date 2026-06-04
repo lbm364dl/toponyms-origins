@@ -1,0 +1,129 @@
+{
+  "id": "metro_134",
+  "name": "García Noblejas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Hermanos García-Noblejas Brunet",
+  "previous_names": "Station: no former station names found. Associated street: Calle de los Hermanos García Noblejas; temporarily Avenida de la Institución Libre de Enseñanza from 2017 until restoration of Hermanos García Noblejas plaques in January 2022.",
+  "naming_date": "1974, apparently assigned at station opening; Comunidad de Madrid gives Line 7 Las Musas-Pueblo Nuevo in service on 22 July 1974.",
+  "sources": [
+    {
+      "title": "CRTM - García Noblejas station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_135/?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 7 connection, and an access named Hermanos García Noblejas.",
+      "relevance_es": "Confirma el nombre actual de la estación, la conexión con la línea 7 y un acceso llamado Hermanos García Noblejas."
+    },
+    {
+      "title": "Comunidad de Madrid - La Línea 7 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-7-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Confirms Line 7's first section, Las Musas-Pueblo Nuevo, entered service in July 1974.",
+      "relevance_es": "Confirma que el primer tramo de la línea 7, Las Musas-Pueblo Nuevo, entró en servicio en julio de 1974."
+    },
+    {
+      "title": "BOAM nº 7900/993 - Acuerdo de 4 de mayo de 2017",
+      "url": "https://sede.madrid.es/portal/site/tramites/menuitem.b4c91589e7f6a5d829da39e5a8a409a0/?numPagina=1&target=texto&vgnextchannel=257865dd72ede410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=df3f0a21867db510VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Officially records the 2017 decision to remove Calle de los Hermanos García Noblejas and replace it with Avenida de la Institución Libre de Enseñanza.",
+      "relevance_es": "Registra oficialmente la decisión de 2017 de retirar la Calle de los Hermanos García Noblejas y sustituirla por Avenida de la Institución Libre de Enseñanza."
+    },
+    {
+      "title": "Acta del Pleno de la Junta Municipal de San Blas-Canillejas, 20 de junio de 2018",
+      "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/DistritoSanBlasCanillejas/Publicaciones/OrdenesYActas/2018/Junio/ac20junio.pdf",
+      "type": "official",
+      "relevance_en": "Documents a district motion asking the Community of Madrid to rename the Metro station from García Noblejas to Institución Libre de Enseñanza, proving the station had retained the old name after the street change.",
+      "relevance_es": "Documenta una proposición distrital para instar a la Comunidad de Madrid a cambiar el nombre de la estación de García Noblejas a Institución Libre de Enseñanza, lo que prueba que la estación conservaba el nombre antiguo tras el cambio de la calle."
+    },
+    {
+      "title": "Diario de Madrid - El Comisionado de Memoria Histórica propone renombrar 47 calles de Madrid",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/el-comisionado-de-memoria-historica-propone-renombrar-47-calles-de-madrid/",
+      "type": "official",
+      "relevance_en": "Gives the municipal Historical Memory Commission's rationale for replacing Calle de los Hermanos García Noblejas and identifies the proposed substitute name.",
+      "relevance_es": "Expone la justificación del Comisionado de Memoria Histórica para sustituir la Calle de los Hermanos García Noblejas e identifica el nombre sustitutorio propuesto."
+    },
+    {
+      "title": "infoLibre / Europa Press - Una jueza de Madrid obliga a mantener el nombre de la calle Hermanos García Noblejas",
+      "url": "https://www.infolibre.es/politica/jueza-madrid-obliga-mantener-nombre-calle-hermanos-garcia-noblejas-tres-falangistas-golpistas_1_1158753.amp.html",
+      "type": "press",
+      "relevance_en": "Reports the 2018 court annulment of the street-name change and summarizes the court's reasoning.",
+      "relevance_es": "Informa de la anulación judicial de 2018 del cambio de nombre de la calle y resume el razonamiento del juzgado."
+    },
+    {
+      "title": "Telemadrid / Europa Press - Madrid capital recupera la calle Hermanos García Noblejas",
+      "url": "https://www.telemadrid.es/noticias/madrid/Madrid-Hermanos-Noblejas-Crucero-Baleares-0-2415358483--20220117022549.html",
+      "type": "press",
+      "relevance_en": "Reports the restoration of the Hermanos García Noblejas street plaques on 17 January 2022 after the TSJM ruling.",
+      "relevance_es": "Informa de la restitución de las placas de Hermanos García Noblejas el 17 de enero de 2022 tras la sentencia del TSJM."
+    },
+    {
+      "title": "Historia de Manzanares - Los hermanos García-Noblejas y su vinculación con Manzanares",
+      "url": "https://www.manzanareshistoria.es/2017/10/los-hermanos-garcia-noblejas-y-su.html",
+      "type": "other",
+      "relevance_en": "Provides detailed family background and a sourced narrative of the brothers' political activity and wartime deaths, useful but not a primary source.",
+      "relevance_es": "Aporta contexto familiar detallado y una narración documentada de la actividad política y las muertes de los hermanos, útil aunque no es fuente primaria."
+    },
+    {
+      "title": "Pervivencia del franquismo en el callejero madrileño",
+      "url": "https://aricomemoriaaragonesa.com/wp-content/uploads/2009/03/pervivencia-del-franquismo-en-el-callejero-madrilec3b1o.pdf",
+      "type": "academic",
+      "relevance_en": "Lists Calle de los Hermanos García Noblejas, gives a 15 April 1953 assignment date, summarizes the commemorated brothers, and notes the related Metro station.",
+      "relevance_es": "Recoge la Calle de los Hermanos García Noblejas, da como fecha de asignación el 15 de abril de 1953, resume los hermanos conmemorados y menciona la estación de Metro relacionada."
+    },
+    {
+      "title": "Datos Abiertos Ayuntamiento de Madrid - Callejero oficial del Ayuntamiento de Madrid",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Confirms the official street gazetteer dataset and its current/historical structure, useful for future verification of naming chronology.",
+      "relevance_es": "Confirma el conjunto de datos oficial del callejero municipal y su estructura vigente/histórica, útil para verificar en el futuro la cronología de la denominación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Calle de los Hermanos García Noblejas as the official older/current street name, not Avenida de los Hermanos García Noblejas.",
+      "es": "Usar Calle de los Hermanos García Noblejas como nombre oficial antiguo/actual de la vía, no Avenida de los Hermanos García Noblejas."
+    },
+    {
+      "en": "The named object is the brothers, not their father; Salvador García-Noblejas Quesada is relevant context but should not be treated as part of the station's direct dedication.",
+      "es": "El objeto nombrado son los hermanos, no su padre; Salvador García-Noblejas Quesada es contexto relevante, pero no debe figurar como parte de la dedicatoria directa de la estación."
+    },
+    {
+      "en": "The claim that the station is in San Blas-Canillejas should be reviewed: municipal debate described it as on the district boundary and in Ciudad Lineal, while the access is used by residents of San Blas-Canillejas.",
+      "es": "Debe revisarse la afirmación de que la estación está en San Blas-Canillejas: el debate municipal la describió en el límite distrital y en Ciudad Lineal, aunque la usan vecinos de San Blas-Canillejas."
+    },
+    {
+      "en": "Avoid the softer phrase 'Falangist sympathisers' as the whole description; stronger sources describe several brothers as active Falangists and one as carlist, with direct involvement in militia or wartime activity.",
+      "es": "Evitar que 'simpatizantes falangistas' sea toda la descripción; fuentes más fuertes describen a varios hermanos como falangistas activos y a uno como carlista, con implicación directa en milicias o actividad bélica."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Ayuntamiento de Madrid street-naming file or full Callejero historical CSV to confirm the exact first assignment date; a secondary scholarly PDF gives 15 April 1953.",
+      "es": "Consultar el expediente original del Ayuntamiento de Madrid o el CSV histórico completo del Callejero para confirmar la fecha exacta de asignación inicial; un PDF académico/secundario da el 15 de abril de 1953."
+    },
+    {
+      "en": "Check archival military/civil records for exact death dates and circumstances of each García-Noblejas Brunet brother, because secondary sources differ in details.",
+      "es": "Comprobar archivos militares y civiles sobre fechas y circunstancias exactas de muerte de cada hermano García-Noblejas Brunet, porque las fuentes secundarias difieren en algunos detalles."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_134/en/summary.short.md",
+      "summary": "content/stations/metro_134/en/summary.md",
+      "story": "content/stations/metro_134/en/story.md",
+      "confidence": "content/stations/metro_134/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_134/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_134/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_134/es/summary.short.md",
+      "summary": "content/stations/metro_134/es/summary.md",
+      "story": "content/stations/metro_134/es/story.md",
+      "confidence": "content/stations/metro_134/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_134/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_134/es/research-note.md"
+    }
+  }
+}

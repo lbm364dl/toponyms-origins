@@ -1,0 +1,104 @@
+{
+  "id": "metro_111",
+  "name": "Portazgo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Portazgo de Vallecas, historical toll point on the Madrid-Valencia road",
+  "previous_names": "",
+  "naming_date": "1962-07-02",
+  "sources": [
+    {
+      "title": "CRTM - Portazgo",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_21/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the present Metro station name, Line 1 service, fare zone, and access points on Avenida de la Albufera.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, el servicio de la línea 1, la zona tarifaria y los accesos en la avenida de la Albufera."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Puente de Vallecas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Puente-de-Vallecas/Puente-de-Vallecas/?vgnextchannel=3970ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=57b25969e83b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Portazgo as one of the barrios of the Puente de Vallecas district and gives district historical context, including the 1950 annexation of Vallecas and the 1987 district reorganization.",
+      "relevance_es": "Confirma Portazgo como uno de los barrios del distrito de Puente de Vallecas y aporta contexto histórico del distrito, incluida la anexión de Vallecas en 1950 y la reestructuración distrital de 1987."
+    },
+    {
+      "title": "RAE - Diccionario del estudiante: portazgo",
+      "url": "https://www.rae.es/diccionario-estudiante/portazgo",
+      "type": "reference",
+      "relevance_en": "Defines portazgo as a historical road duty paid for passing a specified point, with revenue dedicated to road conservation.",
+      "relevance_es": "Define portazgo como un derecho histórico pagado por pasar por un punto determinado de un camino, con recaudación dedicada a la conservación de carreteras."
+    },
+    {
+      "title": "Historias de Carreteras - Carreteras de portazgo",
+      "url": "https://historiasdecarreteras.com/carreteras-de-portazgo/",
+      "type": "other",
+      "relevance_en": "Explains the 19th-century road-toll system and explicitly states that the Madrid barrio name refers to the Portazgo de Vallecas on the Valencia road.",
+      "relevance_es": "Explica el sistema de portazgos de carretera del siglo XIX y afirma expresamente que el nombre del barrio madrileño alude al Portazgo de Vallecas en la carretera de Valencia."
+    },
+    {
+      "title": "Un vallecano - El Portazgo",
+      "url": "https://unvallecano.blogspot.com/2024/06/el-portazgo.html",
+      "type": "other",
+      "relevance_en": "Local historical article compiling dated references to the Portazgo de Vallecas, including the reported 1793 establishment at Fuente de Ygares and 19th-century newspaper notices.",
+      "relevance_es": "Artículo de historia local que recopila referencias fechadas al Portazgo de Vallecas, incluido el establecimiento citado de 1793 en la Fuente de Ygares y noticias de prensa del siglo XIX."
+    },
+    {
+      "title": "Vallecas VA - El fielato del Pacífico",
+      "url": "https://vallecas.com/el-fielato-del-pacifico/",
+      "type": "press",
+      "relevance_en": "Discusses the later fiscal control near Pacifico/Puente de Vallecas and states that the Portazgo name remained attached to the place where the 1793 toll had stood before the Metro station opened in 1962.",
+      "relevance_es": "Explica el control fiscal posterior cerca de Pacífico/Puente de Vallecas y señala que el nombre Portazgo permaneció ligado al lugar donde estuvo el portazgo de 1793 antes de inaugurarse la estación de Metro en 1962."
+    },
+    {
+      "title": "Archivo ABC - Metro de Madrid: inauguración de la estación Vallecas-Portazgo",
+      "url": "https://www.abc.es/archivo/fotos/metro-de-madrid-inauguracion-de-la-estacion-vallecas-portazgo-4991446.html",
+      "type": "archive",
+      "relevance_en": "Archive record dated 1 July 1962 documenting the inauguration of the Vallecas-Portazgo Metro extension.",
+      "relevance_es": "Ficha de archivo fechada el 1 de julio de 1962 que documenta la inauguración de la prolongación de Metro Vallecas-Portazgo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that this specific Portazgo was medieval with the better-supported chronology: the Vallecas toll is first cited in 1793 and is repeatedly documented in the 19th century.",
+      "es": "Sustituir la afirmación de que este Portazgo concreto era medieval por la cronología mejor respaldada: el portazgo de Vallecas se cita por primera vez en 1793 y aparece documentado repetidamente en el siglo XIX."
+    },
+    {
+      "en": "Remove or qualify claims about pilgrims being exempt and about Bourbon reforms replacing the toll; those are general assertions not evidenced for this station name.",
+      "es": "Eliminar o matizar las afirmaciones sobre la exención de peregrinos y la sustitución por reformas borbónicas; son afirmaciones generales no acreditadas para el nombre de esta estación."
+    },
+    {
+      "en": "Use 'road from Madrid to Valencia' or 'Carretera de Madrid a Valencia' rather than only 'Camino Real de Valencia', unless a specific period source is being cited.",
+      "es": "Usar 'carretera de Madrid a Valencia' o 'camino de Madrid a Valencia' en vez de solo 'Camino Real de Valencia', salvo cuando se cite una fuente concreta de época."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the 24 December 1793 document in the Archivo del Ayuntamiento de Arganda del Rey to verify the exact wording, location, and administrative basis of the toll.",
+      "es": "Consultar el documento del 24 de diciembre de 1793 en el Archivo del Ayuntamiento de Arganda del Rey para verificar la redacción exacta, la ubicación y la base administrativa del portazgo."
+    },
+    {
+      "en": "Check original Hemeroteca/BNE scans for the cited 1807, 1830, 1850, 1851, 1852, and 1879 notices to confirm transcription and context.",
+      "es": "Revisar los escaneos originales de Hemeroteca/BNE de las noticias citadas de 1807, 1830, 1850, 1851, 1852 y 1879 para confirmar transcripción y contexto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_111/en/summary.short.md",
+      "summary": "content/stations/metro_111/en/summary.md",
+      "story": "content/stations/metro_111/en/story.md",
+      "confidence": "content/stations/metro_111/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_111/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_111/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_111/es/summary.short.md",
+      "summary": "content/stations/metro_111/es/summary.md",
+      "story": "content/stations/metro_111/es/story.md",
+      "confidence": "content/stations/metro_111/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_111/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_111/es/research-note.md"
+    }
+  }
+}

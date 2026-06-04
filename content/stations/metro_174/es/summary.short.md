@@ -1,0 +1,1 @@
+La estación de Ascao toma su nombre de la calle de Ascao, en Pueblo Nuevo. El nombre de la calle remite a Askao, un antiguo topónimo bilbaíno documentado junto al entorno del convento de Santa Cruz e interpretado en euskera como aska-aho, 'boca del abrevadero'.

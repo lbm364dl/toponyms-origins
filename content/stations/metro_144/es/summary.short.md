@@ -1,0 +1,1 @@
+La estación de Avenida de América recibe el nombre de la avenida madrileña bajo la que se encuentra. El topónimo remite a América como continente y acabó dando nombre a uno de los grandes intercambiadores de metro y autobús de Madrid.

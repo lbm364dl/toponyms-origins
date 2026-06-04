@@ -1,0 +1,1 @@
+The input's broad environmental context is directionally plausible, because the present park and forest zone preserve the pine-grove identity, but the key etymological mechanism should be changed. The strongest sources point to a civic arbor-day event sponsored by the Queen Regent and associated with Alfonso XIII, not to royal ownership of the woodland.

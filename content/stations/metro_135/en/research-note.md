@@ -1,0 +1,1 @@
+The best-supported public wording is layered: station named after the Madrid barrio; barrio name ultimately associated with the Valladolid place-name; Valladolid place-name documented as Septimanca but semantically obscure. This avoids implying that Metro directly named the station after the battle, the archive, or the seven-maidens legend.

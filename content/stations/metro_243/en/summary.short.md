@@ -1,0 +1,1 @@
+Buenos Aires station is named for Avenida de Buenos Aires in Puente de Vallecas. The avenue name points to Argentina's capital, while local evidence shows a Buenos Aires place-name already in the area in 1880.

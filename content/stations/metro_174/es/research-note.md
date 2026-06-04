@@ -1,0 +1,1 @@
+Para el conjunto de datos, el valor named_after más seguro es el referente inmediato, la calle de Ascao, con una nota indicando que la calle probablemente remite al Askao/Ascao bilbaíno. La etimología vasca aska-aho está bien atestiguada en fuentes de onomástica, pero falta localizar el acto madrileño específico que vincule esta calle con ese topónimo de Bilbao.

@@ -1,0 +1,1 @@
+Las Suertes most likely takes its name from Avenida de Las Suertes, officially named in the Ensanche de Vallecas in 2006. The older word suerte can mean a bounded piece of arable land, so the name probably preserves a rural land-parcel toponym in an area urbanized in the 2000s.

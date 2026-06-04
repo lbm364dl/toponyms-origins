@@ -1,0 +1,1 @@
+La ubicación de la estación y su servicio actual en la línea 10 están confirmados por el CRTM, y el Callejero Oficial de Madrid confirma la Plaza de Cuzco en ese mismo cruce. Referencias autorizadas confirman Cusco/Cuzco como antigua capital inca. Solo la fecha exacta de denominación de la plaza en 1953 queda menos sólidamente documentada.

@@ -1,0 +1,1 @@
+La relación entre la estación y el barrio es segura, y la estación aparece documentada como Ventilla desde su inauguración el 3 de junio de 1983. Los elementos lingüísticos son autoritativos, pero la venta histórica concreta que habría originado el nombre del barrio está respaldada por fuentes locales secundarias, no por una ficha toponímica oficial de archivo.

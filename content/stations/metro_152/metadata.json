@@ -1,0 +1,108 @@
+{
+  "id": "metro_152",
+  "name": "Juan de la Cierva",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Juan de la Cierva y Codorníu",
+  "previous_names": "",
+  "naming_date": "2003 (opened with MetroSur; exact official naming act not found)",
+  "sources": [
+    {
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
+      "type": "official",
+      "relevance_en": "Official regional page locating Juan de la Cierva station on Avenida de España at Calle Gerona and saying it is in the neighbourhood that gives the station its name; it also documents the station mural \"Homenaje a de la Cierva.\"",
+      "relevance_es": "Página oficial regional que ubica la estación Juan de la Cierva en la avenida de España, a la altura de la calle Gerona, y dice que está en el barrio que le da nombre; también documenta el mural de la estación \"Homenaje a de la Cierva\"."
+    },
+    {
+      "title": "Juan de la Cierva Codorníu · Museo virtual de Getafe",
+      "url": "https://museo.getafe.es/omeka/items/show/1348",
+      "type": "official",
+      "relevance_en": "Getafe museum entry stating that Juan de la Cierva Codorníu was an engineer, inventor of the autogiro, that some test flights were made in Getafe, and that an avenue and neighbourhood bear his name.",
+      "relevance_es": "Entrada del museo getafense que indica que Juan de la Cierva Codorníu fue ingeniero e inventor del autogiro, que algunos vuelos de prueba se hicieron en Getafe y que una avenida y un barrio llevan su nombre."
+    },
+    {
+      "title": "Centenario Autogiro: The autogiro history",
+      "url": "https://centenarioautogiro.com/en/the-autogiro-history/",
+      "type": "other",
+      "relevance_en": "Specialist centenary material explaining the autogiro, the importance of Getafe and Cuatro Vientos, and the successful C-4 flight at Getafe on 17 January 1923.",
+      "relevance_es": "Material especializado del centenario que explica el autogiro, la importancia de Getafe y Cuatro Vientos, y el vuelo exitoso del C-4 en Getafe el 17 de enero de 1923."
+    },
+    {
+      "title": "BOE-A-2023-1565: Centenario del primer vuelo del autogiro de Juan de la Cierva. 1923",
+      "url": "https://www.boe.es/boe/dias/2023/01/19/pdfs/BOE-A-2023-1565.pdf",
+      "type": "official",
+      "relevance_en": "Official Spanish state notice for a commemorative stamp recognizing the centenary of the first flight of Juan de la Cierva’s autogiro in 1923.",
+      "relevance_es": "Resolución oficial del Estado español para un sello conmemorativo que reconoce el centenario del primer vuelo del autogiro de Juan de la Cierva en 1923."
+    },
+    {
+      "title": "BOE-A-2022-219: Torre de Señales del Aeródromo de Cuatro Vientos",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-219",
+      "type": "official",
+      "relevance_en": "Official heritage notice giving aviation context for Cuatro Vientos and noting that Juan de la Cierva raised the C-4 version of his autogiro there on 31 January 1923, a useful contrasting chronology.",
+      "relevance_es": "Resolución oficial de patrimonio que aporta contexto aeronáutico de Cuatro Vientos y señala que Juan de la Cierva elevó allí la versión C-4 de su autogiro el 31 de enero de 1923, una cronología útil para contrastar."
+    },
+    {
+      "title": "PARES authority record: Cierva Codorniu, Juan de la",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/16546",
+      "type": "archive",
+      "relevance_en": "Spanish archival authority record identifying Juan de la Cierva Codorníu, his family relations, and his roles as inventor and autogiro figure, with a link to the RAH biographical dictionary.",
+      "relevance_es": "Registro de autoridad archivístico español que identifica a Juan de la Cierva Codorníu, sus relaciones familiares y sus funciones como inventor y figura vinculada al autogiro, con enlace al Diccionario Biográfico de la RAH."
+    },
+    {
+      "title": "Aviation Safety Network: Douglas DC-2-115E PH-AKL accident, 9 December 1936",
+      "url": "https://asn.flightsafety.org/database/record.php?id=19361209-0",
+      "type": "reference",
+      "relevance_en": "Aviation accident database entry documenting the KLM Douglas DC-2 crash at London-Croydon on 9 December 1936 and noting Juan de la Cierva among the dead.",
+      "relevance_es": "Entrada de base de datos de accidentes aeronáuticos que documenta el accidente del Douglas DC-2 de KLM en London-Croydon el 9 de diciembre de 1936 y señala a Juan de la Cierva entre los fallecidos."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the immediate toponymic layer: the station is named after the Juan de la Cierva neighbourhood of Getafe, which in turn commemorates the inventor.",
+      "es": "Añadir la capa toponímica inmediata: la estación toma el nombre del barrio Juan de la Cierva de Getafe, que a su vez conmemora al inventor."
+    },
+    {
+      "en": "Avoid over-specific wording such as an unqualified \"first successful flight of a stable rotary-wing aircraft\" unless the chronology is carefully stated; sources differ between 17 January 1923 at Getafe and 31 January 1923 at Cuatro Vientos for the C-4 milestone.",
+      "es": "Evitar fórmulas demasiado cerradas como \"primer vuelo exitoso de una aeronave de ala rotatoria estable\" sin matizar la cronología; las fuentes difieren entre el 17 de enero de 1923 en Getafe y el 31 de enero de 1923 en Cuatro Vientos para el hito del C-4."
+    },
+    {
+      "en": "Use the full name Juan de la Cierva y Codorníu for the recommended named-after field, while keeping the public station name as Juan de la Cierva.",
+      "es": "Usar el nombre completo Juan de la Cierva y Codorníu en el campo recomendado de persona homenajeada, manteniendo Juan de la Cierva como nombre público de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact Getafe municipal agreement or street-naming record that assigned the name to the avenue or neighbourhood was not located online.",
+      "es": "No se localizó en línea el acuerdo municipal de Getafe o expediente de callejero que asignó el nombre a la avenida o al barrio."
+    },
+    {
+      "en": "The precise official naming date for the Metro station, distinct from its 2003 opening with MetroSur, was not found.",
+      "es": "No se encontró la fecha oficial precisa de denominación de la estación de Metro, diferenciada de su apertura en 2003 con MetroSur."
+    },
+    {
+      "en": "A specialist aviation history source could further reconcile the 17 January Getafe and 31 January Cuatro Vientos references for the C-4 flights.",
+      "es": "Una fuente especializada de historia aeronáutica podría aclarar mejor la relación entre las referencias al 17 de enero en Getafe y al 31 de enero en Cuatro Vientos para los vuelos del C-4."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_152/en/summary.short.md",
+      "summary": "content/stations/metro_152/en/summary.md",
+      "story": "content/stations/metro_152/en/story.md",
+      "confidence": "content/stations/metro_152/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_152/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_152/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_152/es/summary.short.md",
+      "summary": "content/stations/metro_152/es/summary.md",
+      "story": "content/stations/metro_152/es/story.md",
+      "confidence": "content/stations/metro_152/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_152/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_152/es/research-note.md"
+    }
+  }
+}

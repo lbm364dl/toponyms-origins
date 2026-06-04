@@ -1,0 +1,1 @@
+The row is partly right about the noble title and Palencia background, but it misidentifies the direct naming chain and likely the person: the Alcobendas street was named in 1958 for Mariano Ossorio Arévalo, III Marquess of Valdavia, not for the II Marquess. The reference to Plaza Duque de Pastrana appears to be an unrelated error.

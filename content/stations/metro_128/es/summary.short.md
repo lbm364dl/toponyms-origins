@@ -1,0 +1,1 @@
+La estación de Mirasierra recibe el nombre del barrio madrileño al que da servicio. El topónimo es descriptivo y suele entenderse como 'mira la sierra' o 'vista a la sierra', en alusión a la Sierra de Guadarrama visible desde esta zona elevada del norte de Madrid.

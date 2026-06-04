@@ -1,0 +1,1 @@
+Villaverde Alto is named for the historic high town of Villaverde, the old nucleus of the former municipality annexed to Madrid in 1954. The name contrasts with Villaverde Bajo, the lower railway-side settlement that grew across the old Andalucía road.

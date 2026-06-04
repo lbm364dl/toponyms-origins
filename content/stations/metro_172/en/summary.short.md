@@ -1,0 +1,1 @@
+The station is named for Parque de las Avenidas, the mid-20th-century residential area and green space in La Guindalera. Its name reflects the estate's planned network of avenues and streets, many bearing city names such as Bruselas, Bonn and Brasilia.

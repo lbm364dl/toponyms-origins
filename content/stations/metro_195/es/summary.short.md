@@ -1,0 +1,1 @@
+La estación de La Rambla toma su nombre del área de La Rambla de Coslada, un eje urbano en torno a la calle Honduras y la avenida de los Príncipes de España. La palabra rambla procede en último término del árabe y en español puede designar tanto un cauce de aguas pluviales como un paseo ancho.

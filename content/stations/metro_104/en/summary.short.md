@@ -1,0 +1,1 @@
+República Argentina station is named for the Plaza de la República Argentina above it in El Viso, Chamartín. The plaza commemorates Argentina and later became known for the Fuente de los Delfines, created from a postwar project for a Monument to the Argentine Nation.

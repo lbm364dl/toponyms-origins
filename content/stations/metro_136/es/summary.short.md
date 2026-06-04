@@ -1,0 +1,1 @@
+Las Musas toma su nombre de la calle y la colonia de Las Musas, en San Blas-Canillejas, un topónimo que remite en último término a las nueve musas de la mitología clásica. La estación se inauguró en la línea 7 el 17 de julio de 1974 como cabecera oriental del primer tramo Pueblo Nuevo-Las Musas.

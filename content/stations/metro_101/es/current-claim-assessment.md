@@ -1,0 +1,1 @@
+La fila existente acierta al indicar que el nombre honra en última instancia a Diego Rodríguez de Silva y Velázquez, pero conviene formularlo con más precisión: la estación toma el nombre de la calle de Velázquez, que la propia ficha histórica de Metro dice que está dedicada al pintor. Varios detalles narrativos actuales son anecdóticos o valorativos y deben matizarse.

@@ -1,0 +1,1 @@
+Laguna toma probablemente su nombre de la cercana calle o camino de la Laguna, un topónimo antiguo del entorno Carabanchel-Latina. La palabra significa depósito natural de agua o lago pequeño, aunque la laguna histórica concreta que originó el nombre de la vía no está suficientemente documentada.

@@ -1,0 +1,1 @@
+Ascao station takes its name from Calle de Ascao in Pueblo Nuevo. The street name points back to Askao, an old Bilbao place-name documented beside the former Santa Cruz convent area and interpreted in Basque as aska-aho, 'mouth of the watering trough'.

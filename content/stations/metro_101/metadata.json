@@ -1,0 +1,97 @@
+{
+  "id": "metro_101",
+  "name": "Velázquez",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Diego Rodríguez de Silva y Velázquez, through Calle de Velázquez",
+  "previous_names": "",
+  "naming_date": "1944 (official inauguration 23 March 1944; public service from 24 March 1944)",
+  "sources": [
+    {
+      "title": "Museos Metro Madrid - Estaciones con historia: Velázquez",
+      "url": "https://museosmetromadrid.es/wp-content/uploads/2024/11/ficha-velazquez.pdf",
+      "type": "official",
+      "relevance_en": "Official Metro historical sheet: locates the station on Line 4 by Calle Velázquez, states that Calle de Velázquez honors Diego Rodríguez de Silva y Velázquez, describes the Salamanca-district street context, and gives the 1944 inauguration chronology.",
+      "relevance_es": "Ficha histórica oficial de Metro: sitúa la estación de la línea 4 junto a la calle de Velázquez, afirma que la calle honra a Diego Rodríguez de Silva y Velázquez, describe el contexto de la vía en el barrio de Salamanca y da la cronología de inauguración de 1944."
+    },
+    {
+      "title": "Real Academia de la Historia - Correspondencia con la Historia",
+      "url": "https://www.rah.es/biografias-metromadrid/",
+      "type": "reference",
+      "relevance_en": "Documents the Metro de Madrid and RAH project linking stations with personal names to DB-e biographies, including Velázquez as Diego Rodríguez de Silva y Velázquez.",
+      "relevance_es": "Documenta el proyecto de Metro de Madrid y la RAH que vincula estaciones con nombres propios a biografías del DB-e, incluida Velázquez como Diego Rodríguez de Silva y Velázquez."
+    },
+    {
+      "title": "Real Academia de la Historia, Diccionario Biográfico electrónico - Diego Rodríguez de Silva y Velázquez",
+      "url": "https://dbe.rah.es/biografias/5114/diego-rodriguez-de-silva-y-velazquez",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry linked by the RAH-Metro project for the person behind the station name; useful for the full name and biographical authority, though the page content was not fully extractable in the browsing tool.",
+      "relevance_es": "Entrada biográfica autorizada enlazada por el proyecto RAH-Metro para la persona detrás del nombre de la estación; útil para el nombre completo y la autoridad biográfica, aunque el contenido de la página no pudo extraerse por completo con la herramienta de navegación."
+    },
+    {
+      "title": "Museo Nacional del Prado - Las Meninas",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/the-family-of-felipe-iv-or-las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f",
+      "type": "official",
+      "relevance_en": "Prado collection entry verifying Velázquez's birth and death places and dates, the 1656 date of Las Meninas, its Alcázar setting, its court figures, and Velázquez's role at court from 1623.",
+      "relevance_es": "Ficha de colección del Prado que verifica los lugares y fechas de nacimiento y muerte de Velázquez, la fecha de 1656 de Las Meninas, su escenario en el Alcázar, sus personajes cortesanos y el papel de Velázquez en la corte desde 1623."
+    },
+    {
+      "title": "Museo Nacional del Prado - Te quiero en pintura: retratos con emoción. Parada III. Velázquez",
+      "url": "https://museodelprado.es/actualidad/actividad/te-quiero-en-pintura-retratos-con-emocion-parada/b864fcd7-be4b-44d5-b584-eb254ad577ce",
+      "type": "official",
+      "relevance_en": "Prado educational source giving a cautious institutional description of Las Meninas, Velázquez's relationship with Philip IV, and the Santiago cross as a status symbol granted through royal intervention.",
+      "relevance_es": "Fuente educativa del Prado que ofrece una descripción institucional prudente de Las Meninas, de la relación de Velázquez con Felipe IV y de la cruz de Santiago como símbolo de estatus concedido por intervención real."
+    },
+    {
+      "title": "Diccionario Interactivo Ceán Bermúdez - Velázquez: Rodríguez de Silva y Velázquez, Diego",
+      "url": "https://ceanbermudez.es/wiki/Vel%C3%A1zquez_%3A_Rodr%C3%ADguez_de_Silva_y_Vel%C3%A1zquez%2C_Diego",
+      "type": "reference",
+      "relevance_en": "Specialized art-historical reference preserving the traditional Ceán Bermúdez entry and citing the RAH DB-e biography; supports the full name, profession, dates and older biographical tradition.",
+      "relevance_es": "Referencia especializada de historia del arte que conserva la entrada tradicional de Ceán Bermúdez y cita la biografía del DB-e de la RAH; respalda el nombre completo, profesión, fechas y tradición biográfica antigua."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Frame the etymology as indirect through Calle de Velázquez, rather than as a separately documented Metro dedication directly to the painter.",
+      "es": "Formular la etimología como indirecta, a través de la calle de Velázquez, y no como una dedicatoria independiente de Metro documentada directamente al pintor."
+    },
+    {
+      "en": "Replace subjective claims such as Las Meninas being 'the most important painting in Western art' with a sourced formulation such as one of the Prado's most famous and most studied masterpieces.",
+      "es": "Sustituir afirmaciones subjetivas como que Las Meninas es 'el cuadro más importante del arte occidental' por una formulación documentada, como una de las obras maestras más famosas y estudiadas del Prado."
+    },
+    {
+      "en": "Treat the story that Philip IV personally painted the Santiago cross on Las Meninas as a tradition or legend, not as a verified fact.",
+      "es": "Tratar la historia de que Felipe IV pintó personalmente la cruz de Santiago en Las Meninas como tradición o leyenda, no como un hecho verificado."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal approval date for the name Calle de Velázquez was not found; a historical street-naming file or old Ayuntamiento nomenclator should be inspected.",
+      "es": "No se ha encontrado la fecha municipal exacta de aprobación del nombre calle de Velázquez; convendría revisar un expediente histórico de rotulación o un nomenclátor antiguo del Ayuntamiento."
+    },
+    {
+      "en": "Metro's accessible historical sheet proves the 1944 name in use, but original concession or station-plan files could clarify when the station name was first fixed in planning.",
+      "es": "La ficha histórica accesible de Metro prueba el uso del nombre en 1944, pero los expedientes originales de concesión o de proyecto podrían aclarar cuándo quedó fijado por primera vez el nombre de la estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_101/en/summary.short.md",
+      "summary": "content/stations/metro_101/en/summary.md",
+      "story": "content/stations/metro_101/en/story.md",
+      "confidence": "content/stations/metro_101/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_101/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_101/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_101/es/summary.short.md",
+      "summary": "content/stations/metro_101/es/summary.md",
+      "story": "content/stations/metro_101/es/story.md",
+      "confidence": "content/stations/metro_101/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_101/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_101/es/research-note.md"
+    }
+  }
+}

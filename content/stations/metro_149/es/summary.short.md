@@ -1,0 +1,1 @@
+Opañel toma su nombre del barrio de Carabanchel, no de su primera denominación en Metro, Elvas. El topónimo local más antiguo se asocia al Arroyo de Opañel, aunque su origen lingüístico profundo sigue siendo incierto.

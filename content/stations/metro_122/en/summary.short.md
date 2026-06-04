@@ -1,0 +1,1 @@
+Named for Madrid's Ciudad Universitaria, the large university campus and official neighbourhood in Moncloa-Aravaca. The campus project began under Alfonso XIII in 1927 and became one of Madrid's major academic landscapes.

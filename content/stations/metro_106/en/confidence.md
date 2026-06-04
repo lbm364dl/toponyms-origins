@@ -1,0 +1,1 @@
+The station's location and current Line 10 service are confirmed by CRTM, and Madrid's official street list confirms Plaza de Cuzco at the same junction. Authoritative references confirm Cusco/Cuzco as the former Inca capital. Only the exact 1953 square-naming date remains less strongly sourced.

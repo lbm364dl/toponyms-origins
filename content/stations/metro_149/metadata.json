@@ -1,0 +1,118 @@
+{
+  "id": "metro_149",
+  "name": "Opañel",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Opañel neighbourhood in Carabanchel, probably ultimately linked to the Arroyo de Opañel place-name",
+  "previous_names": "Elvas (1981-1983)",
+  "naming_date": "27 June 1983",
+  "sources": [
+    {
+      "title": "CRTM - Plano historico de la Red de Metro 2019",
+      "url": "https://www.crtm.es/media/is2mucu3/serie_i_historico_metro_2019_plano.pdf",
+      "type": "official",
+      "relevance_en": "Official transport historical map stating that the station opened as Elvas and was renamed Opañel on 27-6-1983.",
+      "relevance_es": "Plano histórico oficial de transporte que indica que la estación se abrió como Elvas y fue renombrada Opañel el 27-6-1983."
+    },
+    {
+      "title": "CRTM - Opañel station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_107/?idPestana=1",
+      "type": "official",
+      "relevance_en": "Current official transport page confirming Opañel as a Line 6 Metro station, with its accesses and interchanges.",
+      "relevance_es": "Página oficial actual de transporte que confirma Opañel como estación de Metro de la línea 6, con sus accesos y correspondencias."
+    },
+    {
+      "title": "El País - La Gran Vía presta su nombre al metro",
+      "url": "https://elpais.com/diario/1983/06/28/madrid/425647457_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report confirming that Elvas officially became Opañel at 6:00 on 27 June 1983 and explaining that the old street name was far from the station.",
+      "relevance_es": "Noticia contemporánea que confirma que Elvas pasó oficialmente a Opañel a las 6:00 del 27 de junio de 1983 y explica que la antigua calle que daba nombre a la estación quedaba lejos."
+    },
+    {
+      "title": "El País - Cambian de nombre las estaciones de metro de José Antonio, Elvas y General Mola",
+      "url": "https://elpais.com/diario/1983/06/22/madrid/425129061_850215.html",
+      "type": "press",
+      "relevance_en": "Advance notice of the renaming, stating that Elvas would become Opañel, the neighbourhood name, because Calle Elvas had been left apart from the station by the changed route.",
+      "relevance_es": "Aviso previo del cambio, que señala que Elvas pasaría a llamarse Opañel, nombre del barrio, porque la calle Elvas había quedado apartada de la estación al variar el trazado."
+    },
+    {
+      "title": "El País - El presidente del Gobierno inauguró la nueva línea del Metro Pacífico-Oporto",
+      "url": "https://elpais.com/diario/1981/05/07/madrid/358082656_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the Pacífico-Oporto section: inaugurated on 6 May 1981 and entering public service on 7 May 1981.",
+      "relevance_es": "Noticia contemporánea sobre el tramo Pacífico-Oporto: inaugurado el 6 de mayo de 1981 y abierto al público el 7 de mayo de 1981."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distrito 11, Carabanchel, Barrio 112 Opañel",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/11%20-%20Carabanchel/Barrio112.pdf",
+      "type": "official",
+      "relevance_en": "Municipal map confirming Opañel as barrio 112 in the district of Carabanchel.",
+      "relevance_es": "Mapa municipal que confirma Opañel como barrio 112 del distrito de Carabanchel."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Instalación Deportiva Municipal Básica Arroyo de Opañel",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Equipamientos-deportivos/Instalaciones-basicas/Instalacion-Deportiva-Municipal-Basica-Arroyo-de-Opanel/?vgnextchannel=2175bcc0f23ad210VgnVCM1000000b205a0aRCRD&vgnextoid=d06f941b73305110VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal page preserving the Arroyo de Opañel toponym in a public facility and address in the Opañel/Carabanchel area.",
+      "relevance_es": "Página municipal oficial que conserva el topónimo Arroyo de Opañel en una instalación y dirección pública del ámbito Opañel/Carabanchel."
+    },
+    {
+      "title": "Biblioteca Virtual de Defensa - Plano de Madrid y pueblos colindantes al empezar el siglo XX",
+      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=124805",
+      "type": "archive",
+      "relevance_en": "Authoritative catalogue record for Facundo Cañada López's 1900 map, useful for historical Carabanchel-area toponymy and hydrography.",
+      "relevance_es": "Registro catalográfico autorizado del plano de Facundo Cañada López de 1900, útil para la toponimia e hidrografía histórica del entorno de Carabanchel."
+    },
+    {
+      "title": "Francisco Villar - Los topónimos con *up- (*op-) 'agua, río' en la toponimia prerromana hispana",
+      "url": "https://ifc-ojs.es/index.php/palaeohispanica/article/view/359",
+      "type": "academic",
+      "relevance_en": "Academic source for the general pre-Roman *up-/*op- hydronymic family; relevant as a comparison but not direct proof for Opañel.",
+      "relevance_es": "Fuente académica sobre la familia hidronímica prerromana *up-/*op-; pertinente como comparación, pero no como prueba directa para Opañel."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Correct the rename date from 27 June 1984 to 27 June 1983.",
+      "es": "Corregir la fecha del cambio de nombre: no fue el 27 de junio de 1984, sino el 27 de junio de 1983."
+    },
+    {
+      "en": "Do not state as fact that Opañel has a proven pre-Roman hydronymic origin; Villar discusses *up-/*op- hydronyms generally but does not cite Opañel.",
+      "es": "No afirmar como hecho probado que Opañel tenga origen hidronímico prerromano; Villar estudia los hidrónimos *up-/*op- en general, pero no cita Opañel."
+    },
+    {
+      "en": "The strongest direct source says the station was renamed for the neighbourhood because Calle Elvas was far from the station, not specifically because residents requested a stream name.",
+      "es": "La fuente directa más sólida dice que la estación se renombró por el barrio porque la calle Elvas quedaba lejos, no específicamente porque los vecinos pidieran el nombre de un arroyo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal street-name files, old Carabanchel gazetteers, or planning records to prove when and why the barrio or Calle Arroyo de Opañel was officially named.",
+      "es": "Revisar expedientes municipales de rotulación, nomenclátores antiguos de Carabanchel o documentos de planeamiento para probar cuándo y por qué se nombraron oficialmente el barrio o la calle Arroyo de Opañel."
+    },
+    {
+      "en": "Check high-resolution historical cartography sheet by sheet for the exact label and course of Arroyo de Opañel, beyond the general Facundo Cañada map metadata.",
+      "es": "Comprobar hoja por hoja la cartografía histórica en alta resolución para localizar la etiqueta y el trazado exactos del Arroyo de Opañel, más allá de los metadatos generales del plano de Facundo Cañada."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_149/en/summary.short.md",
+      "summary": "content/stations/metro_149/en/summary.md",
+      "story": "content/stations/metro_149/en/story.md",
+      "confidence": "content/stations/metro_149/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_149/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_149/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_149/es/summary.short.md",
+      "summary": "content/stations/metro_149/es/summary.md",
+      "story": "content/stations/metro_149/es/story.md",
+      "confidence": "content/stations/metro_149/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_149/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_149/es/research-note.md"
+    }
+  }
+}

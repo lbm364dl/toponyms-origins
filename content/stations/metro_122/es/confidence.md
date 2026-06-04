@@ -1,0 +1,1 @@
+Fuentes oficiales e institucionales confirman el topónimo del entorno, el nombre oficial del barrio, el origen del proyecto universitario en 1927 y la inauguración de la prolongación de la línea 6 hasta Ciudad Universitaria el 13 de enero de 1987. No se ha encontrado una etimología alternativa.

@@ -1,0 +1,1 @@
+La estación de La Almudena toma su nombre del cercano Cementerio de Nuestra Señora de la Almudena, llamado así por la patrona de Madrid. La palabra Almudena suele explicarse a partir del árabe al-mudayna, 'la ciudadela' o recinto amurallado del Madrid primitivo.

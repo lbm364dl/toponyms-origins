@@ -1,0 +1,1 @@
+Las Musas is named for the local Las Musas street and colony in San Blas-Canillejas, a place-name ultimately referring to the nine Muses of classical mythology. The station opened on Line 7 on 17 July 1974 as the eastern terminus of the first Pueblo Nuevo-Las Musas section.

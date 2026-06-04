@@ -1,0 +1,1 @@
+La afirmación central está respaldada: la estación toma su nombre del área/plaza del Alto de Extremadura en el Paseo de Extremadura, una vía históricamente vinculada a la salida occidental de Madrid. Algunos detalles están sobredimensionados o requieren corrección, especialmente la fecha de apertura de la estación y la afirmación amplia sobre las rutas mesteñas.

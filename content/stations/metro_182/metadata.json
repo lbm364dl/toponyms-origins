@@ -1,0 +1,93 @@
+{
+  "id": "metro_182",
+  "name": "Urgel",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Urgel / Urgell",
+  "previous_names": "",
+  "naming_date": "1968-06-05",
+  "sources": [
+    {
+      "title": "Callejero Oficial. Ayuntamiento de Madrid, 15 de mayo de 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Confirms Calle de Urgel as an official Madrid street in the district of Carabanchel and gives its extent and numbering.",
+      "relevance_es": "Confirma la calle de Urgel como vía oficial de Madrid en el distrito de Carabanchel e indica su trazado y numeración."
+    },
+    {
+      "title": "CRTM - Línea 5 Alameda de Osuna-Casa de Campo",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/lineas/4__5___",
+      "type": "official",
+      "relevance_en": "Confirms Urgel as a current station on Metro Line 5 in fare zone A.",
+      "relevance_es": "Confirma Urgel como estación actual de la línea 5 de Metro en zona tarifaria A."
+    },
+    {
+      "title": "Memoria de Madrid - Inauguración tramo Callao-Carabanchel de línea 5",
+      "url": "https://www.memoriademadrid.es/view/387887/inauguracion-tramo-callao-carabanchel-de-linea-5",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid archival record for the inauguration of the Callao-Carabanchel section of Line 5 on 5 June 1968.",
+      "relevance_es": "Registro archivístico de Metro de Madrid sobre la inauguración del tramo Callao-Carabanchel de la línea 5 el 5 de junio de 1968."
+    },
+    {
+      "title": "Gran Enciclopedia Catalana - comtat d'Urgell",
+      "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/comtat-durgell",
+      "type": "reference",
+      "relevance_en": "Provides authoritative historical context for the County of Urgell, including its Carolingian origins, Ermengol I, later dynasties, and annexation after Jaume II.",
+      "relevance_es": "Aporta contexto histórico autorizado sobre el Condado de Urgell, incluidos su origen carolingio, Ermengol I, las dinastías posteriores y la anexión tras Jaime II."
+    },
+    {
+      "title": "Consell Comarcal de l'Urgell - Història",
+      "url": "https://urgell.cat/ca/p/historia/historia-consell-comarcal-urgell-24-29",
+      "type": "official",
+      "relevance_en": "Explains the Urgell place-name from a local institutional perspective and connects the modern comarca name with the old Pyrenean county.",
+      "relevance_es": "Explica el topónimo Urgell desde una institución local y conecta el nombre de la comarca actual con el antiguo condado pirenaico."
+    },
+    {
+      "title": "Urgel (Madrid Metro)",
+      "url": "https://en.wikipedia.org/wiki/Urgel_%28Madrid_Metro%29",
+      "type": "reference",
+      "relevance_en": "Secondary orientation source stating that the station is named for Calle de Urgel; useful but not decisive without a municipal naming file.",
+      "relevance_es": "Fuente secundaria de orientación que afirma que la estación toma el nombre de la calle de Urgel; útil, pero no decisiva sin un expediente municipal de rotulación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade confidence from verified to probable unless a municipal naming record for Calle de Urgel is found.",
+      "es": "Rebajar la confianza de verificada a probable mientras no aparezca un expediente municipal de rotulación de la calle de Urgel."
+    },
+    {
+      "en": "Use 'Urgel/Urgell' as the named place, with the County of Urgell as strong historical context, rather than claiming the county alone as the documented dedicatee.",
+      "es": "Usar 'Urgel/Urgell' como lugar nombrado, con el Condado de Urgell como contexto histórico sólido, en vez de afirmar que el condado fue el dedicatario documentado exclusivo."
+    },
+    {
+      "en": "The 1968 opening date is supported by Metro de Madrid archival material as 5 June 1968; some secondary pages give 6 June, likely reflecting public service or reporting after the inauguration.",
+      "es": "La fecha de apertura de 1968 está respaldada por material archivístico de Metro de Madrid como 5 de junio de 1968; algunas páginas secundarias dan 6 de junio, probablemente por el inicio del servicio público o por noticias posteriores a la inauguración."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Madrid municipal street-naming files or older printed callejeros to confirm whether Calle de Urgel was assigned for the medieval county, the comarca, La Seu d'Urgell, or the broader Urgell toponym.",
+      "es": "Consultar expedientes municipales de rotulación o callejeros impresos antiguos de Madrid para confirmar si la calle de Urgel se asignó por el condado medieval, la comarca, La Seu d'Urgell o el topónimo amplio Urgell."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_182/en/summary.short.md",
+      "summary": "content/stations/metro_182/en/summary.md",
+      "story": "content/stations/metro_182/en/story.md",
+      "confidence": "content/stations/metro_182/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_182/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_182/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_182/es/summary.short.md",
+      "summary": "content/stations/metro_182/es/summary.md",
+      "story": "content/stations/metro_182/es/story.md",
+      "confidence": "content/stations/metro_182/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_182/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_182/es/research-note.md"
+    }
+  }
+}

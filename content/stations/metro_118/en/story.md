@@ -1,0 +1,9 @@
+Batán station is named for El Batán, the Casa de Campo place name beside the Venta del Batán area. The transport name is therefore not an arbitrary decorative word: it points to a real historical use of the western Madrid landscape before the modern Metro station arrived.
+
+A batán was a fulling mill. In textile production, water power moved heavy wooden hammers that struck woollen cloth, compacting and strengthening it after weaving. The Spanish dictionary records batán both as the machine itself and as the building that housed it; that meaning is the key to the Madrid place name.
+
+The local tradition places this batán in the Casa de Campo, near the old watercourses and mill sites of the Meaques/Vadillo area. Later histories describe a site that had been a flour mill and then a workshop or factory connected with leather or cloth work, before the name survived in the Venta del Batán. The exact institutional chain is better documented in local historical research than in modern transport material, but the linguistic and topographic explanation is consistent.
+
+The best-known present-day landmark is the Venta del Batán, the bull-holding complex built for Madrid's San Isidro bullfighting season and inaugurated on 11 May 1950. For decades it was where bulls destined for Las Ventas could be kept and viewed before the corrida. That later use did not create the word batán, but it helped keep the old name visible in twentieth-century Madrid.
+
+The station opened in February 1961 as part of the Carabanchel Suburban Railway, the line later absorbed into Metro de Madrid line 10. The etymology is therefore verified at the level that matters for public display: the station name preserves an older Casa de Campo toponym derived from a fulling mill, while the modern Venta del Batán is an important continuation of that name rather than the original source of the word.

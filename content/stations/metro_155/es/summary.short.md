@@ -1,0 +1,1 @@
+Reyes Católicos toma su nombre de los Reyes Católicos, Isabel I de Castilla y Fernando II de Aragón. En San Sebastián de los Reyes el nombre tiene un sentido local especial: el municipio recuerda su fundación bajo su amparo real en 1492.

@@ -1,0 +1,1 @@
+Opañel is named for the Carabanchel neighbourhood rather than for its first Metro name, Elvas. The older local place-name is associated with Arroyo de Opañel, but the deeper linguistic origin remains uncertain.

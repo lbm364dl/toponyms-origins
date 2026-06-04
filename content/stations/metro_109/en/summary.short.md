@@ -1,0 +1,1 @@
+Puente de Vallecas is named for the historic bridge that carried the road from Madrid to Vallecas over the Arroyo Abroñigal. The bridge gave its name to the surrounding suburb and later district, and the metro kept that place-name when Line 1 arrived in 1923.

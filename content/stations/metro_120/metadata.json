@@ -1,0 +1,93 @@
+{
+  "id": "metro_120",
+  "name": "Casa de Campo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Casa de Campo de Madrid (park and historic royal estate)",
+  "previous_names": "No former station name found; the station appears to have opened as Casa de Campo in 2002.",
+  "naming_date": "2002-10-22",
+  "sources": [
+    {
+      "title": "Parque de la Casa de Campo - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Parque-de-la-Casa-de-Campo/?vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD&vgnextoid=482a315919a9e210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal page confirming the park's status, surface figure, origin as a royal hunting and recreation site acquired from the Vargas family by Philip II in 1562, and transfer for public use under the Second Republic.",
+      "relevance_es": "Página municipal oficial que confirma la condición del parque, su superficie, su origen como Real Sitio de caza y recreo adquirido por Felipe II a partir de la finca de los Vargas en 1562, y su cesión para uso público durante la Segunda República."
+    },
+    {
+      "title": "Casa de Campo - Turismo Madrid",
+      "url": "https://www.esmadrid.com/informacion-turistica/casa-de-campo",
+      "type": "official",
+      "relevance_en": "Official tourism source for the park's public history, 1931 opening, BIC status, current attractions, and the 1,535.52-hectare area figure.",
+      "relevance_es": "Fuente turística oficial sobre la historia pública del parque, su apertura en 1931, la declaración BIC, los equipamientos actuales y la cifra de 1.535,52 hectáreas."
+    },
+    {
+      "title": "Decreto 39/2010, de 15 de julio, por el que se declara Bien de Interés Cultural la Casa de Campo de Madrid",
+      "url": "https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/10/BIC.BOCM-20101117-5.pdf",
+      "type": "official",
+      "relevance_en": "Authoritative heritage declaration giving the strongest account of the Vargas country house, Philip II's 1562 incorporation, the royal estate, the 1931 transfer, and the Civil War significance.",
+      "relevance_es": "Declaración patrimonial autorizada que ofrece la explicación más sólida sobre la casa de campo de los Vargas, la incorporación por Felipe II en 1562, el Real Sitio, la cesión de 1931 y la relevancia durante la Guerra Civil."
+    },
+    {
+      "title": "Rutas Verdes CRTM: Ruta Verde Casa de Campo",
+      "url": "https://www.crtm.es/media/vhufyoz5/serie_10_rv_04_casacampo.pdf",
+      "type": "official",
+      "relevance_en": "Transport-authority route leaflet stating that Casa de Campo station was created in 2002 as an interchange for lines 5 and 10 and as a starting point for visiting the park.",
+      "relevance_es": "Folleto del Consorcio Regional de Transportes que indica que la estación de Casa de Campo nació en 2002 como punto de intercambio de las líneas 5 y 10 y como punto de partida para visitar el parque."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Detailed network chronology recording Casa de Campo as a new station opened on 22 October 2002 and the transfer of the Aluche-Casa de Campo section to line 5.",
+      "relevance_es": "Cronología detallada de la red que registra Casa de Campo como estación nueva abierta el 22 de octubre de 2002 y el traspaso del tramo Aluche-Casa de Campo a la línea 5."
+    },
+    {
+      "title": "La línea 10 del metro recobra la actividad tras 12 semanas de obras - El País",
+      "url": "https://elpais.com/diario/2002/10/22/madrid/1035285860_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report documenting the 22 October 2002 opening of the new Casa de Campo and Colonia Jardín stations during the line 10 works toward MetroSur.",
+      "relevance_es": "Crónica contemporánea que documenta la apertura el 22 de octubre de 2002 de las nuevas estaciones de Casa de Campo y Colonia Jardín durante las obras de la línea 10 hacia MetroSur."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station did not open in 1961; Casa de Campo station opened on 22 October 2002, although the former Suburbano/line 10 corridor in the area dates back to 1961.",
+      "es": "La estación no se inauguró en 1961; Casa de Campo abrió el 22 de octubre de 2002, aunque el antiguo corredor del Suburbano/línea 10 en la zona procede de 1961."
+    },
+    {
+      "en": "The park-area figure should be qualified: Madrid's official tourism and municipal pages give 1,535.52 hectares for Casa de Campo, while the 1,722.6-hectare figure is a broader commonly repeated figure and may include associated land.",
+      "es": "La cifra de superficie debe matizarse: las páginas oficiales municipales y turísticas de Madrid dan 1.535,52 hectáreas para la Casa de Campo, mientras que la cifra de 1.722,6 hectáreas es una referencia amplia muy difundida y puede incluir terrenos asociados."
+    },
+    {
+      "en": "The source field should not rely mainly on Wikipedia; the 2010 BIC declaration and Madrid municipal pages are stronger sources for the park's origin and history.",
+      "es": "El campo de fuentes no debería apoyarse principalmente en Wikipedia; la declaración BIC de 2010 y las páginas municipales de Madrid son fuentes más sólidas para el origen y la historia del parque."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary project document for the 2002 station naming decision would be useful to confirm whether 'Puerta de Batán' was ever an official proposed name rather than a reported project-stage option.",
+      "es": "Sería útil consultar documentación primaria del proyecto de 2002 para confirmar si 'Puerta de Batán' llegó a ser una propuesta oficial de nombre o solo una opción mencionada durante el proyecto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_120/en/summary.short.md",
+      "summary": "content/stations/metro_120/en/summary.md",
+      "story": "content/stations/metro_120/en/story.md",
+      "confidence": "content/stations/metro_120/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_120/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_120/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_120/es/summary.short.md",
+      "summary": "content/stations/metro_120/es/summary.md",
+      "story": "content/stations/metro_120/es/story.md",
+      "confidence": "content/stations/metro_120/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_120/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_120/es/research-note.md"
+    }
+  }
+}

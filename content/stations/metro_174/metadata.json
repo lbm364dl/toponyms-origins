@@ -1,0 +1,118 @@
+{
+  "id": "metro_174",
+  "name": "Ascao",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Ascao, named for Askao/Ascao, an old place-name in Bilbao",
+  "previous_names": "",
+  "naming_date": "1974",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Ascao",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_136?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, Line 7 correspondence and the access at Calle de Ascao, 29.",
+      "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 7 y el acceso en la calle de Ascao, 29."
+    },
+    {
+      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Lists Calle de Ascao in Ciudad Lineal and gives its official extent from Calle del Puerto de Canfranc to Camino de Valderribas.",
+      "relevance_es": "Incluye la calle de Ascao en Ciudad Lineal y da su trazado oficial desde la calle del Puerto de Canfranc hasta el Camino de Valderribas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Distrito 15 - Ciudad Lineal, Barrio 152 - Pueblo Nuevo map",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/15%20-%20Ciudad%20Lineal/Barrio%20152.pdf",
+      "type": "official",
+      "relevance_en": "Shows Calle de Ascao in Pueblo Nuevo and labels the nearby Barrio de Bilbao area with several Bilbao/Biscayan-related street names.",
+      "relevance_es": "Muestra la calle de Ascao en Pueblo Nuevo y rotula el cercano Barrio de Bilbao con varios nombres viarios relacionados con Bilbao o Bizkaia."
+    },
+    {
+      "title": "memoriademadrid: Estación de Ascao",
+      "url": "https://www.memoriademadrid.es/view/389429",
+      "type": "archive",
+      "relevance_en": "Metro de Madrid photographic archive record dated 1974; notes that Ascao opened to the public in July 1974 with the first Line 7 section between Pueblo Nuevo and Las Musas.",
+      "relevance_es": "Ficha del archivo fotográfico de Metro de Madrid fechada en 1974; indica que Ascao abrió al público en julio de 1974 con el primer tramo de la línea 7 entre Pueblo Nuevo y Las Musas."
+    },
+    {
+      "title": "Auñamendi Eusko Entziklopedia: Ascao",
+      "url": "https://aunamendi.eusko-ikaskuntza.eus/es/ascao/ar-15357/",
+      "type": "reference",
+      "relevance_en": "Describes Askao/Ascao as a Bilbao place near the convent of Santa Cruz, associated with a stream, neighbouring lots and the old gardens of Ascao.",
+      "relevance_es": "Describe Askao/Ascao como un lugar de Bilbao junto al convento de Santa Cruz, vinculado a un arroyo, a solares próximos y a los antiguos jardines de Ascao."
+    },
+    {
+      "title": "Sobre el Diccionario abreviado de calles de Bilbao",
+      "url": "https://www.bilbao.eus/bld/bitstream/handle/123456789/28226/30.pdf?rd=003123283977517682&sequence=1",
+      "type": "reference",
+      "relevance_en": "Cites Alfonso Irigoien's work and gives the Basque etymology Ascao/Askao from aska-aho, 'mouth of the watering trough'.",
+      "relevance_es": "Cita la obra de Alfonso Irigoien y ofrece la etimología vasca Ascao/Askao desde aska-aho, 'boca del abrevadero'."
+    },
+    {
+      "title": "Euskaltzaindia, Euskera XLI: Dictamen de la Comisión de Onomástica",
+      "url": "https://www.euskaltzaindia.eus/dok/euskera/49645.pdf",
+      "type": "academic",
+      "relevance_en": "States that Askao has designated that Bilbao area since the creation of the villa, supporting its status as a historic Bilbao toponym.",
+      "relevance_es": "Afirma que Askao designa esa zona bilbaína desde la creación de la villa, lo que respalda su condición de topónimo histórico de Bilbao."
+    },
+    {
+      "title": "Comunidad de Madrid: La Línea 7 de Metro de Madrid",
+      "url": "https://www.comunidad.madrid/servicios/transporte/linea-7-metro-madrid?language=es",
+      "type": "official",
+      "relevance_en": "Gives official regional context for Line 7 and says the Las Musas-Pueblo Nuevo section entered service in July 1974, though with a date that differs from some transport-history records.",
+      "relevance_es": "Aporta contexto oficial regional sobre la línea 7 e indica que el tramo Las Musas-Pueblo Nuevo entró en servicio en julio de 1974, aunque con una fecha distinta a la de algunas fuentes de historia del transporte."
+    },
+    {
+      "title": "Barrio de Bilbao (Madrid)",
+      "url": "https://es-academic.com/dic.nsf/eswiki/148899/",
+      "type": "other",
+      "relevance_en": "Secondary local account for the Barrio de Bilbao naming tradition and the story of a Basque family; useful but not authoritative enough to prove the municipal naming intent.",
+      "relevance_es": "Relato local secundario sobre la tradición denominativa del Barrio de Bilbao y la historia de una familia vasca; útil, pero no suficientemente autoritativo para probar la intención municipal de la denominación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not describe Askao simply as a current Bilbao neighbourhood; the stronger sources describe it as an old place-name, area, street and gardens in Bilbao.",
+      "es": "No conviene describir Askao simplemente como un barrio actual de Bilbao; las fuentes más sólidas lo presentan como un antiguo topónimo, paraje, calle y jardines de Bilbao."
+    },
+    {
+      "en": "The claim that all the local Madrid street names are municipalities of Vizcaya is too broad: Ascao/Askao and Achuri/Atxuri are Bilbao place-names, not municipalities.",
+      "es": "La afirmación de que todos los nombres de calles de la zona madrileña son municipios de Vizcaya es demasiado amplia: Ascao/Askao y Achuri/Atxuri son topónimos bilbaínos, no municipios."
+    },
+    {
+      "en": "The exact Line 7 opening date is not fully uniform across sources: some transport-history sources give 17 July 1974, while a Comunidad de Madrid page says the first section entered service on 22 July 1974.",
+      "es": "La fecha exacta de apertura de la línea 7 no aparece de forma uniforme: algunas fuentes de historia del transporte dan el 17 de julio de 1974, mientras que una página de la Comunidad de Madrid dice que el primer tramo entró en servicio el 22 de julio de 1974."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid municipal street-naming file or council agreement for Calle de Ascao to confirm the intended referent and the naming date.",
+      "es": "Consultar el expediente o acuerdo municipal original de denominación de la calle de Ascao en Madrid para confirmar el referente previsto y la fecha de asignación."
+    },
+    {
+      "en": "Check Manuel Basas, Calles de Bilbao: diccionario abreviado, alongside Alfonso Irigoien's cited work, to compare the older Bilbao street-history account with the Basque etymology.",
+      "es": "Consultar Manuel Basas, Calles de Bilbao: diccionario abreviado, junto con la obra citada de Alfonso Irigoien, para comparar la historia viaria bilbaína con la etimología vasca."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_174/en/summary.short.md",
+      "summary": "content/stations/metro_174/en/summary.md",
+      "story": "content/stations/metro_174/en/story.md",
+      "confidence": "content/stations/metro_174/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_174/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_174/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_174/es/summary.short.md",
+      "summary": "content/stations/metro_174/es/summary.md",
+      "story": "content/stations/metro_174/es/story.md",
+      "confidence": "content/stations/metro_174/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_174/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_174/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+San Fermín-Orcasur toma su nombre de los dos barrios de Usera a los que da servicio. San Fermín conserva la dedicación navarra dada a una colonia de posguerra, mientras que Orcasur procede del ámbito meridional de Orcasitas remodelado a finales del siglo XX.

@@ -1,0 +1,1 @@
+The row is basically right that the station name comes from the pre-existing Pitis place-name in Fuencarral-El Pardo and that the deeper origin is unresolved. The Greek Pitys/pine explanation should be treated only as speculation, and the exact 25 May 1964 date is better tied to the railway links than to a directly verified passenger-station naming act.

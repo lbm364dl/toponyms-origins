@@ -1,0 +1,1 @@
+Arroyofresno toma su nombre del área y del arroyo de Arroyo del Fresno, en Fuencarral-El Pardo. El topónimo remite literalmente a un curso de agua y a un fresno, aunque la grafía unida de la estación es una forma moderna de Metro.

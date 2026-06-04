@@ -1,0 +1,118 @@
+{
+  "id": "metro_107",
+  "name": "Plaza de Castilla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza de Castilla",
+  "previous_names": "No former station name found. Earlier place context: bifurcation of the old road to France and the road to Chamartín; the area was associated with the Portazgo and the Hotel del Negro before the planned Plaza de Castilla.",
+  "naming_date": "Station opened as Plaza de Castilla on 4 February 1961; the plaza name is documented in CRTM's historical account for the planned circular square of the 1940s, but the exact municipal naming date was not found.",
+  "sources": [
+    {
+      "title": "CRTM - Historia de Plaza de Castilla",
+      "url": "https://www.crtm.es/conocenos/publicaciones/historia-del-transporte-publico/historia-de-plaza-de-castilla/",
+      "type": "official",
+      "relevance_en": "Official CRTM publication page for historical panels on Plaza de Castilla, covering the site from 1808 to the modern interchange.",
+      "relevance_es": "Página oficial del CRTM de los paneles históricos sobre Plaza de Castilla, desde el entorno de 1808 hasta el intercambiador moderno."
+    },
+    {
+      "title": "CRTM - Historia de Plaza de Castilla PDF",
+      "url": "https://www.crtm.es/media/4fkbofhq/historia_plaza_de_castilla.pdf",
+      "type": "official",
+      "relevance_en": "Key source for the older road-junction context, the 1940s planning of the circular Plaza de Castilla, and Metro Line 1 reaching the square in 1961.",
+      "relevance_es": "Fuente clave para el contexto anterior como cruce de caminos, la planificación de la plaza circular en los años cuarenta y la llegada de la línea 1 de Metro en 1961."
+    },
+    {
+      "title": "CRTM - Plaza de Castilla Interchange",
+      "url": "https://www.crtm.es/tu-transporte-publico/intercambiadores/grandes-intercambiadores/plaza-de-castilla?idPestana=3",
+      "type": "official",
+      "relevance_en": "Confirms the present interchange role and connections with Metro lines 1, 9 and 10, EMT buses and interurban buses from the A-1 and M-607 corridors.",
+      "relevance_es": "Confirma la función actual de intercambiador y las conexiones con las líneas 1, 9 y 10 de Metro, autobuses EMT e interurbanos de los corredores A-1 y M-607."
+    },
+    {
+      "title": "CRTM - Plaza de Castilla Metro Station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_1/?lang=es",
+      "type": "official",
+      "relevance_en": "Official station page locating Plaza de Castilla station at Paseo de la Castellana, 189 and showing it as a Metro station/interchange.",
+      "relevance_es": "Página oficial de la estación, que sitúa Plaza de Castilla en el Paseo de la Castellana, 189 y la identifica como estación/intercambiador de Metro."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Intercambiador de transporte. Plaza de Castilla",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Intercambiador-de-transporte-Plaza-de-Castilla/?vgnextchannel=262f8fb9458fe410VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=04d2d12a67de1210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal source confirming the interchange's Metro lines 1, 9 and 10 and bus connections.",
+      "relevance_es": "Fuente municipal que confirma las líneas 1, 9 y 10 de Metro y las conexiones de autobús del intercambiador."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Plan de Calidad del Paisaje Urbano, Puerta urbana: Plaza de Castilla",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/TemaUrbanismo/PlanPaisaje/Ficheros/Introduccion/PlanCalidadPaisajeUrbanoEne09.06.pdf",
+      "type": "official",
+      "relevance_en": "Describes Plaza de Castilla as Madrid's northern urban gate and identifies the Canal de Isabel II deposit, KIO/Puerta de Europa towers and courts as visual landmarks.",
+      "relevance_es": "Describe Plaza de Castilla como puerta urbana del norte de Madrid e identifica el depósito del Canal de Isabel II, las torres KIO/Puerta de Europa y los juzgados como hitos visuales."
+    },
+    {
+      "title": "CRTM - Alternativas de transporte durante la suspensión del tramo Cuzco-Nuevos Ministerios de la línea 10",
+      "url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/avisos/19032026-alternativas-de-transporte-suspension-l10-metro-cuzco-nuevos-ministerios/?lang=es",
+      "type": "official",
+      "relevance_en": "Current operational note for 2026: Line 10 is temporarily interrupted between Cuzco and Nuevos Ministerios, with special bus S10 serving Plaza de Castilla.",
+      "relevance_es": "Nota operativa actual de 2026: la línea 10 está temporalmente interrumpida entre Cuzco y Nuevos Ministerios, con servicio especial S10 por Plaza de Castilla."
+    },
+    {
+      "title": "Britannica - Castile",
+      "url": "https://www.britannica.com/place/Castile-region-Spain",
+      "type": "reference",
+      "relevance_en": "Reference source for Castile as a traditional central Spanish region, supporting cautious explanation of the word 'Castilla'.",
+      "relevance_es": "Fuente de referencia sobre Castilla como región histórica/tradicional del centro de España, útil para explicar con cautela el término 'Castilla'."
+    },
+    {
+      "title": "Ediciones La Librería - La foto de la semana: Plaza de Castilla. Vista aérea. 1962",
+      "url": "https://edicioneslalibreria.com/la-foto-de-la-semana-plaza-de-castilla-vista-aerea-1962/",
+      "type": "press",
+      "relevance_en": "Provides local historical context for the Hotel del Negro as an earlier landmark associated with the place before the modern square.",
+      "relevance_es": "Aporta contexto histórico local sobre el Hotel del Negro como hito anterior asociado al lugar antes de la plaza moderna."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'honouring the historical Crown of Castile' with the more cautious 'referring to Castile, the historic Spanish region and former kingdom', unless a municipal naming file confirms the Crown-specific dedication.",
+      "es": "Sustituir 'honra a la histórica Corona de Castilla' por la formulación más prudente 'remite a Castilla, región histórica y antiguo reino de España', salvo que un expediente municipal confirme la dedicatoria específica a la Corona."
+    },
+    {
+      "en": "The KIO/Puerta de Europa towers are useful context for the square, but they are not evidence for the station name origin.",
+      "es": "Las torres KIO/Puerta de Europa son contexto útil de la plaza, pero no prueban el origen del nombre de la estación."
+    },
+    {
+      "en": "As of 4 June 2026, Line 10 has a temporary service interruption between Cuzco and Nuevos Ministerios, with special bus S10 via Plaza de Castilla; this does not change the station's line assignment but matters for current public wording.",
+      "es": "A 4 de junio de 2026, la línea 10 tiene una interrupción temporal entre Cuzco y Nuevos Ministerios, con servicio especial S10 por Plaza de Castilla; no cambia la adscripción de la estación a la línea, pero sí importa para textos operativos actuales."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid street-naming or callejero expediente for Plaza de Castilla to determine the exact official naming date and whether the intended dedication was Castile, the Kingdom of Castile, or the Crown of Castile.",
+      "es": "Consultar el expediente de rotulación o callejero del Ayuntamiento de Madrid de la Plaza de Castilla para precisar la fecha oficial de denominación y si la intención fue Castilla, el Reino de Castilla o la Corona de Castilla."
+    },
+    {
+      "en": "Check a historical Madrid street-name dictionary, such as Isabel Gea or the official Callejero histórico if available, for a concise municipal etymology of the square name.",
+      "es": "Revisar un diccionario histórico del callejero madrileño, como Isabel Gea o un Callejero histórico oficial si está disponible, para obtener una etimología municipal concisa del nombre de la plaza."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_107/en/summary.short.md",
+      "summary": "content/stations/metro_107/en/summary.md",
+      "story": "content/stations/metro_107/en/story.md",
+      "confidence": "content/stations/metro_107/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_107/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_107/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_107/es/summary.short.md",
+      "summary": "content/stations/metro_107/es/summary.md",
+      "story": "content/stations/metro_107/es/story.md",
+      "confidence": "content/stations/metro_107/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_107/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_107/es/research-note.md"
+    }
+  }
+}

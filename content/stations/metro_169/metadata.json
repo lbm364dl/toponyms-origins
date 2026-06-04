@@ -1,0 +1,104 @@
+{
+  "id": "metro_169",
+  "name": "Lacoma",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Margarita Gonzalez Lacoma",
+  "previous_names": "",
+  "naming_date": "1999-03-29",
+  "sources": [
+    {
+      "title": "Inauguracion del tramo de linea 7 Valdezarza-Pitis",
+      "url": "https://www.memoriademadrid.es/view/389589/em-inauguracion-del-tramo-de-linea-7-valdezarza-pitis-em?limit=50&offset=0&q=facet%2Cmetadata.subject.es.keyword%2Cequals%2CInstalaciones+de+Metro&q=facet%2Cmetadata.title.es.keyword%2Cequals%2CInauguraci%C3%B3n+del+tramo+de+l%C3%ADnea+7+Valdezarza-Pitis&sort=metadata.fecha_inicial.es.keyword",
+      "type": "archive",
+      "relevance_en": "Memoria de Madrid records the 29 March 1999 inauguration photograph from Metro de Madrid's photographic archive and identifies the access to Lacoma station during the Valdezarza-Pitis opening.",
+      "relevance_es": "Memoria de Madrid registra la fotografia de inauguracion del 29 de marzo de 1999 procedente del archivo fotografico de Metro de Madrid e identifica el acceso a la estacion de Lacoma durante la apertura Valdezarza-Pitis."
+    },
+    {
+      "title": "La prolongacion de la linea 7 culmina con la apertura de cinco nuevas estaciones de metro",
+      "url": "https://elpais.com/diario/1999/03/30/madrid/922793063_850215.html?outputType=amp",
+      "type": "press",
+      "relevance_en": "Contemporary press report confirming that Lacoma was one of the stations opened to the public on the Valdezarza-Pitis extension in March 1999.",
+      "relevance_es": "Cronica periodistica contemporanea que confirma que Lacoma fue una de las estaciones abiertas al publico en la prolongacion Valdezarza-Pitis de marzo de 1999."
+    },
+    {
+      "title": "Madrid Recupera: Fuencarral-El Pardo",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/EstrategiaRegeneracionUrbana/FicherosDistritos/AF08FuencarralElPardo.pdf",
+      "type": "official",
+      "relevance_en": "Madrid City Council regeneration document locating Colonia Lacoma between Avenida Cardenal Herrera Oria and Calle Valle de los Pinares Llanos, dating it to the 1950s, and describing it as Peñagrande's first urban nucleus.",
+      "relevance_es": "Documento municipal de regeneracion urbana que situa la Colonia Lacoma entre la avenida Cardenal Herrera Oria y la calle Valle de los Pinares Llanos, la fecha en los años cincuenta y la describe como el primer nucleo urbano de Peñagrande."
+    },
+    {
+      "title": "Patrimonio Historico Edificado: Viviendas para Seguros La Estrella (Ref. 02280)",
+      "url": "https://monumentamadrid.es/AM_Edificios4/AM_Edificios4_WEB/pdf/inmana/02280.pdf",
+      "type": "official",
+      "relevance_en": "Municipal built-heritage record for the Gran Via building noting Casa Lacoma, Margarita Lacoma's fashion salon, opened there in 1925.",
+      "relevance_es": "Ficha municipal de patrimonio edificado del inmueble de la Gran Via que documenta Casa Lacoma, el salon de modas de Margarita Lacoma, abierto alli en 1925."
+    },
+    {
+      "title": "Peñagrande - Lacoma - El barrio",
+      "url": "https://historias-matritenses.blogspot.com/2012/",
+      "type": "other",
+      "relevance_en": "Local historical article, citing hemeroteca and CAM nomenclator sources, giving the Marcudos chronology, the land purchases from 1947, and the Lacoma housing development context.",
+      "relevance_es": "Articulo de historia local, con bibliografia de hemerotecas y nomenclator de la Comunidad de Madrid, que aporta la cronologia de Marcudos, las compras de terrenos desde 1947 y el contexto de la promocion Lacoma."
+    },
+    {
+      "title": "Paradas de metro con nombre de mujer",
+      "url": "https://www.telemadrid.es/programas/a-un-metro-de-ti/Paradas-metro-nombre-mujer-0-2363763639--20210729124950.html",
+      "type": "press",
+      "relevance_en": "Madrid public broadcaster article explicitly saying Lacoma station owes its name to Margarita Gonzalez Lacoma and noting the uncertainty around her origins.",
+      "relevance_es": "Articulo de la television publica madrileña que afirma expresamente que la estacion Lacoma debe su nombre a Margarita Gonzalez Lacoma y advierte de la incertidumbre sobre sus origenes."
+    },
+    {
+      "title": "Quienes son las mujeres que dan su nombre a paradas de metro de Madrid?",
+      "url": "https://www.elespanol.com/mujer/actualidad/20230828/mujeres-dan-nombre-paradas-metro-madrid/781451862_3.html",
+      "type": "press",
+      "relevance_en": "Secondary biographical account summarizing Casa Lacoma, Marcudos, the 300-dwelling Colonia Lacoma project, and the connection to Line 7.",
+      "relevance_es": "Resumen biografico secundario que recoge Casa Lacoma, Marcudos, el proyecto de 300 viviendas de la Colonia Lacoma y la conexion con la linea 7."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state Margarita Gonzalez Lacoma's birthplace as firmly verified from the accessible sources; several sources describe her origins as uncertain or connect them with Valladolid and Santander.",
+      "es": "No debe afirmarse como plenamente verificado el lugar de nacimiento de Margarita Gonzalez Lacoma a partir de las fuentes accesibles; varias fuentes describen sus origenes como inciertos o los relacionan con Valladolid y Santander."
+    },
+    {
+      "en": "The station is more directly named after the established local place-name Colonia Lacoma than directly after a full personal-name dedication at the station.",
+      "es": "La estacion parece tomar de forma mas directa el toponimo local Colonia Lacoma que una dedicatoria expresa con nombre y apellidos en la estacion."
+    },
+    {
+      "en": "The housing chronology should be stated as Marcudos and Colonia Lacoma beginning around 1949, with the municipal source describing the colony as built in the 1950s.",
+      "es": "La cronologia de la vivienda debe formularse como Marcudos y Colonia Lacoma a partir de 1949 aproximadamente, con la fuente municipal describiendo la colonia como construida en los años cincuenta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A definitive municipal street-naming or Metro naming file for the station name Lacoma was not found online and would be useful to confirm the formal naming decision.",
+      "es": "No se encontro en linea un expediente definitivo de denominacion municipal o de Metro para el nombre Lacoma; seria util consultarlo para confirmar la decision formal."
+    },
+    {
+      "en": "Civil-register or archival documentation should be inspected before publishing a precise birthplace or birth date for Margarita Gonzalez Lacoma as certain.",
+      "es": "Conviene consultar documentacion registral o archivistica antes de publicar como seguros el lugar y la fecha exacta de nacimiento de Margarita Gonzalez Lacoma."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_169/en/summary.short.md",
+      "summary": "content/stations/metro_169/en/summary.md",
+      "story": "content/stations/metro_169/en/story.md",
+      "confidence": "content/stations/metro_169/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_169/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_169/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_169/es/summary.short.md",
+      "summary": "content/stations/metro_169/es/summary.md",
+      "story": "content/stations/metro_169/es/story.md",
+      "confidence": "content/stations/metro_169/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_169/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_169/es/research-note.md"
+    }
+  }
+}

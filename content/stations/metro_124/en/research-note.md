@@ -1,0 +1,1 @@
+The best dataset change is not to remove Ruy Gómez de Silva, but to demote him from direct station namesake to title-origin context. The station is a place-name station: it follows the plaza. The square, in turn, sits at the old nucleus of Chamartín and in an area with Pastrana/Infantado estate history, which better explains why the ducal title is locally meaningful.

@@ -1,0 +1,1 @@
+The station's location and Line 7 identity are confirmed by CRTM, and contemporary press documents the MetroEste opening in 2007 with Henares as one of the San Fernando de Henares stations. The river-name etymology is strongly supported by Toponomasticon Hispaniae, an academic toponymy project, which directly explains Henares as plural of henar.

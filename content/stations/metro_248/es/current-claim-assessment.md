@@ -1,0 +1,1 @@
+La estación se relaciona correctamente con el topónimo Valdecarros en Villa de Vallecas, pero el detalle de 1296 y la hipótesis de repobladores navarros parecen proceder del municipio salmantino de Valdecarros, no de la estación madrileña ni del desarrollo madrileño.

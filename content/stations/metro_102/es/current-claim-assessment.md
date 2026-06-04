@@ -1,0 +1,1 @@
+La afirmación existente es sustancialmente correcta: la estación conserva el antiguo nombre de la calle de Lista, dedicado a Alberto Rodríguez de Lista y Aragón, mientras que la calle pasó a llamarse José Ortega y Gasset en 1955. La mejor base documental procede de Metro de Madrid/Museos Metro Madrid y de fuentes municipales madrileñas, no de Wikipedia.

@@ -1,0 +1,1 @@
+La estación de El Capricho toma su nombre del cercano jardín histórico creado por María Josefa Alonso Pimentel, duquesa de Osuna. El nombre fue dado por la propia duquesa y alude tanto a su finca de recreo personal como a las construcciones fantásticas del jardín, llamadas caprichos.

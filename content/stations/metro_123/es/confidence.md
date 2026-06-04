@@ -1,0 +1,1 @@
+El nombre actual de la estación, su ubicación en la avenida de Pío XII y el servicio de la línea 9 están respaldados por el CRTM; una crónica de prensa de 1983 confirma Pío XII como una de las estaciones abiertas en el nuevo tramo. La persona detrás de la avenida es inequívoca, aunque no se localizó el acuerdo municipal exacto que dio nombre a la vía.

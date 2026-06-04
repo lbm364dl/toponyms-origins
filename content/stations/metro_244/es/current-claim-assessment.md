@@ -1,0 +1,1 @@
+La etimología principal es correcta: el nombre de la estación honra en última instancia al poeta Miguel Hernández Gilabert. Conviene corregir 'calle' por 'avenida', y también el contexto de distrito y apertura: la estación está en Puente de Vallecas y se inauguró con la prolongación Portazgo-Miguel Hernández el 7 de abril de 1994, no en Villa de Vallecas en 2007.

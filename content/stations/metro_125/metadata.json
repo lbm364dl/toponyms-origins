@@ -1,0 +1,100 @@
+{
+  "id": "metro_125",
+  "name": "Herrera Oria",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Ángel Herrera Oria",
+  "previous_names": "No former station name found; opened as Herrera Oria. The nearby avenue was popularly known as Carretera de la Playa.",
+  "naming_date": "3 June 1983 (station opened with this name)",
+  "sources": [
+    {
+      "title": "La Comunidad de Madrid revive la figura de Herrera Oria en la estación de Metro que lleva su nombre",
+      "url": "https://www.comunidad.madrid/noticias/2023/02/21/comunidad-madrid-revive-figura-herrera-oria-estacion-metro-lleva-su-nombre",
+      "type": "official",
+      "relevance_en": "Official regional source explicitly saying Ángel Herrera Oria is the figure who gives the Metro station its name and describing the 2023 biographical display in the station.",
+      "relevance_es": "Fuente oficial regional que afirma expresamente que Ángel Herrera Oria es la figura que da nombre a la estación de Metro y describe la tematización biográfica instalada en 2023."
+    },
+    {
+      "title": "Ángel Herrera Oria - Historia Hispánica, Real Academia de la Historia",
+      "url": "https://historia-hispanica.rah.es/biografias/22762-angel-herrera-oria",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Herrera Oria's dates, professions, public roles, and status as cardinal and Bishop of Málaga.",
+      "relevance_es": "Referencia biográfica autorizada para las fechas, profesiones, cargos públicos y condición de cardenal y obispo de Málaga de Herrera Oria."
+    },
+    {
+      "title": "Biografía del Card. Herrera Oria - Fundación Pablo VI",
+      "url": "https://www.fpablovi.org/herreraoria-biografia",
+      "type": "official",
+      "relevance_en": "Detailed institutional biography giving dates for El Debate, the journalism school, priestly ordination, appointment as Bishop of Málaga, cardinalate, Fundación Pablo VI, and death.",
+      "relevance_es": "Biografía institucional detallada con fechas sobre El Debate, la escuela de periodismo, la ordenación sacerdotal, el nombramiento como obispo de Málaga, el cardenalato, la Fundación Pablo VI y su fallecimiento."
+    },
+    {
+      "title": "Ángel Herrera Oria - Asociación Católica de Propagandistas",
+      "url": "https://www.acdp.es/angel-herrera-oria/",
+      "type": "official",
+      "relevance_en": "Institutional biography from the organization Herrera Oria led; useful for the corrected birth-order detail and his Catholic social and educational institutions.",
+      "relevance_es": "Biografía institucional de la organización que dirigió Herrera Oria; útil para corregir el orden de nacimiento y para sus instituciones católicas sociales y educativas."
+    },
+    {
+      "title": "datos.bne.es: Ángel Herrera Oria",
+      "url": "https://datos.bne.es/persona/XX968808.html",
+      "type": "reference",
+      "relevance_en": "National Library authority record confirming variant names, dates, works, and the RAH summary of his roles.",
+      "relevance_es": "Registro de autoridad de la Biblioteca Nacional que confirma variantes del nombre, fechas, obras y el resumen de la RAH sobre sus cargos."
+    },
+    {
+      "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Transport chronology confirming Herrera Oria opened on 3 June 1983 on Line 9b and was integrated into Line 9 on 24 February 1986.",
+      "relevance_es": "Cronología de transporte que confirma que Herrera Oria se inauguró el 3 de junio de 1983 en la línea 9b y se integró en la línea 9 el 24 de febrero de 1986."
+    },
+    {
+      "title": "Callejero Oficial. Ayuntamiento de Madrid, 15 de mayo de 2017",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid street index confirming Avenida del Cardenal Herrera Oria as a current street name in the station area.",
+      "relevance_es": "Callejero oficial de Madrid que confirma la avenida del Cardenal Herrera Oria como denominación viaria actual en el entorno de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that he was the thirteenth of fifteen children with the better-supported statement that he was the tenth of fifteen children; RAH and ACdP use this version.",
+      "es": "Sustituir la afirmación de que fue el decimotercero de quince hermanos por la versión mejor respaldada de que fue el décimo de quince; la RAH y la ACdP emplean esta formulación."
+    },
+    {
+      "en": "Avoid saying simply that he purchased El Debate in 1911; Fundación Pablo VI describes the purchase by Editorial Vizcaína and the newspaper being placed in the hands of the propagandists, with Herrera as director.",
+      "es": "Evitar decir sin matices que compró El Debate en 1911; la Fundación Pablo VI describe la compra por la Editorial Vizcaína y la entrega del periódico a los propagandistas, con Herrera como director."
+    },
+    {
+      "en": "The station source in the input includes an unofficial Metro information page that wrongly calls him José Herrera Oria; authoritative sources identify the namesake as Ángel Herrera Oria.",
+      "es": "La fuente de estación incluida en la entrada contiene una página no oficial sobre Metro que lo llama erróneamente José Herrera Oria; las fuentes autorizadas identifican al personaje como Ángel Herrera Oria."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact municipal naming date for Avenida del Cardenal Herrera Oria was not found in the accessible sources; a full Madrid street-naming file or council minutes could refine the chronology.",
+      "es": "No se ha localizado en las fuentes accesibles la fecha exacta de asignación municipal del nombre de la avenida del Cardenal Herrera Oria; un expediente completo del callejero o actas municipales podrían precisar la cronología."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_125/en/summary.short.md",
+      "summary": "content/stations/metro_125/en/summary.md",
+      "story": "content/stations/metro_125/en/story.md",
+      "confidence": "content/stations/metro_125/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_125/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_125/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_125/es/summary.short.md",
+      "summary": "content/stations/metro_125/es/summary.md",
+      "story": "content/stations/metro_125/es/story.md",
+      "confidence": "content/stations/metro_125/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_125/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_125/es/research-note.md"
+    }
+  }
+}

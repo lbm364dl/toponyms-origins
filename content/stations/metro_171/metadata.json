@@ -1,0 +1,111 @@
+{
+  "id": "metro_171",
+  "name": "Peñagrande",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Peñagrande neighbourhood/toponym, literally 'large natural rock' or 'large rocky hill'",
+  "previous_names": "No previous station name found. For the area: Casa de Beacos appears on an older map discussion; the colony began as Colonia El Porvenir-Fuente la Mina, with Peñagrande reportedly added in 1919.",
+  "naming_date": "29 March 1999 opening under the current station name; Peñagrande reportedly added to the colony name in 1919.",
+  "sources": [
+    {
+      "title": "CRTM - Peñagrande station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/penagrande?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name, Metro Line 7 connection, fare zone, accessibility and access points at Camino de Ganapanes.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, la correspondencia con la línea 7 de Metro, la zona tarifaria, la accesibilidad y los accesos en Camino de Ganapanes."
+    },
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 7 de Metro de Madrid. Tramo: Valdezarza-Pitis",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-valdezarza-pitis",
+      "type": "official",
+      "relevance_en": "Confirms the 29 March 1999 opening of the Valdezarza-Pitis extension, lists Peñagrande among the six stations, and explains that the project gave Metro access to Peñagrande and nearby neighbourhoods.",
+      "relevance_es": "Confirma la puesta en servicio de la prolongación Valdezarza-Pitis el 29 de marzo de 1999, incluye Peñagrande entre las seis estaciones y explica que el proyecto dio acceso al Metro a Peñagrande y barrios próximos."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - peña",
+      "url": "https://dle.rae.es/pe%C3%B1a",
+      "type": "reference",
+      "relevance_en": "Defines peña as a large natural unworked stone and also as a rocky hill, supporting the descriptive reading of the toponym.",
+      "relevance_es": "Define peña como piedra grande natural sin labrar y también como monte o cerro peñascoso, lo que respalda la lectura descriptiva del topónimo."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - grande",
+      "url": "https://dle.rae.es/grande",
+      "type": "reference",
+      "relevance_en": "Defines grande as something exceeding the ordinary in size, supporting the second element of the place name.",
+      "relevance_es": "Define grande como aquello que supera en tamaño lo común, respaldando el segundo elemento del topónimo."
+    },
+    {
+      "title": "Madrid Wiki - Barrio de Peñagrande Lacoma: Reseña histórica",
+      "url": "https://madridwiki.tumblr.com/post/37777633891/barrio-de-pe%C3%B1agrande-lacoma-rese%C3%B1a-hist%C3%B3rica",
+      "type": "other",
+      "relevance_en": "Detailed local-history account for the area: mentions older Beacos mapping, the 1914 origin of the colony, the 1919 addition of Peñagrande, the 1932 tram, and the development around Joaquín Lorenzo.",
+      "relevance_es": "Reseña detallada de historia local: menciona la cartografía antigua de Beacos, el origen de la colonia en 1914, la adición de Peñagrande en 1919, el tranvía de 1932 y el desarrollo en torno a Joaquín Lorenzo."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Jardín de Peñachica, la zona verde de Fuencarral-El Pardo que recuerda la barriada de los años 40",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Todas-las-noticias/Jardin-de-Penachica-la-zona-verde-de-Fuencarral-El-Pardo-que-recuerda-la-barriada-de-los-anos-40/?vgnextchannel=e40362215c483510VgnVCM2000001f4a900aRCRD&vgnextfmt=default&vgnextoid=28ab0fd07ffba610VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Provides official municipal context for nearby Peñachica and states that it disappeared with the transformation of Peñagrande, useful for understanding local naming and urban change.",
+      "relevance_es": "Aporta contexto municipal oficial sobre la cercana Peñachica y señala que desapareció con la transformación de Peñagrande, útil para entender la toponimia local y el cambio urbano."
+    },
+    {
+      "title": "Fuencarral-El Pardo.com - Peñagrande, el barrio olvidado",
+      "url": "https://fuencarralelpardo.com/2013/07/10/penagrande-el-barrio-olvidado/",
+      "type": "press",
+      "relevance_en": "Local article supporting the 1914 Colonia El Porvenir-Fuente la Mina origin, mid-century development and the older Carretera de la Playa / Camino de la Cruz del Cura context.",
+      "relevance_es": "Artículo local que respalda el origen de 1914 como Colonia El Porvenir-Fuente la Mina, el desarrollo de mediados del siglo XX y el contexto de la antigua Carretera de la Playa / Camino de la Cruz del Cura."
+    },
+    {
+      "title": "FCMAF - Red de Metro y Metro Ligero de la Comunidad de Madrid",
+      "url": "https://fcmaf.es/Publicaciones/Metro_Madrid.pdf",
+      "type": "reference",
+      "relevance_en": "Chronological reference listing the 29 March 1999 inauguration of the Line 7 Valdezarza-Pitis section, including Antonio Machado, Peñagrande, Avenida de la Ilustración, Lacoma, Arroyo Fresno and Pitis.",
+      "relevance_es": "Referencia cronológica que enumera la inauguración del tramo Valdezarza-Pitis de la línea 7 el 29 de marzo de 1999, con Antonio Machado, Peñagrande, Avenida de la Ilustración, Lacoma, Arroyo Fresno y Pitis."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade the claim from verified to probable unless a direct historical source for the specific landmark rock is found.",
+      "es": "Rebajar la afirmación de verificada a probable salvo que se encuentre una fuente histórica directa sobre la roca concreta usada como hito."
+    },
+    {
+      "en": "Keep the 1914 Colonia El Porvenir-Fuente la Mina context, but note that one detailed local-history source says Peñagrande was added to the colony name in 1919.",
+      "es": "Mantener el contexto de la Colonia El Porvenir-Fuente la Mina de 1914, pero señalar que una fuente detallada de historia local dice que Peñagrande se añadió al nombre de la colonia en 1919."
+    },
+    {
+      "en": "For the station itself, no former Metro name was found; older names relate to the place or colony, not to a renamed station.",
+      "es": "Para la estación en sí no se encontró un nombre anterior de Metro; los nombres antiguos corresponden al lugar o a la colonia, no a una estación renombrada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect older cadastral maps, IGN sheets, municipal planning files or the original 1914 press item to see whether they identify a specific Peña Grande feature.",
+      "es": "Revisar planos catastrales antiguos, hojas del IGN, expedientes urbanísticos municipales o la noticia original de 1914 para comprobar si identifican una Peña Grande concreta."
+    },
+    {
+      "en": "Check whether the official Callejero de Madrid or district archives contain a formal file explaining the neighbourhood name.",
+      "es": "Comprobar si el Callejero Oficial de Madrid o los archivos del distrito conservan un expediente formal que explique el nombre del barrio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_171/en/summary.short.md",
+      "summary": "content/stations/metro_171/en/summary.md",
+      "story": "content/stations/metro_171/en/story.md",
+      "confidence": "content/stations/metro_171/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_171/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_171/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_171/es/summary.short.md",
+      "summary": "content/stations/metro_171/es/summary.md",
+      "story": "content/stations/metro_171/es/story.md",
+      "confidence": "content/stations/metro_171/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_171/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_171/es/research-note.md"
+    }
+  }
+}

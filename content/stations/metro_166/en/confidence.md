@@ -1,0 +1,1 @@
+Official transport sources identify Alameda de Osuna as a Line 5 station and document the Canillejas-Alameda de Osuna extension entering service on 24 November 2006. Madrid City Council sources directly explain that the area came to be known as Alameda de Osuna in relation to the historic aristocratic landscape around La Alameda, the dukes of Osuna and El Capricho.

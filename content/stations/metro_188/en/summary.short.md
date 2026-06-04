@@ -1,0 +1,1 @@
+The station is named for Avenida de la Ilustración, the north-western M-30 avenue opened in 1992. The avenue’s name points to the Enlightenment, a movement associated with reason, progress and reform.

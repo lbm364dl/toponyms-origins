@@ -1,0 +1,1 @@
+La estación de Jarama toma su nombre del río Jarama, el gran eje fluvial norte-sur del este madrileño y una referencia histórica para San Fernando de Henares. El origen del hidrónimo es incierto; la toponimia especializada actual prefiere una relación prudente con fitónimos como jaramago/saramago antes que una raíz fluvial antigua segura.

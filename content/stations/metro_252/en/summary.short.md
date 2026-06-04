@@ -1,0 +1,1 @@
+La Almudena station is named for the nearby Cemetery of Our Lady of Almudena, which in turn takes its name from Madrid's patron Virgin. The word Almudena is usually explained from Arabic al-mudayna, 'the citadel' or walled enclosure of early Madrid.

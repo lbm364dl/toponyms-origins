@@ -1,0 +1,1 @@
+La denominación por la zona local de Manoteras está confirmada por fuentes de transporte y locales, y la referencia de 1807 a Las Manoteras se repite en historias municipales y vecinales. La confianza baja de verificada porque no se pudo consultar directamente la entrada exacta del diccionario de Emilio Nieto Ballester ni el anuncio original de subasta de 1807.

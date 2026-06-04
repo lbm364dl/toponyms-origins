@@ -1,0 +1,1 @@
+La estación de Buenos Aires toma su nombre de la avenida de Buenos Aires, en Puente de Vallecas. El nombre remite a la capital argentina, aunque en la zona ya se documenta un topónimo Buenos Aires en 1880.

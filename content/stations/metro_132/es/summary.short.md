@@ -1,0 +1,1 @@
+La estación de Quintana toma su nombre de la plaza de Quintana, donde se sitúa en Ciudad Lineal. El origen más profundo probablemente está en el antiguo topónimo Barrio o Quinta de la Quintana, no en una dedicatoria documentada con seguridad al poeta Manuel José Quintana.

@@ -1,0 +1,1 @@
+Villaverde Bajo-Cruce is named for the Villaverde Bajo area and for El Cruce, the road and bus interchange around the junction of Avenida de Andalucía with the Villaverde-Vallecas road. Behind the name is the older Villaverde toponym, a transparent 'green village/town' formation, and a railway landscape that made this corner of southern Madrid a strategic junction.

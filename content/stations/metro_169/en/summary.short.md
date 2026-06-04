@@ -1,0 +1,1 @@
+Lacoma takes its name from the nearby Colonia Lacoma, linked to Margarita Gonzalez Lacoma, a fashion and property entrepreneur. The station opened on Line 7 on 29 March 1999, when Metro reached this north-western edge of Madrid.

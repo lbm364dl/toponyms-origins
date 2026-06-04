@@ -1,0 +1,107 @@
+{
+  "id": "metro_138",
+  "name": "Pueblo Nuevo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Pueblo Nuevo neighbourhood, Ciudad Lineal, Madrid",
+  "previous_names": "",
+  "naming_date": "1964",
+  "sources": [
+    {
+      "title": "Pueblo Nuevo - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_78/?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current station as a Metro interchange on lines 5 and 7, with access points on Calle de Alcalá.",
+      "relevance_es": "Confirma la estación actual como correspondencia de Metro en las líneas 5 y 7, con accesos en la calle de Alcalá."
+    },
+    {
+      "title": "Estación de Pueblo Nuevo - memoriademadrid",
+      "url": "https://www.memoriademadrid.es/view/399577/estacion-de-pueblo-nuevo",
+      "type": "archive",
+      "relevance_en": "Uses Metro de Madrid photographic archive material and quotes the 1974 Metro management report about the inauguration of Line 7 between Las Musas and Pueblo Nuevo.",
+      "relevance_es": "Utiliza material del archivo fotográfico de Metro de Madrid y cita la memoria de gestión de 1974 sobre la inauguración de la línea 7 entre Las Musas y Pueblo Nuevo."
+    },
+    {
+      "title": "Plano Histórico de la Red de Metro de Madrid 1919-2009 - CRTM",
+      "url": "https://www.crtm.es/media/161808/metro_historico_plano.pdf",
+      "type": "official",
+      "relevance_en": "Places Pueblo Nuevo on the historical Metro network and documents the 1970 and 1974 network chronology around lines 5 and 7.",
+      "relevance_es": "Sitúa Pueblo Nuevo en la red histórica de Metro y documenta la cronología de 1970 y 1974 en torno a las líneas 5 y 7."
+    },
+    {
+      "title": "Seccionado censal - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Estadistica/Areas-de-informacion-estadistica/Territorio-y-medio-ambiente/Territorio/Seccionado-censal/?vgnextchannel=e59b40ebd232a210VgnVCM1000000b205a0aRCRD&vgnextoid=c13456bc06f59210VgnVCM2000000c205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Provides the official municipal context for Madrid’s current administrative division and links to the current division of districts and barrios.",
+      "relevance_es": "Aporta el contexto municipal oficial de la división administrativa vigente de Madrid y enlaza con la división actual de distritos y barrios."
+    },
+    {
+      "title": "Pueblos anexionados - Archivo de Villa de Madrid",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Bibliotecas/BibliotecasEspecializadas/ArchivoDeVilla/Servicios/Padrones/Padrones%20pueblos%20anexionados.pdf",
+      "type": "official",
+      "relevance_en": "Gives annexation dates for former municipalities relevant to the area: Canillas and Canillejas on 30 March 1950, and Vicálvaro on 20 October 1951.",
+      "relevance_es": "Da fechas de anexión de antiguos municipios relevantes para la zona: Canillas y Canillejas el 30 de marzo de 1950, y Vicálvaro el 20 de octubre de 1951."
+    },
+    {
+      "title": "Territorio e historia rural del Distrito: Ciudad Lineal, antes de Ciudad Lineal",
+      "url": "https://oa.upm.es/12327/1/INVE_MEM_2011_111751.pdf",
+      "type": "academic",
+      "relevance_en": "Explains the rural and municipal history of the present Ciudad Lineal district, including Pueblo Nuevo, and its agricultural landscape before urbanization.",
+      "relevance_es": "Explica la historia rural y municipal del actual distrito de Ciudad Lineal, incluido Pueblo Nuevo, y su paisaje agrario anterior a la urbanización."
+    },
+    {
+      "title": "Historias matritenses: Ciudad Lineal, Pueblo Nuevo and Concepción local-history entry",
+      "url": "https://historias-matritenses.blogspot.com/2011/03/",
+      "type": "other",
+      "relevance_en": "Secondary local-history source that explicitly mentions references to 'Pueblo Nuevo de la Concepción' in 1860 and the later predominance of the shorter name around 1925.",
+      "relevance_es": "Fuente secundaria de historia local que menciona expresamente referencias a 'Pueblo Nuevo de la Concepción' en 1860 y el posterior predominio de la forma abreviada hacia 1925."
+    },
+    {
+      "title": "Ventas-Ciudad Lineal en el recuerdo: la otra historia contada por los vecinos - Luis Puicercús Vázquez",
+      "url": "https://www.casadellibro.com/libro-ventas-ciudad-lineal-en-el-recuerdo-la-otra-historia-contada-por-los-vecinos/9788482180519/1034733",
+      "type": "book",
+      "relevance_en": "Bibliographic cue for a local-history book repeatedly cited by online accounts of Pueblo Nuevo and Ciudad Lineal; I could identify it but not inspect the relevant pages directly.",
+      "relevance_es": "Referencia bibliográfica de una obra de historia local citada repetidamente en relatos en línea sobre Pueblo Nuevo y Ciudad Lineal; pude identificarla, pero no consultar directamente las páginas relevantes."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state simply that the area remained in Canillas, Canillejas and Vicálvaro until annexation in 1951: Archivo de Villa material gives Canillas and Canillejas as annexed on 30 March 1950, and Vicálvaro on 20 October 1951.",
+      "es": "No debe afirmarse sin matices que la zona permaneció en Canillas, Canillejas y Vicálvaro hasta la anexión en 1951: la documentación del Archivo de Villa da Canillas y Canillejas como anexionados el 30 de marzo de 1950, y Vicálvaro el 20 de octubre de 1951."
+    },
+    {
+      "en": "The Colonia Agrícola de la Purísima Concepción claim should be phrased cautiously because accessible sources tie that name especially to the neighbouring Concepción area and to shared district origins, not exclusively to the modern Pueblo Nuevo barrio.",
+      "es": "La referencia a la Colonia Agrícola de la Purísima Concepción debe formularse con cautela, porque las fuentes accesibles vinculan ese nombre especialmente al ámbito vecino de la Concepción y a un origen común del distrito, no exclusivamente al barrio administrativo actual de Pueblo Nuevo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect nineteenth-century municipal, cadastral or press records for the exact first attestation of 'Pueblo Nuevo de la Concepción' and the claimed 1860 date.",
+      "es": "Revisar documentación municipal, catastral o hemerográfica del siglo XIX para localizar la primera aparición exacta de 'Pueblo Nuevo de la Concepción' y comprobar la fecha de 1860."
+    },
+    {
+      "en": "Consult Luis Puicercús Vázquez, Ventas-Ciudad Lineal en el recuerdo, to verify the detailed account of the agricultural colony, market-garden activity and the shortening of the name by about 1925.",
+      "es": "Consultar Luis Puicercús Vázquez, Ventas-Ciudad Lineal en el recuerdo, para verificar el relato detallado de la colonia agrícola, las huertas de abastecimiento y la abreviación del nombre hacia 1925."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_138/en/summary.short.md",
+      "summary": "content/stations/metro_138/en/summary.md",
+      "story": "content/stations/metro_138/en/story.md",
+      "confidence": "content/stations/metro_138/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_138/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_138/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_138/es/summary.short.md",
+      "summary": "content/stations/metro_138/es/summary.md",
+      "story": "content/stations/metro_138/es/story.md",
+      "confidence": "content/stations/metro_138/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_138/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_138/es/research-note.md"
+    }
+  }
+}

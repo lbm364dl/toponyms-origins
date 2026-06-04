@@ -1,0 +1,1 @@
+García Noblejas is named from the nearby Calle de los Hermanos García Noblejas, commemorating members of the García-Noblejas Brunet family linked to Falange/Carlist politics and the Civil War. The street name was briefly replaced by Avenida de la Institución Libre de Enseñanza, but the station kept García Noblejas.

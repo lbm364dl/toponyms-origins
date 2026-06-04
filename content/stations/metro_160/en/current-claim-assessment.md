@@ -1,0 +1,1 @@
+The station is correctly linked to the local Santa María/Parque de Santa María area in Hortaleza, but the claim that the area takes its name from the parish is not proven by the sources found and may reverse the likely relationship.

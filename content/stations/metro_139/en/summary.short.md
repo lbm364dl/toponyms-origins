@@ -1,0 +1,1 @@
+Pinar del Rey takes its name from the surrounding Hortaleza neighbourhood and historic pine grove. The best-supported origin is not a Crown-owned forest, but a 26 March 1896 Fiesta del Árbol on the Cerro del Centinela, where a tree intended for Alfonso XIII was planted by the infantas on his behalf.

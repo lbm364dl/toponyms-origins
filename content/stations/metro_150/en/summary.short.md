@@ -1,0 +1,1 @@
+Rivas Vaciamadrid station is named for the municipality of Rivas-Vaciamadrid, historically formed from Ribas/Rivas de Jarama and Vaciamadrid. The second element is a debated Arabic-derived Madrid toponym, best documented by Jaime Oliver Asín as evolving from Fahs Mayrit through medieval forms and later folk etymology.

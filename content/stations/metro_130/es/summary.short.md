@@ -1,0 +1,1 @@
+Suanzes toma su nombre de Juan Antonio Suanzes Fernández (1891-1977), ingeniero naval, ministro durante el franquismo y primer presidente del Instituto Nacional de Industria. La estación abrió con este nombre el 18 de enero de 1980, junto al entorno de la Quinta de los Molinos.

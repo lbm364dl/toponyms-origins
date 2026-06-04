@@ -1,0 +1,111 @@
+{
+  "id": "metro_251",
+  "name": "Alsacia",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Plaza de Alsacia; ultimately Alsace, the historic Rhine region now in France",
+  "previous_names": "",
+  "naming_date": "2011-03-16",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid: Prolongación de la Línea 2 a Las Rosas",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-2-rosas",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the Line 2 extension, the 16 March 2011 service date, and the four new stations, including Alsacia.",
+      "relevance_es": "Página oficial regional de transportes que confirma la prolongación de la línea 2, la puesta en servicio el 16 de marzo de 2011 y las cuatro nuevas estaciones, incluida Alsacia."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: La Línea 2 de Metro ya llega a Las Rosas",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/La-Linea-2-de-Metro-ya-llega-a-Las-Rosas/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=0cfdd1c735ebe210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal press release from 16 March 2011 confirming the inauguration of the Line 2 extension and naming Alsacia among the new stations.",
+      "relevance_es": "Nota de prensa municipal del 16 de marzo de 2011 que confirma la inauguración de la prolongación de la línea 2 y menciona Alsacia entre las nuevas estaciones."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: El intercambiador de Plaza de Alsacia entra en funcionamiento",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/El-intercambiador-de-Plaza-de-Alsacia-entra-en-funcionamiento/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=05db1ea087ebe210VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Confirms that the intermodal area at Plaza de Alsacia opened with the Metro extension and locates it among Hermanos García Noblejas, Fuente Carrantona, Aquitania, Nicolás Salmerón and Avenida de Guadalajara.",
+      "relevance_es": "Confirma que el área intermodal de la plaza de Alsacia entró en servicio con la ampliación del Metro y la sitúa entre Hermanos García Noblejas, Fuente Carrantona, Aquitania, Nicolás Salmerón y avenida de Guadalajara."
+    },
+    {
+      "title": "BOCM, 15 April 2010: Plan Especial de definición del área intermodal en las proximidades de la nueva estación de la línea 2 de metro en la plaza de Alsacia",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2010/04/15/BOCM-20100415-84.PDF",
+      "type": "official",
+      "relevance_en": "Official notice showing that before opening, planning documents already described the future Line 2 station as being in Plaza de Alsacia.",
+      "relevance_es": "Anuncio oficial que muestra que, antes de la apertura, la documentación urbanística ya describía la futura estación de la línea 2 como situada en la plaza de Alsacia."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Callejero Oficial 2016",
+      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "type": "official",
+      "relevance_en": "Official street index listing Plaza de Alsacia in San Blas-Canillejas and describing its endpoints, supporting the plaza as an official Madrid toponym.",
+      "relevance_es": "Callejero oficial que incluye la plaza de Alsacia en San Blas-Canillejas y describe sus extremos, lo que respalda la plaza como topónimo oficial de Madrid."
+    },
+    {
+      "title": "Encyclopaedia Britannica: Alsace",
+      "url": "https://www.britannica.com/place/Alsace",
+      "type": "reference",
+      "relevance_en": "Provides authoritative background on Alsace’s geography and history, including Westphalia, French consolidation and later German annexation.",
+      "relevance_es": "Aporta contexto autorizado sobre la geografía y la historia de Alsacia, incluida Westfalia, la consolidación francesa y la posterior anexión alemana."
+    },
+    {
+      "title": "Encyclopaedia Britannica: Alsace-Lorraine",
+      "url": "https://www.britannica.com/place/Alsace-Lorraine",
+      "type": "reference",
+      "relevance_en": "Summarizes the 1871 cession to Germany, the 1919 return to France, the 1940 German takeover and the 1945 restoration to France.",
+      "relevance_es": "Resume la cesión a Alemania en 1871, el retorno a Francia en 1919, la incorporación alemana de 1940 y la restitución a Francia en 1945."
+    },
+    {
+      "title": "France Diplomatie: The Elysée Treaty in six questions",
+      "url": "https://www.diplomatie.gouv.fr/en/the-ministry-in-action/ensuring-the-presence-of-french-culture/franco-german-cooperation/the-elysee-treaty-in-six-questions",
+      "type": "official",
+      "relevance_en": "Official French diplomatic source describing the 1963 Elysée Treaty as a symbol of Franco-German reconciliation and cooperation for European integration.",
+      "relevance_es": "Fuente oficial de la diplomacia francesa que describe el Tratado del Elíseo de 1963 como símbolo de reconciliación franco-alemana y cooperación para la integración europea."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not say without qualification that Alsace was French from 1648; Westphalia gave France important rights or control in much of Alsace, while full consolidation, including Strasbourg, came later.",
+      "es": "No conviene decir sin matices que Alsacia fue francesa desde 1648; Westfalia dio a Francia derechos o control importantes en buena parte de Alsacia, pero la consolidación completa, incluida Estrasburgo, llegó después."
+    },
+    {
+      "en": "The station is directly named after Plaza de Alsacia, not directly after the historical region by a documented Metro naming act.",
+      "es": "La estación toma directamente el nombre de la plaza de Alsacia, no directamente de la región histórica mediante un acto de denominación del Metro documentado."
+    },
+    {
+      "en": "The European-geography street cluster and reconciliation symbolism should be described as contextual interpretation unless a municipal naming record is found.",
+      "es": "El conjunto de calles de geografía europea y el simbolismo de reconciliación deben describirse como interpretación contextual salvo que aparezca un expediente municipal de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Find the original Ayuntamiento de Madrid street-naming file or plenary agreement for Plaza de Alsacia to confirm the exact date and official rationale.",
+      "es": "Localizar el expediente original o acuerdo plenario del Ayuntamiento de Madrid sobre la plaza de Alsacia para confirmar la fecha exacta y la motivación oficial."
+    },
+    {
+      "en": "Check historical municipal street atlases or BOAM/AVM records to determine whether Plaza de Alsacia had any earlier local name before the modern urbanization.",
+      "es": "Revisar callejeros históricos municipales o fondos del BOAM/Archivo de Villa para determinar si la plaza de Alsacia tuvo algún nombre local anterior antes de la urbanización moderna."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_251/en/summary.short.md",
+      "summary": "content/stations/metro_251/en/summary.md",
+      "story": "content/stations/metro_251/en/story.md",
+      "confidence": "content/stations/metro_251/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_251/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_251/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_251/es/summary.short.md",
+      "summary": "content/stations/metro_251/es/summary.md",
+      "story": "content/stations/metro_251/es/story.md",
+      "confidence": "content/stations/metro_251/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_251/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_251/es/research-note.md"
+    }
+  }
+}

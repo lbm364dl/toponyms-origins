@@ -1,0 +1,104 @@
+{
+  "id": "metro_250",
+  "name": "Avenida de Guadalajara",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Avenida de Guadalajara; ultimately Guadalajara, Spain",
+  "previous_names": "",
+  "naming_date": "2011-03-16",
+  "sources": [
+    {
+      "title": "Memoria de Madrid: Estación de Avenida de Guadalajara",
+      "url": "https://www.memoriademadrid.es/view/568517/estacion-de-avenida-de-guadalajara",
+      "type": "official",
+      "relevance_en": "Documents the station as built in 2011, located under the junction of Avenida de Guadalajara and Avenida de Canillejas a Vicálvaro, and explicitly says it takes its name from Avenida de Guadalajara.",
+      "relevance_es": "Documenta la estación como construida en 2011, situada bajo la confluencia de la Avenida de Guadalajara con la Avenida de Canillejas a Vicálvaro, y afirma expresamente que toma el nombre de la Avenida de Guadalajara."
+    },
+    {
+      "title": "Comunidad de Madrid: Prolongación de la Línea 2 a Las Rosas",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-2-rosas",
+      "type": "official",
+      "relevance_en": "Official project source for the Line 2 extension; describes the Avenida de Guadalajara station as located on the avenue of the same name and gives the 16 March 2011 opening of the extension.",
+      "relevance_es": "Fuente oficial del proyecto de prolongación de la línea 2; describe la estación Avenida de Guadalajara como situada en la avenida homónima y da la puesta en servicio de la prolongación el 16 de marzo de 2011."
+    },
+    {
+      "title": "CRTM: Avenida de Guadalajara",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_324?lang=en",
+      "type": "official",
+      "relevance_en": "Current transport authority page confirming the station name, Line 2 connection, access at Avenida de Guadalajara 110, and public transport interchange context.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que confirma el nombre de la estación, la conexión con la línea 2, el acceso en Avenida de Guadalajara 110 y su contexto de intercambio con otros transportes."
+    },
+    {
+      "title": "Tesauros del Patrimonio Cultural de España: Guadalfayara",
+      "url": "https://tesauros.cultura.gob.es/tesauros/toponimiahistorica/1217257",
+      "type": "reference",
+      "relevance_en": "Authoritative historical toponymy entry stating that the Arabic toponym Wadi-I-Hiyara is the source of the Romance and current name Guadalajara, with the current form documented by 1341.",
+      "relevance_es": "Entrada autorizada de toponimia histórica que señala que el topónimo árabe Wadi-I-Hiyara dio lugar al nombre romance y actual Guadalajara, con la forma actual documentada ya en 1341."
+    },
+    {
+      "title": "Turismo Guadalajara: Historia",
+      "url": "https://turismo.guadalajara.es/es/descubre-guadalajara/historia/",
+      "type": "official",
+      "relevance_en": "Municipal tourism history explaining that Guadalajara was known as Madinat al-Faray and Wad al-Hayara, and linking the latter to the pre-Roman name Arriaca; also confirms incorporation into Castile in 1085.",
+      "relevance_es": "Historia turística municipal que explica que Guadalajara fue conocida como Madinat al-Faray y Wad al-Hayara, y vincula esta última forma con el nombre prerromano Arriaca; también confirma su incorporación a Castilla en 1085."
+    },
+    {
+      "title": "Museo de Guadalajara - Arquitectura museos, Ministerio de Cultura",
+      "url": "https://www.cultura.gob.es/cultura/areas/museos/mc/arquitectura-museos/mapa-museos/museosguadalajara/museo-guadalajara0.html",
+      "type": "official",
+      "relevance_en": "Useful for assessing the input's extra context on the Palacio del Infantado: it confirms Civil War bombing damage and restoration from 1961, but this is cultural context rather than the station's etymology.",
+      "relevance_es": "Sirve para valorar el contexto adicional del registro sobre el Palacio del Infantado: confirma los daños por bombardeo durante la Guerra Civil y la restauración desde 1961, aunque se trata de contexto cultural y no de la etimología de la estación."
+    },
+    {
+      "title": "Encyclopaedia Britannica: Guadalajara, Spain",
+      "url": "https://www.britannica.com/place/Guadalajara-Spain",
+      "type": "reference",
+      "relevance_en": "Independent reference confirming Guadalajara's location on the Henares, its older name Arriaca, the Arabic derivation Wadi al-Hijarah, and the meaning 'River of Stones'.",
+      "relevance_es": "Referencia independiente que confirma la ubicación de Guadalajara junto al Henares, su antiguo nombre Arriaca, la derivación árabe Wadi al-Hijarah y el significado 'río de piedras'."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Describe the station as named directly after Avenida de Guadalajara; the city of Guadalajara is the ultimate referent, not the immediate naming object.",
+      "es": "Conviene describir la estación como llamada directamente por la Avenida de Guadalajara; la ciudad de Guadalajara es el referente último, no el objeto inmediato de denominación."
+    },
+    {
+      "en": "Do not state as verified that Avenida de Guadalajara is the major road leading to the city of Guadalajara; the strongest sources found only support that it is the avenue where the station is located.",
+      "es": "No debe afirmarse como verificado que la Avenida de Guadalajara sea la vía principal hacia la ciudad de Guadalajara; las fuentes más sólidas encontradas solo prueban que es la avenida donde se ubica la estación."
+    },
+    {
+      "en": "The station is documented as serving the Arcos neighbourhood in the district of San Blas-Canillejas, not Canillejas.",
+      "es": "La estación aparece documentada como servicio al barrio de Arcos, en el distrito de San Blas-Canillejas, no a Canillejas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming file or BOAM record for Avenida de Guadalajara was not found; it would be useful to confirm when the avenue itself received this name.",
+      "es": "No se localizó un expediente municipal de denominación ni un registro del BOAM para la Avenida de Guadalajara; sería útil confirmar cuándo recibió ese nombre la propia avenida."
+    },
+    {
+      "en": "The Arabic form is found in several scholarly and public transcriptions, including Wad al-Hayara, Wadi al-Hiyara and Wadi al-Hijara; a specialist Arabic toponymy source could refine the preferred transliteration.",
+      "es": "La forma árabe aparece en varias transcripciones académicas y divulgativas, como Wad al-Hayara, Wadi al-Hiyara y Wadi al-Hijara; una fuente especializada en toponimia árabe podría precisar la transliteración preferente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_250/en/summary.short.md",
+      "summary": "content/stations/metro_250/en/summary.md",
+      "story": "content/stations/metro_250/en/story.md",
+      "confidence": "content/stations/metro_250/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_250/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_250/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_250/es/summary.short.md",
+      "summary": "content/stations/metro_250/es/summary.md",
+      "story": "content/stations/metro_250/es/story.md",
+      "confidence": "content/stations/metro_250/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_250/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_250/es/research-note.md"
+    }
+  }
+}

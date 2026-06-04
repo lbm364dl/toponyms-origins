@@ -1,0 +1,104 @@
+{
+  "id": "metro_147",
+  "name": "Valdezarza",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Valdezarza neighbourhood, probably from 'val de zarza' ('bramble valley')",
+  "previous_names": "",
+  "naming_date": "1999-02-12",
+  "sources": [
+    {
+      "title": "Comunidad de Madrid - Prolongación de la Línea 7 de Metro de Madrid. Tramo: Canal-Valdezarza",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-canal-valdezarza",
+      "type": "official",
+      "relevance_en": "Official regional infrastructure page confirming the Canal-Valdezarza extension, its opening date of 12 February 1999, the creation of Valdezarza station, its accesses, and its role serving the residential neighbourhood of Valdezarza.",
+      "relevance_es": "Página oficial regional de infraestructuras que confirma la ampliación Canal-Valdezarza, su puesta en servicio el 12 de febrero de 1999, la creación de la estación de Valdezarza, sus accesos y su función de servicio al barrio residencial de Valdezarza."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Distritos y barrios: Moncloa-Aravaca",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moncloa-Aravaca/Distritos-y-barrios/?vgnextchannel=e9a3ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextoid=5a86befb3fd31810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Official municipal listing that identifies Valdezarza as Barrio 94 in the district of Moncloa-Aravaca.",
+      "relevance_es": "Listado municipal oficial que identifica Valdezarza como Barrio 94 del distrito de Moncloa-Aravaca."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Moncloa-Aravaca: Datos históricos",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moncloa-Aravaca/Moncloa-Aravaca/?vgnextchannel=e9a3ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=2e47d639340b8010VgnVCM100000dc0ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Official district history giving urban context for Moncloa-Aravaca and naming Valdezarza among later mass-housing operations on the edges of Tetuán.",
+      "relevance_es": "Historia oficial del distrito que aporta contexto urbano para Moncloa-Aravaca y cita Valdezarza entre las operaciones posteriores de vivienda masiva en los bordes de Tetuán."
+    },
+    {
+      "title": "Ayuntamiento de Madrid - Madrid Recupera: Colonia Valdezarza",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/EstrategiaRegenaracionUrbana/FicherosDistritos/AF09MoncloaAravaca.pdf",
+      "type": "official",
+      "relevance_en": "Municipal regeneration document describing Colonia Valdezarza as a dense residential area shaped by Madrid's developmental-period housing and difficult topography.",
+      "relevance_es": "Documento municipal de regeneración que describe la Colonia Valdezarza como un entorno residencial denso marcado por la vivienda del desarrollismo madrileño y una topografía abrupta."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - val",
+      "url": "https://dle.rae.es/val",
+      "type": "reference",
+      "relevance_en": "Confirms val as an apocopated form of valle, supporting the first element of the proposed place-name analysis.",
+      "relevance_es": "Confirma val como apócope de valle, lo que respalda el primer elemento del análisis propuesto del topónimo."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - zarza",
+      "url": "https://dle.rae.es/zarza",
+      "type": "reference",
+      "relevance_en": "Defines zarza as a bramble or thorny shrub and gives its origin as older sarza, a word of pre-Roman origin.",
+      "relevance_es": "Define zarza como arbusto espinoso o zarzamora y da su origen en el antiguo sarza, voz de origen prerromano."
+    },
+    {
+      "title": "Joan Corominas / Diccionario crítico etimológico castellano e hispánico - zarza",
+      "url": "https://bibliamedieval.es/bibliateca.es/corominas/DATA/HTML/zarza.html",
+      "type": "reference",
+      "relevance_en": "Provides a fuller etymological discussion of zarza, including older sarça, pre-Roman origin, and a probable relationship with dialectal Basque sartzi/sasi, while also noting uncertainty.",
+      "relevance_es": "Aporta una explicación etimológica más amplia de zarza, con el antiguo sarça, el origen prerromano y una probable relación con el vasco dialectal sartzi/sasi, señalando también la incertidumbre."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change confidence from verified to probable for the deeper etymology, because the sources verify the station-neighbourhood link but not a direct historical gloss of the Madrid toponym.",
+      "es": "Cambiar la confianza de verificada a probable para la etimología profunda, porque las fuentes verifican la relación estación-barrio pero no una glosa histórica directa del topónimo madrileño."
+    },
+    {
+      "en": "Replace the unsupported Basque form 'zarizi' with the better-attested Corominas discussion of dialectal Basque sartzi/sasi, or omit the Basque comparison in short public copy.",
+      "es": "Sustituir la forma vasca no documentada 'zarizi' por la explicación mejor atestiguada de Corominas sobre el vasco dialectal sartzi/sasi, o suprimir la comparación vasca en textos públicos breves."
+    },
+    {
+      "en": "Nuance the urbanisation claim: official district history points to major housing operations including Valdezarza from around 1970, while recent municipal material says the colony's buildings are more than sixty years old.",
+      "es": "Matizar la afirmación sobre la urbanización: la historia oficial del distrito sitúa operaciones de vivienda masiva, incluida Valdezarza, desde alrededor de 1970, mientras que material municipal reciente indica que la colonia tiene edificios de más de sesenta años."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Madrid-specific toponymy source, cadastral history, or older map should be inspected to document the earliest appearance and spelling of Valdezarza in this exact area.",
+      "es": "Convendría consultar una fuente toponímica específica de Madrid, documentación catastral o cartografía antigua para documentar la primera aparición y grafía de Valdezarza en esta zona concreta."
+    },
+    {
+      "en": "The formal act or internal Metro documentation assigning the station name was not found; the naming date is inferred from the station opening with that name on 12 February 1999.",
+      "es": "No se ha localizado el acto formal o la documentación interna de Metro que asignó el nombre de la estación; la fecha de denominación se infiere de su apertura con ese nombre el 12 de febrero de 1999."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_147/en/summary.short.md",
+      "summary": "content/stations/metro_147/en/summary.md",
+      "story": "content/stations/metro_147/en/story.md",
+      "confidence": "content/stations/metro_147/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_147/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_147/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_147/es/summary.short.md",
+      "summary": "content/stations/metro_147/es/summary.md",
+      "story": "content/stations/metro_147/es/story.md",
+      "confidence": "content/stations/metro_147/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_147/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_147/es/research-note.md"
+    }
+  }
+}

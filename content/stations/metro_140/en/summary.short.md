@@ -1,0 +1,1 @@
+Bambú takes its name from Calle del Bambú, the street where the station entrance stands in Chamartín. The street belongs to a small local cluster of plant names, including Yuca, Hiedra and Buganvilla.

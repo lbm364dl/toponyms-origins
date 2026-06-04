@@ -1,0 +1,1 @@
+The station-to-street origin is verified by transport and municipal sources. The Bilbao Askao origin is strongly supported by Auñamendi and Basque onomastic sources, but the specific Madrid municipal decision that named Calle de Ascao was not found, so the full chain should remain probable rather than fully verified.

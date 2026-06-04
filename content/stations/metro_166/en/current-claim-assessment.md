@@ -1,0 +1,1 @@
+The main claim is well supported: the station takes its name from the Alameda de Osuna neighbourhood, whose name is tied to the historic Alameda/El Capricho estate of the dukes of Osuna. Some wording should be tightened: 'alameda' can mean a tree-lined walk with poplars or other trees, and the 'influencer' label is modern journalistic phrasing rather than an etymological fact.

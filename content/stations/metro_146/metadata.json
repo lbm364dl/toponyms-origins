@@ -1,0 +1,100 @@
+{
+  "id": "metro_146",
+  "name": "Antonio Machado",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Antonio Machado",
+  "previous_names": "",
+  "naming_date": "1999-03-29",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Antonio Machado",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_149?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Metro Line 7, fare-zone information, connections and accesses on Calle de Valderrodrigo.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la línea 7 de Metro, la zona tarifaria, correspondencias y accesos en la calle de Valderrodrigo."
+    },
+    {
+      "title": "memoriademadrid: Estación de Antonio Machado",
+      "url": "https://www.memoriademadrid.es/view/567791",
+      "type": "official",
+      "relevance_en": "Municipal memory record from the Metro de Madrid photographic archive; states that the Line 7 station opened to the public on 29 March 1999 and serves Valdezarza and Peñagrande.",
+      "relevance_es": "Ficha municipal de memoria procedente del archivo fotográfico de Metro de Madrid; indica que la estación de la línea 7 se abrió al público el 29 de marzo de 1999 y da servicio a Valdezarza y Peñagrande."
+    },
+    {
+      "title": "Comunidad de Madrid: Prolongación de la Línea 7 de Metro de Madrid. Tramo Valdezarza-Pitis",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-valdezarza-pitis",
+      "type": "official",
+      "relevance_en": "Institutional description of the Valdezarza-Pitis extension, listing Antonio Machado among the stations and explaining its access via Calle de Valderrodrigo and service to nearby residential areas.",
+      "relevance_es": "Descripción institucional de la prolongación Valdezarza-Pitis, que enumera Antonio Machado entre las estaciones y explica su acceso por la calle de Valderrodrigo y su servicio a áreas residenciales próximas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Patrimonio cultural y paisaje urbano: Antonio Machado",
+      "url": "https://patrimonioypaisaje.madrid.es/portales/monumenta/es/Monumentos-y-Edificios-Singulares/Monumentos/Antonio-Machado/?vgnextchannel=8fac3cb702aa4510VgnVCM1000008a4a900aRCRD&vgnextfmt=default&vgnextoid=4118091d1b9c4510091d1b9c45102e085a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal heritage page documenting the 1985 Antonio Machado monument in the Ciudad de los Poetas area, facing Calle Antonio Machado, and giving biographical context for the poet.",
+      "relevance_es": "Ficha municipal de patrimonio que documenta el monumento a Antonio Machado de 1985 en la Ciudad de los Poetas, frente a la calle Antonio Machado, y aporta contexto biográfico del poeta."
+    },
+    {
+      "title": "Biblioteca Nacional de España: Machado, Antonio",
+      "url": "https://www.bne.es/es/autores/machado-antonio",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical and bibliographic source confirming Machado's birth in Seville in 1875, works including Soledades and Campos de Castilla, and death in Collioure on 22 February 1939.",
+      "relevance_es": "Fuente biográfica y bibliográfica autorizada que confirma el nacimiento de Machado en Sevilla en 1875, obras como Soledades y Campos de Castilla, y su muerte en Collioure el 22 de febrero de 1939."
+    },
+    {
+      "title": "Catálogo Colectivo de la Red de Bibliotecas de los Archivos Estatales: Machado, Antonio, 1875-1939",
+      "url": "https://www.mcu.es/ccbae/es/consulta_aut/registro.do?id=192875",
+      "type": "reference",
+      "relevance_en": "State archival authority record confirming Machado's dates, parents, membership in the Generation of '98, teaching career and death in exile in Collioure.",
+      "relevance_es": "Registro de autoridad archivístico estatal que confirma las fechas de Machado, sus padres, su vinculación a la Generación del 98, su carrera docente y su muerte en el exilio en Collioure."
+    },
+    {
+      "title": "El País: La prolongación de la línea 7 culmina con la apertura de cinco nuevas estaciones de metro",
+      "url": "https://elpais.com/diario/1999/03/30/madrid/922793063_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report from 30 March 1999 confirming the previous day's opening of the Line 7 extension and listing Antonio Machado among the new stations opened to the public.",
+      "relevance_es": "Crónica contemporánea del 30 de marzo de 1999 que confirma la apertura del día anterior de la prolongación de la línea 7 y enumera Antonio Machado entre las nuevas estaciones abiertas al público."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add that the Metro station was opened with this name on 29 March 1999 as part of the Line 7 Valdezarza-Pitis extension.",
+      "es": "Añadir que la estación de Metro se abrió con este nombre el 29 de marzo de 1999 dentro de la ampliación Valdezarza-Pitis de la línea 7."
+    },
+    {
+      "en": "Avoid presenting literary evaluations such as 'masterpiece' or 'eternal poetry' as etymological evidence; they are useful cultural context but not the origin of the station name.",
+      "es": "Evitar presentar valoraciones literarias como 'obra maestra' o 'poesía eterna' como prueba etimológica; son contexto cultural útil, pero no el origen del nombre de la estación."
+    },
+    {
+      "en": "Clarify that the name is best understood through the nearby Calle de Antonio Machado and Ciudad de los Poetas setting, not through an older place-name at the station site.",
+      "es": "Aclarar que el nombre se entiende mejor por la cercana calle de Antonio Machado y el entorno de la Ciudad de los Poetas, no por un topónimo antiguo del lugar de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A Metro de Madrid or Community of Madrid naming file for the 1999 extension would be the ideal source to prove the exact administrative reason for choosing the station name.",
+      "es": "Un expediente de denominación de Metro de Madrid o de la Comunidad de Madrid sobre la ampliación de 1999 sería la fuente ideal para probar el motivo administrativo exacto de la elección del nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/metro_146/en/summary.short.md",
+      "summary": "content/stations/metro_146/en/summary.md",
+      "story": "content/stations/metro_146/en/story.md",
+      "confidence": "content/stations/metro_146/en/confidence.md",
+      "current_claim_assessment": "content/stations/metro_146/en/current-claim-assessment.md",
+      "research_note": "content/stations/metro_146/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/metro_146/es/summary.short.md",
+      "summary": "content/stations/metro_146/es/summary.md",
+      "story": "content/stations/metro_146/es/story.md",
+      "confidence": "content/stations/metro_146/es/confidence.md",
+      "current_claim_assessment": "content/stations/metro_146/es/current-claim-assessment.md",
+      "research_note": "content/stations/metro_146/es/research-note.md"
+    }
+  }
+}

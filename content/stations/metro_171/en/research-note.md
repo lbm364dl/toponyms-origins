@@ -1,0 +1,1 @@
+Comunidad de Madrid construction documentation sometimes writes the station as 'Peña Grande', while CRTM's current passenger-facing station page uses 'Peñagrande'. That spelling variation is useful evidence that the name is transparently analyzable as peña + grande, but the dataset should keep the official station spelling Peñagrande.

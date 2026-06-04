@@ -1,0 +1,1 @@
+La estación de San Blas toma el nombre del barrio al que da servicio. El nombre del barrio suele explicarse como un homenaje franquista a Blas Pérez González, pero las fuentes más claras localizadas lo presentan como una tradición transmitida, no como un acuerdo de denominación documentado.

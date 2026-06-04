@@ -1,0 +1,1 @@
+La estación de Herrera Oria toma su nombre de Ángel Herrera Oria (1886-1968), periodista, jurista, dirigente católico, sacerdote, obispo de Málaga y cardenal español. El nombre se relaciona también con la cercana avenida del Cardenal Herrera Oria.

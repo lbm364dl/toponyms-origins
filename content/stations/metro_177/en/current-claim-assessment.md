@@ -1,0 +1,1 @@
+The core claim that the station is named for the San Lorenzo barrio is verified by Comunidad de Madrid. The added statement that it is named for a parish is not supported by the strongest sources found, and the saint biography should be presented as traditional hagiography rather than all equally established fact.
