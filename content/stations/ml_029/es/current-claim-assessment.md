@@ -1,0 +1,1 @@
+La fila actual es sustancialmente correcta: la estación toma su nombre del polígono/paraje de Ventorro del Cano, en Alcorcón, y las fuentes históricas locales vinculan ese nombre con una antigua venta de camino. El punto débil es que «Cano» está mejor documentado como apodo o sobrenombre de José «El Cano», no de forma segura como apellido.

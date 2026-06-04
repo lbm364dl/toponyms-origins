@@ -1,0 +1,1 @@
+The operator's own customer-service page identifies Cocheras as an ML3 stop on Calle Edgar Neville and the closest stop to the MLO depot and offices. The maintenance role of the depot is also described by MLO, and official regional/operator sources support the 2007 opening context.

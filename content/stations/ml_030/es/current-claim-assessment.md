@@ -1,0 +1,1 @@
+La estación está correctamente vinculada al área o parque empresarial Prado del Espino en Boadilla del Monte, y el significado literal de las palabras está bien respaldado por diccionarios. La afirmación concreta de que el espino crecía silvestre exactamente en el emplazamiento de la estación es plausible, pero no queda demostrada directamente por las fuentes localizadas.

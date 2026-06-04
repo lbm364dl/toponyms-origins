@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la parada está junto a la histórica iglesia de Nuestra Señora de la Asunción de Parla, y fuentes municipales y de transporte sitúan Iglesia Centro en la calle Real, frente a ese templo. Conviene precisar parte del detalle histórico-artístico, sobre todo la afirmación sobre el retablo de 2020.

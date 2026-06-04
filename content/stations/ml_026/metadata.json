@@ -1,0 +1,100 @@
+{
+  "id": "ml_026",
+  "name": "Cocheras",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Metro Ligero Oeste depot and offices near the ML3 stop",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "MLO al teléfono - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Operator source identifying Cocheras as an ML3 stop on Calle Edgar Neville and the closest station to the MLO depot and offices.",
+      "relevance_es": "Fuente de la operadora que identifica Cocheras como una parada de la ML3 en la calle Edgar Neville y la estación más cercana a las cocheras y oficinas de MLO."
+    },
+    {
+      "title": "Dentro de las Cocheras de MLO: La Importancia de las Columnas Elevadoras",
+      "url": "https://www.metroligero-oeste.es/comunidad-mlo/100000-actualidad-es/100756-dentro-de-las-cocheras-de-mlo-la-importancia-de-las-columnas-elevadoras-es",
+      "type": "official",
+      "relevance_en": "Operator article describing MLO's depot as a maintenance centre for the tram fleet, not merely a parking area.",
+      "relevance_es": "Artículo de la operadora que describe las cocheras de MLO como centro de mantenimiento de la flota de tranvías, no solo como zona de estacionamiento."
+    },
+    {
+      "title": "Corporate Information - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste as the concession holder for ML2 and ML3 since July 2007 and gives the 27/07/07 inauguration context.",
+      "relevance_es": "Confirma que Metro Ligero Oeste es la concesionaria de ML2 y ML3 desde julio de 2007 y aporta el contexto de inauguración del 27/07/07."
+    },
+    {
+      "title": "Mapa estratégico de ruido de las líneas de Metro Ligero Oeste de Madrid, memoria, junio 2017",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/memoria_metro_ligero-2017.pdf",
+      "type": "official",
+      "relevance_en": "Regional document describing ML3 from Colonia Jardín to Boadilla, its municipalities, length, stations, and Citadis TGA 302 rolling stock.",
+      "relevance_es": "Documento regional que describe la ML3 entre Colonia Jardín y Boadilla, sus municipios, longitud, estaciones y material móvil Citadis TGA 302."
+    },
+    {
+      "title": "Metros Ligeros y Tranvías en la Comunidad de Madrid - Light Rail in Madrid",
+      "url": "https://crtm.es/media/fluk4vaw/metros_ligeros_y_tranvias_en_madrid_bilingue_junio_2010.pdf",
+      "type": "official",
+      "relevance_en": "CRTM bilingual publication giving the historic tramway context: 188 km in 1954 and last tram line closed on 2 June 1972.",
+      "relevance_es": "Publicación bilingüe del CRTM que aporta el contexto tranviario histórico: 188 km en 1954 y cierre de la última línea el 2 de junio de 1972."
+    },
+    {
+      "title": "coche | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/coche",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for coche: from Hungarian kocsi 'carriage', with meanings including automobile, carriage, and railway/metro car.",
+      "relevance_es": "Fuente lexicográfica autorizada para coche: del húngaro kocsi, 'carruaje', con sentidos como automóvil, carruaje y vagón de tren o metro."
+    },
+    {
+      "title": "Destino Madrid: Del tranvía al metro ligero. 150 años de historia",
+      "url": "https://www.crtm.es/media/iovn3r5k/destinomadrid_deltranvia_al_metroligero.pdf",
+      "type": "official",
+      "relevance_en": "CRTM exhibition catalogue adding detailed historical context for Madrid tram depots, the 188 km maximum, the disappearance of trams, and the 2007 return of light rail.",
+      "relevance_es": "Catálogo expositivo del CRTM que añade contexto histórico sobre cocheras tranviarias madrileñas, el máximo de 188 km, la desaparición del tranvía y el regreso del metro ligero en 2007."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 27 July 2007 as the naming/opening context for this ML3 station, while noting that Madrid's first modern light-rail line, ML1, opened on 24 May 2007.",
+      "es": "Usar el 27 de julio de 2007 como contexto de denominación/apertura de esta estación de la ML3, señalando que la primera línea moderna de metro ligero de Madrid, la ML1, abrió el 24 de mayo de 2007."
+    },
+    {
+      "en": "The historic tram network reached 188 km specifically in 1954, and the last tram line closed on 2 June 1972.",
+      "es": "La red histórica de tranvías alcanzó 188 km específicamente en 1954, y la última línea cerró el 2 de junio de 1972."
+    },
+    {
+      "en": "For the etymology of coche, the strongest concise citation is RAE: from Hungarian kocsi 'carriage'. The route through German Kutsche is a plausible comparative etymological detail but should not be stated as the RAE's wording.",
+      "es": "Para la etimología de coche, la cita breve más sólida es la de la RAE: del húngaro kocsi, 'carruaje'. La vía a través del alemán Kutsche es un detalle etimológico comparativo plausible, pero no debe presentarse como la formulación de la RAE."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No official naming-resolution document for the individual stop was found; the naming is inferred from the operator's direct description of its location by the MLO depot and offices.",
+      "es": "No se ha encontrado una resolución oficial de denominación para la parada concreta; el origen del nombre se infiere de la descripción directa de la operadora, que la sitúa junto a las cocheras y oficinas de MLO."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_026/en/summary.short.md",
+      "summary": "content/stations/ml_026/en/summary.md",
+      "story": "content/stations/ml_026/en/story.md",
+      "confidence": "content/stations/ml_026/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_026/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_026/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_026/es/summary.short.md",
+      "summary": "content/stations/ml_026/es/summary.md",
+      "story": "content/stations/ml_026/es/story.md",
+      "confidence": "content/stations/ml_026/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_026/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_026/es/research-note.md"
+    }
+  }
+}

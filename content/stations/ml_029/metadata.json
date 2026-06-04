@@ -1,0 +1,97 @@
+{
+  "id": "ml_029",
+  "name": "Ventorro del Cano",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Polígono/paraje Ventorro del Cano, named for the old venta or ventorro kept by José 'El Cano'",
+  "previous_names": "Ventorro de Cano; Ventorro del Cano; venta o ventorro de José 'El Cano'",
+  "naming_date": "Station opened with ML3 on 27 July 2007; older place-name documented in local history and official toponymic usage",
+  "sources": [
+    {
+      "title": "Metro Ligero Oeste - Atención al cliente: Ventorro del Cano",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Official operator page locating the station at Calle del Tranvía and Calle Arroyomolinos, inside the industrial estate that gives the station its name.",
+      "relevance_es": "Página oficial del operador que sitúa la estación en la calle del Tranvía con calle Arroyomolinos, dentro del polígono industrial que le da nombre."
+    },
+    {
+      "title": "Ayuntamiento de Alcorcón - Alcorcón: historia, literatura y leyenda",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2022-05/Alcorcon_historia_literatura_y_leyenda.pdf",
+      "type": "book",
+      "relevance_en": "Municipal digitized book preserving Faustino Moreno Villalba's account of the Ventorro del Cano, its role as a post and carriage-changing place, José 'El Cano', the 1828 setting, and the 1971 loss of the last well.",
+      "relevance_es": "Libro digitalizado por el Ayuntamiento que conserva el relato de Faustino Moreno Villalba sobre el Ventorro del Cano, su función como posta y lugar de cambio de carruajes, José «El Cano», el contexto de 1828 y la desaparición del último pozo en 1971."
+    },
+    {
+      "title": "Alcorcón Gráfico, núm. 22, enero de 1973",
+      "url": "https://www.ayto-alcorcon.es/sites/default/files/2022-05/AlcorGraf1973_22_Enero.pdf",
+      "type": "archive",
+      "relevance_en": "Contemporary local-periodical version of the same historical article, including the wording that the place was the venta or ventorro of 'El Cano' and that the well was filled in in 1971.",
+      "relevance_es": "Versión hemerográfica local del mismo artículo histórico, con la formulación de que allí estuvo la venta o ventorro de «El Cano» y que el pozo se cegó en 1971."
+    },
+    {
+      "title": "BOCM, 13 December 2013, official description of livestock routes in Alcorcón",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2013/12/13/BOCM-20131213-31.PDF",
+      "type": "official",
+      "relevance_en": "Official regional notice using the place-name 'paraje Ventorro del Cano' and referring to the ruins of the ventorro, confirming the toponym in administrative use.",
+      "relevance_es": "Anuncio oficial regional que usa el topónimo «paraje Ventorro del Cano» y menciona las ruinas del ventorro, confirmando su uso administrativo."
+    },
+    {
+      "title": "Metro Ligero Oeste - Información corporativa",
+      "url": "https://www.metroligero-oeste.es/informacion-corporativa",
+      "type": "official",
+      "relevance_en": "Operator corporate page confirming Metro Ligero Oeste as concessionaire for ML2 and ML3 and giving 27/07/07 as the inauguration date.",
+      "relevance_es": "Página corporativa del operador que confirma que Metro Ligero Oeste es concesionaria de ML2 y ML3 y da el 27/07/07 como fecha de inauguración."
+    },
+    {
+      "title": "Iedra - ventorro (DLE extract)",
+      "url": "https://iedra.es/palabras/ventorro",
+      "type": "reference",
+      "relevance_en": "Lexical reference pointing to the DLE sense of ventorro as a lodging venta, useful for explaining the common noun behind the toponym.",
+      "relevance_es": "Referencia léxica que remite a la acepción del DLE de ventorro como venta de hospedaje, útil para explicar el sustantivo común que hay detrás del topónimo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from descriptive to place: the station is directly named after the industrial estate/paraje, whose own name has a historical inn origin.",
+      "es": "Cambiar el tipo etimológico de descriptivo a lugar: la estación recibe directamente el nombre del polígono/paraje, cuyo nombre sí tiene origen histórico en una venta."
+    },
+    {
+      "en": "Do not state as certain that Cano was the innkeeper's surname; the inspected source calls him José 'El Cano', which reads as a nickname or byname.",
+      "es": "No afirmar como seguro que Cano fuera el apellido del ventero; la fuente inspeccionada lo llama José «El Cano», formulación propia de apodo o sobrenombre."
+    },
+    {
+      "en": "The 1828 date should be framed as the period of the historical episode described by Moreno Villalba, not necessarily as the last date when the inn operated.",
+      "es": "La fecha de 1828 debe presentarse como la época del episodio histórico descrito por Moreno Villalba, no necesariamente como la última fecha de funcionamiento de la venta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A cadastral, notarial, postal-route or historical-map source could further confirm the earliest written occurrence of Ventorro de Cano/Ventorro del Cano.",
+      "es": "Una fuente catastral, notarial, de rutas de postas o cartografía histórica podría confirmar mejor la primera aparición escrita de Ventorro de Cano/Ventorro del Cano."
+    },
+    {
+      "en": "No primary civil record was inspected for José 'El Cano', so whether Cano was a surname, nickname or occupational byname remains open.",
+      "es": "No se inspeccionó ningún registro civil o parroquial primario de José «El Cano», por lo que queda abierta la cuestión de si Cano era apellido, apodo o sobrenombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_029/en/summary.short.md",
+      "summary": "content/stations/ml_029/en/summary.md",
+      "story": "content/stations/ml_029/en/story.md",
+      "confidence": "content/stations/ml_029/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_029/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_029/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_029/es/summary.short.md",
+      "summary": "content/stations/ml_029/es/summary.md",
+      "story": "content/stations/ml_029/es/story.md",
+      "confidence": "content/stations/ml_029/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_029/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_029/es/research-note.md"
+    }
+  }
+}

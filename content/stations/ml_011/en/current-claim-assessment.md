@@ -1,0 +1,1 @@
+The basic interpretation is sound: the station uses a local Pozuelo place name with transparent landscape words, and ML2 opened on 27 July 2007. The archaeological paragraph is relevant regional context for the wider Arroyo/La Vega area, but it should not be presented as the direct reason for the station name.

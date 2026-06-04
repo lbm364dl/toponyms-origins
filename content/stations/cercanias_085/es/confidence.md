@@ -1,0 +1,1 @@
+La relación entre la estación, el ámbito urbano de Valdebebas y el arroyo de Valdebebas está apoyada por fuentes de transporte, municipales, hidrológicas y urbanísticas. La confianza no es 'verified' para toda la etimología lingüística porque el significado del segundo elemento 'beba/bebas' sigue sin resolverse en el material especializado consultado.

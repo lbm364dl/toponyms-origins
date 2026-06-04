@@ -1,0 +1,1 @@
+Cotos station is named after the Puerto de Cotos mountain pass. The pass name comes from old stone boundary markers, or cotos, that marked the limits of the royal Valsain pinewoods; the same pass was also known as Puerto del Paular.

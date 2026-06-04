@@ -1,0 +1,1 @@
+La interpretación básica es correcta: la estación usa un topónimo local de Pozuelo formado por voces paisajísticas transparentes, y la ML2 se puso en servicio el 27 de julio de 2007. El párrafo arqueológico aporta contexto regional del entorno Arroyo/La Vega, pero no debe presentarse como la razón directa del nombre de la estación.

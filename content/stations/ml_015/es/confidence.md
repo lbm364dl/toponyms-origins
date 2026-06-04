@@ -1,0 +1,1 @@
+La ubicación y apertura de la estación están confirmadas por fuentes oficiales de transporte, y la explicación del topónimo está respaldada por la definición académica de somo de la RAE y por un artículo especializado que cita expresamente Somosaguas, incluida la forma medieval somas aquas. La única incertidumbre es el rasgo físico exacto al que aludía el compuesto medieval.

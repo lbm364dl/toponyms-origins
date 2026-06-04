@@ -1,0 +1,1 @@
+Cocheras is named for the Metro Ligero Oeste depot and offices next to the ML3 stop on Calle Edgar Neville. The word means a vehicle garage or depot, and here refers directly to the light-rail maintenance base.

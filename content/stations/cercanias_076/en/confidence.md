@@ -1,0 +1,1 @@
+The station-to-municipality naming is verified by Renfe, Adif and regional/municipal sources. The linguistic elements collado and mediano are verified in the RAE dictionary, and local histories support the medieval and pastoral context, but I did not find a direct primary source proving the specific 'medium-sized livestock enclosure' interpretation.

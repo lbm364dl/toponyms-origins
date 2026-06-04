@@ -1,0 +1,1 @@
+Ciudad del Cine significa literalmente «City of Cinema» o «Ciudad del Cine». La parada de la ML3 toma su nombre del sector cinematográfico de la Ciudad de la Imagen, especialmente de Kinépolis Madrid, el gran multicine situado junto a la estación.

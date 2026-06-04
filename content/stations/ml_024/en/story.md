@@ -1,0 +1,9 @@
+The immediate origin of the station name is local and straightforward: Metro Ligero Oeste describes José Isbert as an ML3 stop located on Calle José Isbert. In other words, the station inherited the name of the street it serves in Pozuelo de Alarcón's Ciudad de la Imagen.
+
+Behind that street name is José Ysbert Alvarruiz, usually credited as José Isbert and affectionately remembered as Pepe Isbert. He was born in Madrid on 3 March 1886 and died there on 28 November 1966. His artistic surname used the spelling Isbert, while several biographical sources record the family surname as Ysbert.
+
+Isbert began as a stage actor in the early twentieth century and later became one of the unmistakable faces and voices of Spanish cinema. His long career included silent-film work, theatre, and then a strong second life in sound cinema. By the 1950s and 1960s he was firmly associated with popular and satirical Spanish film comedy.
+
+The films most useful for understanding why his name belongs in Ciudad de la Imagen are Luis García Berlanga's Bienvenido, Mister Marshall and El verdugo. The ICAA catalogue lists José Isbert among the cast of Bienvenido, Mister Marshall, while the Cervantes Institute's cinema materials place him in El verdugo alongside Nino Manfredi and Emma Penella. These titles made Isbert a shorthand for a whole period of Spanish screen culture.
+
+There is no strong evidence that the station was named directly by a commemorative act for the actor rather than through the existing street name. The confidence is high for the person behind the name and for the station's location on Calle José Isbert, but the exact municipal date when the street itself received the name remains an open archival question. The nearby Filmoteca Española's conservation centre adds a fitting film-history context, although the current centre opened in 2014, after the 2007 light-rail station.

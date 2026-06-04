@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_091",
+  "name": "Valdelasfuentes",
+  "status": "verified",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Valdelasfuentes, a historical place-name in Alcobendas meaning 'valley of the springs/fountains'",
+  "previous_names": "No former station name found; the station appears to have opened as Valdelasfuentes.",
+  "naming_date": "2001-02-09 (opened to passengers; inauguration reported for 2001-02-08)",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanías Madrid: Estación de Valdelasfuentes",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-valdelasfuentes",
+      "type": "official",
+      "relevance_en": "Confirms the station is in Alcobendas, serves Cercanías Madrid line C-4, and was inaugurated in 2001.",
+      "relevance_es": "Confirma que la estación está en Alcobendas, presta servicio a la línea C-4 de Cercanías Madrid y fue inaugurada en 2001."
+    },
+    {
+      "title": "CRTM Memoria 2001",
+      "url": "https://www.crtm.es/media/lcupslxl/memoria_crtm_2001.pdf",
+      "type": "official",
+      "relevance_en": "Lists Valdelasfuentes as one of the three new stations on the Cantoblanco-Alcobendas section opened in February 2001, then served by line C-1.",
+      "relevance_es": "Enumera Valdelasfuentes como una de las tres nuevas estaciones del tramo Cantoblanco-Alcobendas abierto en febrero de 2001, entonces servido por la línea C-1."
+    },
+    {
+      "title": "CRTM station page: Valdelasfuentes",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_85.aspx?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current public-transport station name, access point on Calle del Marqués de la Valdavia in Alcobendas, fare zone and connections.",
+      "relevance_es": "Confirma el nombre actual de la estación en la red de transporte, el acceso en la calle del Marqués de la Valdavia de Alcobendas, la zona tarifaria y las conexiones."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: val",
+      "url": "https://dle.rae.es/val",
+      "type": "reference",
+      "relevance_en": "Defines val as an apocopated form of valle, supporting the first element of Valdelasfuentes.",
+      "relevance_es": "Define val como apócope de valle, lo que respalda el primer elemento de Valdelasfuentes."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: fuente",
+      "url": "https://dle.rae.es/fuente",
+      "type": "reference",
+      "relevance_en": "Defines fuente first as a spring of water rising from the ground, supporting the interpretation as 'springs'.",
+      "relevance_es": "Define fuente en primer lugar como manantial de agua que brota de la tierra, respaldando la interpretación como 'manantiales'."
+    },
+    {
+      "title": "Ayuntamiento de Alcobendas: Fuentes, lavaderos y abrevaderos",
+      "url": "https://www.alcobendas.org/sites/default/files/2021-05/fuentes%20lavaderos%20y%20abrevaderos.pdf",
+      "type": "official",
+      "relevance_en": "Provides municipal historical context for Alcobendas as a place known for fountains, water sources and streams from early modern sources onward.",
+      "relevance_es": "Aporta contexto histórico municipal sobre Alcobendas como lugar asociado a fuentes, aguas y arroyos desde fuentes de la Edad Moderna en adelante."
+    },
+    {
+      "title": "Real Asociación Española de Cronistas Oficiales: Tempranales, Valdelasfuentes y el Cerro del Tambor",
+      "url": "https://www.cronistasoficiales.com/tempranales-valdelasfuentes-y-el-cerro-del-tambor/",
+      "type": "reference",
+      "relevance_en": "States that the Camino de Valdelasfuentes led to the stream of the same name and that the name appears in a Madrid Council act of 14 February 1494.",
+      "relevance_es": "Señala que el Camino de Valdelasfuentes llegaba al arroyo del mismo nombre y que el topónimo aparece en un acta del Concejo de Madrid del 14 de febrero de 1494."
+    },
+    {
+      "title": "Crónicas de Sanse: Los Arroyos de Valdelasfuentes, Tempranales, Valconcejero, Dehesa y Quiñones",
+      "url": "https://cronicasdesanse.blogspot.com/2017/05/cronicas-del-cronista-los-arroyos-de.html",
+      "type": "reference",
+      "relevance_en": "Gives the local chronicler's detailed etymological explanation of Valdelasfuentes and includes a transcriptional excerpt of the 1494 Madrid Council reference.",
+      "relevance_es": "Ofrece la explicación etimológica detallada del cronista local sobre Valdelasfuentes e incluye un fragmento transcrito de la referencia del Concejo de Madrid de 1494."
+    },
+    {
+      "title": "La Mirada Norte: La línea del tren de cercanías a Alcobendas y Sanse cumple 20 años",
+      "url": "https://www.lamiradanorte.com/la-linea-del-tren-de-cercanias-a-alcobendas-y-sanse-cumple-20-anos",
+      "type": "press",
+      "relevance_en": "Reports that passengers first used the Alcobendas-San Sebastián de los Reyes Cercanías line on 9 February 2001 and that the Valdelasfuentes neighbourhood received its first residents around spring 2001.",
+      "relevance_es": "Informa de que los primeros viajeros usaron la línea de Cercanías a Alcobendas y San Sebastián de los Reyes el 9 de febrero de 2001 y de que el barrio de Valdelasfuentes recibió sus primeros vecinos hacia la primavera de 2001."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 2001 as the station naming/opening date; CRTM records the new Cantoblanco-Alcobendas section and the Valdelasfuentes station in February 2001, originally on line C-1, not C-4.",
+      "es": "Usar 2001 como fecha de denominación/apertura de la estación; el CRTM registra el nuevo tramo Cantoblanco-Alcobendas y la estación de Valdelasfuentes en febrero de 2001, originalmente en la línea C-1, no en la C-4."
+    },
+    {
+      "en": "Soften the statement that the modern neighbourhood was built from the 1980s: the available press source says the Valdelasfuentes neighbourhood received its first residents in spring 2001, while older roads and nearby urban pieces existed earlier.",
+      "es": "Matizar la afirmación de que el barrio moderno se construyó desde los años 80: la fuente periodística disponible indica que el barrio de Valdelasfuentes recibió sus primeros vecinos en la primavera de 2001, aunque existían antes caminos y piezas urbanas próximas."
+    },
+    {
+      "en": "The current population figure of around 15,000 inhabitants was not verified in the sources inspected and should not be presented as sourced without a municipal statistical citation.",
+      "es": "La cifra actual de unos 15.000 habitantes no se verificó en las fuentes consultadas y no debería presentarse como documentada sin una cita estadística municipal."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original Madrid Council act of 14 February 1494, likely in Madrid municipal archival holdings, to confirm the exact medieval spelling and context of Valdelasfuentes.",
+      "es": "Consultar el acta original del Concejo de Madrid del 14 de febrero de 1494, probablemente en fondos del archivo municipal madrileño, para confirmar la grafía medieval exacta y el contexto de Valdelasfuentes."
+    },
+    {
+      "en": "Find a municipal urban-planning source for the formal creation and first occupancy chronology of the modern Valdelasfuentes neighbourhood.",
+      "es": "Localizar una fuente urbanística municipal sobre la creación formal y la cronología de primera ocupación del barrio moderno de Valdelasfuentes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_091/en/summary.short.md",
+      "summary": "content/stations/cercanias_091/en/summary.md",
+      "story": "content/stations/cercanias_091/en/story.md",
+      "confidence": "content/stations/cercanias_091/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_091/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_091/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_091/es/summary.short.md",
+      "summary": "content/stations/cercanias_091/es/summary.md",
+      "story": "content/stations/cercanias_091/es/story.md",
+      "confidence": "content/stations/cercanias_091/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_091/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_091/es/research-note.md"
+    }
+  }
+}

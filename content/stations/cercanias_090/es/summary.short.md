@@ -1,0 +1,1 @@
+La estación debe su nombre al cercano campus de Cantoblanco de la Universidad Pontificia Comillas. La universidad heredó su nombre de la villa cántabra de Comillas, donde nació como seminario pontificio en 1890 antes de su traslado gradual a Madrid.

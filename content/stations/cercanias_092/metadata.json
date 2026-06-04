@@ -1,0 +1,143 @@
+{
+  "id": "cercanias_092",
+  "name": "Zarzaquemada",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Zarzaquemada neighbourhood/district of Leganes; probably a descriptive plant-and-fire toponym meaning 'burned bramble patch' or 'burned bramble land'",
+  "previous_names": "No official previous station name found; railway chronology sources also use the descriptive form 'apeadero de Zarzaquemada-Leganes'.",
+  "naming_date": "1982",
+  "sources": [
+    {
+      "title": "Renfe Rodajes Cercanías Madrid - Estación de Zarzaquemada",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-zarzaquemada",
+      "type": "official",
+      "relevance_en": "States that Zarzaquemada station is in the homonymous Leganes neighbourhood, has served since 1982, joined C-5 from 1989, and was reformed in 1993 and 2008.",
+      "relevance_es": "Indica que la estación de Zarzaquemada está en el barrio homónimo de Leganés, presta servicio desde 1982, forma parte de la C-5 desde 1989 y fue reformada en 1993 y 2008."
+    },
+    {
+      "title": "CRTM - Zarzaquemada",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_95?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the station name, C-5 service, Leganes accesses and fare zone.",
+      "relevance_es": "Página oficial del transporte regional que confirma el nombre de la estación, el servicio C-5, los accesos en Leganés y la zona tarifaria."
+    },
+    {
+      "title": "Adif - 35009 Zarzaquemada",
+      "url": "https://www.adif.es/-/35009-zarzaquemada",
+      "type": "official",
+      "relevance_en": "Official infrastructure manager station page confirming the Adif station code and current station identity.",
+      "relevance_es": "Página oficial del administrador de infraestructuras que confirma el código Adif y la identidad actual de la estación."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 35009 Zarzaquemada",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion35009.pdf",
+      "type": "official",
+      "relevance_en": "Station data sheet giving code 35009, municipality Leganes, line C5, postal address and operator information.",
+      "relevance_es": "Ficha de datos de estación con el código 35009, municipio de Leganés, línea C5, dirección postal e información de explotación."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - zarza",
+      "url": "https://dle.rae.es/zarza",
+      "type": "reference",
+      "relevance_en": "Defines zarza as a bramble/blackberry bush and gives its origin from older sarza, a pre-Roman word.",
+      "relevance_es": "Define zarza como arbusto espinoso o zarzamora y da su origen en el antiguo sarza, voz prerromana."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - quemar",
+      "url": "https://dle.rae.es/quemar",
+      "type": "reference",
+      "relevance_en": "Defines quemar as destroying or damaging by fire and gives the etymon Latin cremāre.",
+      "relevance_es": "Define quemar como destruir o dañar con fuego y da como étimo el latín cremāre."
+    },
+    {
+      "title": "RAE Diccionario de la lengua española - rozar",
+      "url": "https://dle.rae.es/rozar",
+      "type": "reference",
+      "relevance_en": "Defines agricultural rozar as clearing land of shrubs and useless grasses before cultivation.",
+      "relevance_es": "Define rozar en sentido agrícola como limpiar las tierras de matas y hierbas inútiles antes de labrarlas."
+    },
+    {
+      "title": "Josep Miret i Mestre, 'Las rozas en la Península Ibérica. Apuntes de tecnología agraria tradicional', Historia Agraria 34 (2004)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/1098569.pdf",
+      "type": "academic",
+      "relevance_en": "Explains rozas as a traditional Iberian cultivation system involving burning vegetation from woodland, scrub or pasture before cultivation.",
+      "relevance_es": "Explica las rozas como un sistema tradicional ibérico de cultivo que implicaba quemar la vegetación de bosque, matorral o dehesa antes de cultivar."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - MŌRA",
+      "url": "https://toponhisp.org/index.php/eu/node/3925",
+      "type": "academic",
+      "relevance_en": "Lists Zarzaquemada among cognate zarza-type toponyms in a scholarly toponymy database, supporting its place within plant-name toponymy.",
+      "relevance_es": "Incluye Zarzaquemada entre topónimos cognados de tipo zarza en una base académica de toponimia, apoyando su pertenencia a la fitotoponimia."
+    },
+    {
+      "title": "Ayuntamiento de Leganés - Mapa Estratégico de Ruido de Leganés, Memoria Resumen",
+      "url": "https://www.leganes.org/documents/20122/824864/MEMORIA-MAPA-ESTRATEGIDO-DE-RUIDOS.pdf/2e7d0060-8cce-f5b9-2ff1-eef9786febf6?t=1704281099352",
+      "type": "official",
+      "relevance_en": "Provides municipal district context, listing Distrito Zarzaquemada and identifying it as the most densely populated district in 2021.",
+      "relevance_es": "Aporta contexto municipal al listar el Distrito Zarzaquemada e identificarlo como el distrito de mayor densidad de población en 2021."
+    },
+    {
+      "title": "El País - El 'apeadero de la pulmonía' de Zarzaquemada pasa a la historia",
+      "url": "https://elpais.com/diario/1993/11/05/madrid/752502270_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press account of the 1993 station refurbishment and the old nickname caused by exposed platforms.",
+      "relevance_es": "Crónica contemporánea de la reforma de 1993 y del antiguo apodo provocado por la exposición de los andenes al frío."
+    },
+    {
+      "title": "FCMAF - Línea 500 Bifurcación Planetario a Valencia de Alcántara",
+      "url": "https://fcmaf.es/Ferrocarriles/500_estaciones.htm",
+      "type": "reference",
+      "relevance_en": "Railway reference listing Zarzaquemada halt, code 35009, kilometre point and opening date as 21 May 1982.",
+      "relevance_es": "Referencia ferroviaria que lista el apeadero de Zarzaquemada, código 35009, punto kilométrico y puesta en servicio el 21 de mayo de 1982."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade the row confidence from verified to probable for the deeper etymology: the neighbourhood naming is verified, but the slash-and-burn origin is inferred.",
+      "es": "Conviene rebajar la confianza de la etimología profunda de verificada a probable: el nombre por el barrio está verificado, pero el origen por roza y quema es inferido."
+    },
+    {
+      "en": "Replace 'from Latin cremare' with 'from Latin cremāre' and clarify that this applies to quemar, not directly to the whole place-name.",
+      "es": "Sustituir 'del latín cremare' por 'del latín cremāre' y aclarar que se refiere a quemar, no directamente al topónimo completo."
+    },
+    {
+      "en": "Remove or source separately the claim that at least 32 Spanish localities have zarza-derived names; the stronger evidence found here is that Toponomasticon Hispaniae lists Zarzaquemada among cognate zarza-type toponyms.",
+      "es": "Eliminar o documentar aparte la afirmación de que al menos 32 localidades españolas tienen nombres derivados de zarza; la prueba más sólida localizada aquí es que Toponomasticon Hispaniae incluye Zarzaquemada entre topónimos cognados de tipo zarza."
+    },
+    {
+      "en": "Fix the Spanish named_after value: 'zarza quemada patch' mixes Spanish and English; use 'zarzal quemado' or 'terreno de zarzas quemado'.",
+      "es": "Corregir el valor named_after_es: 'zarza quemada patch' mezcla español e inglés; es preferible 'zarzal quemado' o 'terreno de zarzas quemado'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect historical cadastral records, municipal planning files, or older maps of Leganes to confirm whether Zarzaquemada existed first as a named paraje, estate, or agricultural plot before the 1970s neighbourhood.",
+      "es": "Revisar catastros históricos, expedientes urbanísticos municipales o cartografía antigua de Leganés para confirmar si Zarzaquemada existió antes como paraje, finca o parcela agrícola anterior al barrio de los años setenta."
+    },
+    {
+      "en": "Confirm the exact public opening date of the halt: sources vary between 20 May 1982, 21 May 1982 and broader '1982' references.",
+      "es": "Confirmar la fecha exacta de apertura al público del apeadero: las fuentes consultadas oscilan entre el 20 de mayo de 1982, el 21 de mayo de 1982 y referencias generales a 1982."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_092/en/summary.short.md",
+      "summary": "content/stations/cercanias_092/en/summary.md",
+      "story": "content/stations/cercanias_092/en/story.md",
+      "confidence": "content/stations/cercanias_092/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_092/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_092/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_092/es/summary.short.md",
+      "summary": "content/stations/cercanias_092/es/summary.md",
+      "story": "content/stations/cercanias_092/es/story.md",
+      "confidence": "content/stations/cercanias_092/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_092/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_092/es/research-note.md"
+    }
+  }
+}

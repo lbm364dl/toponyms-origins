@@ -1,0 +1,1 @@
+The immediate origin of the station name is verified by official transport sources that locate the ML2 terminus in Aravaca and describe its interchange role. Confidence is reduced from verified to probable because the deeper Celtic derivation rests mainly on Caridad Arias's scholarly proposal and because the input's 1222/Alfonso VIII wording needs correction.

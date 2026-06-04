@@ -1,0 +1,1 @@
+Ferial de Boadilla is a descriptive stop name: it points passengers to Boadilla del Monte's municipal fairground beside the light-rail line. The fairground is especially tied to the town's October fiestas in honour of Nuestra Señora del Rosario.

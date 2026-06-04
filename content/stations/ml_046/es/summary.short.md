@@ -1,0 +1,1 @@
+La parada toma su nombre del parque de Parla Este, el gran espacio verde que después pasó a llamarse Parque del Universo. El nombre conserva la denominación descriptiva inicial del nuevo desarrollo oriental al que daba servicio el tranvía.

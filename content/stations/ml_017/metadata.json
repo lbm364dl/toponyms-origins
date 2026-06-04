@@ -1,0 +1,89 @@
+{
+  "id": "ml_017",
+  "name": "Bélgica",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Bélgica, named for Belgium",
+  "previous_names": "",
+  "naming_date": "27 July 2007 (station opened with this name)",
+  "sources": [
+    {
+      "title": "MLO al teléfono / Atención al cliente - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Official MLO page stating that Bélgica is an ML2 station located on Vía de las Dos Castillas beside Calle Bélgica in Pozuelo de Alarcón.",
+      "relevance_es": "Página oficial de MLO que indica que Bélgica es una estación de la ML2 situada en la vía de las Dos Castillas junto a la calle Bélgica, en Pozuelo de Alarcón."
+    },
+    {
+      "title": "Metro Ligero Colonia Jardín-Pozuelo de Alarcón - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Lists Bélgica among the stations of the Colonia Jardín-Pozuelo de Alarcón light-rail line and describes the ML2 route through Vía de las Dos Castillas and toward Avenida de Europa.",
+      "relevance_es": "Enumera Bélgica entre las estaciones de la línea de metro ligero Colonia Jardín-Pozuelo de Alarcón y describe el trazado de la ML2 por la vía de las Dos Castillas y hacia la Avenida de Europa."
+    },
+    {
+      "title": "Plano de los transportes de Pozuelo de Alarcón - CRTM / Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/sites/default/files/2021-09/Plano%20de%20transportes%20de%20Pozuelo%20de%20Alarc%C3%B3n.pdf",
+      "type": "official",
+      "relevance_en": "Official transport map showing Calle de Bélgica beside other European place names including Francia, Bruselas, París, Estrasburgo, Luxemburgo, Holanda, Malta, Mónaco and Grecia, and showing the ML2 stop Bélgica.",
+      "relevance_es": "Plano oficial de transportes que muestra la calle de Bélgica junto a otros nombres geográficos europeos como Francia, Bruselas, París, Estrasburgo, Luxemburgo, Holanda, Malta, Mónaco y Grecia, además de la parada ML2 Bélgica."
+    },
+    {
+      "title": "Metro Ligero Oeste celebra su segundo aniversario alcanzando los 15 millones de viajeros - MLO",
+      "url": "https://www.metroligero-oeste.es/sala-de-prensa/noticias/100294-metro-ligero-oeste-celebra-su-segundo-aniversario-alcanzando-los-15-millones-de-viajeros-es",
+      "type": "official",
+      "relevance_en": "MLO press item stating that Metro Ligero Oeste was inaugurated on 27 July 2007 and comprised ML2 and ML3.",
+      "relevance_es": "Nota de prensa de MLO que afirma que Metro Ligero Oeste fue inaugurado el 27 de julio de 2007 y estaba formado por las líneas ML2 y ML3."
+    },
+    {
+      "title": "Historia de Pozuelo de Alarcón por cronista de la villa",
+      "url": "https://asoclosangeles.org/wp-content/uploads/2023/06/historia-de-Pozuelo-de-Alarcon-por-cronista-de-la-villa.pdf",
+      "type": "reference",
+      "relevance_en": "Historical summary citing the late-1980s and early-1990s development of the Casa de Campo expansion area identified with Avenida de Europa, which contextualizes the modern street-name cluster.",
+      "relevance_es": "Síntesis histórica que menciona el desarrollo, a finales de los años ochenta y principios de los noventa, de la ampliación de la Casa de Campo identificada con la Avenida de Europa, lo que contextualiza el conjunto moderno de nombres de calles."
+    },
+    {
+      "title": "Parque empresarial Avenida de Europa - Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/empleo-y-empresas/empresas-y-emprendimiento/grandes-empresas-e-inversion/parques-empresariales/parque-empresarial-avenida-de-europa",
+      "type": "official",
+      "relevance_en": "Municipal page describing Avenida de Europa as a business area with many office buildings, premises and businesses, confirming the modern urban role of the surrounding zone.",
+      "relevance_es": "Página municipal que describe la Avenida de Europa como una zona con multitud de negocios, edificios de oficinas, despachos y locales, confirmando el papel urbano moderno del entorno."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the formal street name 'Calle de Bélgica' with accent, rather than 'Calle Belgica'.",
+      "es": "Conviene usar la forma formal 'calle de Bélgica', con tilde, en lugar de 'Calle Belgica'."
+    },
+    {
+      "en": "Treat the 'pro-European optimism of the 1980s-90s' explanation as interpretive context unless a municipal naming file is found.",
+      "es": "Debe tratarse la explicación del 'optimismo europeísta de los años 80-90' como contexto interpretativo mientras no aparezca un expediente municipal de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming agreement or planning file for Calle de Bélgica would be needed to prove the exact naming date and official motive.",
+      "es": "Sería necesario localizar un acuerdo municipal de denominación o expediente urbanístico de la calle de Bélgica para probar la fecha exacta y la motivación oficial."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_017/en/summary.short.md",
+      "summary": "content/stations/ml_017/en/summary.md",
+      "story": "content/stations/ml_017/en/story.md",
+      "confidence": "content/stations/ml_017/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_017/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_017/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_017/es/summary.short.md",
+      "summary": "content/stations/ml_017/es/summary.md",
+      "story": "content/stations/ml_017/es/story.md",
+      "confidence": "content/stations/ml_017/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_017/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_017/es/research-note.md"
+    }
+  }
+}

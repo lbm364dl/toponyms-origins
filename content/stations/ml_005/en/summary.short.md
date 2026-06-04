@@ -1,0 +1,1 @@
+The ML1 stop takes its name from Calle del Alcalde Álvarez de Villaamil in Sanchinarro. That street commemorates Sergio Álvarez Rodríguez de Villaamil, a doctor and politician who was mayor of Madrid in 1935.

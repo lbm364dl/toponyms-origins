@@ -1,0 +1,111 @@
+{
+  "id": "ml_013",
+  "name": "Prado del Rey",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Prado del Rey area of Pozuelo de Alarcón, a local place name meaning 'the King's meadow'",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro Ligero Oeste - Customer Service Centre / Station descriptions",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "Operator source identifying Prado del Rey as an ML2 station in the similarly named district of Pozuelo de Alarcón, next to the RTVE studios.",
+      "relevance_es": "Fuente del operador que identifica Prado del Rey como estación de la ML2 situada en el distrito homónimo de Pozuelo de Alarcón, junto a los estudios de RTVE."
+    },
+    {
+      "title": "CRTM - Línea 2 Colonia Jardín-Estación de Aravaca",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero/lineas/10__2___/",
+      "type": "official",
+      "relevance_en": "Current transport authority line page listing Prado del Rey on ML2 and showing it as a surface, accessible stop in fare zone B1.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que lista Prado del Rey en la ML2 y la muestra como parada en superficie, accesible y en zona tarifaria B1."
+    },
+    {
+      "title": "Metro Ligero Oeste - Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Operator corporate page giving the MLO inauguration date as 27/07/07 and confirming ML2 and ML3 service since July 2007.",
+      "relevance_es": "Página corporativa del operador que da la fecha de inauguración de MLO como 27/07/07 y confirma el servicio de ML2 y ML3 desde julio de 2007."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: 'prado'",
+      "url": "https://dle.rae.es/prado",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source for the meaning of 'prado' and its origin from Latin 'pratum'.",
+      "relevance_es": "Fuente léxica autorizada para el significado de 'prado' y su origen en el latín 'pratum'."
+    },
+    {
+      "title": "RTVE - Inauguración de los estudios de Prado del Rey",
+      "url": "https://www.rtve.es/rtve/20170727/inauguracion-estudios-prado-del-rey/1588124.shtml",
+      "type": "official",
+      "relevance_en": "RTVE source documenting the foundation and inauguration of the Prado del Rey studios on 18 July 1964, their replacement of TVE's Paseo de la Habana site, and later RNE presence.",
+      "relevance_es": "Fuente de RTVE que documenta la fundación e inauguración de los estudios de Prado del Rey el 18 de julio de 1964, su sustitución de la sede de TVE en el paseo de la Habana y la posterior presencia de RNE."
+    },
+    {
+      "title": "CRTM - Plano zonal Metro Ligero Prado del Rey",
+      "url": "https://www.crtm.es/media/bhrdhm1s/plano_zonal_metroligero_pradodelrey.pdf",
+      "type": "official",
+      "relevance_en": "Official zonal transport map showing local street names around the stop, including Calle Prado del Rey, Avenida de Radio y Televisión, and nearby Casa de la Radio.",
+      "relevance_es": "Plano zonal oficial de transportes que muestra la toponimia del entorno de la parada, incluida la calle Prado del Rey, la avenida de Radio y Televisión y la cercana Casa de la Radio."
+    },
+    {
+      "title": "El paisaje acuático de la Casa de Campo, Ayuntamiento de Madrid / Patrimonio y Paisaje",
+      "url": "https://patrimonioypaisaje.madrid.es/FWProjects/monumenta/ficheros/El%20paisaje%20acu%C3%A1tico%20de%20la%20casa%20de%20campo.%20Por%20Mar%C3%ADa%20Jos%C3%A9%20Egido%20Esteso.pdf",
+      "type": "official",
+      "relevance_en": "Official Madrid heritage PDF noting the Reja de Prado del Rey on the western wall of Casa de Campo and the Arroyo de Prado del Rey, supporting the local hydrological and boundary context.",
+      "relevance_es": "PDF oficial de patrimonio de Madrid que menciona la reja de Prado del Rey en la tapia occidental de la Casa de Campo y el arroyo de Prado del Rey, apoyando el contexto hidráulico y de límite del topónimo."
+    },
+    {
+      "title": "BOCM - Decreto 39/2010, Bien de Interés Cultural de la Casa de Campo de Madrid",
+      "url": "https://diario.madrid.es/cieacasadecampo/wp-content/uploads/sites/61/2020/10/BIC.BOCM-20101117-5.pdf",
+      "type": "official",
+      "relevance_en": "Official legal declaration of Casa de Campo as a Historic Site, useful for the nearby royal-estate and heritage context.",
+      "relevance_es": "Declaración legal oficial de la Casa de Campo como Sitio Histórico, útil para contextualizar el entorno de antiguo real sitio y patrimonio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from purely descriptive to place: the station is named after an existing area/place name, even though that place name is descriptively formed.",
+      "es": "Cambiar el tipo etimológico de puramente descriptivo a lugar: la estación toma el nombre de un topónimo o zona existente, aunque ese topónimo tenga formación descriptiva."
+    },
+    {
+      "en": "Qualify the royal-hunting-ground statement: the surrounding Casa de Campo was a royal estate and hunting landscape, but a direct source for the exact station area's Crown ownership was not found.",
+      "es": "Matizar la afirmación sobre el cazadero real: la Casa de Campo del entorno fue real sitio y paisaje de caza, pero no se localizó una fuente directa sobre la propiedad de la Corona en el punto exacto de la estación."
+    },
+    {
+      "en": "Use 18 July 1964, not just 1964, for the inauguration of RTVE's Prado del Rey studios.",
+      "es": "Usar el 18 de julio de 1964, no solo 1964, para la inauguración de los estudios de Prado del Rey de RTVE."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A historical cadastral map, IGN sheet, municipal archive record, or Real Sitio boundary document should be inspected to determine whether the exact Prado del Rey station area was Crown land or only adjacent to the royal Casa de Campo landscape.",
+      "es": "Conviene revisar un plano catastral histórico, una hoja del IGN, un documento del archivo municipal o una delimitación del Real Sitio para determinar si el punto exacto de la estación de Prado del Rey fue terreno de la Corona o solo colindante con el paisaje real de la Casa de Campo."
+    },
+    {
+      "en": "No earlier official name for the stop was found; construction or project documentation for Metro Ligero Oeste could confirm whether 'Prado del Rey' was fixed from the first project plans.",
+      "es": "No se encontró un nombre oficial anterior de la parada; la documentación de obra o proyecto de Metro Ligero Oeste podría confirmar si 'Prado del Rey' figuraba ya en los primeros planes."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_013/en/summary.short.md",
+      "summary": "content/stations/ml_013/en/summary.md",
+      "story": "content/stations/ml_013/en/story.md",
+      "confidence": "content/stations/ml_013/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_013/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_013/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_013/es/summary.short.md",
+      "summary": "content/stations/ml_013/es/summary.md",
+      "story": "content/stations/ml_013/es/story.md",
+      "confidence": "content/stations/ml_013/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_013/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_013/es/research-note.md"
+    }
+  }
+}

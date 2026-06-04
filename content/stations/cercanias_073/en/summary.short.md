@@ -1,0 +1,1 @@
+The station takes its compound name from Santa María de la Alameda, the municipality where it stands, and Peguerinos, the Ávila municipality it also serves. The older meanings point to a Marian place-name with an alameda, or poplar grove, and to Peguerinos' likely link with pegueros, makers or sellers of pitch.

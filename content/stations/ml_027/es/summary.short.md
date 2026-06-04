@@ -1,0 +1,1 @@
+Retamares toma el nombre de la zona de Retamares, en Pozuelo de Alarcón, junto a la M-511 y al complejo militar General Cavalcanti/Base de Retamares. El topónimo remite a retamar, palabra española que designa un terreno poblado de retamas.

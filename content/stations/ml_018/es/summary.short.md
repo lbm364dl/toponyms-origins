@@ -1,0 +1,1 @@
+Dos Castillas toma su nombre de la Vía de las Dos Castillas, en Pozuelo de Alarcón. El nombre de la vía alude probablemente a la división histórica entre Castilla la Vieja y Castilla la Nueva, con Madrid históricamente incluida en Castilla la Nueva.

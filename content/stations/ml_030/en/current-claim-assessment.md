@@ -1,0 +1,1 @@
+The station is correctly tied to the Prado del Espino area/business park in Boadilla del Monte, and the literal meaning of the words is well supported by dictionaries. The specific claim that hawthorn once grew wild exactly on the station site is plausible but not directly proven by the sources found.

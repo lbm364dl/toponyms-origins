@@ -1,0 +1,89 @@
+{
+  "id": "ml_034",
+  "name": "Nuevo Mundo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Avenida Nuevo Mundo, whose name refers to the historical term 'New World' for the Americas",
+  "previous_names": "",
+  "naming_date": "27/07/2007",
+  "sources": [
+    {
+      "title": "MLO Customer Service Centre - Nuevo Mundo",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "Metro Ligero Oeste states that Nuevo Mundo is an ML3 station located on a similarly named avenue in Boadilla del Monte.",
+      "relevance_es": "Metro Ligero Oeste indica que Nuevo Mundo es una estación de la ML3 situada en la avenida homónima de Boadilla del Monte."
+    },
+    {
+      "title": "Metro Ligero Oeste - Información corporativa",
+      "url": "https://www.metroligero-oeste.es/informacion-corporativa",
+      "type": "official",
+      "relevance_en": "Confirms MLO operates ML2 and ML3, connects Boadilla with Madrid, and gives 27/07/2007 as the inauguration date.",
+      "relevance_es": "Confirma que MLO explota las líneas ML2 y ML3, conecta Boadilla con Madrid y da el 27/07/2007 como fecha de inauguración."
+    },
+    {
+      "title": "Comunidad de Madrid - Callejero municipal de Boadilla del Monte",
+      "url": "https://gestiona.comunidad.madrid/iestadis/fijas/estructu/general/territorio/descarga/poster0225.pdf",
+      "type": "official",
+      "relevance_en": "Lists Avenida Nuevo Mundo and nearby streets including Cristóbal Colón, Hernán Cortés, Francisco Pizarro, Alonso de Ojeda, Francisco de Orellana, Pedro de Valdivia and Reyes Católicos.",
+      "relevance_es": "Enumera la Avenida Nuevo Mundo y calles cercanas como Cristóbal Colón, Hernán Cortés, Francisco Pizarro, Alonso de Ojeda, Francisco de Orellana, Pedro de Valdivia y Reyes Católicos."
+    },
+    {
+      "title": "Britannica - Americas",
+      "url": "https://www.britannica.com/place/Americas",
+      "type": "reference",
+      "relevance_en": "Explains the historical use of 'Mundus Novus' or 'New World' in relation to the Americas and Amerigo Vespucci.",
+      "relevance_es": "Explica el uso histórico de «Mundus Novus» o «Nuevo Mundo» en relación con América y Américo Vespucio."
+    },
+    {
+      "title": "Solo Boadilla - Un avión, un ancla... ¡y ahora un cañón antiaéreo!",
+      "url": "https://www.soloboadilla.es/actualidad/noticia/news/un-avion-un-ancla-y-ahora-un-canon-antiaereo/",
+      "type": "press",
+      "relevance_en": "Clarifies that the cannon cited in the input is an anti-aircraft piece installed as part of a broader Armed Forces homage, not direct evidence for Nuevo Mundo’s name.",
+      "relevance_es": "Aclara que el cañón citado en la entrada es una pieza antiaérea instalada como homenaje a las Fuerzas Armadas, no una prueba directa del nombre Nuevo Mundo."
+    },
+    {
+      "title": "Diario de Boadilla - La Armada cede un ancla que será colocada en la glorieta Virgen del Carmen",
+      "url": "https://www.diariodeboadilla.es/380800-la-armada-cede-un-ancla-que-sera-colocada-en-la-glorieta-virgen-del-carmen",
+      "type": "press",
+      "relevance_en": "Documents the anchor from the ship Hernán Cortés and notes that Cortijo Sur has streets dedicated to Spanish Navy figures, useful context but separate from the Nuevo Mundo station-name proof.",
+      "relevance_es": "Documenta el ancla del buque Hernán Cortés y señala que Cortijo Sur tiene calles dedicadas a figuras de la Armada Española, contexto útil pero separado de la prueba del nombre de la estación Nuevo Mundo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 'Avenida Nuevo Mundo' or 'Avenida del Nuevo Mundo' rather than 'Calle Nuevo Mundo'; MLO describes the station as located on the avenue of the same name.",
+      "es": "Conviene usar «Avenida Nuevo Mundo» o «Avenida del Nuevo Mundo», no «Calle Nuevo Mundo»; MLO describe la estación como situada en la avenida homónima."
+    },
+    {
+      "en": "The military-object detail is weak as etymological evidence. The anchor belongs to a separate Armada-themed Cortijo Sur area, and the cannon is an anti-aircraft Army piece, not a naval artifact explaining the station name.",
+      "es": "El detalle de los objetos militares es débil como prueba etimológica. El ancla pertenece a un ámbito distinto de Cortijo Sur con temática de la Armada, y el cañón es una pieza antiaérea del Ejército de Tierra, no un objeto naval que explique el nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Boadilla del Monte municipal plenary minutes, urban-development naming files or street-name decrees for the date and stated rationale of Avenida Nuevo Mundo.",
+      "es": "Consultar actas plenarias, expedientes urbanísticos de denominación o decretos del callejero de Boadilla del Monte para conocer la fecha y la motivación declarada de la Avenida Nuevo Mundo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_034/en/summary.short.md",
+      "summary": "content/stations/ml_034/en/summary.md",
+      "story": "content/stations/ml_034/en/story.md",
+      "confidence": "content/stations/ml_034/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_034/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_034/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_034/es/summary.short.md",
+      "summary": "content/stations/ml_034/es/summary.md",
+      "story": "content/stations/ml_034/es/story.md",
+      "confidence": "content/stations/ml_034/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_034/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_034/es/research-note.md"
+    }
+  }
+}

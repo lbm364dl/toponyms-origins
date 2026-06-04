@@ -1,0 +1,1 @@
+Siglo XXI is named for Avenida del Siglo XXI, the avenue beside the station in Boadilla del Monte. The name also identifies a newer residential sector reached by the ML3 light-rail line when it opened in 2007.

@@ -1,0 +1,1 @@
+The core claim is correct: the station name refers to Vicente Blasco Ibáñez, via the nearby street of the same name in Sanchinarro. The row is over-detailed for a station etymology and contains dataset/source issues, especially the district assignment and an irrelevant Jenaro Pérez Villaamil source.

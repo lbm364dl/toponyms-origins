@@ -1,0 +1,1 @@
+Cantabria station takes its name from Avenida de Cantabria, the avenue beside the stop at Ciudad Grupo Santander in Boadilla del Monte. The avenue appears to belong to a local Cantabrian naming theme linked to Banco Santander's historical origins in Santander.

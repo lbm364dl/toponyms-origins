@@ -1,0 +1,118 @@
+{
+  "id": "ml_046",
+  "name": "Parque Parla Este",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Parque de Parla-Este, now Parque del Universo, beside the Parla Este development",
+  "previous_names": "No former station name found; the adjacent park was known as Parque de Parla-Este / Parque Parla-Este before being renamed Parque del Universo in 2008.",
+  "naming_date": "2007-06-05",
+  "sources": [
+    {
+      "title": "CRTM - Parque Parla Este station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_58/",
+      "type": "official",
+      "relevance_en": "Officially confirms the station name Parque Parla Este, the operator context as Metro Ligero / Tranvia, fare zone and the surface access at Calle del Paraguay, 16 in Parla.",
+      "relevance_es": "Confirma oficialmente el nombre de la estación Parque Parla Este, su contexto como Metro Ligero / Tranvía, la zona tarifaria y el acceso en superficie en la calle del Paraguay, 16 de Parla."
+    },
+    {
+      "title": "CRTM - Tranvia de Parla line diagram",
+      "url": "https://crtm.es/datos_lineas/esquemas/10040.pdf",
+      "type": "official",
+      "relevance_en": "Shows Parque Parla Este as a stop on the circular Tranvia de Parla line, between Avenida Sistema Solar and Isabel II.",
+      "relevance_es": "Muestra Parque Parla Este como parada de la línea circular del Tranvía de Parla, entre Avenida Sistema Solar e Isabel II."
+    },
+    {
+      "title": "CRTM - Metros Ligeros y Tranvias en la Comunidad de Madrid / Light Rail in Madrid",
+      "url": "https://www.crtm.es/media/fluk4vaw/metros_ligeros_y_tranvias_en_madrid_bilingue_junio_2010.pdf",
+      "type": "official",
+      "relevance_en": "Provides official background on Tranvia de Parla, lists Parque Parla Este on the map, gives the opening date as 5 June 2007, and explains that Parla Este helped finance the tram through land value capture.",
+      "relevance_es": "Aporta contexto oficial del Tranvía de Parla, incluye Parque Parla Este en el plano, da como fecha de inauguración el 5 de junio de 2007 y explica la financiación vinculada al desarrollo de Parla Este."
+    },
+    {
+      "title": "Comunidad de Madrid - Consorcio Urbanistico Parla Este",
+      "url": "https://www.comunidad.madrid/medio-ambiente/consorcio-urbanistico-parla-este-parla",
+      "type": "official",
+      "relevance_en": "Confirms that the Community of Madrid and Parla City Council created the Consorcio Urbanistico Parla Este to develop, manage and execute land in the Parla Este urban-development area.",
+      "relevance_es": "Confirma que la Comunidad de Madrid y el Ayuntamiento de Parla crearon el Consorcio Urbanístico Parla Este para desarrollar, gestionar y ejecutar terrenos del ámbito urbanístico de Parla Este."
+    },
+    {
+      "title": "Ayuntamiento de Parla transparency portal - Relacion de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Municipal property inventory records Parque del Universo parcels in PAU-4 Bis Residencial Este, transferred on 17 June 2004 as public open spaces.",
+      "relevance_es": "El inventario municipal de inmuebles recoge parcelas del Parque del Universo en el PAU-4 Bis Residencial Este, cedidas el 17 de junio de 2004 como espacios libres."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Consejo Parla-Este boundary PDF",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2018/07/Consejo-Parla-Este.pdf",
+      "type": "official",
+      "relevance_en": "Defines the Parla-Este council area using names such as Avenida de las Galaxias and Avenida del Sistema Solar, but also Avenida de America, Avenida de las Comunidades Europeas, Calle Paris and the M-408, which qualifies the 'all streets are celestial' claim.",
+      "relevance_es": "Define el ámbito del Consejo Parla-Este con nombres como avenida de las Galaxias y avenida del Sistema Solar, pero también avenida de América, avenida de las Comunidades Europeas, calle París y la M-408, lo que matiza la afirmación de que todas las calles sean celestes."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Texto Refundido del Plan Parcial 4-Bis Residencial Este",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2021/11/02.-Refundido-P.P-4-Bis-Residencial-Este.pdf",
+      "type": "official",
+      "relevance_en": "Official planning text for PAU-4 Bis Residencial Este; confirms the public initiative through the Consorcio Urbanistico Parla Este and gives quantitative planning context, including 11,200 dwellings and building-height rules.",
+      "relevance_es": "Texto oficial de planeamiento del PAU-4 Bis Residencial Este; confirma la iniciativa pública mediante el Consorcio Urbanístico Parla Este y aporta contexto cuantitativo, incluidas 11.200 viviendas y reglas de altura edificatoria."
+    },
+    {
+      "title": "Diariocritico - Un parque de Parla recibe el Premio Alhambra por ser sostenible",
+      "url": "https://www.diariocritico.com/noticia/82629/noticias/un-parque-de-parla-recibe-el-premio-alhambra-por-ser-sostenible.html",
+      "type": "press",
+      "relevance_en": "Contemporary report from 24 June 2008 stating that the Parla plenary approved the renaming of the Parla-Este park as Parque del Universo and linking the name to the neighbourhood's street names.",
+      "relevance_es": "Noticia contemporánea del 24 de junio de 2008 que afirma que el Pleno de Parla aprobó renombrar el parque de Parla-Este como Parque del Universo y vincula el nombre con el callejero del barrio."
+    },
+    {
+      "title": "Tranvia de Parla - Carta de Servicios 2024-2025",
+      "url": "https://viaparla.com/wp-content/uploads/2024/01/Carta-Servicios-Tranvia-de-Parla_2024_25.pdf",
+      "type": "official",
+      "relevance_en": "Operator service charter confirming that Tranvia de Parla began passenger service in 2007 with one circular line, 15 stops and a length of 8.3 km.",
+      "relevance_es": "Carta de servicios del operador que confirma que Tranvía de Parla comenzó a prestar servicio de viajeros en 2007 con una línea circular, 15 paradas y 8,3 km de longitud."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace 'all streets bear celestial names' with a narrower claim: much of Parla Este's street naming follows an astronomy theme, but official boundary documents include non-astronomical names too.",
+      "es": "Sustituir «todas sus calles llevan nombres celestes» por una formulación más precisa: buena parte del callejero de Parla Este sigue una temática astronómica, pero los documentos oficiales de límites incluyen también nombres no astronómicos."
+    },
+    {
+      "en": "Mention that the park now appears officially as Parque del Universo, while the tram stop preserves Parque Parla Este.",
+      "es": "Indicar que el parque figura actualmente como Parque del Universo, mientras que la parada conserva Parque Parla Este."
+    },
+    {
+      "en": "Avoid the unsupported claim that the astronomy-themed grid is unique in Spanish urbanism unless a specialist urban-planning source is found.",
+      "es": "Evitar la afirmación no acreditada de que la trama astronómica sea única en el urbanismo español salvo que se localice una fuente urbanística especializada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal plenary minute or official naming file from 2008 would be the best source to verify the exact legal date of the park's renaming to Parque del Universo.",
+      "es": "Un acta del Pleno municipal o expediente oficial de denominación de 2008 sería la mejor fuente para verificar la fecha legal exacta del cambio de nombre del parque a Parque del Universo."
+    },
+    {
+      "en": "A station-naming file from CRTM, Tranvia de Parla or the concession project would be needed to turn the inferred station etymology into a fully documented naming act.",
+      "es": "Un expediente de denominación de la estación del CRTM, de Tranvía de Parla o del proyecto concesional permitiría convertir la etimología inferida en un acto de denominación plenamente documentado."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_046/en/summary.short.md",
+      "summary": "content/stations/ml_046/en/summary.md",
+      "story": "content/stations/ml_046/en/story.md",
+      "confidence": "content/stations/ml_046/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_046/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_046/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_046/es/summary.short.md",
+      "summary": "content/stations/ml_046/es/summary.md",
+      "story": "content/stations/ml_046/es/story.md",
+      "confidence": "content/stations/ml_046/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_046/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_046/es/research-note.md"
+    }
+  }
+}

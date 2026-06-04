@@ -1,0 +1,1 @@
+Ventorro del Cano is named for the Alcorcón industrial estate around the station. That place-name preserves the memory of an old roadside inn or ventorro associated with José 'El Cano', a local figure remembered in Alcorcón history.

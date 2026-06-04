@@ -1,0 +1,9 @@
+The ML3 stop is named after its immediate surroundings. Metro Ligero Oeste describes Ventorro del Cano as a station at Calle del Tranvía and Calle Arroyomolinos, within the industrial estate that gives the station its name, in the municipality of Alcorcón and close to Boadilla del Monte.
+
+Behind the modern industrial estate is an older roadside place-name. In Spanish, a ventorro is a small or poor venta: an inn or eating-and-lodging place for people travelling along roads outside towns. The Alcorcón name therefore points back to a service place for travellers rather than to a modern urban development.
+
+The most detailed inspected account comes from Alcorcón local historian Faustino Moreno Villalba, republished in municipal digitized material. He places the ventorro at the meeting of roads between Madrid, Boadilla, Alcorcón and Pozuelo, and says it had once been a centre of stopping, post activity, carriage changing and transhipment. Merchants, shepherds, farmers, bandits and diligences are all part of the local memory attached to the site.
+
+That same source explains the 'Cano' part with a person: José 'El Cano'. After destruction in the Peninsular War, the ventorro was rebuilt on a smaller scale; in the period being described, around 1828, it was in the charge of José 'El Cano', whose byname gave the place the name by which it was still remembered. Another passage in the municipal book identifies José 'el Cano' as a man from Alcorcón who had belonged to Juan Palomo's guerrilla band during the War of Independence.
+
+For that reason the safest interpretation is not simply 'Cano's inn' as a documented surname, but 'the ventorro associated with José El Cano'. The physical establishment disappeared, but the toponym survived: the source says the last vestige, a well on the site, was filled in in 1971, and a 2013 official regional notice still describes a route beginning in the paraje Ventorro del Cano, beside the ruins of the ventorro.

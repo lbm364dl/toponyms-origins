@@ -1,0 +1,1 @@
+Los Negrales station is named after the surrounding residential area on the Alpedrete side of the Collado Villalba border. Local school history traces the place-name to a nearby wood of pino negral, a dark-barked pine name documented in Madrid for Pinus pinaster.

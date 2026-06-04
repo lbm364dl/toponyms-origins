@@ -1,0 +1,1 @@
+La parada de ML2 lleva el nombre de la Colonia de los Ángeles, la colonia residencial de Pozuelo de Alarcón en la que se encuentra. La colonia fue fundada y parcelada en 1926, dentro de la oleada de «colonias de hotelitos» de principios del siglo XX en torno a Pozuelo.

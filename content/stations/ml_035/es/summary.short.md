@@ -1,0 +1,1 @@
+Siglo XXI toma su nombre de la Avenida del Siglo XXI, junto a la estación en Boadilla del Monte. El nombre identifica también un sector residencial reciente al que llegó la línea ML3 de metro ligero desde su apertura en 2007.

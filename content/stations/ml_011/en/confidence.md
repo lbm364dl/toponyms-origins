@@ -1,0 +1,1 @@
+Official transport and municipal sources verify the station, its position, line and opening date, and the Pozuelo municipal page explicitly names Prado de la Vega as a residential area served by ML2. The lexical meaning is verified by the RAE. The exact administrative decision naming the station was not found, so the direct etymology is probable rather than fully documented.

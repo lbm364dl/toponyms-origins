@@ -1,0 +1,1 @@
+La estación de Cantabria toma su nombre de la Avenida de Cantabria, situada junto a la parada en la Ciudad Grupo Santander de Boadilla del Monte. La avenida parece formar parte de un tema viario cántabro vinculado al origen histórico del Banco Santander en Santander.

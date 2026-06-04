@@ -1,0 +1,1 @@
+The Cercanías station combines the neighbourhood name Mirasierra with Paco de Lucía, the flamenco guitarist honored by the adjoining Metro station. The name replaced earlier planning references such as Costa Brava after the regional government chose the tribute in February 2014.

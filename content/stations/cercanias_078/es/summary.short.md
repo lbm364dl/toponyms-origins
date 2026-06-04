@@ -1,0 +1,1 @@
+La estación de Cercedilla toma su nombre del municipio serrano al que sirve. El topónimo se explica mejor como diminutivo de la cercana Cerceda, nombre relacionado en última instancia con vocabulario latino del roble y los bosques de robles.

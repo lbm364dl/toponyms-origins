@@ -1,0 +1,1 @@
+Esta parada del tranvía lleva el nombre del Polígono Industrial Ciudad de Parla, el área industrial a la que da servicio en la calle Berlín. Abrió con el tramo Parque Parla Este-Polígono Industrial el 8 de septiembre de 2007.

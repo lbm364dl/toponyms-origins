@@ -1,0 +1,103 @@
+{
+  "id": "ml_016",
+  "name": "Pozuelo Oeste",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Western sector of Pozuelo de Alarcón; Pozuelo is a Castilian diminutive of pozo, with the second element Alarcón fixed from the Ocaña y Alarcón lordship",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "CRTM station page: Pozuelo Oeste",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_16/",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name, transport mode, fare zone, connections and access at Ctra. Carabanchel (M-502), 63, Pozuelo de Alarcón.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, el modo de transporte, la zona tarifaria, las correspondencias y el acceso en Ctra. Carabanchel (M-502), 63, Pozuelo de Alarcón."
+    },
+    {
+      "title": "Metro Ligero Colonia Jardín-Pozuelo de Alarcón, Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Lists Pozuelo Oeste among the ML2 stops and describes its location beside the M-502, opposite the fire station and 112 emergency facilities, near La Finca and landscaped areas.",
+      "relevance_es": "Enumera Pozuelo Oeste entre las paradas de la ML2 y describe su ubicación junto a la M-502, frente al parque de bomberos y las instalaciones del 112, cerca de La Finca y zonas ajardinadas."
+    },
+    {
+      "title": "Metro ligero, Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/transportes-y-movilidad/red-de-transporte-publico/metro-ligero",
+      "type": "official",
+      "relevance_en": "Confirms ML2 serves Pozuelo with 13 stops and lists Pozuelo Oeste as stop 7, contextualizing the line within local public transport.",
+      "relevance_es": "Confirma que la ML2 da servicio a Pozuelo con 13 paradas y enumera Pozuelo Oeste como la parada 7, contextualizando la línea dentro del transporte público local."
+    },
+    {
+      "title": "Historia, Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Provides the municipal account of the name: wells and springs, first mention in 1208, former name Pozuelo de Aravaca and the 1632 change tied to Gabriel Ocaña de Alarcón.",
+      "relevance_es": "Aporta la explicación municipal del nombre: pozos y manantiales, primera mención en 1208, antiguo nombre Pozuelo de Aravaca y cambio de 1632 vinculado a Gabriel Ocaña de Alarcón."
+    },
+    {
+      "title": "Pozuelo de Alarcón, Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/node/3294",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic source explaining Pozuelo as a Castilian diminutive of pozo and Alarcón as an anthroponymic element tied to the 1632 lordship.",
+      "relevance_es": "Fuente toponímica autorizada que explica Pozuelo como diminutivo castellano de pozo y Alarcón como elemento antroponímico vinculado al señorío de 1632."
+    },
+    {
+      "title": "PŬTĔŎLU, Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/etimo/puteolu",
+      "type": "academic",
+      "relevance_en": "Clarifies that Latin PUTEOLUS existed but that many Castilian Pozuelo place names are better understood as Romance or Castilian formations, not automatically direct Latin survivals.",
+      "relevance_es": "Aclara que existió el latín PUTEOLUS, pero que muchos topónimos castellanos Pozuelo se entienden mejor como formaciones romances o castellanas, no automáticamente como supervivencias latinas directas."
+    },
+    {
+      "title": "BOCM declaration: Conjunto Hidráulico de La Poza, 13 May 2024",
+      "url": "https://www.comunidad.madrid/sites/default/files/11._pozuelo_de_alarcon._conjunto_hidraulico_de_la_poza_dec.pdf",
+      "type": "official",
+      "relevance_en": "Regional heritage declaration linking Pozuelo's name to wells and springs, documenting Pozuelo de Aravaca, and giving a nuanced version of the 1632 sale to Luis de Ocaña y Alarcón for Gabriel's mayorazgo.",
+      "relevance_es": "Declaración patrimonial regional que vincula el nombre de Pozuelo a pozos y manantiales, documenta Pozuelo de Aravaca y ofrece una versión matizada de la venta de 1632 a Luis de Ocaña y Alarcón para el mayorazgo de Gabriel."
+    },
+    {
+      "title": "Corporate Information, Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste is the concession holder for ML2 and ML3 and gives the inauguration date as 27/07/07.",
+      "relevance_es": "Confirma que Metro Ligero Oeste es la concesionaria de las líneas ML2 y ML3 y da como fecha de inauguración el 27/07/07."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Avoid saying that Pozuelo directly derives from Latin PUTEOLU as a proven survival; Toponomasticon Hispaniae says the form is clearly a Castilian diminutive of pozo, although the same diminutive existed in Latin.",
+      "es": "Conviene evitar afirmar que Pozuelo procede directamente del latín PUTEOLU como supervivencia probada; Toponomasticon Hispaniae dice que la forma es claramente un diminutivo castellano de pozo, aunque ese diminutivo existiera también en latín."
+    },
+    {
+      "en": "The 1632 lordship story needs nuance: sources agree on the Ocaña y Alarcón family and the shift from Pozuelo de Aravaca, but differ on whether to name Gabriel directly as buyer or Luis as purchaser for Gabriel's mayorazgo.",
+      "es": "La historia señorial de 1632 necesita matiz: las fuentes coinciden en la familia Ocaña y Alarcón y en el paso desde Pozuelo de Aravaca, pero difieren entre nombrar directamente a Gabriel como comprador o a Luis como comprador para el mayorazgo de Gabriel."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the original 2007 station-naming or project documentation, if preserved by CRTM or the Community of Madrid, to confirm the formal reason for the name Pozuelo Oeste.",
+      "es": "Localizar la documentación original de denominación o proyecto de 2007, si se conserva en el CRTM o la Comunidad de Madrid, para confirmar la razón formal del nombre Pozuelo Oeste."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_016/en/summary.short.md",
+      "summary": "content/stations/ml_016/en/summary.md",
+      "story": "content/stations/ml_016/en/story.md",
+      "confidence": "content/stations/ml_016/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_016/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_016/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_016/es/summary.short.md",
+      "summary": "content/stations/ml_016/es/summary.md",
+      "story": "content/stations/ml_016/es/story.md",
+      "confidence": "content/stations/ml_016/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_016/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_016/es/research-note.md"
+    }
+  }
+}

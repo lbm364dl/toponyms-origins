@@ -1,0 +1,1 @@
+The direct naming claim is well supported: the ML2 terminus is in Aravaca and uses the name of the historic place and present Madrid neighbourhood. The row overstates certainty for the deeper etymology and appears to conflate the Fuero of Madrid under Alfonso VIII with the 1222 delimitation usually attributed to Fernando III.

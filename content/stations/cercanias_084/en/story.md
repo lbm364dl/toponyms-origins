@@ -1,0 +1,9 @@
+The Cercanías station is named simply for the municipality of Tres Cantos. In transport terms the name is local and geographic: Renfe identifies the station as being in the municipality of the same name, on the Cercanías Madrid C-4 corridor.
+
+The older name behind the municipality is unusually readable. In Castilian, tres means 'three' and canto can mean a piece of stone, rock or boulder. Toponomasticon Hispaniae classifies the name as a transparent place-name and explains that canto here probably has the more specific sense of a stone boundary marker.
+
+That boundary reading matters because Tres Cantos was not originally an old self-governing town. The scholarly explanation says the three stones probably referred to the meeting point of the terms of Colmenar Viejo, Alcobendas and Madrid. The modern city was later planned in the 1970s as a satellite or new-town development and remained linked administratively to Colmenar Viejo until the Community of Madrid approved its separation on 21 March 1991.
+
+The railway name belongs to that modern phase. Works to integrate Tres Cantos into Madrid's Cercanías network were under way by 1990, and the Archivo Histórico Ferroviario records the inauguration of the Tres Cantos Cercanías section in 1991. The station therefore preserves an older rural toponym inside a very modern urban and commuter landscape.
+
+The best-supported interpretation is 'three stones' understood as boundary stones, but not every detail is equally secure. Local accounts place three granite stones near today's Avenida de los Encuartes, while Toponomasticon Hispaniae is more cautious and says the municipal-boundary explanation is probable. The claim that canto is definitely pre-Roman or Celtic should be softened: the RAE records a Celtic origin for one sense of canto, while Toponomasticon says the origin of the stone sense remains uncertain and that a pre-Roman, perhaps Celtic, origin has been proposed without conclusive proof.

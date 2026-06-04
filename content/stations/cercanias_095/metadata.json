@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_095",
+  "name": "Zarzalejo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Municipality of Zarzalejo",
+  "previous_names": "El Zarzalejo is reported as an occasional eighteenth-century documentary form for the place; the station-side settlement is also known as Zarzalejo Estación or Los Pajares.",
+  "naming_date": "1 July 1863 (railway section inauguration; no separate station naming act found)",
+  "sources": [
+    {
+      "title": "Ficha de estación 10204 ZARZALEJO",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10204.pdf",
+      "type": "official",
+      "relevance_en": "Renfe's station sheet confirms the station name, code 10204, operator Renfe Viajeros, municipality Zarzalejo, coordinates, and Cercanias Madrid commercial line data.",
+      "relevance_es": "La ficha de Renfe confirma el nombre de la estación, el código 10204, el explotador Renfe Viajeros, el municipio de Zarzalejo, las coordenadas y los datos de línea comercial de Cercanías Madrid."
+    },
+    {
+      "title": "10204 Zarzalejo - Adif",
+      "url": "https://www.adif.es/w/10204-zarzalejo",
+      "type": "official",
+      "relevance_en": "Adif confirms the passenger station name and address in Zarzalejo, supporting that the transport name is inherited from the municipality.",
+      "relevance_es": "Adif confirma el nombre de la estación de viajeros y su dirección en Zarzalejo, lo que apoya que el nombre ferroviario procede del municipio."
+    },
+    {
+      "title": "El oeste de Madrid",
+      "url": "https://www.madrid.org/bvirtual/BVCM001576.pdf",
+      "type": "official",
+      "relevance_en": "This Comunidad de Madrid publication directly discusses Zarzalejo's toponym, notes the form El Zarzalejo in some eighteenth-century documents, quotes Andrés Marín, distinguishes the local legend, and gives the 1 July 1863 railway opening.",
+      "relevance_es": "Esta publicación de la Comunidad de Madrid trata directamente el topónimo Zarzalejo, menciona la forma El Zarzalejo en algunos documentos del siglo XVIII, cita a Andrés Marín, diferencia la leyenda local y da la fecha de inauguración ferroviaria del 1 de julio de 1863."
+    },
+    {
+      "title": "Zarzalejo - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/centros/zarzalejo",
+      "type": "official",
+      "relevance_en": "The regional municipal page identifies Zarzalejo as a municipality and records the municipal arms, whose first quarter includes a bramble and Las Machotas.",
+      "relevance_es": "La página regional identifica Zarzalejo como municipio y recoge el escudo municipal, cuyo primer cuartel incluye una zarza y Las Machotas."
+    },
+    {
+      "title": "Inicio - Ayuntamiento de Zarzalejo",
+      "url": "https://www.zarzalejo.es/inicio/",
+      "type": "official",
+      "relevance_en": "The municipal website describes Zarzalejo's landscape and says the municipal coat of arms reflects four symbols, including the bramble.",
+      "relevance_es": "La web municipal describe el paisaje de Zarzalejo y afirma que el escudo refleja cuatro símbolos, entre ellos la zarza."
+    },
+    {
+      "title": "Zarzalejo - ADI Sierra Oeste de Madrid",
+      "url": "https://www.sierraoeste.org/zarzalejo/",
+      "type": "official",
+      "relevance_en": "The Sierra Oeste local development association states that the municipality's name comes from zarza because brambles are abundant in the landscape, and it documents Zarzalejo Estación/Los Pajares as a current settlement name.",
+      "relevance_es": "La Asociación de Desarrollo de la Sierra Oeste afirma que el nombre del municipio procede de zarza por su abundancia en el paisaje y documenta Zarzalejo Estación/Los Pajares como denominación de un núcleo actual."
+    },
+    {
+      "title": "zarza | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/zarza",
+      "type": "reference",
+      "relevance_en": "The DLE defines zarza as a bramble or blackberry bush and gives its older form sarza and preromance origin, supporting the lexical base of the toponym.",
+      "relevance_es": "El DLE define zarza como arbusto espinoso o zarzamora y da la forma antigua sarza y su origen prerromano, lo que respalda la base léxica del topónimo."
+    },
+    {
+      "title": "zarzal | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/zarzal",
+      "type": "reference",
+      "relevance_en": "The DLE defines zarzal as a place populated by brambles, supporting the literal interpretation of the intermediate form behind Zarzalejo.",
+      "relevance_es": "El DLE define zarzal como sitio poblado de zarzas, lo que respalda la interpretación literal de la forma intermedia detrás de Zarzalejo."
+    },
+    {
+      "title": "Moraleja - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/moraleja",
+      "type": "academic",
+      "relevance_en": "Toponomasticon Hispaniae explains that collective and diminutive suffixation of plant species is frequent in Spanish toponymy and explicitly lists Zarzalejo among examples such as Almendralejo and Carrascalejo.",
+      "relevance_es": "Toponomasticon Hispaniae explica que la sufijación colectiva y diminutiva de especies vegetales es frecuente en la toponimia española y cita expresamente Zarzalejo entre ejemplos como Almendralejo y Carrascalejo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station name as a place-name, because the station is named after the municipality; the descriptive plant etymology belongs to the underlying municipal toponym.",
+      "es": "Clasificar el nombre de la estación como topónimo de lugar, porque la estación toma el nombre del municipio; la etimología vegetal descriptiva corresponde al topónimo municipal subyacente."
+    },
+    {
+      "en": "Add the older form El Zarzalejo, reported in some eighteenth-century documents, as historical context rather than a former station name.",
+      "es": "Añadir la forma antigua El Zarzalejo, documentada en algunos textos del siglo XVIII, como contexto histórico y no como antiguo nombre de la estación."
+    },
+    {
+      "en": "Mention the local apparition-on-a-bramble legend as tradition, not as the best-supported etymology.",
+      "es": "Mencionar la leyenda local de la aparición sobre una zarza como tradición, no como la etimología mejor respaldada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original eighteenth-century documents cited by the Comunidad de Madrid guide to verify the exact forms and dates of El Zarzalejo.",
+      "es": "Revisar los documentos originales del siglo XVIII citados por la guía de la Comunidad de Madrid para verificar las formas y fechas exactas de El Zarzalejo."
+    },
+    {
+      "en": "Check railway company records from the 1863 opening of the El Escorial-Ávila section for the exact initial station name and any later administrative renaming.",
+      "es": "Consultar documentación ferroviaria de la inauguración de 1863 del tramo El Escorial-Ávila para confirmar el nombre inicial exacto de la estación y posibles renombramientos administrativos posteriores."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_095/en/summary.short.md",
+      "summary": "content/stations/cercanias_095/en/summary.md",
+      "story": "content/stations/cercanias_095/en/story.md",
+      "confidence": "content/stations/cercanias_095/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_095/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_095/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_095/es/summary.short.md",
+      "summary": "content/stations/cercanias_095/es/summary.md",
+      "story": "content/stations/cercanias_095/es/story.md",
+      "confidence": "content/stations/cercanias_095/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_095/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_095/es/research-note.md"
+    }
+  }
+}

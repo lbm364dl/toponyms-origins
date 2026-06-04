@@ -1,0 +1,1 @@
+Cocheras recibe su nombre de las cocheras y oficinas de Metro Ligero Oeste situadas junto a la parada de la ML3 en la calle Edgar Neville. La palabra designa un garaje o depósito de vehículos y aquí alude directamente a la base de mantenimiento del metro ligero.

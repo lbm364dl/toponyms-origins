@@ -1,0 +1,1 @@
+The main claim is well supported: the station takes the name of the Valdebebas urban area, whose name is ultimately tied to the Arroyo de Valdebebas. The explanation of 'bebas' as related to drinking or a pre-Romance substrate is plausible but not directly verified in the stronger sources found, and some park-water details should be softened.

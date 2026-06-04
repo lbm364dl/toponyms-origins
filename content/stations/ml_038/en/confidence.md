@@ -1,0 +1,1 @@
+The current operator and the regional transport consortium list a stop named Plaza de Toros, and municipal/technical documents identify a nearby Plaza de Toros Municipal in Parla. The direct descriptive origin is therefore well supported, although the exact administrative naming decision was not located.

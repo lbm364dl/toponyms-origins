@@ -1,0 +1,1 @@
+Official CRTM data confirms the stop name and its location on Calle Julio Romero de Torres, while the Prado and Córdoba municipal museum provide authoritative biographical support for the named person. Confidence is verified for the station-name origin through the street and the person identified, but the exact municipal street-naming act was not located.

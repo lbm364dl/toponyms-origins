@@ -1,0 +1,1 @@
+Las fuentes oficiales de transporte verifican la ubicación de la estación en la Vía de las Dos Castillas, y las fuentes históricas de referencia verifican el sentido de Castilla la Vieja y Castilla la Nueva. La confianza es probable, no plenamente verificada, porque no se ha encontrado el acuerdo municipal de rotulación ni una explicación oficial del nombre de la vía.

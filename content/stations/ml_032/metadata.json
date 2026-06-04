@@ -1,0 +1,104 @@
+{
+  "id": "ml_032",
+  "name": "Ferial de Boadilla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Recinto ferial de Boadilla del Monte",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro Ligero Oeste - Atencion al cliente / estaciones ML3",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Operator source identifying Ferial de Boadilla as an ML3 station near the local fairground, on the Villaviciosa road.",
+      "relevance_es": "Fuente del operador que identifica Ferial de Boadilla como estación de la ML3 próxima al recinto ferial de la localidad, junto a la carretera de Villaviciosa."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Ferial de Boadilla",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_33/",
+      "type": "official",
+      "relevance_en": "Current CRTM station page confirming the station name, ML3 context, fare zone and access at Ctra. de Boadilla-Villaviciosa, 13A.",
+      "relevance_es": "Página actual del CRTM que confirma el nombre de la estación, su contexto en la ML3, la zona tarifaria y el acceso en la Ctra. de Boadilla-Villaviciosa, 13A."
+    },
+    {
+      "title": "Ordenanza reguladora de los usos y actividades a desarrollar en el recinto ferial durante las fiestas patronales de Boadilla del Monte",
+      "url": "https://ayuntamientoboadilladelmonte.org/sites/default/files/documentos/ordenanzas/ordenanza_recinto_ferial.pdf",
+      "type": "official",
+      "relevance_en": "Municipal ordinance defining the recinto ferial, locating it beside the light-rail stop on the Villaviciosa de Odon road, and linking it to the Nuestra Senora del Rosario festivities in October.",
+      "relevance_es": "Ordenanza municipal que define el recinto ferial, lo sitúa junto a la parada de metro ligero en la carretera de Villaviciosa de Odón y lo vincula a las fiestas de Nuestra Señora del Rosario en octubre."
+    },
+    {
+      "title": "Real Academia Espanola, Diccionario de la lengua espanola - feria",
+      "url": "https://dle.rae.es/feria",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source for the Spanish word feria, its Latin origin and its meanings as market, festivities, fairground installations and exhibition space.",
+      "relevance_es": "Fuente léxica autorizada para la palabra española «feria», su origen latino y sus sentidos como mercado, festejos, instalaciones feriales y espacio expositivo."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Boadilla del Monte",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/boadilla-del-monte",
+      "type": "academic",
+      "relevance_en": "Specialist toponymic source explaining Boadilla del Monte as part of the Boad-/Bovad-/Bobad- family and rejecting a simple personal-name explanation for the town name.",
+      "relevance_es": "Fuente toponímica especializada que explica Boadilla del Monte dentro de la familia Boad-/Bovad-/Bobad- y descarta una explicación simple por antropónimo para el nombre de la localidad."
+    },
+    {
+      "title": "Metro Ligero Oeste - Se cumplen diez anos desde el primer recorrido de Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/sala-de-prensa/noticias/100410-se-cumplen-diez-anos-desde-el-primer-recorrido-de-metro-ligero-oeste-es",
+      "type": "official",
+      "relevance_en": "MLO press note documenting that commercial service began on 27 July 2007 from Colonia Jardin to Puerta de Boadilla.",
+      "relevance_es": "Nota de prensa de MLO que documenta que el servicio comercial comenzó el 27 de julio de 2007 entre Colonia Jardín y Puerta de Boadilla."
+    },
+    {
+      "title": "Enciclopedia del Romanico en Madrid - Boadilla del Monte",
+      "url": "https://www.romanicodigital.com/sites/default/files/pdfs/files/madrid_BOADILLA_DEL_MONTE.pdf",
+      "type": "academic",
+      "relevance_en": "Secondary scholarly source summarising competing theories for the Boadilla place name and giving early documentary references from 1208 and later medieval records.",
+      "relevance_es": "Fuente académica secundaria que resume las teorías sobre el topónimo Boadilla y aporta referencias documentales tempranas de 1208 y de registros medievales posteriores."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present Beatriz de Bobadilla as a plausible origin of Boadilla del Monte; Toponomasticon Hispaniae and other historical evidence show the place-name family is older and toponymic, not derived from that person.",
+      "es": "No debe presentarse a Beatriz de Bobadilla como origen plausible de Boadilla del Monte; Toponomasticon Hispaniae y la evidencia histórica muestran que la familia del topónimo es anterior y toponímica, no derivada de esa persona."
+    },
+    {
+      "en": "The Arabic explanation of Boadilla should be downgraded to a weak or older hypothesis; current specialist toponymy favours possible Boad-/Bovad-/Bobad- origins connected with *BÛWITHA or Latin-Romance *BŎVĀTA.",
+      "es": "La explicación árabe de Boadilla debe rebajarse a hipótesis débil o antigua; la toponimia especializada actual prefiere posibles orígenes Boad-/Bovad-/Bobad- vinculados con *BÛWITHA o con el latino-romance *BŎVĀTA."
+    },
+    {
+      "en": "The station should be classified as descriptive/place-based, not as named after the Virgen del Rosario; the Marian feast explains the fairground's annual use, not the station name itself.",
+      "es": "La estación debe clasificarse como descriptiva o vinculada a un lugar, no como dedicada a la Virgen del Rosario; la advocación mariana explica el uso anual del recinto ferial, no el nombre de la estación en sí."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The formal naming resolution or construction-era station list for ML3 was not located; it would be useful to inspect Comunidad de Madrid or CRTM project documentation from 2004-2007.",
+      "es": "No se ha localizado la resolución formal de denominación ni la lista de estaciones de obra de la ML3; sería útil revisar documentación de proyecto de la Comunidad de Madrid o del CRTM de 2004-2007."
+    },
+    {
+      "en": "The exact date when the municipal fairground itself received its current layout or official designation was not found.",
+      "es": "No se ha encontrado la fecha exacta en que el recinto ferial municipal recibió su configuración o denominación oficial actual."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_032/en/summary.short.md",
+      "summary": "content/stations/ml_032/en/summary.md",
+      "story": "content/stations/ml_032/en/story.md",
+      "confidence": "content/stations/ml_032/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_032/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_032/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_032/es/summary.short.md",
+      "summary": "content/stations/ml_032/es/summary.md",
+      "story": "content/stations/ml_032/es/story.md",
+      "confidence": "content/stations/ml_032/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_032/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_032/es/research-note.md"
+    }
+  }
+}

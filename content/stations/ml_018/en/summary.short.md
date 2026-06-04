@@ -1,0 +1,1 @@
+Dos Castillas is named from Vía de las Dos Castillas in Pozuelo de Alarcón. The road name most likely invokes the historical division between Old Castile and New Castile, with Madrid historically counted in New Castile.

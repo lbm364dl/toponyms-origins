@@ -1,0 +1,1 @@
+Nuevo Mundo is named for Avenida Nuevo Mundo in Boadilla del Monte. The avenue’s name evokes the historical European term for the Americas, reinforced by nearby streets named for Columbus, Cortés, Pizarro, Orellana and other figures of Iberian expansion.

@@ -1,0 +1,1 @@
+Las Zorreras toma su nombre del paraje o zona de Las Zorreras, en Navalquejigo, El Escorial. El topónimo probablemente alude a madrigueras o lugares vinculados a zorros, aunque ese último paso es una inferencia lingüística y no una denominación documentada.

@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_073",
+  "name": "Santa María de la Alameda-Peguerinos",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Santa María de la Alameda municipality and nearby Peguerinos municipality",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif - Santa María de la Alameda-Peguerinos",
+      "url": "https://www.adif.es/ca-AD/w/10206-s.mar%C3%ADa-alameda-p.",
+      "type": "official",
+      "relevance_en": "Confirms the official Adif station name and its address in Santa María de la Alameda-Estación.",
+      "relevance_es": "Confirma el nombre oficial de la estación en Adif y su dirección en Santa María de la Alameda-Estación."
+    },
+    {
+      "title": "Renfe Cercanías Madrid map, January 2025",
+      "url": "https://www.renfe.com/content/dam/renfe/es/Viajeros/Secciones/Cercanias/Mapas/2025/Mapa_Madrid_Cercanias.pdf",
+      "type": "official",
+      "relevance_en": "Shows the full station name on the Cercanías Madrid network map and places it on the current C-8a branch.",
+      "relevance_es": "Muestra el nombre completo de la estación en el plano de Cercanías Madrid y la sitúa en el ramal actual C-8a."
+    },
+    {
+      "title": "CRTM - Santa María de la Alameda station",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_76/",
+      "type": "official",
+      "relevance_en": "Gives current public transport information for the stop, including the C-8a correspondence and access points in Santa María de la Alameda.",
+      "relevance_es": "Aporta información actual de transporte público para la parada, incluida la correspondencia C-8a y los accesos en Santa María de la Alameda."
+    },
+    {
+      "title": "Ayuntamiento de Santa María de la Alameda - Historia",
+      "url": "https://santamariadelaalameda.com/turismo/historia/",
+      "type": "official",
+      "relevance_en": "States that the town's foundation is uncertain, links its origin to post-conquest repopulation, and gives a possible surname-based origin for the name.",
+      "relevance_es": "Indica que la fundación del pueblo es incierta, relaciona su origen con la repoblación posterior a la reconquista y ofrece una posible procedencia del nombre en un apellido."
+    },
+    {
+      "title": "Ayuntamiento de Santa María de la Alameda - Patrimonio",
+      "url": "https://santamariadelaalameda.com/turismo/patrimonio-2/",
+      "type": "official",
+      "relevance_en": "Documents the parish church of Nuestra Señora de la Alameda and dates its construction to the sixteenth century.",
+      "relevance_es": "Documenta la iglesia parroquial de Nuestra Señora de la Alameda y fecha su construcción en el siglo XVI."
+    },
+    {
+      "title": "ADI Sierra Oeste de Madrid - Santa María de la Alameda",
+      "url": "https://www.sierraoeste.org/santa-maria-de-la-alameda/",
+      "type": "official",
+      "relevance_en": "Provides local historical context, the dispersed settlement pattern, the 1528 census, the 1769 independence from Robledo de Chavela, the railway's 1863 role, and the possible link with El Alaminejo.",
+      "relevance_es": "Aporta contexto histórico local, el poblamiento disperso, el censo de 1528, la independencia de Robledo de Chavela en 1769, el papel del ferrocarril desde 1863 y el posible vínculo con El Alaminejo."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - alameda",
+      "url": "https://dle.rae.es/alameda",
+      "type": "reference",
+      "relevance_en": "Defines alameda as a place populated with poplars or a poplar-lined walk, supporting the landscape element of the place-name.",
+      "relevance_es": "Define alameda como sitio poblado de álamos o paseo con álamos, lo que respalda el elemento paisajístico del topónimo."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - peguero, ra",
+      "url": "https://dle.rae.es/peguero",
+      "type": "reference",
+      "relevance_en": "Defines peguero as a person who extracts, makes, or deals in pitch, and peguera as a pit for burning pine wood to obtain tar and pitch.",
+      "relevance_es": "Define peguero como la persona que saca, fabrica o trata con la pez, y peguera como el hoyo donde se quema leña de pino para obtener alquitrán y pez."
+    },
+    {
+      "title": "Ayuntamiento de Peguerinos - Localización del municipio",
+      "url": "https://www.peguerinos.es/municipio/localizacion/",
+      "type": "official",
+      "relevance_en": "Confirms Peguerinos as an Ávila municipality and gives its mountain location and elevation.",
+      "relevance_es": "Confirma Peguerinos como municipio de Ávila y aporta su localización serrana y altitud."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station's direct naming as place-based, not religious: it is named after Santa María de la Alameda and Peguerinos as municipalities.",
+      "es": "Clasificar el nombre directo de la estación como toponímico, no religioso: se llama por los municipios de Santa María de la Alameda y Peguerinos."
+    },
+    {
+      "en": "Treat the church-plus-poplar-grove explanation of Santa María de la Alameda as plausible/traditional, not definitively verified, because the municipal history gives uncertainty and another possible origin.",
+      "es": "Tratar la explicación de iglesia más alameda para Santa María de la Alameda como plausible o tradicional, no definitivamente verificada, porque la historia municipal reconoce incertidumbre y otra posible procedencia."
+    },
+    {
+      "en": "Current public Cercanías information identifies the branch as C-8a, although the input row stores C-8.",
+      "es": "La información pública actual de Cercanías identifica el ramal como C-8a, aunque la fila de entrada conserva C-8."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A dedicated historical toponymy source for Peguerinos, such as a provincial toponymic study or archival municipal history, should be checked to confirm whether the pitch-worker explanation is documented for this exact place-name.",
+      "es": "Conviene consultar una fuente específica de toponimia histórica de Peguerinos, como un estudio provincial o una historia municipal de archivo, para confirmar si la explicación por los pegueros está documentada para este topónimo concreto."
+    },
+    {
+      "en": "The exact date when the railway station adopted the full compound name Santa María de la Alameda-Peguerinos was not found.",
+      "es": "No se ha encontrado la fecha exacta en que la estación ferroviaria adoptó el nombre compuesto completo Santa María de la Alameda-Peguerinos."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_073/en/summary.short.md",
+      "summary": "content/stations/cercanias_073/en/summary.md",
+      "story": "content/stations/cercanias_073/en/story.md",
+      "confidence": "content/stations/cercanias_073/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_073/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_073/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_073/es/summary.short.md",
+      "summary": "content/stations/cercanias_073/es/summary.md",
+      "story": "content/stations/cercanias_073/es/story.md",
+      "confidence": "content/stations/cercanias_073/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_073/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_073/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+La estación de Villalba toma su nombre de Villalba, el barrio ferroviario de Collado Villalba. El topónimo combina collado, un paso o elevación suave, con Villalba, una formación frecuente de villa + alba en la que alba probablemente tenía un valor propiciatorio más que una simple descripción de blancura.

@@ -1,0 +1,1 @@
+The tram stop takes its name from the park at Parla Este, the large green space later renamed Parque del Universo. The name preserves the early descriptive label of the new eastern development served by the tram.

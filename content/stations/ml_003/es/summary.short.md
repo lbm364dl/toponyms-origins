@@ -1,0 +1,1 @@
+La estación Virgen del Cortijo lleva el nombre de la cercana Colonia Virgen del Cortijo, en Hortaleza/Valdefuentes. El nombre de la colonia parece proceder de una finca agrícola donde se veneraba una fotografía de la Virgen del Cortijo, advocación mariana vinculada especialmente a La Rioja.

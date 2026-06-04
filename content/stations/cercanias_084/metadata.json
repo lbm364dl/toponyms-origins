@@ -1,0 +1,125 @@
+{
+  "id": "cercanias_084",
+  "name": "Tres Cantos",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Tres Cantos, a traditional place-name probably referring to three stone boundary markers or rocks",
+  "previous_names": "",
+  "naming_date": "1991",
+  "sources": [
+    {
+      "title": "Tres Cantos | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/tres-cantos",
+      "type": "academic",
+      "relevance_en": "The most direct scholarly source for the toponym: it analyzes tres plus canto, explains canto as probably a boundary stone here, and links the name probably to the meeting of Colmenar Viejo, Alcobendas and Madrid.",
+      "relevance_es": "La fuente académica más directa sobre el topónimo: analiza tres más canto, explica canto como probable mojón en este caso y relaciona el nombre probablemente con el encuentro de Colmenar Viejo, Alcobendas y Madrid."
+    },
+    {
+      "title": "CANTO | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/etimo/canto",
+      "type": "academic",
+      "relevance_en": "Explains the word canto meaning stone and states that its ultimate origin is uncertain; a pre-Roman, perhaps Celtic, origin has been suggested without conclusive proof.",
+      "relevance_es": "Explica la voz canto con valor de piedra e indica que su origen último es incierto; se ha propuesto un origen prerromano, quizá céltico, sin pruebas concluyentes."
+    },
+    {
+      "title": "canto | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/canto",
+      "type": "reference",
+      "relevance_en": "Provides the dictionary sense of canto as a piece of stone, supporting the literal reading of the place-name.",
+      "relevance_es": "Aporta la acepción de canto como trozo de piedra, lo que respalda la lectura literal del topónimo."
+    },
+    {
+      "title": "mojón | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/moj%C3%B3n",
+      "type": "reference",
+      "relevance_en": "Defines mojón as a permanent marker used to fix boundaries, matching the interpretation proposed for the three cantos.",
+      "relevance_es": "Define mojón como señal permanente para fijar linderos, lo que encaja con la interpretación propuesta para los tres cantos."
+    },
+    {
+      "title": "Estación de Tres Cantos | Renfe Cercanías Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-tres-cantos",
+      "type": "official",
+      "relevance_en": "Confirms that the Cercanías station is in the municipality of Tres Cantos and belongs to the C-4 Cercanías Madrid line.",
+      "relevance_es": "Confirma que la estación de Cercanías se encuentra en el municipio de Tres Cantos y pertenece a la línea C-4 de Cercanías Madrid."
+    },
+    {
+      "title": "17004 Tres Cantos | Adif",
+      "url": "https://www.adifaltavelocidad.es/es/web/adif/w/17004-tres-cantos",
+      "type": "official",
+      "relevance_en": "Official infrastructure listing for station code 17004, confirming the station's current official name.",
+      "relevance_es": "Ficha oficial de infraestructura de la estación con código 17004, que confirma su nombre oficial actual."
+    },
+    {
+      "title": "Orden de 31 de julio de 1991 por la que se dispone la entrada en funcionamiento del Juzgado de Paz de Tres Cantos",
+      "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-1991-20555",
+      "type": "official",
+      "relevance_en": "Cites Decree 15/1991 of 21 March, approving the segregation of part of Colmenar Viejo to form the independent municipality named Tres Cantos.",
+      "relevance_es": "Cita el Decreto 15/1991, de 21 de marzo, que aprobó la segregación de parte de Colmenar Viejo para constituir el municipio independiente denominado Tres Cantos."
+    },
+    {
+      "title": "Inauguración del tramo de la línea de Cercanías de Tres Cantos | Archivo Histórico Ferroviario",
+      "url": "https://archivo.docutren.com/index.php/inauguracion-del-tramo-de-la-linea-de-cercanias-de-tres-cantos-fue-inaugurado-por-el-ministro-de-obras-publicas-y-transportes-jose-borrell-y-la-presidenta-de-renfe-merce-sala?sf_culture=en",
+      "type": "archive",
+      "relevance_en": "Archival railway record documenting the inauguration of the Tres Cantos Cercanías section in 1991 and identifying Tres Cantos as a station subject.",
+      "relevance_es": "Registro archivístico ferroviario que documenta la inauguración del tramo de Cercanías de Tres Cantos en 1991 e identifica Tres Cantos como estación."
+    },
+    {
+      "title": "Manual de Identidad Corporativa Institucional | Ayuntamiento de Tres Cantos",
+      "url": "https://web.trescantos.es/contenido/imagenes/Manual_IVC_Ayuntamiento_Tres_Cantos.pdf",
+      "type": "official",
+      "relevance_en": "Municipal identity manual describing the official coat of arms with three rocks or cantos and giving its 1993 official approval context.",
+      "relevance_es": "Manual municipal de identidad que describe el escudo oficial con tres peñascos o cantos y aporta el contexto de su oficialización en 1993."
+    },
+    {
+      "title": "Tras las huellas de la sierra: Tres Cantos, la historia de su nombre y sus despoblados",
+      "url": "https://www.madridnorte24horas.com/articulo/podcast/tras-las-huellas-de-la-sierra-tres-cantos-la-historia-de-su-nombre-y-sus-despoblados/20240417152820071326.html",
+      "type": "press",
+      "relevance_en": "Local press source preserving the popular account that three granite stones stood near today's Avenida de los Encuartes; useful as local tradition, not decisive evidence.",
+      "relevance_es": "Fuente de prensa local que recoge la tradición de tres piedras de granito situadas junto a la actual Avenida de los Encuartes; útil como tradición local, no como prueba decisiva."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the certainty of the boundary-stone explanation from verified to probable: Toponomasticon Hispaniae says the three cantos probably refer to the meeting of Colmenar Viejo, Alcobendas and Madrid.",
+      "es": "Cambiar la certeza de la explicación de los mojones de verificada a probable: Toponomasticon Hispaniae dice que los tres cantos probablemente aluden al encuentro de Colmenar Viejo, Alcobendas y Madrid."
+    },
+    {
+      "en": "Soften the statement that canto is pre-Roman or Celtic; the source says its origin is uncertain and that a pre-Roman, perhaps Celtic, origin has been proposed without conclusive proof.",
+      "es": "Matizar la afirmación de que canto sea prerromano o céltico; la fuente indica que su origen es incierto y que se ha propuesto un origen prerromano, quizá céltico, sin pruebas concluyentes."
+    },
+    {
+      "en": "Treat the Avenida de los Encuartes location as local tradition or press-reported context, not as an authoritative verified fact.",
+      "es": "Tratar la ubicación en la Avenida de los Encuartes como tradición local o contexto recogido en prensa, no como hecho verificado por una fuente autorizada."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A historical cadastral, boundary, or municipal planning source could clarify whether the three stones were physically recorded and exactly where they stood.",
+      "es": "Una fuente histórica catastral, de deslinde o de planeamiento municipal podría aclarar si las tres piedras fueron registradas físicamente y dónde se encontraban exactamente."
+    },
+    {
+      "en": "The direct administrative or planning document that first fixed the station name was not located; available railway sources support a 1991 opening context.",
+      "es": "No se localizó el documento administrativo o de proyecto que fijó directamente el nombre de la estación; las fuentes ferroviarias disponibles apoyan un contexto de apertura en 1991."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_084/en/summary.short.md",
+      "summary": "content/stations/cercanias_084/en/summary.md",
+      "story": "content/stations/cercanias_084/en/story.md",
+      "confidence": "content/stations/cercanias_084/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_084/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_084/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_084/es/summary.short.md",
+      "summary": "content/stations/cercanias_084/es/summary.md",
+      "story": "content/stations/cercanias_084/es/story.md",
+      "confidence": "content/stations/cercanias_084/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_084/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_084/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Plaza de Toros es un nombre descriptivo por la plaza de toros de Parla, un hito junto al tramo sur del recorrido circular del tranvía. La actual plaza municipal se construyó en 2003, antes de la apertura del Tranvía de Parla en 2007.

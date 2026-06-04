@@ -1,0 +1,1 @@
+Official transport sources directly place the station on Avenida del Siglo XXI and regional project documentation links the route endpoint to the new developments of Avenida Siglo XXI. The exact administrative act that named the street or station was not found, so the symbolic explanation should be treated as interpretation rather than documented fact.

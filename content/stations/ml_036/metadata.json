@@ -1,0 +1,100 @@
+{
+  "id": "ml_036",
+  "name": "Infante Don Luis",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Luis Antonio Jaime de Borbón y Farnesio",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "CRTM - Infante Don Luis",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_37?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, ML3 correspondences, surface-station status, fare zone, and access in Boadilla del Monte.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, las correspondencias de ML3, su condición de estación en superficie, la zona tarifaria y el acceso en Boadilla del Monte."
+    },
+    {
+      "title": "Metro Ligero Oeste - Se cumplen diez años desde el primer recorrido de Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/sala-de-prensa/noticias/100410-se-cumplen-diez-anos-desde-el-primer-recorrido-de-metro-ligero-oeste-es",
+      "type": "official",
+      "relevance_en": "Official operator note stating that Metro Ligero Oeste began commercial service on 27 July 2007 between Colonia Jardín and Puerta de Boadilla.",
+      "relevance_es": "Nota oficial del operador que indica que Metro Ligero Oeste inició el servicio comercial el 27 de julio de 2007 entre Colonia Jardín y Puerta de Boadilla."
+    },
+    {
+      "title": "Palacio de Boadilla del Monte - Palacio de Boadilla del Monte",
+      "url": "https://palaciodeboadilla.es/historia-del-palacio-de-boadilla-del-monte-en-madrid/palacio-de-boadilla-del-monte-en-madrid/",
+      "type": "official",
+      "relevance_en": "Municipal palace site giving the 20 February 1761 purchase of the lordship, the role of the earlier Dos Torres palace, Ventura Rodríguez's involvement, and the 1765 completion context.",
+      "relevance_es": "Sitio municipal del palacio que documenta la compra del señorío el 20 de febrero de 1761, el papel del antiguo palacio de las Dos Torres, la intervención de Ventura Rodríguez y el contexto de finalización en 1765."
+    },
+    {
+      "title": "Palacio de Boadilla del Monte - Infante Don Luís Antonio de Borbón",
+      "url": "https://palaciodeboadilla.es/historia-del-palacio-de-boadilla-del-monte-en-madrid/infante-don-luis-antonio-de-borbon/",
+      "type": "official",
+      "relevance_en": "Municipal biographical page explaining Don Luis's birth, relationship to Felipe V and Carlos III, purchase of Boadilla, marriage, death, and the later inheritance of the lordship.",
+      "relevance_es": "Página biográfica municipal que explica el nacimiento de don Luis, su relación con Felipe V y Carlos III, la compra de Boadilla, su matrimonio, su muerte y la herencia posterior del señorío."
+    },
+    {
+      "title": "Comunidad de Madrid - Palacio del Infante Don Luis de Borbón",
+      "url": "https://www.comunidad.madrid/sites/default/files/18palacio_del_infante_don_luis_de_borbon_vg.pdf",
+      "type": "official",
+      "relevance_en": "Regional heritage leaflet confirming that Don Luis, younger son of Felipe V and brother of Carlos III, acquired the lordship in 1761 and that the palace was projected by Ventura Rodríguez with works in the 1760s.",
+      "relevance_es": "Folleto patrimonial regional que confirma que don Luis, hijo menor de Felipe V y hermano de Carlos III, adquirió el señorío en 1761 y que el palacio fue proyectado por Ventura Rodríguez con obras en la década de 1760."
+    },
+    {
+      "title": "Real Academia de la Historia - Luis Antonio Jaime de Borbón y Farnesio",
+      "url": "https://historia-hispanica.rah.es/biografias/8044-luis-antonio-jaime-de-borbon-y-farnesio",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference identifying the person behind the station name and his royal family context.",
+      "relevance_es": "Referencia biográfica autorizada que identifica al personaje que hay detrás del nombre de la estación y su contexto dentro de la familia real."
+    },
+    {
+      "title": "Biblioteca Nacional de España - Ex libris del Infante Don Luis de Borbón",
+      "url": "https://www.bne.es/es/colecciones/ex-libris/ex-libris-infante-don-luis-borbon",
+      "type": "reference",
+      "relevance_en": "BNE collection page summarizing Luis Antonio Jaime de Borbón y Farnesio's dates, parentage, ecclesiastical career, title of Count of Chinchón, and patronage.",
+      "relevance_es": "Página de colección de la BNE que resume las fechas, filiación, carrera eclesiástica, título de conde de Chinchón y mecenazgo de Luis Antonio Jaime de Borbón y Farnesio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the fuller personal name Luis Antonio Jaime de Borbón y Farnesio where space allows; the input omits Jaime.",
+      "es": "Conviene usar el nombre completo Luis Antonio Jaime de Borbón y Farnesio cuando haya espacio; la fila de entrada omite Jaime."
+    },
+    {
+      "en": "The palace chronology should be phrased carefully: sources variously describe project, construction, and completion between 1762/1763/1764 and 1765, rather than a single uncontested 1763-1765 formula.",
+      "es": "La cronología del palacio debe formularse con cautela: las fuentes sitúan proyecto, construcción y terminación entre 1762/1763/1764 y 1765, no como una fórmula única e indiscutida de 1763-1765."
+    },
+    {
+      "en": "Add that the station name likely follows local toponymy, especially the nearby avenue and the palace name, not only a direct dedication to the person.",
+      "es": "Añadir que el nombre de la estación probablemente sigue la toponimia local, especialmente la avenida próxima y el nombre del palacio, no solo una dedicatoria directa a la persona."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Metro Ligero Oeste, CRTM, or regional naming resolution for the individual station was not found and would be useful for confirming the administrative naming date.",
+      "es": "No se localizó una resolución formal de Metro Ligero Oeste, CRTM o la Comunidad de Madrid sobre la denominación concreta de la estación, y sería útil para confirmar la fecha administrativa del nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_036/en/summary.short.md",
+      "summary": "content/stations/ml_036/en/summary.md",
+      "story": "content/stations/ml_036/en/story.md",
+      "confidence": "content/stations/ml_036/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_036/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_036/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_036/es/summary.short.md",
+      "summary": "content/stations/ml_036/es/summary.md",
+      "story": "content/stations/ml_036/es/story.md",
+      "confidence": "content/stations/ml_036/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_036/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_036/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+La Ballena station is best understood as a place-name stop: it serves the northern edge of Parla around Calle Real, next to the Parque de la Ballena and the area locally called La Ballena. The station name is not about a real cetacean, but about a local landmark whose name had already become part of Parla's urban vocabulary.
+
+Behind that landmark is one of Parla's best-known legends. The Ayuntamiento de Parla's urban route tells the story of muleteers travelling between Toledo and Madrid who spent the night beside the old lagoon. One of them threw a broken albarda, or pack saddle, into the water; the next morning others saw it floating, threw stones at it, and thought the slow sinking looked like a whale breathing.
+
+The same municipal account adds the Getafe episode: the tale was carried there, and young men from Getafe came to hunt the supposed whale. That detail matters because the story works not only as an origin tale for a place name, but also as a playful piece of local rivalry and oral culture between nearby towns.
+
+Modern Parla turned the legend into landscape. The Parque de la Ballena was designed in 2000 at the northern entrance to the city, with a large whale tail rising from the park topography as if from a wave. The sculpture catalogue Escultura y Arte describes the whale as one of Parla's municipal symbols and places the sculpture on Calle Real, in the Parque de la Ballena.
+
+The confidence is high for the broad etymology: official and specialist sources connect the park and symbol directly with the legend of the Laguna de Parla. The weaker point is administrative naming: I did not find a formal station-naming resolution proving whether the tram stop was named specifically after the park, the La Ballena neighbourhood/area, or both. Since the stop is located by the homonymous park and appears in Tranvia de Parla timetables under this name, the practical origin is well supported.

@@ -1,0 +1,1 @@
+La parada de la ML1 toma su nombre de la calle del Alcalde Álvarez de Villaamil, en Sanchinarro. Esa vía recuerda a Sergio Álvarez Rodríguez de Villaamil, médico y político que fue alcalde de Madrid en 1935.

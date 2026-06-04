@@ -1,0 +1,1 @@
+Ferial de Boadilla es un nombre descriptivo: orienta a los viajeros hacia el recinto ferial municipal de Boadilla del Monte, situado junto al metro ligero. El recinto está especialmente ligado a las fiestas de octubre en honor a Nuestra Señora del Rosario.

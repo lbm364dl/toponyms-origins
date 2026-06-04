@@ -1,0 +1,111 @@
+{
+  "id": "ml_015",
+  "name": "Somosaguas Centro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Somosaguas, the central Somosaguas area of Pozuelo de Alarcón; ultimately a medieval topographic-water place-name from somo, 'summit/high place', and aguas, 'waters'",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro Ligero Colonia Jardín-Pozuelo de Alarcón",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Confirms ML2 was put into service on 27 July 2007, lists Somosaguas Centro among the stations, and describes its location by La Finca and the Zoco de Pozuelo.",
+      "relevance_es": "Confirma que la ML2 se puso en servicio el 27 de julio de 2007, enumera Somosaguas Centro entre sus estaciones y describe su ubicación junto a La Finca y el Zoco de Pozuelo."
+    },
+    {
+      "title": "Somosaguas Centro",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_15/",
+      "type": "official",
+      "relevance_en": "CRTM station page confirming the current station name, surface access on the M-502 in Pozuelo de Alarcón, fare zone and interchanges.",
+      "relevance_es": "Página de estación del CRTM que confirma el nombre actual, el acceso en superficie en la M-502 de Pozuelo de Alarcón, la zona tarifaria y las correspondencias."
+    },
+    {
+      "title": "somo | Diccionario de la lengua española",
+      "url": "https://dle.rae.es/somo",
+      "type": "reference",
+      "relevance_en": "Defines somo as an obsolete word from Latin summum meaning the summit or highest point, supporting the first element of Somosaguas.",
+      "relevance_es": "Define somo como voz desusada procedente del latín summum con el sentido de cima o punto más alto, apoyando el primer elemento de Somosaguas."
+    },
+    {
+      "title": "Álvaro S. Octavio de Toledo y Huerta, 'Orónimos dialectales y morfosintaxis histórica', Boletín de la Real Academia Española",
+      "url": "https://revistas.rae.es/brae/article/view/247/603",
+      "type": "academic",
+      "relevance_en": "Explicitly cites the Madrid place-names Somosierra and Somosaguas as examples of the somo family and notes Somosaguas as somas aquas in the Fuero de Madrid.",
+      "relevance_es": "Cita expresamente los topónimos madrileños Somosierra y Somosaguas como ejemplos de la familia de somo y señala Somosaguas como somas aquas en el Fuero de Madrid."
+    },
+    {
+      "title": "Historia | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Provides Pozuelo's official medieval context, including San Juan de Somosaguas and its depopulation during the conflict between Pedro I and Enrique II.",
+      "relevance_es": "Aporta el contexto medieval oficial de Pozuelo, incluido San Juan de Somosaguas y su despoblación durante el conflicto entre Pedro I y Enrique II."
+    },
+    {
+      "title": "Historia de las fuentes de Pozuelo (I): La Escorzonera, La Fuentecilla y la de Somosaguas",
+      "url": "https://elcorreodepozuelo.com/2017/03/09/historia-las-fuentes-pozuelo-i-la-escorzonera-la-fuentecilla-la-somosaguas-trabajo-carlos-h-fernandez-del-valle/",
+      "type": "press",
+      "relevance_en": "Local historical article describing the now-lost Fuente de Somosaguas and its mineral waters, useful context for the aguas element.",
+      "relevance_es": "Artículo histórico local que describe la desaparecida Fuente de Somosaguas y sus aguas minerales, contexto útil para el elemento aguas."
+    },
+    {
+      "title": "Info Corporativa - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/informacion-corporativa",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste operates ML2 and ML3 and gives the inauguration date 27/07/07.",
+      "relevance_es": "Confirma que Metro Ligero Oeste opera las líneas ML2 y ML3 y ofrece la fecha de inauguración 27/07/07."
+    },
+    {
+      "title": "Los marqueses de Urquijo, asesinados a tiros en su chalé de Somosaguas",
+      "url": "https://elpais.com/diario/1980/08/02/madrid/334063460_850215.html",
+      "type": "press",
+      "relevance_en": "Primary contemporary press evidence that the Urquijo murders occurred in Somosaguas; useful only for correcting the row's non-etymological context.",
+      "relevance_es": "Testimonio periodístico contemporáneo de que el crimen de los Urquijo ocurrió en Somosaguas; útil solo para matizar el contexto no etimológico de la fila."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 27 July 2007, not only 2007, as the opening and effective naming date for the station.",
+      "es": "Usar el 27 de julio de 2007, no solo 2007, como fecha de apertura y de denominación efectiva de la estación."
+    },
+    {
+      "en": "Do not present the Urquijo murders as part of the station-name origin; they are later local history, not etymology.",
+      "es": "No presentar el crimen de los Urquijo como parte del origen del nombre de la estación; es historia local posterior, no etimología."
+    },
+    {
+      "en": "Replace 'one of Spain's great unsolved mysteries' with a more precise formulation: there was a conviction, while the case remained controversial and debated.",
+      "es": "Sustituir 'uno de los grandes misterios sin resolver de España' por una formulación más precisa: hubo una condena, aunque el caso siguió siendo controvertido y discutido."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full inspection of the Fuero de Madrid folio cited by the academic article would strengthen the medieval documentary chain.",
+      "es": "La consulta directa del folio del Fuero de Madrid citado por el artículo académico reforzaría la cadena documental medieval."
+    },
+    {
+      "en": "The precise location and antiquity of the water feature originally meant by somas aquas remain uncertain; the later Fuente de Somosaguas is relevant but not necessarily the original referent.",
+      "es": "La ubicación precisa y la antigüedad del elemento hídrico al que aludía originalmente somas aquas siguen siendo inciertas; la Fuente de Somosaguas posterior es relevante, pero no necesariamente el referente original."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_015/en/summary.short.md",
+      "summary": "content/stations/ml_015/en/summary.md",
+      "story": "content/stations/ml_015/en/story.md",
+      "confidence": "content/stations/ml_015/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_015/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_015/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_015/es/summary.short.md",
+      "summary": "content/stations/ml_015/es/summary.md",
+      "story": "content/stations/ml_015/es/story.md",
+      "confidence": "content/stations/ml_015/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_015/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_015/es/research-note.md"
+    }
+  }
+}

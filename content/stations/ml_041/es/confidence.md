@@ -1,0 +1,1 @@
+El CRTM identifica la parada actual como Parla Centro - Bulevar Norte, da su acceso en la calle Real y sus correspondencias, y las fuentes regionales de transporte documentan la entrada en servicio del Tranvía de Parla en 2007. Por tanto, el origen directo del nombre de la estación está verificado; lo incierto es solo la etimología antigua del municipio.

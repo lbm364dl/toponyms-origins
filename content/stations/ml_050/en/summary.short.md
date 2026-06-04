@@ -1,0 +1,1 @@
+Estrella Polar is named for Calle Estrella Polar in Parla Este, where many streets follow an astronomy theme. The name refers to Polaris, the present North Star, long used as a northern guide because it lies very close to the north celestial pole.

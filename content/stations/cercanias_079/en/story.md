@@ -1,0 +1,9 @@
+The station name is direct and topographical: **Puerto de Navacerrada** is the Cercanías stop at the mountain pass of the same name. Renfe’s station file identifies it as Puerto de Navacerrada on line C-9, in the municipality of Cercedilla, and the regional transport authority lists it between Cercedilla and Cotos.
+
+The older name behind the station is **Navacerrada**. Toponomasticon Hispaniae treats it as a place-name made from **nava** and **cerrada**, but it also warns that the words are not as simple as they look. In common dictionary form, nava is a flat, treeless, sometimes marshy piece of land, generally among mountains; in specialist toponymy, however, its origin and exact force vary from place to place.
+
+The pass is not named because the railway invented a descriptive label. The stronger toponymic reading is that the nearby village of Navacerrada gave its name to the pass and to the river. Toponomasticon Hispaniae notes that the village is documented in 1498 as one of the places of Navacerrada and Cercedilla, and that the Puerto de Navacerrada forms part of the neighbouring municipality of Cercedilla even though the name points to Navacerrada.
+
+The second half, **cerrada**, is the most delicate part of the story. It may describe a nava enclosed for livestock, but it may also mean a place closed in by hills, difficult to access, or covered by dense vegetation. That matters because a neat translation such as enclosed pasture plain is plausible, but too confident if presented as the only meaning.
+
+The railway brought the name into Madrid’s transport map in 1923, when the electric mountain railway from Cercedilla to the Puerto de Navacerrada opened. The station later became part of Cercanías line C-9, one of Madrid’s most unusual railway services: a metric-gauge mountain line climbing to a high pass long associated with snow, hiking, and access between the Madrid and Segovia sides of the Sierra de Guadarrama.

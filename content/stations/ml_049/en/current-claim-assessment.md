@@ -1,0 +1,1 @@
+The core claim is well supported: the Venus stop pair is beside Calle Planeta Venus in Parla Este, whose street grid uses astronomical names. The row overreaches slightly by presenting the planners' orbital ordering as established fact; the map supports an astronomical cluster, but I did not find an official planning text proving deliberate orbital order.

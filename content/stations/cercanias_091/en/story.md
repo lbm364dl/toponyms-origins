@@ -1,0 +1,9 @@
+Valdelasfuentes station is named after the Valdelasfuentes area of Alcobendas, not after a person or institution. The name belongs to an older landscape vocabulary: val is a shortened form of valle, 'valley', and fuentes can mean springs as well as built fountains.
+
+The older name was attached to a stream, a path and a rural paraje before it became familiar as a modern neighbourhood and transport stop. Local chronicler Santiago Izquierdo describes the Arroyo de Valdelasfuentes as rising in what is now Alcobendas and taking its name from a small valley where springs were located, especially on the more pronounced northern slopes.
+
+The documentary depth of the name is significant. The Real Asociacion Espanola de Cronistas Oficiales and the Sanse chronicler tradition report that Valdelasfuentes appears in an act of the Madrid Council dated 14 February 1494, in the context of land marked out for vineyards for the new settlers of San Sebastian de los Reyes. That makes the toponym much older than the present station.
+
+Water is not incidental to the reading of the name. Alcobendas municipal historical material on fountains, washing places and watering troughs shows that local water sources were already noted in the sixteenth-century Relaciones Topograficas of Philip II, and later in Pascual Madoz's nineteenth-century dictionary. Valdelasfuentes fits that wider local pattern of place-names and daily life shaped by springs, streams, paths and agricultural land.
+
+The transport name is modern. Renfe identifies Valdelasfuentes as a Cercanias Madrid station in Alcobendas, inaugurated in 2001, and the CRTM 2001 annual report lists Valdelasfuentes among the new stations opened on the Cantoblanco-Alcobendas section, then served by line C-1. The name is therefore very secure as a station name derived from a pre-existing place-name, while the exact medieval wording should ideally be checked against the original 1494 Madrid Council record.

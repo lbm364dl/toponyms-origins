@@ -1,0 +1,1 @@
+The direct station etymology is verified by an official Community of Madrid infrastructure page stating that Avenida de Europa gives its name to the station and locating the stop at that avenue. The older urban-development context is supported by municipal archive and BOE sources, but the symbolic reason for the avenue name itself is not fully documented.

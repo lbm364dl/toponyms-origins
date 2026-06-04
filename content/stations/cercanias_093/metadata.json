@@ -1,0 +1,89 @@
+{
+  "id": "cercanias_093",
+  "name": "Villalba",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Villalba / Collado Villalba",
+  "previous_names": "Villalba de Guadarrama; station district locally known as La Estación; municipal spelling Collado-Villalba before the 1981 census change to Collado Villalba",
+  "naming_date": "1860s/1861 for the railway station context; exact formal naming act not found",
+  "sources": [
+    {
+      "title": "Collado Villalba | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/collado-villalba",
+      "type": "academic",
+      "relevance_en": "Authoritative specialist source for the etymology: collado plus Villalba, with Villalba from villa + alba and alba interpreted as likely auspicious rather than literal whiteness.",
+      "relevance_es": "Fuente especializada autorizada para la etimología: collado más Villalba, con Villalba de villa + alba y alba interpretada probablemente como valor propiciatorio más que como blancura literal."
+    },
+    {
+      "title": "Villalba de Guadarrama | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_91",
+      "type": "official",
+      "relevance_en": "Current transport source listing the station as Villalba de Guadarrama, with access at Plaza de la Estación, 1, and correspondences including C-8/C-8a/C-10.",
+      "relevance_es": "Fuente actual de transporte que recoge la estación como Villalba de Guadarrama, con acceso en Plaza de la Estación, 1, y correspondencias C-8/C-8a/C-10."
+    },
+    {
+      "title": "Adif press note: maintenance works at Villalba de Guadarrama station",
+      "url": "https://www.adif.es/o/pdf/prensa?pdf=df5b4ad5-1491-335b-f44e-a74cd664d191",
+      "type": "official",
+      "relevance_en": "Confirms the current Adif name Villalba de Guadarrama and states that the station forms part of the C-8 and C-10 Cercanias Madrid lines.",
+      "relevance_es": "Confirma la denominación actual de Adif, Villalba de Guadarrama, e indica que la estación forma parte de las líneas C-8 y C-10 de Cercanías Madrid."
+    },
+    {
+      "title": "Plan Especial de Protección del Casco Antiguo de Collado Villalba: Memoria",
+      "url": "https://idem.madrid.org/cartografia/planea/planeamiento/planeamiento/Collado_Villalba/ModificacionesDesarrollos/58095/MEMORIA_2.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning-history document explaining the old village, the 1860 sale of land to the railway company, the growth around the station, and the station area's importance as a mountain-route node.",
+      "relevance_es": "Documento urbanístico-histórico municipal que explica el pueblo antiguo, la venta de terrenos a la compañía ferroviaria en 1860, el crecimiento en torno a la estación y la importancia del área como nudo de rutas serranas."
+    },
+    {
+      "title": "Archivo Histórico Ferroviario: Estación de Villalba, también llamada Villalba de Guadarrama",
+      "url": "https://archivo.docutren.com/index.php/estacion-de-villalba-tambien-llamada-villalba-de-guadarrama-5",
+      "type": "archive",
+      "relevance_en": "Archival railway record showing that Villalba and Villalba de Guadarrama are both used for the station, with Collado Villalba as the place access point.",
+      "relevance_es": "Registro archivístico ferroviario que muestra el uso de Villalba y Villalba de Guadarrama para la estación, con Collado Villalba como punto de acceso geográfico."
+    },
+    {
+      "title": "El País: Nueva estación",
+      "url": "https://elpais.com/diario/1996/12/11/madrid/850307060_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary press evidence for the 1996 inauguration of a new Cercanias station building after demolition of the old station.",
+      "relevance_es": "Testimonio periodístico contemporáneo de la inauguración en 1996 del nuevo edificio de Cercanías tras el derribo de la estación antigua."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Villalba / Villalba de Guadarrama as the immediate object of the station name, not only Collado Villalba; current CRTM and Adif pages use the fuller station form.",
+      "es": "Conviene usar Villalba / Villalba de Guadarrama como referente inmediato del nombre de la estación, no solo Collado Villalba; CRTM y Adif emplean actualmente la forma ferroviaria completa."
+    },
+    {
+      "en": "Soften the claim about medieval Segovian transhumant shepherds: the sources found support livestock, roads and a medieval cross-route, but not that exact formulation.",
+      "es": "Debe matizarse la afirmación sobre pastores segovianos trashumantes medievales: las fuentes localizadas respaldan la ganadería, los caminos y una ruta transversal medieval, pero no esa formulación exacta."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect railway-company timetables, concession records or station registers to confirm the exact formal opening and naming date for Villalba/Villalba de Guadarrama station.",
+      "es": "Revisar horarios, expedientes de concesión o registros de estación de las compañías ferroviarias para confirmar la fecha formal exacta de apertura y denominación de Villalba/Villalba de Guadarrama."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_093/en/summary.short.md",
+      "summary": "content/stations/cercanias_093/en/summary.md",
+      "story": "content/stations/cercanias_093/en/story.md",
+      "confidence": "content/stations/cercanias_093/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_093/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_093/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_093/es/summary.short.md",
+      "summary": "content/stations/cercanias_093/es/summary.md",
+      "story": "content/stations/cercanias_093/es/story.md",
+      "confidence": "content/stations/cercanias_093/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_093/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_093/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+The descriptive origin is strongly supported by official transport sources for the stop name and location, municipal records for the park parcels, and contemporary reporting on the park's later renaming. Confidence is probable rather than fully verified because no formal station-naming resolution was found.

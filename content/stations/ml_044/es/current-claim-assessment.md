@@ -1,0 +1,1 @@
+La fila es sustancialmente correcta: la parada está en la calle Reyes Católicos y el nombre alude a Isabel I de Castilla y Fernando II de Aragón. El principal matiz es que su matrimonio produjo una unión dinástica de coronas, no un Estado español plenamente unificado en sentido moderno.

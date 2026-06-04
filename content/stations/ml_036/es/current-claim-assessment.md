@@ -1,0 +1,1 @@
+La explicación actual está bien respaldada: el nombre de la estación remite al infante Luis Antonio Jaime de Borbón y Farnesio, estrechamente vinculado a Boadilla del Monte por la compra del señorío y por el palacio que lleva su nombre. El matiz principal es que la parada también recoge un nombre viario y local, no solo una dedicatoria biográfica directa.

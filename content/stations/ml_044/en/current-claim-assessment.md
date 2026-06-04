@@ -1,0 +1,1 @@
+The row is substantially correct: the stop is on Calle Reyes Católicos and the name refers to Isabel I of Castile and Fernando II of Aragon. The main nuance is that their marriage created a dynastic union of crowns, not a fully unified Spanish state in the modern sense.

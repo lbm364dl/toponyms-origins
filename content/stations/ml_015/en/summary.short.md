@@ -1,0 +1,1 @@
+Somosaguas Centro is named for the Somosaguas area of Pozuelo de Alarcón. The old place-name is already documented in medieval Madrid and combines a word for a high place with aguas, fitting a landscape known for springs and water sources.

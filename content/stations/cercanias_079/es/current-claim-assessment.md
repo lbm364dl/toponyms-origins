@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre del puerto de montaña de Navacerrada. La explicación de fondo debe matizarse porque Toponomasticon Hispaniae indica que el puerto parece recibir el nombre de la villa de Navacerrada, y el significado exacto de nava y cerrada es menos seguro de lo que sugiere la fila.

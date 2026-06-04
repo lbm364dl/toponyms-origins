@@ -1,0 +1,9 @@
+Cotos station is named for the place where it stands: the Puerto de Cotos, also called Puerto de los Cotos. It is not a personal name but a mountain toponym, carried into the railway when the Guadarrama electric line was extended to this high pass in 1964.
+
+The older explanation lies in the word coto. In Spanish it can mean a boundary marker, especially a stone one used to divide terms or estates. A Community of Madrid heritage catalogue identifies two eighteenth-century stone markers at the pass as former boundary stones of the Reales Pinares de Valsain and explicitly says that they gave the Puerto de Cotos its name.
+
+The historical setting is the royal landscape of Valsain. Carlos III bought the Valsain woods in 1761 for the Crown, in a mountain area long valued for hunting, timber and passage between the Segovian side and the Lozoya valley. The royal woods then had to be marked off from neighbouring properties, including the lands associated with El Paular, so the physical act of setting limits became fixed in the place-name.
+
+That is why the pass also appears under the older or alternative name Puerto del Paular. El Paular refers to the nearby monastery and valley on the Madrid side, while Cotos points to the boundary stones themselves. The two names preserve different layers of the same mountain crossing: monastic and valley geography on one hand, royal demarcation on the other.
+
+For the railway, the name became the endpoint of the C-9 mountain line. The Consorcio Regional de Transportes records Cotos as a C-9 station access on the M-604 in San Ildefonso, and its centenary history of the Ferrocarril Electrico del Guadarrama lists Cotos station at 1,819 metres, opened with the 1964 Puerto de Navacerrada-Puerto de los Cotos section. The etymology is therefore well supported, with the main nuance that the station is directly named after the pass, not directly after Carlos III.

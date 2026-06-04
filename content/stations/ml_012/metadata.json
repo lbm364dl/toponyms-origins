@@ -1,0 +1,104 @@
+{
+  "id": "ml_012",
+  "name": "Colonia de los Ángeles",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Colonia de los Ángeles, a residential colony/neighbourhood in Pozuelo de Alarcón",
+  "previous_names": "",
+  "naming_date": "27 July 2007 (station opened with this name; no earlier station name found)",
+  "sources": [
+    {
+      "title": "Historia | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Municipal history states that the Colonia de los Ángeles was founded and parcelled by its owner in 1926 and that the Sociedad Colonia de los Ángeles was created three years later; it also places this in the broader history of Pozuelo's summer-house colonies.",
+      "relevance_es": "La historia municipal indica que la Colonia de los Ángeles fue fundada y parcelada por su propietario en 1926 y que tres años después se creó la Sociedad Colonia de los Ángeles; además la sitúa en el contexto de las colonias de hotelitos de Pozuelo."
+    },
+    {
+      "title": "Colonia de los Ángeles | Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_12/",
+      "type": "official",
+      "relevance_en": "Official station page confirming the stop name, light-rail/tram context, fare zone, and access on the M-502 in Pozuelo de Alarcón.",
+      "relevance_es": "Página oficial de la estación que confirma el nombre de la parada, su contexto de metro ligero/tranvía, la zona tarifaria y el acceso en la M-502 en Pozuelo de Alarcón."
+    },
+    {
+      "title": "Corporate Information | Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Operator source confirming Metro Ligero Oeste as concession holder for ML2 and ML3, the ML2 route from Colonia Jardín to Estación de Aravaca, and the network inauguration date of 27/07/07.",
+      "relevance_es": "Fuente del operador que confirma que Metro Ligero Oeste es concesionaria de ML2 y ML3, el recorrido de ML2 entre Colonia Jardín y Estación de Aravaca, y la fecha de inauguración de la red, 27/07/07."
+    },
+    {
+      "title": "Fiestas y tradiciones (Cultura) | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ciudad/acerca-de-pozuelo/fiestas-y-tradiciones-cultura",
+      "type": "official",
+      "relevance_en": "Municipal source documenting the local fiestas of the Colonia de los Ángeles in honour of Nuestra Señora de los Ángeles, begun by colonos in 1942.",
+      "relevance_es": "Fuente municipal que documenta las fiestas locales de la Colonia de los Ángeles en honor de Nuestra Señora de los Ángeles, iniciadas por colonos en 1942."
+    },
+    {
+      "title": "Ángela García Carballo, 'Urbanizaciones de lujo y segregación residencial de las clases altas en Somosaguas, Pozuelo de Alarcón (Madrid)', Ería 94 (2014)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/4835344.pdf",
+      "type": "academic",
+      "relevance_en": "Academic article that places the Colonia de los Ángeles within the old Húmera/Somosaguas sector and notes it as initiated in 1926, citing Sanz Sacristán's 1968 guide.",
+      "relevance_es": "Artículo académico que sitúa la Colonia de los Ángeles dentro del antiguo sector de Húmera/Somosaguas y la señala como iniciada en 1926, citando la guía de Sanz Sacristán de 1968."
+    },
+    {
+      "title": "Historia de Pozuelo de Alarcón por cronista de la villa",
+      "url": "https://asoclosangeles.org/wp-content/uploads/2023/06/historia-de-Pozuelo-de-Alarcon-por-cronista-de-la-villa.pdf",
+      "type": "other",
+      "relevance_en": "PDF hosted by the local association, attributed to municipal chroniclers María Esperanza Morón García and Luis Enrique Otero Carvajal, repeating the 1861 railway context and the 1926/1929 chronology for Colonia de los Ángeles.",
+      "relevance_es": "PDF alojado por la asociación local, atribuido a los cronistas María Esperanza Morón García y Luis Enrique Otero Carvajal, que repite el contexto ferroviario de 1861 y la cronología 1926/1929 de la Colonia de los Ángeles."
+    },
+    {
+      "title": "Cerro de los Ángeles | Ayuntamiento de Getafe",
+      "url": "https://getafe.es/placemarks/cerro-de-los-angeles/",
+      "type": "official",
+      "relevance_en": "Official Getafe page locating the Cerro de los Ángeles and its sanctuary in Getafe, useful for correcting the current row's misleading 'near Cerro de los Ángeles' phrase.",
+      "relevance_es": "Página oficial de Getafe que sitúa el Cerro de los Ángeles y su santuario en Getafe, útil para corregir la frase engañosa «near Cerro de los Ángeles» de la fila actual."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from 'historical' to 'place', because the station is named after the local residential colony.",
+      "es": "Cambiar el tipo de etimología de «historical» a «place», porque la estación lleva el nombre de la colonia residencial local."
+    },
+    {
+      "en": "Replace 'near Cerro de los Ángeles' with 'in Pozuelo de Alarcón'; the Cerro de los Ángeles is an official Getafe landmark, not the place behind this station name.",
+      "es": "Sustituir «near Cerro de los Ángeles» por «en Pozuelo de Alarcón»; el Cerro de los Ángeles es un hito oficial de Getafe, no el lugar que explica esta estación."
+    },
+    {
+      "en": "Avoid implying that the 1942 fiestas created the colony name; the colony is documented from 1926, while the fiestas are documented from 1942.",
+      "es": "Evitar sugerir que las fiestas de 1942 crearon el nombre de la colonia; la colonia está documentada desde 1926, mientras que las fiestas lo están desde 1942."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A primary deed, subdivision plan, municipal file, or society statute from 1926-1929 should be inspected to identify the original owner and the exact legal act that created the colony.",
+      "es": "Conviene consultar una escritura, plano de parcelación, expediente municipal o estatuto de la sociedad de 1926-1929 para identificar al propietario original y el acto jurídico exacto que creó la colonia."
+    },
+    {
+      "en": "No inspected source proves why the 1926 colony was named 'Los Ángeles'; the religious connection is plausible but should not be stated as the founding motive without archival evidence.",
+      "es": "Ninguna fuente consultada demuestra por qué la colonia de 1926 se llamó «Los Ángeles»; la conexión religiosa es plausible, pero no debe presentarse como motivo fundacional sin prueba archivística."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_012/en/summary.short.md",
+      "summary": "content/stations/ml_012/en/summary.md",
+      "story": "content/stations/ml_012/en/story.md",
+      "confidence": "content/stations/ml_012/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_012/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_012/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_012/es/summary.short.md",
+      "summary": "content/stations/ml_012/es/summary.md",
+      "story": "content/stations/ml_012/es/story.md",
+      "confidence": "content/stations/ml_012/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_012/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_012/es/research-note.md"
+    }
+  }
+}

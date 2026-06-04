@@ -1,0 +1,1 @@
+Retamares is named for the Retamares area of Pozuelo de Alarcón, beside the M-511 and the General Cavalcanti/Retamares military complex. The place-name points back to retamar, a Spanish word for ground covered with retamas or broom shrubs.

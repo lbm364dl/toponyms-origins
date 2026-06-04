@@ -1,0 +1,1 @@
+The ML2 stop is named for the Colonia de los Ángeles, the residential colony of Pozuelo de Alarcón where it stands. The colony was founded and parcelled in 1926, in the early twentieth-century wave of garden-like 'colonias de hotelitos' around Pozuelo.

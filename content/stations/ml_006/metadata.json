@@ -1,0 +1,104 @@
+{
+  "id": "ml_006",
+  "name": "Blasco Ibáñez",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Vicente Blasco Ibáñez",
+  "previous_names": "",
+  "naming_date": "24 May 2007 / 24 de mayo de 2007 (station opened with current name); street name documented by 1998",
+  "sources": [
+    {
+      "title": "CRTM: Blasco Ibáñez",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_6/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the ML station name, fare zone, access at Calle del Príncipe Carlos, 48, and interchange information.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación de ML, la zona tarifaria, el acceso en la calle del Príncipe Carlos, 48, y las correspondencias."
+    },
+    {
+      "title": "CRTM: Plano zonal de la estación de ML Blasco Ibáñez",
+      "url": "https://www.crtm.es/media/kclcs4vc/plano_zonal_metroligero_blascoibanez.pdf",
+      "type": "official",
+      "relevance_en": "Station area map showing Calle de Vicente Blasco Ibáñez beside the station environment, supporting the street-derived explanation.",
+      "relevance_es": "Plano zonal que muestra la calle de Vicente Blasco Ibáñez junto al entorno de la estación, apoyando la explicación derivada del odónimo."
+    },
+    {
+      "title": "Comunidad de Madrid: Metro Ligero Pinar de Chamartín-Sanchinarro-Las Tablas. Tramo II",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-pinar-chamartin-sanchinarro-tablas-tramo-ii",
+      "type": "official",
+      "relevance_en": "Confirms the line section, the 24 May 2007 service opening, and the technical location of Blasco Ibáñez station on the Sanchinarro-Las Tablas works.",
+      "relevance_es": "Confirma el tramo de la línea, la puesta en servicio del 24 de mayo de 2007 y la ubicación técnica de la estación Blasco Ibáñez en las obras de Sanchinarro-Las Tablas."
+    },
+    {
+      "title": "Biblioteca Nacional de España: Blasco Ibáñez, Vicente",
+      "url": "https://www.bne.es/es/autores/blasco-ibanez-vicente",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical page documenting Blasco Ibáñez's political career, literary chronology, Hollywood adaptations and death in France.",
+      "relevance_es": "Ficha biográfica autorizada que documenta la carrera política de Blasco Ibáñez, su cronología literaria, las adaptaciones de Hollywood y su fallecimiento en Francia."
+    },
+    {
+      "title": "Casa Museo Blasco Ibáñez: El personaje",
+      "url": "https://www.casamuseoblascoibanez.es/el-personaje/",
+      "type": "official",
+      "relevance_en": "Museum source for the writer's Valencian origins, Malvarrosa house context and later life at Fontana Rosa in Menton.",
+      "relevance_es": "Fuente museística sobre los orígenes valencianos del escritor, el contexto de la casa de la Malvarrosa y su etapa final en Fontana Rosa, en Menton."
+    },
+    {
+      "title": "American Film Institute: AFI Catalog Spotlight: June Mathis and The Four Horsemen of the Apocalypse",
+      "url": "https://www.afi.com/news/afi-catalog-spotlight-june-mathis-and-the-four-horsemen-of-the-apocalypse/",
+      "type": "reference",
+      "relevance_en": "Supports the film-history context: the 1921 adaptation of Blasco Ibáñez's novel and its role in making Rudolph Valentino an instant matinee idol.",
+      "relevance_es": "Respalda el contexto cinematográfico: la adaptación de 1921 de la novela de Blasco Ibáñez y su papel en convertir a Rudolph Valentino en un ídolo inmediato."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Acta del Pleno de la Junta Municipal de Hortaleza, 9 January 2013",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/JuntaDistritos/ActasHortaleza/2013/ActaHort.9-01-2013.pdf",
+      "type": "official",
+      "relevance_en": "Municipal record mentioning Calle Vicente Blasco Ibáñez in Hortaleza and a related project definitively approved on 23 December 1998, useful for dating the street context before ML1.",
+      "relevance_es": "Acta municipal que menciona la calle Vicente Blasco Ibáñez en Hortaleza y un proyecto relacionado aprobado definitivamente el 23 de diciembre de 1998, útil para fechar el contexto viario antes de la ML1."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should be associated with Sanchinarro/Valdefuentes in the district of Hortaleza, not Fuencarral-El Pardo.",
+      "es": "La estación debe asociarse con Sanchinarro/Valdefuentes, en el distrito de Hortaleza, no con Fuencarral-El Pardo."
+    },
+    {
+      "en": "The source list includes an irrelevant Jenaro Pérez Villaamil Wikipedia URL; it should be removed from this station record.",
+      "es": "La lista de fuentes incluye una URL de Wikipedia sobre Jenaro Pérez Villaamil que no guarda relación con esta estación; debe eliminarse de la ficha."
+    },
+    {
+      "en": "The existing English summary misspells 'Republican' as 'Repúblican' and gives more film-history detail than is needed to explain the station name.",
+      "es": "El resumen inglés existente escribe incorrectamente 'Republican' como 'Repúblican' y aporta más detalle cinematográfico del necesario para explicar el nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Madrid municipal street-naming or urban-planning record that formally assigned Calle de Vicente Blasco Ibáñez in Sanchinarro.",
+      "es": "Revisar el expediente municipal de denominación viaria o planeamiento que asignó formalmente la calle de Vicente Blasco Ibáñez en Sanchinarro."
+    },
+    {
+      "en": "If the dataset tracks station naming dates separately from opening dates, confirm whether ML1 station names were approved in a specific transport resolution before 24 May 2007.",
+      "es": "Si el conjunto de datos distingue la fecha de denominación de la estación de la fecha de apertura, conviene confirmar si los nombres de la ML1 fueron aprobados en una resolución de transporte específica antes del 24 de mayo de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_006/en/summary.short.md",
+      "summary": "content/stations/ml_006/en/summary.md",
+      "story": "content/stations/ml_006/en/story.md",
+      "confidence": "content/stations/ml_006/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_006/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_006/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_006/es/summary.short.md",
+      "summary": "content/stations/ml_006/es/summary.md",
+      "story": "content/stations/ml_006/es/story.md",
+      "confidence": "content/stations/ml_006/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_006/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_006/es/research-note.md"
+    }
+  }
+}

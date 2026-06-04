@@ -1,0 +1,1 @@
+Debe su nombre a la Ciudad de la Imagen, el parque empresarial audiovisual de Pozuelo de Alarcón junto a la estación. El topónimo refleja un proyecto de los años noventa para concentrar cine, televisión, formación y conservación fílmica cerca de Prado del Rey.

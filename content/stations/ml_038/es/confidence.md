@@ -1,0 +1,1 @@
+El operador actual y el Consorcio Regional de Transportes recogen una parada llamada Plaza de Toros, y documentos municipales y técnicos identifican en Parla una Plaza de Toros Municipal cercana. Por ello, el origen descriptivo directo está bien respaldado, aunque no se localizó el acto administrativo exacto de denominación.

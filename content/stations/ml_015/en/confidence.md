@@ -1,0 +1,1 @@
+The station's location and opening are confirmed by official transport sources, and the place-name explanation is supported by the RAE definition of somo plus an academic article that explicitly cites Somosaguas, including the medieval form somas aquas. The only uncertainty is the exact physical landscape feature meant by the medieval compound.

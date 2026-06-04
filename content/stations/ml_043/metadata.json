@@ -1,0 +1,104 @@
+{
+  "id": "ml_043",
+  "name": "Bulevar Sur-Miguel Ángel Blanco",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Miguel Ángel Blanco Garrido",
+  "previous_names": "Bulevar Sur",
+  "naming_date": "2019-01 for the boulevard; 2022-03-22 for the tram stop name",
+  "sources": [
+    {
+      "title": "Bulevar Sur ahora es: Bulevar Sur - Miguel Ángel Blanco",
+      "url": "https://www.viaparla.com/bulevar-sur-ahora-es-bulevar-sur-miguel-angel-blanco/",
+      "type": "official",
+      "relevance_en": "Tranvía de Parla’s own notice states that the Parla municipal plenary named the boulevard for Miguel Ángel Blanco in January 2019 and that, on 22 March 2022, the tram stop would also carry that name.",
+      "relevance_es": "El aviso propio de Tranvía de Parla indica que el pleno municipal de Parla dio al bulevar el nombre de Miguel Ángel Blanco en enero de 2019 y que, el 22 de marzo de 2022, la parada del tranvía también llevaría ese nombre."
+    },
+    {
+      "title": "Horarios verano 2025 - Tranvía de Parla",
+      "url": "https://www.viaparla.com/wp-content/uploads/2025/06/2506-VERANO-Horarios-WEB-2025-1.pdf",
+      "type": "official",
+      "relevance_en": "Current operator timetable evidence lists the stop as “Bulevar Sur - M.A. Blanco,” confirming operational use of the combined name.",
+      "relevance_es": "El horario actual del operador enumera la parada como «Bulevar Sur - M.A. Blanco», lo que confirma el uso operativo de la denominación combinada."
+    },
+    {
+      "title": "Bulevar Sur - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_55/",
+      "type": "official",
+      "relevance_en": "CRTM’s official station page gives the stop location at Calle San Antón, 4 in Parla and preserves the shorter display name “Bulevar Sur,” documenting the naming discrepancy.",
+      "relevance_es": "La página oficial del CRTM sitúa la parada en la calle San Antón, 4 de Parla y conserva la forma abreviada «Bulevar Sur», documentando la discrepancia de denominación."
+    },
+    {
+      "title": "Acta del Pleno del Ayuntamiento de Parla, enero de 2019",
+      "url": "https://sede.ayuntamientoparla.es/portal/sede/RecursosWeb/DOCUMENTOS/1/0_5906_1.pdf",
+      "type": "official",
+      "relevance_en": "Indexed text of the municipal act records the designation “Bulevar Miguel Ángel Blanco” for the boulevard between Travesía Severo Ochoa and the Police Station roundabout, identified as Bulevar Sur.",
+      "relevance_es": "El texto indexado del acta municipal recoge la designación «Bulevar Miguel Ángel Blanco» para el bulevar situado entre la Travesía Severo Ochoa y la glorieta de la Comisaría de Policía, identificado como Bulevar Sur."
+    },
+    {
+      "title": "Nuevos nombres para espacios públicos de Parla",
+      "url": "https://cadenaser.com/emisora/2019/01/14/ser_madrid_sur/1547468954_364366.html",
+      "type": "press",
+      "relevance_en": "Contemporary local reporting confirms that Parla’s first plenary session of 2019 approved new public-space names and that Bulevar Sur would be renamed for Miguel Ángel Blanco.",
+      "relevance_es": "La información local contemporánea confirma que el primer pleno de Parla de 2019 aprobó nuevos nombres para espacios públicos y que el Bulevar Sur pasaría a llamarse Miguel Ángel Blanco."
+    },
+    {
+      "title": "Su asesinato - Fundación Miguel Ángel Blanco",
+      "url": "https://www.fmiguelangelblanco.es/miguel-angel-blanco/su-asesinato/",
+      "type": "reference",
+      "relevance_en": "The foundation dedicated to Miguel Ángel Blanco documents the 10-12 July 1997 events and frames them as the democratic mobilisation known as the Spirit of Ermua.",
+      "relevance_es": "La fundación dedicada a Miguel Ángel Blanco documenta los hechos del 10 al 12 de julio de 1997 y los enmarca en la movilización democrática conocida como Espíritu de Ermua."
+    },
+    {
+      "title": "El secuestro y asesinato de Miguel Ángel Blanco: cronología de cien horas de angustia, rabia e indignación",
+      "url": "https://www.rtve.es/noticias/20220710/miguel-angel-blanco-cien-horas-cambiaron-lucha-contra-eta/2387426.shtml",
+      "type": "press",
+      "relevance_en": "RTVE provides a detailed chronology of the kidnapping, ultimatum, shooting, discovery alive, hospital transfer, death and mass demonstrations.",
+      "relevance_es": "RTVE ofrece una cronología detallada del secuestro, el ultimátum, los disparos, el hallazgo con vida, el traslado al hospital, el fallecimiento y las manifestaciones multitudinarias."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Add the station-specific naming chronology: Parla approved the boulevard name in January 2019, and Tranvía de Parla applied the name to the stop on 22 March 2022.",
+      "es": "Añadir la cronología específica de la denominación: Parla aprobó el nombre del bulevar en enero de 2019 y Tranvía de Parla lo aplicó a la parada el 22 de marzo de 2022."
+    },
+    {
+      "en": "Avoid saying simply that Blanco was found dead fifty minutes after the deadline; RTVE’s chronology says he was shot after the 16:00 deadline, found still alive around 16:40, and died on 13 July 1997.",
+      "es": "Evitar decir simplemente que Blanco fue encontrado muerto cincuenta minutos después del plazo; la cronología de RTVE indica que fue tiroteado tras el ultimátum de las 16:00, hallado aún con vida hacia las 16:40 y fallecido el 13 de julio de 1997."
+    },
+    {
+      "en": "Treat “Bulevar Sur” as a real place-name component of the stop, not only as a translation; the current name is a combined descriptive/commemorative name.",
+      "es": "Tratar «Bulevar Sur» como un componente toponímico real de la parada, no solo como una traducción; el nombre actual combina una referencia descriptiva y una conmemorativa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The official CRTM station page still displays “Bulevar Sur,” while Tranvía de Parla’s notice and timetable include “M.A. Blanco”; a future dataset update may want to record this as an operator-versus-regional-display discrepancy.",
+      "es": "La página oficial del CRTM aún muestra «Bulevar Sur», mientras que el aviso y los horarios de Tranvía de Parla incluyen «M.A. Blanco»; una actualización futura del dataset podría registrar esta discrepancia entre operador y visualización regional."
+    },
+    {
+      "en": "The January 2019 official municipal PDF was visible through indexed text but returned a 502 error when directly opened during this run; a human reviewer should archive or re-check the act from Parla’s electronic office.",
+      "es": "El PDF municipal oficial de enero de 2019 era visible mediante texto indexado, pero devolvió un error 502 al abrirlo directamente durante esta investigación; conviene que una revisión humana archive o vuelva a comprobar el acta en la sede electrónica de Parla."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_043/en/summary.short.md",
+      "summary": "content/stations/ml_043/en/summary.md",
+      "story": "content/stations/ml_043/en/story.md",
+      "confidence": "content/stations/ml_043/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_043/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_043/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_043/es/summary.short.md",
+      "summary": "content/stations/ml_043/es/summary.md",
+      "story": "content/stations/ml_043/es/story.md",
+      "confidence": "content/stations/ml_043/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_043/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_043/es/research-note.md"
+    }
+  }
+}

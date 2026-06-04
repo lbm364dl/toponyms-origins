@@ -1,0 +1,1 @@
+The station-to-pass link is directly supported by Renfe and CRTM station and line information, and the deeper Navacerrada toponymy is covered by Toponomasticon Hispaniae. Confidence is verified for the station being named after the pass, but the exact semantic reading of Navacerrada should remain nuanced.

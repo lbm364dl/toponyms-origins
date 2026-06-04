@@ -1,0 +1,1 @@
+The direct claim is correct: the station is named for its proximity to Boadilla del Monte's recinto ferial. The added explanation of 'feria' is broadly supported, but the claims about the origin of Boadilla are mixed and should be corrected: Beatriz de Bobadilla is not a good origin for the place name, and the Arabic theory is weaker than current toponymic evidence.

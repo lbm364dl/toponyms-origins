@@ -1,0 +1,118 @@
+{
+  "id": "ml_014",
+  "name": "Somosaguas Sur",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Somosaguas Sur, a Pozuelo de Alarcón residential and planning area whose older toponym is historically associated with abundant waters and probably with somo, 'height' or 'summit'",
+  "previous_names": "No previous station name found. Older place-name forms include San Juan de Somosaguas and San Juan de Sumas Aguas.",
+  "naming_date": "27/07/2007 (station opened with Metro Ligero Oeste; no separate naming resolution found)",
+  "sources": [
+    {
+      "title": "CRTM - Somosaguas Sur station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_14?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, light-rail context, access at Calle Veritas, 1 in Pozuelo de Alarcón, and passenger facilities.",
+      "relevance_es": "Confirma el nombre actual de la estación, su contexto de metro ligero, el acceso en la calle Veritas, 1 de Pozuelo de Alarcón, y los servicios de la parada."
+    },
+    {
+      "title": "Metro Ligero Oeste - Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Identifies Metro Ligero Oeste as concession holder for ML2 and ML3, gives the ML2 route from Colonia Jardín to Estación de Aravaca, and lists 27/07/07 as the inauguration date.",
+      "relevance_es": "Identifica a Metro Ligero Oeste como concesionaria de ML2 y ML3, da el recorrido de ML2 entre Colonia Jardín y Estación de Aravaca y señala el 27/07/07 como fecha de inauguración."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón - Historia",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Provides official municipal history: Pozuelo appears in 1208, early territory included San Juan de Somosaguas and San Pedro de Meaque, and those hamlets were depopulated during the conflict between Pedro I and Enrique II.",
+      "relevance_es": "Aporta la historia municipal oficial: Pozuelo aparece en 1208, el territorio inicial incluía San Juan de Somosaguas y San Pedro de Meaque, y esos caseríos se despoblaron durante el conflicto entre Pedro I y Enrique II."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - somo",
+      "url": "https://dle.rae.es/somo",
+      "type": "reference",
+      "relevance_en": "Defines old Spanish somo as deriving from Latin summum and meaning the top or highest point of hills, supporting the proposed elevation element.",
+      "relevance_es": "Define el castellano antiguo somo como procedente del latín summum y con el sentido de cima o punto más alto de los montes, apoyando el posible elemento de elevación."
+    },
+    {
+      "title": "Toponomasticon Hispaniae - Somosierra",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/somosierra",
+      "type": "academic",
+      "relevance_en": "Discusses the somo/SŬMMUS element in Somosierra and lists Somosaguas (Pozuelo de Alarcón, Madrid) among related toponyms, giving indirect academic support for the elevation reading.",
+      "relevance_es": "Estudia el elemento somo/SŬMMUS en Somosierra e incluye Somosaguas (Pozuelo de Alarcón, Madrid) entre los topónimos relacionados, lo que aporta apoyo académico indirecto a la lectura de elevación."
+    },
+    {
+      "title": "La Casa de Campo de Madrid - Ermita de San Pedro de Meaque",
+      "url": "https://lacasadecampo.es/2020/06/29/san-pedro-de-los-meaques/",
+      "type": "other",
+      "relevance_en": "Quotes the sixteenth-century Relaciones Topográficas tradition with the form San Juan de Sumas Aguas and an explanation based on many good waters, plus the depopulation tradition.",
+      "relevance_es": "Cita la tradición de las Relaciones Topográficas del siglo XVI con la forma San Juan de Sumas Aguas y una explicación basada en muchas y buenas aguas, además del relato del despoblamiento."
+    },
+    {
+      "title": "Boletín Oficial de la Comunidad de Madrid - Modificación Puntual del Plan Parcial Somosaguas Sur, 5 April 2000",
+      "url": "https://www.pozuelodealarcon.org/sites/default/files/2017-05/API%203.5-02%20PP%20Somosaguas%20Sur%20-%20Modif%20Punt%201a%20-%20Aprob%20Def%20%28BOCM%202000_04_05%29.pdf",
+      "type": "official",
+      "relevance_en": "Shows Somosaguas Sur as an official urban-planning sector in Pozuelo de Alarcón before the light-rail opening.",
+      "relevance_es": "Muestra Somosaguas Sur como un sector urbanístico oficial de Pozuelo de Alarcón antes de la apertura del metro ligero."
+    },
+    {
+      "title": "El Correo de Pozuelo - Historia de las fuentes de Pozuelo: La fuente de Somosaguas",
+      "url": "https://elcorreodepozuelo.com/2017/03/09/historia-las-fuentes-pozuelo-i-la-escorzonera-la-fuentecilla-la-somosaguas-trabajo-carlos-h-fernandez-del-valle/",
+      "type": "press",
+      "relevance_en": "Local historical article describing the vanished Fuente de Somosaguas and its ferruginous, slightly copper-bearing water, useful as contextual support for the water tradition.",
+      "relevance_es": "Artículo histórico local que describe la desaparecida Fuente de Somosaguas y su agua ferruginosa con algo de cobre, útil como apoyo contextual para la tradición del agua."
+    },
+    {
+      "title": "López-Martínez et al., Los fósiles de Vertebrados de Somosaguas (Pozuelo, Madrid), Coloquios de Paleontología 51, 2000",
+      "url": "https://www.researchgate.net/publication/39281486_Los_fosiles_de_Vertebrados_de_Somosaguas_Pozuelo_Madrid",
+      "type": "academic",
+      "relevance_en": "Confirms the scientific use of Somosaguas Norte and Somosaguas Sur as local sectors and describes the geological setting of the area.",
+      "relevance_es": "Confirma el uso científico de Somosaguas Norte y Somosaguas Sur como sectores locales y describe el contexto geológico de la zona."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Downgrade the confidence from verified to probable for the linguistic etymology: the station-place link is verified, but the exact somo + aguas derivation is not directly proven by a dedicated Somosaguas source found in this pass.",
+      "es": "Conviene bajar la confianza de verificada a probable para la etimología lingüística: el vínculo estación-lugar está verificado, pero la derivación exacta somo + aguas no queda probada directamente por una fuente específica de Somosaguas localizada en esta investigación."
+    },
+    {
+      "en": "Clarify that Toponomasticon Hispaniae was found citing Somosaguas as a related toponym under Somosierra, not as a full independent Somosaguas entry.",
+      "es": "Debe aclararse que Toponomasticon Hispaniae se localizó citando Somosaguas como topónimo relacionado dentro de la entrada de Somosierra, no como una entrada independiente completa sobre Somosaguas."
+    },
+    {
+      "en": "Treat the ferruginous spring as supporting historical context, not as the sole proof of the medieval name.",
+      "es": "La fuente ferruginosa debe tratarse como contexto histórico de apoyo, no como prueba única del nombre medieval."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original or scholarly edition of the Relaciones Topográficas de Felipe II for Húmera/Carabanchel to confirm the exact spelling and wording of San Juan de Sumas Aguas.",
+      "es": "Conviene revisar el original o una edición académica de las Relaciones Topográficas de Felipe II para Húmera/Carabanchel y confirmar la grafía y redacción exactas de San Juan de Sumas Aguas."
+    },
+    {
+      "en": "Look for municipal naming files or project plans for ML2 to confirm whether the station name was formally assigned before the 27 July 2007 opening.",
+      "es": "Sería útil localizar expedientes municipales o de proyecto de la ML2 para confirmar si el nombre de la estación se asignó formalmente antes de la inauguración del 27 de julio de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_014/en/summary.short.md",
+      "summary": "content/stations/ml_014/en/summary.md",
+      "story": "content/stations/ml_014/en/story.md",
+      "confidence": "content/stations/ml_014/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_014/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_014/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_014/es/summary.short.md",
+      "summary": "content/stations/ml_014/es/summary.md",
+      "story": "content/stations/ml_014/es/story.md",
+      "confidence": "content/stations/ml_014/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_014/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_014/es/research-note.md"
+    }
+  }
+}

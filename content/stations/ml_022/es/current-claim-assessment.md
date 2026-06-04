@@ -1,0 +1,1 @@
+La atribución directa del nombre está bien sustentada: la terminal de la ML2 está en Aravaca y toma el nombre del lugar histórico y actual barrio madrileño. La fila exagera la certeza de la etimología profunda y parece mezclar el Fuero de Madrid de época de Alfonso VIII con la delimitación de 1222 que normalmente se atribuye a Fernando III.

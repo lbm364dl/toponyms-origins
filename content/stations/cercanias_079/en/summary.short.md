@@ -1,0 +1,1 @@
+Puerto de Navacerrada station is named for the high mountain pass where it stands. The pass itself appears to have taken its name from the nearby village of Navacerrada, a difficult toponym built from nava, a pre-Roman landscape term, and cerrada, whose sense may be enclosed, hard to access, wooded, or surrounded by hills.

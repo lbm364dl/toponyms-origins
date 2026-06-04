@@ -1,0 +1,1 @@
+The core claim is supported: the station is named for Avenida del Siglo XXI in Boadilla del Monte and belongs to the Siglo XXI urban sector. The row should correct 'Calle Siglo XXI' to 'Avenida del Siglo XXI' and soften the claim that the name 'reflects' Boadilla's growth, because that symbolic reading is plausible but not directly documented in the sources found.

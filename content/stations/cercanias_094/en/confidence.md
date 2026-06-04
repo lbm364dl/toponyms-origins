@@ -1,0 +1,1 @@
+The station's connection to the Las Zorreras place-name is supported by official railway and municipal sources. The meaning from zorrera as fox den is linguistically strong, but I found no direct source explaining this specific toponym as fox-related or documenting historical fox abundance.

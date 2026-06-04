@@ -1,0 +1,1 @@
+Prado del Rey is named after the surrounding Pozuelo de Alarcón place name, literally 'the King's meadow'. The name is also strongly associated with RTVE's production centre, inaugurated there on 18 July 1964.

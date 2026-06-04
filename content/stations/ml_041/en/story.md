@@ -1,0 +1,9 @@
+The name **Parla Centro-Bulevar Norte** is primarily a location label. It tells passengers that the stop is in central Parla, on Calle Real, beside the northern boulevard area and next to the Cercanias station that serves the town centre.
+
+The second half of the name, **Bulevar Norte**, refers to a real urban space rather than to an abstract compass point. This northern boulevard forms part of the central Calle Real axis, historically one of Parla's main streets and transport corridors. In 1996 Parla decided to dedicate Bulevar Norte to Francisco Tomas y Valiente, the former president of Spain's Constitutional Court, after his assassination by ETA.
+
+The tram stop belongs to the Tranvia de Parla, opened in stages in 2007. Regional statistical documentation describes the first phase as entering service in June 2007 with 9 stops, followed by a second section on 8 September 2007. Contemporary press coverage records the inaugural ceremony on 6 May 2007 and explains that the tram connected the urban centre with new residential growth and the Cercanias station.
+
+The older word **Parla** has a less certain origin than the station name. A linguistic article by Jairo J. Garcia Sanchez for the Centro Virtual Cervantes says Parla is generally considered to come from a Roman personal name, **Parilus**, through a form like Latin **(villa) Parila**, meaning the estate of that owner. That is a scholarly hypothesis, not a documented naming act.
+
+Popular tradition gives a more memorable but weaker explanation: Parla would come from **parlar**, 'to speak', sometimes through a legend about a mute person who began to speak after drinking local water. That story is culturally relevant, but it is best presented as folk etymology. For the station, the reliable conclusion is simpler: the stop is named after its central-Parla location and the Bulevar Norte area.

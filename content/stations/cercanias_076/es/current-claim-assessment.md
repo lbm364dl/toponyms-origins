@@ -1,0 +1,1 @@
+La afirmación principal es correcta: la estación toma el nombre del municipio de Collado Mediano. La procedencia de collado del latín collis y el significado común de mediano están bien respaldados, pero la explicación específica de un cercado ganadero de tamaño medio no aparece documentada de forma directa en las fuentes más sólidas consultadas.

@@ -1,0 +1,1 @@
+The immediate origin is well supported by the official CRTM station page, which places the access on Calle de Palas de Rey, and by Madrid municipal pages that confirm the street address. The older Galician etymology is only probable because authoritative toponymy material treats Palas as unresolved and presents the Witiza story as tradition.

@@ -1,0 +1,1 @@
+La denominación inmediata por el polígono industrial está verificada por Metro Ligero Oeste. La explicación histórica está bien apoyada por materiales municipales digitalizados de historia local y por una referencia oficial del BOCM al paraje y a las ruinas, pero el elemento personal aparece como sobrenombre, José «El Cano», no como apellido civil plenamente comprobado.

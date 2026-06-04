@@ -1,0 +1,1 @@
+Tierra toma su nombre de la calle Planeta Tierra, en Parla Este. La parada forma parte de un barrio moderno cuyo callejero recurre de forma amplia a planetas, estrellas, constelaciones, signos del zodiaco, galaxias y el sistema solar.

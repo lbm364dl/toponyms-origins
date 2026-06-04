@@ -1,0 +1,1 @@
+Vallecas station takes its name from the historic Vallecas area, once an independent municipality southeast of Madrid. The place-name is documented as Balecas in 1202; its best-supported interpretation points to valley areas, while the popular 'Valley of Kas' story is a later legend.

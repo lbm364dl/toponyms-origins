@@ -1,0 +1,1 @@
+The dataset's etymology is essentially right but slightly overstates what was directly verified. Official sources prove the immediate station-to-street relationship and the Parla Este development context; the rich astronomical taxonomy is best presented as a visible and well-attested street-name pattern, with the exact municipal naming act still to be located.

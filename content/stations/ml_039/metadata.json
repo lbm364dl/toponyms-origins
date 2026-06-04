@@ -1,0 +1,93 @@
+{
+  "id": "ml_039",
+  "name": "Julio Romero de Torres",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Julio Romero de Torres",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "CRTM - Julio Romero de Torres station",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_51",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the current station name, fare context, accessibility, and access at Calle Julio Romero de Torres, 2 in Parla.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre actual de la estación, su contexto tarifario, accesibilidad y acceso en la calle Julio Romero de Torres, 2 de Parla."
+    },
+    {
+      "title": "Museo Nacional del Prado - Julio Romero de Torres",
+      "url": "https://www.museodelprado.es/coleccion/artista/julio-romero-de-torres/ad3ea269-b315-4505-ac90-9e7df008315a",
+      "type": "official",
+      "relevance_en": "Authoritative biography giving birth and death places and dates, artistic formation, appointment at San Fernando in 1916, and characterization of his mature symbolic style.",
+      "relevance_es": "Biografía autorizada que aporta lugares y fechas de nacimiento y muerte, formación artística, nombramiento en San Fernando en 1916 y caracterización de su estilo simbólico de madurez."
+    },
+    {
+      "title": "Ayuntamiento de Córdoba - Museo Julio Romero de Torres",
+      "url": "https://cultura.cordoba.es/equipamientos/museo-julio-romero-de-torres",
+      "type": "official",
+      "relevance_en": "Municipal museum page describing Romero de Torres as a major Cordoban and Spanish painter, listing representative works and explaining the museum opened in 1931 after a family donation.",
+      "relevance_es": "Página del museo municipal que presenta a Romero de Torres como pintor cordobés y español relevante, enumera obras representativas y explica que el museo abrió en 1931 tras una donación familiar."
+    },
+    {
+      "title": "Museo Julio Romero de Torres - Museo",
+      "url": "https://museojulioromero.cordoba.es/museo/",
+      "type": "official",
+      "relevance_en": "Official museum history giving details on his Madrid workshop, return to Córdoba, death on 10 May 1930, and the creation of the museum from works shown at the 1929 Ibero-American Exhibition.",
+      "relevance_es": "Historia oficial del museo con detalles sobre su taller madrileño, regreso a Córdoba, muerte el 10 de mayo de 1930 y creación del museo a partir de obras expuestas en la Exposición Iberoamericana de 1929."
+    },
+    {
+      "title": "CRTM - Metros Ligeros y Tranvías en la Comunidad de Madrid",
+      "url": "https://www.crtm.es/media/fluk4vaw/metros_ligeros_y_tranvias_en_madrid_bilingue_junio_2010.pdf",
+      "type": "official",
+      "relevance_en": "CRTM publication placing Tranvía de Parla in the 2003-2007 infrastructure programme, showing Julio Romero de Torres on the route map, and listing the line's opening date as 5 June 2007.",
+      "relevance_es": "Publicación del CRTM que sitúa el Tranvía de Parla en el Plan de Infraestructuras 2003-2007, muestra Julio Romero de Torres en el plano de línea e indica el 5 de junio de 2007 como fecha de inauguración de la línea."
+    },
+    {
+      "title": "Madridiario - Inaugurado el tramo inicial del tranvía de Parla",
+      "url": "https://www.madridiario.es/noticia/20604/municipios/inaugurado-el-tramo-inicial-del-tranvia-de-parla.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report documenting the ceremonial inauguration of the first Parla tram section in early May 2007, useful for chronology where sources distinguish ceremony from full service.",
+      "relevance_es": "Crónica de prensa contemporánea que documenta la inauguración ceremonial del primer tramo del tranvía de Parla a comienzos de mayo de 2007, útil para la cronología cuando las fuentes distinguen entre acto inaugural y servicio completo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Prefer saying that the station is named from the homonymous street where it is located; the direct street dedication to the painter is highly likely but the municipal naming resolution was not found.",
+      "es": "Conviene decir que la estación toma el nombre de la calle homónima donde se ubica; la dedicación directa de la calle al pintor es muy probable, pero no se ha encontrado el acuerdo municipal de denominación."
+    },
+    {
+      "en": "The Prado's wording is more precise than the current row: in 1916 he was appointed professor of drapery at the Academia de Bellas Artes de San Fernando in Madrid.",
+      "es": "La formulación del Prado es más precisa que la fila actual: en 1916 fue nombrado profesor de ropaje de la Academia de Bellas Artes de San Fernando de Madrid."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Parla municipal plenary records or street-naming files to confirm the exact date and wording by which Calle Julio Romero de Torres was named.",
+      "es": "Revisar actas plenarias o expedientes de rotulación del Ayuntamiento de Parla para confirmar la fecha exacta y la fórmula con que se denominó la calle Julio Romero de Torres."
+    },
+    {
+      "en": "Clarify whether the stop should be dated to the ceremonial opening of the first tram section on 6 May 2007 or the full operating date listed by CRTM as 5 June 2007.",
+      "es": "Aclarar si la parada debe fecharse en la inauguración ceremonial del primer tramo, el 6 de mayo de 2007, o en la fecha de explotación completa que el CRTM indica como 5 de junio de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_039/en/summary.short.md",
+      "summary": "content/stations/ml_039/en/summary.md",
+      "story": "content/stations/ml_039/en/story.md",
+      "confidence": "content/stations/ml_039/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_039/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_039/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_039/es/summary.short.md",
+      "summary": "content/stations/ml_039/es/summary.md",
+      "story": "content/stations/ml_039/es/story.md",
+      "confidence": "content/stations/ml_039/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_039/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_039/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Venus is not named directly for a person, a saint or an old rural place-name. It takes its public transport name from its immediate urban setting: Calle Planeta Venus in Parla Este. The stop is split into Venus Norte and Venus Sur, with the north platform on Avenida de las Estrellas and the south platform on Avenida de los Planetas, both beside the same Venus street axis.
+
+The deeper name belongs to the planet Venus. In classical astronomy Venus is one of the planets visible to the naked eye, and in Roman tradition it bears the name of the goddess of love and beauty. That cultural layer explains why a modern suburban street called Planeta Venus can feel both scientific and mythological at once.
+
+Parla Este was developed as a large eastern expansion of Parla, and the tram was tied to that growth. Transport sources describe the Tranvia de Parla as a circular line serving the historic town, Parla Este and the Cercanias connection. CRTM material also presents the tram as part of the 2003-2007 infrastructure period and as a project closely linked to the development and image of the city.
+
+The station's surroundings make the naming pattern especially visible. The CRTM street map shows Calle Planeta Venus among Calle Planeta Tierra, Planeta Jupiter, Planeta Saturno, Planeta Urano and Planeta Neptuno, as well as Avenida del Sistema Solar, Avenida de los Planetas, Avenida de las Estrellas and Avenida de las Galaxias. That is the strongest evidence for the astronomical theme behind the stop name.
+
+The main caution is about precision. The evidence verifies that the stop name comes from Calle Planeta Venus and that the district uses an astronomical naming scheme. I did not find an official municipal naming resolution or planning text proving the more specific claim that every street was deliberately arranged in orbital order, so that part should be treated as interpretation rather than a documented fact.

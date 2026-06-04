@@ -1,0 +1,1 @@
+El origen básico es correcto: la parada toma el nombre del entorno de la plaza de toros de Parla. Sin embargo, la fila exagera y confunde el coso actual al presentarlo solo como portátil o estacional; fuentes municipales y técnicas describen una plaza permanente construida en 2003, con estructuras temporales usadas después para reparaciones o actos concretos.

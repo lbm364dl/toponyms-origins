@@ -1,0 +1,1 @@
+El origen del nombre de la estación es seguro porque corresponde claramente al municipio y Adif identifica actualmente la estación como Alpedrete. La etimología del municipio está sólidamente respaldada por Toponomasticon Hispaniae, proyecto académico especializado en toponimia, aunque la propia fuente señala que no puede descartarse por completo un origen plenamente árabe.

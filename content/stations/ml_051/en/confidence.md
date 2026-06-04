@@ -1,0 +1,1 @@
+CRTM and Tranvía de Parla sources verify the stop name and the line, and Parla's official transparency inventory verifies the nearby street as Calle Jaime I El Conquistador. Authoritative biographical sources verify Jaime I's identity. The remaining gap is the absence of a primary station-naming resolution explicitly linking the stop name to the street.

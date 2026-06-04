@@ -1,0 +1,1 @@
+The row is right that the station is tied to Calle de Palas de Rey and ultimately to the Galician municipality now officially called Palas de Rei. The deeper explanation should be softened: the royal-palace/Witiza story is a tradition, while specialist Galician toponymy sources treat the first element Palas as etymologically unresolved or possibly non-Latin.

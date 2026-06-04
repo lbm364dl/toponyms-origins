@@ -1,0 +1,9 @@
+Prado de la Vega station takes its name from the local Pozuelo de Alarcón area where it stands. Official descriptions place the stop on ML2 beside the Carretera de Carabanchel, before Avenida de la Carrera, next to Hospital Quirón; Pozuelo’s own transport page identifies this part of ML2 with the hospital and the residential area of Prado de la Vega.
+
+The name is a compact landscape description. In Spanish, prado refers to wet or irrigated land where grass is grown or left for livestock pasture, and the Royal Spanish Academy gives its origin as Latin pratum. Vega means low, flat, fertile ground, usually watered by a river or canal, from a pre-Roman form recorded by the dictionary as vaica.
+
+That wording fits the western Madrid edge that the light rail crossed in the early 2000s: roads, new housing, hospitals and business areas laid over older fields, lowlands and stream corridors. The Community of Madrid says the Colonia Jardin-Pozuelo light-rail line was put into service on 27 July 2007, with Prado de la Vega listed among its thirteen stops.
+
+There is also a deeper archaeological echo in the wider area, especially toward Boadilla del Monte. Reports and later archaeological literature refer to La Vega, a Visigothic-period settlement found during 1996 works in Boadilla’s Sector 4, named according to the existing local toponym, and to San Babilés and other sites around the Arroyo de la Vega. These finds help explain why vega-type names are historically plausible in this landscape.
+
+For this station, however, the safest reading is local and descriptive: the stop was named after the Pozuelo area called Prado de la Vega, not directly after the Visigothic settlement. No official source found gives a separate naming ceremony or earlier station name, so the naming date is best treated as the line’s opening date, 27 July 2007.

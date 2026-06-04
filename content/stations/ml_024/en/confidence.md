@@ -1,0 +1,1 @@
+Official Metro Ligero Oeste material places the ML3 stop on Calle José Isbert, and official/academic film sources identify José Isbert as the artistic name of José Ysbert Alvarruiz, a major Spanish actor. The remaining uncertainty concerns the exact municipal act and date that named the street, not the identity behind the station name.

@@ -1,0 +1,1 @@
+The station-to-municipality link is supported by current CRTM transport data, and the municipal/toponymic explanation is supported by official Los Molinos history pages, municipal PDF research, and the 1751 Catastro summary. Confidence is not absolute for every detail because the cited 1546 license has a possible location/name ambiguity in a separate published transcription.

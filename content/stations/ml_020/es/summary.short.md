@@ -1,0 +1,1 @@
+La estación Avenida de Europa toma su nombre del bulevar de Pozuelo que cruza con la Avenida de la Comunidad de Madrid. La avenida acabó dando nombre a una zona residencial, comercial y empresarial moderna surgida del antiguo Plan Parcial Ampliación Casa de Campo.

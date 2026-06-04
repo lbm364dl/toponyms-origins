@@ -1,0 +1,111 @@
+{
+  "id": "ml_047",
+  "name": "Avenida Sistema Solar",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Avenida del Sistema Solar, in Parla Este's astronomical street-name scheme",
+  "previous_names": "",
+  "naming_date": "Station opened with current name by 2007-09-08; exact street-naming date not found",
+  "sources": [
+    {
+      "title": "CRTM - Avenida Sistema Solar",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_59/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, surface-stop status, connections, and access at Avda. del Sistema Solar, 9 in Parla.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, su condición de parada en superficie, las correspondencias y el acceso en Avda. del Sistema Solar, 9, en Parla."
+    },
+    {
+      "title": "CRTM - Tranvía de Parla line diagram",
+      "url": "https://crtm.es/datos_lineas/esquemas/10040.pdf",
+      "type": "official",
+      "relevance_en": "Official line diagram listing Avenida Sistema Solar among the Parla tram stops and showing its position between Tierra and Parque Parla Este.",
+      "relevance_es": "Esquema oficial de línea que incluye Avenida Sistema Solar entre las paradas del Tranvía de Parla y muestra su posición entre Tierra y Parque Parla Este."
+    },
+    {
+      "title": "Comunidad de Madrid - Consorcio Urbanístico Parla Este (Parla)",
+      "url": "https://www.comunidad.madrid/medio-ambiente/consorcio-urbanistico-parla-este-parla",
+      "type": "official",
+      "relevance_en": "Confirms the institutional framework for developing and managing Parla Este and includes an official location map of the area.",
+      "relevance_es": "Confirma el marco institucional para el desarrollo y la gestión de Parla Este e incluye un mapa oficial de localización del ámbito."
+    },
+    {
+      "title": "Comunidad de Madrid - Parla Este street map image",
+      "url": "https://www.comunidad.madrid/docs/styles/free_crop_992w_x1/public/assets/2019/09/02/parla_este_callejero.png?itok=SEWwzpnu",
+      "type": "official",
+      "relevance_en": "Official map image that visibly corroborates nearby astronomical street names, including Avenida del Sistema Solar, Avenida de los Planetas and Avenida de las Estrellas.",
+      "relevance_es": "Imagen cartográfica oficial que corrobora visualmente nombres astronómicos próximos, como Avenida del Sistema Solar, Avenida de los Planetas y Avenida de las Estrellas."
+    },
+    {
+      "title": "BOE-B-2000-193024 - Proyecto de urbanización PAU 4, Residencial Este",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2000-193024",
+      "type": "official",
+      "relevance_en": "Official 2000 notice documenting the urbanization project for PAU 4, 'Residencial Este', the development context behind Parla Este.",
+      "relevance_es": "Anuncio oficial de 2000 que documenta el proyecto de urbanización del PAU 4, «Residencial Este», contexto de desarrollo de Parla Este."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Anuario demográfico 2022",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2023/11/Anuario-demografico-2022.pdf",
+      "type": "official",
+      "relevance_en": "Municipal demographic document describing Parla Este as a new-construction neighborhood whose development began at the start of the twenty-first century.",
+      "relevance_es": "Documento demográfico municipal que describe Parla Este como un barrio de nueva construcción cuyo desarrollo comenzó a comienzos del siglo XXI."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Consejo Parla-Este",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2018/07/Consejo-Parla-Este.pdf",
+      "type": "official",
+      "relevance_en": "Municipal document defining the Parla Este council area and using Avenida del Sistema Solar as one of its boundaries.",
+      "relevance_es": "Documento municipal que delimita el ámbito del Consejo Parla-Este y usa la Avenida del Sistema Solar como uno de sus límites."
+    },
+    {
+      "title": "Parla Este - Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Parla_Este",
+      "type": "reference",
+      "relevance_en": "Secondary reference useful for the detailed list of astronomical street names and the popular 'Barrio del Universo' label; not treated as decisive for official naming.",
+      "relevance_es": "Referencia secundaria útil para la lista detallada de nombres astronómicos y la denominación popular «Barrio del Universo»; no se trata como prueba decisiva de la denominación oficial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 'Avenida Sistema Solar' for the station name, but 'Avenida del Sistema Solar' for the street name as shown by CRTM.",
+      "es": "Conviene usar «Avenida Sistema Solar» para la estación, pero «Avenida del Sistema Solar» para la vía, tal como aparece en el CRTM."
+    },
+    {
+      "en": "The claim that the neighborhood was 'designed in 2001' should be softened unless a planning document is cited; official sources found here support development at the beginning of the twenty-first century and a PAU 4 urbanization contract in 2000.",
+      "es": "La afirmación de que el barrio fue «diseñado en 2001» debe matizarse si no se cita un documento urbanístico concreto; las fuentes oficiales localizadas apoyan el desarrollo a comienzos del siglo XXI y un contrato de urbanización del PAU 4 en 2000."
+    },
+    {
+      "en": "Do not present the full list of planets, stars and constellations as officially verified unless the municipal street-naming record or an official complete street list is added.",
+      "es": "No debe presentarse la lista completa de planetas, estrellas y constelaciones como verificada oficialmente salvo que se añada el expediente municipal de denominación o un callejero oficial completo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Parla municipal plenary records or street-naming files for the exact approval date of Avenida del Sistema Solar and the astronomical naming scheme.",
+      "es": "Consultar actas del Pleno de Parla o expedientes de denominación viaria para localizar la fecha exacta de aprobación de la Avenida del Sistema Solar y del esquema astronómico."
+    },
+    {
+      "en": "Confirm from operator or concession records whether Avenida Sistema Solar opened commercially on 8 September 2007 with the second Parla Este section; current evidence for this exact station date is secondary.",
+      "es": "Confirmar en documentación del operador o de la concesión si Avenida Sistema Solar abrió comercialmente el 8 de septiembre de 2007 con el segundo tramo de Parla Este; la evidencia actual para esa fecha exacta de estación es secundaria."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_047/en/summary.short.md",
+      "summary": "content/stations/ml_047/en/summary.md",
+      "story": "content/stations/ml_047/en/story.md",
+      "confidence": "content/stations/ml_047/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_047/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_047/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_047/es/summary.short.md",
+      "summary": "content/stations/ml_047/es/summary.md",
+      "story": "content/stations/ml_047/es/story.md",
+      "confidence": "content/stations/ml_047/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_047/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_047/es/research-note.md"
+    }
+  }
+}

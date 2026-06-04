@@ -1,0 +1,1 @@
+La relación de la estación con el topónimo Las Zorreras está respaldada por fuentes ferroviarias y municipales oficiales. El sentido de zorrera como madriguera de zorros es lingüísticamente sólido, pero no he localizado una fuente directa que explique este topónimo concreto por los zorros ni que documente una abundancia histórica de ellos.

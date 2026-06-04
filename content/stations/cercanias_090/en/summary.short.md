@@ -1,0 +1,1 @@
+The station is named for the nearby Cantoblanco campus of Universidad Pontificia Comillas. The university inherited its name from the Cantabrian town of Comillas, where it began as a pontifical seminary in 1890 before its gradual move to Madrid.

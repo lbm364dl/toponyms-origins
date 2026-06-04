@@ -1,0 +1,1 @@
+The station name matches the established local place name, and official/operator sources place the stop in that area beside calle Juan de Orduña. Municipal, regional and press sources independently document Ciudad de la Imagen as an audiovisual complex in Pozuelo, with planning and institutional context from 1990 onward.

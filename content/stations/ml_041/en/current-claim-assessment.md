@@ -1,0 +1,1 @@
+The direct claim is correct: the stop name identifies the central Parla interchange area and the Bulevar Norte sector. The added discussion of the municipality name is useful context but should not be treated as verified etymology; the best sourced linguistic explanation found favors a hypothetical Roman personal-name origin, while the 'speaking/parlar' story is folk etymology.

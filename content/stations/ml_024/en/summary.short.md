@@ -1,0 +1,1 @@
+José Isbert station takes its name from Calle José Isbert in Pozuelo de Alarcón's Ciudad de la Imagen. The street honors Pepe Isbert, one of Spanish cinema's best-known comic actors and a key presence in films such as Bienvenido, Mister Marshall and El verdugo.

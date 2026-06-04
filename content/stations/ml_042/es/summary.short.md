@@ -1,0 +1,1 @@
+Iglesia Centro toma su nombre de la iglesia de Nuestra Señora de la Asunción, la antigua parroquia de Parla, situada junto a la parada en el casco histórico. El templo data del siglo XVI, aunque gran parte de su aspecto actual procede de reconstrucciones del siglo XX.

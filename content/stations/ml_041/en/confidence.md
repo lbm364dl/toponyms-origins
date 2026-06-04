@@ -1,0 +1,1 @@
+CRTM identifies the current stop as Parla Centro - Bulevar Norte, gives its Calle Real access and interchange information, and regional transport sources document the Tranvia de Parla entering service in 2007. The direct station-name origin is therefore verified; only the older municipal etymology remains uncertain.

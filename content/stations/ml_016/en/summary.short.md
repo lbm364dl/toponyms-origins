@@ -1,0 +1,1 @@
+Pozuelo Oeste is a descriptive place name: an ML2 stop in the western part of Pozuelo de Alarcón. The municipality's name goes back to Pozuelo, a Castilian diminutive of pozo linked to wells and springs, plus Alarcón from the family that acquired the lordship in 1632.

@@ -1,0 +1,1 @@
+The station is correctly identified as named for Vallecas, and the medieval form Balecas in the 1202 Fuero de Madrid is well attested. The deeper linguistic explanation from Federico Corriente is plausible and stronger than the Kas legend, but I found it only through secondary local-history citations, not in an inspected primary publication by Corriente.

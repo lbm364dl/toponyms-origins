@@ -1,0 +1,1 @@
+Ventorro del Cano recibe su nombre del polígono industrial de Alcorcón donde se sitúa la estación. El topónimo conserva la memoria de una antigua venta o ventorro vinculada a José «El Cano», figura recordada por la historia local alcorconera.

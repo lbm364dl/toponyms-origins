@@ -1,0 +1,132 @@
+{
+  "id": "ml_019",
+  "name": "Campus de Somosaguas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Campus de Somosaguas de la Universidad Complutense de Madrid",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Campus de Somosaguas - Consorcio Regional de Transportes de Madrid",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_20",
+      "type": "official",
+      "relevance_en": "Confirms the official station name, Metro Ligero context, location on Avenida del Cerro in Pozuelo de Alarcón, fare zone, and connections.",
+      "relevance_es": "Confirma el nombre oficial de la estación, su contexto en Metro Ligero, la ubicación en la avenida del Cerro en Pozuelo de Alarcón, la zona tarifaria y las correspondencias."
+    },
+    {
+      "title": "MLO al teléfono - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Metro Ligero Oeste describes Campus de Somosaguas as an ML2 station situated on the UCM Somosaguas university campus in Pozuelo de Alarcón.",
+      "relevance_es": "Metro Ligero Oeste describe Campus de Somosaguas como una estación de la línea ML2 situada en el campus universitario de Somosaguas de la UCM, en Pozuelo de Alarcón."
+    },
+    {
+      "title": "Se cumplen diez años desde el primer recorrido de Metro Ligero Oeste - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/sala-de-prensa/noticias/100410-se-cumplen-diez-anos-desde-el-primer-recorrido-de-metro-ligero-oeste-es",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste began commercial service on 27 July 2007 and identifies ML2 as the line serving Pozuelo and Aravaca.",
+      "relevance_es": "Confirma que Metro Ligero Oeste inició el servicio comercial el 27 de julio de 2007 e identifica la ML2 como la línea que sirve Pozuelo y Aravaca."
+    },
+    {
+      "title": "Facultad de Ciencias Económicas y Empresariales - Cultura UCM",
+      "url": "https://www.ucm.es/cultura/facultad-de-ciencias-economicas-y",
+      "type": "official",
+      "relevance_en": "UCM dates the main Economics building at Somosaguas to 1968 and explains the faculty's move from San Bernardo and Ciudad Universitaria to its current location.",
+      "relevance_es": "La UCM fecha el edificio principal de Económicas en Somosaguas en 1968 y explica el paso de la Facultad desde San Bernardo y la Ciudad Universitaria hasta su ubicación actual."
+    },
+    {
+      "title": "Historia - Facultad de Ciencias Políticas y Sociología, UCM",
+      "url": "https://politicasysociologia.ucm.es/historia",
+      "type": "official",
+      "relevance_en": "Provides the official faculty chronology, including the 1943 creation, the 1965-1969 Ciudad Universitaria phase, the 1971 split, and the anti-Franco student protest context.",
+      "relevance_es": "Aporta la cronología oficial de la Facultad, incluida la creación de 1943, la etapa de 1965-1969 en la Ciudad Universitaria, la separación de 1971 y el contexto de protesta estudiantil antifranquista."
+    },
+    {
+      "title": "Borrador texto aprobación Campus de Chamberí-Centro - UCM",
+      "url": "https://documentacion.ucm.es/file/texto-aprobacion-cg-campus-de-chamberi-centro/?ver=",
+      "type": "official",
+      "relevance_en": "States that the Campus de Somosaguas was created in 1968 and that UCM has since been structured around the Ciudad Universitaria/Moncloa and Somosaguas campuses.",
+      "relevance_es": "Indica que el Campus de Somosaguas se creó en 1968 y que desde entonces la UCM se ha articulado en torno a los campus de Ciudad Universitaria/Moncloa y Somosaguas."
+    },
+    {
+      "title": "Fernando Jiménez de Gregorio, 'Apunte geográfico-económico de los pueblos de la actual provincia de Madrid en el año 1725 (V)', Anales del Instituto de Estudios Madrileños, 1987",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/721552.pdf",
+      "type": "academic",
+      "relevance_en": "Gives the key historical-toponymic evidence: San Juan de Sumas Aguas, Sumasaguas in Madoz, the explanation by abundant good waters, and depopulation of San Juan de Sumas Aguas and San Pedro de Meaque during the Pedro I-Enrique II conflict.",
+      "relevance_es": "Aporta la evidencia histórico-toponímica clave: San Juan de Sumas Aguas, Sumasaguas en Madoz, la explicación por abundancia de buenas aguas y el despoblamiento de San Juan de Sumas Aguas y San Pedro de Meaque durante el conflicto entre Pedro I y Enrique II."
+    },
+    {
+      "title": "Somosierra - Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/somosierra",
+      "type": "academic",
+      "relevance_en": "Explains the Latin summus/somus family for a Madrid toponym and lists Somosaguas as a related cognate, supporting but not conclusively proving the somo component.",
+      "relevance_es": "Explica la familia latina summus/somus en un topónimo madrileño y enumera Somosaguas como cognado relacionado, lo que apoya pero no prueba de forma concluyente el componente somo."
+    },
+    {
+      "title": "Historia - Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Municipal history confirms that early Pozuelo included the hamlets of San Juan de Somosaguas and San Pedro de Meaque, later depopulated during the struggles between Pedro I and Enrique II.",
+      "relevance_es": "La historia municipal confirma que el Pozuelo primitivo incluía los caseríos de San Juan de Somosaguas y San Pedro de Meaque, despoblados durante las luchas entre Pedro I y Enrique II."
+    },
+    {
+      "title": "La facultad de derecho más superpoblada del mundo - El País",
+      "url": "https://elpais.com/diario/1985/10/31/sociedad/499561202_850215.html",
+      "type": "press",
+      "relevance_en": "A contemporary press account describes the Economics facilities in Somosaguas as improvised to move one of the most combative late-Franco university centres away from Moncloa.",
+      "relevance_es": "Una crónica de prensa describe las instalaciones de Económicas en Somosaguas como improvisadas para alejar de Moncloa uno de los centros universitarios más combativos del tardofranquismo."
+    },
+    {
+      "title": "Pozuelo, ciudad del agua - Pozuelo IN",
+      "url": "https://pozueloin.es/publicacion/marzo-de-2020/pozuelo-prestigio/pozuelo-ciudad-del-agua/",
+      "type": "press",
+      "relevance_en": "Local historical article by the municipal chronicler Carlos H. Fernández del Valle records the vanished Fuente de Somosaguas and its ferruginous, slightly copper-bearing water.",
+      "relevance_es": "Artículo histórico local del cronista Carlos H. Fernández del Valle que recoge la desaparecida Fuente de Somosaguas y sus aguas ferruginosas con algo de mineral de cobre."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the direct named-after value as the Campus de Somosaguas, not simply the Universidad Complutense de Madrid as a whole.",
+      "es": "Usar como valor directo de named_after el Campus de Somosaguas, no la Universidad Complutense de Madrid en conjunto."
+    },
+    {
+      "en": "Qualify the somo + aguas etymology: historical sources directly support Sumas Aguas as a water-abundance name; the somo/summum element is plausible but not directly proven for this exact place-name in the sources inspected.",
+      "es": "Matizar la etimología somo + aguas: las fuentes históricas apoyan directamente Sumas Aguas como nombre de abundancia de agua; el elemento somo/summum es plausible, pero no queda probado de forma directa para este topónimo exacto en las fuentes consultadas."
+    },
+    {
+      "en": "The anti-protest relocation context is supported, but should be presented as a historically reported motive rather than as the sole demonstrated cause of the campus name.",
+      "es": "El contexto del traslado para alejar la protesta estudiantil tiene apoyo documental, pero debe presentarse como un motivo histórico señalado por las fuentes y no como la única causa demostrada del nombre del campus."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A direct archival planning file for the 1968 creation of the Somosaguas campus would be needed to prove the administrative motives for the relocation beyond later historical and press accounts.",
+      "es": "Sería necesario consultar un expediente administrativo directo sobre la creación del campus de Somosaguas en 1968 para probar los motivos del traslado más allá de relatos históricos y de prensa posteriores."
+    },
+    {
+      "en": "No dedicated Toponomasticon Hispaniae entry for Somosaguas was found; such an entry, if later published, could refine the linguistic etymology.",
+      "es": "No se localizó una ficha específica de Somosaguas en Toponomasticon Hispaniae; si se publica más adelante, podría precisar la etimología lingüística."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_019/en/summary.short.md",
+      "summary": "content/stations/ml_019/en/summary.md",
+      "story": "content/stations/ml_019/en/story.md",
+      "confidence": "content/stations/ml_019/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_019/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_019/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_019/es/summary.short.md",
+      "summary": "content/stations/ml_019/es/summary.md",
+      "story": "content/stations/ml_019/es/story.md",
+      "confidence": "content/stations/ml_019/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_019/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_019/es/research-note.md"
+    }
+  }
+}

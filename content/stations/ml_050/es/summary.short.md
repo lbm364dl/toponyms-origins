@@ -1,0 +1,1 @@
+Estrella Polar toma su nombre de la calle Estrella Polar de Parla Este, donde muchas vías siguen una temática astronómica. El nombre alude a Polaris, la actual estrella del norte, usada como referencia porque se encuentra muy cerca del polo norte celeste.

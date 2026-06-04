@@ -1,0 +1,1 @@
+El cambio de nombre de la parada está respaldado directamente por el aviso de Tranvía de Parla del 22 de marzo de 2022, y la denominación municipal del bulevar está respaldada por el acta municipal de enero de 2019 y prensa local contemporánea. Los datos biográficos y cronológicos están corroborados por la Fundación Miguel Ángel Blanco y RTVE.

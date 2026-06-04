@@ -1,0 +1,1 @@
+The naming chain is supported by official transport and health sources: Renfe places the station beside the hospital of the same name, and the hospital’s official anniversary page says the hospital is named for Santiago Ramón y Cajal. The 1984 station naming/opening is probable from RENFE historical memory text, but the exact day should be checked in the original PDF.

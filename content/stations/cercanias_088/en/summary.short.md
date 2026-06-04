@@ -1,0 +1,1 @@
+Villaverde Bajo is named for the local Villaverde place name, literally a 'green settlement', with Bajo distinguishing the lower or railway-side sector from other Villaverde names. The station's present railway name dates to a 1906 Royal Order, after an earlier Villaverde-Alicante siding.

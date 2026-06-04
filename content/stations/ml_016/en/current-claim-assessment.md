@@ -1,0 +1,1 @@
+The row is broadly right that the station is a geographic name referring to Pozuelo de Alarcón and that the older place-name is linked to wells and springs. The main correction is linguistic: Toponomasticon Hispaniae treats Pozuelo primarily as a Castilian diminutive of pozo, while noting that Latin PUTEOLU existed, rather than proving a direct Latin survival in this case.

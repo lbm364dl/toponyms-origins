@@ -1,0 +1,1 @@
+Official heritage documentation directly states that stone boundary markers of the Reales Pinares de Valsain gave the Puerto de Cotos its name, and official transport documentation confirms the station name and C-9 context. The 1761 royal purchase and the linguistic meaning of coto are independently supported.

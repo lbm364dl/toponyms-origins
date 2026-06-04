@@ -1,0 +1,111 @@
+{
+  "id": "ml_045",
+  "name": "Isabel II",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Isabel II de España",
+  "previous_names": "",
+  "naming_date": "2007 (station name in use from the opening period; exact naming resolution not found)",
+  "sources": [
+    {
+      "title": "CRTM - Isabel II station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_57/?idPestana=1",
+      "type": "official",
+      "relevance_en": "Confirms the current official stop name Isabel II, its mode as Metro Ligero/Tranvía, and its surface access at Calle Reyes Católicos, 73 in Parla.",
+      "relevance_es": "Confirma el nombre oficial actual de la parada Isabel II, su modo como Metro Ligero/Tranvía y su acceso en superficie en la calle Reyes Católicos, 73 de Parla."
+    },
+    {
+      "title": "BOE-B-2005-10039 - Obras en C/ Isabel II, Alfonso X, Fernando III y Reyes Católicos de Parla",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2005-10039",
+      "type": "official",
+      "relevance_en": "Provides official evidence that Calle Isabel II existed in Parla and was grouped in a municipal works notice with other royal-name streets.",
+      "relevance_es": "Aporta prueba oficial de la existencia de la calle Isabel II en Parla y de su agrupación, en un anuncio municipal de obras, con otras calles de nombres regios."
+    },
+    {
+      "title": "Portal de Transparencia de Parla - Relación de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Lists Calle Isabel II between Calle Reyes Católicos and Calle San Roque, supporting the local street-location context for the stop name.",
+      "relevance_es": "Enumera la calle Isabel II entre la calle Reyes Católicos y la calle San Roque, lo que respalda el contexto viario local del nombre de la parada."
+    },
+    {
+      "title": "Real Academia de la Historia - Isabel II",
+      "url": "https://historia-hispanica.rah.es/biografias/24041-isabel-ii",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical reference for Isabel II and bibliography on the queen; useful for identifying the person behind the name.",
+      "relevance_es": "Referencia biográfica autorizada sobre Isabel II y bibliografía de la reina; útil para identificar a la persona aludida por el nombre."
+    },
+    {
+      "title": "Banco de España Collection - Isabel II",
+      "url": "https://coleccion.bde.es/wca/es/secciones/coleccion/obras/isabel-ii-p_55.html",
+      "type": "official",
+      "relevance_en": "Gives Isabel II's dates, reign period, family background, proclamation in 1833, and political context of the Carlist conflict.",
+      "relevance_es": "Ofrece las fechas de Isabel II, su periodo de reinado, contexto familiar, proclamación en 1833 y el marco político del conflicto carlista."
+    },
+    {
+      "title": "BNE datos - Isabel II, reina de España (1830-1904)",
+      "url": "https://datos.bne.es/resource/XX879513",
+      "type": "reference",
+      "relevance_en": "Confirms the authority form Isabel II, Queen of Spain, with dates 1830-1904 and reign dates 1833-1868.",
+      "relevance_es": "Confirma la forma autorizada Isabel II, reina de España, con fechas 1830-1904 y reinado 1833-1868."
+    },
+    {
+      "title": "Ayuntamiento del Real Sitio y Villa de Aranjuez - 170th anniversary of the Madrid-Aranjuez railway",
+      "url": "https://www.aranjuez.es/hoy-se-conmemora-el-170o-aniversario-del-viaje-inaugural-de-la-linea-ferroviaria-madrid-aranjuez/",
+      "type": "official",
+      "relevance_en": "Confirms that the Madrid-Aranjuez railway opened on 9 February 1851 as Madrid's first railway and the second on the Peninsula, and that the route is now part of Cercanías C-3.",
+      "relevance_es": "Confirma que la línea Madrid-Aranjuez se inauguró el 9 de febrero de 1851 como primer ferrocarril madrileño y segundo de la Península, y que el trazado forma hoy parte de Cercanías C-3."
+    },
+    {
+      "title": "Gaceta de Madrid, 10 February 1851 - Inauguración del ferro-carril de Aranjuez",
+      "url": "https://www.boe.es/gazeta/dias/1851/02/10/pdfs/GMD-1851-6055.pdf",
+      "type": "archive",
+      "relevance_en": "Contemporary report of the railway inauguration, documenting the royal family's attendance and giving one hour and five minutes for the royal train's journey.",
+      "relevance_es": "Crónica contemporánea de la inauguración ferroviaria, que documenta la asistencia de la familia real y da una hora y cinco minutos para el viaje del tren real."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state that the stop is on Calle Isabel II; CRTM lists its access at Calle Reyes Católicos, 73, beside the Calle Isabel II area.",
+      "es": "No debe afirmarse que la parada esté en la calle Isabel II; el CRTM sitúa su acceso en la calle Reyes Católicos, 73, junto al entorno de la calle Isabel II."
+    },
+    {
+      "en": "The railway story should be treated as historical context for Isabel II's reign, not as evidence for why the Parla stop was named.",
+      "es": "El episodio ferroviario debe tratarse como contexto histórico del reinado de Isabel II, no como prueba de por qué se nombró así la parada de Parla."
+    },
+    {
+      "en": "The current claim that the royal train covered the route in 54 minutes was not supported by the inspected contemporary Gaceta report, which gives one hour and five minutes for the royal train.",
+      "es": "La afirmación actual de que el tren real recorrió la línea en 54 minutos no queda respaldada por la Gaceta contemporánea consultada, que da una hora y cinco minutos para el tren real."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Parla municipal street-naming records or historical callejeros to confirm when Calle Isabel II was named and whether the official dedication explicitly mentions Queen Isabel II.",
+      "es": "Revisar expedientes municipales de denominación viaria o callejeros históricos de Parla para confirmar cuándo se nombró la calle Isabel II y si la dedicatoria oficial menciona explícitamente a la reina Isabel II."
+    },
+    {
+      "en": "Find original Tranvía de Parla opening or project documentation listing stop names to confirm whether Isabel II was the name assigned from the first public service.",
+      "es": "Localizar documentación original de apertura o proyecto del Tranvía de Parla que enumere las paradas para confirmar si Isabel II fue el nombre asignado desde el primer servicio público."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_045/en/summary.short.md",
+      "summary": "content/stations/ml_045/en/summary.md",
+      "story": "content/stations/ml_045/en/story.md",
+      "confidence": "content/stations/ml_045/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_045/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_045/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_045/es/summary.short.md",
+      "summary": "content/stations/ml_045/es/summary.md",
+      "story": "content/stations/ml_045/es/story.md",
+      "confidence": "content/stations/ml_045/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_045/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_045/es/research-note.md"
+    }
+  }
+}

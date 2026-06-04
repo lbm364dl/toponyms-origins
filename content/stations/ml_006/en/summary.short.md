@@ -1,0 +1,1 @@
+Blasco Ibáñez station takes its name from Calle de Vicente Blasco Ibáñez, beside the ML1 stop in Sanchinarro. The street commemorates the Valencian novelist, journalist and republican politician Vicente Blasco Ibáñez (1867-1928).

@@ -1,0 +1,107 @@
+{
+  "id": "cercanias_078",
+  "name": "Cercedilla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Cercedilla, the municipality; a diminutive toponym derived from nearby Cerceda, from a quercus/quercetum-type oak-grove root",
+  "previous_names": "Also called Cercedilla-Empalme in Ferrocarril Eléctrico del Guadarrama context; historical place-name spellings include Zerezedilla, Cerecedilla and Zercedilla.",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Cercedilla",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/cercedilla",
+      "type": "academic",
+      "relevance_en": "Main etymological source: identifies Cercedilla as a diminutive of nearby Cerceda, discusses the probable settlement relationship, gives historical spellings, and notes the Fuenfría route context.",
+      "relevance_es": "Fuente etimológica principal: identifica Cercedilla como diminutivo de la cercana Cerceda, trata la probable relación de poblamiento, aporta grafías históricas y contextualiza el paso de la Fuenfría."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Cerceda",
+      "url": "https://toponhisp.org/node/3511",
+      "type": "academic",
+      "relevance_en": "Explains the parent toponym Cerceda as derived from a quercus/quercetum-type root and explicitly lists Cercedilla as a direct derivative of the neighboring Cerceda.",
+      "relevance_es": "Explica el topónimo matriz Cerceda como derivado de una raíz del tipo quercus/quercetum y menciona expresamente Cercedilla como derivado directo de la Cerceda vecina."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: QUĔRQUĒTU, QUĔRCĒTU",
+      "url": "https://toponhisp.org/es/etimo/querquetu-quercetu",
+      "type": "academic",
+      "relevance_en": "Provides the broader etymon page linking Cerceda and Cercedilla to oak-related Latin/Romance toponymy and the diminutive suffix -ella.",
+      "relevance_es": "Aporta la página del étimo que vincula Cerceda y Cercedilla con la toponimia latina o romance relacionada con el roble y con el sufijo diminutivo -ella."
+    },
+    {
+      "title": "Renfe: Estación de tren de Cercedilla",
+      "url": "https://www.renfe.com/es/es/inspirate/estaciones/estacion-cercedilla",
+      "type": "official",
+      "relevance_en": "Confirms the current railway station name and its connection with Cercanías Madrid lines C8 and C9.",
+      "relevance_es": "Confirma el nombre actual de la estación ferroviaria y su conexión con las líneas C8 y C9 de Cercanías Madrid."
+    },
+    {
+      "title": "Renfe Rodajes Cercanías Madrid: Estación de Cercedilla",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-cercedilla",
+      "type": "official",
+      "relevance_en": "Gives transport context: the station was built between the late nineteenth and early twentieth centuries by the Compañía de Ferrocarriles del Norte, and the electric railway to Puerto de Navacerrada opened in 1923.",
+      "relevance_es": "Aporta contexto ferroviario: la estación fue construida entre finales del siglo XIX y principios del XX por la Compañía de Ferrocarriles del Norte, y el ferrocarril eléctrico al Puerto de Navacerrada se inauguró en 1923."
+    },
+    {
+      "title": "Ayuntamiento de Cercedilla: Patrimonio Cultural",
+      "url": "https://cercedilla.es/patrimonio-cultural/",
+      "type": "official",
+      "relevance_en": "Municipal source for local historical context, including the supposed twelfth-century origin around the Santa María hermitage, the Roman-road heritage, and the railway's role.",
+      "relevance_es": "Fuente municipal para el contexto histórico local, incluidos el supuesto origen del siglo XII en torno a la ermita de Santa María, el patrimonio de la calzada romana y el papel del ferrocarril."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Centenario del Ferrocarril Eléctrico del Guadarrama 1923-2023",
+      "url": "https://www.crtm.es/media/bfaad5dn/centenario-fc-electrico-del-guadarrama.pdf",
+      "type": "official",
+      "relevance_en": "Documents railway chronology: arrival of the railway to Cercedilla in 1888, the 1923 opening of the Guadarrama electric railway, and the note that Cercedilla was also called Cercedilla-Empalme.",
+      "relevance_es": "Documenta la cronología ferroviaria: llegada del ferrocarril a Cercedilla en 1888, apertura del Ferrocarril Eléctrico del Guadarrama en 1923 y mención de que Cercedilla también fue llamada Cercedilla-Empalme."
+    },
+    {
+      "title": "PARES: Ejecutoria del pleito litigado por los concejos del Espinar y Cercedilla, 1544",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/description/5701347",
+      "type": "archive",
+      "relevance_en": "Archival catalogue record for a 1544 lawsuit involving Cercedilla, useful as primary evidence of the early modern place-name; direct page access was rate-limited during inspection, but the catalogue snippet was available.",
+      "relevance_es": "Registro archivístico de una ejecutoria de 1544 relativa a Cercedilla, útil como prueba primaria del topónimo en la Edad Moderna; el acceso directo a la página fue limitado por la tasa de consultas durante la inspección, pero el resumen del catálogo estaba disponible."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state as fact that Cercedilla began as a seasonal outpost; the authoritative source says it is very probable that people from Cerceda settled there more or less permanently, but this remains an inference.",
+      "es": "No debe afirmarse como hecho que Cercedilla naciera como un puesto estacional; la fuente autorizada dice que es muy probable que gentes de Cerceda se instalaran allí de manera más o menos fija, pero sigue siendo una inferencia."
+    },
+    {
+      "en": "The Spanish named_after value should say 'diminutivo de Cerceda' rather than mixing English 'diminutive' into the Spanish text.",
+      "es": "El valor español de named_after debería decir 'diminutivo de Cerceda' en lugar de mezclar el inglés 'diminutive' en el texto español."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full inspection of Tomás Montalvo's local history work, Cercedilla en la Historia, could add more detail on the municipality's medieval origins, but the available municipal page only summarizes it.",
+      "es": "La consulta completa de la obra de historia local de Tomás Montalvo, Cercedilla en la Historia, podría aportar más detalle sobre los orígenes medievales del municipio, pero la página municipal disponible solo la resume."
+    },
+    {
+      "en": "The former railway label Cercedilla-Empalme is documented in a transport-history PDF, but the exact official dates of use as a public station name were not found.",
+      "es": "La denominación ferroviaria antigua Cercedilla-Empalme está documentada en un PDF de historia del transporte, pero no se localizaron las fechas oficiales exactas de uso como nombre público de estación."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_078/en/summary.short.md",
+      "summary": "content/stations/cercanias_078/en/summary.md",
+      "story": "content/stations/cercanias_078/en/story.md",
+      "confidence": "content/stations/cercanias_078/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_078/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_078/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_078/es/summary.short.md",
+      "summary": "content/stations/cercanias_078/es/summary.md",
+      "story": "content/stations/cercanias_078/es/story.md",
+      "confidence": "content/stations/cercanias_078/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_078/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_078/es/research-note.md"
+    }
+  }
+}

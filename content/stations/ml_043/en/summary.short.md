@@ -1,0 +1,1 @@
+The stop takes its combined name from Parla's Bulevar Sur and from Miguel Ángel Blanco Garrido, the Ermua PP councillor kidnapped and murdered by ETA in July 1997. Parla named the boulevard for him in 2019, and the tram stop adopted the commemorative name in March 2022.

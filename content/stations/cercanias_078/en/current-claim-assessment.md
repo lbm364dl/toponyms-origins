@@ -1,0 +1,1 @@
+The core claim is well supported: the station is named for the municipality, and Toponomasticon Hispaniae treats Cercedilla as a diminutive of nearby Cerceda, ultimately linked to a Latin quercus/quercetum-type oak-grove root. The specific idea of a seasonal outpost is weaker and should be framed only as inference.

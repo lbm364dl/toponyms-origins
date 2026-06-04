@@ -1,0 +1,1 @@
+La parada del tranvía de Parla toma su nombre de la calle Julio Romero de Torres, donde se sitúa. El nombre de la calle remite a Julio Romero de Torres (1874-1930), pintor cordobés cuya obra de madurez unió simbolismo, cultura popular andaluza e imaginario de Córdoba.

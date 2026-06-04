@@ -1,0 +1,1 @@
+La afirmación principal está bien respaldada: la estación está junto a las cocheras y oficinas de Metro Ligero Oeste y toma de ellas un nombre descriptivo. El contexto sobre la historia del tranvía es correcto en líneas generales, pero conviene precisarlo; la nota lingüística debe citar la forma de la RAE, del húngaro kocsi, y no presentar la vía alemana como indiscutida.

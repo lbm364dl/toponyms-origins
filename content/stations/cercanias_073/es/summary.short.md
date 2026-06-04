@@ -1,0 +1,1 @@
+La estación toma su nombre compuesto de Santa María de la Alameda, el municipio donde se encuentra, y de Peguerinos, el municipio abulense al que también sirve. Los significados antiguos apuntan a un topónimo mariano con una alameda, o arboleda de álamos, y al probable vínculo de Peguerinos con los pegueros, fabricantes o tratantes de pez.

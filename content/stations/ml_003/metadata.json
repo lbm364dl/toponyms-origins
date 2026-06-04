@@ -1,0 +1,118 @@
+{
+  "id": "ml_003",
+  "name": "Virgen del Cortijo",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Colonia Virgen del Cortijo, named from a local Marian devotion on an agricultural estate known as Virgen del Cortijo",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "Metro Ligero Pinar de Chamartín-Sanchinarro-Las Tablas. Tramo I",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-pinar-chamartin-sanchinarro-tablas-tramo-i",
+      "type": "official",
+      "relevance_en": "Community of Madrid infrastructure page confirming the ML1 line was put into service on 24 May 2007 and listing Virgen del Cortijo among the nine stations.",
+      "relevance_es": "Página oficial de infraestructuras de la Comunidad de Madrid que confirma la puesta en servicio de la ML1 el 24 de mayo de 2007 e incluye Virgen del Cortijo entre sus nueve estaciones."
+    },
+    {
+      "title": "CRTM - Línea 1 Pinar de Chamartín-Las Tablas",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero/lineas/10__51___?lang=es",
+      "type": "official",
+      "relevance_en": "Current Consorcio Regional de Transportes de Madrid line page showing Virgen del Cortijo as a subterranean ML1 stop.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes de Madrid que muestra Virgen del Cortijo como parada subterránea de la ML1."
+    },
+    {
+      "title": "Aproximación histórica del origen de la advocación de la Virgen del Cortijo en nuestro barrio",
+      "url": "https://www.parroquiavirgendelcortijo.es/?p=502",
+      "type": "other",
+      "relevance_en": "Local parish account explaining that the parish and housing were built on an agricultural estate known as Virgen del Cortijo, with a caretakers’ house and a venerated Marian photograph.",
+      "relevance_es": "Relato de la parroquia local que explica que la parroquia y las viviendas se construyeron sobre una finca agrícola conocida como Virgen del Cortijo, con caserón de guardeses y una fotografía mariana venerada."
+    },
+    {
+      "title": "Parroquia Virgen del Cortijo - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Direcciones-y-telefonos/Parroquia-Virgen-del-Cortijo/?vgnextchannel=df22f073808fe410VgnVCM2000000c205a0aRCRD&vgnextoid=88d73d232e91f010VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal directory entry locating the Virgen del Cortijo parish at Calle Oña, 91 B in Valdefuentes / Hortaleza.",
+      "relevance_es": "Ficha municipal que localiza la parroquia Virgen del Cortijo en la calle Oña, 91 B, dentro de Valdefuentes / Hortaleza."
+    },
+    {
+      "title": "Parroquia Virgen del Cortijo: un hogar para la acogida de todos",
+      "url": "https://www.abc.es/espana/madrid/abci-parroquia-virgen-cortijo-hogar-para-acogida-todos-202011210137_noticia_amp.html",
+      "type": "press",
+      "relevance_en": "Press article repeating the local explanation of a caretakers’ house on a farm estate and a Virgen del Cortijo image linked to Murillo del Río Leza and Soto de Cameros; also dates the parish consecration to 1991.",
+      "relevance_es": "Artículo de prensa que reproduce la explicación local del caserón de guardeses en una finca y una imagen de la Virgen del Cortijo vinculada a Murillo del Río Leza y Soto de Cameros; también fecha la consagración parroquial en 1991."
+    },
+    {
+      "title": "Soto en Cameros - Ayuntamiento de Soto en Cameros",
+      "url": "https://aytosotoencameros.larioja.org/soto-en-cameros",
+      "type": "official",
+      "relevance_en": "Official municipal page describing the Nuestra Señora del Cortijo hermitage in Soto en Cameros and its long historical and devotional context.",
+      "relevance_es": "Página oficial municipal que describe la ermita de Nuestra Señora del Cortijo en Soto en Cameros y su largo contexto histórico y devocional."
+    },
+    {
+      "title": "BOE, 24 April 1984 - Modificación del Plan Parcial de Ordenación «Virgen del Cortijo»",
+      "url": "https://www.boe.es/boe/dias/1984/04/24/",
+      "type": "official",
+      "relevance_en": "Official gazette notice confirming the existence of a Plan Parcial de Ordenación named 'Virgen del Cortijo' and a definitive approval of a modification in 1984.",
+      "relevance_es": "Anuncio oficial que confirma la existencia de un Plan Parcial de Ordenación llamado 'Virgen del Cortijo' y la aprobación definitiva de una modificación en 1984."
+    },
+    {
+      "title": "cortijo | Diccionario de la lengua española | RAE-ASALE",
+      "url": "https://dle.rae.es/cortijo",
+      "type": "reference",
+      "relevance_en": "Authoritative lexical source defining cortijo as a rural estate with housing and dependencies.",
+      "relevance_es": "Fuente lexicográfica autorizada que define cortijo como finca rústica con vivienda y dependencias."
+    },
+    {
+      "title": "Virgen del Cortijo: 40 intensos años de barrio",
+      "url": "https://www.periodicohortaleza.org/virgen-del-cortijo-40-intensos-anos-de-barrio/",
+      "type": "press",
+      "relevance_en": "Neighbourhood press account documenting the colony’s beehive-like form, isolation, cement works and local civic history.",
+      "relevance_es": "Crónica vecinal que documenta la forma de colmena de la colonia, su aislamiento, las cementeras y la historia reivindicativa local."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use 'Colonia Virgen del Cortijo' or 'Virgen del Cortijo residential area' rather than implying it is an official neighbourhood separate from Valdefuentes; municipal listings place local facilities in Valdefuentes / Hortaleza.",
+      "es": "Conviene usar 'Colonia Virgen del Cortijo' o 'área residencial Virgen del Cortijo' en lugar de sugerir que es un barrio administrativo separado de Valdefuentes; los listados municipales sitúan los equipamientos locales en Valdefuentes / Hortaleza."
+    },
+    {
+      "en": "Do not gloss the name only as 'Virgin Mary of the farmstead'; it is better understood as the Virgen del Cortijo Marian devotion associated with a named rural estate.",
+      "es": "No debe glosarse solo como 'Virgen María del cortijo'; es más preciso entenderlo como la advocación Virgen del Cortijo asociada a una finca rural con ese nombre."
+    },
+    {
+      "en": "The 1966 Plan Parcial and Pryconsa construction details should be downgraded from verified unless confirmed in a municipal planning archive or original plan document.",
+      "es": "Los datos sobre el Plan Parcial de 1966 y la construcción por Pryconsa deberían rebajarse de verificados si no se confirman en un archivo municipal de planeamiento o en el documento original del plan."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original 'Plan Parcial de Ordenación Virgen del Cortijo' file, reportedly approved in 1966, to confirm approval date, promoter and layout authorship.",
+      "es": "Consultar el expediente original del 'Plan Parcial de Ordenación Virgen del Cortijo', supuestamente aprobado en 1966, para confirmar fecha de aprobación, promotoría y autoría de la ordenación."
+    },
+    {
+      "en": "Confirm in municipal naming or transport commissioning records whether the station name was assigned directly from the colony name during ML1 project approval or at a later signage stage.",
+      "es": "Confirmar en registros municipales de denominación o de puesta en servicio del transporte si el nombre de la estación se asignó directamente por la colonia durante la aprobación de la ML1 o en una fase posterior de señalización."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_003/en/summary.short.md",
+      "summary": "content/stations/ml_003/en/summary.md",
+      "story": "content/stations/ml_003/en/story.md",
+      "confidence": "content/stations/ml_003/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_003/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_003/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_003/es/summary.short.md",
+      "summary": "content/stations/ml_003/es/summary.md",
+      "story": "content/stations/ml_003/es/story.md",
+      "confidence": "content/stations/ml_003/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_003/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_003/es/research-note.md"
+    }
+  }
+}

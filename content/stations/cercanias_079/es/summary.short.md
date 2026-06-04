@@ -1,0 +1,1 @@
+La estación de Puerto de Navacerrada se llama así por el puerto de montaña en el que se encuentra. El puerto parece haber tomado su nombre de la cercana villa de Navacerrada, un topónimo complejo formado por nava, término paisajístico prerromano, y cerrada, con posibles sentidos de cercada, difícil de acceder, boscosa o rodeada de cerros.

@@ -1,0 +1,1 @@
+Tierra is named for Calle Planeta Tierra in Parla Este. The stop sits inside a modern neighborhood whose street names draw heavily on planets, stars, constellations, zodiac signs, galaxies and the solar system.

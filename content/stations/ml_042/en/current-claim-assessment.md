@@ -1,0 +1,1 @@
+The core claim is well supported: the stop is beside Parla's historic Iglesia de Nuestra Señora de la Asunción, and official municipal/transport sources place Iglesia Centro on Calle Real in front of that church. Some detailed art-historical wording should be tightened, especially the 2020 altarpiece claim.

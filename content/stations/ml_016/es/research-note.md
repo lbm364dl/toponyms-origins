@@ -1,0 +1,1 @@
+La mención de La Finca en la entrada es defendible como contexto local, pero no debe presentarse como base del nombre. La Comunidad de Madrid sitúa Pozuelo Oeste cerca de zonas ajardinadas que bordean La Finca, mientras que la página municipal del parque empresarial La Finca identifica Somosaguas Centro, no Pozuelo Oeste, como acceso en metro ligero a ese parque.

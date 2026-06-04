@@ -1,0 +1,1 @@
+Official transport sources verify the station location on Vía de las Dos Castillas, and historical reference sources verify the meaning of Old Castile and New Castile. Confidence is probable rather than fully verified because no municipal street-naming act or official explanation of the road name was found.

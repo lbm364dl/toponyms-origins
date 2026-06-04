@@ -1,0 +1,1 @@
+The claim is broadly sound: the stop is named for the Somosaguas Sur area of Pozuelo de Alarcón, and the older place-name is clearly linked to water. The exact linguistic explanation as somo + aguas is plausible but not directly proven by a dedicated Somosaguas entry in the stronger sources found.

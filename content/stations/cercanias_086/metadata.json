@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_086",
+  "name": "Vallecas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Vallecas",
+  "previous_names": "The railway name Vallecas was already used by the older Vallecas station; the current station retained the name after the 1999 relocation/rebuild for the Sierra de Guadalupe interchange.",
+  "naming_date": "1859 for the original railway station name; current relocated Cercanias station retained Vallecas in 1999.",
+  "sources": [
+    {
+      "title": "Vallecas - Consorcio Regional de Transportes de Madrid",
+      "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_87/",
+      "type": "official",
+      "relevance_en": "Official transport listing confirming the station name, address, interchange, and Cercanias lines C-2, C-7 and C-8.",
+      "relevance_es": "Ficha oficial de transporte que confirma el nombre de la estación, dirección, correspondencias y líneas C-2, C-7 y C-8 de Cercanías."
+    },
+    {
+      "title": "Memoria sobre el Fuero de Madrid del año 1202 - Biblioteca Virtual Miguel de Cervantes",
+      "url": "https://www.cervantesvirtual.com/obra-visor/memoria-sobre-el-fuero-de-madrid-del-ano-1202--0/html/fefd3dce-82b1-11df-acc7-002185ce6064_2.htm",
+      "type": "archive",
+      "relevance_en": "Digitized historical work on the 1202 Fuero de Madrid that mentions Balecas among early place references.",
+      "relevance_es": "Obra histórica digitalizada sobre el Fuero de Madrid de 1202 que menciona Balecas entre las referencias tempranas de lugar."
+    },
+    {
+      "title": "El nombre de Vallecas - Vallecas VA",
+      "url": "https://vallecas.com/el-nombre-de-vallecas/",
+      "type": "other",
+      "relevance_en": "Local-history article by Jose Luis Garcia Heras summarizing the main etymological theories and quoting the explanation attributed to Federico Corriente.",
+      "relevance_es": "Artículo de historia local de José Luis García Heras que resume las principales teorías etimológicas y cita la explicación atribuida a Federico Corriente."
+    },
+    {
+      "title": "De Balecas (1202) a la Anexión a Madrid (1950) - Biblioteca Tajamar",
+      "url": "https://biblioteca.tajamar.es/de-balecas-1202-a-la-anexion-a-madrid-1950/",
+      "type": "book",
+      "relevance_en": "Bibliographic notice for Garcia Heras's local history book; it states that the Fuero cites the carasal de Balecas and that the 'valley areas' explanation is the most likely.",
+      "relevance_es": "Ficha bibliográfica del libro de historia local de García Heras; indica que el Fuero cita el carasal de Balecas y que la explicación de 'zonas de valle' es la más probable."
+    },
+    {
+      "title": "BOE num. 347, 13 December 1950",
+      "url": "https://www.boe.es/gazeta/dias/1950/12/13/pdfs/BOE-1950-347.pdf",
+      "type": "official",
+      "relevance_en": "Official publication of the 10 November 1950 decree approving the total annexation of the municipality and town council of Vallecas to Madrid.",
+      "relevance_es": "Publicación oficial del decreto de 10 de noviembre de 1950 que aprueba la anexión total del término municipal y Ayuntamiento de Vallecas al de Madrid."
+    },
+    {
+      "title": "Archivo municipal de Vallecas - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Moratalaz/Archivo-municipal-de-Vallecas/?vgnextchannel=7cb0ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=8c4f97f8d6a4a810VgnVCM1000001d4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Municipal archive page stating Vallecas's former administrative role, documentary holdings, annexation by the 1950 decree, and included neighbourhoods.",
+      "relevance_es": "Página del archivo municipal que documenta el antiguo papel administrativo de Vallecas, sus fondos, la anexión por decreto de 1950 y los barrios comprendidos."
+    },
+    {
+      "title": "Prolongacion de la Linea 1 a Vallecas Villa - Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-vallecas-villa-tramo-miguel-hernandez-congosto",
+      "type": "official",
+      "relevance_en": "Official regional transport page explaining the 1999 Metro line 1 extension and the need to move the Vallecas railway station to improve interchange.",
+      "relevance_es": "Página oficial regional de transporte que explica la ampliación de la línea 1 en 1999 y la necesidad de trasladar la estación ferroviaria de Vallecas para mejorar el intercambio."
+    },
+    {
+      "title": "Vallecas conmemora el 75 aniversario de su adhesion a la ciudad de Madrid - Ayuntamiento de Madrid",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/vallecas-conmemora-el-75o-aniversario-de-su-adhesion-a-la-ciudad-de-madrid/",
+      "type": "official",
+      "relevance_en": "Madrid City Council note confirming 22 December 1950 as the date of Vallecas's definitive incorporation into Madrid.",
+      "relevance_es": "Nota del Ayuntamiento de Madrid que confirma el 22 de diciembre de 1950 como fecha de la incorporación definitiva de Vallecas a Madrid."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not present the Corriente/ballaykas explanation as fully verified unless a primary Corriente publication or direct scholarly citation is added.",
+      "es": "No debe presentarse la explicación Corriente/ballaykas como plenamente verificada mientras no se añada una publicación primaria de Corriente o una cita académica directa."
+    },
+    {
+      "en": "The Kas story should be labelled as local legend or popular etymology, not as a supported historical origin.",
+      "es": "La historia de Kas debe etiquetarse como leyenda local o etimología popular, no como origen histórico respaldado."
+    },
+    {
+      "en": "The annexation chronology should distinguish the decree date, 10 November 1950, its BOE publication on 13 December 1950, and the commonly cited implementation or final municipal act on 22 December 1950.",
+      "es": "La cronología de la anexión debe distinguir la fecha del decreto, 10 de noviembre de 1950, su publicación en el BOE el 13 de diciembre de 1950 y la fecha de ejecución o último acto municipal citada habitualmente, 22 de diciembre de 1950."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate and inspect the original Federico Corriente source for the ballaykas hypothesis, if it exists in a published article, note, or correspondence cited by local historians.",
+      "es": "Localizar e inspeccionar la fuente original de Federico Corriente para la hipótesis ballaykas, si existe en un artículo, nota o correspondencia citada por historiadores locales."
+    },
+    {
+      "en": "A facsimile or critical edition of the Fuero de Madrid should be checked for the exact medieval wording around carasal/carrascal de Balecas and any separate reference to aldeas de Balecas.",
+      "es": "Conviene revisar un facsímil o edición crítica del Fuero de Madrid para fijar la lectura exacta medieval de carasal/carrascal de Balecas y cualquier referencia separada a aldeas de Balecas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_086/en/summary.short.md",
+      "summary": "content/stations/cercanias_086/en/summary.md",
+      "story": "content/stations/cercanias_086/en/story.md",
+      "confidence": "content/stations/cercanias_086/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_086/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_086/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_086/es/summary.short.md",
+      "summary": "content/stations/cercanias_086/es/summary.md",
+      "story": "content/stations/cercanias_086/es/story.md",
+      "confidence": "content/stations/cercanias_086/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_086/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_086/es/research-note.md"
+    }
+  }
+}

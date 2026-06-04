@@ -1,0 +1,1 @@
+Valdebebas station is named for the new north-eastern Madrid development of Valdebebas. That urban name preserves an older local hydronym and rural place-name: the Arroyo de Valdebebas, historically also recorded as Valdebeba or Valdevebas.

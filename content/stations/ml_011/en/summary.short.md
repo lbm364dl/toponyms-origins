@@ -1,0 +1,1 @@
+Prado de la Vega is named for the local Pozuelo area around the station and Quirón hospital. The words mean a meadow or pasture in a fertile low plain, a landscape name later attached to streets and urban development.

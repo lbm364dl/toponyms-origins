@@ -1,0 +1,1 @@
+La estación Bélgica toma su nombre de la calle de Bélgica, situada junto a la parada en Pozuelo de Alarcón. La calle forma parte del entorno de la Avenida de Europa, donde se agrupan nombres de países y capitales como Francia, Bruselas, París, Lisboa, Holanda y Luxemburgo.

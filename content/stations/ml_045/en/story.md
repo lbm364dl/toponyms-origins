@@ -1,0 +1,9 @@
+The Isabel II stop belongs to the Parla tram and is officially listed by the Madrid Regional Transport Consortium as a surface station at Calle Reyes Católicos, 73. Its name is best explained by its position next to Parla's Calle Isabel II, rather than by a separate transport-specific dedication found in the sources.
+
+The name Isabel II points to María Isabel Luisa de Borbón y Borbón-Dos Sicilias, Queen Isabel II of Spain. Authoritative biographical records identify her as born in Madrid in 1830, proclaimed queen as a child in 1833, and deposed after the Revolution of 1868; she died in Paris in 1904.
+
+In Parla, the surrounding street pattern reinforces this interpretation. Official and mapping records place Calle Isabel II near Calle Reyes Católicos and other royal-name streets including Alfonso X, Fernando III and Felipe II. That makes the tram stop part of a local urban vocabulary of Spanish monarchy names, even though the precise municipal act that named Calle Isabel II has not been located.
+
+The existing dataset correctly links Isabel II with the railway age. During her reign the Madrid-Aranjuez railway opened on 9 February 1851, the first railway in Madrid and the second on the Iberian Peninsula after Barcelona-Mataró. Contemporary reporting in the Gaceta de Madrid describes the royal family's presence at the inauguration and says the royal train took one hour and five minutes, while later institutional summaries describe the line as a major step in Madrid's connection with Aranjuez, the south and the Mediterranean route.
+
+For public display, the safest explanation is therefore simple: the stop is named for the nearby street, and the street almost certainly commemorates Queen Isabel II of Spain. The railway material is useful historical colour, but not proof of the naming motive. Until a Parla street-naming record is inspected, the etymology should be marked probable rather than fully verified.

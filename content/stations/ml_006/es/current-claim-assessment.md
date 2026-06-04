@@ -1,0 +1,1 @@
+La afirmación principal es correcta: el nombre de la estación remite a Vicente Blasco Ibáñez, a través de la calle cercana del mismo nombre en Sanchinarro. La fila aporta demasiado detalle cinematográfico para una etimología de estación y contiene problemas de datos y fuentes, sobre todo el distrito asignado y una fuente irrelevante sobre Jenaro Pérez Villaamil.

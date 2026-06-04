@@ -1,0 +1,1 @@
+The local-history source mixes documented memory with narrative reconstruction around Luis Candelas, so it should be used carefully for colorful detail. Its toponymic core is nevertheless consistent across the 1973 periodical version, the later municipal book, current industrial-estate usage, MLO's station description, and the BOCM's official reference to the paraje and ruins.

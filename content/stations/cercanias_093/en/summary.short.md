@@ -1,0 +1,1 @@
+Villalba station is named for Villalba, the railway district of Collado Villalba. The place name combines a mountain pass or low hill, collado, with Villalba, a widespread villa + alba formation whose alba was probably auspicious rather than simply descriptive of whiteness.

@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the stop name is tied to La Ballena in northern Parla and to the local legend of a whale-like albarda in the old lagoon. It should be framed as documented folklore and urban memory, not as a historical event, and the most direct source found is the Ayuntamiento de Parla's own urban route for Parque de la Ballena.

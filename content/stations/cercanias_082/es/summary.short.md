@@ -1,0 +1,1 @@
+El apeadero de Cercanías toma su nombre del cercano Hospital Universitario Ramón y Cajal. El hospital, inaugurado en 1977, honra a Santiago Ramón y Cajal, el Nobel español cuya obra transformó el estudio del sistema nervioso.

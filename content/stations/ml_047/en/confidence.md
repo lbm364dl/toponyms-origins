@@ -1,0 +1,1 @@
+Official CRTM sources confirm the station name and its location on Avenida del Sistema Solar. Official Comunidad de Madrid and Parla documents confirm the modern Parla Este urban development context, and maps corroborate the astronomical street-name pattern. The only unresolved point is the exact municipal street-naming resolution.

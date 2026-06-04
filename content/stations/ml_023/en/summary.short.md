@@ -1,0 +1,1 @@
+Named after Ciudad de la Imagen, the audiovisual business park in Pozuelo de Alarcón beside the station. The name reflects a 1990s project to concentrate film, television, training and preservation facilities near Prado del Rey.

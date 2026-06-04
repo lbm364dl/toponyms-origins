@@ -1,0 +1,1 @@
+The main claim is well supported: the station is beside, and named descriptively for, the Metro Ligero Oeste depot and offices. The tram-history context is broadly correct, but should be made more precise; the linguistic note should cite the RAE form from Hungarian kocsi rather than present the German route as settled.

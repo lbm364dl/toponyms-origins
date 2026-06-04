@@ -1,0 +1,1 @@
+The row correctly points to the two place-names behind the station name, and the lexical explanation of alameda and peguero is well supported. However, the station is directly named after the municipality of Santa María de la Alameda and the nearby municipality of Peguerinos, while the deeper origin of Santa María de la Alameda is not settled in the official local history.

@@ -1,0 +1,9 @@
+Palas de Rey station is named from its setting: the CRTM lists its access on Calle de Palas de Rey, and the stop lies on ML1 in the Las Tablas area of Fuencarral-El Pardo. In practical Madrid terms, this is a street-name station, like many stops in newer urban developments.
+
+The street name looks west to Galicia. Palas de Rei, often written in Spanish as Palas de Rey, is a municipality in Lugo on the Camino Frances, one of the historic routes to Santiago de Compostela. The Xunta's heritage documentation for the French Way describes Palas de Rei as one of the main settlements on that Galician stretch and notes its importance in medieval pilgrim itineraries.
+
+The familiar explanation says that Palas de Rei comes from Latin Pallatium Regis, 'palace of the king'. Romanico Digital cites documentary forms such as Palatinum Regis in documents of Alfonso IX from 1200 and 1210, and the Xunta's Camino documentation notes the form Pallatium Regis in the Codex Calixtinus. That medieval evidence makes the 'royal palace' association historically important, even if it does not solve every linguistic question.
+
+The more colorful tradition adds a Visigothic layer: the supposed palace of King Witiza, who reigned in the early eighth century, and the story that he killed Fafila or Favila, father of Pelayo, in Palas. This should be told as tradition rather than settled fact. The Xunta/RAG Toponimia de Galicia page explicitly says the first element Palas is an etymological enigma and records alternative scholarly ideas, including non-Latin origins.
+
+So the public-facing name is quite firm at the Madrid level: Palas de Rey station takes the name of Calle de Palas de Rey. The deeper Galician story is richer and less certain: medieval forms support a royal-place reading, but the neat derivation from palatium to modern Palas and the Witiza episode remain debated or legendary.

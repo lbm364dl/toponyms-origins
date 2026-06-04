@@ -1,0 +1,111 @@
+{
+  "id": "cercanias_094",
+  "name": "Las Zorreras",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Las Zorreras, a local place-name and area in Navalquejigo, El Escorial",
+  "previous_names": "Las Zorreras-Navalquejigo; Las Zorreras. The local path is also documented as Camino de Las Zorreras o Los Tejones.",
+  "naming_date": "1861 for the railway apeadero in CRTM historical railway mapping; exact date of assignment of the current station name not found",
+  "sources": [
+    {
+      "title": "Adif: 10202 Las Zorreras-Nav.",
+      "url": "https://www.adif.es/-/10202-las-zorreras-nav.",
+      "type": "official",
+      "relevance_en": "Confirms the official infrastructure/station name Las Zorreras-Navalquejigo.",
+      "relevance_es": "Confirma el nombre oficial de la infraestructura o estación, Las Zorreras-Navalquejigo."
+    },
+    {
+      "title": "Renfe Data: Ficha de estación LAS ZORRERAS-NAVALQUEJIGO",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion10202.pdf",
+      "type": "official",
+      "relevance_en": "Gives station code 10202, name Las Zorreras-Navalquejigo, municipality El Escorial, operator Renfe Viajeros, and commercial lines in the Cercanías Madrid area.",
+      "relevance_es": "Aporta el código 10202, el nombre Las Zorreras-Navalquejigo, el municipio de El Escorial, el explotador Renfe Viajeros y las líneas comerciales en el área de Cercanías Madrid."
+    },
+    {
+      "title": "CRTM: Plano historia del ferrocarril en Madrid",
+      "url": "https://www.crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Lists Las Zorreras as an apeadero in Navalquejigo on the Madrid-El Escorial line opened in 1861.",
+      "relevance_es": "Recoge Las Zorreras como apeadero situado en Navalquejigo dentro de la línea Madrid-El Escorial abierta en 1861."
+    },
+    {
+      "title": "Ayuntamiento de El Escorial: Inventario de caminos públicos de El Escorial",
+      "url": "https://elescorial.es/wp-content/uploads/2023/05/INVENTARIO_DE_CAMINOS_PUBLICOS.pdf",
+      "type": "official",
+      "relevance_en": "Documents Camino de Las Zorreras or Los Tejones, says it connects the Las Zorreras area with the Navalquejigo drove road, and cites an oldest located document from 1764.",
+      "relevance_es": "Documenta el Camino de Las Zorreras o Los Tejones, indica que comunica la zona de Las Zorreras con la colada de Navalquejigo y cita un documento más antiguo localizado de 1764."
+    },
+    {
+      "title": "López Martínez, M. Lourdes; Martín Alonso, Jesús: Las Zorreras, un yacimiento de la Edad del Hierro en El Escorial",
+      "url": "https://www.vivoenlacerca.es/wp-content/uploads/2021/10/Las_Zorreras_un_yacimiento_de_la_Edad_de.pdf",
+      "type": "academic",
+      "relevance_en": "Shows Las Zorreras as a recognized toponym, also called Los Cierros de la Asunción, and provides archaeological and urbanization context for the area.",
+      "relevance_es": "Muestra Las Zorreras como topónimo reconocido, también llamado Los Cierros de la Asunción, y aporta contexto arqueológico y de urbanización del área."
+    },
+    {
+      "title": "RAE-ASALE: Diccionario de la lengua española, zorrera",
+      "url": "https://dle.rae.es/zorrera",
+      "type": "reference",
+      "relevance_en": "Defines zorrera as a fox den, supporting the likely literal sense behind the place-name.",
+      "relevance_es": "Define zorrera como madriguera o cueva de zorros, lo que respalda el sentido literal probable del topónimo."
+    },
+    {
+      "title": "RAE-ASALE: Diccionario de la lengua española, zorro, zorra",
+      "url": "https://dle.rae.es/zorro",
+      "type": "reference",
+      "relevance_en": "Defines zorro/zorra as the fox and gives the general lexical base for zorrera.",
+      "relevance_es": "Define zorro/zorra como el animal y aporta la base léxica general de zorrera."
+    },
+    {
+      "title": "Comunidad de Madrid: Catálogo de bienes protegidos. El Escorial, fichas de protección específica",
+      "url": "https://www.comunidad.madrid/transparencia/sites/default/files/regulation/documents/anexo_1_2_-_fichas_proteccion_especifica.pdf",
+      "type": "official",
+      "relevance_en": "Locates protected heritage in the Las Zorreras urbanization and links the area to the historic landscape of El Escorial.",
+      "relevance_es": "Sitúa bienes protegidos en la urbanización Las Zorreras y vincula el ámbito con el paisaje histórico de El Escorial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after a local place-name, with a probable animal-den meaning, rather than as a directly verified descriptive name.",
+      "es": "Conviene tratar la estación como denominada por un topónimo local, con un probable sentido de madriguera animal, y no como un nombre descriptivo directamente verificado."
+    },
+    {
+      "en": "Remove or qualify the claim that the name proves a historically abundant fox population; I found no direct evidence for that wording.",
+      "es": "Debe eliminarse o matizarse la afirmación de que el nombre prueba una abundante población histórica de zorros; no he encontrado evidencia directa para esa formulación."
+    },
+    {
+      "en": "Use the official station form Las Zorreras-Navalquejigo where dataset conventions allow it.",
+      "es": "Debe usarse la forma oficial de estación Las Zorreras-Navalquejigo cuando las convenciones del conjunto de datos lo permitan."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect historical cadastral records, the 1764 map cited by the municipal road inventory, or local toponymy studies to confirm whether Las Zorreras was explicitly explained as fox dens.",
+      "es": "Queda por revisar la documentación catastral histórica, el mapa de 1764 citado por el inventario municipal de caminos o estudios de toponimia local para confirmar si Las Zorreras se explicó expresamente como madrigueras de zorros."
+    },
+    {
+      "en": "Confirm the exact first railway naming document for the apeadero, since current sources support 1861 but do not show the original station-name act.",
+      "es": "Queda por confirmar el documento ferroviario exacto de primera denominación del apeadero, ya que las fuentes actuales respaldan 1861 pero no muestran el acto original de nombramiento."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_094/en/summary.short.md",
+      "summary": "content/stations/cercanias_094/en/summary.md",
+      "story": "content/stations/cercanias_094/en/story.md",
+      "confidence": "content/stations/cercanias_094/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_094/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_094/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_094/es/summary.short.md",
+      "summary": "content/stations/cercanias_094/es/summary.md",
+      "story": "content/stations/cercanias_094/es/story.md",
+      "confidence": "content/stations/cercanias_094/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_094/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_094/es/research-note.md"
+    }
+  }
+}

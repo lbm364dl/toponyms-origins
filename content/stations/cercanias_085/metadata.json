@@ -1,0 +1,143 @@
+{
+  "id": "cercanias_085",
+  "name": "Valdebebas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Valdebebas urban area, ultimately from the Arroyo de Valdebebas / historical Valdebeba toponym",
+  "previous_names": "No former station name found. Historical place-name variants found: Valdebeba, Valdebebas de Cristóbal, Valdebeba de Orgar, Valdevebas.",
+  "naming_date": "2015-12-16 (station entered service; underlying toponym is older)",
+  "sources": [
+    {
+      "title": "CRTM: Valdebebas station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_144/",
+      "type": "official",
+      "relevance_en": "Current transport authority page identifying Valdebebas station, its accesses and its Cercanías correspondences C-1 and C-10.",
+      "relevance_es": "Página actual del Consorcio Regional de Transportes que identifica la estación de Valdebebas, sus accesos y sus correspondencias de Cercanías C-1 y C-10."
+    },
+    {
+      "title": "CRTM archive: Se pone en marcha la nueva estación de Cercanías de Valdebebas",
+      "url": "https://www.crtm.es/comunicacion/actualidad-del-servicio/archivo/18122015-cercanias-valdebebas/",
+      "type": "official",
+      "relevance_en": "Confirms the opening context: the new Cercanías station served the Valdebebas neighbourhood near Ciudad Deportiva del Real Madrid and was part of line C-1 at launch.",
+      "relevance_es": "Confirma el contexto de apertura: la nueva estación de Cercanías servía al barrio de Valdebebas junto a la Ciudad Deportiva del Real Madrid y pertenecía a la línea C-1 en su puesta en marcha."
+    },
+    {
+      "title": "Comunidad de Madrid press release, 7 December 2015",
+      "url": "https://www.comunidad.madrid/press-releases/download/26850",
+      "type": "official",
+      "relevance_en": "States that the Valdebebas Cercanías station would enter service on 16 December 2015.",
+      "relevance_es": "Indica que la estación de Cercanías de Valdebebas entraría en funcionamiento el 16 de diciembre de 2015."
+    },
+    {
+      "title": "Renfe station file: VALDEBEBAS, code 98304",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion98304.pdf",
+      "type": "official",
+      "relevance_en": "Renfe station sheet giving the official station name, operator Renfe Viajeros, municipality Madrid, coordinates and commercial lines C-10 and C-1.",
+      "relevance_es": "Ficha de estación de Renfe que recoge el nombre oficial, el explotador Renfe Viajeros, el municipio de Madrid, las coordenadas y las líneas comerciales C-10 y C-1."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Parque Forestal de Valdebebas-Felipe VI",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Patrimonio-Verde/Parques-forestales/Parque-Forestal-de-Valdebebas-Felipe-VI/?vgnextchannel=e2491914e7d4e210VgnVCM1000000b205a0aRCRD&vgnextoid=76dfd70ae04c9910VgnVCM200000f921e388RCRD",
+      "type": "official",
+      "relevance_en": "Describes the park landscape, the Valdehiguera seasonal stream as tributary of the Arroyo de Valdebebas, and the ornamental water system, wetland and regulating basin.",
+      "relevance_es": "Describe el paisaje del parque, el arroyo estacional de Valdehiguera como tributario del arroyo de Valdebebas y el sistema de agua ornamental, la zona húmeda y la balsa de regulación."
+    },
+    {
+      "title": "Ayuntamiento de Madrid publication: Parque Forestal de Valdebebas-Felipe VI",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Publicaciones/Parque-Forestal-de-Valdebebas-Felipe-VI/?vgnextchannel=f9e2f073808fe410VgnVCM2000000c205a0aRCRD&vgnextfmt=default&vgnextoid=11e9e552baddf810VgnVCM2000001f4a900aRCRD",
+      "type": "official",
+      "relevance_en": "Gives the park's inauguration date, 15 March 2015, its 470-hectare extent and its transformation of former wasteland and dumps.",
+      "relevance_es": "Aporta la fecha de inauguración del parque, 15 de marzo de 2015, su extensión de 470 hectáreas y la transformación de antiguos eriales y escombreras."
+    },
+    {
+      "title": "Memoria municipal de Higiene y Salubridad, 1929",
+      "url": "https://www.madrid.es/UnidadWeb/Contenidos/Publicaciones/Memoria1929/Ficheros/06_00_m.pdf",
+      "type": "archive",
+      "relevance_en": "Historical municipal source describing the Arroyo de Valdebebas as the main drainage of Hortaleza toward the Jarama basin.",
+      "relevance_es": "Fuente municipal histórica que describe el arroyo de Valdebebas como desagüe principal de Hortaleza hacia la cuenca del Jarama."
+    },
+    {
+      "title": "Estudio hidrológico y de gestión de infraestructuras de saneamiento. Revisión y adaptación del Plan General de Alcobendas",
+      "url": "https://www.alcobendas.org/sites/default/files/2021-04/Estudio%20Hidrol%C3%B3gico.%20Tomo%20I%20%28MEMORIA%2C%20ANEXO%20I-VI%2C%20X%20y%20XI%29.pdf",
+      "type": "official",
+      "relevance_en": "Hydrological study locating the Arroyo de Valdebebas near the Camino de Fuencarral and describing its west-east course to the Jarama.",
+      "relevance_es": "Estudio hidrológico que sitúa el nacimiento del arroyo de Valdebebas cerca del Camino de Fuencarral y describe su curso oeste-este hasta el Jarama."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Valdepiélagos",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/valdepielagos",
+      "type": "academic",
+      "relevance_en": "Specialist toponymy entry explaining Val-/Valde- compounds and citing Valdebeba among Madrid-area valley-based toponyms.",
+      "relevance_es": "Entrada especializada de toponimia que explica los compuestos Val-/Valde- y cita Valdebeba entre los topónimos madrileños formados sobre valle."
+    },
+    {
+      "title": "Fernando Jiménez de Gregorio, 'Materiales para una toponimia de la provincia de Madrid (III)', AIEM XLIII, 2003",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3010008.pdf",
+      "type": "academic",
+      "relevance_en": "Toponymic index recording forms such as Valdebeba de Orgar, Valdebebas de Cristóbal and Valdevebas, useful for historical variants.",
+      "relevance_es": "Índice toponímico que registra formas como Valdebeba de Orgar, Valdebebas de Cristóbal y Valdevebas, útiles como variantes históricas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: recuperación del entorno del arroyo de Valdebebas, 27 March 2026",
+      "url": "https://diario.madrid.es/blog/notas-de-prensa/el-ayuntamiento-recupera-el-entorno-del-arroyo-de-valdebebas-para-mejorar-sus-condiciones-ambientales-y-hacerlo-mas-accesible/",
+      "type": "official",
+      "relevance_en": "Recent municipal source confirming the arroyo's continued urban relevance and 2026 landscape and hydraulic works around its course.",
+      "relevance_es": "Fuente municipal reciente que confirma la relevancia urbana actual del arroyo y las obras paisajísticas e hidráulicas realizadas en 2026 en su entorno."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Barajas Agenda 21 diagnosis",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Educacion_Ambiental/Diagnosticos21Distritos/Barajas/barajas-1.pdf",
+      "type": "official",
+      "relevance_en": "Planning context for Ciudad Aeroportuaria-Parque de Valdebebas, including the 1997 General Plan framework and the idea of a linear park along the Arroyo Valdebebas.",
+      "relevance_es": "Contexto urbanístico de la Ciudad Aeroportuaria-Parque de Valdebebas, incluido el marco del Plan General de 1997 y la idea de un parque lineal a lo largo del arroyo Valdebebas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the name primarily as a place-name, not purely descriptive: the station is named after the Valdebebas urban area, ultimately from the arroyo and older rural toponyms.",
+      "es": "Clasificar el nombre principalmente como topónimo de lugar, no solo como descriptivo: la estación toma el nombre del ámbito urbano de Valdebebas, en último término del arroyo y de antiguos topónimos rurales."
+    },
+    {
+      "en": "Do not state the meaning of 'bebas' as established. The inspected sources support Val-/Valde- as 'valley', but leave 'beba/bebas' uncertain.",
+      "es": "No presentar el significado de 'bebas' como establecido. Las fuentes consultadas apoyan Val-/Valde- como 'valle', pero dejan 'beba/bebas' en situación incierta."
+    },
+    {
+      "en": "Update transport metadata if the dataset tracks current services: CRTM and Renfe list Valdebebas with C-1 and C-10, although the input row only gives C-1.",
+      "es": "Actualizar los metadatos de transporte si la base de datos recoge servicios actuales: CRTM y Renfe indican Valdebebas con C-1 y C-10, aunque la fila de entrada solo recoge C-1."
+    },
+    {
+      "en": "Soften the claim about two artificial lagoons along the former stream course. Official park material describes ornamental channels, a reproduced wetland, a regulating basin and water-regeneration infrastructure, not a simple two-lagoon restoration of the arroyo.",
+      "es": "Matizar la afirmación sobre dos lagunas artificiales en el antiguo cauce. La documentación oficial del parque describe cauces ornamentales, una zona húmeda recreada, una balsa de regulación e infraestructuras de agua regenerada, no una simple restauración del arroyo mediante dos lagunas."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect a specialist Madrid toponymy work, especially Jaime Oliver Asín, 'Historia del nombre Madrid' or related studies cited by Toponomasticon Hispaniae, to see whether Valdebeba is explained more fully.",
+      "es": "Consultar una obra especializada de toponimia madrileña, especialmente Jaime Oliver Asín, 'Historia del nombre Madrid' o estudios relacionados citados por Toponomasticon Hispaniae, para comprobar si Valdebeba aparece explicado con más detalle."
+    },
+    {
+      "en": "Check cadastral, archival or old-map records for Valdebeba/Valdebebas de Cristóbal and Valdebeba de Orgar to determine whether the second element may be a personal name, a hydrological term or another local word.",
+      "es": "Revisar registros catastrales, archivísticos o cartografía antigua de Valdebeba/Valdebebas de Cristóbal y Valdebeba de Orgar para determinar si el segundo elemento puede ser un nombre personal, un término hidráulico u otra voz local."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_085/en/summary.short.md",
+      "summary": "content/stations/cercanias_085/en/summary.md",
+      "story": "content/stations/cercanias_085/en/story.md",
+      "confidence": "content/stations/cercanias_085/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_085/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_085/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_085/es/summary.short.md",
+      "summary": "content/stations/cercanias_085/es/summary.md",
+      "story": "content/stations/cercanias_085/es/story.md",
+      "confidence": "content/stations/cercanias_085/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_085/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_085/es/research-note.md"
+    }
+  }
+}

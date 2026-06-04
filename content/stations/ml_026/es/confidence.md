@@ -1,0 +1,1 @@
+La propia página de atención al cliente de la operadora identifica Cocheras como una parada de la ML3 en la calle Edgar Neville y como la más cercana a las cocheras y oficinas de MLO. La función de mantenimiento de esas cocheras también la describe MLO, y fuentes oficiales regionales y de la operadora respaldan el contexto de apertura en 2007.

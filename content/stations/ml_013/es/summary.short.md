@@ -1,0 +1,1 @@
+Prado del Rey toma su nombre del topónimo de la zona de Pozuelo de Alarcón, literalmente 'el prado del rey'. El nombre quedó además muy vinculado al centro de producción de RTVE, inaugurado allí el 18 de julio de 1964.

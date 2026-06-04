@@ -1,0 +1,1 @@
+The direct station-name source is verified by Metro Ligero Oeste's own station description and by official Comunidad de Madrid route information. The surrounding European street-name pattern is verified on an official CRTM/Pozuelo transport map. The only less-certain part is the exact municipal rationale and date for naming Calle de Bélgica.

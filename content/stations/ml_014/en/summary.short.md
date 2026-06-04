@@ -1,0 +1,1 @@
+Somosaguas Sur is named after the Somosaguas Sur area of Pozuelo de Alarcón. The older name recalls a medieval place recorded as San Juan de Sumas Aguas or Somosaguas, associated in early sources with abundant good waters.

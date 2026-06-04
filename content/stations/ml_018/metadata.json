@@ -1,0 +1,104 @@
+{
+  "id": "ml_018",
+  "name": "Dos Castillas",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "historical",
+  "recommended_named_after": "Vía de las Dos Castillas; ultimately the historical pair Castilla la Vieja and Castilla la Nueva",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Dos Castillas",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_19/",
+      "type": "official",
+      "relevance_en": "Confirms the official station record, fare zone and access address: Vía de las Dos Castillas, 11D, Pozuelo de Alarcón.",
+      "relevance_es": "Confirma la ficha oficial de la estación, la zona tarifaria y el acceso: Vía de las Dos Castillas, 11D, Pozuelo de Alarcón."
+    },
+    {
+      "title": "Metro Ligero Oeste: Customer Service Centre / MLO speaking",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "States that Dos Castillas is an ML2 station located on a similarly named road in Pozuelo de Alarcón.",
+      "relevance_es": "Indica que Dos Castillas es una estación de la línea ML2 situada en una vía homónima de Pozuelo de Alarcón."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: Metro ligero",
+      "url": "https://www.pozuelodealarcon.org/transportes-y-movilidad/red-de-transporte-publico/metro-ligero",
+      "type": "official",
+      "relevance_en": "Describes ML2 through Pozuelo and notes that it runs along Vía de las Dos Castillas and Calle Berna.",
+      "relevance_es": "Describe la línea ML2 a su paso por Pozuelo y señala que recorre la Vía de las Dos Castillas y la calle Berna."
+    },
+    {
+      "title": "Metro Ligero Oeste: Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms MLO operates ML2 and ML3 and gives the inauguration date as 27/07/07.",
+      "relevance_es": "Confirma que MLO opera las líneas ML2 y ML3 y da como fecha de inauguración el 27/07/07."
+    },
+    {
+      "title": "Encyclopaedia Britannica: Castile",
+      "url": "https://www.britannica.com/place/Castile-region-Spain",
+      "type": "reference",
+      "relevance_en": "Provides a concise reference for Castile as a historical region divided into Old Castile and New Castile.",
+      "relevance_es": "Aporta una referencia sintética de Castilla como región histórica dividida entre Castilla la Vieja y Castilla la Nueva."
+    },
+    {
+      "title": "Encyclopaedia Britannica: New Castile",
+      "url": "https://www.britannica.com/place/New-Castile",
+      "type": "reference",
+      "relevance_en": "Identifies New Castile as a historical central Spanish region including Madrid, Ciudad Real, Cuenca, Guadalajara and Toledo.",
+      "relevance_es": "Identifica Castilla la Nueva como región histórica del centro de España que incluía Madrid, Ciudad Real, Cuenca, Guadalajara y Toledo."
+    },
+    {
+      "title": "Diccionario Madoz: Castilla la Nueva",
+      "url": "https://www.diccionariomadoz.com/castilla-la-nueva/CiudadReal/",
+      "type": "reference",
+      "relevance_en": "Nineteenth-century geographical entry describing New Castile and mentioning Guadarrama as part of the mountain system separating the two Castiles.",
+      "relevance_es": "Entrada geográfica del siglo XIX que describe Castilla la Nueva y menciona Guadarrama como parte del sistema montañoso que separa las dos Castillas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use \"Vía de las Dos Castillas\", not \"Calle Dos Castillas\", as the immediate source of the station name.",
+      "es": "Usar «Vía de las Dos Castillas», no «Calle Dos Castillas», como origen inmediato del nombre de la estación."
+    },
+    {
+      "en": "Do not equate the two historical Castiles directly with today's Castilla y León and Castilla-La Mancha; New Castile included Madrid and excluded much of the modern autonomous map, while Old Castile did not simply equal Castilla y León.",
+      "es": "No equiparar directamente las dos Castillas históricas con las actuales Castilla y León y Castilla-La Mancha; Castilla la Nueva incluía Madrid y no coincide con el mapa autonómico actual, y Castilla la Vieja tampoco equivalía sin más a Castilla y León."
+    },
+    {
+      "en": "The claim that Madrid sits \"precisely on the boundary\" should be softened: Madrid was historically associated with New Castile, and the Guadarrama/Central System was a broad dividing landmark, but the station itself is not proven to mark a precise boundary.",
+      "es": "La afirmación de que Madrid está «justo en el límite» debe matizarse: Madrid se asoció históricamente a Castilla la Nueva y la sierra de Guadarrama/Sistema Central fue una referencia divisoria amplia, pero no está probado que la estación marque un límite preciso."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Pozuelo de Alarcón's municipal street-naming record for Vía de las Dos Castillas should be inspected if available in council minutes or urban-planning files.",
+      "es": "Conviene consultar el expediente municipal de denominación de la Vía de las Dos Castillas, si está disponible en actas del Ayuntamiento o en archivos urbanísticos."
+    },
+    {
+      "en": "No former station name was found; construction plans or concession documents could confirm whether Dos Castillas was the project name from the start.",
+      "es": "No se ha encontrado ningún nombre anterior de la estación; los planos de obra o documentos de concesión podrían confirmar si Dos Castillas fue el nombre de proyecto desde el inicio."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_018/en/summary.short.md",
+      "summary": "content/stations/ml_018/en/summary.md",
+      "story": "content/stations/ml_018/en/story.md",
+      "confidence": "content/stations/ml_018/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_018/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_018/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_018/es/summary.short.md",
+      "summary": "content/stations/ml_018/es/summary.md",
+      "story": "content/stations/ml_018/es/story.md",
+      "confidence": "content/stations/ml_018/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_018/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_018/es/research-note.md"
+    }
+  }
+}

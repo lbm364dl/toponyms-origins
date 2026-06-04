@@ -1,0 +1,118 @@
+{
+  "id": "ml_008",
+  "name": "Palas de Rey",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle de Palas de Rey, named for Palas de Rei / Palas de Rey, Lugo",
+  "previous_names": "",
+  "naming_date": "2007-05-24 (station opened with this name; exact street/station naming approval not found)",
+  "sources": [
+    {
+      "title": "CRTM - Palas de Rey",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_8",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, ML1 context, fare zone, and access at Calle de Palas de Rey in Madrid.",
+      "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, su contexto en la ML1, la zona tarifaria y el acceso en la calle de Palas de Rey de Madrid."
+    },
+    {
+      "title": "Metro Ligero Pinar de Chamartín-Sanchinarro-Las Tablas. Tramo I - Comunidad de Madrid",
+      "url": "https://dnfqencmde1ig.cloudfront.net/servicios/transporte/metro-ligero-pinar-chamartin-sanchinarro-tablas-tramo-i",
+      "type": "official",
+      "relevance_en": "Confirms the ML1 project and its opening date, 24 May 2007.",
+      "relevance_es": "Confirma el proyecto de la ML1 y su fecha de puesta en servicio, el 24 de mayo de 2007."
+    },
+    {
+      "title": "Instalación Deportiva Municipal Básica Palas del Rey - Ayuntamiento de Madrid",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Equipamientos-deportivos/Instalaciones-basicas/Instalacion-Deportiva-Municipal-Basica-Pista-Deportiva-Palas-del-Rey/?vgnextchannel=2175bcc0f23ad210VgnVCM1000000b205a0aRCRD&vgnextfmt=default&vgnextoid=44250f3daaa05310VgnVCM1000000b205a0aRCRD",
+      "type": "official",
+      "relevance_en": "Madrid municipal page confirming Calle Palas de Rey as an address in Valverde, Fuencarral-El Pardo.",
+      "relevance_es": "Página municipal de Madrid que confirma la calle Palas de Rey como dirección en Valverde, Fuencarral-El Pardo."
+    },
+    {
+      "title": "Delimitación do trazado e o ámbito vinculado ao Camiño Francés ao seu paso por Galicia: Palas de Rei - Xunta de Galicia",
+      "url": "https://ficheiros-web.xunta.gal/patrimonio/DELIMITACION_CFRANCES/08_PALAS_DE_REI/01_MEMORIA_PALAS_DE_REI.pdf",
+      "type": "official",
+      "relevance_en": "Official heritage documentation stating that Palas de Rei is a major Camino Frances settlement and appears in the Codex Calixtinus as Pallatium Regis.",
+      "relevance_es": "Documentación patrimonial oficial que indica que Palas de Rei es un núcleo principal del Camino Francés y aparece en el Códice Calixtino como Pallatium Regis."
+    },
+    {
+      "title": "Palas de Rei - Enciclopedia del Románico Digital",
+      "url": "https://www.romanicodigital.com/sites/default/files/pdfs/files/LUGO_Palas_de_Rei.pdf",
+      "type": "academic",
+      "relevance_en": "Provides a cautious scholarly summary: the name derives from Latin palatium, some researchers connect it with Witiza, and documentary forms Palatinum Regis appear in 1200 and 1210.",
+      "relevance_es": "Aporta una síntesis académica prudente: el nombre deriva del latín palatium, algunos investigadores lo relacionan con Witiza y las formas Palatinum Regis aparecen en documentos de 1200 y 1210."
+    },
+    {
+      "title": "¿Qué serían las Palas de Rei? - Toponimia de Galicia",
+      "url": "https://toponimia.xunta.gal/es/video/que-serian-las-palas-de-rei",
+      "type": "academic",
+      "relevance_en": "Authoritative Xunta/RAG toponymy source explaining that the popular Witiza story is legendary and that the first element Palas has competing etymological explanations.",
+      "relevance_es": "Fuente autorizada de toponimia de la Xunta/RAG que explica que el relato popular de Witiza es legendario y que el primer elemento Palas tiene explicaciones etimológicas competidoras."
+    },
+    {
+      "title": "O Seminario de Onomástica responde: Palas de Rei - Toponimia de Galicia",
+      "url": "https://toponimia.xunta.gal/es/video/o-seminario-de-onomastica-responde-palas-de-rei",
+      "type": "academic",
+      "relevance_en": "States directly that Rei is transparent but Palas is an etymological enigma, supporting a cautious confidence level.",
+      "relevance_es": "Afirma directamente que Rei es transparente pero Palas es un enigma etimológico, lo que justifica un nivel de confianza prudente."
+    },
+    {
+      "title": "Decreto 6/2000, do 7 de xaneiro, polo que se aproba o nomenclátor correspondente ás entidades de poboación da provincia de Lugo - Xunta de Galicia",
+      "url": "https://www.xunta.gal/dog/Publicados/2000/20000125/Anuncio2D5A_gl.html",
+      "type": "official",
+      "relevance_en": "Official legal context for Galician place names, noting that Galician toponyms have Galician as their sole official form.",
+      "relevance_es": "Contexto legal oficial de la toponimia gallega, que recuerda que los topónimos de Galicia tienen como única forma oficial la gallega."
+    },
+    {
+      "title": "Palas de Rey/Palas de Rei - Centro Virtual Cervantes",
+      "url": "https://cvc.cervantes.es/artes/camino_santiago/duodecima_etapa/palas_rey.htm",
+      "type": "reference",
+      "relevance_en": "Reference overview linking Palas de Rei to the Camino de Santiago, the San Tirso church documentation, and the Pallatium Regis explanation.",
+      "relevance_es": "Panorama de referencia que vincula Palas de Rei con el Camino de Santiago, la documentación de la iglesia de San Tirso y la explicación Pallatium Regis."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state the Witiza palace or Favila episode as proven fact; present them as tradition.",
+      "es": "No presentar el palacio de Witiza ni el episodio de Favila como hechos probados; deben figurar como tradición."
+    },
+    {
+      "en": "Use Palas de Rei for the official Galician municipality, while retaining Palas de Rey for the Madrid station and street.",
+      "es": "Usar Palas de Rei para el municipio gallego oficial, conservando Palas de Rey para la estación y la calle madrileñas."
+    },
+    {
+      "en": "The claim that the name simply derives from Latin Palatium Regis is too strong; specialist toponymy sources describe Palas as an etymological problem.",
+      "es": "La afirmación de que el nombre deriva sin más del latín Palatium Regis es demasiado rotunda; las fuentes especializadas describen Palas como un problema etimológico."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact Madrid municipal resolution naming Calle de Palas de Rey was not found; it would be useful to inspect the official Madrid street-name file or plenary records for Las Tablas.",
+      "es": "No se localizó la resolución municipal exacta que dio nombre a la calle de Palas de Rey; sería útil consultar el expediente del callejero oficial de Madrid o las actas correspondientes de Las Tablas."
+    },
+    {
+      "en": "A direct philological source by Nicandro Ares, Vázquez Rodríguez, or Edelmiro Bascuas should be inspected before choosing one hypothesis for the ancient Galician toponym.",
+      "es": "Conviene revisar directamente una fuente filológica de Nicandro Ares, Vázquez Rodríguez o Edelmiro Bascuas antes de escoger una hipótesis para el topónimo gallego antiguo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_008/en/summary.short.md",
+      "summary": "content/stations/ml_008/en/summary.md",
+      "story": "content/stations/ml_008/en/story.md",
+      "confidence": "content/stations/ml_008/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_008/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_008/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_008/es/summary.short.md",
+      "summary": "content/stations/ml_008/es/summary.md",
+      "story": "content/stations/ml_008/es/story.md",
+      "confidence": "content/stations/ml_008/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_008/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_008/es/research-note.md"
+    }
+  }
+}

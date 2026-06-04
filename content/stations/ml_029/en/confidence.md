@@ -1,0 +1,1 @@
+The station's immediate naming after the industrial estate is verified by Metro Ligero Oeste. The historical explanation is strongly supported by municipal digitized local-history material and an official BOCM reference to the paraje and ruins, but the precise personal element is a byname, José 'El Cano', rather than a fully verified civil surname.

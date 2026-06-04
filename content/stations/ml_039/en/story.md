@@ -1,0 +1,9 @@
+The Parla tram stop called **Julio Romero de Torres** is best understood first as a street-based name. The Consorcio Regional de Transportes de Madrid lists the surface station at **Calle Julio Romero de Torres, 2**, so the stop follows the name of the road on which it stands.
+
+Behind that road name is Julio Romero de Torres (1874-1930), one of Córdoba's best-known painters. He was born into an artistic family: the Prado notes that his father, Rafael Romero de Barros, was both a painter and curator of the Museo Provincial de Bellas Artes de Córdoba, a setting that shaped Julio's vocation from childhood.
+
+Romero de Torres' career moved between Córdoba and Madrid. He taught in Córdoba early in the twentieth century, entered Madrid artistic circles, and in 1916 was appointed professor of drapery at the Academia de Bellas Artes de San Fernando. His mature paintings became famous for precise drawing, dark and cool tonalities, female figures in the foreground, and symbolic landscapes or architectural backgrounds connected with Andalusia and Córdoba.
+
+The name also carries a cultural echo beyond Parla. Córdoba's municipal museum dedicated to the painter presents him as a major Spanish artist of the late nineteenth and early twentieth centuries and preserves works such as *La Chiquita Piconera*, *Cante Hondo*, *Poema a Córdoba*, *El Pecado* and *La Gracia*. The museum opened in 1931, one year after his death, from a family donation of works.
+
+For the station itself, the evidence is strong but slightly indirect. The official transport source proves the station's current name and location on the homonymous street; authoritative art sources identify the person behind that name. What has not been found is Parla's original municipal street-naming record, so the exact date and wording of the civic dedication remain open.

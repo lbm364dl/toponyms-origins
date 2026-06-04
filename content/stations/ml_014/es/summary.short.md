@@ -1,0 +1,1 @@
+Somosaguas Sur recibe su nombre de la zona de Somosaguas Sur, en Pozuelo de Alarcón. El nombre antiguo recuerda un lugar medieval citado como San Juan de Sumas Aguas o Somosaguas, asociado en fuentes tempranas con aguas abundantes y buenas.

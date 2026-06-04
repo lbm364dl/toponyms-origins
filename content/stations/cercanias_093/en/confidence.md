@@ -1,0 +1,1 @@
+The place-name etymology is directly supported by Toponomasticon Hispaniae, and current transport sources from CRTM and Adif identify the station as Villalba de Guadarrama on the C-8/C-10 network. The only uncertainty is the exact administrative date when the railway station name was formally assigned.

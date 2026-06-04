@@ -1,0 +1,1 @@
+Tres Cantos station is named after the municipality it serves. The place-name probably means 'three stones' and is best explained as a reference to stone boundary markers near the meeting of Colmenar Viejo, Alcobendas and Madrid.

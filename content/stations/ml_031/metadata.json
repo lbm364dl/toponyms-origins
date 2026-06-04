@@ -1,0 +1,111 @@
+{
+  "id": "ml_031",
+  "name": "Cantabria",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Cantabria",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "MLO customer service station descriptions: Cantabria",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Metro Ligero Oeste states that Cantabria is an ML3 station beside the avenue of the same name, opposite Banco Santander's Finance City and west of Prado del Espino.",
+      "relevance_es": "Metro Ligero Oeste indica que Cantabria es una estación de la ML3 situada junto a la avenida homónima, frente a la Ciudad Financiera del Banco Santander y al oeste de Prado del Espino."
+    },
+    {
+      "title": "MLO Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste operates ML2 and ML3 and has connected Boadilla del Monte, Alcorcón, Pozuelo de Alarcón and Madrid since July 2007.",
+      "relevance_es": "Confirma que Metro Ligero Oeste opera las líneas ML2 y ML3 y conecta Boadilla del Monte, Alcorcón, Pozuelo de Alarcón y Madrid desde julio de 2007."
+    },
+    {
+      "title": "Banco Santander visitor information for the 2024 Annual General Meeting",
+      "url": "https://www.santander.com/content/dam/santander-com/es/documentos/junta-general-de-accionistas/22-03-24/otra-informacion/jga-2024-03-22-otra-informacion-de-utilidad-es.pdf",
+      "type": "official",
+      "relevance_en": "Gives Ciudad Grupo Santander's address as Avenida de Cantabria, s/n, Boadilla del Monte, and identifies ML3 destination Cantabria as the light-rail access.",
+      "relevance_es": "Da la dirección de la Ciudad Grupo Santander como Avenida de Cantabria, s/n, Boadilla del Monte, e identifica la línea ML3 con destino Cantabria como acceso en metro ligero."
+    },
+    {
+      "title": "Ciudad Financiera | Banco Santander",
+      "url": "https://www.santander.com/es/sobre-nosotros/ciudad-financiera",
+      "type": "official",
+      "relevance_en": "States that Ciudad Grupo Santander in Boadilla del Monte opened in 2004 and describes the scale and function of the corporate campus.",
+      "relevance_es": "Indica que la Ciudad Grupo Santander de Boadilla del Monte entró en funcionamiento en 2004 y describe la escala y función del campus corporativo."
+    },
+    {
+      "title": "Nuestra historia | Banco Santander",
+      "url": "https://www.santander.com/es/sobre-nosotros/nuestra-historia",
+      "type": "official",
+      "relevance_en": "Confirms Banco Santander began in 1857 and was originally linked to trade through the port of Santander.",
+      "relevance_es": "Confirma que Banco Santander nació en 1857 y estuvo inicialmente ligado al comercio a través del puerto de Santander."
+    },
+    {
+      "title": "Historia de Cantabria - Día de las Instituciones",
+      "url": "https://28dejulio.cantabria.es/historia-cantabria",
+      "type": "official",
+      "relevance_en": "Provides authoritative regional context for the name Cantabria, the Cantabri, the Roman campaigns, and the later Province of Santander/Community of Cantabria chronology.",
+      "relevance_es": "Aporta contexto regional autorizado sobre el nombre Cantabria, los cántabros, las campañas romanas y la evolución posterior de Provincia de Santander a Comunidad Autónoma de Cantabria."
+    },
+    {
+      "title": "Un recorrido por nuestro callejero",
+      "url": "https://www.soloboadilla.es/boadilla-y-su-historia/boadilla-y-su-historia/news/un-recorrido-por-nuestro-callejero/",
+      "type": "press",
+      "relevance_en": "Local article explicitly says the roads around Banco Santander's Ciudad Financiera recall places from the bank's region of origin, including Avenida de Cantabria, Altamira and Picos de Europa.",
+      "relevance_es": "Artículo local que afirma explícitamente que las vías del entorno de la Ciudad Financiera del Banco Santander recuerdan enclaves de la comunidad de origen de la entidad, entre ellos Avenida de Cantabria, Altamira y Picos de Europa."
+    },
+    {
+      "title": "Plan Especial de modificación de redes públicas en el ámbito AD-1 Sureste Prado del Espino",
+      "url": "https://ayuntamientoboadilladelmonte.org/sites/default/files/documentos/ordenanzas/plan_especial_ad1_y_documento_ambiental.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document places Calles Picos de Europa and Altamira within an area bounded by Avenida de Cantabria and the Santander Finance City parcel, supporting the physical street cluster.",
+      "relevance_es": "Documento urbanístico municipal que sitúa las calles Picos de Europa y Altamira en un ámbito lindante con la Avenida de Cantabria y la parcela de la Ciudad Financiera del Santander, respaldando la existencia física del conjunto viario."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the confidence from verified to probable for the Santander-themed street-name motive unless a municipal naming resolution is found.",
+      "es": "Cambiar la confianza de verificada a probable para el motivo del tema viario ligado al Santander mientras no se localice un acuerdo municipal de denominación."
+    },
+    {
+      "en": "Correct the Roman-history detail: official Cantabrian history says campaigns began from 29 BC, but Augustus personally took command in 26 BC.",
+      "es": "Corregir el detalle de historia romana: la historia oficial cántabra indica campañas desde el 29 a. C., pero Augusto tomó el mando personalmente en el 26 a. C."
+    },
+    {
+      "en": "Avoid presenting the street-theme explanation as proven by the Ayuntamiento unless a direct municipal source is added.",
+      "es": "Evitar presentar la explicación del tema del callejero como probada por el Ayuntamiento salvo que se añada una fuente municipal directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Boadilla del Monte municipal council minutes, street-naming files, or urban-development documentation for the formal approval of Avenida de Cantabria and the motive for the Cantabria/Altamira/Picos de Europa group.",
+      "es": "Revisar actas municipales, expedientes de rotulación o documentación urbanística de Boadilla del Monte para localizar la aprobación formal de la Avenida de Cantabria y el motivo del conjunto Cantabria/Altamira/Picos de Europa."
+    },
+    {
+      "en": "Confirm whether the station name was assigned formally before opening or simply adopted with the line's public opening on 27 July 2007.",
+      "es": "Confirmar si el nombre de la estación se asignó formalmente antes de la apertura o si se adoptó con la inauguración pública de la línea el 27 de julio de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_031/en/summary.short.md",
+      "summary": "content/stations/ml_031/en/summary.md",
+      "story": "content/stations/ml_031/en/story.md",
+      "confidence": "content/stations/ml_031/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_031/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_031/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_031/es/summary.short.md",
+      "summary": "content/stations/ml_031/es/summary.md",
+      "story": "content/stations/ml_031/es/story.md",
+      "confidence": "content/stations/ml_031/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_031/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_031/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Somosaguas Centro toma su nombre de la zona de Somosaguas, en Pozuelo de Alarcón. El antiguo topónimo ya aparece documentado en el Madrid medieval y combina una palabra relativa a un lugar alto con aguas, acorde con un paisaje conocido por fuentes y manantiales.

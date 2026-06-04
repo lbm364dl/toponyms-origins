@@ -1,0 +1,9 @@
+Reyes Católicos station is named for the street where it stands: Calle Reyes Católicos, 37, in Parla. The Madrid Regional Transport Consortium lists the stop at that address, and Parla's municipal inventory identifies Calle Reyes Católicos as a public street running between Reina Victoria and Calle Felipe II.
+
+The name means 'Catholic Monarchs' and refers to Isabel I of Castile and Fernando II of Aragon. They were not a single person but a royal couple whose marriage in Valladolid on 19 October 1469 linked the ruling houses of Castile and Aragon. Isabel became queen of Castile in 1474, and Fernando became king of Aragon in 1479, creating a dynastic partnership that later Spanish history treated as foundational.
+
+Their reign is tied to several decisive events: the end of the war for Granada in 1492, the expansion of royal administration, religious policy including the Inquisition and expulsions or forced conversions, and support for Columbus's first Atlantic voyage. Those facts make the name historically dense, but they should be phrased carefully: the marriage joined crowns and policies, while the legal and institutional unification of Spain was a much longer process.
+
+The title itself has a precise documentary anchor. A catalogue record for the papal bull describes Alexander VI granting Fernando V and Isabel the title of Reyes Católicos on 19 December 1496, and a scholarly bibliographic record from Universidad Complutense points to a study of that same act. Some general reference works give 1494, but the better-supported date for the solemn bull Si convenit is 1496.
+
+In Parla, the stop's name also fits its immediate urban setting. The municipal street inventory shows nearby or intersecting royal names, including Isabel II, Felipe II, Fernando III el Santo and Jaime I el Conquistador. That pattern supports the practical explanation: the tram stop was named from the street, and the street belongs to a local royal-themed toponymic cluster.

@@ -1,0 +1,1 @@
+Alpedrete station is named after the municipality it serves. The name is best explained as an Arabized form of late Latin *PĔTRĒTU, meaning a stony place or quarry, a fitting name for a town historically known for granite.

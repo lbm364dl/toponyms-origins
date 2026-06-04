@@ -1,0 +1,1 @@
+La explicación es básicamente correcta: la parada toma el nombre de la zona de Somosaguas Sur, en Pozuelo de Alarcón, y el topónimo antiguo está claramente vinculado al agua. La explicación lingüística concreta como somo + aguas es plausible, pero no queda demostrada de forma directa por una entrada específica de Somosaguas en las fuentes más sólidas localizadas.

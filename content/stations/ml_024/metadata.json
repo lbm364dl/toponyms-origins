@@ -1,0 +1,107 @@
+{
+  "id": "ml_024",
+  "name": "José Isbert",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "José Ysbert Alvarruiz, known as José Isbert or Pepe Isbert",
+  "previous_names": "",
+  "naming_date": "27/07/2007 (station opening; exact municipal street-naming date not found)",
+  "sources": [
+    {
+      "title": "MLO - Atención al cliente: estaciones ML3",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Metro Ligero Oeste states that José Isbert is an ML3 stop located on Calle José Isbert.",
+      "relevance_es": "Metro Ligero Oeste indica que José Isbert es una parada de la ML3 situada en la calle José Isbert."
+    },
+    {
+      "title": "Metro Ligero Oeste - Corporate information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Provides the Metro Ligero Oeste inauguration date, 27/07/2007, and confirms that MLO operates ML2 and ML3.",
+      "relevance_es": "Aporta la fecha de inauguración de Metro Ligero Oeste, 27/07/2007, y confirma que MLO opera las líneas ML2 y ML3."
+    },
+    {
+      "title": "CRTM zonal map: José Isbert",
+      "url": "https://www.crtm.es/media/td0ctaxv/plano_zonal_metroligero_joseisbert.pdf",
+      "type": "official",
+      "relevance_en": "Shows the José Isbert light-rail station, Calle José Isbert, nearby film-related streets, and the Filmoteca Española conservation centre area.",
+      "relevance_es": "Muestra la estación de metro ligero José Isbert, la calle José Isbert, calles cercanas relacionadas con el cine y el entorno del centro de conservación de la Filmoteca Española."
+    },
+    {
+      "title": "Filmoteca Española - Conservación fílmica",
+      "url": "https://www.cultura.gob.es/cultura/areas/cine/mc/fe/conservacion-filmica.html",
+      "type": "official",
+      "relevance_en": "Confirms that Filmoteca Española's Centro de Conservación y Restauración de Fondos Fílmicos Carlos Saura is in Ciudad de la Imagen and was inaugurated in 2014.",
+      "relevance_es": "Confirma que el Centro de Conservación y Restauración de Fondos Fílmicos Carlos Saura de Filmoteca Española está en la Ciudad de la Imagen y fue inaugurado en 2014."
+    },
+    {
+      "title": "ICAA Film Catalogue: Bienvenido Mister Marshall",
+      "url": "https://sede.mcu.gob.es/CatalogoICAA/es-es/Peliculas/Detalle?Pelicula=6952&q=true",
+      "type": "official",
+      "relevance_en": "Official ICAA catalogue entry for Bienvenido, Mister Marshall, directed by Luis García Berlanga, listing José Isbert among the cast and giving the 1953 release date.",
+      "relevance_es": "Ficha oficial del catálogo del ICAA de Bienvenido, Mister Marshall, dirigida por Luis García Berlanga, que incluye a José Isbert entre los intérpretes y da la fecha de estreno de 1953."
+    },
+    {
+      "title": "Centro Virtual Cervantes: Clásicos contigo - El verdugo",
+      "url": "https://cvc.cervantes.es/artes/cine/hojas/el-verdugo.htm",
+      "type": "reference",
+      "relevance_en": "Cervantes Institute educational film material that lists José Isbert in El verdugo and describes the film's importance in Berlanga's work and Spanish cinema.",
+      "relevance_es": "Material cinematográfico educativo del Instituto Cervantes que incluye a José Isbert en El verdugo y resume la importancia de la película en la obra de Berlanga y en el cine español."
+    },
+    {
+      "title": "Actores españoles en primera persona: el oficio de cómico en sus testimonios",
+      "url": "https://rua.ua.es/server/api/core/bitstreams/92f101fa-9fb3-4134-a64a-b84d1d74595d/content",
+      "type": "academic",
+      "relevance_en": "Academic thesis with a biographical note on José Enrique Benito Emeterio Ysbert Alvarruiz, including birth and death dates, early career, and the change from Ysbert to Isbert.",
+      "relevance_es": "Tesis académica con una nota biográfica sobre José Enrique Benito Emeterio Ysbert Alvarruiz, incluidas fechas de nacimiento y muerte, trayectoria inicial y cambio de Ysbert a Isbert."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón: Parque empresarial Ciudad de la Imagen",
+      "url": "https://www.pozuelodealarcon.org/empleo-y-empresas/empresas-y-emprendimiento/grandes-empresas-e-inversion/parques-empresariales/parque-empresarial-ciudad-de-la-imagen",
+      "type": "official",
+      "relevance_en": "Municipal page identifying Ciudad de la Imagen as an audiovisual-themed office and leisure complex and giving Calle José Isbert as its address.",
+      "relevance_es": "Página municipal que identifica la Ciudad de la Imagen como complejo de oficinas y ocio de temática audiovisual y da la calle José Isbert como dirección."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The direct naming chain should say the station is named from Calle José Isbert; the available official station source does not itself state a direct commemorative dedication.",
+      "es": "La cadena directa de denominación debe indicar que la estación toma el nombre de la calle José Isbert; la fuente oficial disponible de la estación no afirma por sí misma una dedicatoria conmemorativa directa."
+    },
+    {
+      "en": "Use Filmoteca Española rather than Filmoteca Nacional for the current institution, and note that its current Ciudad de la Imagen conservation centre opened in 2014, after the station opened.",
+      "es": "Debe usarse Filmoteca Española en lugar de Filmoteca Nacional para la institución actual, y señalar que su centro de conservación actual en la Ciudad de la Imagen abrió en 2014, después de la inauguración de la estación."
+    },
+    {
+      "en": "The actor's full documented name is often given as José Enrique Benito y Emeterio Ysbert Alvarruiz; the shorter José Ysbert Alvarruiz is acceptable but less complete.",
+      "es": "El nombre completo documentado del actor suele darse como José Enrique Benito y Emeterio Ysbert Alvarruiz; la forma abreviada José Ysbert Alvarruiz es aceptable, pero menos completa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Pozuelo de Alarcón municipal street-naming records or plenary minutes to establish the exact date and wording by which Calle José Isbert was named.",
+      "es": "Consultar los expedientes de denominación viaria o actas plenarias del Ayuntamiento de Pozuelo de Alarcón para fijar la fecha exacta y el acuerdo por el que se nombró la calle José Isbert."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_024/en/summary.short.md",
+      "summary": "content/stations/ml_024/en/summary.md",
+      "story": "content/stations/ml_024/en/story.md",
+      "confidence": "content/stations/ml_024/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_024/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_024/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_024/es/summary.short.md",
+      "summary": "content/stations/ml_024/es/summary.md",
+      "story": "content/stations/ml_024/es/story.md",
+      "confidence": "content/stations/ml_024/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_024/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_024/es/research-note.md"
+    }
+  }
+}

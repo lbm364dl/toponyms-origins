@@ -1,0 +1,97 @@
+{
+  "id": "ml_040",
+  "name": "La Ballena",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Parque de la Ballena / La Ballena area in Parla, named for the local legend of a whale-like albarda in the former Laguna de Parla",
+  "previous_names": "",
+  "naming_date": "6 May 2007 (station opened with this name; no separate naming act found)",
+  "sources": [
+    {
+      "title": "Ayuntamiento de Parla - Ruta urbana 1, Parada 6 Parque de la Ballena",
+      "url": "https://sede.ayuntamientoparla.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=RUTA1",
+      "type": "official",
+      "relevance_en": "Official municipal source for the local legend: muleteers at the lagoon, the broken albarda, the supposed whale, and the Getafe hunting episode.",
+      "relevance_es": "Fuente municipal oficial para la leyenda local: los arrieros junto a la laguna, la albarda rota, la supuesta ballena y el episodio de los mozos de Getafe."
+    },
+    {
+      "title": "Navarro Conde Arquitectos - Parque de la Ballena en Parla",
+      "url": "https://www.navarrocondearquitectos.com/trabajos/trabajo_42.html",
+      "type": "other",
+      "relevance_en": "Project page for the park: locates it in Parla, dates it to 2000, gives surface and budget, and states that the whale symbol from the Laguna de Parla legend was recovered in the park design.",
+      "relevance_es": "Ficha del proyecto del parque: lo sitúa en Parla, lo fecha en 2000, da superficie y presupuesto, y afirma que el símbolo de la ballena de la leyenda de la Laguna de Parla se recuperó en el diseño del parque."
+    },
+    {
+      "title": "Escultura y Arte - Cola de Ballena",
+      "url": "https://esculturayarte.com/007314/Cola-de-Ballena-en-Parla.html",
+      "type": "reference",
+      "relevance_en": "Documents the whale-tail sculpture at Calle Real, Parque de la Ballena, and describes the whale as one of Parla's symbols linked to the popular legend of the Laguna de Parla.",
+      "relevance_es": "Documenta la escultura de la cola de ballena en la calle Real, Parque de la Ballena, y describe la ballena como uno de los símbolos de Parla vinculado a la leyenda popular de la Laguna de Parla."
+    },
+    {
+      "title": "Tranvia de Parla - Horarios de pasos por parada, laborables via 2",
+      "url": "https://viaparla.com/wp-content/uploads/2024/06/Horario-INV-Via-2-Laborables-2024.pdf",
+      "type": "official",
+      "relevance_en": "Current operator timetable listing La Ballena as a stop on the Tranvia de Parla route.",
+      "relevance_es": "Horario actual del operador que incluye La Ballena como parada del recorrido del Tranvia de Parla."
+    },
+    {
+      "title": "Madridiario - Inaugurado el tramo inicial del tranvia de Parla",
+      "url": "https://www.madridiario.es/noticia/20604/municipios/inaugurado-el-tramo-inicial-del-tranvia-de-parla.html",
+      "type": "press",
+      "relevance_en": "Contemporary report on the 6 May 2007 inauguration of the initial Parla tram section, giving opening context for the stop's naming period.",
+      "relevance_es": "Crónica contemporánea de la inauguración del tramo inicial del tranvía de Parla el 6 de mayo de 2007, útil para contextualizar la fecha de denominación de la parada."
+    },
+    {
+      "title": "Cadena SER Madrid Sur - El gobierno de Parla vuelve a intentar impulsar 500 viviendas en la entrada norte",
+      "url": "https://cadenaser.com/cmadrid/2025/01/08/el-gobierno-de-parla-vuelve-a-intentar-impulsar-500-viviendas-en-la-entrada-norte-ser-madrid-sur/",
+      "type": "press",
+      "relevance_en": "Recent local reporting that refers to La Ballena as a neighbourhood/area beside Villayuventus on Calle Real, near the tram curve in northern Parla.",
+      "relevance_es": "Información local reciente que se refiere a La Ballena como barrio o zona junto a Villayuventus, en la calle Real y cerca de la curva del tranvía en el norte de Parla."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the immediate naming source as a place, not simply as a historical event: the stop is named for the La Ballena place/park area, whose name is explained by legend.",
+      "es": "Clasificar la fuente inmediata del nombre como un lugar, no simplemente como un hecho histórico: la parada toma el nombre del lugar o parque de La Ballena, cuyo nombre se explica por una leyenda."
+    },
+    {
+      "en": "Present the whale story as folklore documented by the municipality, not as a verified occurrence.",
+      "es": "Presentar la historia de la ballena como folclore documentado por el municipio, no como un suceso verificado."
+    },
+    {
+      "en": "The strongest support found is not the blog material but the Ayuntamiento de Parla urban route and the park designers' project page.",
+      "es": "El respaldo más sólido localizado no es el material de blog, sino la ruta urbana del Ayuntamiento de Parla y la ficha del proyecto de los arquitectos del parque."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal Tranvia de Parla, CRTM, or municipal naming document for the stop was not found; it would clarify whether the stop was named officially after the park, the neighbourhood/area, or both.",
+      "es": "No se ha localizado un documento formal de Tranvia de Parla, CRTM o del Ayuntamiento sobre la denominación de la parada; aclararía si la parada se nombró oficialmente por el parque, por el barrio o zona, o por ambos."
+    },
+    {
+      "en": "The exact date when La Ballena became a neighbourhood or area name, as distinct from the park name, remains to be checked in municipal planning or street-name records.",
+      "es": "Queda por comprobar en planeamiento municipal o expedientes de nomenclátor la fecha exacta en que La Ballena pasó a usarse como nombre de barrio o zona, más allá del nombre del parque."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_040/en/summary.short.md",
+      "summary": "content/stations/ml_040/en/summary.md",
+      "story": "content/stations/ml_040/en/story.md",
+      "confidence": "content/stations/ml_040/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_040/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_040/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_040/es/summary.short.md",
+      "summary": "content/stations/ml_040/es/summary.md",
+      "story": "content/stations/ml_040/es/story.md",
+      "confidence": "content/stations/ml_040/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_040/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_040/es/research-note.md"
+    }
+  }
+}

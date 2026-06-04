@@ -1,0 +1,1 @@
+Prado del Espino toma su nombre del área de Prado del Espino de Boadilla del Monte, donde la parada de ML3 se sitúa en la calle Labradores. El nombre significa literalmente un prado o pastizal del espino, árbol o arbusto espinoso asociado al espino blanco o majuelo.

@@ -1,0 +1,93 @@
+{
+  "id": "ml_042",
+  "name": "Iglesia Centro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "religious",
+  "recommended_named_after": "Iglesia de Nuestra Señora de la Asunción, the historic parish church in central Parla",
+  "previous_names": "No former station name found. Related place names: Iglesia de Nuestra Señora de la Asunción; iglesia vieja; plaza de la Iglesia; plaza de la Fuente Nueva.",
+  "naming_date": "2007; exact naming resolution not found, but the station name is part of the Tranvia de Parla stop list from the line's opening period.",
+  "sources": [
+    {
+      "title": "CRTM - Iglesia Centro",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_54/",
+      "type": "official",
+      "relevance_en": "Official transport page confirming the station name, Metro Ligero/Tranvia service, and access at Calle Real, 28 in Parla.",
+      "relevance_es": "Pagina oficial de transporte que confirma el nombre de la estación, el servicio de Metro Ligero/Tranvia y el acceso en la calle Real, 28 de Parla."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Ruta urbana, Iglesia de Nuestra Señora de la Asunción",
+      "url": "https://sede.ayuntamientoparla.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=RUTA1",
+      "type": "official",
+      "relevance_en": "Municipal heritage route describing the church as sixteenth-century, largely rebuilt in the twentieth century, and preserving a Gothic-style head with stone and brick walls.",
+      "relevance_es": "Ruta patrimonial municipal que describe la iglesia como edificio del siglo XVI, reconstruido en gran parte en el siglo XX, y conserva una cabecera de estilo gótico con muros de piedra y ladrillo."
+    },
+    {
+      "title": "Modificacion puntual del Plan General. Zona verde Calle Real. Parla",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2025/10/Modificacion_Plan_General_Parque_Central_Parla_parte_1.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning PDF explicitly states that the Iglesia Centro stop is located between the Calle Real plots and the Iglesia de Nuestra Señora de la Asunción.",
+      "relevance_es": "PDF urbanístico municipal que afirma expresamente que la parada Iglesia Centro se localiza entre los terrenos de la calle Real y la iglesia de Nuestra Señora de la Asunción."
+    },
+    {
+      "title": "Tranvia de Parla - Acerca de nosotros",
+      "url": "https://www.viaparla.com/acerca-de-nosotros/",
+      "type": "official",
+      "relevance_en": "Operator source describing Tranvia de Parla as an 8.3 km surface circular system with 15 stops connecting the municipality's central points.",
+      "relevance_es": "Fuente de la empresa operadora que describe el Tranvia de Parla como un sistema circular en superficie de 8,3 km y 15 paradas que conecta los centros neurálgicos del municipio."
+    },
+    {
+      "title": "Jose Gomez-Menor y Fuentes, Algunos documentos ineditos de Juan de Borgoña y de otros artifices toledanos de su tiempo",
+      "url": "https://www.realacademiatoledo.es/downloads/publicaciones_cont1/1738/algunos-documentos-ineditos-de-juan-de-borgona-y-de-otros-artifices-toledanos-de-su-tiempo.pdf",
+      "type": "academic",
+      "relevance_en": "Specialist archival publication transcribing the 24 April 1522 contract by which Juan de Borgoña undertook an altarpiece for the church of Parla, including conditions for an Assumption image.",
+      "relevance_es": "Publicación archivística especializada que transcribe el contrato del 24 de abril de 1522 por el que Juan de Borgoña se obligó a hacer un retablo para la iglesia de Parla, con condiciones que incluían una imagen de la Asunción."
+    },
+    {
+      "title": "Arte Sacro Horche - Retablo mayor de la Iglesia Parroquial de Ntra. Sra. de la Asunción de Parla",
+      "url": "https://artesacrohorche.blogspot.com/2020/05/retablo-mayor-de-la-iglesia-parroquial.html",
+      "type": "other",
+      "relevance_en": "Workshop post dated 15 May 2020 documenting installation of the current main retable and describing it as neo-Gothic.",
+      "relevance_es": "Entrada del taller fechada el 15 de mayo de 2020 que documenta la instalación del retablo mayor actual y lo describe como neogótico."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not rely on Wikipedia as the main evidence; the best direct sources are CRTM for the station, Parla municipal documents for the location and church description, and the Real Academia de Toledo publication for the 1522 Borgoña contract.",
+      "es": "No conviene usar Wikipedia como prueba principal; las fuentes directas más sólidas son el CRTM para la estación, los documentos municipales de Parla para la ubicación y la descripción del templo, y la publicación de la Real Academia de Toledo para el contrato de Borgoña de 1522."
+    },
+    {
+      "en": "The 2020 altarpiece should not be presented as a firm replica of Juan de Borgoña's original style. The workshop source describes it as a neo-Gothic retable installed in May 2020.",
+      "es": "El retablo de 2020 no debe presentarse como una replica segura del estilo original de Juan de Borgoña. La fuente del taller lo describe como un retablo neogótico instalado en mayo de 2020."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal naming resolution or original 2007 station design document was not found; the name is verified from official current transport material and municipal location documents.",
+      "es": "No se localizó una resolución municipal de denominación ni un documento original de diseño de estaciones de 2007; el nombre queda verificado por material oficial actual de transporte y por documentos municipales de ubicación."
+    },
+    {
+      "en": "The older claim that the sixteenth-century church replaced a medieval Santa Maria de Parla appears in secondary/local summaries, but I did not find a primary inspected source for that specific predecessor church in this pass.",
+      "es": "La afirmación de que la iglesia del siglo XVI sustituyó a una Santa Maria de Parla medieval aparece en resúmenes secundarios o locales, pero en esta revisión no se encontró una fuente primaria inspeccionada para ese templo anterior concreto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_042/en/summary.short.md",
+      "summary": "content/stations/ml_042/en/summary.md",
+      "story": "content/stations/ml_042/en/story.md",
+      "confidence": "content/stations/ml_042/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_042/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_042/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_042/es/summary.short.md",
+      "summary": "content/stations/ml_042/es/summary.md",
+      "story": "content/stations/ml_042/es/story.md",
+      "confidence": "content/stations/ml_042/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_042/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_042/es/research-note.md"
+    }
+  }
+}

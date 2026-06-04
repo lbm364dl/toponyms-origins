@@ -1,0 +1,1 @@
+La estación de Vallecas toma su nombre del área histórica de Vallecas, antiguo municipio independiente al sureste de Madrid. El topónimo aparece como Balecas en 1202; la interpretación mejor apoyada lo relaciona con zonas de valle, mientras que el popular 'Valle de Kas' es una leyenda posterior.

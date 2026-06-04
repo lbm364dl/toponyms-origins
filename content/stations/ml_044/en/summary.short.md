@@ -1,0 +1,1 @@
+Reyes Católicos station takes its name from Calle Reyes Católicos in Parla. The street commemorates Isabel I of Castile and Fernando II of Aragon, the royal couple formally granted the title Catholic Monarchs by Pope Alexander VI in 1496.

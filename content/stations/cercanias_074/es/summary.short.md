@@ -1,0 +1,1 @@
+La estación de Los Negrales lleva el nombre de la zona residencial que la rodea, en el lado de Alpedrete junto al límite con Collado Villalba. La historia local del colegio del barrio explica el topónimo por un bosque cercano de pino negral, nombre documentado en Madrid para el Pinus pinaster.

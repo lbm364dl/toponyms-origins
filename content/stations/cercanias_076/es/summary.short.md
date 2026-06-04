@@ -1,0 +1,1 @@
+La estación debe su nombre al municipio de Collado Mediano. El topónimo une collado, una elevación o paso suave de sierra, con mediano, probablemente para describir su carácter moderado o intermedio en el paisaje local del Guadarrama.

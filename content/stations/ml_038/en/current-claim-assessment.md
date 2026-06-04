@@ -1,0 +1,1 @@
+The basic origin is correct: the stop is named for Parla's bullring area. However, the row overstates and misidentifies the current bullring as merely portable or seasonal; municipal and technical sources describe a permanent bullring built in 2003, with later temporary structures used for repairs or specific events.

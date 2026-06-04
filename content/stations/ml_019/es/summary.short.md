@@ -1,0 +1,1 @@
+Campus de Somosaguas toma su nombre del campus de la Universidad Complutense en Pozuelo de Alarcón. El topónimo antiguo Somosaguas se vincula históricamente a terrenos abundantes en agua en torno a Húmera y Pozuelo, con formas documentadas como Sumas Aguas.

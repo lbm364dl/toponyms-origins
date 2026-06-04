@@ -1,0 +1,9 @@
+The station name comes directly from Zarzaquemada, the Leganes neighbourhood and district that the C-5 stop serves. Renfe describes the station as located in the homonymous neighbourhood, and the regional transport consortium lists Zarzaquemada as a Cercanias station with C-5 service and local bus connections.
+
+Behind the neighbourhood name is a very concrete landscape phrase. In Spanish, zarza means a bramble or blackberry bush; the RAE traces the word through older sarza and treats it as pre-Roman in origin. Quemada is the feminine form of 'burned', from quemar, so the compound naturally reads as 'burned bramble' or 'burned bramble land'.
+
+That reading fits a wider rural vocabulary. Before Leganes expanded into a dense metropolitan city, this was agricultural and open land on the edge of Madrid. Traditional Iberian rozas cleared vegetation from woodland, scrub, or pasture and often burned it before cultivation; a name like Zarzaquemada could preserve just that kind of observation: land where thorny growth had been burned off.
+
+The modern railway story is much later. The stop opened in 1982 and became part of the C-5 Cercanias service as the line and the southern suburbs were reorganised. In 1993 the station was substantially improved after complaints about its exposed platforms; the press even recorded nicknames such as 'the pneumonia halt' because of the cold and wind before the refurbishment.
+
+The safest conclusion is therefore layered: the station is certainly named after the neighbourhood, and the neighbourhood name is very probably an old descriptive toponym referring to burned bramble or scrub. What remains unproven is the exact historical incident or parcel that produced the name in Leganes; the slash-and-burn explanation is plausible context, not a directly documented origin story.

@@ -1,0 +1,104 @@
+{
+  "id": "ml_038",
+  "name": "Plaza de Toros",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Plaza de Toros de Parla / Plaza de Toros Municipal de Parla",
+  "previous_names": "",
+  "naming_date": "2007-05-06 (in use from the opening of the Tranvia de Parla; formal naming act not found)",
+  "sources": [
+    {
+      "title": "CRTM - Estacion Plaza de Toros, Tranvia de Parla",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_50?idPestana=1",
+      "type": "official",
+      "relevance_en": "Official regional transport page confirming the current stop name and its placement on the Tranvia de Parla.",
+      "relevance_es": "Página oficial del Consorcio Regional de Transportes que confirma el nombre actual de la parada y su pertenencia al Tranvía de Parla."
+    },
+    {
+      "title": "Tranvia de Parla - Acerca de nosotros",
+      "url": "https://www.viaparla.com/acerca-de-nosotros/",
+      "type": "official",
+      "relevance_en": "Operator source for the tram system, its circular route, and its opening to public service in 2007.",
+      "relevance_es": "Fuente del operador sobre el sistema tranviario, su recorrido circular y su apertura al público en 2007."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Resolucion sobre espectaculo taurino en la Plaza de Toros Municipal",
+      "url": "https://sede.ayuntamientoparla.es/portal/sede/RecursosWeb/DOCUMENTOS/1/4_23540_1.pdf",
+      "type": "official",
+      "relevance_en": "Municipal document using the name Plaza de Toros Municipal and locating it in Parla, supporting the landmark behind the stop name.",
+      "relevance_es": "Documento municipal que emplea el nombre Plaza de Toros Municipal y la ubica en Parla, lo que respalda el hito que da nombre a la parada."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Informe tecnico sobre la Plaza de Toros Municipal, 2018",
+      "url": "https://transparencia.ayuntamientoparla.es/Portal/RecursosWeb/DOCUMENTOS/1/7_11953_1.pdf",
+      "type": "official",
+      "relevance_en": "Technical report stating that the municipal bullring was built in 2003 and explaining later use of a portable bullring because of structural problems.",
+      "relevance_es": "Informe técnico que indica que la plaza municipal fue construida en 2003 y explica el uso posterior de una plaza portátil por problemas estructurales."
+    },
+    {
+      "title": "Madridiario - El Tranvia de Parla ya circula con viajeros",
+      "url": "https://www.madridiario.es/440899/el-tranvia-de-parla-ya-circula-con-viajeros",
+      "type": "press",
+      "relevance_en": "Contemporary press report on the start of passenger service for the Tranvia de Parla in May 2007.",
+      "relevance_es": "Crónica periodística contemporánea sobre el inicio del servicio con viajeros del Tranvía de Parla en mayo de 2007."
+    },
+    {
+      "title": "Tesauro del Patrimonio Cultural de España - Plaza de toros",
+      "url": "https://tesauros.cultura.gob.es/tesauros/bienesculturales/1000631.html",
+      "type": "reference",
+      "relevance_en": "Official cultural-heritage vocabulary source defining plaza de toros as the relevant type of bullfighting venue.",
+      "relevance_es": "Fuente oficial de vocabulario patrimonial que define plaza de toros como el tipo de recinto taurino pertinente."
+    },
+    {
+      "title": "El Pais - Madrid: una plaza de toros portatil en Parla, 1992",
+      "url": "https://elpais.com/diario/1992/09/17/madrid/716727866_850215.html",
+      "type": "press",
+      "relevance_en": "Older press reference showing that portable bullrings were used in Parla before the current municipal bullring was built, useful context but not proof of the station name.",
+      "relevance_es": "Referencia periodística antigua que muestra el uso de plazas portátiles en Parla antes de la construcción de la plaza municipal actual; aporta contexto, pero no prueba el nombre de la parada."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim that the station is named after Parla's portable seasonal bullring with a more precise statement: it is named after Parla's Plaza de Toros Municipal, a bullring built in 2003; temporary or portable rings appear in later contexts because of works, defects, or specific events.",
+      "es": "Sustituir la afirmación de que la estación toma su nombre de una plaza portátil estacional por una formulación más precisa: se llama así por la Plaza de Toros Municipal de Parla, construida en 2003; las plazas temporales o portátiles aparecen en contextos posteriores por obras, deficiencias o actos concretos."
+    },
+    {
+      "en": "Remove or source separately the broad claim that Spain has more than 1,700 bullrings and that this is more than any other single building type; it is not needed to explain this station and was not verified in the strongest station-specific sources.",
+      "es": "Eliminar o documentar por separado la afirmación general de que España cuenta con más de 1.700 plazas de toros y que son más que cualquier otro tipo de edificio singular; no es necesaria para explicar esta parada y no quedó verificada en las fuentes específicas más sólidas."
+    },
+    {
+      "en": "Avoid presenting Nuestra Señora de la Asunción as the sole reason for the bullring name. The bullring is linked to local festivities and taurine programming, but the stop name itself is simply descriptive of the nearby facility.",
+      "es": "Evitar presentar a Nuestra Señora de la Asunción como la única razón del nombre. La plaza se vincula a fiestas locales y programación taurina, pero el nombre de la parada describe simplemente la instalación cercana."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The formal municipal, consortium, or project document assigning the exact stop name was not found; archive inspection of the tram project files could confirm the naming date.",
+      "es": "No se localizó el documento formal municipal, consorcial o de proyecto que asignó exactamente el nombre de la parada; la consulta de los expedientes del proyecto tranviario podría confirmar la fecha de denominación."
+    },
+    {
+      "en": "Local sources differ in practical address references for the bullring area, including Julio Romero de Torres and Pablo Picasso; this does not affect the etymology but may matter for venue metadata.",
+      "es": "Las fuentes locales difieren en las referencias prácticas de dirección del entorno de la plaza, incluidas Julio Romero de Torres y Pablo Picasso; esto no afecta a la etimología, pero puede importar para metadatos del recinto."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_038/en/summary.short.md",
+      "summary": "content/stations/ml_038/en/summary.md",
+      "story": "content/stations/ml_038/en/story.md",
+      "confidence": "content/stations/ml_038/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_038/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_038/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_038/es/summary.short.md",
+      "summary": "content/stations/ml_038/es/summary.md",
+      "story": "content/stations/ml_038/es/story.md",
+      "confidence": "content/stations/ml_038/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_038/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_038/es/research-note.md"
+    }
+  }
+}

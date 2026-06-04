@@ -1,0 +1,1 @@
+La etimología del topónimo está respaldada directamente por Toponomasticon Hispaniae, y las fuentes actuales de CRTM y Adif identifican la estación como Villalba de Guadarrama en la red C-8/C-10. La única incertidumbre es la fecha administrativa exacta en que se asignó formalmente el nombre ferroviario.

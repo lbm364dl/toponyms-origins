@@ -1,0 +1,1 @@
+La estación Reyes Católicos toma su nombre de la calle Reyes Católicos de Parla. La vía recuerda a Isabel I de Castilla y Fernando II de Aragón, la pareja real a la que el papa Alejandro VI concedió formalmente el título de Reyes Católicos en 1496.

@@ -1,0 +1,1 @@
+Venus is named from Calle Planeta Venus in Parla Este. The surrounding street grid uses a conspicuous astronomical theme, with nearby names such as Avenida de los Planetas, Avenida de las Estrellas and Avenida del Sistema Solar.

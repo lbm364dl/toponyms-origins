@@ -1,0 +1,107 @@
+{
+  "id": "cercanias_074",
+  "name": "Los Negrales",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Los Negrales residential area, whose name is locally explained as referring to a nearby pino negral woodland",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Adif - 12001 Los Negrales",
+      "url": "https://www.adif.es/-/12001-los-negrales",
+      "type": "official",
+      "relevance_en": "Confirms the current official station name Los Negrales and gives the station address at Calle Paralela, 11.",
+      "relevance_es": "Confirma el nombre oficial actual de la estación, Los Negrales, y da la dirección de la estación en la calle Paralela, 11."
+    },
+    {
+      "title": "Renfe Data - Ficha Estación 12001 Los Negrales",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion12001.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 12001, name LOS NEGRALES, operator Renfe Viajeros, municipality Alpedrete and commercial line C8B.",
+      "relevance_es": "Confirma el código de estación 12001, el nombre LOS NEGRALES, el explotador Renfe Viajeros, el municipio de Alpedrete y la línea comercial C8B."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Los Negrales",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_50?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms Los Negrales as a Cercanías station on line C-8, in fare zone C1, with access from Calle del Raso in Alpedrete.",
+      "relevance_es": "Confirma Los Negrales como estación de Cercanías en la línea C-8, zona tarifaria C1, con acceso desde la calle del Raso en Alpedrete."
+    },
+    {
+      "title": "Historia y Entorno - Colegio Público Los Negrales, EducaMadrid",
+      "url": "https://www.educa2.madrid.org/web/centro.cp.losnegrales.alpedrete/quienes-somos",
+      "type": "official",
+      "relevance_en": "Direct local source for the residential area: it describes Los Negrales, its early-20th-century development, second-home character, station on C-8, and explicitly says the name comes from a nearby pino negral wood.",
+      "relevance_es": "Fuente local directa sobre la zona residencial: describe Los Negrales, su formación desde comienzos del siglo XX, su carácter de segundas residencias, la estación de la línea C-8 y afirma expresamente que el nombre procede de un bosque cercano de pino negral."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: negral",
+      "url": "https://dle.rae.es/negral",
+      "type": "reference",
+      "relevance_en": "Defines negral as darker or darkish when said of a tree or its products, supporting the semantic basis of the pine-related place-name.",
+      "relevance_es": "Define negral como más oscuro o negruzco aplicado a un árbol o a sus productos, lo que respalda la base semántica del topónimo relacionado con pinos."
+    },
+    {
+      "title": "Real Academia Española - Diccionario de la lengua española: pino",
+      "url": "https://dle.rae.es/pino",
+      "type": "reference",
+      "relevance_en": "Records the expression pino negral and related pine names, showing that the phrase is a recognized Spanish vernacular term.",
+      "relevance_es": "Recoge la expresión pino negral y otros nombres de pinos, mostrando que se trata de un término vulgar reconocido en español."
+    },
+    {
+      "title": "Luis Gil Sánchez, Pinares y rodenales. La diversidad que no se ve, Real Academia de Ingeniería",
+      "url": "https://www.raing.es/pdf/publicaciones/tomas_de_posesion/Toma_de_posesion_luis_gil.pdf",
+      "type": "academic",
+      "relevance_en": "Specialist forestry source documenting that Pinus pinaster has historically been called pino negral in Madrid and several other provinces, while noting that pino negral may refer to Pinus nigra elsewhere.",
+      "relevance_es": "Fuente forestal especializada que documenta que Pinus pinaster se ha conocido históricamente como pino negral en Madrid y otras provincias, y advierte que pino negral puede designar Pinus nigra en otros lugares."
+    },
+    {
+      "title": "El Adelantado - Una línea de tren en el alero",
+      "url": "https://eladelantado.com/segovia/una_linea_de_tren_en_el_alero/",
+      "type": "press",
+      "relevance_en": "Provides railway chronology for the Villalba-Segovia line, noting its official opening in June 1888 and entry into service on 1 July 1888.",
+      "relevance_es": "Aporta cronología ferroviaria de la línea Villalba-Segovia, indicando su inauguración oficial en junio de 1888 y su entrada en servicio el 1 de julio de 1888."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the etymology type from descriptive to place: the station is named after the Los Negrales residential area; the pine explanation belongs to the older place-name.",
+      "es": "Cambiar el tipo de etimología de descriptivo a lugar: la estación toma el nombre de la zona residencial de Los Negrales; la explicación del pino corresponde al topónimo previo."
+    },
+    {
+      "en": "Do not state without qualification that pino negral always means Pinus pinaster; specialist sources note that the same vernacular name can refer to Pinus nigra in other regions, although Pinus pinaster is documented as pino negral in Madrid.",
+      "es": "No afirmar sin matices que pino negral siempre significa Pinus pinaster; las fuentes especializadas indican que el mismo nombre vulgar puede referirse a Pinus nigra en otras regiones, aunque Pinus pinaster está documentado como pino negral en Madrid."
+    },
+    {
+      "en": "The local EducaMadrid page describes Los Negrales as belonging to the municipal terms of Collado Villalba, Alpedrete, San Lorenzo de El Escorial, Guadarrama and Galapagar, not only to Alpedrete, Collado Villalba and Galapagar.",
+      "es": "La página local de EducaMadrid describe Los Negrales como perteneciente a los términos municipales de Collado Villalba, Alpedrete, San Lorenzo de El Escorial, Guadarrama y Galapagar, no solo a Alpedrete, Collado Villalba y Galapagar."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The exact administrative act or date assigning the station name Los Negrales was not found; railway archives or Adif historical station files may clarify whether the stop existed under this name from the original line opening or was added/renamed later.",
+      "es": "No se ha localizado el acto administrativo ni la fecha exacta de asignación del nombre Los Negrales a la estación; los archivos ferroviarios o expedientes históricos de Adif podrían aclarar si el apeadero existía con este nombre desde la apertura original de la línea o si fue añadido o renombrado después."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_074/en/summary.short.md",
+      "summary": "content/stations/cercanias_074/en/summary.md",
+      "story": "content/stations/cercanias_074/en/story.md",
+      "confidence": "content/stations/cercanias_074/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_074/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_074/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_074/es/summary.short.md",
+      "summary": "content/stations/cercanias_074/es/summary.md",
+      "story": "content/stations/cercanias_074/es/story.md",
+      "confidence": "content/stations/cercanias_074/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_074/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_074/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+El origen toponímico está respaldado por los registros actuales de Adif/Renfe y por la entrada directa de Toponomasticon Hispaniae sobre Villaverde. La cronología ferroviaria del nombre está respaldada por un estudio especializado de historia ferroviaria, que aporta el nombre anterior, la fecha de la Real Orden y la fecha de 1931 como categoría de estación.

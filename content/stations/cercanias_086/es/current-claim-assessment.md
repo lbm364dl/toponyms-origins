@@ -1,0 +1,1 @@
+La estación está correctamente identificada como llamada por Vallecas, y la forma medieval Balecas en el Fuero de Madrid de 1202 está bien atestiguada. La explicación lingüística de Federico Corriente es plausible y más sólida que la leyenda de Kas, pero la localicé solo a través de citas secundarias de historia local, no en una publicación primaria inspeccionada de Corriente.

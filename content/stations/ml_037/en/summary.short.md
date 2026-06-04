@@ -1,0 +1,1 @@
+Puerta de Boadilla is the outer terminus of ML3 and names itself as the transport gateway to Boadilla del Monte. The municipal name is medieval and probably belongs to a family of Boadilla/Bobadilla place names whose exact root is debated.

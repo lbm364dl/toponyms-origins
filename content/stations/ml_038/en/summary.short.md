@@ -1,0 +1,1 @@
+Plaza de Toros is a descriptive stop name for Parla's bullring, a landmark beside the southern part of the circular tram route. The current municipal bullring was built in 2003, before the Tranvia de Parla opened in 2007.

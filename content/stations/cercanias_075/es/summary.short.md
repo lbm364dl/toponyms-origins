@@ -1,0 +1,1 @@
+La estación de Alpedrete toma su nombre del municipio al que sirve. El topónimo se explica mejor como una forma arabizada del latín tardío *PĔTRĒTU, 'lugar de piedras' o 'cantera', muy adecuado para una villa históricamente ligada al granito.

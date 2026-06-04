@@ -1,0 +1,1 @@
+La estación José Isbert toma su nombre de la calle José Isbert, en la Ciudad de la Imagen de Pozuelo de Alarcón. La calle recuerda a Pepe Isbert, uno de los actores cómicos más reconocibles del cine español y figura clave de películas como Bienvenido, Mister Marshall y El verdugo.

@@ -1,0 +1,1 @@
+Valdelasfuentes toma su nombre de la zona de Alcobendas vinculada al antiguo arroyo y camino de Valdelasfuentes. Es un topónimo descriptivo: val significa 'valle' y fuentes alude a manantiales o fuentes.

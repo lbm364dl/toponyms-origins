@@ -1,0 +1,1 @@
+La estación de Zarzaquemada toma su nombre del barrio de Leganés al que da servicio. El topónimo se entiende como un compuesto descriptivo de zarza y quemada, probablemente ligado a un terreno de zarzales quemado o roturado con fuego.

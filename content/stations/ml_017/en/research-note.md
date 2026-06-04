@@ -1,0 +1,1 @@
+No evidence was found that the station had a former name. The best dataset update would keep the core etymology verified but soften the causal language around Spain's 1986 EEC entry: the street cluster is demonstrably European, while the specific political-cultural motive remains unverified.

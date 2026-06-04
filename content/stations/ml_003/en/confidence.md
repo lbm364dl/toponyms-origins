@@ -1,0 +1,1 @@
+The immediate source of the station name is well supported by official transport and municipal locality sources, and the parish provides a detailed local tradition explaining the older religious name. Confidence is kept at probable because the precise 1966 planning claim and developer chronology were not verified in a primary planning file during this research.

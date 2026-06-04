@@ -1,0 +1,111 @@
+{
+  "id": "ml_052",
+  "name": "Polígono Industrial Ciudad de Parla",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Polígono Industrial Ciudad de Parla",
+  "previous_names": "",
+  "naming_date": "2007-09-08",
+  "sources": [
+    {
+      "title": "CRTM - Polígono Industrial Ciudad de Parla",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_68/",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the current station name, surface-station status, fare zone B2 and access at Calle Berlín, 52 in Parla.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre actual de la estación, su condición de parada en superficie, la zona tarifaria B2 y el acceso en la calle Berlín, 52 de Parla."
+    },
+    {
+      "title": "Tranvía de Parla - Tranvía de Parla S.A.",
+      "url": "https://www.viaparla.com/",
+      "type": "official",
+      "relevance_en": "Operator page confirming Tranvía de Parla as the service provider and giving current service context for the tram system.",
+      "relevance_es": "Página del operador que confirma a Tranvía de Parla como prestador del servicio y aporta contexto actual del sistema tranviario."
+    },
+    {
+      "title": "Tranvía de Parla, Juan Carlos López Peco, Federación Castellano Manchega de Amigos del Ferrocarril, January 2025",
+      "url": "https://fcmaf.es/Publicaciones/Tranvia_Parla.pdf",
+      "type": "reference",
+      "relevance_en": "Provides a detailed tram chronology: the Parque Parla Este-Polígono Industrial Ciudad de Parla section opened on 8 September 2007 and the Polígono Industrial-Plaza de Toros section on 21 May 2008.",
+      "relevance_es": "Aporta una cronología detallada del tranvía: el tramo Parque Parla Este-Polígono Industrial Ciudad de Parla abrió el 8 de septiembre de 2007 y el tramo Polígono Industrial-Plaza de Toros el 21 de mayo de 2008."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Relación de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Municipal transparency inventory repeatedly records properties and parcels under the name Polígono Industrial Ciudad de Parla, supporting it as a real local place-name.",
+      "relevance_es": "El inventario municipal de transparencia recoge repetidamente bienes y parcelas bajo la denominación Polígono Industrial Ciudad de Parla, lo que respalda su uso como topónimo local real."
+    },
+    {
+      "title": "BOCM - Plan de calidad del aire de la zona EDUSI del municipio de Parla",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2020/03/21/BOCM-20200321-5.PDF",
+      "type": "official",
+      "relevance_en": "Official publication noting that Parla has several industrial estates and that Ciudad de Parla had 78 companies, mainly linked to automotive activity and metal or school furniture manufacturing.",
+      "relevance_es": "Publicación oficial que señala que Parla cuenta con varios polígonos industriales y que Ciudad de Parla tenía 78 empresas, principalmente vinculadas al automóvil y a la fabricación de muebles metálicos o escolares."
+    },
+    {
+      "title": "Ayuntamiento de Parla - Anuario demográfico 2024",
+      "url": "https://transparencia.ayuntamientoparla.es/wp-content/uploads/2025/11/Anuario-demografico-2024.pdf",
+      "type": "official",
+      "relevance_en": "Gives official demographic context: Parla's small early twentieth-century population, major growth from the late 1960s, and 134,833 inhabitants in 2024.",
+      "relevance_es": "Aporta contexto demográfico oficial: la reducida población de Parla a comienzos del siglo XX, el gran crecimiento desde finales de los sesenta y los 134.833 habitantes de 2024."
+    },
+    {
+      "title": "RAE - Diccionario del estudiante: polígono",
+      "url": "https://www.rae.es/diccionario-estudiante/pol%C3%ADgono",
+      "type": "reference",
+      "relevance_en": "Confirms the Spanish urban meaning of polígono as a delimited urban unit for a specific purpose, with polígono industrial as an example.",
+      "relevance_es": "Confirma el sentido urbanístico español de polígono como unidad urbana delimitada para un fin específico, con polígono industrial como ejemplo."
+    },
+    {
+      "title": "Europa Press - Blanco suscribe un protocolo para aumentar el suelo industrial en Parla",
+      "url": "https://www.europapress.es/madrid/noticia-blanco-suscribe-protocolo-aumentar-suelo-industrial-parla-20110329112236.html",
+      "type": "press",
+      "relevance_en": "Reports, citing the Ministry of Fomento, that SEPES had developed an industrial business park of about 30 hectares in Parla; useful for SEPES context but not a definitive naming source.",
+      "relevance_es": "Informa, citando al Ministerio de Fomento, de que SEPES había desarrollado en Parla un parque empresarial industrial de unas 30 hectáreas; es útil para el contexto de SEPES, aunque no es una fuente definitiva sobre la denominación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the etymology type from purely descriptive to place/descriptive-place: the station is named after a specific industrial estate, not after the generic expression alone.",
+      "es": "Sustituir el tipo etimológico puramente descriptivo por lugar/topónimo descriptivo: la estación toma el nombre de un polígono industrial concreto, no solo de la expresión genérica."
+    },
+    {
+      "en": "Do not state as verified that SEPES developed the estate in the early 2000s; available sources support SEPES involvement but do not firmly prove that date, and one local source points to 1988.",
+      "es": "No afirmar como verificado que SEPES desarrolló el polígono a principios de los 2000; las fuentes disponibles apoyan la intervención de SEPES, pero no prueban con firmeza esa fecha, y una fuente local apunta a 1988."
+    },
+    {
+      "en": "Clarify that the stop was a temporary end of service after the September 2007 extension, but the current Tranvía de Parla is circular and the loop was completed in May 2008.",
+      "es": "Aclarar que la parada fue un final provisional de servicio tras la ampliación de septiembre de 2007, pero el Tranvía de Parla actual es circular y el anillo se completó en mayo de 2008."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect SEPES or municipal planning files for the original approval and development dates of the Polígono Industrial Ciudad de Parla.",
+      "es": "Consultar expedientes de SEPES o de planeamiento municipal para precisar las fechas originales de aprobación y desarrollo del Polígono Industrial Ciudad de Parla."
+    },
+    {
+      "en": "Confirm whether a formal station-naming resolution exists, or whether the name was simply adopted from the planned stop name when the 2007 section opened.",
+      "es": "Confirmar si existe una resolución formal de denominación de la parada, o si el nombre se adoptó directamente de la denominación prevista al abrirse el tramo de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_052/en/summary.short.md",
+      "summary": "content/stations/ml_052/en/summary.md",
+      "story": "content/stations/ml_052/en/story.md",
+      "confidence": "content/stations/ml_052/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_052/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_052/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_052/es/summary.short.md",
+      "summary": "content/stations/ml_052/es/summary.md",
+      "story": "content/stations/ml_052/es/story.md",
+      "confidence": "content/stations/ml_052/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_052/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_052/es/research-note.md"
+    }
+  }
+}

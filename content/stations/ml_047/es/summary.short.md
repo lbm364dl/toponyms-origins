@@ -1,0 +1,1 @@
+Avenida Sistema Solar recibe su nombre de la Avenida del Sistema Solar, en Parla Este. La avenida forma parte de un barrio moderno cuyo callejero se organiza con nombres de planetas, estrellas, constelaciones y otros motivos astronómicos.

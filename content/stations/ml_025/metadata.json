@@ -1,0 +1,114 @@
+{
+  "id": "ml_025",
+  "name": "Ciudad del Cine",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "the cinema and audiovisual area around Kinépolis Madrid Ciudad de la Imagen in Pozuelo de Alarcón",
+  "previous_names": "",
+  "naming_date": "27 July 2007",
+  "sources": [
+    {
+      "title": "Metro Ligero Oeste - Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms Metro Ligero Oeste operates ML3, that the line runs from Colonia Jardín to Puerta de Boadilla, and that the system's inauguration date was 27/07/07.",
+      "relevance_es": "Confirma que Metro Ligero Oeste explota la ML3, que la línea va de Colonia Jardín a Puerta de Boadilla y que la fecha de inauguración del sistema fue el 27/07/07."
+    },
+    {
+      "title": "Parque empresarial Ciudad de la Imagen - Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/empleo-y-empresas/empresas-y-emprendimiento/grandes-empresas-e-inversion/parques-empresariales/parque-empresarial-ciudad-de-la-imagen",
+      "type": "official",
+      "relevance_en": "Identifies Ciudad de la Imagen as an audiovisual-themed office and leisure complex in Pozuelo de Alarcón and notes public transport access by Metro Ligero line 3.",
+      "relevance_es": "Identifica la Ciudad de la Imagen como complejo de oficinas y ocio de temática audiovisual en Pozuelo de Alarcón y señala el acceso en transporte público mediante Metro Ligero línea 3."
+    },
+    {
+      "title": "Historia - Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/historia",
+      "type": "official",
+      "relevance_en": "Provides municipal historical context for Pozuelo's late-20th-century transformation and the concentration of audiovisual and telecommunications activity in Ciudad de la Imagen.",
+      "relevance_es": "Aporta contexto histórico municipal sobre la transformación de Pozuelo a finales del siglo XX y la concentración de actividad audiovisual y de telecomunicaciones en la Ciudad de la Imagen."
+    },
+    {
+      "title": "Kinépolis Madrid Ciudad de la Imagen - Kinepolis España",
+      "url": "https://kinepolis.es/cines/kinepolis-madrid-ciudad-de-la-imagen/informacion",
+      "type": "official",
+      "relevance_en": "Documents Kinépolis Madrid Ciudad de la Imagen as the cinema complex beside the stop, opened in Spain in 1998 with 25 screens and more than 9,200 seats, and lists ML3 Ciudad del Cine as public transport access.",
+      "relevance_es": "Documenta Kinépolis Madrid Ciudad de la Imagen como el complejo cinematográfico junto a la parada, abierto en España en 1998 con 25 salas y más de 9.200 butacas, y cita la ML3 Ciudad del Cine como acceso en transporte público."
+    },
+    {
+      "title": "Largest cinema complex - seats - Guinness World Records",
+      "url": "https://www.guinnessworldrecords.com/world-records/69257-largest-cinema-complex-seats",
+      "type": "reference",
+      "relevance_en": "Verifies the Guinness record claim for Kinepolis Madrid on 17 September 1998, with 9,200 seats across 25 screens.",
+      "relevance_es": "Verifica la afirmación del récord Guinness de Kinepolis Madrid el 17 de septiembre de 1998, con 9.200 butacas en 25 salas."
+    },
+    {
+      "title": "Instalaciones - ECAM",
+      "url": "https://ecam.es/instalaciones/",
+      "type": "official",
+      "relevance_en": "Confirms ECAM is located in Ciudad de la Imagen, Pozuelo de Alarcón, and describes its relationship with nearby audiovisual-sector companies.",
+      "relevance_es": "Confirma que la ECAM se ubica en la Ciudad de la Imagen, Pozuelo de Alarcón, y describe su relación con empresas cercanas del sector audiovisual."
+    },
+    {
+      "title": "Coservación fílmica - Filmoteca Española | Ministerio de Cultura",
+      "url": "https://www.cultura.gob.es/cultura/areas/cine/mc/fe/conservacion-filmica.html",
+      "type": "official",
+      "relevance_en": "Search-accessible official source indicating that Filmoteca Española's Carlos Saura Film Conservation and Restoration Centre is in Ciudad de la Imagen and was inaugurated in 2014; the page itself returned a fetch error during inspection.",
+      "relevance_es": "Fuente oficial accesible vía búsqueda que indica que el Centro de Conservación y Restauración de Fondos Fílmicos Carlos Saura de la Filmoteca Española está en la Ciudad de la Imagen y fue inaugurado en 2014; la página devolvió un error de carga durante la consulta."
+    },
+    {
+      "title": "Telemadrid comienza su mudanza a la Ciudad de la Imagen - El País",
+      "url": "https://elpais.com/diario/1997/02/15/madrid/856009459_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary report describing Ciudad de la Imagen as a large audiovisual-industry business park in Pozuelo and documenting Telemadrid's move there before the light-rail station existed.",
+      "relevance_es": "Crónica contemporánea que describe la Ciudad de la Imagen como un gran polígono destinado a industrias audiovisuales en Pozuelo y documenta el traslado de Telemadrid antes de existir la estación de metro ligero."
+    },
+    {
+      "title": "Pozuelo congela la Ciudad de la Imagen porque no puede tratar sus desechos - El País",
+      "url": "https://elpais.com/diario/1993/12/13/madrid/755785486_850215.html",
+      "type": "press",
+      "relevance_en": "Provides early-1990s chronology: the Community of Madrid began urbanising Ciudad de la Imagen in 1990 as an audiovisual business park in Pozuelo.",
+      "relevance_es": "Aporta cronología de comienzos de los años noventa: la Comunidad de Madrid empezó en 1990 la urbanización de la Ciudad de la Imagen como polígono audiovisual en Pozuelo."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the named-after location from Boadilla del Monte to Pozuelo de Alarcón / Ciudad de la Imagen; ML3 serves Boadilla later in the route, but this station is in Pozuelo.",
+      "es": "Cambiar la ubicación del elemento nombrado de Boadilla del Monte a Pozuelo de Alarcón / Ciudad de la Imagen; la ML3 llega después a Boadilla, pero esta estación está en Pozuelo."
+    },
+    {
+      "en": "Frame 'Ciudad del Cine' as a descriptive transport name for the cinema/audiovisual area, not as a separately proven formal district name.",
+      "es": "Presentar «Ciudad del Cine» como un nombre descriptivo de transporte para el área cinematográfica y audiovisual, no como un distrito formal independiente si no se aporta una fuente específica."
+    },
+    {
+      "en": "Avoid the unsourced superlative that it is Spain's most concentrated media production district unless a stronger planning or industry source is added.",
+      "es": "Evitar la afirmación no documentada de que es el distrito de producción audiovisual más concentrado de España salvo que se añada una fuente sectorial o urbanística más sólida."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A BOCM tender, concession document or CRTM station-naming record could confirm the formal naming date and whether the name was fixed before the 27 July 2007 opening.",
+      "es": "Un pliego del BOCM, documento de concesión o registro de denominaciones del CRTM podría confirmar la fecha formal de asignación y si el nombre quedó fijado antes de la apertura del 27 de julio de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_025/en/summary.short.md",
+      "summary": "content/stations/ml_025/en/summary.md",
+      "story": "content/stations/ml_025/en/story.md",
+      "confidence": "content/stations/ml_025/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_025/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_025/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_025/es/summary.short.md",
+      "summary": "content/stations/ml_025/es/summary.md",
+      "story": "content/stations/ml_025/es/story.md",
+      "confidence": "content/stations/ml_025/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_025/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_025/es/research-note.md"
+    }
+  }
+}

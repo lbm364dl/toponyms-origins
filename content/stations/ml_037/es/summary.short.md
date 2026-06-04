@@ -1,0 +1,1 @@
+Puerta de Boadilla es la cabecera exterior de la ML3 y se presenta como la puerta de transporte de Boadilla del Monte. El nombre municipal es medieval y pertenece probablemente a la familia de topónimos Boadilla/Bobadilla, cuyo origen exacto sigue discutido.

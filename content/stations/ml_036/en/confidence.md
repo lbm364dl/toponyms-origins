@@ -1,0 +1,1 @@
+The identity behind the name is strongly supported by official and authoritative sources on the palace and on Luis Antonio Jaime de Borbón y Farnesio, and the transport sources confirm the station name and opening context. The only missing item is a formal station-naming act, so the direct administrative reason is inferred from local toponymy and the palace tradition.

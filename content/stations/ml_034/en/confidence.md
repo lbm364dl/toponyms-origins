@@ -1,0 +1,1 @@
+The station’s immediate source-name is verified by Metro Ligero Oeste, and the opening date is documented by MLO corporate information. The semantic explanation of Avenida Nuevo Mundo as an Americas reference is historically sound and supported by nearby official street names, but no primary municipal naming act for the avenue was found.

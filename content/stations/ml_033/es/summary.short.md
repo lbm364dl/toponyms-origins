@@ -1,0 +1,1 @@
+Boadilla Centro recibe su nombre por estar junto a la zona comercial y el casco antiguo de Boadilla del Monte. El topónimo Boadilla pertenece a la difícil familia Boadilla/Bobadilla, quizá derivada de una voz relacionada con bóvedas o de un término ganadero vinculado a bueyes, y del Monte se añadió después para distinguir la localidad y aludir a su terreno arbolado y montuoso.

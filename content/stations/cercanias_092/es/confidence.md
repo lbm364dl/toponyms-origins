@@ -1,0 +1,1 @@
+La relación directa entre la estación y el barrio está apoyada por Renfe, CRTM y Adif. Los componentes léxicos están respaldados por la RAE y el contexto agrario de las rozas por bibliografía de historia agraria, pero no se ha localizado una fuente que documente directamente el microtopónimo original de Leganés ni pruebe un episodio concreto de roza y quema.

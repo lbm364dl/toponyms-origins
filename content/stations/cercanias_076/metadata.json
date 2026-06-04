@@ -1,0 +1,132 @@
+{
+  "id": "cercanias_076",
+  "name": "Collado Mediano",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Collado Mediano, the municipality and its mountain-pass/raised-ground toponym in the Sierra de Guadarrama",
+  "previous_names": "",
+  "naming_date": "1888-07-01 (station opening; no separate naming act found)",
+  "sources": [
+    {
+      "title": "Renfe - Estacion de Collado Mediano | Rodajes Cercanias Madrid",
+      "url": "https://www.renfe.com/es/es/cercanias/cercanias-madrid/rodajes/estacion-collado-mediano",
+      "type": "official",
+      "relevance_en": "Confirms the station location, current C-8 service context, and opening on 1 July 1888 with the Villalba-Segovia section.",
+      "relevance_es": "Confirma la ubicación de la estación, su contexto actual en la C-8 y la apertura el 1 de julio de 1888 con el tramo Villalba-Segovia."
+    },
+    {
+      "title": "Adif - 12004 Collado Mediano",
+      "url": "https://www.adif.es/-/12004-collado-mediano",
+      "type": "official",
+      "relevance_en": "Official infrastructure page confirming the station name, address on Calle Real, and current rail service references.",
+      "relevance_es": "Página oficial de infraestructura que confirma el nombre de la estación, la dirección en la calle Real y referencias al servicio ferroviario actual."
+    },
+    {
+      "title": "Diccionario de la lengua española - collado",
+      "url": "https://dle.rae.es/collado",
+      "type": "reference",
+      "relevance_en": "Authoritative definition and etymology: collado derives from Latin collis and means a raised ground or a gentle pass through a sierra.",
+      "relevance_es": "Definición y etimología autorizadas: collado procede del latín collis y significa una elevación del terreno o un paso suave de sierra."
+    },
+    {
+      "title": "Diccionario de la lengua española - mediano, mediana",
+      "url": "https://dle.rae.es/mediano",
+      "type": "reference",
+      "relevance_en": "Authoritative definition of mediano as intermediate or moderate, neither very large nor very small.",
+      "relevance_es": "Definición autorizada de mediano como intermedio o moderado, ni muy grande ni muy pequeño."
+    },
+    {
+      "title": "Collado Mediano | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/centros/collado-mediano",
+      "type": "official",
+      "relevance_en": "Confirms Collado Mediano as a municipality in the Sierra Central of the Community of Madrid and gives official municipal data.",
+      "relevance_es": "Confirma Collado Mediano como municipio de la Sierra Central de la Comunidad de Madrid y aporta datos municipales oficiales."
+    },
+    {
+      "title": "Collado Mediano, encrucijada de caminos | SierraGuadarrama.info",
+      "url": "https://sierraguadarrama.info/collado-mediano/",
+      "type": "official",
+      "relevance_en": "Tourism/history page giving the local explanation of Collado from Latin collis, the medieval Real de Manzanares context, livestock economy, and the railway stop in 1888.",
+      "relevance_es": "Página turística e histórica que ofrece la explicación local de Collado desde el latín collis, el contexto medieval del Real de Manzanares, la economía ganadera y la parada del ferrocarril en 1888."
+    },
+    {
+      "title": "Ayuntamiento de Collado Mediano - El Real de Manzanares",
+      "url": "https://www.aytocolladomediano.es/tu-ciudad/historia/raices-historicas/nacimiento-castilla",
+      "type": "official",
+      "relevance_en": "Municipal history page describing the Segovia-Madrid disputes, the Real de Manzanares, and Collado Mediano's villazgo context.",
+      "relevance_es": "Página histórica municipal que describe las disputas entre Segovia y Madrid, el Real de Manzanares y el contexto del villazgo de Collado Mediano."
+    },
+    {
+      "title": "Ayuntamiento de Collado Mediano - La produccion agropecuaria en la Edad Media",
+      "url": "https://www.aytocolladomediano.es/tu-ciudad/historia/raices-historicas/produccion-agropecuaria-en-la-edad-media",
+      "type": "official",
+      "relevance_en": "Supports the local pastoral context: sheep, transhumance, drove roads and medieval rural economy in the area.",
+      "relevance_es": "Respalda el contexto pastoril local: ovejas, trashumancia, cañadas y economía rural medieval en la zona."
+    },
+    {
+      "title": "Catalogo de bienes protegidos, Plan General de Collado Mediano",
+      "url": "https://www.aytocolladomediano.es/images/areas/urbanismo/pgou/CATBIEINM.comp.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning catalogue describing the railway station, its late-19th-century railway architecture, and the 1888 railway's effect on the municipality.",
+      "relevance_es": "Catálogo urbanístico municipal que describe la estación, su arquitectura ferroviaria de finales del siglo XIX y el efecto del ferrocarril de 1888 en el municipio."
+    },
+    {
+      "title": "García Pérez, Toponimia de la Sierra de Guadarrama",
+      "url": "https://oa.upm.es/784/1/Toponimia_de_la_Sierra_de_Guadarrama.pdf",
+      "type": "academic",
+      "relevance_en": "Academic toponymy work for the Guadarrama area; inspected text did not show a direct Collado Mediano entry, but it documents related uses such as Collado Abierto and Collado Cerrado in pastoral/toponymic contexts.",
+      "relevance_es": "Trabajo académico de toponimia sobre el Guadarrama; el texto consultado no mostró una entrada directa de Collado Mediano, pero documenta usos relacionados como Collado Abierto y Collado Cerrado en contextos pastoriles y toponímicos."
+    },
+    {
+      "title": "Ediciones La Libreria - Extracto Collado Mediano, una historia en imagenes",
+      "url": "https://edicioneslalibreria.com/wp-content/uploads/2021/02/Extracto-Collado.pdf",
+      "type": "book",
+      "relevance_en": "Book extract with local history, the Latin collis explanation, documentary mentions from 1287, villazgo in 1630, livestock economy and railway arrival in 1888.",
+      "relevance_es": "Extracto de libro con historia local, explicación desde el latín collis, menciones documentales desde 1287, villazgo en 1630, economía ganadera y llegada del ferrocarril en 1888."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the livestock-enclosure explanation as unverified or secondary; the stronger evidence supports a geographic meaning based on raised ground or mountain pass plus 'medium/moderate'.",
+      "es": "Debe tratarse la explicación del cercado ganadero como no verificada o secundaria; la evidencia más sólida respalda un significado geográfico basado en elevación o paso de sierra más 'mediano/moderado'."
+    },
+    {
+      "en": "The Segovian-shepherd repopulation idea should be phrased as one historical hypothesis, not as a settled fact.",
+      "es": "La repoblación por pastores segovianos debe formularse como una hipótesis histórica, no como un hecho cerrado."
+    },
+    {
+      "en": "Use 1 July 1888 as the documented railway opening date; no separate station naming date was found.",
+      "es": "Debe usarse el 1 de julio de 1888 como fecha documentada de apertura ferroviaria; no se encontró una fecha independiente de asignación del nombre de la estación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A local archival naming document or early railway timetable could confirm whether the station name was already printed exactly as Collado Mediano in 1888.",
+      "es": "Un documento de archivo local o un horario ferroviario antiguo podría confirmar si el nombre de la estación ya aparecía impreso exactamente como Collado Mediano en 1888."
+    },
+    {
+      "en": "The precise historical reason for Mediano remains open: moderate size, intermediate position, or a specific pass between basins are plausible, but not decisively proven by the inspected sources.",
+      "es": "La razón histórica exacta de Mediano sigue abierta: tamaño moderado, posición intermedia o un paso concreto entre cuencas son posibilidades verosímiles, pero no quedan probadas de forma concluyente por las fuentes consultadas."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_076/en/summary.short.md",
+      "summary": "content/stations/cercanias_076/en/summary.md",
+      "story": "content/stations/cercanias_076/en/story.md",
+      "confidence": "content/stations/cercanias_076/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_076/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_076/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_076/es/summary.short.md",
+      "summary": "content/stations/cercanias_076/es/summary.md",
+      "story": "content/stations/cercanias_076/es/story.md",
+      "confidence": "content/stations/cercanias_076/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_076/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_076/es/research-note.md"
+    }
+  }
+}

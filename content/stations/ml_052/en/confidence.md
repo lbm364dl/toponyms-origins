@@ -1,0 +1,1 @@
+The official CRTM station page gives the current station name and location at Calle Berlín, 52, matching the municipal industrial-estate name. Transport chronology sources identify the stop as part of the 8 September 2007 extension. The only remaining uncertainty concerns the detailed history of the estate itself, not the station-name origin.

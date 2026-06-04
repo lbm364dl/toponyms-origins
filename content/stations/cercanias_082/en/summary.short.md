@@ -1,0 +1,1 @@
+The Cercanías halt is named for the neighbouring Ramón y Cajal University Hospital. The hospital, opened in 1977, honours Santiago Ramón y Cajal, the Spanish Nobel laureate whose work transformed the study of the nervous system.

@@ -1,0 +1,1 @@
+La estación de Cotos toma su nombre del Puerto de Cotos. El nombre del puerto procede de antiguos mojones de piedra, o cotos, que señalaban los límites de los pinares reales de Valsaín; el mismo paso también fue conocido como Puerto del Paular.

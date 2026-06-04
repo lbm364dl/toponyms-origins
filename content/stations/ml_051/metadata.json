@@ -1,0 +1,122 @@
+{
+  "id": "ml_051",
+  "name": "Jaime I",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Jaime I de Aragón, el Conquistador",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - Jaime I Norte",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_66",
+      "type": "official",
+      "relevance_en": "Official transport page verifying the Jaime I Norte stop on the Metro Ligero/Tranvía network and its Parla surface-station access.",
+      "relevance_es": "Página oficial de transporte que verifica la parada Jaime I Norte en la red de Metro Ligero/Tranvía y su acceso en superficie en Parla."
+    },
+    {
+      "title": "CRTM - Jaime I Sur",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_67",
+      "type": "official",
+      "relevance_en": "Official transport page verifying the Jaime I Sur stop and its access at Avenida de los Planetas in Parla.",
+      "relevance_es": "Página oficial de transporte que verifica la parada Jaime I Sur y su acceso en la avenida de los Planetas de Parla."
+    },
+    {
+      "title": "Portal de Transparencia de Parla - Relación de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Municipal inventory recording Calle Jaime I El Conquistador and nearby monarch-themed streets, supporting the street-derived etymology.",
+      "relevance_es": "Inventario municipal que registra la calle Jaime I El Conquistador y otras calles cercanas de temática monárquica, apoyando la etimología derivada de la vía."
+    },
+    {
+      "title": "CRTM - Tranvía de Parla line diagram",
+      "url": "https://crtm.es/datos_lineas/esquemas/10040.pdf",
+      "type": "official",
+      "relevance_en": "Official line diagram showing Jaime I Norte and Jaime I Sur on Tranvía de Parla.",
+      "relevance_es": "Esquema oficial de línea que muestra Jaime I Norte y Jaime I Sur en el Tranvía de Parla."
+    },
+    {
+      "title": "CRTM - Metros Ligeros y Tranvías en Madrid",
+      "url": "https://www.crtm.es/media/fluk4vaw/metros_ligeros_y_tranvias_en_madrid_bilingue_junio_2010.pdf",
+      "type": "official",
+      "relevance_en": "Official bilingual publication giving context for the Parla tramway, its circular route, operator, 2003-2007 infrastructure-plan context, and official map labels including Jaime I Norte and Jaime I Sur.",
+      "relevance_es": "Publicación oficial bilingüe que contextualiza el Tranvía de Parla, su línea circular, su operador, el marco del Plan de Infraestructuras 2003-2007 y los rótulos oficiales Jaime I Norte y Jaime I Sur."
+    },
+    {
+      "title": "Real Academia de la Historia - Jaime I",
+      "url": "https://historia-hispanica.rah.es/biografias/23492-jaime-i",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry giving Jaime I's birth and death dates, places, titles and historical identity.",
+      "relevance_es": "Entrada biográfica autorizada que proporciona las fechas y lugares de nacimiento y muerte de Jaime I, sus títulos y su identidad histórica."
+    },
+    {
+      "title": "Gobierno de Aragón / DARA - Jaime I el Conquistador",
+      "url": "https://dara.aragon.es/opac/doma/rey10-JaimeI.jsp",
+      "type": "official",
+      "relevance_en": "Aragonese official historical resource summarizing Jaime I's reign and the conquests of Mallorca and Valencia.",
+      "relevance_es": "Recurso histórico oficial aragonés que resume el reinado de Jaime I y las conquistas de Mallorca y Valencia."
+    },
+    {
+      "title": "Biblioteca Virtual de Derecho Aragonés - Introducción al Derecho Aragonés",
+      "url": "https://derechoaragones.aragon.es/es/contenido/Introduccion_Derecho_Aragones.do",
+      "type": "official",
+      "relevance_en": "Legal-history source for the 1247 promulgation of the territorial Fueros of Aragon under Jaime I and the role traditionally assigned to Vidal de Canellas.",
+      "relevance_es": "Fuente de historia jurídica sobre la promulgación territorial de los Fueros de Aragón en 1247 bajo Jaime I y el papel atribuido tradicionalmente a Vidal de Canellas."
+    },
+    {
+      "title": "Studia Historica. Historia Medieval - De los fueros locales al fuero de Valencia",
+      "url": "https://revistas.usal.es/uno/index.php/Studia_H_Historia_Medieval/article/view/shhme20173523762",
+      "type": "academic",
+      "relevance_en": "Academic article supporting the institutional context of Valencia's fueros and their territorial extension in the thirteenth century.",
+      "relevance_es": "Artículo académico que apoya el contexto institucional de los fueros valencianos y su extensión territorial en el siglo XIII."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full local street form, Calle Jaime I El Conquistador, rather than only Calle Jaime I.",
+      "es": "Conviene usar la forma local completa, calle Jaime I El Conquistador, no solo calle Jaime I."
+    },
+    {
+      "en": "The date for Valencia should be worded carefully: 28 September 1238 is commonly tied to surrender or capitulation, while 9 October 1238 is the traditional date of the Christian entry into Valencia.",
+      "es": "La fecha de Valencia debe formularse con cuidado: el 28 de septiembre de 1238 suele asociarse a la rendición o capitulación, mientras que el 9 de octubre de 1238 es la fecha tradicional de la entrada cristiana en Valencia."
+    },
+    {
+      "en": "The Fueros of Aragon should not be described too simply as personally codified by Jaime I; authoritative legal history presents them as a compilation promulgated in 1247, traditionally linked to Vidal de Canellas under royal authority.",
+      "es": "No conviene decir de forma simplificada que Jaime I codificó personalmente los Fueros de Aragón; la historia jurídica los presenta como una compilación promulgada en 1247, tradicionalmente vinculada a Vidal de Canellas bajo autoridad regia."
+    },
+    {
+      "en": "Calling Jaime I 'Spanish' is anachronistic for a thirteenth-century king; 'of the Crown of Aragon' or 'king of Aragon, Mallorca and Valencia' is more precise.",
+      "es": "Llamar 'español' a Jaime I es anacrónico para un rey del siglo XIII; es más preciso decir 'de la Corona de Aragón' o 'rey de Aragón, Mallorca y Valencia'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Parla municipal street-naming records or council minutes to identify when Calle Jaime I El Conquistador was officially named.",
+      "es": "Consultar expedientes de callejero o actas municipales de Parla para identificar cuándo se denominó oficialmente la calle Jaime I El Conquistador."
+    },
+    {
+      "en": "Inspect Tranvía de Parla concession or opening documentation to confirm the formal station-naming act and whether Jaime I Norte and Jaime I Sur opened with the second phase on 8 September 2007 rather than the whole-line date of 5 June 2007 used in CRTM summary material.",
+      "es": "Consultar documentación concesional o de inauguración del Tranvía de Parla para confirmar el acto formal de denominación de la parada y si Jaime I Norte y Jaime I Sur abrieron con la segunda fase el 8 de septiembre de 2007, frente a la fecha general de línea de 5 de junio de 2007 usada en material resumen del CRTM."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_051/en/summary.short.md",
+      "summary": "content/stations/ml_051/en/summary.md",
+      "story": "content/stations/ml_051/en/story.md",
+      "confidence": "content/stations/ml_051/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_051/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_051/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_051/es/summary.short.md",
+      "summary": "content/stations/ml_051/es/summary.md",
+      "story": "content/stations/ml_051/es/story.md",
+      "confidence": "content/stations/ml_051/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_051/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_051/es/research-note.md"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "cercanias_075",
+  "name": "Alpedrete",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Alpedrete, the municipality; from an Arabized form of late Latin *PĔTRĒTU, 'stony place, stone field, quarry'",
+  "previous_names": "Mataespesa / Mataespesa-Alpedrete appears as an alternate or local station designation; no formal former-name date found.",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Toponomasticon Hispaniae: Alpedrete",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/alpedrete",
+      "type": "academic",
+      "relevance_en": "Provides the strongest etymology: Alpedrete as an Arabized form of late Latin *PĔTRĒTU, 'place of stones', 'stone field', or 'quarry', plus historical attestations and related toponyms.",
+      "relevance_es": "Aporta la etimología más sólida: Alpedrete como forma arabizada del latín tardío *PĔTRĒTU, 'lugar de piedras', 'pedregal' o 'cantera', además de documentación histórica y topónimos relacionados."
+    },
+    {
+      "title": "Ayuntamiento de Alpedrete: Un municipio nacido de la piedra",
+      "url": "https://www.alpedrete.es/un-municipio-nacido-de-la-piedra/",
+      "type": "official",
+      "relevance_en": "Confirms the municipality's public historical narrative, its granite-quarry identity, and the two local origin traditions, Ad Petrum and Al Pedrete.",
+      "relevance_es": "Confirma el relato histórico público del municipio, su identidad ligada a las canteras de granito y las dos tradiciones locales de origen, Ad Petrum y Al Pedrete."
+    },
+    {
+      "title": "Ayuntamiento de Alpedrete: Lugares de interés / Turismo en Alpedrete",
+      "url": "https://www.alpedrete.es/download/folleto-desplegable-turismo-en-alpedrete/",
+      "type": "official",
+      "relevance_en": "Official tourism leaflet that repeats the local Ad Petrum and Al Pedrete traditions, states the 1630 villazgo and 1840 separation from Collado Villalba, and describes the historic importance of quarrying.",
+      "relevance_es": "Folleto turístico oficial que recoge las tradiciones locales de Ad Petrum y Al Pedrete, menciona el villazgo de 1630 y la segregación de Collado Villalba en 1840, y describe la importancia histórica de la cantería."
+    },
+    {
+      "title": "Adif: 12002 Alpedrete",
+      "url": "https://www.adif.es/w/12002-alpedrete",
+      "type": "official",
+      "relevance_en": "Confirms the current railway station identity as Alpedrete and shows current Cercanías service information including C8/C8b references.",
+      "relevance_es": "Confirma la identidad ferroviaria actual como Alpedrete y muestra información vigente del servicio de Cercanías con referencias a C8/C8b."
+    },
+    {
+      "title": "Ayuntamiento de Alpedrete: Avanzan las obras de mejora en la estación de tren Mataespesa-Alpedrete",
+      "url": "https://www.alpedrete.es/avanzan-las-obras-de-mejora-en-la-estacion-de-tren-mataespesa-alpedrete/",
+      "type": "official",
+      "relevance_en": "Shows current municipal usage of Mataespesa-Alpedrete and Mataespesa de Alpedrete for the station, useful for alternate-name context.",
+      "relevance_es": "Muestra el uso municipal actual de Mataespesa-Alpedrete y Mataespesa de Alpedrete para la estación, útil como contexto de denominación alternativa."
+    },
+    {
+      "title": "Ayuntamiento de Alpedrete: Se firma el convenio para la remodelación de la estación de Mataespesa",
+      "url": "https://www.alpedrete.es/se-firma-el-convenio-para-la-remodelacion-de-la-estacion-de-mataespesa/",
+      "type": "official",
+      "relevance_en": "Documents the station being called Mataespesa de Alpedrete in a 2019 Renfe-Adif-town council works agreement context.",
+      "relevance_es": "Documenta la denominación Mataespesa de Alpedrete en el contexto de un convenio de obras de 2019 entre Renfe, Adif y el Ayuntamiento."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Keep the 'Arabic al- + Romance/Latin stone-name' explanation, but avoid presenting the municipal Ad Petrum or Al Pedrete stories as equally authoritative.",
+      "es": "Debe mantenerse la explicación 'artículo árabe al- + base romance/latina de piedra', pero no presentar las historias municipales de Ad Petrum o Al Pedrete como igual de autorizadas."
+    },
+    {
+      "en": "The meaning is better given as 'place of stones', 'stone field', or 'quarry' rather than only 'the rocky place'.",
+      "es": "El significado se expresa mejor como 'lugar de piedras', 'pedregal' o 'cantera', no solo como 'el lugar rocoso'."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No primary railway document was found giving the exact date when the station adopted the public name Alpedrete or clarifying the formal status of Mataespesa/Mataespesa-Alpedrete.",
+      "es": "No se ha localizado un documento ferroviario primario que indique la fecha exacta en que la estación adoptó el nombre público Alpedrete ni que aclare el estatus formal de Mataespesa/Mataespesa-Alpedrete."
+    },
+    {
+      "en": "Toponomasticon Hispaniae cites earlier archival and bibliographic forms; inspecting the underlying PARES records and older printed dictionaries would refine the documentary chronology.",
+      "es": "Toponomasticon Hispaniae cita formas archivísticas y bibliográficas antiguas; revisar los registros originales de PARES y los diccionarios impresos antiguos permitiría afinar la cronología documental."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_075/en/summary.short.md",
+      "summary": "content/stations/cercanias_075/en/summary.md",
+      "story": "content/stations/cercanias_075/en/story.md",
+      "confidence": "content/stations/cercanias_075/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_075/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_075/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_075/es/summary.short.md",
+      "summary": "content/stations/cercanias_075/es/summary.md",
+      "story": "content/stations/cercanias_075/es/story.md",
+      "confidence": "content/stations/cercanias_075/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_075/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_075/es/research-note.md"
+    }
+  }
+}

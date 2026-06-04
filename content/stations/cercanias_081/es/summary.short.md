@@ -1,0 +1,1 @@
+La estación de Cercanías combina el nombre del barrio, Mirasierra, con Paco de Lucía, el guitarrista flamenco homenajeado en la estación de Metro contigua. El nombre sustituyó referencias previas de proyecto como Costa Brava tras la decisión de la Comunidad de Madrid en febrero de 2014.

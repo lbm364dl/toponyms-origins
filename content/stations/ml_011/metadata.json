@@ -1,0 +1,107 @@
+{
+  "id": "ml_011",
+  "name": "Prado de la Vega",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Prado de la Vega, a residential/local area name in Pozuelo de Alarcón",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro Ligero Colonia Jardín-Pozuelo de Alarcón",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Community of Madrid infrastructure page verifying the line’s opening date, route, station list, and Prado de la Vega’s location by the M-502 and Hospital Quirón.",
+      "relevance_es": "Página de infraestructuras de la Comunidad de Madrid que verifica la fecha de puesta en servicio, el trazado, la lista de estaciones y la ubicación de Prado de la Vega junto a la M-502 y el Hospital Quirón."
+    },
+    {
+      "title": "Metro ligero | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/transportes-y-movilidad/red-de-transporte-publico/metro-ligero",
+      "type": "official",
+      "relevance_en": "Municipal source identifying ML2 service to Hospital Quirón and the residential area of Prado de la Vega, supporting the local-place-name explanation.",
+      "relevance_es": "Fuente municipal que identifica el servicio de la ML2 al centro hospitalario Quirón y a la zona residencial de Prado de la Vega, apoyando la explicación como topónimo local."
+    },
+    {
+      "title": "MLO Customer Service Centre - Prado de la Vega",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "Operator page confirming that Prado de la Vega is an ML2 station in Pozuelo de Alarcón next to the Carabanchel road and close to Quirón Hospital.",
+      "relevance_es": "Página del operador que confirma que Prado de la Vega es una estación de la ML2 en Pozuelo de Alarcón, junto a la carretera de Carabanchel y próxima al Hospital Quirón."
+    },
+    {
+      "title": "prado | Diccionario de la lengua española",
+      "url": "https://dle.rae.es/prado",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for the meaning and Latin origin of prado.",
+      "relevance_es": "Fuente lexicográfica autorizada para el significado y el origen latino de prado."
+    },
+    {
+      "title": "vega | Diccionario de la lengua española",
+      "url": "https://dle.rae.es/vega",
+      "type": "reference",
+      "relevance_en": "Authoritative dictionary source for the meaning of vega and its pre-Roman etymology.",
+      "relevance_es": "Fuente lexicográfica autorizada para el significado de vega y su etimología prerromana."
+    },
+    {
+      "title": "El asentamiento visigodo de 'La Vega'",
+      "url": "https://www.soloboadilla.es/boadilla-y-su-historia/boadilla-y-su-historia/news/el-asentamiento-visigodo-de-la-vega/",
+      "type": "press",
+      "relevance_en": "Local historical article summarizing the 1996 discovery of the Visigothic settlement La Vega in Boadilla and stating that it was named after an existing local toponym.",
+      "relevance_es": "Artículo histórico local que resume el hallazgo en 1996 del asentamiento visigodo de La Vega en Boadilla y señala que se denominó así por el topónimo existente en la zona."
+    },
+    {
+      "title": "Actas RAM 2019 - De Miacum a Titulcia / archaeological references around Arroyo de la Vega",
+      "url": "https://arqueologiademadrid-cdl.org/wp-content/uploads/2021/02/Actas-RAM-2019_BR.pdf",
+      "type": "academic",
+      "relevance_en": "Academic proceedings snippet corroborating La Vega as a small Visigothic site near the Arroyo de la Vega/Arroyo de los Pastores and mentioning thirteen rectangular rooms; access to the full PDF was blocked during inspection.",
+      "relevance_es": "Actas académicas cuyo resumen corroboró La Vega como pequeño yacimiento visigodo junto al arroyo de la Vega/arroyo de los Pastores y mencionó trece estancias rectangulares; el acceso completo al PDF quedó bloqueado durante la consulta."
+    },
+    {
+      "title": "Agenda Urbana de Boadilla del Monte",
+      "url": "https://www.ayuntamientoboadilladelmonte.org/sites/default/files/agenda_urbana_de_boadilla_del_monte.pdf",
+      "type": "official",
+      "relevance_en": "Municipal planning document noting the San Babilés archaeological site and a Visigothic necropolis, useful for wider context but not direct station naming.",
+      "relevance_es": "Documento municipal de planificación que menciona el yacimiento de San Babilés y una necrópolis visigoda, útil como contexto amplio pero no como denominación directa de la estación."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state that vega comes from Latin or simply means 'of the fertile plain'; the RAE derives vega from a pre-Roman form vaica and defines it as low, flat, fertile land generally watered by a river or canal.",
+      "es": "No debe afirmarse que vega proceda del latín ni reducirse a «de la llanura fértil»; la RAE la deriva de una forma prerromana vaica y la define como terreno bajo, llano y fértil, regado generalmente por un río o canal."
+    },
+    {
+      "en": "The Visigothic settlement La Vega is useful context but appears to be in Boadilla del Monte, not the immediate station site in Pozuelo; it should not be framed as the direct source of the station name unless a naming source is found.",
+      "es": "El asentamiento visigodo de La Vega es contexto útil, pero aparece situado en Boadilla del Monte, no en el emplazamiento inmediato de la estación en Pozuelo; no debe presentarse como fuente directa del nombre salvo que se localice una fuente de denominación."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect CRTM or concession planning documents for the final station-name list to confirm whether the stop was named after the residential area, a street, or a pre-existing planning-sector name.",
+      "es": "Conviene revisar documentos de planificación del CRTM o de la concesión con la lista final de estaciones para confirmar si la parada se nombró por la zona residencial, por una calle o por un nombre previo de sector urbanístico."
+    },
+    {
+      "en": "Check municipal urban-planning records for when the Prado de la Vega residential area or street name was formally adopted.",
+      "es": "Conviene revisar expedientes urbanísticos municipales para saber cuándo se adoptó formalmente el nombre de la zona residencial o de la calle Prado de la Vega."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_011/en/summary.short.md",
+      "summary": "content/stations/ml_011/en/summary.md",
+      "story": "content/stations/ml_011/en/story.md",
+      "confidence": "content/stations/ml_011/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_011/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_011/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_011/es/summary.short.md",
+      "summary": "content/stations/ml_011/es/summary.md",
+      "story": "content/stations/ml_011/es/story.md",
+      "confidence": "content/stations/ml_011/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_011/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_011/es/research-note.md"
+    }
+  }
+}

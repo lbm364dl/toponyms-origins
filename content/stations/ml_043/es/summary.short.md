@@ -1,0 +1,1 @@
+La parada toma su nombre combinado del Bulevar Sur de Parla y de Miguel Ángel Blanco Garrido, concejal del PP en Ermua secuestrado y asesinado por ETA en julio de 1997. Parla dio su nombre al bulevar en 2019 y la parada del tranvía adoptó la denominación conmemorativa en marzo de 2022.

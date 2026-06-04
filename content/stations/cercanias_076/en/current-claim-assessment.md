@@ -1,0 +1,1 @@
+The core claim is correct: the station is named for the municipality of Collado Mediano. The derivation of collado from Latin collis and the ordinary meaning of mediano are well supported, but the specific explanation that the name meant a medium-sized livestock enclosure is not directly documented in the stronger sources checked.

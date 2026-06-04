@@ -1,0 +1,1 @@
+Nuevo Mundo recibe su nombre de la Avenida Nuevo Mundo, en Boadilla del Monte. El nombre de la avenida evoca el término histórico europeo para América, reforzado por calles cercanas dedicadas a Colón, Cortés, Pizarro, Orellana y otros personajes de la expansión ibérica.

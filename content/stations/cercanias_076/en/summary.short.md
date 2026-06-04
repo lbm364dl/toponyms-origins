@@ -1,0 +1,1 @@
+The station is named after the municipality of Collado Mediano. The place-name combines collado, a raised ground or gentle mountain pass, with mediano, probably describing its moderate or intermediate character in the local Guadarrama landscape.

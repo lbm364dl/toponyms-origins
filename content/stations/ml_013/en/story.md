@@ -1,0 +1,9 @@
+Prado del Rey station takes its name from the surrounding Prado del Rey area in Pozuelo de Alarcón. Metro Ligero Oeste describes the stop as an ML2 station in the similarly named district, next to the Spanish National Television studios. The transport name is therefore a local place-name transfer rather than a dedication created for the tram itself.
+
+The words are transparent in Spanish. The Real Academia Española defines 'prado' as wet or irrigated land where grass is grown or left for livestock pasture, and gives its origin as Latin 'pratum'. 'Del Rey' means 'of the king', so the literal reading is 'the King's meadow' or 'the King's pasture'.
+
+The landscape around the name gives that reading historical weight, although not every detail is equally well documented. The Arroyo de Prado del Rey is recorded in modern references to Pozuelo and the Casa de Campo boundary area, and official transport mapping still shows Calle Prado del Rey near the stop. The nearby Casa de Campo was historically a royal estate and hunting landscape; its wall, streams and western gates shaped the edge between Madrid and Pozuelo.
+
+In the twentieth century the name became nationally familiar for a different reason: broadcasting. RTVE's Prado del Rey studios were founded in 1964 to replace TVE's Paseo de la Habana facilities, and RTVE records the inauguration date as 18 July 1964. From 1965 the complex also housed production for the Second Channel, and in 1971 Radio Nacional de España moved there into the Casa de la Radio.
+
+The safest public explanation is that the station is named after the Prado del Rey place name, whose literal meaning points to a royal meadow and whose local setting lies beside the historic royal Casa de Campo landscape. The common statement that the area was a royal hunting ground is plausible in broad context, but it should be phrased carefully unless a cadastral or archival source is found proving the exact land history of the stop site.

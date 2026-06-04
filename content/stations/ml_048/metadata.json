@@ -1,0 +1,111 @@
+{
+  "id": "ml_048",
+  "name": "Tierra",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "descriptive",
+  "recommended_named_after": "Calle Planeta Tierra / Planet Earth",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "CRTM - Tranvía de Parla line 4",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero/lineas/10__4___?lang=en",
+      "type": "official",
+      "relevance_en": "Official transport source listing the Tranvia de Parla route and the stop names Tierra Norte and Tierra Sur.",
+      "relevance_es": "Fuente oficial de transporte que enumera la línea Tranvia de Parla y las paradas Tierra Norte y Tierra Sur."
+    },
+    {
+      "title": "CRTM - Tierra Norte station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_60?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms Tierra Norte as an official light rail/tram stop, with access at Avenida de las Estrellas in Parla.",
+      "relevance_es": "Confirma Tierra Norte como parada oficial de metro ligero/tranvía, con acceso en la avenida de las Estrellas de Parla."
+    },
+    {
+      "title": "CRTM - Tierra Sur station page",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_61?lang=en",
+      "type": "official",
+      "relevance_en": "Confirms Tierra Sur as an official light rail/tram stop, with access at Avenida de los Planetas in Parla.",
+      "relevance_es": "Confirma Tierra Sur como parada oficial de metro ligero/tranvía, con acceso en la avenida de los Planetas de Parla."
+    },
+    {
+      "title": "Portal de Transparencia de Parla - Relación de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Municipal inventory identifying Calle Planeta Tierra in Residencial Este and listing surrounding astronomical street names such as Avenida de los Planetas, Avenida de las Estrellas, Avenida del Sistema Solar, planet streets, star streets and constellation streets.",
+      "relevance_es": "Inventario municipal que identifica la calle Planeta Tierra en Residencial Este y enumera nombres astronómicos del entorno, como avenida de los Planetas, avenida de las Estrellas, avenida del Sistema Solar, calles de planetas, calles de estrellas y calles de constelaciones."
+    },
+    {
+      "title": "Comunidad de Madrid - Callejero municipal de Parla",
+      "url": "https://gestiona.comunidad.madrid/iestadis/fijas/estructu/general/territorio/descarga/poster1065.pdf",
+      "type": "official",
+      "relevance_en": "Official municipal street map/index confirming Calle Planeta Tierra and many other astronomical street names in Parla.",
+      "relevance_es": "Callejero oficial que confirma la calle Planeta Tierra y numerosos nombres astronómicos en Parla."
+    },
+    {
+      "title": "BOE-B-2001-113091 - Consorcio Urbanístico Parla-Este",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2001-113091",
+      "type": "official",
+      "relevance_en": "Documents the 2001 urbanization process for the Plan Parcial area 4 bis, Residencial Este de Parla, giving context for the modern planned neighborhood where the station name arose.",
+      "relevance_es": "Documenta el proceso de urbanización de 2001 del Plan Parcial ámbito 4 bis, Residencial Este de Parla, y aporta contexto sobre el barrio moderno planificado donde surgió el nombre de la parada."
+    },
+    {
+      "title": "Madridiario - Un millón y medio de personas han utilizado el tranvía de Parla",
+      "url": "https://www.madridiario.es/noticia/52754/municipios/un-millon-y-medio-de-personas-han-utilizado-el-tranvia-de-parla.html",
+      "type": "press",
+      "relevance_en": "Press report stating that the second phase of the tram entered service in September 2007 to connect the city center with the new Parla Este neighborhood.",
+      "relevance_es": "Crónica de prensa que indica que la segunda fase del tranvía se puso en marcha en septiembre de 2007 para comunicar el centro con el nuevo barrio de Parla Este."
+    },
+    {
+      "title": "Ciudad FCC - Tranvía de Parla",
+      "url": "https://www.ciudadfcc.com/-/tranvia-de-parla",
+      "type": "other",
+      "relevance_en": "Project description explaining the tram's circular route, its stops, and the phase running through the new Parla Este development.",
+      "relevance_es": "Descripción del proyecto que explica el recorrido circular del tranvía, sus paradas y la fase que discurre por el nuevo desarrollo de Parla Este."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the official street name 'Calle Planeta Tierra', not 'Calle Tierra'.",
+      "es": "Usar el nombre oficial 'calle Planeta Tierra', no 'calle Tierra'."
+    },
+    {
+      "en": "Treat the 'third orbital position' explanation as an inference or interpretive note unless a municipal naming document is found.",
+      "es": "Tratar la explicación de la 'tercera posición orbital' como inferencia o nota interpretativa salvo que aparezca un documento municipal de denominación que la confirme."
+    },
+    {
+      "en": "The station is a dual tram stop, officially represented as Tierra Norte and Tierra Sur, rather than a single platform location.",
+      "es": "La estación es una parada dual del tranvía, representada oficialmente como Tierra Norte y Tierra Sur, no un único emplazamiento de andén."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the municipal plenary or street-naming file that formally approved the Parla Este astronomical street names and any explanatory rationale.",
+      "es": "Localizar el acuerdo plenario municipal o expediente de nomenclátor que aprobó formalmente los nombres astronómicos de Parla Este y su justificación."
+    },
+    {
+      "en": "Confirm the exact public opening date of Tierra specifically from an operator or official inauguration document; secondary press sources support September 2007 for the Parla Este phase.",
+      "es": "Confirmar la fecha exacta de apertura al público de Tierra en un documento del operador o de inauguración oficial; las fuentes de prensa respaldan septiembre de 2007 para la fase de Parla Este."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_048/en/summary.short.md",
+      "summary": "content/stations/ml_048/en/summary.md",
+      "story": "content/stations/ml_048/en/story.md",
+      "confidence": "content/stations/ml_048/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_048/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_048/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_048/es/summary.short.md",
+      "summary": "content/stations/ml_048/es/summary.md",
+      "story": "content/stations/ml_048/es/story.md",
+      "confidence": "content/stations/ml_048/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_048/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_048/es/research-note.md"
+    }
+  }
+}

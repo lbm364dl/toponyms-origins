@@ -1,0 +1,139 @@
+{
+  "id": "ml_027",
+  "name": "Retamares",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Retamares, a Pozuelo de Alarcón area/toponym probably derived from retamar, 'place populated with retamas (broom shrubs)'",
+  "previous_names": "",
+  "naming_date": "",
+  "sources": [
+    {
+      "title": "Metro Ligero Oeste - Customer Service Centre / station descriptions",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "Identifies Retamares as an ML3 station next to the M-511 and as the closest station to the General Cavalcanti barracks.",
+      "relevance_es": "Identifica Retamares como estación de la ML3 junto a la M-511 y como la parada más cercana al acuartelamiento General Cavalcanti."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid - Retamares station",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_28",
+      "type": "official",
+      "relevance_en": "Official transport listing for Retamares, including ML3 correspondences, fare zone B1, surface-station status, and access on the Boadilla-Carabanchel road.",
+      "relevance_es": "Ficha oficial de transporte de Retamares, con correspondencias de la ML3, zona tarifaria B1, estación en superficie y acceso en la carretera Boadilla-Carabanchel."
+    },
+    {
+      "title": "Metro Ligero Oeste - Información corporativa",
+      "url": "https://www.metroligero-oeste.es/informacion-corporativa",
+      "type": "official",
+      "relevance_en": "Confirms MLO operates ML2 and ML3 and gives 27 July 2007 as the inauguration date for the system.",
+      "relevance_es": "Confirma que MLO opera las líneas ML2 y ML3 y da el 27 de julio de 2007 como fecha de inauguración del sistema."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - retamar",
+      "url": "https://dle.rae.es/retamar",
+      "type": "reference",
+      "relevance_en": "Defines retamar as a place populated by retamas, supporting the botanical interpretation of the toponym.",
+      "relevance_es": "Define retamar como sitio poblado de retamas, lo que respalda la interpretación botánica del topónimo."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - retama",
+      "url": "https://dle.rae.es/retama",
+      "type": "reference",
+      "relevance_en": "Gives the etymology of retama from Hispano-Arabic ratáma and classical Arabic ratamah and defines the shrub.",
+      "relevance_es": "Da la etimología de retama desde el árabe hispánico ratáma y el árabe clásico ratamah, además de definir el arbusto."
+    },
+    {
+      "title": "RAE-ASALE Diccionario de la lengua española - -ar",
+      "url": "https://dle.rae.es/-ar",
+      "type": "reference",
+      "relevance_en": "Explains that the suffix -ar in nouns can indicate a place where the base word abounds, correcting the suffix analysis.",
+      "relevance_es": "Explica que el sufijo -ar en sustantivos puede indicar el lugar donde abunda la palabra primitiva, corrigiendo el análisis del sufijo."
+    },
+    {
+      "title": "Ayuntamiento de Pozuelo de Alarcón - Medio físico",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/tu-ciudad/acerca-de-pozuelo/medio-fisico",
+      "type": "official",
+      "relevance_en": "Municipal geography page mentioning the Arroyo de Retamares as part of Pozuelo's hydrological network, showing Retamares as a local landscape name.",
+      "relevance_es": "Página municipal de geografía que menciona el arroyo de Retamares dentro de la red hídrica de Pozuelo, mostrando Retamares como nombre local del paisaje."
+    },
+    {
+      "title": "Revista Española de Defensa - Retamares, la gran base de operaciones",
+      "url": "https://www.defensa.gob.es/Galerias/gabinete/red/2016/red-328-retamares.pdf",
+      "type": "official",
+      "relevance_en": "Ministry of Defence article documenting NATO's presence at Retamares from 1999 to 30 June 2013 and EMAD's takeover in 2014 with the concentration of major commands.",
+      "relevance_es": "Artículo del Ministerio de Defensa que documenta la presencia de la OTAN en Retamares de 1999 al 30 de junio de 2013 y la asunción de las instalaciones por el EMAD en 2014 con concentración de mandos."
+    },
+    {
+      "title": "EMAD - La Escuela Militar de Ciberoperaciones inaugura su primer curso",
+      "url": "https://emad.defensa.gob.es/prensa/noticias/2023/06/Listado/230619-ni-emco-primer-curso.html",
+      "type": "official",
+      "relevance_en": "Confirms that the Military Cyber Operations School began its first course at Retamares on 19 June 2023 and is integrated in the MCCE.",
+      "relevance_es": "Confirma que la Escuela Militar de Ciberoperaciones inició su primer curso en Retamares el 19 de junio de 2023 y que está integrada en el MCCE."
+    },
+    {
+      "title": "EMAD - Mando Conjunto del Ciberespacio",
+      "url": "https://emad.defensa.gob.es/unidades/mcce/",
+      "type": "official",
+      "relevance_en": "Provides current official context for the MCCE, including its 2020 creation process and the role of the Military Cyber Operations School.",
+      "relevance_es": "Aporta contexto oficial actual sobre el MCCE, incluido su proceso de creación en 2020 y el papel de la Escuela Militar de Ciberoperaciones."
+    },
+    {
+      "title": "EMAD - Mando de Operaciones",
+      "url": "https://emad.defensa.gob.es/unidades/mops/index.html",
+      "type": "official",
+      "relevance_en": "Shows current EMAD organization at Base de Retamares, including MOPS, MCOE and the Retamares Security and Services Headquarters.",
+      "relevance_es": "Muestra la organización actual del EMAD en la Base de Retamares, incluidos el MOPS, el MCOE y la Jefatura de Seguridad y Servicios de Retamares."
+    },
+    {
+      "title": "El Confidencial Digital - El 'Pentágono' español de Retamares va tomando forma",
+      "url": "https://www.elconfidencialdigital.com/defensa/Pentagono-espanol-Retamares-tomando-forma_0_2858714109.html",
+      "type": "press",
+      "relevance_en": "Documents the press nickname 'Spanish Pentagon' and provides secondary context about the concentration of strategic military units at Retamares.",
+      "relevance_es": "Documenta el apodo periodístico 'Pentágono español' y aporta contexto secundario sobre la concentración de unidades estratégicas en Retamares."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the claim 'retama + collective suffix -es' with 'retamar, a place populated by retamas, pluralized as Retamares'; the collective place suffix is -ar, not -es.",
+      "es": "Sustituir la explicación 'retama + sufijo colectivo -es' por 'retamar, sitio poblado de retamas, pluralizado como Retamares'; el sufijo abundancial o de lugar es -ar, no -es."
+    },
+    {
+      "en": "Treat the Base de Retamares material as contextual rather than the origin of the station name; the station is named for the area/toponym, not for NATO or the EMAD commands.",
+      "es": "Tratar la información sobre la Base de Retamares como contexto, no como origen del nombre de la estación; la estación toma el nombre de la zona/topónimo, no de la OTAN ni de los mandos del EMAD."
+    },
+    {
+      "en": "If mentioning the cyber command, note that the current Mando Conjunto del Ciberespacio was created in 2020 from the earlier Mando Conjunto de Ciberdefensa and JCISFAS; the 2013 body was the former cyber-defence command.",
+      "es": "Si se menciona el mando ciber, conviene indicar que el actual Mando Conjunto del Ciberespacio se creó en 2020 a partir del antiguo Mando Conjunto de Ciberdefensa y la JCISFAS; el organismo de 2013 era el anterior mando de ciberdefensa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming or transport-project file could confirm the formal reason for choosing Retamares as the station name.",
+      "es": "Un expediente municipal de denominación o del proyecto de transporte podría confirmar la razón formal por la que se eligió Retamares como nombre de la estación."
+    },
+    {
+      "en": "A historical cadastral map or local toponymy study should be checked to date the Retamares place-name before the modern military complex.",
+      "es": "Sería conveniente revisar un mapa catastral histórico o un estudio de toponimia local para fechar el topónimo Retamares antes del complejo militar moderno."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_027/en/summary.short.md",
+      "summary": "content/stations/ml_027/en/summary.md",
+      "story": "content/stations/ml_027/en/story.md",
+      "confidence": "content/stations/ml_027/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_027/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_027/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_027/es/summary.short.md",
+      "summary": "content/stations/ml_027/es/summary.md",
+      "story": "content/stations/ml_027/es/story.md",
+      "confidence": "content/stations/ml_027/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_027/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_027/es/research-note.md"
+    }
+  }
+}

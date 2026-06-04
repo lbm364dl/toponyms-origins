@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the stop is officially located on Calle Julio Romero de Torres, and Julio Romero de Torres was the Cordoban painter described. The direct municipal street-naming act was not found, so the street-honour link is a strong inference rather than a documented naming resolution.

@@ -1,0 +1,1 @@
+Las Zorreras is named after the local Las Zorreras area in Navalquejigo, El Escorial. The older place-name probably refers to fox dens or places associated with foxes, though that final step is linguistic inference rather than a documented naming act.

@@ -1,0 +1,1 @@
+El nombre de la estación coincide con el topónimo local consolidado, y fuentes oficiales y del operador sitúan la parada en esa zona junto a la calle Juan de Orduña. Fuentes municipales, autonómicas y de prensa documentan de forma independiente la Ciudad de la Imagen como complejo audiovisual de Pozuelo, con contexto urbanístico e institucional desde 1990.

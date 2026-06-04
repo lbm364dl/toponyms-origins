@@ -1,0 +1,1 @@
+The station-name origin is secure because it is plainly the municipality name and Adif currently identifies the station as Alpedrete. The etymology of the municipality is strongly supported by Toponomasticon Hispaniae, a specialized academic toponymy project, although it also notes that a fully Arabic origin cannot be completely ruled out.

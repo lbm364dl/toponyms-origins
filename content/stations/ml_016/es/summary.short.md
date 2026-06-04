@@ -1,0 +1,1 @@
+Pozuelo Oeste es un nombre descriptivo de lugar: una parada de la ML2 en el sector occidental de Pozuelo de Alarcón. El nombre del municipio procede de Pozuelo, diminutivo castellano de pozo asociado a pozos y manantiales, más Alarcón por la familia que adquirió el señorío en 1632.

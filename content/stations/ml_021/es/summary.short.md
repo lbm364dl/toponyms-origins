@@ -1,0 +1,1 @@
+La estación Berna debe su nombre a la calle Berna de Pozuelo de Alarcón. La vía forma parte del conjunto de nombres europeos de la zona de la Avenida de Europa y remite en último término a Berna, ciudad federal y capital de facto de Suiza.

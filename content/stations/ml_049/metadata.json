@@ -1,0 +1,100 @@
+{
+  "id": "ml_049",
+  "name": "Venus",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle Planeta Venus in Parla Este, itself named for the planet Venus",
+  "previous_names": "",
+  "naming_date": "2007; exact naming resolution not found, but Venus Norte/Sur were in use by the Parla Este phase opened on 8 September 2007",
+  "sources": [
+    {
+      "title": "CRTM, Plano de los transportes de Parla, junio 2025",
+      "url": "https://crtm.es/media/a11iwymm/serie_6_parla_plano.pdf",
+      "type": "official",
+      "relevance_en": "Official transport map showing Venus Norte and Venus Sur, Calle Planeta Venus, and the surrounding astronomical street names in Parla Este.",
+      "relevance_es": "Plano oficial de transportes que muestra Venus Norte y Venus Sur, la calle Planeta Venus y los nombres astronómicos del entorno de Parla Este."
+    },
+    {
+      "title": "Tranvia de Parla S.A., Plano de la linea",
+      "url": "https://www.viaparla.com/plano-de-linea/",
+      "type": "official",
+      "relevance_en": "Operator page describing the Parla tram as an 8.3 km circular urban line with 15 surface stops serving Parla Este and the Cercanias connection.",
+      "relevance_es": "Página del operador que describe el Tranvía de Parla como una línea urbana circular de 8,3 km con 15 paradas en superficie que sirve a Parla Este y a la conexión con Cercanías."
+    },
+    {
+      "title": "CRTM, Madrid referente mundial",
+      "url": "https://crtm.es/media/bqlla1xt/madrid_referente_mundial.pdf",
+      "type": "official",
+      "relevance_en": "CRTM publication placing the Parla tram in the 2003-2007 infrastructure programme and linking it to the Parla Este development and city image.",
+      "relevance_es": "Publicación del CRTM que sitúa el Tranvía de Parla en el programa de infraestructuras 2003-2007 y lo vincula al desarrollo de Parla Este y a la imagen de la ciudad."
+    },
+    {
+      "title": "Portal de Transparencia de Parla, Relacion de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Municipal transparency record confirming official properties and parcels on Calle Planeta Venus in the PAU-4 BIS / Residencial Este area.",
+      "relevance_es": "Registro municipal de transparencia que confirma inmuebles y parcelas oficiales en la calle Planeta Venus dentro del ámbito PAU-4 BIS / Residencial Este."
+    },
+    {
+      "title": "Comunidad de Madrid, Centro de Informacion y Asesoramiento Juvenil. Casa de la Juventud",
+      "url": "https://www.comunidad.madrid/info/servicios/juventud/centros/RCIJ185",
+      "type": "official",
+      "relevance_en": "Regional public-service listing that gives access by Tranvia Parla at Venus Norte or Venus Sur, supporting the current stop names and local location.",
+      "relevance_es": "Ficha autonómica de servicio público que indica el acceso mediante Tranvía Parla en Venus Norte o Venus Sur, respaldando los nombres actuales de las paradas y su ubicación."
+    },
+    {
+      "title": "NASA Science, Venus Facts",
+      "url": "https://science.nasa.gov/venus/venus-facts",
+      "type": "official",
+      "relevance_en": "Authoritative astronomy source for the underlying planet name: Venus is named for the Roman goddess of love and beauty and is one of the bright classical planets.",
+      "relevance_es": "Fuente astronómica autorizada para el nombre planetario de fondo: Venus recibe su nombre de la diosa romana del amor y la belleza y es uno de los planetas clásicos brillantes."
+    },
+    {
+      "title": "Madridiario, Un millon y medio de personas han utilizado el tranvia de Parla",
+      "url": "https://www.madridiario.es/noticia/52754/municipios/un-millon-y-medio-de-personas-han-utilizado-el-tranvia-de-parla.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report stating that the tram's second phase opened in September 2007 to connect the town centre with Parla Este.",
+      "relevance_es": "Crónica de prensa contemporánea que indica que la segunda fase del tranvía se puso en marcha en septiembre de 2007 para conectar el centro con Parla Este."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Classify the station name as a place-derived transport name rather than purely descriptive: the immediate source is Calle Planeta Venus.",
+      "es": "Clasificar el nombre de la estación como derivado de un lugar y no solo descriptivo: la fuente inmediata es la calle Planeta Venus."
+    },
+    {
+      "en": "Qualify the claim about streets being arranged in orbital order; the astronomical theme is documented by maps, but the planning intention was not found in an official source.",
+      "es": "Matizar la afirmación sobre una disposición orbital de las calles; la temática astronómica está documentada en los mapas, pero no se ha encontrado la intención urbanística en una fuente oficial."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Locate the municipal street-naming agreement or Parla Este planning document that assigned Calle Planeta Venus and the surrounding astronomical names.",
+      "es": "Localizar el acuerdo municipal de denominación viaria o el documento de planeamiento de Parla Este que asignó la calle Planeta Venus y los nombres astronómicos del entorno."
+    },
+    {
+      "en": "Confirm from an operator or CRTM archival source the exact public opening date of the Venus stop pair, since public secondary transport sources give 8 September 2007.",
+      "es": "Confirmar en una fuente archivística del operador o del CRTM la fecha exacta de apertura al público del par de paradas Venus, ya que las fuentes secundarias de transporte indican el 8 de septiembre de 2007."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_049/en/summary.short.md",
+      "summary": "content/stations/ml_049/en/summary.md",
+      "story": "content/stations/ml_049/en/story.md",
+      "confidence": "content/stations/ml_049/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_049/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_049/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_049/es/summary.short.md",
+      "summary": "content/stations/ml_049/es/summary.md",
+      "story": "content/stations/ml_049/es/story.md",
+      "confidence": "content/stations/ml_049/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_049/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_049/es/research-note.md"
+    }
+  }
+}

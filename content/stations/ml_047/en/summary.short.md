@@ -1,0 +1,1 @@
+Avenida Sistema Solar is named after Avenida del Sistema Solar in Parla Este. The avenue belongs to a modern neighborhood whose streets are organized around planets, stars, constellations, and other astronomical names.

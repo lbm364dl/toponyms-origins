@@ -1,0 +1,1 @@
+Official transport sources confirm the station name, line, location and 2007 opening context, and authoritative toponymy and municipal sources explain Pozuelo de Alarcón. Confidence is probable rather than fully verified because no naming decree or station-name resolution was found explicitly stating that Pozuelo Oeste was named for the western sector of Pozuelo.

@@ -1,0 +1,1 @@
+La estación Palas de Rey toma su nombre de la cercana calle de Palas de Rey, en Las Tablas. Esa calle remite a Palas de Rei, en Lugo, una villa del Camino Francés cuyo nombre medieval aparece como Pallatium/Palatinum Regis, aunque la etimología completa es discutida.

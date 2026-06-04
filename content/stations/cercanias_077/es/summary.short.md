@@ -1,0 +1,1 @@
+La estación de Los Molinos se llama como el municipio madrileño al que da servicio. El topónimo alude a antiguos molinos harineros movidos por el agua del Guadarrama, una actividad documentada por la historia local y por el Catastro de Ensenada de 1751.

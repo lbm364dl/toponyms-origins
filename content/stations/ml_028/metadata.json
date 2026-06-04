@@ -1,0 +1,100 @@
+{
+  "id": "ml_028",
+  "name": "Montepríncipe",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Montepríncipe residential development / Avenida de Montepríncipe",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "MLO Atención al cliente - Monteprincipe",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Operator source identifying Montepríncipe as an ML3 station beside the homonymous avenue, at the southern end of the Montepríncipe development, in Alcorcón near Boadilla.",
+      "relevance_es": "Fuente del operador que identifica Montepríncipe como estación de la ML3 junto a la avenida homónima, en el extremo sur de la urbanización de Montepríncipe, en Alcorcón cerca de Boadilla."
+    },
+    {
+      "title": "Metro Ligero Oeste - Corporate Information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms that MLO operates lines ML2 and ML3 and has connected Madrid, Boadilla del Monte, Alcorcón and Pozuelo de Alarcón since July 2007.",
+      "relevance_es": "Confirma que MLO opera las líneas ML2 y ML3 y conecta Madrid, Boadilla del Monte, Alcorcón y Pozuelo de Alarcón desde julio de 2007."
+    },
+    {
+      "title": "Historia y localización de la urbanización en el monte de Boadilla",
+      "url": "https://monteprincipe.net/historia/",
+      "type": "other",
+      "relevance_en": "Community history giving the estate chain from the marquises of Mirabal to Infante Luis, Godoy and the Rúspoli family, and stating that Carlos Rúspoli y Caro sold part of the Monte de Boadilla for Montepríncipe in the 1960s.",
+      "relevance_es": "Historia de la comunidad que ofrece la cadena patrimonial desde los marqueses de Mirabal hasta el infante Luis, Godoy y la familia Rúspoli, y afirma que Carlos Rúspoli y Caro vendió parte del Monte de Boadilla para Montepríncipe en los años sesenta."
+    },
+    {
+      "title": "Palacio de Boadilla del Monte - Historia",
+      "url": "https://palaciodeboadilla.es/historia-del-palacio-de-boadilla-del-monte-en-madrid/palacio-de-boadilla-del-monte-en-madrid/",
+      "type": "official",
+      "relevance_en": "Official palace site documenting Infante Luis's 1761 purchase of Boadilla, the palace chronology, and the 1998 purchase from the Rúspoli heirs.",
+      "relevance_es": "Sitio oficial del palacio que documenta la compra de Boadilla por el infante Luis en 1761, la cronología del palacio y la compra de 1998 a los herederos Rúspoli."
+    },
+    {
+      "title": "Montepríncipe, una comunidad en un entorno privilegiado",
+      "url": "https://www.soloboadilla.es/reportajes/reportaje/news/monteprincipe-una-comunidad-en-un-entorno-privilegiado/",
+      "type": "press",
+      "relevance_en": "Local press source describing Montepríncipe as a residential development across Boadilla, Pozuelo and Alcorcón, with about 82% of its surface in Boadilla, and noting that the homeowners' community was formed in 1973.",
+      "relevance_es": "Fuente de prensa local que describe Montepríncipe como una urbanización repartida entre Boadilla, Pozuelo y Alcorcón, con alrededor del 82% de su superficie en Boadilla, y señala que la comunidad de propietarios se constituyó en 1973."
+    },
+    {
+      "title": "PARES - Godoy Borbón, Carlota Luisa de (1800-1886)",
+      "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/autoridad/158313/imprimir",
+      "type": "archive",
+      "relevance_en": "Archival authority record for Carlota Luisa de Godoy y Borbón, including her 1821 marriage to Camilo Rúspoli and their children.",
+      "relevance_es": "Registro de autoridad archivístico de Carlota Luisa de Godoy y Borbón, con su matrimonio en 1821 con Camilo Rúspoli y sus hijos."
+    },
+    {
+      "title": "Anuario Estadístico de la Comunidad de Madrid",
+      "url": "https://www.madrid.org/iestadis/fijas/estructu/general/anuario/descarga/anuest_26me.pdf",
+      "type": "official",
+      "relevance_en": "Official statistical source reporting that Metro Ligero Oeste was inaugurated on 27 July 2007 and describing ML3 as Colonia Jardín-Boadilla del Monte.",
+      "relevance_es": "Fuente estadística oficial que indica que Metro Ligero Oeste fue inaugurado el 27 de julio de 2007 y describe la ML3 como Colonia Jardín-Boadilla del Monte."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station municipality should be treated carefully: MLO places Montepríncipe station in Alcorcón, close to the boundary with Boadilla del Monte, even though most of the residential development is associated with Boadilla.",
+      "es": "Conviene tratar con cuidado el municipio de la estación: MLO sitúa la estación de Montepríncipe en Alcorcón, cerca del límite con Boadilla del Monte, aunque la mayor parte de la urbanización se asocia a Boadilla."
+    },
+    {
+      "en": "The derivation from the Rúspoli princely title should be marked as probable inference, not as fully verified fact, unless an original urbanization naming document is found.",
+      "es": "La derivación a partir del título principesco de los Rúspoli debe marcarse como inferencia probable, no como hecho plenamente verificado, salvo que se encuentre un documento original de denominación de la urbanización."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Paloma Olmedo del Rosal, Boadilla del Monte: Historia y testimonios (2007), cited by the Montepríncipe community page, to verify the exact wording about the 1960s sale and development.",
+      "es": "Revisar Paloma Olmedo del Rosal, Boadilla del Monte: Historia y testimonios (2007), citado por la página de la comunidad de Montepríncipe, para comprobar la redacción exacta sobre la venta y urbanización de los años sesenta."
+    },
+    {
+      "en": "Look for the original planning, developer, or homeowners-association documents from the creation of Montepríncipe to confirm whether the name was explicitly chosen for the Rúspoli princely title.",
+      "es": "Buscar los documentos originales de planeamiento, promoción o comunidad de propietarios de la creación de Montepríncipe para confirmar si el nombre se eligió explícitamente por el título principesco de los Rúspoli."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_028/en/summary.short.md",
+      "summary": "content/stations/ml_028/en/summary.md",
+      "story": "content/stations/ml_028/en/story.md",
+      "confidence": "content/stations/ml_028/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_028/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_028/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_028/es/summary.short.md",
+      "summary": "content/stations/ml_028/es/summary.md",
+      "story": "content/stations/ml_028/es/story.md",
+      "confidence": "content/stations/ml_028/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_028/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_028/es/research-note.md"
+    }
+  }
+}

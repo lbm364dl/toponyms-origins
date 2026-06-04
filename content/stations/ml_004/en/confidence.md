@@ -1,0 +1,1 @@
+The station name, ML1 line, access area and 24 May 2007 opening are supported by CRTM and Comunidad de Madrid sources. The adjacent Calle del Pintor Antonio Saura is documented in municipal/transport materials, and authoritative biographical sources identify Antonio Saura Atarés and his significance. The only unresolved point is the exact municipal street-naming resolution.

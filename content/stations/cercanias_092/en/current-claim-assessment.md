@@ -1,0 +1,1 @@
+The direct naming claim is verified: the Cercanias stop is in, and takes its name from, the Zarzaquemada neighbourhood/district of Leganes. The literal parsing of zarza + quemada is well supported linguistically, but the specific interpretation as a local slash-and-burn clearing is an informed inference rather than directly documented for this Leganes place-name.

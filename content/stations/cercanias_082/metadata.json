@@ -1,0 +1,129 @@
+{
+  "id": "cercanias_082",
+  "name": "Ramón y Cajal",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Hospital Universitario Ramón y Cajal; ultimately Santiago Ramón y Cajal",
+  "previous_names": "",
+  "naming_date": "1984",
+  "sources": [
+    {
+      "title": "Renfe mejora la accesibilidad de la estación de Ramón y Cajal",
+      "url": "https://www.renfe.com/es/es/grupo-renfe/comunicacion/renfe-al-dia/sala-de-prensa/Renfe-accesibilidad-Ramon-Cajal-cercanias",
+      "type": "official",
+      "relevance_en": "Renfe states that Ramón y Cajal station is located next to the hospital centre of the same name and lists the Cercanías lines serving it.",
+      "relevance_es": "Renfe afirma que la estación de Ramón y Cajal está situada junto al centro hospitalario del mismo nombre e indica las líneas de Cercanías que pasan por ella."
+    },
+    {
+      "title": "97201 Ramón y Cajal - Adif",
+      "url": "https://www.adif.es/w/97201-Ram%C3%B3n%2By%2BCajal",
+      "type": "official",
+      "relevance_en": "Adif provides the official station record, address on the M-607 and operational listing for Ramón y Cajal.",
+      "relevance_es": "Adif proporciona la ficha oficial de la estación, su dirección en la M-607 y la información operativa de Ramón y Cajal."
+    },
+    {
+      "title": "40º Aniversario Hospital Ramón y Cajal",
+      "url": "https://www.comunidad.madrid/hospital/ramonycajal/40o-aniversario-hospital-ramon-cajal/40o-aniversario-hospital-ramon-cajal",
+      "type": "official",
+      "relevance_en": "The hospital’s official anniversary page says the centre takes its name from Santiago Ramón y Cajal and that the inauguration date was chosen to coincide with the 43rd anniversary of his death.",
+      "relevance_es": "La página oficial del aniversario del hospital dice que el centro toma su nombre de Santiago Ramón y Cajal y que la fecha de inauguración se hizo coincidir con el 43.º aniversario de su muerte."
+    },
+    {
+      "title": "El Hospital Universitario Ramón y Cajal celebra sus 40 años de historia",
+      "url": "https://www.comunidad.madrid/noticias/2017/10/18/hospital-universitario-ramon-cajal-celebra-40-anos-historia",
+      "type": "official",
+      "relevance_en": "The Comunidad de Madrid confirms the hospital was inaugurated on 18 October 1977 and gives institutional context for the hospital.",
+      "relevance_es": "La Comunidad de Madrid confirma que el hospital fue inaugurado el 18 de octubre de 1977 y aporta contexto institucional del centro."
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1906",
+      "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/",
+      "type": "reference",
+      "relevance_en": "Official Nobel source for the 1906 prize shared by Camillo Golgi and Santiago Ramón y Cajal and the exact prize citation.",
+      "relevance_es": "Fuente oficial del Nobel para el premio de 1906 compartido por Camillo Golgi y Santiago Ramón y Cajal y para la cita exacta del galardón."
+    },
+    {
+      "title": "Santiago Ramón y Cajal - Consejo Superior de Investigaciones Científicas",
+      "url": "https://www.csic.es/es/el-csic/sobre-el-csic/historia/santiago-ramon-y-cajal",
+      "type": "official",
+      "relevance_en": "CSIC biography summarizing Cajal’s academic career, scientific importance, role in Spanish research institutions and participation in the Instituto Cajal.",
+      "relevance_es": "Biografía del CSIC que resume la carrera académica de Cajal, su importancia científica, su papel en instituciones españolas de investigación y su relación con el Instituto Cajal."
+    },
+    {
+      "title": "El Legado Cajal - Centro de Neurociencias Cajal - CSIC",
+      "url": "https://cajal.csic.es/el-legado-cajal/",
+      "type": "official",
+      "relevance_en": "CSIC source for the definition, contents and UNESCO Memory of the World recognition of the Cajal Legacy.",
+      "relevance_es": "Fuente del CSIC sobre la definición, contenidos y reconocimiento del Legado Cajal en el programa Memoria del Mundo de la UNESCO."
+    },
+    {
+      "title": "El Legado Histórico de Santiago Ramón y Cajal - Museo Nacional de Ciencias Naturales",
+      "url": "https://www.mncn.csic.es/es/visita-el-mncn/exposiciones/el-legado-historico-de-santiago-ramon-y-cajal",
+      "type": "official",
+      "relevance_en": "MNCN-CSIC gives current custody/exhibition context and item counts for the Cajal Legacy, including drawings, photographs, manuscripts and Nobel objects.",
+      "relevance_es": "El MNCN-CSIC aporta el contexto actual de custodia y exposición del Legado Cajal y cifras de piezas, incluidos dibujos, fotografías, manuscritos y objetos del Nobel."
+    },
+    {
+      "title": "Santiago Ramón y Cajal: The first to map the human brain - UNESCO",
+      "url": "https://www.unesco.org/en/articles/santiago-ramon-y-cajal-first-map-human-brain-1",
+      "type": "official",
+      "relevance_en": "UNESCO explains Cajal’s scientific contribution, the neuron doctrine nuance, the 1906 Nobel and the 2017 Memory of the World inclusion.",
+      "relevance_es": "UNESCO explica la aportación científica de Cajal, el matiz sobre la doctrina neuronal, el Nobel de 1906 y la inclusión de 2017 en Memoria del Mundo."
+    },
+    {
+      "title": "RENFE Memoria 1984-1987 - Biblioteca Ferroviaria, Fundación de los Ferrocarriles Españoles",
+      "url": "https://docutren.com/pdf/memoriasRENFE/1984-87.pdf",
+      "type": "archive",
+      "relevance_en": "Searchable text from the digitized RENFE memory identifies Ramón y Cajal as a halt on the Madrid-Chamartín to Pitis line, located at the Ciudad Sanitaria of the same name and opened in 1984.",
+      "relevance_es": "El texto recuperable de la memoria digitalizada de RENFE identifica Ramón y Cajal como apeadero de la línea Madrid-Chamartín a Pitis, situado en la Ciudad Sanitaria del mismo nombre y abierto en 1984."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The current row should make clear that the station is directly named for the nearby hospital, with Santiago Ramón y Cajal as the ultimate honoree.",
+      "es": "La fila actual debe aclarar que la estación toma directamente su nombre del hospital cercano, y que Santiago Ramón y Cajal es el homenajeado último."
+    },
+    {
+      "en": "The Nobel wording should be narrowed: the official citation was for work on the structure of the nervous system, not specifically for 'proving' neurons as later-named cells.",
+      "es": "La formulación sobre el Nobel debe precisarse: la cita oficial fue por los trabajos sobre la estructura del sistema nervioso, no específicamente por 'probar' la existencia de neuronas como células nombradas posteriormente."
+    },
+    {
+      "en": "The term 'neuron' was already coined before the 1906 Nobel; it is misleading to say the individual cells were only later called neurons in this context.",
+      "es": "El término 'neurona' ya se había acuñado antes del Nobel de 1906; en este contexto resulta engañoso decir que esas células solo fueron llamadas neuronas posteriormente."
+    },
+    {
+      "en": "Current official transport sources list service by C-3a/C-3 as well as C-7 and C-8, so the line metadata may be incomplete.",
+      "es": "Las fuentes oficiales actuales de transporte incluyen servicio C-3a/C-3 además de C-7 y C-8, por lo que el metadato de líneas puede estar incompleto."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the original RENFE 1984-1987 memory PDF from the Fundación de los Ferrocarriles Españoles to resolve the opening-date discrepancy: prose says 3 June 1984, while the list gives 29 May 1984.",
+      "es": "Conviene revisar el PDF original de la memoria RENFE 1984-1987 de la Fundación de los Ferrocarriles Españoles para resolver la discrepancia de fecha: la prosa indica 3 de junio de 1984 y el listado da 29 de mayo de 1984."
+    },
+    {
+      "en": "No official act explicitly saying 'the station was named after the hospital' was found; this is inferred from Renfe’s location statement and RENFE historical wording that the halt served the Ciudad Sanitaria of the same name.",
+      "es": "No se encontró un acto oficial que diga literalmente que 'la estación fue nombrada por el hospital'; se infiere de la descripción de Renfe y de la formulación histórica de RENFE según la cual el apeadero servía a la Ciudad Sanitaria del mismo nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_082/en/summary.short.md",
+      "summary": "content/stations/cercanias_082/en/summary.md",
+      "story": "content/stations/cercanias_082/en/story.md",
+      "confidence": "content/stations/cercanias_082/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_082/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_082/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_082/es/summary.short.md",
+      "summary": "content/stations/cercanias_082/es/summary.md",
+      "story": "content/stations/cercanias_082/es/story.md",
+      "confidence": "content/stations/cercanias_082/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_082/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_082/es/research-note.md"
+    }
+  }
+}

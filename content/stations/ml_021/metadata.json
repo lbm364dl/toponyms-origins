@@ -1,0 +1,89 @@
+{
+  "id": "ml_021",
+  "name": "Berna",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Calle Berna, ultimately Bern, Switzerland",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro ligero | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/transportes-y-movilidad/red-de-transporte-publico/metro-ligero",
+      "type": "official",
+      "relevance_en": "Official municipal page listing Berna as station 12 on ML2 and describing the ML2 route as passing through Vía de las Dos Castillas and Calle Berna before reaching Aravaca.",
+      "relevance_es": "Página municipal oficial que enumera Berna como la parada 12 de la ML2 y describe el recorrido de la ML2 atravesando la vía de las Dos Castillas y la calle Berna antes de llegar a Aravaca."
+    },
+    {
+      "title": "Info Corporativa - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/informacion-corporativa",
+      "type": "official",
+      "relevance_en": "Operator source confirming Metro Ligero Oeste runs ML2 and ML3, connects Pozuelo with Madrid, and gives 27/07/07 as the inauguration date.",
+      "relevance_es": "Fuente del operador que confirma que Metro Ligero Oeste explota la ML2 y la ML3, conecta Pozuelo con Madrid y da el 27/07/07 como fecha de inauguración."
+    },
+    {
+      "title": "MLO al teléfono - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Operator page listing Berna as a station on the ML2 line of Metro Ligero Oeste.",
+      "relevance_es": "Página del operador que identifica Berna como estación de la línea ML2 de Metro Ligero Oeste."
+    },
+    {
+      "title": "Plano Avenida de Europa zona Ática | Ayuntamiento de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/sites/default/files/2022-11/Plano%20Avenida%20de%20Europa%20zona%20%C3%81tica.pdf",
+      "type": "official",
+      "relevance_en": "Municipal map showing Calle Berna, Calle Suiza, Avenida de Europa and nearby European place-name streets such as Alemania, Berlín, Inglaterra, Londres, Austria, Hungría, Polonia and Irlanda.",
+      "relevance_es": "Plano municipal que muestra la calle Berna, la calle Suiza, la Avenida de Europa y vías cercanas con topónimos europeos como Alemania, Berlín, Inglaterra, Londres, Austria, Hungría, Polonia e Irlanda."
+    },
+    {
+      "title": "Political system | About Switzerland, Federal Department of Foreign Affairs",
+      "url": "https://www.aboutswitzerland.eda.admin.ch/en/political-system",
+      "type": "official",
+      "relevance_en": "Swiss federal source explaining that Bern is Switzerland's de facto capital or federal city and that Switzerland has no official de jure capital in the strict technical sense.",
+      "relevance_es": "Fuente federal suiza que explica que Berna es la capital de facto o ciudad federal de Suiza y que el país no tiene una capital oficial de iure en sentido técnico estricto."
+    },
+    {
+      "title": "Bern in brief | City of Bern",
+      "url": "https://www.bern.ch/en/visiting-bern/portrait/bern-in-brief",
+      "type": "official",
+      "relevance_en": "Official city source giving context for Bern's national role, including its selection in 1848 and its function as seat of parliament, government and administration.",
+      "relevance_es": "Fuente oficial de la ciudad que aporta contexto sobre el papel nacional de Berna, incluida su elección en 1848 y su función como sede del parlamento, el gobierno y la administración."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Phrase Bern as Switzerland's federal city or de facto capital rather than simply as the official federal capital; Swiss federal information says Switzerland has no official de jure capital in the strict technical sense.",
+      "es": "Conviene describir Berna como ciudad federal o capital de facto de Suiza, no simplemente como capital federal oficial; la información federal suiza indica que Suiza no tiene capital oficial de iure en sentido técnico estricto."
+    },
+    {
+      "en": "The broad European street-name cluster is supported by maps, but the exact claim of more than thirty streets and the 1980s-90s naming date should be treated as unverified until a municipal street-naming record is checked.",
+      "es": "El conjunto amplio de nombres europeos está respaldado por planos, pero la afirmación exacta de más de treinta calles y la datación en los años 80-90 debe considerarse no verificada hasta consultar un expediente municipal de denominación de vías."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect Pozuelo de Alarcón municipal plenary minutes or street-naming files to identify the exact approval date for Calle Berna and the official rationale for the Avenida de Europa naming scheme.",
+      "es": "Consultar actas del pleno municipal de Pozuelo de Alarcón o expedientes de denominación de vías para identificar la fecha exacta de aprobación de la calle Berna y la justificación oficial del esquema de nombres de la Avenida de Europa."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_021/en/summary.short.md",
+      "summary": "content/stations/ml_021/en/summary.md",
+      "story": "content/stations/ml_021/en/story.md",
+      "confidence": "content/stations/ml_021/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_021/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_021/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_021/es/summary.short.md",
+      "summary": "content/stations/ml_021/es/summary.md",
+      "story": "content/stations/ml_021/es/story.md",
+      "confidence": "content/stations/ml_021/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_021/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_021/es/research-note.md"
+    }
+  }
+}

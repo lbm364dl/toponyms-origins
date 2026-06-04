@@ -1,0 +1,1 @@
+La afirmación central está verificada: la estación da servicio al Hospital Universitario Ramón y Cajal, contiguo, y el propio material oficial del hospital indica que este toma su nombre de Santiago Ramón y Cajal. Conviene precisar algunos detalles científicos e institucionales de la fila.

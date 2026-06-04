@@ -1,0 +1,1 @@
+Avenida de Europa station is named after the Pozuelo boulevard it crosses at Avenida de la Comunidad de Madrid. The avenue became the name of a modern residential, commercial and office district built out from the former Plan Parcial Ampliación Casa de Campo.

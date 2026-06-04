@@ -1,0 +1,1 @@
+Infante Don Luis is named for Luis Antonio Jaime de Borbón y Farnesio, the Bourbon prince who acquired the lordship of Boadilla in 1761. His palace became one of the municipality's defining monuments.

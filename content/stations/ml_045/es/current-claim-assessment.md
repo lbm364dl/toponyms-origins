@@ -1,0 +1,1 @@
+La afirmación central está bien sustentada: la parada se llama Isabel II y está situada junto a la calle Isabel II de Parla, cuyo referente evidente es la reina Isabel II de España. Sin embargo, no he localizado un acuerdo municipal de denominación que pruebe por qué se nombró así la calle o la parada, y el episodio ferroviario es contexto histórico, no etimología directa.

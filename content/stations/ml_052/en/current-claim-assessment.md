@@ -1,0 +1,1 @@
+The core claim is correct: the stop is named for the nearby Polígono Industrial Ciudad de Parla. The SEPES and population-growth context is plausible and partly sourced, but the row overstates certainty about early-2000s development and the Greek etymology is not necessary for explaining the station name.

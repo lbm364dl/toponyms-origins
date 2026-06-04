@@ -1,0 +1,115 @@
+{
+  "id": "cercanias_079",
+  "name": "Puerto de Navacerrada",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puerto de Navacerrada, the mountain pass between Madrid and Segovia; ultimately from the toponym Navacerrada",
+  "previous_names": "",
+  "naming_date": "1923 (station in service; no separate formal naming act found)",
+  "sources": [
+    {
+      "title": "Renfe Data station file: Puerto de Navacerrada",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion12020.pdf",
+      "type": "official",
+      "relevance_en": "Confirms the current station name, operator Renfe Viajeros, municipality Cercedilla, coordinates, commercial line C9, and metric-gauge station infrastructure.",
+      "relevance_es": "Confirma el nombre actual de la estación, el explotador Renfe Viajeros, el municipio de Cercedilla, las coordenadas, la línea comercial C9 y la infraestructura de ancho métrico."
+    },
+    {
+      "title": "CRTM: C-9 Cercedilla-Cotos",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/lineas/5__9___",
+      "type": "official",
+      "relevance_en": "Confirms Puerto de Navacerrada as a station on Cercanías line C-9 between Cercedilla and Cotos.",
+      "relevance_es": "Confirma Puerto de Navacerrada como estación de la línea C-9 de Cercanías entre Cercedilla y Cotos."
+    },
+    {
+      "title": "Renfe Blog: Centenario Línea C-9. Zona verde Cercanías Madrid",
+      "url": "https://blog.renfe.com/centenario-linea-c-9-zona-verde-cercanias-madrid/",
+      "type": "official",
+      "relevance_en": "Provides railway chronology: the electric railway opened between Cercedilla and Puerto de Navacerrada in 1923, and the Puerto de Navacerrada station has been in service since 1923.",
+      "relevance_es": "Aporta la cronología ferroviaria: el ferrocarril eléctrico se inauguró entre Cercedilla y el Puerto de Navacerrada en 1923, y la estación de Puerto de Navacerrada está en servicio desde 1923."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Navacerrada",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/navacerrada",
+      "type": "academic",
+      "relevance_en": "Main etymological source: analyzes Navacerrada as nava plus cerrada, gives historical documentation from 1498 onward, and states that the village appears to have given its name to the pass and river.",
+      "relevance_es": "Fuente etimológica principal: analiza Navacerrada como nava más cerrada, aporta documentación histórica desde 1498 e indica que la villa parece haber dado nombre al puerto y al río."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: NAVA",
+      "url": "https://toponhisp.org/es/etimo/nava",
+      "type": "academic",
+      "relevance_en": "Explains the debated origin of nava, summarizing older Basque, Latin, Celtic and wider pre-Roman substrate theories and concluding that it is probably not patrimonial Basque.",
+      "relevance_es": "Explica el origen discutido de nava, resume teorías vasca, latina, céltica y de sustrato prerromano amplio, y concluye que probablemente no es una voz patrimonial vasca."
+    },
+    {
+      "title": "Turismo Navacerrada: Sobre Navacerrada",
+      "url": "https://turismo.aytonavacerrada.org/?page_id=191",
+      "type": "official",
+      "relevance_en": "Municipal tourism page giving the local traditional explanation of nava and cerrada and stating that Segovian shepherds settled the area in the 12th century.",
+      "relevance_es": "Página turística municipal que ofrece la explicación local tradicional de nava y cerrada y afirma que pastores segovianos se asentaron en la zona en el siglo XII."
+    },
+    {
+      "title": "Instituto Geográfico Nacional: Puerto de Navacerrada. Mapa Topográfico Nacional 1:25.000. 2012",
+      "url": "https://www.ign.es/web/catalogo-cartoteca/resources/html/042421.html",
+      "type": "official",
+      "relevance_en": "Official cartographic record confirming Puerto de Navacerrada as a mapped geographical name and map-sheet area in the Sierra de Guadarrama.",
+      "relevance_es": "Registro cartográfico oficial que confirma Puerto de Navacerrada como nombre geográfico cartografiado y ámbito de hoja en la Sierra de Guadarrama."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: nava",
+      "url": "https://dle.rae.es/nava",
+      "type": "reference",
+      "relevance_en": "Provides the standard dictionary meaning of nava and its cautious etymological cue as a pre-Roman word compared with Basque naba.",
+      "relevance_es": "Aporta el significado lexicográfico estándar de nava y su indicación etimológica prudente como voz prerromana comparada con el vasco naba."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after a place, not merely as a descriptive phrase; the immediate referent is the Puerto de Navacerrada mountain pass.",
+      "es": "Conviene tratar la estación como nombrada por un lugar, no solo como una frase descriptiva; el referente inmediato es el puerto de montaña de Navacerrada."
+    },
+    {
+      "en": "Toponomasticon Hispaniae indicates that the village probably gave its name to the pass and river, so the pass name is secondary to the older settlement name.",
+      "es": "Toponomasticon Hispaniae indica que probablemente la villa dio nombre al puerto y al río, de modo que el nombre del puerto es secundario respecto al del núcleo antiguo."
+    },
+    {
+      "en": "The Basque-origin wording is too strong: Toponomasticon Hispaniae summarizes nava as pre-Roman and widespread, probably not a patrimonial Basque word, though related to or known in Basque.",
+      "es": "La formulación de origen vasco es demasiado fuerte: Toponomasticon Hispaniae resume nava como una voz prerromana y extendida, probablemente no patrimonial vasca, aunque relacionada con el vasco o conocida en esa lengua."
+    },
+    {
+      "en": "The enclosure-for-livestock explanation is plausible but not exclusive; cerrada may also refer to surrounding hills, difficult access, or dense vegetation.",
+      "es": "La explicación del cercado para el ganado es verosímil pero no exclusiva; cerrada también puede referirse a cerros circundantes, acceso difícil o vegetación densa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No separate administrative naming act for the station was found; the 1923 date refers to the station entering service on the mountain railway.",
+      "es": "No se ha localizado un acto administrativo separado de asignación del nombre de la estación; la fecha de 1923 corresponde a la entrada en servicio de la estación en el ferrocarril de montaña."
+    },
+    {
+      "en": "The specific claim that livestock enclosures were first made with branches and later stone walls was not verified in an authoritative inspected source.",
+      "es": "No se ha verificado en una fuente autorizada inspeccionada la afirmación específica de que los cercados ganaderos fueran primero de ramas y después de muros de piedra."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_079/en/summary.short.md",
+      "summary": "content/stations/cercanias_079/en/summary.md",
+      "story": "content/stations/cercanias_079/en/story.md",
+      "confidence": "content/stations/cercanias_079/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_079/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_079/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_079/es/summary.short.md",
+      "summary": "content/stations/cercanias_079/es/summary.md",
+      "story": "content/stations/cercanias_079/es/story.md",
+      "confidence": "content/stations/cercanias_079/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_079/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_079/es/research-note.md"
+    }
+  }
+}

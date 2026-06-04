@@ -1,0 +1,9 @@
+The light-rail name is first of all a street name. Metro Ligero Oeste places Cantabria station on line ML3 beside Avenida de Cantabria, opposite Banco Santander's Finance City and west of the Prado del Espino industrial estate in Boadilla del Monte.
+
+The avenue points to Cantabria, the northern Spanish autonomous community on the Bay of Biscay. In Boadilla, that reference is not isolated: local coverage of the town's street names says the roads around Ciudad Financiera recall places from the region associated with the bank's origins, including Avenida de Cantabria, Altamira and Picos de Europa.
+
+The Santander link is strong even if the street-naming file has not yet been found. Banco Santander states that its history began on 15 May 1857, when Queen Isabella II authorized Banco de Santander, initially connected with trade between the port of Santander and Ibero-America. The bank's Boadilla campus, Ciudad Grupo Santander, opened in 2004 and Santander's own visitor information gives its address as Avenida de Cantabria, s/n.
+
+The deeper place name reaches much further back. The Government of Cantabria explains that the choronym Cantabria is generally connected with the ancient Cantabri: if the usual interpretation is correct, it means 'the land of the Cantabri.' Their conflict with Rome was part of the Cantabrian-Asturian wars; official regional history notes campaigns from 29 BC and places Augustus personally in command in 26 BC, not 29 BC.
+
+For public use, the safest reading is therefore layered: the station is named after the avenue; the avenue names Cantabria; and the local theme probably reflects Banco Santander's Cantabrian origin and the campus beside the stop. The direct station-to-avenue link is verified, while the reason for the avenue's name remains probable pending a municipal naming resolution.

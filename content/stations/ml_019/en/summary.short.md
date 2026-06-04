@@ -1,0 +1,1 @@
+Campus de Somosaguas is named for the Complutense University campus in Pozuelo de Alarcón. The older place-name Somosaguas is historically tied to water-rich land around Húmera and Pozuelo, with documented forms such as Sumas Aguas.

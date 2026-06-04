@@ -1,0 +1,1 @@
+Zarzaquemada station is named for the Leganes neighbourhood it serves. The place-name reads as a descriptive compound of zarza, 'bramble', and quemada, 'burned', probably preserving the memory of scrub or bramble land cleared or marked by fire.

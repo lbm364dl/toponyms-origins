@@ -1,0 +1,1 @@
+Para la base de datos, conviene separar la etimología de la estación de la toponimia profunda del municipio. La estación es un topónimo descriptivo moderno vinculado al intercambiador y al bulevar; el origen de Parla puede mencionarse como contexto incierto, pero no debe determinar la clasificación de la parada.

@@ -1,0 +1,9 @@
+Bélgica station is named for a nearby street: Calle de Bélgica in Pozuelo de Alarcón. Metro Ligero Oeste describes the stop as being on Vía de las Dos Castillas beside the junction with Calle Bélgica, which makes the immediate naming source unusually direct.
+
+The street name refers to Belgium, but the local context matters. Official transport mapping of Pozuelo shows Calle de Bélgica embedded in the Avenida de Europa area among many other European names: Calle de Francia, Calle de Bruselas, Calle París, Calle Lisboa, Calle de Estrasburgo, Calle de Luxemburgo, Calle de Holanda, Calle de Malta, Calle de Mónaco and Calle de Grecia, among others.
+
+This part of Pozuelo is a modern urban landscape rather than an old village toponym. A historical summary by local chroniclers notes that from the late 1980s and early 1990s the buildings of the Casa de Campo expansion area, identified with Avenida de Europa, were raised and helped almost double Pozuelo's population. That chronology fits the modern, planned character of the street-name cluster.
+
+The transport story came later. The Community of Madrid lists Bélgica among the stations of the Colonia Jardín-Pozuelo de Alarcón light-rail line, and describes the route as serving the axis from Colonia Jardín through Prado del Rey and Somosaguas toward Avenida de Europa between Pozuelo and Aravaca. Metro Ligero Oeste was inaugurated on 27 July 2007, so the station name entered public transport use with that opening.
+
+The strongest supported explanation is therefore simple: Bélgica station is named after Calle de Bélgica, and the street is part of a European geographic naming pattern in the Avenida de Europa district. It is reasonable to connect that pattern with the late-20th-century development of the area, but I did not find a municipal naming resolution proving the exact date or official motive for Calle de Bélgica.

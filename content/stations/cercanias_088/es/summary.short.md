@@ -1,0 +1,1 @@
+Villaverde Bajo toma su nombre del topónimo local Villaverde, literalmente una 'villa verde', con Bajo como diferenciador del sector bajo o ferroviario frente a otros Villaverde. El nombre ferroviario actual data de una Real Orden de 1906, tras el anterior apartadero de Villaverde-Alicante.

@@ -1,0 +1,1 @@
+La estación de Valdebebas recibe el nombre del nuevo desarrollo urbano del noreste de Madrid. Ese nombre conserva un hidrónimo y topónimo rural anterior: el arroyo de Valdebebas, documentado históricamente también como Valdebeba o Valdevebas.

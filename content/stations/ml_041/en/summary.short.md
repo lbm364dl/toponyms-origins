@@ -1,0 +1,1 @@
+Parla Centro-Bulevar Norte is named for its location at Parla's central transport node on Calle Real, beside the Bulevar Norte. The wider town name Parla has debated origins, but the station name itself is a modern descriptive place name.

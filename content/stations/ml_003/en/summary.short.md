@@ -1,0 +1,1 @@
+Virgen del Cortijo station is named for the nearby Colonia Virgen del Cortijo in Hortaleza/Valdefuentes. The colony’s name appears to go back to a rural estate where residents venerated a photograph of the Virgen del Cortijo, a Marian devotion linked especially to La Rioja.

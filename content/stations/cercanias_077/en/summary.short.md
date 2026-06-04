@@ -1,0 +1,1 @@
+Los Molinos station is named after the Madrid municipality it serves. The place-name refers to historic flour mills powered by the Guadarrama river, an activity documented in local history and in the 1751 Catastro de Ensenada.

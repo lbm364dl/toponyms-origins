@@ -1,0 +1,1 @@
+El origen inmediato está bien respaldado por la página oficial del CRTM, que sitúa el acceso en la calle de Palas de Rey, y por páginas municipales madrileñas que confirman la dirección de esa calle. La etimología gallega antigua solo es probable porque la toponimia autorizada considera Palas un elemento no resuelto y presenta el relato de Witiza como tradición.

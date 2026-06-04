@@ -1,0 +1,1 @@
+The Parla tram stop takes its name from Calle Julio Romero de Torres, the street where it stands. The street name refers to Julio Romero de Torres (1874-1930), the Cordoban painter whose mature work joined symbolism, Andalusian popular culture and the imagery of Córdoba.

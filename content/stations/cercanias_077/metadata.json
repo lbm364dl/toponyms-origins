@@ -1,0 +1,101 @@
+{
+  "id": "cercanias_077",
+  "name": "Los Molinos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "The municipality of Los Molinos, whose name refers to historic water-powered flour mills associated with the Guadarrama river valley",
+  "previous_names": "Los Molinos-Guadarrama (railway designation attested for the Villalba-Segovia line and in later station signage; not confirmed here as a formally replaced former name)",
+  "naming_date": "Place-name attested between 1517 and 1523; railway stop listed on the Villalba-Segovia line opened 29 June 1888; exact date when the current public station display became simply Los Molinos not found",
+  "sources": [
+    {
+      "title": "Historia - Ayuntamiento de Los Molinos",
+      "url": "https://www.ayuntamiento-losmolinos.es/?page_id=36660",
+      "type": "official",
+      "relevance_en": "Official municipal history states that BNE manuscript 11,265 records a 1546 license to Álvaro de Mena for a cube mill on the Guadarrama and connects this with the origin of the Los Molinos place-name; it also gives early references to the place in Fernando Colón and later local context.",
+      "relevance_es": "La historia municipal oficial afirma que el manuscrito 11.265 de la BNE recoge una licencia de 1546 a Álvaro de Mena para un molino de cubo en el Guadarrama y vincula este dato con el origen del topónimo Los Molinos; también aporta referencias tempranas en Fernando Colón y contexto local posterior."
+    },
+    {
+      "title": "125 años del ferrocarril en Los Molinos (1888-2013)",
+      "url": "https://www.ayuntamiento-losmolinos.es/wp-content/uploads/2019/07/125-a%C3%B1os-de-ferrocarril-en-Los-Molinos-1888-2013CORRECCI%C3%93N-JULIO-2019_compressed.pdf",
+      "type": "official",
+      "relevance_en": "Municipal railway-history PDF documents the early place-name, the sixteenth-century milling explanation, the Villalba-Segovia line opening on 29 June 1888, and the listing of the stop as Los Molinos-Guadarrama.",
+      "relevance_es": "PDF municipal de historia ferroviaria que documenta el topónimo temprano, la explicación molinera del siglo XVI, la apertura de la línea Villalba-Segovia el 29 de junio de 1888 y la relación de la parada como Los Molinos-Guadarrama."
+    },
+    {
+      "title": "El Catastro del Marqués de la Ensenada - Ayuntamiento de Los Molinos",
+      "url": "https://www.ayuntamiento-losmolinos.es/?te_announcements=el-catastro-del-marques-de-la-ensenada-1751-1753",
+      "type": "official",
+      "relevance_en": "Official municipal summary of the 1751 Catastro de Ensenada stating that Los Molinos had seven flour mills, one destroyed, giving strong evidence for historic milling in the municipality.",
+      "relevance_es": "Resumen municipal oficial del Catastro de Ensenada de 1751 que indica que Los Molinos tenía siete molinos harineros, uno destruido, lo que aporta una prueba sólida de la actividad molinera histórica del municipio."
+    },
+    {
+      "title": "Los Molinos - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_47/",
+      "type": "official",
+      "relevance_en": "Current public transport source identifying Los Molinos as a Cercanías station with C-8 service and its access in the municipality.",
+      "relevance_es": "Fuente actual de transporte público que identifica Los Molinos como estación de Cercanías con servicio C-8 y acceso en el municipio."
+    },
+    {
+      "title": "Los antiguos molinos harineros madrileños - Alejandro Peris Barrio, Biblioteca Virtual Miguel de Cervantes",
+      "url": "https://www.cervantesvirtual.com/obra-visor/los-antiguos-molinos-harineros-madrilenos/html/?indice=1",
+      "type": "reference",
+      "relevance_en": "Published study noting that Madrid toponymy preserves milling sites and that Los Molinos is a significant example; it also transcribes the 1546 Álvaro de Mena license with wording that raises a location/name ambiguity useful for critical assessment.",
+      "relevance_es": "Estudio publicado que señala que la toponimia madrileña conserva lugares de molienda y que Los Molinos es un ejemplo significativo; además transcribe la licencia de 1546 de Álvaro de Mena con una redacción que plantea una ambigüedad de lugar y nombre útil para la evaluación crítica."
+    },
+    {
+      "title": "Libro Blanco del Turismo de Los Molinos",
+      "url": "https://www.ayuntamiento-losmolinos.es/wp-content/uploads/2020/07/Vol-I-Libro-Blanco-del-Turismo-de-Los-Molinos_compressed.pdf",
+      "type": "official",
+      "relevance_en": "Municipal tourism publication linking the name to water-powered flour mills on the Guadarrama, describing the cereal context and citing the 1546 license and sixteenth-century road references.",
+      "relevance_es": "Publicación turística municipal que vincula el nombre con molinos harineros hidráulicos en el Guadarrama, describe el contexto cerealista y cita la licencia de 1546 y referencias viarias del siglo XVI."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change the recommended type from purely 'historical' to 'place': the station is named after the municipality, even though the municipality's own name has a historical/descriptive origin.",
+      "es": "Cambiar el tipo recomendado de puramente 'histórico' a 'lugar': la estación se llama por el municipio, aunque el nombre del municipio tenga un origen histórico/descriptivo."
+    },
+    {
+      "en": "Do not state that the 1546 Álvaro de Mena license was caused by the construction of El Escorial; the monastery works began in 1563, so that license predates them.",
+      "es": "No afirmar que la licencia de 1546 a Álvaro de Mena se debió a la construcción de El Escorial; las obras del monasterio comenzaron en 1563, por lo que la licencia es anterior."
+    },
+    {
+      "en": "Replace or qualify 'at least three mills' with the stronger 1751 Catastro detail: seven flour mills were recorded, one of them destroyed.",
+      "es": "Sustituir o matizar 'al menos tres molinos' con el dato más sólido del Catastro de 1751: se registraron siete molinos harineros, uno de ellos destruido."
+    },
+    {
+      "en": "Flag the 1546 license as useful but not fully straightforward evidence for the municipal place-name, because Alejandro Peris Barrio transcribes the same BNE manuscript reference as a license in 'la Foz' on the Manzanares, then called Guadarrama.",
+      "es": "Señalar que la licencia de 1546 es útil pero no una prueba completamente directa del topónimo municipal, porque Alejandro Peris Barrio transcribe la misma referencia manuscrita de la BNE como una licencia en 'la Foz' sobre el Manzanares, entonces llamado Guadarrama."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect BNE Manuscript 11,265 directly, or a full critical catalogue record, to determine whether the Álvaro de Mena license belongs to the present municipality of Los Molinos or to another Guadarrama/Manzanares location.",
+      "es": "Consultar directamente el manuscrito 11.265 de la BNE, o una ficha catalográfica crítica completa, para determinar si la licencia de Álvaro de Mena corresponde al actual municipio de Los Molinos o a otro emplazamiento Guadarrama/Manzanares."
+    },
+    {
+      "en": "Confirm through Adif or historical timetables whether Los Molinos-Guadarrama is only an infrastructure/railway designation or an official former passenger-facing station name.",
+      "es": "Confirmar mediante Adif u horarios históricos si Los Molinos-Guadarrama es solo una denominación ferroviaria/de infraestructura o un antiguo nombre oficial visible para viajeros."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_077/en/summary.short.md",
+      "summary": "content/stations/cercanias_077/en/summary.md",
+      "story": "content/stations/cercanias_077/en/story.md",
+      "confidence": "content/stations/cercanias_077/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_077/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_077/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_077/es/summary.short.md",
+      "summary": "content/stations/cercanias_077/es/summary.md",
+      "story": "content/stations/cercanias_077/es/story.md",
+      "confidence": "content/stations/cercanias_077/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_077/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_077/es/research-note.md"
+    }
+  }
+}

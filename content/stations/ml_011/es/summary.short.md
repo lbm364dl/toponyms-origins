@@ -1,0 +1,1 @@
+Prado de la Vega toma su nombre de la zona local de Pozuelo situada junto a la estación y el hospital Quirón. Las palabras aluden a un prado o pastizal en una vega fértil, un nombre de paisaje incorporado después al callejero y al desarrollo urbano.

@@ -1,0 +1,1 @@
+There is a minor alternative explanation in some general web summaries that the cotos marked the snow-covered route, but stronger official heritage and boundary documentation supports the royal-boundary-stone origin. The station appears in transport sources as Cotos, while the pass alternates between Puerto de Cotos, Puerto de los Cotos and Puerto del Paular.

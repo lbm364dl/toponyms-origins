@@ -1,0 +1,1 @@
+Parla Centro-Bulevar Norte recibe su nombre por su ubicación en el nodo central de transporte de Parla, en la calle Real, junto al Bulevar Norte. El origen del topónimo Parla es debatido, pero el nombre de la estación es un topónimo descriptivo moderno.

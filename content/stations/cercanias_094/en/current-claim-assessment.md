@@ -1,0 +1,1 @@
+The station is clearly named from the local Las Zorreras toponym near Navalquejigo, but the specific claim that it means a historically fox-rich place is an inference from the Spanish common noun zorrera, not something I found stated in a direct historical naming source.

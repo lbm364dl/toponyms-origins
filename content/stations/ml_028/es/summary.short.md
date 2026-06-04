@@ -1,0 +1,1 @@
+La estación de Montepríncipe toma su nombre de la cercana urbanización y avenida de Montepríncipe. La urbanización se levantó sobre parte del histórico Monte de Boadilla, vinculado al infante don Luis y más tarde a la familia Rúspoli.

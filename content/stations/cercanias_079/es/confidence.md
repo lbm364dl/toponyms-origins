@@ -1,0 +1,1 @@
+La relación entre la estación y el puerto está respaldada directamente por la información de estación y línea de Renfe y del CRTM, y la toponimia de Navacerrada está tratada por Toponomasticon Hispaniae. La confianza es verificada para el hecho de que la estación toma el nombre del puerto, pero el sentido semántico exacto de Navacerrada debe mantenerse matizado.

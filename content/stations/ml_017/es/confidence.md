@@ -1,0 +1,1 @@
+El origen directo del nombre de la estación queda verificado por la descripción de la propia Metro Ligero Oeste y por la información de trazado de la Comunidad de Madrid. El patrón de calles europeas del entorno está verificado en un plano oficial CRTM/Pozuelo. La única parte menos segura es la motivación municipal exacta y la fecha de denominación de la calle de Bélgica.

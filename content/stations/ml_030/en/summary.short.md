@@ -1,0 +1,1 @@
+Prado del Espino is named for the Prado del Espino area of Boadilla del Monte, where the ML3 stop stands on Calle Labradores. The name literally means a meadow or pasture of the espino, a thorny hawthorn-type tree or shrub.

@@ -1,0 +1,1 @@
+Iglesia Centro is named for the Iglesia de Nuestra Señora de la Asunción, Parla's old parish church, which stands beside the stop in the historic centre. The church dates to the sixteenth century, though much of its present appearance comes from twentieth-century rebuilding.

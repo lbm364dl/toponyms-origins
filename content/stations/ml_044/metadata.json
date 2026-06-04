@@ -1,0 +1,89 @@
+{
+  "id": "ml_044",
+  "name": "Reyes Católicos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Isabel I of Castile and Fernando II of Aragon, the Catholic Monarchs",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "CRTM - Reyes Católicos",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_56/",
+      "type": "official",
+      "relevance_en": "Confirms the current transport stop, its surface-station status, fare zone and address at Calle Reyes Católicos, 37 in Parla.",
+      "relevance_es": "Confirma la parada actual, su condición de estación en superficie, la zona tarifaria y la dirección en la calle Reyes Católicos, 37, en Parla."
+    },
+    {
+      "title": "Portal de Transparencia de Parla - Relación de inmuebles",
+      "url": "https://transparencia.ayuntamientoparla.es/relacion-de-inmuebles/",
+      "type": "official",
+      "relevance_en": "Confirms Calle Reyes Católicos as a municipal street and shows its relation to nearby royal-name streets such as Felipe II, Isabel II, Fernando III el Santo and Jaime I el Conquistador.",
+      "relevance_es": "Confirma la calle Reyes Católicos como vía municipal y muestra su relación con calles cercanas de nombres regios como Felipe II, Isabel II, Fernando III el Santo y Jaime I el Conquistador."
+    },
+    {
+      "title": "Real Academia de la Historia - Reyes Católicos",
+      "url": "https://www.rah.es/reyes-catolicos/",
+      "type": "reference",
+      "relevance_en": "Provides authoritative biographical context for Isabel I and Fernando II, including birth and death dates, the 1469 marriage, the dynastic relationship between Castile and Aragon, Granada and the title 'Católica'.",
+      "relevance_es": "Aporta contexto biográfico autorizado sobre Isabel I y Fernando II, con fechas de nacimiento y muerte, el matrimonio de 1469, la relación dinástica entre Castilla y Aragón, Granada y el título de «Católica»."
+    },
+    {
+      "title": "Catálogo Colectivo de la Red de Bibliotecas de los Archivos Estatales - Bula de Alejandro VI concediendo a D. Fernando V y a Dª Isabel el título de Reyes Católicos",
+      "url": "https://www.mcu.es/ccbae/en/consulta/registro.do?id=1513",
+      "type": "archive",
+      "relevance_en": "Archive-library catalogue record identifying the bull of Alexander VI that granted Fernando V and Isabel the title Reyes Católicos, dated 19 December 1496.",
+      "relevance_es": "Registro catalográfico archivístico-bibliotecario que identifica la bula de Alejandro VI por la que se concede a Fernando V e Isabel el título de Reyes Católicos, fechada el 19 de diciembre de 1496."
+    },
+    {
+      "title": "Universidad Complutense de Madrid - Alejandro VI honra a los reyes de España: Doña Isabel y Don Fernando, con el título de 'Reyes Católicos' (a. 1496)",
+      "url": "https://produccioncientifica.ucm.es/documentos/61989ac549d6133331f46131",
+      "type": "academic",
+      "relevance_en": "Bibliographic record for Angel Riesco Terrero's 2004 study on Alexander VI granting Isabel and Fernando the title Reyes Católicos in 1496.",
+      "relevance_es": "Ficha bibliográfica del estudio de Ángel Riesco Terrero de 2004 sobre la concesión por Alejandro VI del título de Reyes Católicos a Isabel y Fernando en 1496."
+    },
+    {
+      "title": "Madridiario - Inaugurado el tramo inicial del tranvía de Parla",
+      "url": "https://www.madridiario.es/noticia/20604/municipios/inaugurado-el-tramo-inicial-del-tranvia-de-parla.html",
+      "type": "press",
+      "relevance_en": "Contemporary press report dated 6 May 2007 documenting the inauguration of the initial Parla tram section with nine stops.",
+      "relevance_es": "Crónica periodística contemporánea fechada el 6 de mayo de 2007 que documenta la inauguración del tramo inicial del tranvía de Parla con nueve paradas."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Describe the 1469 marriage as a dynastic union of Castile and Aragon, not as the immediate unification of Spain as a modern state.",
+      "es": "Describir el matrimonio de 1469 como una unión dinástica de Castilla y Aragón, no como la unificación inmediata de España como Estado moderno."
+    },
+    {
+      "en": "For the papal title, prefer the specific date 19 December 1496 for the bull Si convenit; note that some general references give 1494.",
+      "es": "Para el título pontificio, preferir la fecha concreta del 19 de diciembre de 1496 para la bula Si convenit; señalar que algunas referencias generales dan 1494."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "No municipal naming resolution for Calle Reyes Católicos was found; a local archive or council naming file could confirm when the street itself received the name.",
+      "es": "No se encontró el acuerdo municipal que dio nombre a la calle Reyes Católicos; el archivo local o un expediente de nomenclatura podría confirmar cuándo recibió la vía ese nombre."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_044/en/summary.short.md",
+      "summary": "content/stations/ml_044/en/summary.md",
+      "story": "content/stations/ml_044/en/story.md",
+      "confidence": "content/stations/ml_044/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_044/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_044/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_044/es/summary.short.md",
+      "summary": "content/stations/ml_044/es/summary.md",
+      "story": "content/stations/ml_044/es/story.md",
+      "confidence": "content/stations/ml_044/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_044/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_044/es/research-note.md"
+    }
+  }
+}

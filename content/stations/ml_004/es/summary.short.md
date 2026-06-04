@@ -1,0 +1,1 @@
+La estación Antonio Saura toma su nombre de la cercana calle del Pintor Antonio Saura, dedicada a Antonio Saura Atarés, pintor y escritor esencial de la vanguardia española de posguerra. Saura cofundó El Paso en 1957 y fue una de las figuras más reconocidas del informalismo español.

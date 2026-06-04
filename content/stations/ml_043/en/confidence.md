@@ -1,0 +1,1 @@
+The station-specific renaming is directly supported by Tranvía de Parla’s 22 March 2022 notice, and the municipal boulevard naming is supported by the January 2019 municipal act record and contemporary local press. The biographical and chronology details are corroborated by the Fundación Miguel Ángel Blanco and RTVE.

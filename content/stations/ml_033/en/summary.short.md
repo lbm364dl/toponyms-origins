@@ -1,0 +1,1 @@
+Boadilla Centro is named for its position near the commercial area and old town of Boadilla del Monte. The town name belongs to a difficult Boadilla/Bobadilla family of place names, probably from either a word related to vaults or a pasture term connected with oxen, with del Monte added later to distinguish this Boadilla and describe its wooded, hilly setting.

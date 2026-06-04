@@ -1,0 +1,9 @@
+Puerta de Boadilla is named for Boadilla del Monte, the municipality in which the station stands. The word puerta, “gate” or “gateway,” fits the station’s transport role: it is the outer end of Metro Ligero Oeste line ML3 and sits by the local interchange area at the Virgen de la Paz roundabout, in the Siglo XXI district.
+
+The name behind the station is much older than the light rail. Boadilla belongs to a wide family of Castilian place names with forms such as Boad-, Bovad- and Bobad-. Toponomasticon Hispaniae treats Boadilla del Monte as part of that family and records medieval and early-modern forms including Bohadilla, Bobadilla and Boadilla.
+
+The exact meaning of Boadilla is not settled. One possible origin is a Germanic-derived architectural word connected with bóveda, a vault or arched structure; another is the theoretical Latin-Romance bovata, meaning a bovine pasture, ox pasture, or land worked by a yoke of oxen. Because the diminutive suffix and later sound changes blur the evidence, the safest public explanation is not “small vault” alone, but “a debated Boadilla/Bobadilla place-name type, possibly architectural or pastoral.”
+
+The second part, del Monte, also matters. Toponomasticon Hispaniae notes that the place still appears simply as Boadilla in the 1751 Catastro de Ensenada, while Boadilla del Monte is found by 1829 in Miñano’s dictionary. The qualifier helped distinguish this municipality from other Boadillas and matched the local landscape of wooded and uneven ground west of Madrid.
+
+The transport name arrived with the modern light-rail project. The Community of Madrid records the Colonia Jardín-Boadilla del Monte light rail as entering service on 27 July 2007 and lists Puerta de Boadilla as the final stop, with interchange and parking functions. No separate formal naming decree was found, so the station-name origin is best treated as probable rather than fully documented by a naming act.

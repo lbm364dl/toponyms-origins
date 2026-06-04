@@ -1,0 +1,1 @@
+Venus toma su nombre de la calle Planeta Venus, en Parla Este. El callejero del entorno sigue una clara temática astronómica, con nombres cercanos como avenida de los Planetas, avenida de las Estrellas y avenida del Sistema Solar.

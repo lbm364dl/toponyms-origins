@@ -1,0 +1,1 @@
+The station's address on Calle Reyes Católicos is confirmed by CRTM, the street itself is confirmed by Parla's municipal inventory, and authoritative historical sources identify the Catholic Monarchs as Isabel I and Fernando II. The only meaningful caveat is interpretive: the older claim should avoid implying that modern Spain was fully unified by the 1469 marriage alone.

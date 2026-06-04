@@ -1,0 +1,1 @@
+The main claim is correct: the station is named for the Puerto de Navacerrada mountain pass. The deeper explanation needs tightening because Toponomasticon Hispaniae says the pass appears to take its name from the village of Navacerrada, and the exact meaning of both nava and cerrada is less certain than the row implies.

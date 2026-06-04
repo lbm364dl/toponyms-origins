@@ -1,0 +1,1 @@
+The existing claim is substantially correct: the station is named for the municipality of Zarzalejo, and authoritative local and linguistic sources support a plant-name origin from zarza/zarzal. It should be refined to treat the station name as a place-name inherited from the municipality, with the descriptive phytonym behind that place-name.

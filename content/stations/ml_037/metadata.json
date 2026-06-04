@@ -1,0 +1,97 @@
+{
+  "id": "ml_037",
+  "name": "Puerta de Boadilla",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Boadilla del Monte",
+  "previous_names": "No former station name found. Historical place-name forms for Boadilla del Monte include Bohadilla (15th century), Bobadilla (1634), Boadilla (1751) and Boadilla del Monte by 1829.",
+  "naming_date": "27 July 2007",
+  "sources": [
+    {
+      "title": "Metro Ligero Colonia Jardín-Boadilla del Monte",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-boadilla-monte",
+      "type": "official",
+      "relevance_en": "Community of Madrid infrastructure page verifying the line’s 27 July 2007 service date and listing Puerta de Boadilla as the final stop with interchange and parking.",
+      "relevance_es": "Página de infraestructuras de la Comunidad de Madrid que verifica la puesta en servicio del 27 de julio de 2007 y enumera Puerta de Boadilla como parada final con intercambiador y aparcamiento."
+    },
+    {
+      "title": "MLO Customer Service Centre - Station descriptions",
+      "url": "https://www.metroligero-oeste.es/en/customer-service-centre",
+      "type": "official",
+      "relevance_en": "Operator source identifying Puerta de Boadilla as an ML3 station located at the Virgen de la Paz roundabout in the newly-created Siglo XXI district of Boadilla del Monte.",
+      "relevance_es": "Fuente del operador que identifica Puerta de Boadilla como estación de la ML3 situada en la glorieta de la Virgen de la Paz, en el barrio de nueva creación Siglo XXI de Boadilla del Monte."
+    },
+    {
+      "title": "Puerta de Boadilla - Consorcio Regional de Transportes de Madrid",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_38?lang=es",
+      "type": "official",
+      "relevance_en": "Official CRTM station page for Puerta de Boadilla, useful for confirming the transport entity and station mapping resources.",
+      "relevance_es": "Página oficial del CRTM para la estación Puerta de Boadilla, útil para confirmar la entidad de transporte y los recursos cartográficos de la estación."
+    },
+    {
+      "title": "E. Nieto Ballester, 'Boadilla del Monte', Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/boadilla-del-monte",
+      "type": "academic",
+      "relevance_en": "Authoritative toponymic source explaining the debated roots of Boadilla, the later addition of del Monte, historical forms, and geographic context.",
+      "relevance_es": "Fuente toponímica autorizada que explica las raíces discutidas de Boadilla, el añadido posterior de del Monte, las formas históricas y el contexto geográfico."
+    },
+    {
+      "title": "La Comunidad de Madrid alcanza los 100 millones de usuarios en Metro Ligero Oeste coincidiendo con sus 17 años de funcionamiento",
+      "url": "https://www.comunidad.madrid/noticias/2024/05/25/comunidad-madrid-alcanza-100-millones-usuarios-metro-ligero-oeste-coincidiendo-17-anos-funcionamiento",
+      "type": "official",
+      "relevance_en": "Official regional news item confirming Metro Ligero Oeste’s role since 2007 in connecting Boadilla del Monte, Pozuelo de Alarcón and Alcorcón with the wider transport network.",
+      "relevance_es": "Noticia oficial regional que confirma el papel de Metro Ligero Oeste desde 2007 al conectar Boadilla del Monte, Pozuelo de Alarcón y Alcorcón con la red general de transporte."
+    },
+    {
+      "title": "Metro Ligero Oeste duplica su servicio exprés en la línea ML3 desde Boadilla del Monte",
+      "url": "https://boadilladigital.es/metro-ligero-oeste-servicio-expres-ml3/",
+      "type": "press",
+      "relevance_en": "Local press report on the 2025 express-service expansion and the nearly 16,000 weekday-user figure; useful for the current-claim assessment but less authoritative than official transport sources.",
+      "relevance_es": "Información de prensa local sobre la ampliación del servicio exprés en 2025 y la cifra de casi 16.000 usuarios en días laborables; útil para valorar la afirmación actual, aunque menos autorizada que las fuentes oficiales de transporte."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the single derivation from Latin boveda/bovadilla with the more cautious Toponomasticon Hispaniae explanation: Boadilla may come from a Germanic architectural root related to vaults or from Latin-Romance bovata, a bovine pasture or ox-worked land.",
+      "es": "Sustituir la derivación única desde boveda/bovadilla por la explicación más cauta de Toponomasticon Hispaniae: Boadilla puede proceder de una raíz germánica arquitectónica relacionada con bóvedas o del latino-romance bovata, dehesa boyal o tierra trabajada por bueyes."
+    },
+    {
+      "en": "Add that del Monte is a later distinguishing qualifier: the place is still documented as Boadilla in 1751 and as Boadilla del Monte by 1829.",
+      "es": "Añadir que del Monte es un calificativo diferenciador posterior: el lugar aún aparece como Boadilla en 1751 y como Boadilla del Monte en 1829."
+    },
+    {
+      "en": "Treat the 'gateway to Boadilla' reading as a well-supported interpretation from the station’s terminus and interchange role, not as a directly sourced official etymology.",
+      "es": "Tratar la lectura de «puerta de Boadilla» como una interpretación bien apoyada por su papel de cabecera e intercambiador, no como una etimología oficial citada de forma directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A formal construction, signage, or naming file from CRTM, the Community of Madrid, or Boadilla del Monte Town Council could confirm why the exact station wording Puerta de Boadilla was chosen.",
+      "es": "Un expediente formal de obra, señalización o denominación del CRTM, la Comunidad de Madrid o el Ayuntamiento de Boadilla del Monte podría confirmar por qué se eligió exactamente la forma Puerta de Boadilla."
+    },
+    {
+      "en": "The historical documents cited by Toponomasticon Hispaniae through PARES and archival references were not individually inspected here; the synthesis relies on the Toponomasticon entry.",
+      "es": "Los documentos históricos citados por Toponomasticon Hispaniae mediante PARES y referencias archivísticas no se inspeccionaron individualmente aquí; la síntesis se apoya en la entrada de Toponomasticon."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_037/en/summary.short.md",
+      "summary": "content/stations/ml_037/en/summary.md",
+      "story": "content/stations/ml_037/en/story.md",
+      "confidence": "content/stations/ml_037/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_037/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_037/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_037/es/summary.short.md",
+      "summary": "content/stations/ml_037/es/summary.md",
+      "story": "content/stations/ml_037/es/story.md",
+      "confidence": "content/stations/ml_037/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_037/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_037/es/research-note.md"
+    }
+  }
+}

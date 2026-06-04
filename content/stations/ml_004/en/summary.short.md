@@ -1,0 +1,1 @@
+Antonio Saura station is named for the nearby Calle del Pintor Antonio Saura, which honours Antonio Saura Atarés, a major Spanish painter and writer of the post-war avant-garde. Saura co-founded El Paso in 1957 and became one of the best-known figures of Spanish Informalism.

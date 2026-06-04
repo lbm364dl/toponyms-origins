@@ -1,0 +1,1 @@
+La estación toma claramente el nombre del topónimo local Las Zorreras, junto a Navalquejigo, pero la afirmación concreta de que alude a una abundancia histórica de zorros es una inferencia a partir del sustantivo común zorrera, no algo localizado en una fuente histórica directa sobre la denominación.

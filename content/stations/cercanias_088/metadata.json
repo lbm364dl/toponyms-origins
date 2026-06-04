@@ -1,0 +1,104 @@
+{
+  "id": "cercanias_088",
+  "name": "Villaverde Bajo",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Villaverde Bajo",
+  "previous_names": "Villaverde-Alicante",
+  "naming_date": "1906-07-19",
+  "sources": [
+    {
+      "title": "Adif: 60100 Villaverde Bajo",
+      "url": "https://www.adif.es/-/60100-villaverde-bajo",
+      "type": "official",
+      "relevance_en": "Confirms the current official Adif station name Villaverde Bajo and present railway-station context.",
+      "relevance_es": "Confirma el nombre oficial actual de Adif, Villaverde Bajo, y el contexto ferroviario vigente de la estación."
+    },
+    {
+      "title": "Renfe Data: Ficha Estacion 60100 Villaverde Bajo",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion60100.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 60100, name Villaverde Bajo, operator Renfe Viajeros, Cercanias Madrid area, and commercial lines C3, C4A and C4B.",
+      "relevance_es": "Confirma el código 60100, el nombre Villaverde Bajo, el explotador Renfe Viajeros, el ámbito Cercanías Madrid y las líneas comerciales C3, C4A y C4B."
+    },
+    {
+      "title": "Toponomasticon Hispaniae: Villaverde",
+      "url": "https://toponhisp.org/node/8622",
+      "type": "academic",
+      "relevance_en": "Provides the direct etymology of Villaverde from Latin villa and viridis, discusses the likely meaning of 'green settlement', and notes Villaverde's extinction as an independent municipality in 1954.",
+      "relevance_es": "Aporta la etimología directa de Villaverde desde el latín villa y viridis, comenta el sentido probable de 'villa verde' y señala la extinción de Villaverde como municipio independiente en 1954."
+    },
+    {
+      "title": "Juan Pedro Esteve Garcia, El ferrocarril de Madrid a Ciudad Real (1878-1988)",
+      "url": "https://www.docutren.com/historiaferroviaria/gijon2003/pdf/td2.pdf",
+      "type": "academic",
+      "relevance_en": "Gives the key railway chronology: Villaverde-Alicante siding opened in 1893, renamed Villaverde Bajo by Royal Order of 19 July 1906, and became a station on 1 June 1931.",
+      "relevance_es": "Aporta la cronología ferroviaria clave: apartadero de Villaverde-Alicante abierto en 1893, renombrado Villaverde Bajo por Real Orden de 19 de julio de 1906 y convertido en estación el 1 de junio de 1931."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Archivo municipal de Villaverde",
+      "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Villaverde/Archivo-de-Villa/?idCapitulo=12083840&vgnextchannel=9f51ca5d5fb96010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=cd507aefd9b5b010VgnVCM100000d90ca8c0RCRD",
+      "type": "official",
+      "relevance_en": "Confirms Villaverde's municipal archive dates and its annexation to Madrid by decree of 2 July 1954.",
+      "relevance_es": "Confirma las fechas del archivo municipal de Villaverde y su anexión a Madrid por Decreto de 2 de julio de 1954."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Plan Integral de Barrio Villaverde Bajo",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2009/04Abril/24Viernes/NotasdePrensa/PlanesBarrios/ficheros/Villaverde%20Bajo.pdf",
+      "type": "official",
+      "relevance_en": "Provides municipal context for Villaverde Bajo, including annexation on 31 July 1954, the district's development around railway and industry, and the station as a link between parts of the neighbourhood.",
+      "relevance_es": "Aporta contexto municipal sobre Villaverde Bajo, incluida la anexión el 31 de julio de 1954, el desarrollo del distrito en torno al ferrocarril y la industria, y la estación como nexo entre partes del barrio."
+    },
+    {
+      "title": "Fundacion Arquitectura COAM: Pabellones de viviendas de la antigua estacion",
+      "url": "https://fcoam.eu/guia/F3/F3.340A.htm",
+      "type": "reference",
+      "relevance_en": "Documents surviving employee housing from the second Villaverde Bajo station complex, built between 1924 and 1931 for MZA.",
+      "relevance_es": "Documenta los pabellones de viviendas de empleados conservados del segundo complejo de la estación de Villaverde Bajo, construido entre 1924 y 1931 para MZA."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Replace the 1861 claim with the better-supported railway chronology: the Villaverde-Alicante siding opened on 1 June 1893, was renamed Villaverde Bajo by Royal Order on 19 July 1906, and became a station on 1 June 1931.",
+      "es": "Sustituir la afirmación de 1861 por la cronología ferroviaria mejor respaldada: el apartadero de Villaverde-Alicante abrió el 1 de junio de 1893, fue renombrado Villaverde Bajo por Real Orden de 19 de julio de 1906 y pasó a estación el 1 de junio de 1931."
+    },
+    {
+      "en": "Do not present 'villa viridis' as a directly attested medieval form for this Madrid place unless a document is found; it is an etymological reconstruction from Latin villa plus viridis.",
+      "es": "No presentar 'villa viridis' como forma medieval documentada para este lugar madrileño salvo que aparezca un documento; es una reconstrucción etimológica a partir de villa y viridis."
+    },
+    {
+      "en": "Clarify that Villaverde Bajo is a traditional/local neighbourhood name; the official municipal barrio around much of the station area is Los Rosales.",
+      "es": "Aclarar que Villaverde Bajo es una denominación tradicional o vecinal; el barrio municipal oficial en buena parte del entorno de la estación es Los Rosales."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "The Royal Order of 19 July 1906 should ideally be checked in the official gazette or railway archive to confirm the exact wording of the name change.",
+      "es": "Conviene consultar la Real Orden de 19 de julio de 1906 en la gaceta oficial o en archivo ferroviario para confirmar la redacción exacta del cambio de nombre."
+    },
+    {
+      "en": "Local sources sometimes mention an 1851 or 1861 station connected with the Madrid-Aranjuez railway; this should be reconciled with Esteve Garcia's more precise account of the 1893 Villaverde-Alicante siding.",
+      "es": "Algunas fuentes locales mencionan una estación de 1851 o 1861 vinculada al ferrocarril Madrid-Aranjuez; habría que contrastarlo con el relato más preciso de Esteve Garcia sobre el apartadero de Villaverde-Alicante de 1893."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_088/en/summary.short.md",
+      "summary": "content/stations/cercanias_088/en/summary.md",
+      "story": "content/stations/cercanias_088/en/story.md",
+      "confidence": "content/stations/cercanias_088/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_088/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_088/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_088/es/summary.short.md",
+      "summary": "content/stations/cercanias_088/es/summary.md",
+      "story": "content/stations/cercanias_088/es/story.md",
+      "confidence": "content/stations/cercanias_088/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_088/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_088/es/research-note.md"
+    }
+  }
+}

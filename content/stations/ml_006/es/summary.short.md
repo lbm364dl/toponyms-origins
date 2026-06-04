@@ -1,0 +1,1 @@
+La estación Blasco Ibáñez toma su nombre de la calle de Vicente Blasco Ibáñez, situada junto a la parada de ML1 en Sanchinarro. La calle recuerda al novelista, periodista y político republicano valenciano Vicente Blasco Ibáñez (1867-1928).

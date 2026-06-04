@@ -1,0 +1,118 @@
+{
+  "id": "cercanias_090",
+  "name": "Universidad P. Comillas",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Universidad Pontificia Comillas, Cantoblanco campus",
+  "previous_names": "",
+  "naming_date": "2001",
+  "sources": [
+    {
+      "title": "Adif station page: Universidad Pontificia de Comillas",
+      "url": "https://www.adif.es/-/19001-univdad.p.comillas",
+      "type": "official",
+      "relevance_en": "Confirms the current official Adif station name and address at Carretera M-616, and shows current C4/C4a Cercanías service information.",
+      "relevance_es": "Confirma el nombre oficial actual usado por Adif, la dirección en la carretera M-616 y la información actual de servicio de Cercanías C4/C4a."
+    },
+    {
+      "title": "Renfe data station sheet: UNIVERSIDAD PONTIFICIA DE COMILLAS",
+      "url": "https://data.renfe.com/files/estaciones/FichaEstacion19001.pdf",
+      "type": "official",
+      "relevance_en": "Confirms station code 19001, name Universidad Pontificia de Comillas, Cercanías Madrid area, Renfe Viajeros as operator, and commercial line C4A in the 2019 station file.",
+      "relevance_es": "Confirma el código de estación 19001, el nombre Universidad Pontificia de Comillas, el área Cercanías Madrid, Renfe Viajeros como explotador y la línea comercial C4A en la ficha de 2019."
+    },
+    {
+      "title": "Universidad Pontificia Comillas: Información general / Localizaciones",
+      "url": "https://www.comillas.edu/estudiante-actual/horarios/",
+      "type": "official",
+      "relevance_en": "The university lists its Cantoblanco address and gives 'Tren de cercanías: Universidad Pontificia Comillas', directly linking the station name to the campus.",
+      "relevance_es": "La universidad indica la dirección de Cantoblanco y señala 'Tren de cercanías: Universidad Pontificia Comillas', vinculando directamente el nombre de la estación con el campus."
+    },
+    {
+      "title": "Guía para alumnos entrantes 2025-2026, Universidad Pontificia Comillas",
+      "url": "https://sp.upcomillas.es/centros/facultades/FCHS/DocumentosFCHS/INTERNACIONAL/Intercambios%20Alumnos%20Entrantes%20-Incoming/Prior%20to%20your%20arrival/Guia%20estudiante%20Esp%2025_26.pdf",
+      "type": "official",
+      "relevance_en": "Gives student-facing access instructions for the Cantoblanco campus, naming the transport stop as Universidad P. Comillas / Universidad Pontificia Comillas and specifying Cercanías line C-4.",
+      "relevance_es": "Ofrece instrucciones de acceso al campus de Cantoblanco para estudiantes, nombra la parada como Universidad P. Comillas / Universidad Pontificia Comillas y especifica la línea C-4 de Cercanías."
+    },
+    {
+      "title": "Universidad Pontificia Comillas: Historia y Compañía de Jesús",
+      "url": "https://www.comillas.edu/historia-y-compania-de-jesus/",
+      "type": "official",
+      "relevance_en": "Provides the university's institutional chronology: papal brief of 16 December 1890, founders/patrons, Jesuit direction, 1904 degree-granting authority, and gradual move to Madrid after authorization in 1969.",
+      "relevance_es": "Aporta la cronología institucional de la universidad: breve pontificio del 16 de diciembre de 1890, fundadores/patronos, dirección jesuita, concesión de grados en 1904 y traslado gradual a Madrid tras la autorización de 1969."
+    },
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Plano historia FFCC Madrid",
+      "url": "https://crtm.es/media/ljvhutqm/plano_historia_ffcc_madrid.pdf",
+      "type": "official",
+      "relevance_en": "Records the 2001 opening of the Cantoblanco-Alcobendas-San Sebastián de los Reyes branch and the new Universidad Pontificia de Comillas open-air stop built beside the university.",
+      "relevance_es": "Registra en 2001 la apertura del ramal Cantoblanco-Alcobendas-San Sebastián de los Reyes y de la nueva estación a cielo abierto Universidad Pontificia de Comillas junto a la universidad."
+    },
+    {
+      "title": "Ayuntamiento de Comillas: Claudio López Bru",
+      "url": "https://www.aytocomillas.es/comillas/opencms/contenido/Comillas/Historia/Personajes/Claudiolopezbru.html",
+      "type": "official",
+      "relevance_en": "Supports the role of Claudio López Bru, second Marquess of Comillas, in the transformation of the Comillas educational foundation into the Pontifical University.",
+      "relevance_es": "Respalda el papel de Claudio López Bru, segundo marqués de Comillas, en la transformación del proyecto educativo comillano en Universidad Pontificia."
+    },
+    {
+      "title": "Biblioteca Virtual de Defensa authority record: Comillas",
+      "url": "https://bibliotecavirtual.defensa.gob.es/BVMDefensa/bibliodef/es/consulta_aut/registro.do?control=BMDA20124239421",
+      "type": "archive",
+      "relevance_en": "Provides authority-record variants of the place name, including Cumiyas and Cumillas, useful for checking the older forms behind the town name.",
+      "relevance_es": "Aporta variantes de autoridad del topónimo, incluidas Cumiyas y Cumillas, útiles para comprobar las formas antiguas del nombre de la villa."
+    },
+    {
+      "title": "Comillas (Cantabria), Wikipedia article",
+      "url": "https://es.wikipedia.org/wiki/Comillas_(Cantabria)",
+      "type": "reference",
+      "relevance_en": "Used only as orientation for the contested town-name etymology: it summarizes the Cumiyas/Cumillas forms, the landscape-based explanation, and the folk 'five miles' story.",
+      "relevance_es": "Usada solo como orientación para la etimología discutida del topónimo: resume las formas Cumiyas/Cumillas, la explicación paisajística y la etimología popular de 'cinco millas'."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Change etymology_type from person to place, because the station is named for an institution/campus, not directly for Antonio López, Claudio López Bru, Tomás Gómez Carral, or another person.",
+      "es": "Cambiar etymology_type de persona a lugar, porque la estación toma el nombre de una institución/campus, no directamente de Antonio López, Claudio López Bru, Tomás Gómez Carral u otra persona."
+    },
+    {
+      "en": "Use 2001 as the naming/opening date unless a more specific inauguration date is later found; CRTM records the new Universidad Pontificia de Comillas stop in that year.",
+      "es": "Usar 2001 como fecha de denominación/apertura salvo que aparezca una fecha de inauguración más precisa; el CRTM registra la nueva estación Universidad Pontificia de Comillas en ese año."
+    },
+    {
+      "en": "Replace the unsupported Latin cumella 'little hilltop' wording with a cautious note: Comillas is attested in older forms such as Cumiyas/Cumillas and is commonly explained through curved terrain, small valleys, or rounded hills, while the 'five miles' story is folk etymology.",
+      "es": "Sustituir la formulación no respaldada de latín cumella, 'pequeña cima', por una nota prudente: Comillas aparece en formas antiguas como Cumiyas/Cumillas y suele explicarse por el relieve curvo, vallejos o lomas redondeadas, mientras que la historia de 'cinco millas' es una etimología popular."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A contemporary 2001 inauguration notice or BOE/Ministry file could refine the exact opening day and the official name at opening.",
+      "es": "Una noticia de inauguración de 2001 o un expediente del BOE/Ministerio podría precisar el día exacto de apertura y el nombre oficial inicial."
+    },
+    {
+      "en": "For the town-name etymology, a specialist Cantabrian toponymy source should be inspected before committing to a single linguistic derivation beyond the cautious landscape-based explanation.",
+      "es": "Para la etimología del topónimo Comillas, convendría revisar una fuente especializada de toponimia cántabra antes de fijar una derivación lingüística única más allá de la explicación paisajística prudente."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_090/en/summary.short.md",
+      "summary": "content/stations/cercanias_090/en/summary.md",
+      "story": "content/stations/cercanias_090/en/story.md",
+      "confidence": "content/stations/cercanias_090/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_090/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_090/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_090/es/summary.short.md",
+      "summary": "content/stations/cercanias_090/es/summary.md",
+      "story": "content/stations/cercanias_090/es/story.md",
+      "confidence": "content/stations/cercanias_090/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_090/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_090/es/research-note.md"
+    }
+  }
+}

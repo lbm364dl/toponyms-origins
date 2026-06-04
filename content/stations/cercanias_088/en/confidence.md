@@ -1,0 +1,1 @@
+The place-name origin is supported by current Adif/Renfe station records and by Toponomasticon Hispaniae's direct entry for Villaverde. The railway naming chronology is supported by a specialist railway-history paper, which gives the previous name, Royal Order date, and 1931 station-category date.

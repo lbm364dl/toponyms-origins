@@ -1,0 +1,1 @@
+Bélgica station takes its name from Calle de Bélgica, the street beside the stop in Pozuelo de Alarcón. The street belongs to a visible Avenida de Europa area cluster of country and capital names such as Francia, Bruselas, París, Lisboa, Holanda and Luxemburgo.

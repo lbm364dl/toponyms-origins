@@ -1,0 +1,121 @@
+{
+  "id": "ml_007",
+  "name": "María Tudor",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "María I de Inglaterra (María Tudor)",
+  "previous_names": "",
+  "naming_date": "24 May 2007",
+  "sources": [
+    {
+      "title": "CRTM: María Tudor",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_7/?lang=es",
+      "type": "official",
+      "relevance_en": "Official transport page listing the María Tudor ML1 station access at Calle de María Tudor, 15.",
+      "relevance_es": "Ficha oficial de transporte que sitúa el acceso de la estación María Tudor de ML1 en la calle de María Tudor, 15."
+    },
+    {
+      "title": "Comunidad de Madrid: Metro Ligero Pinar de Chamartín-Sanchinarro-Las Tablas. Tramo II",
+      "url": "https://www.comunidad.madrid/node/55522",
+      "type": "official",
+      "relevance_en": "Official regional works page giving the 24 May 2007 service date and naming María Tudor among the nine stations built for the line.",
+      "relevance_es": "Página oficial regional de la obra que da la puesta en servicio del 24 de mayo de 2007 y cita María Tudor entre las nueve estaciones construidas."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Callejero Oficial 2015",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "type": "official",
+      "relevance_en": "Official street listing confirming Calle de María Tudor in the district of Hortaleza.",
+      "relevance_es": "Callejero oficial que confirma la calle de María Tudor en el distrito de Hortaleza."
+    },
+    {
+      "title": "Metros Ligeros de Madrid: Quiénes somos",
+      "url": "https://www.metrosligerosdemadrid.es/quienes-somos/",
+      "type": "official",
+      "relevance_en": "Operator page explaining that ML1 serves Hortaleza, Sanchinarro and Las Tablas and gives the line's basic characteristics.",
+      "relevance_es": "Página del operador que explica que ML1 da servicio a Hortaleza, Sanchinarro y Las Tablas y resume las características básicas de la línea."
+    },
+    {
+      "title": "Telemadrid: Paradas de metro con nombre de mujer",
+      "url": "https://www.telemadrid.es/programas/a-un-metro-de-ti/Paradas-metro-nombre-mujer-0-2363763639--20210729124950.html",
+      "type": "press",
+      "relevance_en": "Regional public-media article explicitly identifying the María Tudor stop with Mary I of England and Ireland (1516-1558).",
+      "relevance_es": "Artículo de la televisión pública regional que identifica explícitamente la parada María Tudor con María I de Inglaterra e Irlanda (1516-1558)."
+    },
+    {
+      "title": "The Royal Family: Mary I (r.1553-1558)",
+      "url": "https://www.royal.uk/mary-i",
+      "type": "official",
+      "relevance_en": "Authoritative royal biography stating that Mary I was the first queen regnant and summarizing her Catholic restoration, marriage to Philip and death.",
+      "relevance_es": "Biografía oficial de la monarquía británica que afirma que María I fue la primera reina reinante y resume su restauración católica, su matrimonio con Felipe y su muerte."
+    },
+    {
+      "title": "Museo Nacional del Prado: María Tudor, reina de Inglaterra",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/maria-tudor-reina-de-inglaterra-segunda-mujer-de/aef6ebc4-081a-44e6-974d-6c24aef95fc4",
+      "type": "official",
+      "relevance_en": "Official Prado entry for Antonio Moro's 1554 portrait, documenting María Tudor as queen of England, daughter of Henry VIII and Catherine of Aragon, and second wife of Philip II.",
+      "relevance_es": "Ficha oficial del Prado del retrato de Antonio Moro de 1554, que documenta a María Tudor como reina de Inglaterra, hija de Enrique VIII y Catalina de Aragón, y segunda esposa de Felipe II."
+    },
+    {
+      "title": "The National Archives: Draft marriage treaty of Mary I and Philip II, 1553",
+      "url": "https://images.nationalarchives.gov.uk/asset/80999/",
+      "type": "archive",
+      "relevance_en": "Archival record for a draft marriage treaty between Mary I and Philip, useful for the legal context of the marriage.",
+      "relevance_es": "Registro archivístico de un borrador del tratado matrimonial entre María I y Felipe, útil para el contexto legal del matrimonio."
+    },
+    {
+      "title": "Select Documents of English Constitutional History: Act for the Marriage of Queen Mary to Philip of Spain",
+      "url": "https://www.originalsources.com/Document.aspx?DocID=W85SBXWAEJGN7NM",
+      "type": "reference",
+      "relevance_en": "Published text of the 1554 marriage act, showing the conditional kingly style granted to Philip and the protections for English offices and laws.",
+      "relevance_es": "Texto publicado del acta matrimonial de 1554, que muestra el tratamiento regio condicional concedido a Felipe y las protecciones para cargos y leyes inglesas."
+    },
+    {
+      "title": "Britannica: Mary I",
+      "url": "https://www.britannica.com/biography/Mary-I",
+      "type": "reference",
+      "relevance_en": "Reference biography supporting the chronology of Mary's life, her parents, accession and marriage policy.",
+      "relevance_es": "Biografía de referencia que respalda la cronología de la vida de María, sus padres, su acceso al trono y su política matrimonial."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "The station should be located in Hortaleza/Valdefuentes-Sanchinarro rather than Fuencarral-El Pardo.",
+      "es": "La estación debe situarse en Hortaleza/Valdefuentes-Sanchinarro, no en Fuencarral-El Pardo."
+    },
+    {
+      "en": "The marriage settlement should not be reduced to a clause barring Philip from being crowned: it gave him kingly style during the marriage while preserving English law and limiting any independent or continuing claim.",
+      "es": "El acuerdo matrimonial no debe reducirse a una cláusula que impedía coronar a Felipe: le daba tratamiento regio durante el matrimonio, pero preservaba el derecho inglés y limitaba cualquier derecho independiente o posterior."
+    },
+    {
+      "en": "The source list should replace Wikipedia-heavy support with CRTM, Comunidad de Madrid, Ayuntamiento de Madrid, The Royal Family, Museo del Prado and documentary sources on the marriage treaty.",
+      "es": "La lista de fuentes debe sustituir el apoyo excesivo en Wikipedia por CRTM, Comunidad de Madrid, Ayuntamiento de Madrid, The Royal Family, Museo del Prado y fuentes documentales sobre el tratado matrimonial."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A municipal street-naming expediente or plenary naming resolution for Calle de María Tudor was not found online; inspecting the Archivo de Villa or official street-name files could confirm the exact date and wording of the street dedication.",
+      "es": "No se encontró en línea el expediente municipal o acuerdo plenario de rotulación de la calle de María Tudor; consultar el Archivo de Villa o los expedientes oficiales de denominación podría confirmar la fecha exacta y la redacción de la dedicatoria."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_007/en/summary.short.md",
+      "summary": "content/stations/ml_007/en/summary.md",
+      "story": "content/stations/ml_007/en/story.md",
+      "confidence": "content/stations/ml_007/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_007/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_007/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_007/es/summary.short.md",
+      "summary": "content/stations/ml_007/es/summary.md",
+      "story": "content/stations/ml_007/es/story.md",
+      "confidence": "content/stations/ml_007/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_007/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_007/es/research-note.md"
+    }
+  }
+}

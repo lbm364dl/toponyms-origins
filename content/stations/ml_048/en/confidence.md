@@ -1,0 +1,1 @@
+CRTM currently lists Tierra Norte and Tierra Sur as official tram stops, and municipal/Community of Madrid street listings confirm Calle Planeta Tierra and the surrounding astronomical street names. The exact act or date assigning the station name was not found, but the origin from the adjacent street and naming theme is directly supported.

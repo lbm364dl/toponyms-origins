@@ -1,0 +1,1 @@
+This tram stop is named after the Polígono Industrial Ciudad de Parla, the industrial estate it serves on Calle Berlín. It opened with the Parque Parla Este-Polígono Industrial section on 8 September 2007.

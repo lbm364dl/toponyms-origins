@@ -1,0 +1,97 @@
+{
+  "id": "ml_033",
+  "name": "Boadilla Centro",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Boadilla del Monte, especially its central/commercial and historic urban area",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Boadilla del Monte | Toponomasticon Hispaniae",
+      "url": "https://toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantica/toponimo/boadilla-del-monte",
+      "type": "academic",
+      "relevance_en": "Authoritative linguistic source for the two possible roots of Boadilla, the explanation of del Monte, historical forms, coordinates, and the 2026 entry date.",
+      "relevance_es": "Fuente lingüística autorizada para las dos posibles raíces de Boadilla, la explicación de del Monte, las formas históricas, las coordenadas y la fecha de la ficha de 2026."
+    },
+    {
+      "title": "MLO al teléfono - Boadilla Centro",
+      "url": "https://www.metroligero-oeste.es/atencion-al-cliente",
+      "type": "official",
+      "relevance_en": "Metro Ligero Oeste’s station description locates Boadilla Centro on ML3 beside the M-516 and near the commercial area, old town, and shopping centres of Boadilla del Monte.",
+      "relevance_es": "La descripción de Metro Ligero Oeste sitúa Boadilla Centro en la ML3 junto a la M-516 y cerca de la zona comercial, el casco antiguo y los centros comerciales de Boadilla del Monte."
+    },
+    {
+      "title": "Corporate Information - Metro Ligero Oeste",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Operator source confirming Metro Ligero Oeste is the concession holder for ML2 and ML3 and has connected Madrid with Boadilla del Monte and nearby municipalities since July 2007.",
+      "relevance_es": "Fuente del operador que confirma que Metro Ligero Oeste es concesionaria de las líneas ML2 y ML3 y conecta Madrid con Boadilla del Monte y otros municipios desde julio de 2007."
+    },
+    {
+      "title": "Ruta Verde Monte de Boadilla - Metro Ligero Oeste / CRTM PDF",
+      "url": "https://www.metroligero-oeste.es/uploads/files/1909.r-verdes-boadilla-del-monte.pdf",
+      "type": "official",
+      "relevance_en": "Transport-publication context for Boadilla Centro and Ferial de Boadilla, stating that the ML3 urban stops were inaugurated in 2007 and serve trips to the centre for errands, shopping, heritage, and nature routes.",
+      "relevance_es": "Publicación de transporte que contextualiza Boadilla Centro y Ferial de Boadilla, indicando que las paradas urbanas de la ML3 se inauguraron en 2007 y sirven para acceder al centro, hacer gestiones y compras, visitar patrimonio y realizar rutas naturales."
+    },
+    {
+      "title": "Historia de Boadilla del Monte - José Montero Padilla",
+      "url": "https://ayuntamientoboadilladelmonte.org/sites/default/files/historia_de_boadilla_del_monte-02_0.pdf",
+      "type": "book",
+      "relevance_en": "Municipal history book, inspected through OCR because the PDF is scanned; pages around 19-20 discuss the origin of Boadilla, cite 1208 Bovadella/Bobadilla documents, mention Jiménez de Gregorio’s boa theory, the possible Arabic theory, and reject a derivation from Beatriz de Bobadilla.",
+      "relevance_es": "Libro de historia municipal, inspeccionado mediante OCR porque el PDF está escaneado; las páginas en torno a la 19-20 tratan el origen de Boadilla, citan documentos de 1208 con Bovadella/Bobadilla, mencionan la teoría de boa de Jiménez de Gregorio, la posible teoría árabe y descartan la derivación desde Beatriz de Bobadilla."
+    },
+    {
+      "title": "Restauración del Palacio del Infante Don Luis | Comunidad de Madrid",
+      "url": "https://www.comunidad.madrid/patrimonio-cultural/restauracion-palacio-infante-don-luis",
+      "type": "official",
+      "relevance_en": "Official heritage source confirming that the Infante Luis Antonio de Borbón acquired the lordship in 1761 and that the old palace complex was transformed into the palace designed by Ventura Rodríguez.",
+      "relevance_es": "Fuente patrimonial oficial que confirma que el infante Luis Antonio de Borbón adquirió el señorío en 1761 y que el antiguo conjunto palaciego fue transformado en el palacio diseñado por Ventura Rodríguez."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Do not state that the earliest documentation is the 1222 Fuero de Madrid; the municipal history book cites Bovadella/Bobadilla forms from 28 July and 22 December 1208, and Toponomasticon Hispaniae gives a separate documentary sequence beginning with 1427 for its entry.",
+      "es": "No debe afirmarse que la documentación más antigua sea el Fuero de Madrid de 1222; la historia municipal cita formas Bovadella/Bobadilla del 28 de julio y del 22 de diciembre de 1208, y Toponomasticon Hispaniae ofrece para su ficha una secuencia documental propia que empieza en 1427."
+    },
+    {
+      "en": "The Toponomasticon claim should be framed as two possible etymologies, not as a settled origin; the source explicitly says it is not easy to decide between them.",
+      "es": "La referencia a Toponomasticon debe formularse como dos etimologías posibles, no como un origen resuelto; la fuente dice expresamente que no es fácil decidir entre ellas."
+    },
+    {
+      "en": "The del Monte element should be added to the display explanation: Toponomasticon says it was formally added to avoid homonymy and refers to the town’s montuous terrain.",
+      "es": "Conviene añadir la explicación de del Monte: Toponomasticon indica que se incorporó formalmente para evitar homonimias y que alude al terreno montuoso de la localidad."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A human reviewer may want to inspect the full cited 1208 documents, because the municipal history book reports them but the scanned PDF requires OCR and does not provide a direct archival URL in the extracted passage.",
+      "es": "Un revisor humano puede querer consultar íntegramente los documentos citados de 1208, porque la historia municipal los menciona pero el PDF escaneado requiere OCR y el pasaje extraído no aporta una URL archivística directa."
+    },
+    {
+      "en": "No separate naming resolution for the individual station name was found; the date 2007-07-27 is the service opening date and the most likely naming date.",
+      "es": "No se ha localizado una resolución independiente de denominación de la estación; la fecha 27-07-2007 es la apertura del servicio y la fecha de denominación más probable."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_033/en/summary.short.md",
+      "summary": "content/stations/ml_033/en/summary.md",
+      "story": "content/stations/ml_033/en/story.md",
+      "confidence": "content/stations/ml_033/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_033/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_033/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_033/es/summary.short.md",
+      "summary": "content/stations/ml_033/es/summary.md",
+      "story": "content/stations/ml_033/es/story.md",
+      "confidence": "content/stations/ml_033/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_033/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_033/es/research-note.md"
+    }
+  }
+}

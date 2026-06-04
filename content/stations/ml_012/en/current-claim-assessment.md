@@ -1,0 +1,1 @@
+The main claim is well supported: the station takes its name from the Pozuelo residential colony founded and parcelled in 1926, with its residents' society created three years later. The current row should correct the 'near Cerro de los Ángeles' wording, because that Cerro is in Getafe, not Pozuelo.

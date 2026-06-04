@@ -1,0 +1,1 @@
+The Parla tram stop takes its name from nearby Calle Isabel II, almost certainly referring to Queen Isabel II of Spain, who reigned from 1833 until her overthrow in 1868. The exact municipal act naming the street or stop has not been located.

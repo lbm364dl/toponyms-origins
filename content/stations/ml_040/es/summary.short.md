@@ -1,0 +1,1 @@
+La Ballena toma su nombre del cercano Parque de la Ballena y del entorno de La Ballena en Parla. El nombre recuerda una leyenda local en la que unos arrieros confundieron una albarda flotando en la antigua laguna con una ballena.

@@ -1,0 +1,111 @@
+{
+  "id": "ml_020",
+  "name": "Avenida de Europa",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Avenida de Europa (Pozuelo de Alarcón)",
+  "previous_names": "",
+  "naming_date": "2007-07-27",
+  "sources": [
+    {
+      "title": "Metro Ligero Colonia Jardín-Pozuelo de Alarcón",
+      "url": "https://www.comunidad.madrid/infraestructuras/metro-ligero-colonia-jardin-pozuelo-alarcon",
+      "type": "official",
+      "relevance_en": "Official Community of Madrid page confirming ML2 was put into service on 27 July 2007, listing Avenida de Europa among the stations, and stating that Avenida de Europa gives its name to the underground station located at the junction with Avenida de la Comunidad de Madrid.",
+      "relevance_es": "Página oficial de la Comunidad de Madrid que confirma la puesta en servicio de ML2 el 27 de julio de 2007, enumera Avenida de Europa entre las estaciones y afirma que la Avenida de Europa da nombre a la estación subterránea situada en el cruce con la Avenida de la Comunidad de Madrid."
+    },
+    {
+      "title": "Parque empresarial Avenida de Europa",
+      "url": "https://www.pozuelodealarcon.org/empleo-y-empresas/empresas-y-emprendimiento/grandes-empresas-e-inversion/parques-empresariales/parque-empresarial-avenida-de-europa",
+      "type": "official",
+      "relevance_en": "Pozuelo town hall identifies Avenida de Europa as a business area with many office buildings, professional premises and shops, supporting the current commercial/office character of the station area.",
+      "relevance_es": "El Ayuntamiento de Pozuelo identifica Avenida de Europa como una zona empresarial con numerosos edificios de oficinas, despachos y locales, lo que respalda el carácter comercial y de oficinas actual del entorno de la estación."
+    },
+    {
+      "title": "SER - Información general",
+      "url": "https://www.pozuelodealarcon.org/tu-ciudad/transportes-y-movilidad/servicio-de-estacionamiento-regulado-ser/ser-informacion-general",
+      "type": "official",
+      "relevance_en": "Municipal mobility page listing the Avenida de Europa regulated-parking zone and nearby streets, including many European-themed names such as Alemania, Bélgica, Dinamarca, Francia, Grecia, Inglaterra, Irlanda, Portugal, Rumanía, Suecia, Suiza, Atenas and Estocolmo.",
+      "relevance_es": "Página municipal de movilidad que enumera la zona de estacionamiento regulado de Avenida de Europa y sus calles, incluidas numerosas denominaciones de tema europeo como Alemania, Bélgica, Dinamarca, Francia, Grecia, Inglaterra, Irlanda, Portugal, Rumanía, Suecia, Suiza, Atenas y Estocolmo."
+    },
+    {
+      "title": "Zonas de Pozuelo de Alarcón",
+      "url": "https://www.pozuelodealarcon.org/tu-ciudad/zonas-de-pozuelo-de-alarcon",
+      "type": "official",
+      "relevance_en": "Municipal page showing Avenida de Europa as a recognized area within Pozuelo's Zona Centro, supporting its use as a place-name beyond a single street.",
+      "relevance_es": "Página municipal que muestra Avenida de Europa como un ámbito reconocido dentro de la Zona Centro de Pozuelo, lo que respalda su uso como topónimo de zona y no solo como una calle aislada."
+    },
+    {
+      "title": "Antecedentes de planimetría",
+      "url": "https://www.pozuelodealarcon.org/tu-ciudad/archivo-municipal/antecedentes-de-planimetria",
+      "type": "archive",
+      "relevance_en": "Pozuelo Municipal Archive page explaining the Plan Parcial Ampliación Casa de Campo: initial approval in 1975, municipal discussions in 1979, first constructions in 1985, and continued use of the old planning descriptor into the 2000s.",
+      "relevance_es": "Página del Archivo Municipal de Pozuelo que explica el Plan Parcial Ampliación Casa de Campo: aprobación inicial en 1975, debates municipales en 1979, primeras construcciones en 1985 y uso continuado del antiguo descriptor urbanístico durante los años 2000."
+    },
+    {
+      "title": "El Ayuntamiento de Pozuelo aprobó ayer el plan de ampliación de la Casa de Campo",
+      "url": "https://elpais.com/diario/1981/04/28/madrid/357305055_850215.html",
+      "type": "press",
+      "relevance_en": "Contemporary 1981 press report on the approval of the Casa de Campo expansion plan, including the planned construction of about 7,500 homes and the political controversy around the development.",
+      "relevance_es": "Crónica periodística contemporánea de 1981 sobre la aprobación del plan de ampliación de la Casa de Campo, con la previsión de unas 7.500 viviendas y la polémica política en torno al desarrollo."
+    },
+    {
+      "title": "BOE-B-2004-194087",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2004-194087",
+      "type": "official",
+      "relevance_en": "Official BOE notice from 2004 identifying a parcel at Avenida de Europa 26 as part of the Plan Parcial Ampliación Casa de Campo, documenting the coexistence of the street address and older planning name.",
+      "relevance_es": "Anuncio oficial del BOE de 2004 que identifica una parcela en Avenida de Europa 26 como parte del Plan Parcial Ampliación Casa de Campo, documentando la convivencia de la dirección viaria y el antiguo nombre urbanístico."
+    },
+    {
+      "title": "Las obras de mejora de la mediana de la Avenida de Europa avanzan a buen ritmo",
+      "url": "https://www.pozuelodealarcon.org/tu-ayuntamiento/gabinete-de-prensa/noticias/las-obras-de-mejora-de-la-mediana-de-la-avenida-de-europa-avanzan-a-buen-ritmo",
+      "type": "official",
+      "relevance_en": "Pozuelo town hall news item calling Avenida de Europa one of the most heavily used avenues and a main commercial artery of the municipality.",
+      "relevance_es": "Noticia del Ayuntamiento de Pozuelo que califica la Avenida de Europa como una de las vías más transitadas y arteria principal y comercial del municipio."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Keep the core named_after value, but avoid presenting the 1986 EEC-entry explanation as verified unless a municipal naming record is found.",
+      "es": "Conviene mantener el valor principal de named_after, pero no presentar como verificada la explicación ligada a la entrada en la CEE en 1986 salvo que aparezca un acuerdo municipal de denominación."
+    },
+    {
+      "en": "Replace the unsourced claim of “more than thirty” European country and capital streets with a sourced, more cautious formulation: the municipal street/parking list shows many nearby European-themed streets, including countries and capitals.",
+      "es": "Sustituir la afirmación no documentada de “más de treinta” calles de países y capitales europeos por una formulación más prudente: el listado municipal de calles y estacionamiento muestra numerosas vías cercanas de tema europeo, entre países y capitales."
+    },
+    {
+      "en": "Add the older planning context: the area was historically the Plan Parcial Ampliación Casa de Campo, with first constructions documented from 1985.",
+      "es": "Añadir el contexto urbanístico anterior: la zona perteneció históricamente al Plan Parcial Ampliación Casa de Campo, con primeras construcciones documentadas desde 1985."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect municipal plenary or street-naming records for the exact date and rationale of the avenue name Avenida de Europa.",
+      "es": "Consultar actas plenarias o expedientes municipales de denominación de vías para conocer la fecha exacta y la motivación del nombre Avenida de Europa."
+    },
+    {
+      "en": "Verify the full count of European-themed streets in the surrounding area using an official callejero or nomenclátor export rather than secondary map sites.",
+      "es": "Verificar el recuento completo de calles de tema europeo del entorno mediante un callejero o nomenclátor oficial, no solo con mapas secundarios."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_020/en/summary.short.md",
+      "summary": "content/stations/ml_020/en/summary.md",
+      "story": "content/stations/ml_020/en/story.md",
+      "confidence": "content/stations/ml_020/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_020/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_020/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_020/es/summary.short.md",
+      "summary": "content/stations/ml_020/es/summary.md",
+      "story": "content/stations/ml_020/es/story.md",
+      "confidence": "content/stations/ml_020/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_020/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_020/es/research-note.md"
+    }
+  }
+}

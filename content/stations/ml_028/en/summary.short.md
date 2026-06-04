@@ -1,0 +1,1 @@
+Montepríncipe station takes its name from the nearby Montepríncipe residential development and avenue. The development was built from part of the historic Monte de Boadilla estate, long associated with the Infante Don Luis and later the Rúspoli family.

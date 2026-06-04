@@ -1,0 +1,1 @@
+Infante Don Luis toma su nombre de Luis Antonio Jaime de Borbón y Farnesio, el príncipe borbónico que adquirió el señorío de Boadilla en 1761. Su palacio se convirtió en uno de los monumentos definitorios del municipio.

@@ -1,0 +1,1 @@
+Estación de Aravaca is the ML2 terminus at the historic Madrid neighbourhood of Aravaca, now part of Moncloa-Aravaca. The place-name is medieval and has been explained by Joaquín Caridad Arias as a Celtic ethnic name related to the Arevaci, though that deeper derivation should be treated as probable rather than fully settled.

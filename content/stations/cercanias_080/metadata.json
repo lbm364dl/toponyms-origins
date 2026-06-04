@@ -1,0 +1,103 @@
+{
+  "id": "cercanias_080",
+  "name": "Cotos",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Puerto de Cotos / Puerto de los Cotos",
+  "previous_names": "For the pass: Puerto del Paular / Puerto de El Paular. No former station name found.",
+  "naming_date": "1964 for the railway station name in service; 1761 is the key historical date for Carlos III's acquisition and demarcation of Valsain.",
+  "sources": [
+    {
+      "title": "Consorcio Regional de Transportes de Madrid: Cotos",
+      "url": "https://www.crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_23?lang=es",
+      "type": "official",
+      "relevance_en": "Confirms the current transport station Cotos, its C-9 correspondence and access location on the M-604 in San Ildefonso.",
+      "relevance_es": "Confirma la estación de transporte actual Cotos, su correspondencia con la C-9 y el acceso por la M-604 en San Ildefonso."
+    },
+    {
+      "title": "Centenario del Ferrocarril Eléctrico del Guadarrama 1923-2023",
+      "url": "https://www.crtm.es/media/bfaad5dn/centenario-fc-electrico-del-guadarrama.pdf",
+      "type": "official",
+      "relevance_en": "Gives the railway chronology: works to extend the line from Puerto de Navacerrada to Puerto de Cotos began in 1959, Cotos station building was completed in 1963, and the section opened in 1964.",
+      "relevance_es": "Aporta la cronología ferroviaria: las obras de prolongación desde el Puerto de Navacerrada al Puerto de Cotos comenzaron en 1959, el edificio de Cotos se terminó en 1963 y el tramo se abrió en 1964."
+    },
+    {
+      "title": "Catálogo Regional de Patrimonio Arquitectónico de la Comunidad de Madrid: Dos hitos de piedra del Camino Real, en el Puerto de Cotos",
+      "url": "https://www.comunidad.madrid/sites/default/files/doc/vivienda/texto_fichas_puentes_final.pdf",
+      "type": "official",
+      "relevance_en": "Directly states that two eighteenth-century stone markers were originally boundary stones of the Reales Pinares de Valsain and gave the Puerto de Cotos its name, previously Puerto del Paular.",
+      "relevance_es": "Afirma directamente que dos hitos de piedra del siglo XVIII fueron en origen mojones de los Reales Pinares de Valsaín y dieron nombre al Puerto de Cotos, conocido antes como Puerto del Paular."
+    },
+    {
+      "title": "Boletín Oficial de la Comunidad de Madrid: Decreto 40/2022, monte Los Cotos",
+      "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2022/07/01/BOCM-20220701-11.PDF",
+      "type": "official",
+      "relevance_en": "Confirms the present official mountain-land context of Los Cotos and notes that one boundary point is one of the royal Cotos from Carlos III's reign that delimited the Valsain woods.",
+      "relevance_es": "Confirma el contexto oficial actual del monte Los Cotos y señala que un punto de deslinde está constituido por uno de los Cotos Reales del reinado de Carlos III que deslindaron los montes de Valsaín."
+    },
+    {
+      "title": "Montes de Valsain: Los Montes de Valsain",
+      "url": "https://montesdevalsain.es/Index2.html",
+      "type": "official",
+      "relevance_en": "Supports the historical context: Carlos III bought the Valsain woods in 1761 for 4,450,000 reales and 28 maravedis and marked them with boundary stones.",
+      "relevance_es": "Respalda el contexto histórico: Carlos III compró los montes de Valsaín en 1761 por 4.450.000 reales y 28 maravedíes y los acotó con mojones."
+    },
+    {
+      "title": "Real Academia Española, Diccionario de la lengua española: coto",
+      "url": "https://dle.rae.es/coto",
+      "type": "reference",
+      "relevance_en": "Defines coto as a bounded land and as a marker placed to divide terms or estates, matching the boundary-stone explanation of the place-name.",
+      "relevance_es": "Define coto como terreno acotado y como mojón puesto para señalar la división de términos o heredades, lo que encaja con la explicación por mojones del topónimo."
+    },
+    {
+      "title": "Fernando Jiménez de Gregorio, Materiales para una toponimia de la provincia de Madrid (V), Anales del Instituto de Estudios Madrileños, 2005",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/3014087.pdf",
+      "type": "academic",
+      "relevance_en": "Lists Puerto del Paular or de los Cotos and treats Cotos under the category of limits, adding scholarly toponymic support for the boundary interpretation.",
+      "relevance_es": "Recoge Puerto del Paular o de los Cotos y remite Cotos al apartado de límites, aportando apoyo toponímico académico a la interpretación de deslinde."
+    },
+    {
+      "title": "Guadarramistas: El puerto de Cotos o puerto de El Paular",
+      "url": "https://guadarramistas.com/2015/04/30/el-puerto-de-cotos-o-puerto-de-el-paular/",
+      "type": "other",
+      "relevance_en": "Provides a detailed local-history explanation of the older Puerto de El Paular name, the 1761 Valsain purchase and the visible restored cotos at the pass.",
+      "relevance_es": "Aporta una explicación divulgativa local del antiguo nombre Puerto de El Paular, la compra de Valsaín en 1761 y los cotos restaurados visibles en el puerto."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use Puerto de Cotos / Puerto de los Cotos as the direct named_after value; the Carlos III boundary markers are the underlying origin of the pass name.",
+      "es": "Usar Puerto de Cotos / Puerto de los Cotos como valor directo de named_after; los mojones vinculados a Carlos III son el origen subyacente del nombre del puerto."
+    },
+    {
+      "en": "Avoid implying that the station name itself was assigned in 1761; that date belongs to the royal purchase and demarcation context, while the railway station opened with the 1964 extension.",
+      "es": "Evitar dar a entender que el nombre de la estación se asignó en 1761; esa fecha corresponde al contexto de compra y deslinde real, mientras que la estación ferroviaria abrió con la prolongación de 1964."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A full archival file or original deed for the 1761 Valsain purchase and subsequent boundary-setting would further strengthen the exact chronology of when the word Cotos displaced Puerto del Paular in common use.",
+      "es": "Un expediente archivístico completo o la escritura original de la compra de Valsaín de 1761 y del deslinde posterior reforzaría la cronología exacta de cuándo Cotos sustituyó en el uso común a Puerto del Paular."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/cercanias_080/en/summary.short.md",
+      "summary": "content/stations/cercanias_080/en/summary.md",
+      "story": "content/stations/cercanias_080/en/story.md",
+      "confidence": "content/stations/cercanias_080/en/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_080/en/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_080/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/cercanias_080/es/summary.short.md",
+      "summary": "content/stations/cercanias_080/es/summary.md",
+      "story": "content/stations/cercanias_080/es/story.md",
+      "confidence": "content/stations/cercanias_080/es/confidence.md",
+      "current_claim_assessment": "content/stations/cercanias_080/es/current-claim-assessment.md",
+      "research_note": "content/stations/cercanias_080/es/research-note.md"
+    }
+  }
+}

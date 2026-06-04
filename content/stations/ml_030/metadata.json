@@ -1,0 +1,115 @@
+{
+  "id": "ml_030",
+  "name": "Prado del Espino",
+  "status": "probable",
+  "confidence": "probable",
+  "recommended_etymology_type": "place",
+  "recommended_named_after": "Prado del Espino area, business park, and associated arroyo/barranco in Boadilla del Monte",
+  "previous_names": "",
+  "naming_date": "2007",
+  "sources": [
+    {
+      "title": "CRTM station page: Prado del Espino",
+      "url": "https://crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_31/",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the station name, surface-station status, location at Calle Labradores, 1 in Boadilla del Monte, fare zone, and service context.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre de la estación, su condición de estación en superficie, la ubicación en la calle Labradores, 1 de Boadilla del Monte, la zona tarifaria y el contexto de servicio."
+    },
+    {
+      "title": "Metro Ligero Oeste corporate information",
+      "url": "https://www.metroligero-oeste.es/en/corporate-information",
+      "type": "official",
+      "relevance_en": "Confirms that Metro Ligero Oeste operates ML2 and ML3 and has connected Madrid with Boadilla del Monte, Alcorcon and Pozuelo de Alarcon since July 2007.",
+      "relevance_es": "Confirma que Metro Ligero Oeste opera ML2 y ML3 y conecta Madrid con Boadilla del Monte, Alcorcón y Pozuelo de Alarcón desde julio de 2007."
+    },
+    {
+      "title": "Plan Parcial del Sector S.U.R. 1 \"Prado del Espino\", Anexo III",
+      "url": "https://idem.madrid.org/cartografia/planea/planeamiento/planeamiento/Boadilla_Monte/PlanesParciales/86486/ANEXO_1.PDF",
+      "type": "official",
+      "relevance_en": "Municipal/regional planning PDF documenting the Sector S.U.R. 1 Prado del Espino and the Barranco de Prado del Espino, including its hydrological setting and relation to the Poligono Industrial Prado del Espino.",
+      "relevance_es": "PDF urbanístico municipal/regional que documenta el Sector S.U.R. 1 Prado del Espino y el Barranco de Prado del Espino, incluido su contexto hidrológico y su relación con el Polígono Industrial Prado del Espino."
+    },
+    {
+      "title": "BOE-B-2024-44260, Confederacion Hidrografica del Tajo notice",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2024-44260",
+      "type": "official",
+      "relevance_en": "Official state notice identifying the Arroyo Prado del Espino as a watercourse in Boadilla del Monte and tying it to urbanization works in sector AH-25 Prado del Espino.",
+      "relevance_es": "Anuncio oficial estatal que identifica el Arroyo Prado del Espino como cauce en Boadilla del Monte y lo vincula a obras de urbanización del sector AH-25 Prado del Espino."
+    },
+    {
+      "title": "RAE Diccionario de la lengua espanola: prado",
+      "url": "https://dle.rae.es/prado",
+      "type": "reference",
+      "relevance_en": "Provides the standard Spanish definition and Latin origin of prado, supporting the literal meadow/pasture component of the place-name.",
+      "relevance_es": "Aporta la definición normativa y el origen latino de prado, respaldando el componente literal de prado o pastizal del topónimo."
+    },
+    {
+      "title": "RAE Diccionario de la lengua espanola: espino",
+      "url": "https://dle.rae.es/espino",
+      "type": "reference",
+      "relevance_en": "Defines espino as a thorny rosaceous tree and identifies espino blanco as espino albar, supporting the hawthorn/majuelo interpretation while giving the word as derived from espina.",
+      "relevance_es": "Define espino como árbol rosáceo espinoso e identifica espino blanco con espino albar, respaldando la interpretación de espino blanco o majuelo y dando la palabra como derivada de espina."
+    },
+    {
+      "title": "PMUS de Boadilla del Monte, Tomo II: Propuestas y Plan de Accion",
+      "url": "https://www.ayuntamientoboadilladelmonte.org/sites/default/files/b._tomo_ii_propuestas_y_plan_de_accion.pdf",
+      "type": "official",
+      "relevance_en": "Municipal mobility plan describing Parque Empresarial Prado del Espino as an economic activity area beside Santander's Ciudad Financiera, with about 150 companies and more than 2,500 workers.",
+      "relevance_es": "Plan municipal de movilidad que describe el Parque Empresarial Prado del Espino como área de actividad económica junto a la Ciudad Financiera del Santander, con unas 150 empresas y más de 2.500 trabajadores."
+    },
+    {
+      "title": "Solo Boadilla: Los otros vecinos: las empresas",
+      "url": "https://www.soloboadilla.es/reportajes/reportaje/news/los-otros-vecinos-las-empresas/",
+      "type": "press",
+      "relevance_en": "Local reporting gives useful context on the area's transition from intended residential urbanization to industrial/business park, early company arrivals around 2004, the 2007 light-rail opening, and trade-themed street names.",
+      "relevance_es": "Reportaje local que aporta contexto sobre la transición del área desde una urbanización residencial prevista a polígono o parque empresarial, la llegada de primeras empresas hacia 2004, la apertura del metro ligero en 2007 y los nombres de calles vinculados a oficios."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Treat the station as named after the local Prado del Espino place-name/business area, not directly after the plant alone.",
+      "es": "Conviene tratar la estación como llamada por el topónimo o área empresarial Prado del Espino, no directamente por la planta aislada."
+    },
+    {
+      "en": "The claim that hawthorn once grew wild on the site should be softened; it is a plausible inference from the toponym, not a documented fact in the sources found.",
+      "es": "Debe matizarse la afirmación de que el espino crecía silvestre en el lugar; es una inferencia plausible a partir del topónimo, no un hecho documentado en las fuentes localizadas."
+    },
+    {
+      "en": "The Spanish named_after field contains a language error: it should say \"prado del espino\" or \"prado del espino blanco\", not \"prado de the hawthorn\".",
+      "es": "El campo named_after_es contiene un error de idioma: debe decir \"prado del espino\" o \"prado del espino blanco\", no \"prado de the hawthorn\"."
+    },
+    {
+      "en": "For the word history, RAE gives espino as derived from espina; a Latin form should be expressed cautiously as ultimately related to Latin spina, not simply \"spinus\" without support.",
+      "es": "Para la historia léxica, la RAE da espino como derivado de espina; cualquier forma latina debe formularse con cautela como relación última con el latín spina, no simplemente \"spinus\" sin respaldo."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "A historical cadastral map, old IGN sheet, municipal toponymy file, or archival estate document could confirm how far back Prado del Espino is attested and whether the name originally referred to a meadow, a stream, a field parcel, or vegetation.",
+      "es": "Un mapa catastral histórico, una hoja antigua del IGN, un expediente municipal de toponimia o un documento de finca podría confirmar desde cuándo consta Prado del Espino y si el nombre se refería originalmente a un prado, un arroyo, una parcela o la vegetación."
+    },
+    {
+      "en": "No inspected source directly documents the presence of hawthorn at the exact station site before urban development.",
+      "es": "Ninguna fuente consultada documenta directamente la presencia de espino en el emplazamiento exacto de la estación antes de la urbanización."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_030/en/summary.short.md",
+      "summary": "content/stations/ml_030/en/summary.md",
+      "story": "content/stations/ml_030/en/story.md",
+      "confidence": "content/stations/ml_030/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_030/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_030/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_030/es/summary.short.md",
+      "summary": "content/stations/ml_030/es/summary.md",
+      "story": "content/stations/ml_030/es/story.md",
+      "confidence": "content/stations/ml_030/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_030/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_030/es/research-note.md"
+    }
+  }
+}

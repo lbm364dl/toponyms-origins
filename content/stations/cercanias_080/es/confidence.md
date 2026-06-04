@@ -1,0 +1,1 @@
+La documentación oficial de patrimonio afirma directamente que los mojones de los Reales Pinares de Valsaín dieron nombre al Puerto de Cotos, y la documentación oficial de transporte confirma el nombre de la estación y su contexto en la C-9. La compra real de 1761 y el significado lingüístico de coto cuentan además con apoyo independiente.

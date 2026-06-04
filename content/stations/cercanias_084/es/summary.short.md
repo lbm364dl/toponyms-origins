@@ -1,0 +1,1 @@
+La estación de Tres Cantos toma su nombre del municipio al que sirve. El topónimo probablemente significa 'tres piedras' y se explica mejor como una referencia a mojones de piedra cerca del encuentro entre Colmenar Viejo, Alcobendas y Madrid.

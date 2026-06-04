@@ -1,0 +1,1 @@
+The existing claim is essentially right: the Parla tram stop is best explained by the nearby official street name Calle Jaime I El Conquistador, which commemorates King Jaime I of Aragon. The main weakness is that I found municipal proof of the street name and transport proof of the stop, but not a primary naming resolution explicitly saying the stop was named after the street.

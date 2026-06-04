@@ -1,0 +1,1 @@
+La parada del tranvía de Parla toma su nombre de la cercana calle Isabel II, casi con seguridad dedicada a la reina Isabel II de España, que reinó entre 1833 y su destronamiento en 1868. No se ha localizado el acuerdo municipal exacto que dio nombre a la calle o a la parada.

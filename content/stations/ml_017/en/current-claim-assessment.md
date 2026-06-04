@@ -1,0 +1,1 @@
+The core claim is well supported: the official MLO station description places Bélgica on Vía de las Dos Castillas beside Calle de Bélgica. The wider European-street context is visible on official transport mapping, but the claim that the names specifically reflect 1980s-90s pro-European optimism is an interpretation rather than directly sourced evidence.

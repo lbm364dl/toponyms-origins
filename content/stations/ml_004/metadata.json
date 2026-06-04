@@ -1,0 +1,96 @@
+{
+  "id": "ml_004",
+  "name": "Antonio Saura",
+  "status": "verified",
+  "confidence": "verified",
+  "recommended_etymology_type": "person",
+  "recommended_named_after": "Antonio Saura Atarés",
+  "previous_names": "",
+  "naming_date": "2007-05-24 (station opened with this name; street naming date not found)",
+  "sources": [
+    {
+      "title": "CRTM station page: Antonio Saura",
+      "url": "https://www.crtm.es/tu-transporte-publico/metro-ligero-tranvia/estaciones/10_4/",
+      "type": "official",
+      "relevance_en": "Official transport source confirming the current station name, Metro Ligero/Tranvía context, fare zone, accessibility and access via Calle del Príncipe Carlos.",
+      "relevance_es": "Fuente oficial de transporte que confirma el nombre actual de la estación, su contexto de Metro Ligero/Tranvía, zona tarifaria, accesibilidad y acceso por la calle del Príncipe Carlos."
+    },
+    {
+      "title": "Comunidad de Madrid: La Ampliación del Metro de Madrid",
+      "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
+      "type": "official",
+      "relevance_en": "Confirms that the Pinar de Chamartín-Sanchinarro-Las Tablas light-rail line opened on 24 May 2007 and lists Antonio Saura among the nine stations.",
+      "relevance_es": "Confirma que la línea de metro ligero Pinar de Chamartín-Sanchinarro-Las Tablas se puso en servicio el 24 de mayo de 2007 e incluye Antonio Saura entre sus nueve estaciones."
+    },
+    {
+      "title": "Ayuntamiento de Madrid: Plan de arbolado viario del distrito de Hortaleza",
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/ZonasVerdes/TodoSobre/PlanInfraestructuraVerdeYBiodiversidad/PlanesDistrito/PlanesArboladoViarioDistrito/Plan%20arbolado%20viario%20Hortaleza.pdf",
+      "type": "official",
+      "relevance_en": "Municipal document listing Calle Pintor Antonio Saura in Valdefuentes, Hortaleza, supporting the local street-name basis for the station name.",
+      "relevance_es": "Documento municipal que recoge la calle Pintor Antonio Saura en Valdefuentes, Hortaleza, y respalda la base viaria local del nombre de la estación."
+    },
+    {
+      "title": "Real Academia de la Historia / Historia Hispánica: Antonio Saura Atarés",
+      "url": "https://historia-hispanica.rah.es/biografias/41033-antonio-saura-atares",
+      "type": "reference",
+      "relevance_en": "Authoritative biographical entry giving Saura's full name, dates, places and professions.",
+      "relevance_es": "Entrada biográfica autorizada que aporta el nombre completo de Saura, sus fechas, lugares y profesiones."
+    },
+    {
+      "title": "Museo Nacional Centro de Arte Reina Sofía: Itinerarios de Antonio Saura. Dación",
+      "url": "https://www.museoreinasofia.es/en/exhibition/itinerarios-antonio-saura-dacion/",
+      "type": "official",
+      "relevance_en": "Museum source explaining Saura's self-taught beginnings, Paris period, founding and leadership of El Paso, and the group's role in post-war Spanish avant-garde art.",
+      "relevance_es": "Fuente museística que explica los comienzos autodidactas de Saura, su etapa parisina, la fundación y dirección de El Paso y el papel del grupo en la vanguardia española de posguerra."
+    },
+    {
+      "title": "Guggenheim Museum Bilbao: Saura, Antonio",
+      "url": "https://www.guggenheim-bilbao.eus/en/the-collection/artists/antonio-saura",
+      "type": "official",
+      "relevance_en": "Museum chronology confirming birth and death places, early career milestones, El Paso in 1957, the group’s 1960 dissolution, awards and retrospectives.",
+      "relevance_es": "Cronología museística que confirma lugares de nacimiento y muerte, hitos iniciales, El Paso en 1957, la disolución del grupo en 1960, premios y retrospectivas."
+    },
+    {
+      "title": "Guggenheim Museum Bilbao: Karl-Johann Strasse II",
+      "url": "https://www.guggenheim-bilbao.eus/en/the-collection/works/karl-johann-strasse-ii",
+      "type": "official",
+      "relevance_en": "Provides concise art-historical context for Saura's use of Spanish tradition, Art Informel, black-and-white palette and recurring thematic series.",
+      "relevance_es": "Aporta contexto histórico-artístico sobre el uso de la tradición española, el informalismo, la paleta en blanco y negro y las series temáticas recurrentes de Saura."
+    }
+  ],
+  "corrections": [
+    {
+      "en": "Use the full surname with accent: Antonio Saura Atarés, not Atares.",
+      "es": "Debe usarse el apellido completo con tilde: Antonio Saura Atarés, no Atares."
+    },
+    {
+      "en": "The station should be described as named through the nearby street/urban setting unless the original station-naming act is found; the direct naming resolution was not located.",
+      "es": "Conviene describir la estación como denominada por la calle o el entorno viario cercano salvo que se localice el acuerdo original de denominación de la estación; no se ha encontrado esa resolución directa."
+    }
+  ],
+  "open_questions": [
+    {
+      "en": "Inspect the Ayuntamiento de Madrid street-naming file or BOAM/Pleno record for Calle del Pintor Antonio Saura to confirm the exact approval date and wording.",
+      "es": "Consultar el expediente de rotulación del Ayuntamiento de Madrid o el BOAM/acta de Pleno correspondiente a la calle del Pintor Antonio Saura para confirmar la fecha exacta y la redacción del acuerdo."
+    }
+  ],
+  "missing_bilingual_markdown_fields": [],
+  "markdown_files": {
+    "en": {
+      "summary_short": "content/stations/ml_004/en/summary.short.md",
+      "summary": "content/stations/ml_004/en/summary.md",
+      "story": "content/stations/ml_004/en/story.md",
+      "confidence": "content/stations/ml_004/en/confidence.md",
+      "current_claim_assessment": "content/stations/ml_004/en/current-claim-assessment.md",
+      "research_note": "content/stations/ml_004/en/research-note.md"
+    },
+    "es": {
+      "summary_short": "content/stations/ml_004/es/summary.short.md",
+      "summary": "content/stations/ml_004/es/summary.md",
+      "story": "content/stations/ml_004/es/story.md",
+      "confidence": "content/stations/ml_004/es/confidence.md",
+      "current_claim_assessment": "content/stations/ml_004/es/current-claim-assessment.md",
+      "research_note": "content/stations/ml_004/es/research-note.md"
+    }
+  }
+}

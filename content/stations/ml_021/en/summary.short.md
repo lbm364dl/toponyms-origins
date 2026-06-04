@@ -1,0 +1,1 @@
+Berna station is named for Calle Berna in Pozuelo de Alarcón. The street belongs to the Avenida de Europa area's cluster of European country and capital names, and ultimately refers to Bern, Switzerland's federal city and de facto capital.
