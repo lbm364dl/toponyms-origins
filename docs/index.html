@@ -1,19 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Madrid Toponymy - Why Stations Are Named the Way They Are</title>
+<title>Origen de nombres de estaciones de Madrid - Por qué se llaman así</title>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 </head>
 <body>
 
 <header>
-  <div class="hero-bg"></div>
   <div class="container hero-content">
     <div class="lang-toggle" id="lang-toggle" role="radiogroup" aria-label="Language">
       <button class="lang-opt" data-lang="en">EN</button>
@@ -21,10 +20,10 @@
     </div>
     <script>!function(){var l=localStorage.getItem('lang')||'es';document.querySelector('.lang-opt[data-lang="'+l+'"]').classList.add('active')}()</script>
     <div class="hero-left">
-      <span class="hero-eyebrow">Open dataset</span>
-      <h1>Madrid Toponymy</h1>
-      <p class="subtitle">An etymological atlas of 390 station names — Metro, Cercanías,
-        Metro Ligero &amp; Tranvía — tracing why each is named the way it is.</p>
+      <span class="hero-eyebrow">Nombres de estaciones</span>
+      <h1>Origen de nombres de estaciones de Madrid</h1>
+      <p class="subtitle">Un atlas de orígenes de nombres de estaciones de Madrid — Metro, Cercanías,
+        Metro Ligero y Tranvía — que explica por qué cada estación se llama así.</p>
     </div>
     <div class="stats" id="stats"></div>
   </div>
@@ -34,34 +33,34 @@
   <section class="controls" id="controls">
     <div class="search-wrap">
       <svg class="search-icon" viewBox="0 0 20 20" fill="currentColor" width="18" height="18"><path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.452 4.391l3.328 3.329a.75.75 0 11-1.06 1.06l-3.329-3.328A7 7 0 012 9z" clip-rule="evenodd"/></svg>
-      <input type="search" id="search" placeholder="Search names, etymologies, people, places..." autocomplete="off">
+      <input type="search" id="search" placeholder="Buscar nombres, etimologías, personas, lugares..." autocomplete="off">
     </div>
     <div class="filter-row">
       <div class="filter-pills" id="category-pills">
-        <button class="pill active" data-v="">All stations</button>
+        <button class="pill active" data-v="">Todas</button>
         <button class="pill" data-v="metro">Metro</button>
         <button class="pill" data-v="cercanias">Cercanías</button>
         <button class="pill" data-v="metro_ligero">ML / Tranvía</button>
       </div>
       <div class="filter-selects">
-        <select id="filter-line"><option value="">All lines</option></select>
+        <select id="filter-line"><option value="">Líneas</option></select>
         <select id="filter-type">
-          <option value="">All types</option>
-          <option value="person">Person</option>
-          <option value="place">Place</option>
-          <option value="descriptive">Descriptive</option>
-          <option value="historical">Historical</option>
-          <option value="religious">Religious</option>
-          <option value="event">Event</option>
-          <option value="occupation">Occupation</option>
-          <option value="mythological">Mythological</option>
-          <option value="unknown">Unknown</option>
+          <option value="">Tipos</option>
+          <option value="person">Persona</option>
+          <option value="place">Lugar</option>
+          <option value="descriptive">Descriptivo</option>
+          <option value="historical">Histórico</option>
+          <option value="religious">Religioso</option>
+          <option value="event">Evento</option>
+          <option value="occupation">Oficio</option>
+          <option value="mythological">Mitológico</option>
+          <option value="unknown">Desconocido</option>
         </select>
         <select id="filter-confidence">
-          <option value="">All confidence</option>
-          <option value="verified">Verified</option>
+          <option value="">Confianza</option>
+          <option value="verified">Verificado</option>
           <option value="probable">Probable</option>
-          <option value="uncertain">Uncertain</option>
+          <option value="uncertain">Incierto</option>
         </select>
       </div>
     </div>
@@ -69,18 +68,19 @@
   </section>
 
   <div class="view-toggle">
-    <button class="view-btn active" id="btn-list" aria-label="List view">
+    <button class="view-btn active" id="btn-list" aria-label="Vista de lista">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M2 4h12v1H2zm0 3.5h12v1H2zm0 3.5h12v1H2z"/></svg>
-      List
+      Lista
     </button>
-    <button class="view-btn" id="btn-map" aria-label="Map view">
+    <button class="view-btn" id="btn-map" aria-label="Vista de mapa">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M5.5 1L1 3v12l4.5-2L11 15l4-2V1l-4 2L5.5 1zm0 1.3l4.5 1.8v9.6l-4.5-1.8V2.3zM2 3.7l2.5-1.1v9.7L2 13.4V3.7zm12 8.6l-2.5 1.1V3.7L14 2.6v9.7z"/></svg>
-      Map
+      Mapa
     </button>
   </div>
 
-  <div id="map-container" class="map-container" style="display:none">
-    <div id="map" style="height:600px;border-radius:var(--radius);"></div>
+  <div id="map-container" class="map-container" hidden>
+    <div id="map-prompt" class="map-prompt"></div>
+    <div id="map" class="map" hidden></div>
   </div>
 
   <div id="entries" class="entries"></div>
@@ -90,11 +90,11 @@
   <div class="container">
     <div class="footer-inner">
       <div>
-        <strong id="footer-title">Madrid Toponymy Dataset</strong><br>
-        <span class="footer-note">390 station etymologies · CC-BY-SA 4.0</span>
+        <strong id="footer-title">Dataset de orígenes de nombres de estaciones</strong><br>
+        <span class="footer-note">Orígenes de nombres de estaciones · CC-BY-SA 4.0</span>
       </div>
       <div class="footer-links">
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/">License</a>
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">Licencia</a>
       </div>
     </div>
   </div>
@@ -102,14 +102,12 @@
 
 <div class="modal-overlay" id="modal-overlay">
   <div class="modal" id="modal" role="dialog">
-    <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+    <button class="modal-close" id="modal-close" aria-label="Cerrar">&times;</button>
     <div id="modal-content"></div>
   </div>
 </div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script src="data/entries.js"></script>
-<script src="data/line_orders.js" onerror=""></script>
+<script src="data/entries_index.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

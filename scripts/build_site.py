@@ -33,6 +33,25 @@ CONTENT_MARKDOWN_FILES = {
     'research-note.md': 'content_research_note',
 }
 
+INDEX_FIELDS = (
+    'id',
+    'name',
+    '_category',
+    'district',
+    'neighbourhood',
+    'latitude',
+    'longitude',
+    'etymology_type',
+    'confidence',
+    'line',
+    'operator',
+    'named_after',
+    'named_after_es',
+    'content_summary_short_en',
+    'content_summary_short_es',
+    'person_profession',
+)
+
 def read_text_if_exists(path):
     if not path.exists():
         return ''
@@ -152,7 +171,21 @@ def build():
         json.dump(all_entries, f, ensure_ascii=False)
         f.write(';')
 
+    index_entries = [
+        {key: entry[key] for key in INDEX_FIELDS if key in entry}
+        for entry in all_entries
+    ]
+
+    with open(os.path.join(out_dir, 'entries_index.json'), 'w', encoding='utf-8') as f:
+        json.dump(index_entries, f, ensure_ascii=False)
+
+    with open(os.path.join(out_dir, 'entries_index.js'), 'w', encoding='utf-8') as f:
+        f.write('const ENTRIES_INDEX_DATA = ')
+        json.dump(index_entries, f, ensure_ascii=False)
+        f.write(';')
+
     print(f"Built {len(all_entries)} entries -> docs/data/entries.json + entries.js")
+    print(f"Built lightweight index -> docs/data/entries_index.json + entries_index.js")
     if station_content:
         merged = sum(1 for e in all_entries if e.get('has_content_entry') == 'true')
         print(f"  Merged {merged} station content entries from content/stations")

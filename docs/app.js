@@ -4,9 +4,24 @@ let activeLine = '';
 let map = null;
 let markers = null;
 let lineLayer = null;
-let currentView = 'list';
+let fullEntries = null;
+let fullEntriesPromise = null;
+let mapAssetsPromise = null;
+let currentView = 'map';
 let lang = localStorage.getItem('lang') || 'es';
 let initialized = false;
+let renderLimit = 80;
+let pendingStationId = '';
+let activeModalId = '';
+let modalCloseTimer = null;
+
+const DEFAULT_RENDER_LIMIT = 80;
+const RENDER_INCREMENT = 80;
+const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
+const SITE_TITLES = {
+  en: 'Madrid Station Name Origins',
+  es: 'Origen de nombres de estaciones de Madrid'
+};
 
 const CATEGORY_LABELS = {
   en: { metro: 'Metro', cercanias: 'Cercanías', metro_ligero: 'ML / Tranvía' },
@@ -15,50 +30,70 @@ const CATEGORY_LABELS = {
 
 const I18N = {
   en: {
-    title: 'Madrid<br>Toponymy',
-    subtitle: 'An etymological atlas of 390 station names — Metro, Cercanías, Metro Ligero & Tranvía — tracing why each is named the way it is.',
+    siteTitle: SITE_TITLES.en,
+    pageTitle: `${SITE_TITLES.en} - Why Stations Are Named the Way They Are`,
+    title: 'Madrid Station<br>Name Origins',
+    subtitle: 'An atlas of {count} Madrid station-name origins — Metro, Cercanías, Metro Ligero & Tranvía — explaining why each station is named the way it is.',
     eyebrow: 'Open dataset',
     searchPlaceholder: 'Search names, etymologies, people, places...',
     allStations: 'All stations', list: 'List', map: 'Map',
-    allTypes: 'All types', allConfidence: 'All confidence levels', allLines: 'All lines',
+    allTypes: 'Types', allConfidence: 'Confidence', allLines: 'Lines',
     person: 'Person', place: 'Place', descriptive: 'Descriptive', historical: 'Historical',
     religious: 'Religious', event: 'Event', occupation: 'Occupation', mythological: 'Mythological', unknown: 'Unknown',
     verified: 'Verified', probable: 'Probable', uncertain: 'Uncertain',
     places: 'Stations', sources: 'Sources', namedAfter: 'Named after',
-    footerTitle: 'Madrid Toponymy Dataset',
+    footerTitle: 'Madrid Station Name Origins Dataset',
     gender: 'Gender', male: 'Male', female: 'Female', lived: 'Lived',
     profession: 'Profession', nationality: 'Nationality', district: 'District',
     neighbourhood: 'Neighbourhood', lines: 'Line(s)', opened: 'Opened',
     namedIn: 'Named in', formerNames: 'Former names', operator: 'Operator',
     municipality: 'Municipality', coordinates: 'Coordinates',
     readMore: 'Read full etymology →',
-    footer: '390 station etymologies · CC-BY-SA 4.0',
+    footer: '{count} station-name origins · CC-BY-SA 4.0',
     showing: 'Showing', of: 'of', entries: 'entries',
+    loadMore: 'Show more',
+    loadingEntry: 'Loading entry...',
+    loadingMap: 'Loading map...',
+    mapPromptTitle: 'Choose a line to open the map',
+    mapPromptBody: 'The full network stays off the home page for speed. Pick a line or narrow the list with search and filters.',
+    narrowMapTitle: 'Narrow the results to map them',
+    narrowMapBody: 'This selection is still too broad for a fast mobile map.',
   },
   es: {
-    title: 'Toponimia<br>de Madrid',
-    subtitle: 'Un atlas etimológico de 390 nombres de estaciones — Metro, Cercanías, Metro Ligero y Tranvía — descubriendo el origen de cada nombre.',
-    eyebrow: 'Datos abiertos',
+    siteTitle: SITE_TITLES.es,
+    pageTitle: `${SITE_TITLES.es} - Por qué se llaman así`,
+    title: 'Origen de nombres<br>de estaciones de Madrid',
+    subtitle: 'Un atlas de {count} orígenes de nombres de estaciones de Madrid — Metro, Cercanías, Metro Ligero y Tranvía — que explica por qué cada estación se llama así.',
+    eyebrow: 'Nombres de estaciones',
     searchPlaceholder: 'Buscar nombres, etimologías, personas, lugares...',
     allStations: 'Todas', list: 'Lista', map: 'Mapa',
-    allTypes: 'Todos los tipos', allConfidence: 'Todos los niveles', allLines: 'Todas las líneas',
+    allTypes: 'Tipos', allConfidence: 'Confianza', allLines: 'Líneas',
     person: 'Persona', place: 'Lugar', descriptive: 'Descriptivo', historical: 'Histórico',
     religious: 'Religioso', event: 'Evento', occupation: 'Oficio', mythological: 'Mitológico', unknown: 'Desconocido',
     verified: 'Verificado', probable: 'Probable', uncertain: 'Incierto',
     places: 'Estaciones', sources: 'Fuentes', namedAfter: 'Origen del nombre',
-    footerTitle: 'Dataset de Toponimia de Madrid',
+    footerTitle: 'Dataset de orígenes de nombres de estaciones',
     gender: 'Género', male: 'Masculino', female: 'Femenino', lived: 'Vivió',
     profession: 'Profesión', nationality: 'Nacionalidad', district: 'Distrito',
     neighbourhood: 'Barrio', lines: 'Línea(s)', opened: 'Inauguración',
     namedIn: 'Nombrado en', formerNames: 'Nombres anteriores', operator: 'Operador',
     municipality: 'Municipio', coordinates: 'Coordenadas',
     readMore: 'Leer etimología completa →',
-    footer: '390 etimologías de estaciones · CC-BY-SA 4.0',
+    footer: '{count} orígenes de nombres de estaciones · CC-BY-SA 4.0',
     showing: 'Mostrando', of: 'de', entries: 'entradas',
+    loadMore: 'Mostrar más',
+    loadingEntry: 'Cargando entrada...',
+    loadingMap: 'Cargando mapa...',
+    mapPromptTitle: 'Elige una línea para abrir el mapa',
+    mapPromptBody: 'La red completa queda fuera de la portada para que cargue rápido. Elige una línea o acota la lista con búsqueda y filtros.',
+    narrowMapTitle: 'Acota los resultados para mapearlos',
+    narrowMapBody: 'Esta selección todavía es demasiado amplia para un mapa móvil rápido.',
   }
 };
 
 function t(key) { return I18N[lang][key] || I18N.en[key] || key; }
+function tt(key) { return t(key).replace('{count}', entries.length); }
+function modalDocumentTitle(name) { return `${name} - ${t('siteTitle')}`; }
 
 const LINE_COLORS = {
   '1':'#38a3dc','2':'#d8232a','3':'#ffd520','4':'#944735','5':'#96bf0d',
@@ -75,12 +110,11 @@ const LOOP_LINES = new Set(['6', '12', 'Tranvia Parla']);
 const LINE_ALIAS_PARENTS = { 'C-4a': 'C-4', 'C-4b': 'C-4' };
 
 async function init() {
-  const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
-  if (typeof ENTRIES_DATA !== 'undefined') {
-    entries = ENTRIES_DATA.filter(e => STATION_CATEGORIES.has(e._category));
+  if (typeof ENTRIES_INDEX_DATA !== 'undefined') {
+    entries = ENTRIES_INDEX_DATA.filter(e => STATION_CATEGORIES.has(e._category));
   } else {
     try {
-      const res = await fetch('data/entries.json');
+      const res = await fetch('data/entries_index.json');
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const all = await res.json();
       entries = all.filter(e => STATION_CATEGORIES.has(e._category));
@@ -101,18 +135,14 @@ async function init() {
   restoreFromURL();
 
   render();
-  // Default to map view unless URL says otherwise
-  if (!new URLSearchParams(window.location.search).has('view')) {
-    setView('map');
-  }
+  setView(currentView);
 
-  document.getElementById('search').addEventListener('input', () => { render(); pushURL(); });
-  document.getElementById('filter-type').addEventListener('change', () => { render(); pushURL(); });
-  document.getElementById('filter-confidence').addEventListener('change', () => { render(); pushURL(); });
+  document.getElementById('search').addEventListener('input', () => { filtersChanged(); });
+  document.getElementById('filter-type').addEventListener('change', () => { filtersChanged(); });
+  document.getElementById('filter-confidence').addEventListener('change', () => { filtersChanged(); });
   document.getElementById('filter-line').addEventListener('change', function() {
     activeLine = this.value;
-    render();
-    pushURL();
+    filtersChanged();
   });
 
   document.querySelectorAll('#category-pills .pill').forEach(btn => {
@@ -120,8 +150,7 @@ async function init() {
       document.querySelectorAll('#category-pills .pill').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       activeCategory = btn.dataset.v;
-      render();
-      pushURL();
+      filtersChanged();
     });
   });
 
@@ -133,12 +162,20 @@ async function init() {
 
   document.getElementById('btn-list').addEventListener('click', () => setView('list'));
   document.getElementById('btn-map').addEventListener('click', () => setView('map'));
+  window.addEventListener('popstate', syncModalFromURL);
   document.getElementById('lang-toggle').addEventListener('click', e => {
     const btn = e.target.closest('.lang-opt');
     if (!btn || btn.dataset.lang === lang) return;
     toggleLang();
   });
   initialized = true;
+  if (pendingStationId) openModal(pendingStationId, { push: false });
+}
+
+function filtersChanged() {
+  renderLimit = DEFAULT_RENDER_LIMIT;
+  render();
+  pushURL();
 }
 
 function toggleLang() {
@@ -152,6 +189,10 @@ function toggleLang() {
 
 function pushURL() {
   if (!initialized) return;
+  history.replaceState(null, '', stateURL(activeModalId));
+}
+
+function stateURL(stationId = activeModalId) {
   const params = new URLSearchParams();
   const q = document.getElementById('search').value;
   if (q) params.set('q', q);
@@ -162,9 +203,30 @@ function pushURL() {
   const conf = document.getElementById('filter-confidence').value;
   if (conf) params.set('conf', conf);
   params.set('view', currentView);
+  if (stationId) params.set('station', stationId);
   const str = params.toString();
-  const url = str ? `?${str}` : window.location.pathname;
-  history.replaceState(null, '', url);
+  return str ? `?${str}` : window.location.pathname;
+}
+
+function setStationURL(id) {
+  if (!initialized) return;
+  history.pushState({ station: id }, '', stateURL(id));
+}
+
+function clearStationURL() {
+  if (!initialized) return;
+  history.replaceState(null, '', stateURL(''));
+}
+
+function syncModalFromURL() {
+  const stationId = new URLSearchParams(window.location.search).get('station') || '';
+  if (stationId && stationId !== activeModalId) {
+    openModal(stationId, { push: false });
+    return;
+  }
+  if (!stationId && activeModalId) {
+    closeModal({ updateURL: false });
+  }
 }
 
 function restoreFromURL() {
@@ -194,23 +256,28 @@ function restoreFromURL() {
   if (conf) document.getElementById('filter-confidence').value = conf;
 
   const view = params.get('view');
-  if (view) setView(view);
+  if (view === 'map' || view === 'list') currentView = view;
+
+  pendingStationId = params.get('station') || '';
 
 }
 
 function applyLang() {
+  document.documentElement.lang = lang;
   document.querySelectorAll('#lang-toggle .lang-opt').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.lang === lang);
   });
   document.querySelector('.hero-eyebrow').textContent = t('eyebrow');
   document.querySelector('header h1').innerHTML = t('title');
-  document.querySelector('.subtitle').textContent = t('subtitle');
+  document.querySelector('.subtitle').textContent = tt('subtitle');
   document.getElementById('search').placeholder = t('searchPlaceholder');
   document.querySelector('[data-v=""]').textContent = t('allStations');
   document.getElementById('btn-list').lastChild.textContent = ' ' + t('list');
   document.getElementById('btn-map').lastChild.textContent = ' ' + t('map');
-  document.querySelector('.footer-note').textContent = t('footer');
+  document.querySelector('.footer-note').textContent = tt('footer');
   document.getElementById('footer-title').textContent = t('footerTitle');
+  const activeEntry = activeModalId ? entries.find(e => e.id === activeModalId) : null;
+  document.title = activeEntry ? modalDocumentTitle(activeEntry.name) : t('pageTitle');
 
   // Update selects
   const typeOpts = ['', 'person','place','descriptive','historical','religious','event','occupation','mythological','unknown'];
@@ -245,14 +312,34 @@ function buildLineFilter() {
   entries.forEach(e => {
     if (e.line) e.line.split(';').forEach(l => lines.add(l.trim()));
   });
-  const sorted = [...lines].sort((a, b) => {
-    const na = parseFloat(a.replace(/\D/g,'')) || 999;
-    const nb = parseFloat(b.replace(/\D/g,'')) || 999;
-    return na - nb || a.localeCompare(b);
-  });
+  const sorted = sortLines([...lines]);
   const sel = document.getElementById('filter-line');
   sel.innerHTML = `<option value="">${t('allLines')}</option>` +
     sorted.map(l => `<option value="${l}">${l}</option>`).join('');
+}
+
+function sortLines(lines) {
+  return lines.sort((a, b) => {
+    const ka = lineSortKey(a);
+    const kb = lineSortKey(b);
+    for (let i = 0; i < Math.max(ka.length, kb.length); i++) {
+      if (ka[i] === kb[i]) continue;
+      if (typeof ka[i] === 'number' && typeof kb[i] === 'number') return ka[i] - kb[i];
+      return String(ka[i] || '').localeCompare(String(kb[i] || ''));
+    }
+    return a.localeCompare(b);
+  });
+}
+
+function lineSortKey(line) {
+  if (/^\d+$/.test(line)) return [0, Number(line)];
+  if (line === 'R') return [0, 99];
+  const ml = line.match(/^ML(\d+)$/);
+  if (ml) return [1, Number(ml[1])];
+  if (line === 'Tranvia Parla') return [2, 0];
+  const cerc = line.match(/^C-(\d+)([a-z]?)$/i);
+  if (cerc) return [3, Number(cerc[1]), cerc[2] || ''];
+  return [9, line];
 }
 
 function getFiltered() {
@@ -287,15 +374,21 @@ function render() {
     : `${t('showing')} ${filtered.length} ${t('of')} ${entries.length} ${t('entries')}`;
 
   const container = document.getElementById('entries');
-  const limit = 300;
-  container.innerHTML = filtered.slice(0, limit).map(cardHTML).join('');
-  if (filtered.length > limit) {
+  const visible = filtered.slice(0, renderLimit);
+  container.innerHTML = visible.map(cardHTML).join('');
+  if (filtered.length > renderLimit) {
     container.insertAdjacentHTML('beforeend',
-      `<div style="grid-column:1/-1;text-align:center;padding:24px;color:var(--text-muted);font-size:0.85rem">
-        ${t('showing')} ${limit} ${t('of')} ${filtered.length}.
+      `<div class="load-more-wrap">
+        <button class="load-more-btn" onclick="loadMoreEntries()">${t('loadMore')}</button>
+        <span>${t('showing')} ${renderLimit} ${t('of')} ${filtered.length}</span>
       </div>`);
   }
-  if (currentView === 'map') updateMap();
+  if (currentView === 'map') renderMapView(filtered);
+}
+
+function loadMoreEntries() {
+  renderLimit += RENDER_INCREMENT;
+  render();
 }
 
 function cardHTML(e) {
@@ -317,8 +410,98 @@ function cardHTML(e) {
   </article>`;
 }
 
-function openModal(id) {
-  const e = entries.find(x => x.id === id);
+function openModal(id, options = {}) {
+  const fallback = entries.find(x => x.id === id);
+  if (!fallback) {
+    if (!options.push) clearStationURL();
+    return;
+  }
+
+  activeModalId = id;
+  if (modalCloseTimer) {
+    clearTimeout(modalCloseTimer);
+    modalCloseTimer = null;
+  }
+  if (options.push !== false) setStationURL(id);
+
+  document.getElementById('modal-content').innerHTML = `
+    <h2>${esc(fallback.name)}</h2>
+    <div class="modal-subtitle">${t('loadingEntry')}</div>
+    <div class="modal-loading"></div>
+  `;
+  const overlay = document.getElementById('modal-overlay');
+  overlay.classList.remove('closing');
+  overlay.classList.add('active');
+  document.body.style.overflow = 'hidden';
+  document.title = modalDocumentTitle(fallback.name);
+
+  loadFullEntry(id)
+    .then(entry => {
+      if (activeModalId === id) renderModalEntry(entry);
+    })
+    .catch(() => {
+      if (activeModalId !== id) return;
+      document.getElementById('modal-content').innerHTML = `
+        <h2>${esc(fallback.name)}</h2>
+        <div class="modal-subtitle">${esc(entryCardSummary(fallback) || '')}</div>
+      `;
+    });
+}
+
+async function loadFullEntry(id) {
+  const all = await loadFullEntries();
+  return all.find(x => x.id === id);
+}
+
+async function loadFullEntries() {
+  if (fullEntries) return fullEntries;
+  if (fullEntriesPromise) return fullEntriesPromise;
+
+  fullEntriesPromise = new Promise((resolve, reject) => {
+    const useGlobalData = () => {
+      if (typeof ENTRIES_DATA === 'undefined') return false;
+      fullEntries = ENTRIES_DATA.filter(e => STATION_CATEGORIES.has(e._category));
+      resolve(fullEntries);
+      return true;
+    };
+
+    if (useGlobalData()) return;
+
+    loadScriptOnce('data/entries.js', 'entries-full-script')
+      .then(() => {
+        if (!useGlobalData()) reject(new Error('Full entries data was not available'));
+      })
+      .catch(reject);
+  });
+
+  return fullEntriesPromise;
+}
+
+function loadScriptOnce(src, id) {
+  return new Promise((resolve, reject) => {
+    const existing = document.getElementById(id);
+    if (existing) {
+      if (existing.dataset.loaded === 'true') resolve();
+      else {
+        existing.addEventListener('load', () => resolve(), { once: true });
+        existing.addEventListener('error', reject, { once: true });
+      }
+      return;
+    }
+
+    const script = document.createElement('script');
+    script.id = id;
+    script.src = src;
+    script.onload = () => {
+      script.dataset.loaded = 'true';
+      resolve();
+    };
+    script.onerror = reject;
+    document.body.appendChild(script);
+  });
+}
+
+function renderModalEntry(e) {
   if (!e) return;
   const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
   const etType = e.etymology_type || 'unknown';
@@ -382,15 +565,23 @@ function openModal(id) {
 
   document.getElementById('modal-overlay').classList.add('active');
   document.body.style.overflow = 'hidden';
+  document.title = modalDocumentTitle(e.name);
 }
 
-function closeModal() {
+function closeModal(options = {}) {
   const overlay = document.getElementById('modal-overlay');
+  if (!overlay.classList.contains('active') || overlay.classList.contains('closing')) return;
+
+  activeModalId = '';
+  document.title = t('pageTitle');
+  if (options.updateURL !== false) clearStationURL();
+
   overlay.classList.add('closing');
-  setTimeout(() => {
+  modalCloseTimer = setTimeout(() => {
     overlay.classList.remove('active', 'closing');
     document.body.style.overflow = '';
-  }, 200);
+    modalCloseTimer = null;
+  }, 180);
 }
 
 function formatSources(src) {
@@ -543,43 +734,154 @@ const TYPE_COLORS = {
 };
 
 function setView(view) {
-  currentView = view;
-  document.getElementById('btn-list').classList.toggle('active', view === 'list');
-  document.getElementById('btn-map').classList.toggle('active', view === 'map');
-  document.getElementById('entries').style.display = view === 'list' ? '' : 'none';
-  document.getElementById('map-container').style.display = view === 'map' ? '' : 'none';
-  if (view === 'map') {
-    if (!map) initMap();
-    updateMap();
-    setTimeout(() => map.invalidateSize(), 100);
-  }
+  currentView = view === 'map' ? 'map' : 'list';
+  document.getElementById('btn-list').classList.toggle('active', currentView === 'list');
+  document.getElementById('btn-map').classList.toggle('active', currentView === 'map');
+  document.getElementById('entries').hidden = currentView !== 'list';
+  document.getElementById('map-container').hidden = currentView !== 'map';
+  if (currentView === 'map') renderMapView(getFiltered());
   pushURL();
 }
 
+function renderMapView(filtered) {
+  const prompt = document.getElementById('map-prompt');
+  const mapEl = document.getElementById('map');
+  if (!prompt || !mapEl) return;
+
+  if (map) {
+    prompt.hidden = true;
+    mapEl.hidden = false;
+    updateMap(filtered);
+    setTimeout(() => map.invalidateSize(), 100);
+    return;
+  }
+
+  prompt.hidden = false;
+  prompt.innerHTML = `<div class="map-loading">${t('loadingMap')}</div>`;
+  mapEl.hidden = true;
+
+  ensureMapAssets()
+    .then(() => {
+      if (currentView !== 'map') return;
+      prompt.hidden = true;
+      mapEl.hidden = false;
+      if (!map) initMap();
+      updateMap(filtered);
+      setTimeout(() => map.invalidateSize(), 100);
+    })
+    .catch(() => {
+      prompt.hidden = false;
+      prompt.innerHTML = `<div class="map-empty"><h2>${t('narrowMapTitle')}</h2><p>${t('narrowMapBody')}</p></div>`;
+      mapEl.hidden = true;
+    });
+}
+
+function mapPromptHTML(filtered) {
+  const broad = !hasMapNarrowing();
+  const title = broad ? t('mapPromptTitle') : t('narrowMapTitle');
+  const body = broad ? t('mapPromptBody') : `${t('narrowMapBody')} ${t('showing')} ${filtered.length} ${t('entries')}.`;
+  const buttons = lineOptionsForPrompt()
+    .map(line => `<button class="map-line-btn" onclick="chooseLine('${escAttr(line)}')">${esc(line)}</button>`)
+    .join('');
+
+  return `
+    <div class="map-empty">
+      <h2>${title}</h2>
+      <p>${body}</p>
+      <div class="map-line-grid">${buttons}</div>
+    </div>
+  `;
+}
+
+function lineOptionsForPrompt() {
+  const lines = new Set();
+  entries.forEach(e => {
+    if (activeCategory && e._category !== activeCategory) return;
+    if (e.line) e.line.split(';').forEach(l => lines.add(l.trim()));
+  });
+  return sortLines([...lines]);
+}
+
+function chooseLine(line) {
+  activeLine = line;
+  document.getElementById('filter-line').value = line;
+  filtersChanged();
+  setView('map');
+}
+
+function ensureMapAssets() {
+  if (mapAssetsPromise) return mapAssetsPromise;
+  mapAssetsPromise = Promise.all([
+    loadStylesheetOnce('https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'leaflet-css'),
+    loadScriptOnce('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js', 'leaflet-script'),
+    loadScriptOnce('data/line_orders.js', 'line-orders-script'),
+  ]).then(() => {
+    if (typeof L === 'undefined') throw new Error('Leaflet was not available');
+  });
+  return mapAssetsPromise;
+}
+
+function loadStylesheetOnce(href, id) {
+  return new Promise((resolve, reject) => {
+    const existing = document.getElementById(id);
+    if (existing) {
+      resolve();
+      return;
+    }
+
+    const link = document.createElement('link');
+    link.id = id;
+    link.rel = 'stylesheet';
+    link.href = href;
+    link.onload = resolve;
+    link.onerror = reject;
+    document.head.appendChild(link);
+  });
+}
+
 function initMap() {
-  map = L.map('map').setView([40.42, -3.70], 12);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+  map = L.map('map', {
+    zoomControl: true,
+    scrollWheelZoom: true,
+  }).setView([40.42, -3.70], 12);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
     maxZoom: 19
   }).addTo(map);
-  markers = L.layerGroup().addTo(map);
   lineLayer = L.layerGroup().addTo(map);
+  markers = L.layerGroup().addTo(map);
+  map.on('zoomend', updateMarkerScale);
 }
 
-function updateMap() {
-  if (!markers) return;
+function stationIcon(color) {
+  const size = markerSizeForZoom(map ? map.getZoom() : 9);
+  return L.divIcon({
+    className: 'map-marker',
+    html: `<div class="station-dot" style="width:${size}px;height:${size}px;background:${color}"></div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2]
+  });
+}
+
+function stationMarkerColor(e) {
+  const lines = (e.line || '').split(';').map(l => l.trim()).filter(Boolean);
+  if (activeLine && lines.includes(activeLine)) {
+    return LINE_COLORS[activeLine] || '#8a9690';
+  }
+  if (lines.length === 1) {
+    return LINE_COLORS[lines[0]] || TYPE_COLORS[e.etymology_type] || '#8a9690';
+  }
+  return '#9aa39d';
+}
+
+function updateMap(filtered) {
+  if (!markers || !lineLayer) return;
   markers.clearLayers();
   lineLayer.clearLayers();
-  const filtered = getFiltered();
   const bounds = [];
-
-  // Draw line traces
-  // When a specific line is filtered, only draw THAT line
-  // When no line filter, draw all lines that have 2+ visible stations
   const linesToDraw = activeLine ? [activeLine] : [];
 
   if (!activeLine) {
-    // Collect all lines from visible stations
     const allLines = new Set();
     filtered.forEach(e => {
       if (e.line) e.line.split(';').forEach(l => allLines.add(l.trim()));
@@ -639,17 +941,11 @@ function updateMap() {
     const lng = parseFloat(e.longitude);
     if (isNaN(lat) || isNaN(lng)) return;
 
-    const firstLine = (e.line || '').split(';')[0].trim();
-    const color = LINE_COLORS[firstLine] || TYPE_COLORS[e.etymology_type] || '#737373';
-    const icon = L.divIcon({
-      className: 'map-marker',
-      html: `<div style="width:10px;height:10px;border-radius:50%;background:${color};border:2px solid white;box-shadow:0 1px 3px rgba(0,0,0,0.3)"></div>`,
-      iconSize: [14, 14], iconAnchor: [7, 7]
-    });
+    const color = stationMarkerColor(e);
 
     const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
     const rawSummary = entryCardSummary(e);
-    const summary = rawSummary ? esc(rawSummary).substring(0, 180) + '...' : '';
+    const summary = rawSummary ? esc(rawSummary).substring(0, 180) + (rawSummary.length > 180 ? '...' : '') : '';
     const popup = `
       <div class="map-popup-name">${esc(e.name)}</div>
       <div class="map-popup-meta">${catLabel}${e.line ? ' · ' + e.line : ''}</div>
@@ -657,11 +953,36 @@ function updateMap() {
       <div class="map-popup-link" onclick="closePopupsAndOpen('${e.id}')">${t('readMore')}</div>
     `;
 
-    markers.addLayer(L.marker([lat, lng], { icon }).bindPopup(popup));
+    markers.addLayer(L.marker([lat, lng], {
+      icon: stationIcon(color),
+      stationColor: color
+    }).bindPopup(popup));
     bounds.push([lat, lng]);
   });
 
-  if (bounds.length > 0) map.fitBounds(bounds, { padding: [10, 10], maxZoom: 14 });
+  if (bounds.length > 0) map.fitBounds(bounds, { padding: [20, 20], maxZoom: activeLine ? 13 : 14 });
+  updateMarkerScale();
+}
+
+function markerSizeForZoom(zoom) {
+  if (zoom <= 9) return 4;
+  if (zoom === 10) return 5;
+  if (zoom === 11) return 6;
+  if (zoom === 12) return 7;
+  if (zoom === 13) return 8;
+  return 9;
+}
+
+function updateMarkerScale() {
+  if (!map || !markers) return;
+  const size = markerSizeForZoom(map.getZoom());
+  const ringOpacity = size <= 5 ? '0.22' : '0.38';
+  const mapEl = document.getElementById('map');
+  if (mapEl) mapEl.style.setProperty('--station-dot-ring-opacity', ringOpacity);
+  markers.eachLayer(marker => {
+    const color = marker.options.stationColor;
+    if (color) marker.setIcon(stationIcon(color));
+  });
 }
 
 function closePopupsAndOpen(id) {
