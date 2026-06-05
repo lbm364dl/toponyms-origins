@@ -18,6 +18,11 @@ let modalCloseTimer = null;
 const DEFAULT_RENDER_LIMIT = 80;
 const RENDER_INCREMENT = 80;
 const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
+const APP_ROOT_PATH = (() => {
+  const path = window.location.pathname;
+  if (path.endsWith('/index.html')) return path.slice(0, -'index.html'.length);
+  return path.endsWith('/') ? path : path.replace(/[^/]*$/, '');
+})();
 const SITE_TITLES = {
   en: 'Madrid Station Name Origins',
   es: 'Origen de nombres de estaciones de Madrid'
@@ -31,7 +36,7 @@ const CATEGORY_LABELS = {
 const I18N = {
   en: {
     siteTitle: SITE_TITLES.en,
-    pageTitle: `${SITE_TITLES.en} - Why Stations Are Named the Way They Are`,
+    pageTitle: `${SITE_TITLES.en} | Metro and Cercanías`,
     title: 'Madrid Station<br>Name Origins',
     subtitle: 'An atlas of {count} Madrid station-name origins — Metro, Cercanías, Metro Ligero & Tranvía — explaining why each station is named the way it is.',
     eyebrow: 'Open dataset',
@@ -61,7 +66,7 @@ const I18N = {
   },
   es: {
     siteTitle: SITE_TITLES.es,
-    pageTitle: `${SITE_TITLES.es} - Por qué se llaman así`,
+    pageTitle: `${SITE_TITLES.es} | Metro y Cercanías`,
     title: 'Origen de nombres<br>de estaciones de Madrid',
     subtitle: 'Un atlas de {count} orígenes de nombres de estaciones de Madrid — Metro, Cercanías, Metro Ligero y Tranvía — que explica por qué cada estación se llama así.',
     eyebrow: 'Nombres de estaciones',
@@ -110,6 +115,8 @@ const LOOP_LINES = new Set(['6', '12', 'Tranvia Parla']);
 const LINE_ALIAS_PARENTS = { 'C-4a': 'C-4', 'C-4b': 'C-4' };
 
 async function init() {
+  normalizeDocumentLinks();
+
   if (typeof ENTRIES_INDEX_DATA !== 'undefined') {
     entries = ENTRIES_INDEX_DATA.filter(e => STATION_CATEGORIES.has(e._category));
   } else {
@@ -169,7 +176,15 @@ async function init() {
     toggleLang();
   });
   initialized = true;
-  if (pendingStationId) openModal(pendingStationId, { push: false });
+  if (pendingStationId && entries.some(e => e.id === pendingStationId)) {
+    openModal(pendingStationId, { push: false });
+    history.replaceState({ station: pendingStationId }, '', stationURL(pendingStationId));
+  }
+}
+
+function normalizeDocumentLinks() {
+  const icon = document.querySelector('link[rel="icon"]');
+  if (icon) icon.href = assetURL(icon.getAttribute('href'));
 }
 
 function filtersChanged() {
@@ -189,10 +204,14 @@ function toggleLang() {
 
 function pushURL() {
   if (!initialized) return;
-  history.replaceState(null, '', stateURL(activeModalId));
+  if (activeModalId) {
+    history.replaceState({ station: activeModalId }, '', stationURL(activeModalId));
+    return;
+  }
+  history.replaceState(null, '', appStateURL());
 }
 
-function stateURL(stationId = activeModalId) {
+function appStateURL() {
   const params = new URLSearchParams();
   const q = document.getElementById('search').value;
   if (q) params.set('q', q);
@@ -203,23 +222,29 @@ function stateURL(stationId = activeModalId) {
   const conf = document.getElementById('filter-confidence').value;
   if (conf) params.set('conf', conf);
   params.set('view', currentView);
-  if (stationId) params.set('station', stationId);
   const str = params.toString();
-  return str ? `?${str}` : window.location.pathname;
+  return str ? `${APP_ROOT_PATH}?${str}` : APP_ROOT_PATH;
+}
+
+function stationURL(id) {
+  const entry = entries.find(e => e.id === id);
+  if (entry && entry.page_path) return APP_ROOT_PATH + entry.page_path;
+  const url = appStateURL();
+  return `${url}${url.includes('?') ? '&' : '?'}station=${encodeURIComponent(id)}`;
 }
 
 function setStationURL(id) {
   if (!initialized) return;
-  history.pushState({ station: id }, '', stateURL(id));
+  history.pushState({ station: id }, '', stationURL(id));
 }
 
 function clearStationURL() {
   if (!initialized) return;
-  history.replaceState(null, '', stateURL(''));
+  history.replaceState(null, '', appStateURL());
 }
 
 function syncModalFromURL() {
-  const stationId = new URLSearchParams(window.location.search).get('station') || '';
+  const stationId = stationIdFromCurrentURL();
   if (stationId && stationId !== activeModalId) {
     openModal(stationId, { push: false });
     return;
@@ -227,6 +252,21 @@ function syncModalFromURL() {
   if (!stationId && activeModalId) {
     closeModal({ updateURL: false });
   }
+}
+
+function stationIdFromCurrentURL() {
+  const queryId = new URLSearchParams(window.location.search).get('station') || '';
+  if (queryId) return queryId;
+  if (!window.location.pathname.startsWith(APP_ROOT_PATH)) return '';
+  const relPath = normalizeRelativePath(window.location.pathname.slice(APP_ROOT_PATH.length));
+  if (!relPath.startsWith('stations/')) return '';
+  const entry = entries.find(e => normalizeRelativePath(e.page_path) === relPath);
+  return entry ? entry.id : '';
+}
+
+function normalizeRelativePath(path) {
+  const cleaned = String(path || '').replace(/^\/+/, '');
+  return cleaned ? cleaned.replace(/\/?$/, '/') : '';
 }
 
 function restoreFromURL() {
@@ -258,7 +298,7 @@ function restoreFromURL() {
   const view = params.get('view');
   if (view === 'map' || view === 'list') currentView = view;
 
-  pendingStationId = params.get('station') || '';
+  pendingStationId = stationIdFromCurrentURL();
 
 }
 
@@ -396,17 +436,20 @@ function cardHTML(e) {
   const etType = e.etymology_type || 'unknown';
   const summary = entryCardSummary(e);
   const district = e.district || '';
-  const line = e.line ? `${t('lines').split('(')[0]} ${e.line}` : '';
+  const line = e.line ? `${t('lines').split('(')[0]} ${formatLineList(e.line)}` : '';
   const meta = [catLabel, district, line].filter(Boolean).join(' \u00b7 ');
+  const href = stationURL(e.id);
 
-  return `<article class="entry-card" onclick="openModal('${e.id}')">
-    <div class="entry-header"><span class="entry-name">${esc(e.name)}</span></div>
-    <div class="entry-meta">${esc(meta)}</div>
-    <div class="entry-badges">
-      <span class="badge badge-type ${etType}">${t(etType)}</span>
-      <span class="badge badge-confidence ${e.confidence || ''}">${t(e.confidence || '')}</span>
-    </div>
-    ${summary ? `<div class="entry-summary">${esc(summary)}</div>` : ''}
+  return `<article class="entry-card">
+    <a class="entry-card-link" href="${escAttr(href)}" data-station-id="${escAttr(e.id)}" onclick="event.preventDefault(); openModal(this.dataset.stationId)">
+      <div class="entry-header"><span class="entry-name">${esc(e.name)}</span></div>
+      <div class="entry-meta">${esc(meta)}</div>
+      <div class="entry-badges">
+        <span class="badge badge-type ${etType}">${t(etType)}</span>
+        <span class="badge badge-confidence ${e.confidence || ''}">${t(e.confidence || '')}</span>
+      </div>
+      ${summary ? `<div class="entry-summary">${esc(summary)}</div>` : ''}
+    </a>
   </article>`;
 }
 
@@ -491,7 +534,7 @@ function loadScriptOnce(src, id) {
 
     const script = document.createElement('script');
     script.id = id;
-    script.src = src;
+    script.src = assetURL(src);
     script.onload = () => {
       script.dataset.loaded = 'true';
       resolve();
@@ -499,6 +542,12 @@ function loadScriptOnce(src, id) {
     script.onerror = reject;
     document.body.appendChild(script);
   });
+}
+
+function assetURL(src) {
+  if (!src || /^(https?:)?\/\//.test(src) || src.startsWith('data:')) return src;
+  if (src.startsWith('/')) return src;
+  return APP_ROOT_PATH + src.replace(/^\/+/, '');
 }
 
 function renderModalEntry(e) {
@@ -662,6 +711,10 @@ function esc(s) {
 
 function escAttr(s) {
   return esc(String(s || '')).replace(/"/g, '&quot;');
+}
+
+function formatLineList(value) {
+  return String(value || '').split(';').map(v => v.trim()).filter(Boolean).join(', ');
 }
 
 // Field value translations for ES mode
@@ -946,11 +999,13 @@ function updateMap(filtered) {
     const catLabel = (CATEGORY_LABELS[lang] || CATEGORY_LABELS.en)[e._category] || e._category;
     const rawSummary = entryCardSummary(e);
     const summary = rawSummary ? esc(rawSummary).substring(0, 180) + (rawSummary.length > 180 ? '...' : '') : '';
+    const lineMeta = e.line ? formatLineList(e.line) : '';
+    const href = stationURL(e.id);
     const popup = `
       <div class="map-popup-name">${esc(e.name)}</div>
-      <div class="map-popup-meta">${catLabel}${e.line ? ' · ' + e.line : ''}</div>
+      <div class="map-popup-meta">${catLabel}${lineMeta ? ' · ' + esc(lineMeta) : ''}</div>
       <div class="map-popup-summary">${summary}</div>
-      <div class="map-popup-link" onclick="closePopupsAndOpen('${e.id}')">${t('readMore')}</div>
+      <a class="map-popup-link" href="${escAttr(href)}" onclick="event.preventDefault(); closePopupsAndOpen('${e.id}')">${t('readMore')}</a>
     `;
 
     markers.addLayer(L.marker([lat, lng], {

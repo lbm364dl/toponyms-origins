@@ -479,6 +479,12 @@ header .subtitle {
   cursor: pointer;
   font-size: 0.75rem;
   font-weight: 700;
+  text-decoration: none;
+}
+
+.map-popup-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .entries {
@@ -487,17 +493,27 @@ header .subtitle {
 }
 
 .entry-card {
+  border-bottom: 1px solid var(--border);
+  background: transparent;
+}
+
+.entry-card-link {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
   gap: 8px 18px;
   padding: 16px 0;
-  border-bottom: 1px solid var(--border);
-  background: transparent;
+  color: inherit;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .entry-card:hover .entry-name {
   color: var(--accent);
+}
+
+.entry-card-link:focus-visible {
+  outline: 1px solid var(--accent-border);
+  outline-offset: 5px;
 }
 
 .entry-header,
@@ -809,6 +825,101 @@ header .subtitle {
   font-weight: 700;
 }
 
+.station-page header {
+  padding-bottom: 28px;
+}
+
+.station-hero {
+  position: relative;
+  padding-top: 28px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 22px;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.station-main {
+  padding: 30px 0 64px;
+}
+
+.station-article {
+  max-width: 720px;
+}
+
+.station-article .entry-badges {
+  justify-content: flex-start;
+  margin-bottom: 18px;
+}
+
+.station-article .markdown-content {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.station-article .markdown-content p {
+  margin-bottom: 16px;
+}
+
+.station-article .markdown-content p:last-child {
+  margin-bottom: 0;
+}
+
+.station-article .markdown-content h3,
+.station-article .markdown-content h4,
+.station-article .markdown-content h5 {
+  margin: 24px 0 10px;
+  color: var(--text);
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.station-article .markdown-content ul {
+  margin: 0 0 18px 20px;
+}
+
+.station-article .detail-grid {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 6px 18px;
+  margin-top: 28px;
+  padding-top: 22px;
+  border-top: 1px solid var(--border);
+  font-size: 0.86rem;
+}
+
+.station-article .detail-label {
+  color: var(--text-faint);
+}
+
+.station-article .detail-value {
+  color: var(--text-secondary);
+}
+
+.station-article .sources {
+  margin-top: 30px;
+  padding-top: 22px;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.84rem;
+  line-height: 1.65;
+}
+
+.station-article .sources h2 {
+  margin-bottom: 8px;
+  color: var(--text);
+  font-size: 0.94rem;
+}
+
 footer {
   border-top: 1px solid var(--border);
   padding: 24px 0;
@@ -918,7 +1029,7 @@ footer a:hover {
     height: 17px;
   }
 
-  .entry-card {
+  .entry-card-link {
     grid-template-columns: 1fr;
     gap: 6px;
     padding: 15px 0;
@@ -933,6 +1044,19 @@ footer a:hover {
 
   .entry-badges {
     justify-content: flex-start;
+  }
+
+  .station-hero {
+    padding-top: 22px;
+  }
+
+  .station-article .detail-grid {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+
+  .station-article .detail-label {
+    margin-top: 8px;
   }
 
   .map {
