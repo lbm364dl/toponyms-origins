@@ -1,1 +1,1 @@
-La afirmación principal está bien respaldada: la estación de Metro toma su nombre de la Plaza de Cuzco, llamada a su vez por la ciudad peruana de Cusco/Cuzco. La fecha exacta del 21 de octubre de 1953 aparece en referencias secundarias, pero no localicé el acuerdo municipal original.
+La afirmación principal está bien respaldada: la estación de Metro toma su nombre de la Plaza de Cuzco, llamada a su vez por la ciudad peruana de Cusco/Cuzco. La fecha exacta del 21 de octubre de 1953 aparece en referencias secundarias, pero no se localizó el acuerdo municipal original.

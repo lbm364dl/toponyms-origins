@@ -175,7 +175,11 @@ def markdown_to_html(text):
             rendered.append(f'<h{level}>{esc(heading.group(2))}</h{level}>')
             continue
         if all(re.match(r'^[-*]\s+', line) for line in lines):
-            items = ''.join(f'<li>{esc(re.sub(r"^[-*]\s+", "", line))}</li>' for line in lines)
+            item_texts = [re.sub(r'^[-*]\s+', '', line) for line in lines]
+            items = ''.join(
+                f'<li>{esc(item)}</li>'
+                for item in item_texts
+            )
             rendered.append(f'<ul>{items}</ul>')
             continue
         rendered.append(f'<p>{esc(" ".join(lines))}</p>')
