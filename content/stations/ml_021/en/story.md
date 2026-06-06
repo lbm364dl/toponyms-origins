@@ -2,7 +2,7 @@ Berna station takes its public name from Calle Berna, the nearby street in Pozue
 
 The older name behind the street is Bern, the Swiss city. In Spanish street nomenclature it appears as Berna, the normal Spanish form of the city's name. The reference is geographic rather than biographical: it does not commemorate a person called Berna, but points to a European capital-name theme in this part of Pozuelo.
 
-That theme is visible in municipal and transport maps of the Avenida de Europa area. Calle Berna appears beside Calle Suiza and near streets named Alemania, Berlín, Inglaterra, Londres, Austria, Hungría, Polonia and Irlanda. The pattern is not perfectly documented here as a formal municipal programme, but the map evidence strongly shows a deliberate European toponymic cluster around Avenida de Europa.
+That theme is visible in municipal and transport maps of the Avenida de Europa area. Calle Berna appears beside Calle Suiza and near streets named Alemania, Berlín, Inglaterra, Londres, Austria, Hungría, Polonia and Irlanda. The pattern is not fully documented as a formal municipal programme, but the map evidence strongly shows a deliberate European toponymic cluster around Avenida de Europa.
 
 The transport layer arrived later. Metro Ligero Oeste's corporate information gives 27 July 2007 as the inauguration date of the system, and Pozuelo's town hall presents ML2 as the line from Colonia Jardín toward Estación de Aravaca serving 13 stops in the municipality corridor. Berna was therefore not an old railway station name: it entered public transport use with the light-rail line, attached to an already named urban setting.
 
