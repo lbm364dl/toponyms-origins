@@ -3,7 +3,7 @@
 **Updated**: 2026-06-06
 **Scope**: Current `content/stations` metadata only.
 
-This file replaces the March 2026 station-status snapshot. For the active book lookup plan for non-verified entries, use `research/physical-books-guide.md`.
+This file replaces the March 2026 station-status snapshot. For the active book lookup plan for non-verified entries, use `research/physical-books-guide.md`. For a batch queue of the 144 `probable` entries, use `research/probable-reference-queue.md`.
 
 ## Current State
 
@@ -27,4 +27,5 @@ This file replaces the March 2026 station-status snapshot. For the active book l
 
 - Search digitized/online sources first: Toponomasticon Hispaniae, IGN's 2024 *Claves*, Peñasco & Cambronero, Capmany, the Ministry of Defence Getafe Base PDF, the Caridad Arias Aravaca article, the Alonso Fernández-Checa sample, Google Books snippets where available, and station-specific local PDFs already listed in metadata.
 - Use physical libraries or purchases only for the short current list: Aparisi Laporta, Nieto Ballester, García Sánchez's *Atlas*, Gea Ortigas, Menéndez Pidal, García López et al.'s *Coslada*, and Alonso Fernández-Checa.
+- For `probable` entries, start with the grouped queue in `research/probable-reference-queue.md`; most unresolved items ask for municipal naming files, historical maps/cadastre, transport naming records, or archives rather than more general books.
 - Removed from the active first-pass list: Oliver Asín, Asín Palacios, Galmés de Fuentes, Menéndez Pidal's *Orígenes del español*, Pedro de Répide, Santa Cecilia / Fernández Arroyo, and general Metro history books.

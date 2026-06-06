@@ -38,7 +38,8 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 │   ├── correspondencia-con-la-historia.md # 55 RAH biographical metro stations
 │   ├── toponymy.md                        # Neighbourhood/district toponymy
 │   ├── international.md                   # International projects & models
-│   ├── physical-books-guide.md            # Library research guide (11 books + articles)
+│   ├── physical-books-guide.md            # Short book lookup guide for non-verified stations
+│   ├── probable-reference-queue.md        # Batch queue for probable station references
 │   ├── station-etymology-status.md        # Coverage tracking per station
 │   ├── uncertain-stations-deep-research.md # Deep research on contested etymologies
 │   ├── wikidata-audit-report.md           # Wikidata QID verification results

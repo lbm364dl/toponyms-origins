@@ -62,7 +62,7 @@ All datasets, projects, books, articles, and tools identified during research (2
 
 ## D. Books and book-length sources
 
-For the current non-verified station lookup priority, see `research/physical-books-guide.md`. This table is a source catalogue, not a recommended reading order; some older book-length works below are now digitized.
+For the current non-verified station lookup priority, see `research/physical-books-guide.md`. For the grouped queue of `probable` station reference work, see `research/probable-reference-queue.md`. This table is a source catalogue, not a recommended reading order; some older book-length works below are now digitized.
 
 | # | Title | Author | Year | Scope |
 |---|-------|--------|------|-------|

@@ -3,12 +3,12 @@
 **Updated**: 2026-06-06
 **Scope**: `content/stations` only. Current station data has 368 entries: 221 `verified`, 144 `probable`, and 3 `uncertain`. Non-verified means `confidence != verified`.
 
-This guide supersedes the broad March 2026 physical-book list. Keep it short: check online and digitized material first, then use physical books only where the station metadata still asks for them.
+This guide supersedes the broad March 2026 physical-book list. Keep it short: check online and digitized material first, then use physical books only where the station metadata still asks for them. For the full grouped queue of `probable` station reference work, use `research/probable-reference-queue.md`.
 
 ## Priority
 
 1. Resolve the 3 `uncertain` entries first: Coslada (`cercanias_036`), Aravaca (`cercanias_061`), and Pitis (`metro_167`).
-2. For `probable` entries, only consult a book when the station metadata already names that book or when the toponym belongs to the same narrow problem group.
+2. For `probable` entries, use `research/probable-reference-queue.md` first; only consult a book when the station metadata already names that book or when the toponym belongs to the same narrow problem group.
 3. Do not re-open broad, already-verified cases unless a station note asks for a specific page or citation.
 
 ## Digitized or Online First
