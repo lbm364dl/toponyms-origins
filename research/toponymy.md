@@ -58,7 +58,7 @@
 - **Dialnet entry**: https://dialnet.unirioja.es/servlet/libro?codigo=42882
 - **Publisher**: Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid
 - **ISBN**: 84-7812-525-6
-- **What it contains**: The definitive scholarly work on Madrid toponymy. 2 volumes + 1 CD-ROM. Over 20,000 toponyms of the city of Madrid catalogued, with historical documentation. Product of 14 years of research. Won the Premio Antonio Maura for Madrid research (1997).
+- **What it contains**: A major scholarly work on Madrid toponymy. 2 volumes + 1 CD-ROM. Over 20,000 toponyms of the city of Madrid catalogued, with historical documentation. Product of 14 years of research. Won the Premio Antonio Maura for Madrid research (1997).
 - **Format**: Physical book (2 vols + CD-ROM). Not freely available online.
 - **Quality/Completeness**: EXCELLENT. The most comprehensive single work on Madrid street/place name origins. Cited by virtually all subsequent researchers. The CD-ROM reportedly contains a searchable database.
 
@@ -109,7 +109,7 @@
 - **ISBN**: 9788498734362 (2012 ed.), 9788498731828
 - **Amazon**: https://www.amazon.es/Los-nombres-las-calles-Madrid/dp/8498731828
 - **What it contains**: Over 1,000 entries covering streets, passages, plazas, and avenues in central Madrid. Explains the origin of each name and different historical denominations.
-- **Format**: Physical book (not freely available online; PDF of introduction available at https://edicioneslalibreria.com/wp-content/uploads/2021/02/Los-nombres-de-las-calles-de-Madrid.pdf)
+- **Format**: Current editions are physical/bookshop items; a publisher sample/intro PDF exists, but no complete open scan was found.
 - **Quality/Completeness**: VERY GOOD. Regularly updated. One of the most popular and accessible references. Focuses on central Madrid.
 
 ### 3.2 "Origen histórico y etimológico de las calles de Madrid" -- Antonio de Capmany y de Montpalau (1863)
@@ -328,8 +328,8 @@ Historical categories of name origins (per Fermín Caballero, 1840):
 ## 8. KEY GAPS & NOTES
 
 1. **No single comprehensive open dataset exists** that combines barrio/district names with their etymologies. The structured datasets (datos.madrid.es) contain names and geographic data but not origins.
-2. **The definitive scholarly work** is Aparisi Laporta (2001) with 20,000+ toponyms, but it exists only as a physical 2-volume book with CD-ROM -- not openly available online.
+2. **A major Madrid-specific scholarly work** is Aparisi Laporta (2001-2005) with 20,000+ toponyms, but it remains a physical/catalogue lookup rather than an open full-text source.
 3. **The historical street directory** at datos.madrid.es tracks name *changes* over time but does not explain *why* streets were originally named.
 4. **Building a dataset of name origins would require** combining the structured data from datos.madrid.es (names, codes, boundaries) with etymological information manually extracted from scholarly sources (especially Aparisi Laporta, Gea Ortigas, and the various blog/wiki sources documented above).
-5. **The Capmany (1863) work** in the Biblioteca Digital de la Comunidad de Madrid may be available as a digitized historical source and would be extremely valuable if accessible.
+5. **The Capmany (1863) work** is available through the Biblioteca Digital de la Comunidad de Madrid and belongs in the digitized-first source group.
 6. **For district names specifically**, many derive from former independent municipalities (Carabanchel, Vallecas, Barajas, Vicálvaro, Hortaleza, Canillejas, Aravaca, Fuencarral, El Pardo, Chamartín) whose etymologies predate their incorporation into Madrid (1948-1954).

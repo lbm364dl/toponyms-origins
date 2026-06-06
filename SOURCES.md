@@ -60,18 +60,20 @@ All datasets, projects, books, articles, and tools identified during research (2
 | 40 | Calles de Sevilla | Seville street etymologies | Web | https://callesdesevilla.com/ |
 | 41 | Bilbao Izan - Por que se llama | Bilbao street name origins | Web | https://www.bilbao.eus/cs/Satellite?c=Page&cid=1272986939596&language=es |
 
-## D. Books (not freely available online)
+## D. Books and book-length sources
+
+For the current non-verified station lookup priority, see `research/physical-books-guide.md`. This table is a source catalogue, not a recommended reading order; some older book-length works below are now digitized.
 
 | # | Title | Author | Year | Scope |
 |---|-------|--------|------|-------|
-| 42 | Toponimia madrilena: proceso evolutivo (2 vols + CD-ROM) | Luis Miguel Aparisi Laporta | 2001 | 20,000+ Madrid toponyms (THE definitive work) |
-| 43 | Los nombres de las calles de Madrid | Maria Isabel Gea Ortigas | 1993-2020 | 1,000+ street entries with origins |
-| 44 | Metro de Madrid: Por que sus estaciones se llaman asi? | Jose Felipe Alonso Fernandez-Checa | 2023 | ALL 302+ Metro station name origins |
+| 42 | Toponimia madrilena: proceso evolutivo (2 vols + CD-ROM) | Luis Miguel Aparisi Laporta | 2001-2005 | Major Madrid toponymy reference; physical/catalogue lookup |
+| 43 | Los nombres de las calles de Madrid | Maria Isabel Gea Ortigas | 1993-2020 | Street-name entries; physical/current editions |
+| 44 | Metro de Madrid: Por que sus estaciones se llaman asi? | Jose Felipe Alonso Fernandez-Checa | 2023 | Metro station-name cross-check, ISBN 978-84-9873-497-3 |
 | 45 | El alma del suburbano madrileno | Comunidad de Madrid | 2025 | First 42 Metro stations (1919-1944) |
-| 46 | Origen historico y etimologico de las calles de Madrid | Antonio de Capmany | 1863 | Foundational 19th-century work (431 pages) |
+| 46 | Origen historico y etimologico de las calles de Madrid | Antonio de Capmany | 1863 | Digitized historical street-name work |
 | 47 | Las calles de Madrid | Pedro de Repide | early 20th c. | Classic literary guide |
 | 48 | Los nombres de las calles de Madrid | Federico Bravo Morata | 1984 | Comprehensive 1980s guide |
-| 49 | Las calles de Madrid: noticias, tradiciones y curiosidades | Penasco de la Puente & Cambronero | 1889 | Historical anecdotes |
+| 49 | Las calles de Madrid: noticias, tradiciones y curiosidades | Penasco de la Puente & Cambronero | 1889 | Digitized historical street-name work |
 | 50 | Diccionario de Madrid | Juan Antonio Cabezas | 1972 | Dictionary format |
 | 51b | Metro de Madrid 1919-2009: Noventa anos de historia | Aurora Moya Rodriguez | 2009 | 544pp definitive Metro history (ISBN 978-84-613-6154-0) |
 | 52b | Metro de Madrid 1919-1989: Setenta anos de historia | Aurora Moya Rodriguez | 1990 | 339pp first comprehensive Metro history (ISBN 9788440482853) |

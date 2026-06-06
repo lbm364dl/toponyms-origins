@@ -884,7 +884,7 @@ Now fully documented in `/data/madrid_metro_ligero_stations.csv` (52 stations ac
 ## 21. ASSESSMENT & GAPS (updated after deep research)
 
 ### What exists:
-- **Book 1a (Alonso Fernández-Checa, 2023)** is the single most comprehensive resource covering ALL 302+ Metro station name origins. It is a physical book (not freely available online), 276 pages, ISBN 978-84-9873-497-3.
+- **Book 1a (Alonso Fernández-Checa, 2023)** is the most focused current book-length Metro station-name cross-check found so far. It is a physical/bookshop item, 276 pages, ISBN 978-84-9873-497-3.
 - **"Correspondencia con la Historia"** (RAH + Metro) covers 58 stations named after historical figures with official biographies from the Diccionario Biográfico Español.
 - **Metro de Madrid official podcast** (10 episodes) directly addresses station name origins in audio format.
 - **"Revista Madrid Histórico"** has an ongoing article series on individual station histories (at least Diego de León and Concha Espina published in 2024).
@@ -906,12 +906,7 @@ Now fully documented in `/data/madrid_metro_ligero_stations.csv` (52 stations ac
 5. **The RAH biography pages** for the 58 "Correspondencia con la Historia" stations are dynamically loaded and could not be scraped in this research session.
 6. **Naming governance documentation**: While we know the Comunidad de Madrid decides since 1995, no specific BOCM decrees for individual station naming decisions were found online. The Archivo General de Metro de Madrid may contain primary source records of naming decisions.
 7. **The "Revista Madrid Histórico" article series** on individual stations appears to be ongoing but only two articles (Diego de León, Concha Espina) were confirmed; the full extent of the series is unclear.
-8. **A few station etymologies remain uncertain**: Pitis, La Garena, and El Goloso lack documented etymology. Some like Chamartín, Aranjuez, Parla, and Coslada have multiple competing theories without scholarly consensus.
+8. **A few station etymologies remain uncertain**: the current station status is maintained in `research/station-etymology-status.md`. As of 2026-06-06 the `uncertain` station entries are Coslada, Aravaca, and Pitis.
 
 ### Priority resources to acquire:
-1. **Alonso Fernández-Checa book** (2023) -- THE key resource. Physical purchase needed (~17 EUR).
-2. **"El alma del suburbano madrileño"** (2025) -- FREE PDF from COAM confirmed.
-3. **Aparisi Laporta "Toponimia madrileña"** (2001) -- Definitive toponymy reference. Library access likely needed.
-4. **Gea Ortigas "Los nombres de las calles de Madrid"** -- Cross-reference for street-named stations.
-5. **Martínez Moreno Line 1 monographs** (2019/2021) -- Available as Kindle eBooks.
-6. **CRTM Chronology PDFs** -- FREE, already have URLs.
+Current non-verified station lookup priorities are maintained in `research/physical-books-guide.md`. For Metro-only background, keep Alonso Fernández-Checa (2023) as a useful cross-check, `El alma del suburbano madrileño` as a free historical PDF for the first 42 stations, and the CRTM chronology PDFs as free opening/name-change references.

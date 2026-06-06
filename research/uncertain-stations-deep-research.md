@@ -1,4 +1,6 @@
-# Deep Research: Uncertain Station Etymologies
+# Deep Research: Uncertain Station Etymologies (Historical)
+
+> **Current note (2026-06-06)**: This is a March 2026 research snapshot. The current station data has only 3 `uncertain` entries: Coslada (`cercanias_036`), Aravaca (`cercanias_061`), and Pitis (`metro_167`). For the active, shortened book lookup list, use `research/physical-books-guide.md`.
 
 **Date**: 2026-03-27
 **Scope**: All 14 station entries with `confidence=uncertain`
@@ -174,11 +176,11 @@ García Sánchez (CVC Rinconete Part III, 2007): "presenta muchos problemas" -- 
 
 ---
 
-## Tier 3: Genuinely Unknown
+## Tier 3: Pitis Open Problem
 
-### 12-13. Pitis (metro_167 + cercanias_083)
+### 12-13. Pitis (March snapshot; current dataset keeps only `metro_167`)
 
-**Status**: NO scholarly publication has EVER treated this toponym. This is confirmed after exhaustive searching across CVC Cervantes, Dialnet, all scholarly databases, Menéndez Pidal, García Sánchez, Nieto Ballester, and Aparisi Laporta references.
+**March 2026 status**: No directly relevant scholarly treatment of this toponym had been found in the sources searched then: CVC Cervantes, Dialnet, Menéndez Pidal, García Sánchez, Nieto Ballester, and Aparisi Laporta references. The current dataset keeps Pitis as `uncertain`, not `unknown`.
 
 **Hypotheses:**
 1. **Greek "pitys" (pine)**: Circumstantial support from the documented "Arroyo de los Pinos" in adjacent Peñagrande neighbourhood and pine forests of Monte de El Pardo. But no mechanism for Greek → Castilian rural toponym.
@@ -187,11 +189,7 @@ García Sánchez (CVC Rinconete Part III, 2007): "presenta muchos problemas" -- 
 
 **Area c.1960**: Described as having "una frondosa alameda" (leafy poplar grove) with a stream.
 
-**Unsearched sources that may resolve this:**
-1. **Aparisi Laporta, Toponimia madrileña (2001)** vol. 2 -- at BNE. 20,000+ toponyms.
-2. **Alonso Fernández-Checa, Metro de Madrid (2023)** -- Amazon, ~15 EUR.
-3. **Catastro de Ensenada for Fuencarral** (1749-1753) -- at PARES: pares.cultura.gob.es
-4. **IGN historical planimetries** (1870-1950) -- ign.es/wms/minutas-cartograficas
+**Current source plan**: Use `research/physical-books-guide.md`. The active Pitis lookup path is Alonso Fernández-Checa as a Metro-facing cross-check, Aparisi Laporta and Fuencarral-El Pardo material for microtoponyms, then Fuencarral cadastral/notarial/municipal records if books do not resolve it.
 
 ---
 
@@ -285,18 +283,11 @@ The scholarly toponymy dictionary project. Confirmed: neither Pitis nor Opanel h
 - **Access**: toponhisp.org/es/toponimia-de-las-zonas-central-sur-e-insular-atlantico/consulta-diccionario/13
 - **Status**: No Pitis entry. Project ongoing (2021-2025 funding). Future entries may be added.
 
-## Not Digitized -- Requires Physical Visit
+## Current Book Follow-Up
 
-| Resource | Location | What to look for |
-|----------|----------|-----------------|
-| Aparisi Laporta "Toponimia madrileña" (2001) vol. 2 | BNE / CSIC Biblioteca TNT / Biblioteca Regional de Madrid | Pitis, Opanel, Valdecarros, all uncertain stations |
-| Villar Liébana article (Palaeohispanica 2002) full text | University library with journal access | Does it mention Opanel specifically? |
-| García Sánchez "Atlas toponímico de España" (2007) | CSIC Biblioteca TNT | Getafe, Alcorcón, Coslada entries |
-| García Sánchez & Nieto Ballester "Claves..." (2024) | CSIC / UAH library | Latest scholarly compilation on Hispanic toponymy |
+The active source plan is maintained in `research/physical-books-guide.md`. Current changes from this March snapshot:
 
-## Next Steps (Priority Order)
-
-1. **Buy** (15 EUR, online): Alonso Fernández-Checa (2023), ISBN 978-84-09-54335-1 on Amazon.es
-2. **Download and examine** (free, 30 min): Facundo Cañada López 1900 map from CSIC
-3. **Search online** (free, 1 hour): PARES Catastro de Ensenada for Fuencarral; IGN minutas viewer; BNE hemeroteca; Memoria de Madrid
-4. **Library visit** (half day): BNE or CSIC for Aparisi Laporta + García Sánchez Atlas
+- `Claves en la investigación de la toponimia hispánica` is available as a free IGN digital book, so it should not be listed as a physical-library target.
+- Villar Liébana's Palaeohispanica article has an online PDF and is not a book lookup target.
+- Alonso Fernández-Checa's Metro book should be cited as *Metro de Madrid. ¿Por qué sus estaciones se llaman así?*, ISBN 978-84-9873-497-3. Use it as a Metro cross-check, not as a blanket solution for every unresolved etymology.
+- Physical lookup priority is now: Aparisi Laporta for Madrid microtoponyms, Nieto Ballester and García Sánchez for older place names, Gea Ortigas for street-derived names and Aravaca, Menéndez Pidal plus García López et al. for Coslada, and Fuencarral-El Pardo material for Pitis.

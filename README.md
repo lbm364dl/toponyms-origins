@@ -75,7 +75,7 @@ A comprehensive dataset documenting **why things in Madrid are named the way the
 
 | Book | Author | Year | What |
 |------|--------|------|------|
-| **Metro de Madrid: Por que sus estaciones se llaman asi?** | Jose Felipe Alonso Fernandez-Checa | 2023 | ALL 302+ station name origins (THE definitive resource) |
+| **Metro de Madrid: Por que sus estaciones se llaman asi?** | Jose Felipe Alonso Fernandez-Checa | 2023 | Focused Metro station-name cross-check; physical/bookshop item |
 | **El alma del suburbano madrileno** (565pp) | Olivares & Molina / Comunidad de Madrid | 2025 | First 42 stations 1919-1944 ([FREE PDF at COAM](https://www.fundacioncoam.org/media/Default%20Files/fundacion/biblioteca/donativos%20editoriales%20institucionales%202025/el-alma-del-suburbano-madrileno.pdf)) |
 | **100 Anos de la Linea Norte-Sur: De Cuatro Caminos a Sol** | Antonio Martinez Moreno | 2019 | Line 1 first 8 stations (Kindle available) |
 | **De Sol al Puente de Vallecas** | Antonio Martinez Moreno | 2021 | Line 1 southern extension |
