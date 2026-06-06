@@ -33,8 +33,8 @@
       "title": "Real Academia de la Historia - Historia Hispánica: Alberto Rodríguez de Lista y Aragón",
       "url": "https://historia-hispanica.rah.es/biografias/39359-alberto-rodriguez-de-lista-y-aragon",
       "type": "reference",
-      "relevance_en": "Authoritative biographical entry identifying Alberto Rodríguez de Lista y Aragón and his dates and occupations; the page is client-rendered, but indexed RAH snippets confirm the key biographical metadata.",
-      "relevance_es": "Entrada biográfica autorizada que identifica a Alberto Rodríguez de Lista y Aragón, sus fechas y ocupaciones; la página se renderiza en cliente, pero los extractos indexados de la RAH confirman los principales metadatos biográficos."
+      "relevance_en": "Authoritative biographical entry identifying Alberto Rodríguez de Lista y Aragón and his dates and occupations; the page is client-rendered, but RAH source summaries confirm the key biographical metadata.",
+      "relevance_es": "Entrada biográfica autorizada que identifica a Alberto Rodríguez de Lista y Aragón, sus fechas y ocupaciones; la página se renderiza en cliente, pero los extractos disponibles de la RAH confirman los principales metadatos biográficos."
     },
     {
       "title": "Biblioteca Virtual Miguel de Cervantes - Biografía de Alberto Lista",
@@ -67,11 +67,11 @@
   ],
   "open_questions": [
     {
-      "en": "The exact municipal record assigning the street name Calle de Lista, reported by secondary sources as 1871, should be inspected in the Archivo de Villa or a contemporary municipal gazette.",
+      "en": "The exact municipal record assigning the street name Calle de Lista, reported by secondary sources as 1871, should be consulted in the Archivo de Villa or a contemporary municipal gazette.",
       "es": "Sería conveniente consultar en el Archivo de Villa o en una publicación municipal contemporánea el acuerdo exacto que asignó el nombre de calle de Lista, indicado por fuentes secundarias como 1871."
     },
     {
-      "en": "No separate Metro naming-resolution document was inspected; the name is inferred from the station’s 1932 opening material and its location by the former Calle de Lista.",
+      "en": "No separate Metro naming-resolution document was consulted; the name is inferred from the station’s 1932 opening material and its location by the former Calle de Lista.",
       "es": "No se ha consultado un expediente específico de denominación de Metro; el nombre se infiere de la documentación de inauguración de 1932 y de su ubicación junto a la antigua calle de Lista."
     }
   ],

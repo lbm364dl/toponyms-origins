@@ -71,7 +71,7 @@
       "es": "Añadir la fecha de existencia oficial municipal de la glorieta: 31 de mayo de 1990."
     },
     {
-      "en": "Downgrade the biblical explanation from a live etymology claim to an unproven possible echo of the phrase; no inspected Madrid source supports it.",
+      "en": "Downgrade the biblical explanation from a live etymology claim to an unproven possible echo of the phrase; no consulted Madrid source supports it.",
       "es": "Rebajar la explicación bíblica de hipótesis etimológica activa a posible eco no probado de la expresión; ninguna fuente madrileña consultada la respalda."
     },
     {
@@ -81,12 +81,12 @@
   ],
   "open_questions": [
     {
-      "en": "The municipal street dataset gives an official existence date but not the administrative act or rationale that approved the name; the relevant Ayuntamiento street-naming file or plenary/commission record should be inspected if available.",
+      "en": "The municipal street dataset gives an official existence date but not the administrative act or rationale that approved the name; the relevant Ayuntamiento street-naming file or plenary/commission record should be consulted if available.",
       "es": "El callejero municipal da una fecha de existencia oficial, pero no el acuerdo administrativo ni la motivación que aprobó el nombre; convendría revisar el expediente municipal de denominación o el acta de pleno/comisión correspondiente, si existe."
     },
     {
-      "en": "No inspected source explains whether “Mar de Cristal” was coined to match nearby sea-name streets, to refer to the later glass station skylight, or to echo a literary or religious phrase; the chronology makes the station-skylight explanation unlikely for the roundabout name.",
-      "es": "Ninguna fuente consultada explica si “Mar de Cristal” se acuñó para encajar con las calles cercanas con nombres de mares, para aludir al posterior lucernario acristalado de la estación o para evocar una frase literaria o religiosa; la cronología hace improbable que el lucernario explique el nombre de la glorieta."
+      "en": "No available source explains whether “Mar de Cristal” was coined to match nearby sea-name streets, to refer to the later glass station skylight, or to echo a literary or religious phrase; the chronology makes the station-skylight explanation unlikely for the roundabout name.",
+      "es": "Ninguna fuente disponible explica si “Mar de Cristal” se acuñó para encajar con las calles cercanas con nombres de mares, para aludir al posterior lucernario acristalado de la estación o para evocar una frase literaria o religiosa; la cronología hace improbable que el lucernario explique el nombre de la glorieta."
     }
   ],
   "missing_bilingual_markdown_fields": [],

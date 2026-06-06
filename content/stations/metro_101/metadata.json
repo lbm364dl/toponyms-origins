@@ -26,8 +26,8 @@
       "title": "Real Academia de la Historia, Diccionario Biográfico electrónico - Diego Rodríguez de Silva y Velázquez",
       "url": "https://dbe.rah.es/biografias/5114/diego-rodriguez-de-silva-y-velazquez",
       "type": "reference",
-      "relevance_en": "Authoritative biographical entry linked by the RAH-Metro project for the person behind the station name; useful for the full name and biographical authority, though the page content was not fully extractable in the browsing tool.",
-      "relevance_es": "Entrada biográfica autorizada enlazada por el proyecto RAH-Metro para la persona detrás del nombre de la estación; útil para el nombre completo y la autoridad biográfica, aunque el contenido de la página no pudo extraerse por completo con la herramienta de navegación."
+      "relevance_en": "Authoritative biographical entry linked by the RAH-Metro project for the person behind the station name; useful for the full name and biographical authority, though the page content was not available as full text.",
+      "relevance_es": "Entrada biográfica autorizada enlazada por el proyecto RAH-Metro para la persona detrás del nombre de la estación; útil para el nombre completo y la autoridad biográfica, aunque el contenido de la página no pudo extraerse por completo."
     },
     {
       "title": "Museo Nacional del Prado - Las Meninas",
@@ -67,7 +67,7 @@
   ],
   "open_questions": [
     {
-      "en": "The exact municipal approval date for the name Calle de Velázquez was not found; a historical street-naming file or old Ayuntamiento nomenclator should be inspected.",
+      "en": "The exact municipal approval date for the name Calle de Velázquez was not found; a historical street-naming file or old Ayuntamiento nomenclator should be consulted.",
       "es": "No se ha encontrado la fecha municipal exacta de aprobación del nombre calle de Velázquez; convendría revisar un expediente histórico de rotulación o un nomenclátor antiguo del Ayuntamiento."
     },
     {

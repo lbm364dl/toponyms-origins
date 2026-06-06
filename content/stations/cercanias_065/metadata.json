@@ -54,8 +54,8 @@
       "title": "Ayuntamiento de Las Rozas de Madrid - El paisaje vegetal de Las Rozas de Madrid",
       "url": "https://www.lasrozas.es/WEB_CONTENT/pages/MedioAmbiente/El%20paisaje%20vegetal%20de%20Las%20Rozas%20de%20Madrid.pdf",
       "type": "official",
-      "relevance_en": "Indexed text from this municipal PDF reports older forms including ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS, and LAS ROZAS DE MADRID, and links the name to rural land use.",
-      "relevance_es": "El texto indexado de este PDF municipal recoge formas antiguas como ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS y LAS ROZAS DE MADRID, y vincula el nombre con el uso rural de la tierra."
+      "relevance_en": "source metadata from this municipal PDF reports older forms including ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS, and LAS ROZAS DE MADRID, and links the name to rural land use.",
+      "relevance_es": "El texto del registro de este PDF municipal recoge formas antiguas como ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS y LAS ROZAS DE MADRID, y vincula el nombre con el uso rural de la tierra."
     }
   ],
   "corrections": [

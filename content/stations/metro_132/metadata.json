@@ -61,8 +61,8 @@
       "title": "Archivo de Villa de Madrid catalog result: Terrenos llamados La Quinta de La Quintana",
       "url": "https://catalogoarchivodevillapre.madrid.es/ms-opac/search?fo=and&fq=mssearch_materials&fv=%22MOVIMIENTO+DE+TIERRAS%22&norm=%2A&q=%2A%3A%2A&rows=12&sort=fecha+asc&start=0",
       "type": "archive",
-      "relevance_en": "Catalog search result indicating archival records for land called La Quinta de La Quintana; the full record should be inspected for a firmer historical reconstruction.",
-      "relevance_es": "Resultado de catálogo que apunta a expedientes sobre terrenos llamados La Quinta de La Quintana; conviene inspeccionar la ficha completa para reconstruir con mayor firmeza el topónimo."
+      "relevance_en": "Catalog record indicating archival records for land called La Quinta de La Quintana; the full record should be consulted for a firmer historical reconstruction.",
+      "relevance_es": "Resultado de catálogo que apunta a expedientes sobre terrenos llamados La Quinta de La Quintana; conviene consultar la ficha completa para reconstruir con mayor firmeza el topónimo."
     }
   ],
   "corrections": [
@@ -81,12 +81,12 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the Ayuntamiento de Madrid street-naming or nomenclature file for Plaza de Quintana to see whether it records an official dedication, approval date or older name.",
+      "en": "Consult the Ayuntamiento de Madrid street-naming or nomenclature file for Plaza de Quintana to see whether it records an official dedication, approval date or older name.",
       "es": "Consultar el expediente de denominación o nomenclátor del Ayuntamiento de Madrid para la plaza de Quintana, por si registra una dedicatoria oficial, fecha de aprobación o nombre anterior."
     },
     {
-      "en": "Inspect Archivo de Villa records titled \"Terrenos llamados La Quinta de La Quintana\" for dates, owners and exact location; the catalog result was found but not fully inspected through the web tool.",
-      "es": "Consultar en el Archivo de Villa los registros titulados \"Terrenos llamados La Quinta de La Quintana\" para precisar fechas, propietarios y localización exacta; se localizó el resultado de catálogo, pero no se pudo inspeccionar completo con la herramienta web."
+      "en": "Consult Archivo de Villa records titled \"Terrenos llamados La Quinta de La Quintana\" for dates, owners and exact location; the catalog record was found but not available in full.",
+      "es": "Consultar en el Archivo de Villa los registros titulados \"Terrenos llamados La Quinta de La Quintana\" para precisar fechas, propietarios y localización exacta; se localizó el registro de catálogo, pero no estuvo disponible para consulta completo."
     }
   ],
   "missing_bilingual_markdown_fields": [],

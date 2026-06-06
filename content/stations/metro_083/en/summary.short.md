@@ -1,1 +1,1 @@
-Tres Olivos station is named after the nearby Tres Olivos residential area, documented in Madrid planning as the Plan Parcial 'Los Tres Olivos'. The literal meaning is 'three olive trees', but the inspected sources do not prove the story of three specific trees at the site.
+Tres Olivos station is named after the nearby Tres Olivos residential area, documented in Madrid planning as the Plan Parcial 'Los Tres Olivos'. The literal meaning is 'three olive trees', but the available sources do not prove the story of three specific trees at the site.

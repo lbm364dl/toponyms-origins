@@ -1,1 +1,1 @@
-The claim is substantially supported as a long-standing Madrid street-name tradition, but the medieval diplomatic episode is transmitted through later chronicles and street-name writers rather than a directly inspected fifteenth-century record.
+The claim is substantially supported as a long-standing Madrid street-name tradition, but the medieval diplomatic episode is transmitted through later chronicles and street-name writers rather than a directly consulted fifteenth-century record.

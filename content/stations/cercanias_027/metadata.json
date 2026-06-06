@@ -40,7 +40,7 @@
       "title": "Open Library record: Breve diccionario de topónimos españoles, Emilio Nieto Ballester",
       "url": "https://openlibrary.org/books/OL286158M/Breve_diccionario_de_topo%CC%81nimos_espan%CC%83oles",
       "type": "book",
-      "relevance_en": "Bibliographic record for the printed specialist dictionary cited for the Parilus/(villa) Parila explanation; the bibliographic details could be verified online, but the printed entry could not be inspected directly.",
+      "relevance_en": "Bibliographic record for the printed specialist dictionary cited for the Parilus/(villa) Parila explanation; the bibliographic details could be verified online, but the printed entry could not be consulted directly.",
       "relevance_es": "Registro bibliográfico del diccionario especializado impreso citado para la explicación Parilus/(villa) Parila; los datos bibliográficos se verificaron en línea, pero la entrada impresa no se consultó directamente."
     },
     {
@@ -74,7 +74,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the physical entry for Parla in Emilio Nieto Ballester, Breve diccionario de topónimos españoles, p. 274, to confirm the exact wording and any caveats in the original printed source.",
+      "en": "Consult the physical entry for Parla in Emilio Nieto Ballester, Breve diccionario de topónimos españoles, p. 274, to confirm the exact wording and any caveats in the original printed source.",
       "es": "Consultar físicamente la entrada de Parla en Emilio Nieto Ballester, Breve diccionario de topónimos españoles, p. 274, para confirmar la redacción exacta y los matices de la fuente impresa original."
     },
     {

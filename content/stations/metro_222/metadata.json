@@ -54,8 +54,8 @@
       "title": "La raíz K-R-K en la nomenclatura forestal",
       "url": "https://fs.revistas.csic.es/index.php/fs/article/download/649/646/",
       "type": "academic",
-      "relevance_en": "Search-accessible academic source by Juan Ruiz de la Torre noting that Alcorcón or corcón may refer to Quercus suber; the full PDF returned a temporary fetch error during inspection.",
-      "relevance_es": "Fuente académica localizable por búsqueda, de Juan Ruiz de la Torre, que indica que Alcorcón o corcón puede referirse a Quercus suber; el PDF completo devolvió un error temporal al intentar inspeccionarlo."
+      "relevance_en": "Academic record by Juan Ruiz de la Torre noting that Alcorcón or corcón may refer to Quercus suber; the full PDF was not available in the source record.",
+      "relevance_es": "Fuente académica localizable en registros públicos, de Juan Ruiz de la Torre, que indica que Alcorcón o corcón puede referirse a Quercus suber; el PDF completo tuvo un error temporal de acceso."
     }
   ],
   "corrections": [
@@ -74,12 +74,12 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the full García Sánchez Rinconete 2007 item or its exact bibliographic record if available, because the CVC article could not be retrieved reliably from the CVC.",
+      "en": "Consult the full García Sánchez Rinconete 2007 item or its exact bibliographic record if available, because the CVC article could not be retrieved reliably from the CVC.",
       "es": "Conviene revisar el artículo completo de García Sánchez en Rinconete 2007 o su registro bibliográfico exacto si está disponible, porque no se pudo recuperar con fiabilidad en el CVC."
     },
     {
-      "en": "A human reviewer may wish to compare Corominas directly in the relevant printed volume before retaining the statement about rejecting pottery-based folk etymologies.",
-      "es": "Un revisor humano debería contrastar directamente a Corominas en el volumen impreso correspondiente antes de mantener la afirmación sobre el rechazo de etimologías populares basadas en la alfarería."
+      "en": "Compare Corominas directly in the relevant printed volume before retaining the statement about rejecting pottery-based folk etymologies.",
+      "es": "Conviene contrastar directamente a Corominas en el volumen impreso correspondiente antes de mantener la afirmación sobre el rechazo de etimologías populares basadas en la alfarería."
     }
   ],
   "missing_bilingual_markdown_fields": [],

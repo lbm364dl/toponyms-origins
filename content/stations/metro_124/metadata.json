@@ -75,8 +75,8 @@
       "title": "Ayuntamiento de Madrid Transparencia: Convenio APE Callejón de los Morales Sur",
       "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/ConveniosUrbanisticos/Ficheros/2017/CONVENIO%20APE%20CALLEJON%20DE%20LOS%20MORALES%20SUR.pdf",
       "type": "official",
-      "relevance_en": "Search result text reports a property description as Plaza Calvo Sotelo, now Plaza del Duque de Pastrana nos. 6-7; useful lead for a former place-name, but the PDF needs direct inspection.",
-      "relevance_es": "El texto del resultado de búsqueda recoge una descripción de finca como Plaza Calvo Sotelo, hoy plaza del Duque de Pastrana números 6 y 7; es una pista útil sobre un nombre anterior del lugar, pero el PDF requiere inspección directa."
+      "relevance_en": "source metadata reports a property description as Plaza Calvo Sotelo, now Plaza del Duque de Pastrana nos. 6-7; useful lead for a former place-name, but the PDF needs direct review.",
+      "relevance_es": "El resumen de fuente recoge una descripción de finca como Plaza Calvo Sotelo, hoy plaza del Duque de Pastrana números 6 y 7; es una pista útil sobre un nombre anterior del lugar, pero el PDF requiere revisión directa."
     }
   ],
   "corrections": [
@@ -95,12 +95,12 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect Madrid municipal street-naming files or historical plenary records to determine when Plaza del Duque de Pastrana received its current name and whether the dedication was to Ruy Gómez de Silva, to a later duke, or to the ducal house generally.",
+      "en": "Consult Madrid municipal street-naming files or historical plenary records to determine when Plaza del Duque de Pastrana received its current name and whether the dedication was to Ruy Gómez de Silva, to a later duke, or to the ducal house generally.",
       "es": "Consultar expedientes municipales de denominación de vías o actas históricas del Ayuntamiento de Madrid para determinar cuándo recibió la plaza del Duque de Pastrana su nombre actual y si la dedicatoria fue a Ruy Gómez de Silva, a un duque posterior o a la casa ducal en general."
     },
     {
-      "en": "Verify the Plaza Calvo Sotelo reference in the underlying 2017 urban-planning PDF or land-registry documents, because the web snippet is clear but the PDF could not be fully opened during this check.",
-      "es": "Verificar la referencia a Plaza Calvo Sotelo en el PDF urbanístico de 2017 o en documentos registrales, porque el resultado web es claro pero el PDF no pudo abrirse completamente durante esta comprobación."
+      "en": "Verify the Plaza Calvo Sotelo reference in the underlying 2017 urban-planning PDF or land-registry documents, because the source summary is clear but the PDF requires direct review.",
+      "es": "Verificar la referencia a Plaza Calvo Sotelo en el PDF urbanístico de 2017 o en documentos registrales, porque el resultado web es claro pero el PDF no pudo abrirse completamente en la revisión disponible."
     }
   ],
   "missing_bilingual_markdown_fields": [],

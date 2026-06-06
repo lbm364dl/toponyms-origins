@@ -61,7 +61,7 @@
       "title": "Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo",
       "url": "https://dialnet.unirioja.es/servlet/libro?codigo=42882",
       "type": "book",
-      "relevance_en": "Bibliographic record for the Madrid toponymy work cited in the input row. The bibliographic record was found, but the La Elipa entry could not be inspected online.",
+      "relevance_en": "Bibliographic record for the Madrid toponymy work cited in the input row. The bibliographic record was found, but the La Elipa entry could not be consulted online.",
       "relevance_es": "Registro bibliográfico de la obra de toponimia madrileña citada en la fila de entrada. El registro bibliográfico fue localizado, pero no se pudo consultar en línea la entrada de La Elipa en las fuentes disponibles."
     }
   ],
@@ -75,17 +75,17 @@
       "es": "La clasificación recomendada debe ser lugar para la fuente directa del nombre de la estación, con una etimología personal probable detrás del topónimo."
     },
     {
-      "en": "The current row’s confidence should be lowered from verified to probable unless Aparisi Laporta or another primary/archival source is inspected for the exact Phelipa de Vargas claim.",
+      "en": "The current row’s confidence should be lowered from verified to probable unless Aparisi Laporta or another primary/archival source is consulted for the exact Phelipa de Vargas claim.",
       "es": "La confianza de la fila debe rebajarse de verificada a probable salvo que se inspeccione Aparisi Laporta u otra fuente primaria o archivística para la afirmación concreta sobre Phelipa de Vargas."
     }
   ],
   "open_questions": [
     {
-      "en": "Inspect Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo (Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid, 2001), especially the La Elipa entry, to confirm exactly what evidence he cites for Phelipa/Felipa de Vargas.",
+      "en": "Consult Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo (Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid, 2001), especially the La Elipa entry, to confirm exactly what evidence he cites for Phelipa/Felipa de Vargas.",
       "es": "Consultar Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo (Gerencia Municipal de Urbanismo, Ayuntamiento de Madrid, 2001), especialmente la entrada de La Elipa, para confirmar qué prueba cita exactamente sobre Phelipa/Felipa de Vargas."
     },
     {
-      "en": "If available, inspect the underlying archival files cited by recent Vicálvaro water-history research, especially A.V.S. 42-341-24, 42-341-63 and related documents, for the earliest forms Helipa/Elipa and any naming explanation.",
+      "en": "If available, consult the underlying archival files cited by recent Vicálvaro water-history research, especially A.V.S. 42-341-24, 42-341-63 and related documents, for the earliest forms Helipa/Elipa and any naming explanation.",
       "es": "Si están disponibles, revisar los expedientes archivísticos citados por la investigación reciente sobre las aguas de Vicálvaro, en especial A.V.S. 42-341-24, 42-341-63 y documentos relacionados, para comprobar las formas más antiguas Helipa/Elipa y cualquier explicación del nombre."
     }
   ],

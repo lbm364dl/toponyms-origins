@@ -1,1 +1,1 @@
-La estación de Meco toma su nombre del municipio al que sirve. El topónimo es antiguo y discutido, con explicaciones celtas, romanas y árabes en circulación, pero ninguna fuente consultada demuestra de forma decisiva una etimología.
+La estación de Meco toma su nombre del municipio al que sirve. El topónimo es antiguo y discutido, con explicaciones celtas, romanas y árabes en circulación, pero ninguna fuente disponible demuestra de forma decisiva una etimología.

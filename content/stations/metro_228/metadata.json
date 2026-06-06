@@ -47,14 +47,14 @@
       "title": "Arquitectura y Desarrollo Urbano: Fuenlabrada",
       "url": "https://www.coam.org/media/Default%20Files/fundacion/biblioteca/biblioteca-digital/docs/Arquitectura%20y%20Desarrollo%20Urbano/Fuenlabrada.pdf",
       "type": "book",
-      "relevance_en": "Architectural and urban-history publication noting Loranca Ciudad-Jardin as a major consorcio development and giving the residential capacity at roughly 7,200-7,300 homes; search snippets also reflect Jimenez de Gregorio's Laurus/-anca etymology.",
-      "relevance_es": "Publicación de historia arquitectónica y urbana que presenta Loranca Ciudad-Jardín como una gran actuación consorciada y cifra su capacidad residencial en unas 7.200-7.300 viviendas; los fragmentos indexados recogen también la etimología Laurus/-anca de Jiménez de Gregorio."
+      "relevance_en": "Architectural and urban-history publication noting Loranca Ciudad-Jardin as a major consorcio development and giving the residential capacity at roughly 7,200-7,300 homes; source summaries also include Jimenez de Gregorio's Laurus/-anca etymology.",
+      "relevance_es": "Publicación de historia arquitectónica y urbana que presenta Loranca Ciudad-Jardín como una gran actuación consorciada y cifra su capacidad residencial en unas 7.200-7.300 viviendas; los resúmenes de fuente recogen también la etimología Laurus/-anca de Jiménez de Gregorio."
     }
   ],
   "corrections": [
     {
-      "en": "Replace the weak Arabic luran/tree loranco etymology with a cautious note: the strongest inspected specialist source proposes a Celtic cognomen Laurus plus -anca, but the ultimate origin is not fully certain.",
-      "es": "Sustituir la etimología débil basada en el árabe luran o en el árbol loranco por una nota prudente: la fuente especializada inspeccionada más sólida propone un cognomen céltico Laurus más -anca, pero el origen último no está plenamente cerrado."
+      "en": "Replace the weak Arabic luran/tree loranco etymology with a cautious note: the strongest consulted specialist source proposes a Celtic cognomen Laurus plus -anca, but the ultimate origin is not fully certain.",
+      "es": "Sustituir la etimología débil basada en el árabe luran o en el árbol loranco por una nota prudente: la fuente especializada consultada más sólida propone un cognomen céltico Laurus más -anca, pero el origen último no está plenamente cerrado."
     },
     {
       "en": "Clarify that the original 1990s Loranca Ciudad-Jardin project is documented at roughly 7,000 to 7,300 homes, not 12,000; the 12,000 figure may describe the later neighbourhood more broadly.",
@@ -67,7 +67,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the original municipal or Metro naming file, if available, to confirm the formal act by which the public station name Loranca was assigned.",
+      "en": "Consult the original municipal or Metro naming file, if available, to confirm the formal act by which the public station name Loranca was assigned.",
       "es": "Consultar el expediente municipal o de Metro de denominación, si está disponible, para confirmar el acto formal por el que se asignó el nombre público Loranca a la estación."
     },
     {
@@ -75,8 +75,8 @@
       "es": "Revisar el manuscrito original o una edición crítica de las Relaciones Topográficas para confirmar la redacción exacta y las variantes gráficas de Loranca/Fregacedos."
     },
     {
-      "en": "A specialist Toponomasticon Hispaniae entry for Loranca was not found in the inspected search results; it would be worth checking the corpus directly for any later or unpublished treatment.",
-      "es": "No se encontró una entrada específica de Loranca en Toponomasticon Hispaniae en los resultados inspeccionados; convendría revisar directamente el corpus por si existe un tratamiento posterior o no indexado."
+      "en": "A specialist Toponomasticon Hispaniae entry for Loranca was not found in the available sources; it would be worth checking the corpus directly for any later or unpublished treatment.",
+      "es": "No se encontró una entrada específica de Loranca en Toponomasticon Hispaniae en los registros disponibles; convendría revisar directamente el corpus por si existe un tratamiento posterior o no incluido en los registros disponibles."
     }
   ],
   "missing_bilingual_markdown_fields": [],

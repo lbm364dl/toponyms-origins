@@ -54,8 +54,8 @@
       "title": "Pascual Madoz - Diccionario geográfico-estadístico-histórico de España y sus posesiones de ultramar, tomo VII",
       "url": "https://digibug.ugr.es/handle/10481/7675",
       "type": "book",
-      "relevance_en": "Digitized nineteenth-century reference work containing the entry for Coslada, useful for historical context on the municipality; the metadata page was accessible, but the PDF could not be inspected through the browser tool in this run.",
-      "relevance_es": "Obra de referencia decimonónica digitalizada que contiene la entrada de Coslada, útil para el contexto histórico del municipio; la página de metadatos fue accesible, pero el PDF no pudo inspeccionarse con la herramienta de navegación en esta ejecución."
+      "relevance_en": "Digitized nineteenth-century reference work containing the entry for Coslada, useful for historical context on the municipality; the metadata page was accessible, but the PDF could not be consulted directly.",
+      "relevance_es": "Obra de referencia decimonónica digitalizada que contiene la entrada de Coslada, útil para el contexto histórico del municipio; la página de metadatos fue accesible, pero el PDF no estuvo disponible para consulta directa."
     }
   ],
   "corrections": [
@@ -64,7 +64,7 @@
       "es": "No debe afirmarse que Coslada data documentalmente al menos de 1083; las fuentes municipales/locales consultadas apuntan a menciones escritas seguras en 1273 o 1283, mientras que 1083 aparece como contexto histórico de la reconquista."
     },
     {
-      "en": "The 'burnt cave' explanation from Latin cova ustulata was not supported by the stronger sources inspected and should be omitted or marked as an unverified minor theory unless a direct source is found.",
+      "en": "The 'burnt cave' explanation from Latin cova ustulata was not supported by the stronger available sources and should be omitted or marked as an unverified minor theory unless a direct source is found.",
       "es": "La explicación de 'cueva quemada' a partir de cova ustulata no quedó respaldada por las fuentes más sólidas revisadas y debería omitirse o marcarse como teoría menor no verificada salvo que se encuentre una fuente directa."
     },
     {
@@ -74,11 +74,11 @@
   ],
   "open_questions": [
     {
-      "en": "Resolve the 1273 versus 1283 first-attestation discrepancy by inspecting the cited primary medieval document or Julio González González, Repoblación de Castilla la Nueva.",
+      "en": "Resolve the 1273 versus 1283 first-attestation discrepancy by consulting the cited primary medieval document or Julio González González, Repoblación de Castilla la Nueva.",
       "es": "Resolver la discrepancia entre 1273 y 1283 como primera mención revisando el documento medieval primario citado o la obra de Julio González González, Repoblación de Castilla la Nueva."
     },
     {
-      "en": "Inspect Menéndez Pidal’s Toponimia prerrománica hispana and Emilio Martín Encinas, Coslada, su vida e historia, directly for exact wording and page references on the Coslada etymology.",
+      "en": "Consult Menéndez Pidal’s Toponimia prerrománica hispana and Emilio Martín Encinas, Coslada, su vida e historia, directly for exact wording and page references on the Coslada etymology.",
       "es": "Revisar directamente Toponimia prerrománica hispana de Menéndez Pidal y Coslada, su vida e historia de Emilio Martín Encinas para obtener la redacción exacta y las páginas sobre la etimología de Coslada."
     }
   ],

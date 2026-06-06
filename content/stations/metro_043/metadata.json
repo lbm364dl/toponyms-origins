@@ -47,7 +47,7 @@
       "title": "Calle de Ríos Rosas",
       "url": "https://es.wikipedia.org/wiki/Calle_de_R%C3%ADos_Rosas",
       "type": "reference",
-      "relevance_en": "Useful secondary orientation for the street: it states the street was named in 1880 for Antonio de los Ríos y Rosas and cites Madrid street-name works by Gea, Montero, Peñasco/Cambronero and Répide; the underlying municipal act was not inspected.",
+      "relevance_en": "Useful secondary orientation for the street: it states the street was named in 1880 for Antonio de los Ríos y Rosas and cites Madrid street-name works by Gea, Montero, Peñasco/Cambronero and Répide; the underlying municipal act was not consulted.",
       "relevance_es": "Orientación secundaria útil sobre la calle: indica que fue bautizada en 1880 en honor de Antonio de los Ríos y Rosas y cita obras del callejero madrileño de Gea, Montero, Peñasco/Cambronero y Répide; no se consultó el acuerdo municipal original."
     },
     {
@@ -74,7 +74,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the original Madrid municipal street-naming act or callejero file for the reported 1880 naming of Calle de Ríos Rosas.",
+      "en": "Consult the original Madrid municipal street-naming act or callejero file for the reported 1880 naming of Calle de Ríos Rosas.",
       "es": "Consultar el acuerdo municipal original o expediente de callejero de Madrid relativo a la datación de 1880 atribuida a la calle de Ríos Rosas."
     }
   ],

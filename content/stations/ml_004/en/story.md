@@ -6,4 +6,4 @@ Saura’s artistic path began during a long illness: tuberculosis kept him in be
 
 His Madrid connection is especially strong through El Paso, the group he co-founded in 1957 with artists including Rafael Canogar, Luis Feito and Manuel Millares. The Reina Sofía describes El Paso as one of the first avant-garde movements in post-war Spain, while the Guggenheim Bilbao highlights Saura’s restricted palette and recurring series of crucifixions, women, nudes, crowds and imaginary portraits.
 
-The station itself belongs to the first Madrid light-rail line between Pinar de Chamartín and Las Tablas, opened on 24 May 2007. No earlier station name was found. The etymology is therefore secure at the person level, but the exact City Council resolution that assigned Calle del Pintor Antonio Saura has not yet been inspected.
+The station itself belongs to the first Madrid light-rail line between Pinar de Chamartín and Las Tablas, opened on 24 May 2007. No earlier station name was found. The etymology is therefore secure at the person level, but the exact City Council resolution that assigned Calle del Pintor Antonio Saura has not yet been consulted.

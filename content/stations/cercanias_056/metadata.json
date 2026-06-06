@@ -47,7 +47,7 @@
       "title": "Comunidad de Madrid: Relaciones topográficas de Felipe II. Madrid",
       "url": "https://www.comunidad.madrid/publicacion/ref/3083",
       "type": "book",
-      "relevance_en": "Bibliographic record for the edited Madrid volume of the Relaciones Topográficas, the key primary-source corpus behind the sixteenth-century Leganés testimony; the full text was not inspected online.",
+      "relevance_en": "Bibliographic record for the edited Madrid volume of the Relaciones Topográficas, the key primary-source corpus behind the sixteenth-century Leganés testimony; the full text was not consulted online.",
       "relevance_es": "Registro bibliográfico de la edición madrileña de las Relaciones Topográficas, el corpus documental clave para el testimonio leganense del siglo XVI; el texto completo no se pudo consultar en línea."
     },
     {
@@ -68,18 +68,18 @@
       "es": "No presentar Legamar o Leganar como formas originales probadas; son formas transmitidas por la tradición local de la Edad Moderna."
     },
     {
-      "en": "The claimed first documentation in 1232 was not confirmed in the inspected authoritative sources; Toponomasticon Hispaniae lists documentary attestations from 1476 onward.",
+      "en": "The claimed first documentation in 1232 was not confirmed in the available authoritative sources; Toponomasticon Hispaniae lists documentary attestations from 1476 onward.",
       "es": "La supuesta primera documentación de 1232 no se confirmó en las fuentes autorizadas consultadas; Toponomasticon Hispaniae recoge testimonios documentales desde 1476."
     }
   ],
   "open_questions": [
     {
-      "en": "Inspect the full printed edition of Alfredo Alvar Ezquerra, Relaciones topográficas de Felipe II: Madrid, to verify the exact Leganés wording and whether it reads Legamar, Leganar, or both in the manuscript tradition.",
+      "en": "Consult the full printed edition of Alfredo Alvar Ezquerra, Relaciones topográficas de Felipe II: Madrid, to verify the exact Leganés wording and whether it reads Legamar, Leganar, or both in the manuscript tradition.",
       "es": "Consultar la edición impresa completa de Alfredo Alvar Ezquerra, Relaciones topográficas de Felipe II: Madrid, para verificar la redacción exacta de Leganés y si la tradición manuscrita lee Legamar, Leganar o ambas formas."
     },
     {
-      "en": "Check archival material for the alleged 1232 attestation, because it was not corroborated by the sources inspected.",
-      "es": "Comprobar documentación archivística sobre la supuesta mención de 1232, porque no quedó corroborada por las fuentes consultadas."
+      "en": "Check archival material for the alleged 1232 attestation, because it was not corroborated by the available sources.",
+      "es": "Comprobar documentación archivística sobre la supuesta mención de 1232, porque no quedó corroborada por las fuentes disponibles."
     }
   ],
   "missing_bilingual_markdown_fields": [],

@@ -47,8 +47,8 @@
       "title": "REBIUN catalogue - José Ramón García Martínez, El combate del 2 de mayo de 1866 en el Callao",
       "url": "https://rebiun.baratz.es/OpacDiscovery/public/catalog/detail/pdf?detailId=b2FpOmNlbGVicmF0aW9uOmVzLmJhcmF0ei5yZW4vMjU5Mjc0Ng",
       "type": "book",
-      "relevance_en": "Bibliographic record for a Ministry of Defence monograph on the battle, useful as a specialist source for human follow-up. The catalogue record was inspected, not the full monograph.",
-      "relevance_es": "Registro bibliográfico de una monografía del Ministerio de Defensa sobre el combate, útil como fuente especializada para revisión humana posterior. Se consultó el registro de catálogo, no la monografía completa."
+      "relevance_en": "Bibliographic record for a Ministry of Defence monograph on the battle, useful as a specialist source for human follow-up. The catalogue record was consulted, not the full monograph.",
+      "relevance_es": "Registro bibliográfico de una monografía del Ministerio de Defensa sobre el combate, útil como fuente especializada para consulta posterior. Se consultó el registro de catálogo, no la monografía completa."
     }
   ],
   "corrections": [
@@ -71,7 +71,7 @@
   ],
   "open_questions": [
     {
-      "en": "A full inspection of the 13 June 1866 Madrid municipal minutes would be useful to quote the original wording of the naming agreement.",
+      "en": "A full review of the 13 June 1866 Madrid municipal minutes would be useful to quote the original wording of the naming agreement.",
       "es": "Sería útil consultar íntegramente el acta municipal madrileña del 13 de junio de 1866 para citar la redacción original del acuerdo de denominación."
     },
     {

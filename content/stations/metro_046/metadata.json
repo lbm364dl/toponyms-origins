@@ -57,13 +57,13 @@
       "es": "Cambiar etymology_type de person a place en el registro de la estación; Soynard debe conservarse como origen último del nombre del barrio."
     },
     {
-      "en": "Use the spelling Próspero Soynard y Polen, without an accent on Polen, as used in the consulted sources.",
-      "es": "Usar la grafía Próspero Soynard y Polen, sin tilde en Polen, como aparece en las fuentes consultadas."
+      "en": "Use the spelling Próspero Soynard y Polen, without an accent on Polen, as used in the available sources.",
+      "es": "Usar la grafía Próspero Soynard y Polen, sin tilde en Polen, como aparece en las fuentes disponibles."
     }
   ],
   "open_questions": [
     {
-      "en": "A full archival verification would require inspecting the original 14 December 1862 notarial record or the cadastral documentation cited by local historians.",
+      "en": "A full archival verification would require consulting the original 14 December 1862 notarial record or the cadastral documentation cited by local historians.",
       "es": "Una verificación archivística completa requeriría consultar la escritura notarial original del 14 de diciembre de 1862 o la documentación catastral citada por los historiadores locales."
     },
     {

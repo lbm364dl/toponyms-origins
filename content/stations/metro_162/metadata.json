@@ -54,7 +54,7 @@
       "title": "Universidad Autónoma de Madrid: Breve diccionario de topónimos españoles",
       "url": "https://uam.scimarina.org/es/ipublic/item/6321644",
       "type": "academic",
-      "relevance_en": "Institutional bibliographic record confirming the 1997 toponymic dictionary by Emilio Nieto Ballester and Araceli Striano; useful for identifying the cited authority, though not for inspecting the Manoteras entry.",
+      "relevance_en": "Institutional bibliographic record confirming the 1997 toponymic dictionary by Emilio Nieto Ballester and Araceli Striano; useful for identifying the cited authority, though not for consulting the Manoteras entry.",
       "relevance_es": "Registro bibliográfico institucional que confirma el diccionario toponímico de 1997 de Emilio Nieto Ballester y Araceli Striano; útil para identificar la autoridad citada, aunque no permite consultar la entrada de Manoteras."
     },
     {
@@ -67,7 +67,7 @@
   ],
   "corrections": [
     {
-      "en": "Keep the etymology type as place, but phrase the Latin derivation as an attributed philological explanation rather than as directly verified from the dictionary unless the printed entry is inspected.",
+      "en": "Keep the etymology type as place, but phrase the Latin derivation as an attributed philological explanation rather than as directly verified from the dictionary unless the printed entry is consulted.",
       "es": "Mantener el tipo etimológico como lugar, pero formular la derivación latina como explicación filológica atribuida, no como comprobada directamente en el diccionario, salvo que se consulte la entrada impresa."
     },
     {
@@ -81,7 +81,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect Emilio Nieto Ballester, Breve diccionario de topónimos españoles (Alianza, 1997), specifically the Manoteras or related entry, to verify the exact wording and forms of the proposed derivation.",
+      "en": "Consult Emilio Nieto Ballester, Breve diccionario de topónimos españoles (Alianza, 1997), specifically the Manoteras or related entry, to verify the exact wording and forms of the proposed derivation.",
       "es": "Consultar Emilio Nieto Ballester, Breve diccionario de topónimos españoles (Alianza, 1997), en concreto la entrada de Manoteras o una relacionada, para verificar la redacción exacta y las formas de la derivación propuesta."
     },
     {

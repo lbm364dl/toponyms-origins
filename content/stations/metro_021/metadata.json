@@ -54,8 +54,8 @@
       "title": "Real Academia de la Historia - Historia Hispánica: Manuel Alonso Martínez",
       "url": "https://historia-hispanica.rah.es/biografias/2553-manuel-alonso-martinez",
       "type": "reference",
-      "relevance_en": "Authoritative biographical reference for Manuel Alonso Martínez; the page was located, though the browser could not extract its body text.",
-      "relevance_es": "Referencia biográfica autorizada sobre Manuel Alonso Martínez; la página fue localizada, aunque el navegador no pudo extraer el cuerpo del texto."
+      "relevance_en": "Authoritative biographical reference for Manuel Alonso Martínez; the page was located, though its body text could not be extracted.",
+      "relevance_es": "Referencia biográfica autorizada sobre Manuel Alonso Martínez; la página fue localizada, aunque el cuerpo del texto no estuvo disponible."
     }
   ],
   "corrections": [
@@ -69,7 +69,7 @@
     },
     {
       "en": "The Law of Bases source consulted lists 27 bases, not 26.",
-      "es": "La fuente consultada de la Ley de Bases enumera 27 bases, no 26."
+      "es": "La fuente disponible de la Ley de Bases enumera 27 bases, no 26."
     }
   ],
   "open_questions": [

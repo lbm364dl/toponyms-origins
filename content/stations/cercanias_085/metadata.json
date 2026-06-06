@@ -99,8 +99,8 @@
       "es": "Clasificar el nombre principalmente como topónimo de lugar, no solo como descriptivo: la estación toma el nombre del ámbito urbano de Valdebebas, en último término del arroyo y de antiguos topónimos rurales."
     },
     {
-      "en": "Do not state the meaning of 'bebas' as established. The inspected sources support Val-/Valde- as 'valley', but leave 'beba/bebas' uncertain.",
-      "es": "No presentar el significado de 'bebas' como establecido. Las fuentes consultadas apoyan Val-/Valde- como 'valle', pero dejan 'beba/bebas' en situación incierta."
+      "en": "Do not state the meaning of 'bebas' as established. the available sources support Val-/Valde- as 'valley', but leave 'beba/bebas' uncertain.",
+      "es": "No presentar el significado de 'bebas' como establecido. Las fuentes disponibles apoyan Val-/Valde- como 'valle', pero dejan 'beba/bebas' en situación incierta."
     },
     {
       "en": "Update transport metadata if the dataset tracks current services: CRTM and Renfe list Valdebebas with C-1 and C-10, although the input row only gives C-1.",
@@ -113,7 +113,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect a specialist Madrid toponymy work, especially Jaime Oliver Asín, 'Historia del nombre Madrid' or related studies cited by Toponomasticon Hispaniae, to see whether Valdebeba is explained more fully.",
+      "en": "Consult a specialist Madrid toponymy work, especially Jaime Oliver Asín, 'Historia del nombre Madrid' or related studies cited by Toponomasticon Hispaniae, to see whether Valdebeba is explained more fully.",
       "es": "Consultar una obra especializada de toponimia madrileña, especialmente Jaime Oliver Asín, 'Historia del nombre Madrid' o estudios relacionados citados por Toponomasticon Hispaniae, para comprobar si Valdebeba aparece explicado con más detalle."
     },
     {

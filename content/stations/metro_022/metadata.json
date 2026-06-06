@@ -20,7 +20,7 @@
       "url": "https://historia-hispanica.rah.es/biografias/26070-diego-antonio-de-leon-y-navarrete",
       "type": "reference",
       "relevance_en": "Authoritative biographical authority for León's identity, family background, military career and historical classification; page was found but only partially inspectable through the crawl.",
-      "relevance_es": "Autoridad biográfica para la identidad de León, su origen familiar, carrera militar y encuadre histórico; la página fue localizada, aunque solo pudo inspeccionarse parcialmente mediante el rastreo."
+      "relevance_es": "Autoridad biográfica para la identidad de León, su origen familiar, carrera militar y encuadre histórico; la página fue localizada, aunque solo pudo consultarse parcialmente mediante el consulta."
     },
     {
       "title": "Metro de Madrid Museos - Huellas del pasado: Diego de León",
@@ -72,7 +72,7 @@
       "es": "Sustituir 'cabalgó hasta el pelotón' por una formulación más prudente: una fuente detallada dice que fue llevado en un carruaje descubierto hacia la zona de la Puerta de Toledo."
     },
     {
-      "en": "Treat the cigarettes detail as unsupported by the stronger inspected sources; the BRAC article instead mentions distributing coins to the soldiers.",
+      "en": "Treat the cigarettes detail as unsupported by the stronger available sources; the BRAC article instead mentions distributing coins to the soldiers.",
       "es": "Tratar el detalle de los cigarrillos como no respaldado por las fuentes más sólidas consultadas; el artículo del BRAC habla de repartir monedas entre los soldados."
     },
     {
@@ -82,12 +82,12 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the original Madrid municipal minutes of 21 July 1880 to confirm the exact wording of the street-naming agreement.",
+      "en": "Consult the original Madrid municipal minutes of 21 July 1880 to confirm the exact wording of the street-naming agreement.",
       "es": "Consultar el acta municipal original de Madrid del 21 de julio de 1880 para confirmar la redacción exacta del acuerdo de rotulación de la calle."
     },
     {
       "en": "Compare the Real Academia de la Historia DB-e entry directly if full page access is available, because the current crawl exposed the RAH identity link but not the complete biography text.",
-      "es": "Contrastar directamente la entrada del DB-e de la Real Academia de la Historia si se dispone de acceso completo, porque el rastreo actual mostró el vínculo de identidad de la RAH pero no el texto biográfico completo."
+      "es": "Contrastar directamente la entrada del DB-e de la Real Academia de la Historia si se dispone de acceso completo, porque el consulta disponible mostró el vínculo de identidad de la RAH pero no el texto biográfico completo."
     }
   ],
   "missing_bilingual_markdown_fields": [],

@@ -6,4 +6,4 @@ The Madrid setting is also part of the story. The Plaza de Cuzco area belongs to
 
 Metro arrived later. Cuzco opened on 10 June 1982 in the Fuencarral-Nuevos Ministerios section of the former Line 8, shortly before the 1982 FIFA World Cup in Spain. In 1998 that northern Metro route was absorbed into today's Line 10, which is why Cuzco now sits between Plaza de Castilla and Santiago Bernabéu on Line 10.
 
-The main etymology is secure: station, square, and Peruvian city form a clear chain. The more delicate point is the exact date when Madrid assigned the square's name; 21 October 1953 is repeated in secondary sources, but the original municipal act should be inspected before treating that date as fully archival.
+The main etymology is secure: station, square, and Peruvian city form a clear chain. The more delicate point is the exact date when Madrid assigned the square's name; 21 October 1953 is repeated in secondary sources, but the original municipal act should be consulted before treating that date as fully archival.

@@ -85,11 +85,11 @@
   ],
   "open_questions": [
     {
-      "en": "A full dataset review should inspect the exact page in Lapesa's Historia de la lengua española and the original medieval documents cited for Arauz, Aranz, Aranzuel and Aranzuech.",
+      "en": "A full dataset review should consult the exact page in Lapesa's Historia de la lengua española and the original medieval documents cited for Arauz, Aranz, Aranzuel and Aranzuech.",
       "es": "Una revisión completa del conjunto de datos debería consultar la página exacta de la Historia de la lengua española de Lapesa y los documentos medievales originales citados para Arauz, Aranz, Aranzuel y Aranzuech."
     },
     {
-      "en": "The CVC Rinconete page cited in the input could not be opened cleanly during this run because of a decoding error; it should be rechecked manually or through another archive copy.",
+      "en": "The CVC Rinconete page cited in the input could not be opened cleanly because of a decoding error; it should be rechecked or consulted through another archive copy.",
       "es": "La página de Rinconete del CVC citada en la entrada no pudo abrirse correctamente durante esta consulta por un error de decodificación; debería revisarse manualmente o mediante otra copia archivada."
     },
     {

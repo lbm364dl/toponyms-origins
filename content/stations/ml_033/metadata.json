@@ -40,8 +40,8 @@
       "title": "Historia de Boadilla del Monte - José Montero Padilla",
       "url": "https://ayuntamientoboadilladelmonte.org/sites/default/files/historia_de_boadilla_del_monte-02_0.pdf",
       "type": "book",
-      "relevance_en": "Municipal history book, inspected through OCR because the PDF is scanned; pages around 19-20 discuss the origin of Boadilla, cite 1208 Bovadella/Bobadilla documents, mention Jiménez de Gregorio’s boa theory, the possible Arabic theory, and reject a derivation from Beatriz de Bobadilla.",
-      "relevance_es": "Libro de historia municipal, inspeccionado mediante OCR porque el PDF está escaneado; las páginas en torno a la 19-20 tratan el origen de Boadilla, citan documentos de 1208 con Bovadella/Bobadilla, mencionan la teoría de boa de Jiménez de Gregorio, la posible teoría árabe y descartan la derivación desde Beatriz de Bobadilla."
+      "relevance_en": "Municipal history book, consulted through OCR because the PDF is scanned; pages around 19-20 discuss the origin of Boadilla, cite 1208 Bovadella/Bobadilla documents, mention Jiménez de Gregorio’s boa theory, the possible Arabic theory, and reject a derivation from Beatriz de Bobadilla.",
+      "relevance_es": "Libro de historia municipal, consultado mediante OCR porque el PDF está escaneado; las páginas en torno a la 19-20 tratan el origen de Boadilla, citan documentos de 1208 con Bovadella/Bobadilla, mencionan la teoría de boa de Jiménez de Gregorio, la posible teoría árabe y descartan la derivación desde Beatriz de Bobadilla."
     },
     {
       "title": "Restauración del Palacio del Infante Don Luis | Comunidad de Madrid",
@@ -67,8 +67,8 @@
   ],
   "open_questions": [
     {
-      "en": "A human reviewer may want to inspect the full cited 1208 documents, because the municipal history book reports them but the scanned PDF requires OCR and does not provide a direct archival URL in the extracted passage.",
-      "es": "Un revisor humano puede querer consultar íntegramente los documentos citados de 1208, porque la historia municipal los menciona pero el PDF escaneado requiere OCR y el pasaje extraído no aporta una URL archivística directa."
+      "en": "Consult the full cited 1208 documents, because the municipal history book reports them but the scanned PDF requires OCR and does not provide a direct archival URL in the extracted passage.",
+      "es": "Conviene consultar íntegramente los documentos citados de 1208, porque la historia municipal los menciona pero el PDF escaneado requiere OCR y el pasaje extraído no aporta una URL archivística directa."
     },
     {
       "en": "No separate naming resolution for the individual station name was found; the date 2007-07-27 is the service opening date and the most likely naming date.",

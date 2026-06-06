@@ -60,7 +60,7 @@
   ],
   "corrections": [
     {
-      "en": "The dataset opening_year value of 1936 does not match the inspected transport sources: Metro Pirámides opened with Line 5 in 1968, while the Cercanías station entered service in 1996.",
+      "en": "The dataset opening_year value of 1936 does not match the consulted transport sources: Metro Pirámides opened with Line 5 in 1968, while the Cercanías station entered service in 1996.",
       "es": "El valor opening_year de 1936 en el conjunto de datos no coincide con las fuentes de transporte consultadas: Metro Pirámides abrió con la línea 5 en 1968 y la estación de Cercanías entró en servicio en 1996."
     },
     {
@@ -68,13 +68,13 @@
       "es": "Conviene describir el nombre como alusión a obeliscos con agujas piramidales, no solo como un 'error' de dos siglos; la propia ficha oficial del monumento usa la denominación compuesta Obeliscos-Pirámides."
     },
     {
-      "en": "The phrase 'before that it was known as Glorieta del Puente de Toledo' should be made more precise: the consulted sources say that this was the official street-directory name from 1903, not necessarily the only earlier informal name.",
-      "es": "La frase 'antes se la conocía como Glorieta del Puente de Toledo' debe precisarse: las fuentes consultadas indican que ese fue el nombre oficial en el callejero desde 1903, no necesariamente la única denominación informal anterior."
+      "en": "The phrase 'before that it was known as Glorieta del Puente de Toledo' should be made more precise: the available sources say that this was the official street-directory name from 1903, not necessarily the only earlier informal name.",
+      "es": "La frase 'antes se la conocía como Glorieta del Puente de Toledo' debe precisarse: las fuentes disponibles indican que ese fue el nombre oficial en el callejero desde 1903, no necesariamente la única denominación informal anterior."
     }
   ],
   "open_questions": [
     {
-      "en": "Inspect the original Ayuntamiento de Madrid municipal agreement of 28 December 1944, or a historical street-directory record, to confirm the exact legal naming date without relying on secondary repetition.",
+      "en": "Consult the original Ayuntamiento de Madrid municipal agreement of 28 December 1944, or a historical street-directory record, to confirm the exact legal naming date without relying on secondary repetition.",
       "es": "Conviene revisar el acuerdo municipal original del Ayuntamiento de Madrid del 28 de diciembre de 1944, o un registro histórico del callejero, para confirmar la fecha legal exacta sin depender de repeticiones secundarias."
     },
     {

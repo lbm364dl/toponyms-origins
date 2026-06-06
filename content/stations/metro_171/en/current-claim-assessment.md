@@ -1,1 +1,1 @@
-The broad claim that the station is named for the Peñagrande neighbourhood/toponym and that the words mean a large natural rock is well supported. The more picturesque claim about a prominent rock serving for centuries as a landmark for shepherds was not confirmed in the sources inspected.
+The broad claim that the station is named for the Peñagrande neighbourhood/toponym and that the words mean a large natural rock is well supported. The more picturesque claim about a prominent rock serving for centuries as a landmark for shepherds was not confirmed in the available sources.

@@ -54,13 +54,13 @@
       "title": "Ayuntamiento de Torrelodones: Estación de Cercanías",
       "url": "https://torrelodones.es/torrelodones/patrimonio/patrimonio-arquitectonico-contemporaneo/estacion-de-cercanias/",
       "type": "official",
-      "relevance_en": "Municipal heritage page, visible in search result text, placing the station in the Colonia de la Estación about 3 km from the historic centre and noting the early-20th-century station building and relocation associated with double-tracking.",
-      "relevance_es": "Página patrimonial municipal, visible en el texto del resultado de búsqueda, que sitúa la estación en la Colonia de la Estación a unos 3 km del casco histórico y menciona el edificio de comienzos del siglo XX y el cambio de emplazamiento ligado a la doble vía."
+      "relevance_en": "Municipal heritage page placing the station in the Colonia de la Estación about 3 km from the historic centre and noting the early-20th-century station building and relocation associated with double-tracking.",
+      "relevance_es": "Página patrimonial municipal, que sitúa la estación en la Colonia de la Estación a unos 3 km del casco histórico y menciona el edificio de comienzos del siglo XX y el cambio de emplazamiento ligado a la doble vía."
     }
   ],
   "corrections": [
     {
-      "en": "Treat 1287 as a municipal claim unless a direct document is added; the inspected Toponomasticon entry cites 'La Torre de Lodones' ca. 1340.",
+      "en": "Treat 1287 as a municipal claim unless a direct document is added; the consulted Toponomasticon entry cites 'La Torre de Lodones' ca. 1340.",
       "es": "Conviene tratar 1287 como una afirmación municipal mientras no se añada el documento directo; la ficha consultada del Toponomasticon cita “La Torre de Lodones” hacia 1340."
     },
     {
@@ -74,11 +74,11 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the document behind the municipal date 1287 to verify the exact spelling and context of the earliest reference.",
+      "en": "Consult the document behind the municipal date 1287 to verify the exact spelling and context of the earliest reference.",
       "es": "Consultar el documento que sustenta la fecha municipal de 1287 para verificar la grafía exacta y el contexto de la referencia más antigua."
     },
     {
-      "en": "If a station-opening history field is needed, inspect railway archival sources for the exact status and naming of the original halt or station in 1864 and later relocations.",
+      "en": "If a station-opening history field is needed, consult railway archival sources for the exact status and naming of the original halt or station in 1864 and later relocations.",
       "es": "Si se necesita un campo histórico sobre la apertura ferroviaria, conviene revisar fuentes archivísticas ferroviarias para precisar el estatus y el nombre del apeadero o estación original en 1864 y sus traslados posteriores."
     }
   ],

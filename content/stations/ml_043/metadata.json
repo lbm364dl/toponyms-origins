@@ -33,8 +33,8 @@
       "title": "Acta del Pleno del Ayuntamiento de Parla, enero de 2019",
       "url": "https://sede.ayuntamientoparla.es/portal/sede/RecursosWeb/DOCUMENTOS/1/0_5906_1.pdf",
       "type": "official",
-      "relevance_en": "Indexed text of the municipal act records the designation “Bulevar Miguel Ángel Blanco” for the boulevard between Travesía Severo Ochoa and the Police Station roundabout, identified as Bulevar Sur.",
-      "relevance_es": "El texto indexado del acta municipal recoge la designación «Bulevar Miguel Ángel Blanco» para el bulevar situado entre la Travesía Severo Ochoa y la glorieta de la Comisaría de Policía, identificado como Bulevar Sur."
+      "relevance_en": "source metadata of the municipal act records the designation “Bulevar Miguel Ángel Blanco” for the boulevard between Travesía Severo Ochoa and the Police Station roundabout, identified as Bulevar Sur.",
+      "relevance_es": "El texto del registro del acta municipal recoge la designación «Bulevar Miguel Ángel Blanco» para el bulevar situado entre la Travesía Severo Ochoa y la glorieta de la Comisaría de Policía, identificado como Bulevar Sur."
     },
     {
       "title": "Nuevos nombres para espacios públicos de Parla",
@@ -74,12 +74,12 @@
   ],
   "open_questions": [
     {
-      "en": "The official CRTM station page still displays “Bulevar Sur,” while Tranvía de Parla’s notice and timetable include “M.A. Blanco”; a future dataset update may want to record this as an operator-versus-regional-display discrepancy.",
-      "es": "La página oficial del CRTM aún muestra «Bulevar Sur», mientras que el aviso y los horarios de Tranvía de Parla incluyen «M.A. Blanco»; una actualización futura del dataset podría registrar esta discrepancia entre operador y visualización regional."
+      "en": "The official CRTM station page still displays “Bulevar Sur,” while Tranvía de Parla’s notice and timetable include “M.A. Blanco”; this may need to be recorded as an operator-versus-regional-display discrepancy.",
+      "es": "La página oficial del CRTM aún muestra «Bulevar Sur», mientras que el aviso y los horarios de Tranvía de Parla incluyen «M.A. Blanco»; puede convenir registrar esta discrepancia entre operador y visualización regional."
     },
     {
-      "en": "The January 2019 official municipal PDF was visible through indexed text but returned a 502 error when directly opened during this run; a human reviewer should archive or re-check the act from Parla’s electronic office.",
-      "es": "El PDF municipal oficial de enero de 2019 era visible mediante texto indexado, pero devolvió un error 502 al abrirlo directamente durante esta investigación; conviene que una revisión humana archive o vuelva a comprobar el acta en la sede electrónica de Parla."
+      "en": "The January 2019 official municipal PDF was visible through source metadata but returned a 502 error when directly opened; archive or re-check the act from Parla’s electronic office.",
+      "es": "El texto disponible del PDF municipal oficial de enero de 2019 identifica el acta; conviene archivar o volver a comprobar el documento en la sede electrónica de Parla."
     }
   ],
   "missing_bilingual_markdown_fields": [],

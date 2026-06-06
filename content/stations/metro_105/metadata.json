@@ -41,7 +41,7 @@
       "url": "https://dbe.rah.es/biografias/10423/alonso-cano",
       "type": "reference",
       "relevance_en": "Authoritative biographical entry for Alonso Cano in the Diccionario Biográfico Español; useful for human review and final bibliographic control.",
-      "relevance_es": "Entrada biográfica autorizada de Alonso Cano en el Diccionario Biográfico Español; útil para revisión humana y control bibliográfico final."
+      "relevance_es": "Entrada biográfica autorizada de Alonso Cano en el Diccionario Biográfico Español; útil para control bibliográfico final."
     },
     {
       "title": "Universidad de Granada, Facultad de Bellas Artes - Presentación",
@@ -95,12 +95,12 @@
   ],
   "open_questions": [
     {
-      "en": "The formal municipal naming date for Calle de Alonso Cano was not located in the online sources inspected; a historical Madrid street-naming register or municipal archive entry would be useful.",
+      "en": "The formal municipal naming date for Calle de Alonso Cano was not located in the online available sources; a historical Madrid street-naming register or municipal archive entry would be useful.",
       "es": "No se localizó en las fuentes en línea consultadas la fecha municipal formal de denominación de la calle de Alonso Cano; sería útil revisar un registro histórico del callejero de Madrid o un expediente municipal."
     },
     {
-      "en": "A human reviewer may want to inspect the Real Academia de la Historia DB-e entry directly for exact phrasing and bibliography, because the page was reachable but not text-extractable in the browsing tool.",
-      "es": "Un revisor humano podría consultar directamente la entrada del DB-e de la Real Academia de la Historia para comprobar la formulación exacta y la bibliografía, porque la página era accesible pero la herramienta de navegación no extrajo su texto."
+      "en": "Consult the Real Academia de la Historia DB-e entry directly for exact phrasing and bibliography, because the page was reachable but not available as full text.",
+      "es": "Conviene consultar directamente la entrada del DB-e de la Real Academia de la Historia para comprobar la formulación exacta y la bibliografía, porque la página era accesible pero no se extrajo su texto."
     }
   ],
   "missing_bilingual_markdown_fields": [],

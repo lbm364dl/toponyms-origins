@@ -1,6 +1,6 @@
 Cocheras has one of the most literal names on Madrid's light-rail map. Metro Ligero Oeste describes it as an ML3 stop on Calle Edgar Neville and the closest station to the company's depot and offices. In other words, the station is named after the working railway facility beside it.
 
-In Spanish, una cochera is a garage, depot, or place for keeping vehicles. In railway and tramway use, cocheras commonly means the buildings and tracks where rolling stock is parked, cleaned, inspected, and repaired. Metro Ligero Oeste's own description of its facilities presents the depot as both a resting place for vehicles after service and a maintenance centre with equipment for caring for the fleet.
+In Spanish, una cochera is a garage, depot, or place for keeping vehicles. In railway and tramway use, cocheras commonly means the buildings and tracks where rolling stock is parked, cleaned, consulted, and repaired. Metro Ligero Oeste's own description of its facilities presents the depot as both a resting place for vehicles after service and a maintenance centre with equipment for caring for the fleet.
 
 The stop belongs to ML3, the light-rail line from Colonia Jardín to Puerta de Boadilla. Metro Ligero Oeste states that it has operated the ML2 and ML3 concession since July 2007, and official and operator material gives 27 July 2007 as the inauguration date for MLO. The wider Madrid light-rail system had begun returning earlier that year, after the old tramway network had disappeared in 1972.
 

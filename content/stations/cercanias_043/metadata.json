@@ -81,12 +81,12 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect a specialist toponymy work or municipal historical monograph, such as a documented Historia de Meco, to see whether any of miccon, Miaccum or maksusk has a primary philological basis.",
+      "en": "Consult a specialist toponymy work or municipal historical monograph, such as a documented Historia de Meco, to see whether any of miccon, Miaccum or maksusk has a primary philological basis.",
       "es": "Conviene revisar una obra especializada de toponimia o una monografía histórica municipal, como una Historia de Meco documentada, para comprobar si miccon, Miaccum o maksusk tienen base filológica primaria."
     },
     {
-      "en": "Check whether the station had a formal railway name at opening in the nineteenth century or any later Renfe/Adif renaming record; no former station name was found in the inspected sources.",
-      "es": "Conviene comprobar si la estación tuvo una denominación ferroviaria formal al abrirse en el siglo XIX o algún cambio posterior registrado por Renfe/Adif; no se encontró ningún nombre anterior en las fuentes consultadas."
+      "en": "Check whether the station had a formal railway name at opening in the nineteenth century or any later Renfe/Adif renaming record; no former station name was found in the available sources.",
+      "es": "Conviene comprobar si la estación tuvo una denominación ferroviaria formal al abrirse en el siglo XIX o algún cambio posterior registrado por Renfe/Adif; no se encontró ningún nombre anterior en las fuentes disponibles."
     }
   ],
   "missing_bilingual_markdown_fields": [],

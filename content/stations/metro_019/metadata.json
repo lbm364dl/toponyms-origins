@@ -54,8 +54,8 @@
       "title": "Estación de Eugenia de Montijo en la Línea 5 - Comunidad de Madrid",
       "url": "https://www.comunidad.madrid/node/30041",
       "type": "official",
-      "relevance_en": "Regional project page, visible in search result, describing the station works, its location between Aluche and Carabanchel, and service entry in October 1999.",
-      "relevance_es": "Página regional del proyecto, visible en el resultado de búsqueda, que describe las obras de la estación, su ubicación entre Aluche y Carabanchel y su puesta en servicio en octubre de 1999."
+      "relevance_en": "Regional project page describing the station works, its location between Aluche and Carabanchel, and service entry in October 1999.",
+      "relevance_es": "Página regional del proyecto, que describe las obras de la estación, su ubicación entre Aluche y Carabanchel y su puesta en servicio en octubre de 1999."
     },
     {
       "title": "El mosaico de la villa tardoantigua de Carabanchel - Museo de San Isidro",
@@ -88,7 +88,7 @@
   ],
   "open_questions": [
     {
-      "en": "A definitive station-naming resolution or Metro de Madrid internal naming file was not found online; it would be useful to inspect Metro or regional project records for the formal naming act.",
+      "en": "A definitive station-naming resolution or Metro de Madrid internal naming file was not found online; it would be useful to consult Metro or regional project records for the formal naming act.",
       "es": "No se encontró en línea una resolución definitiva de denominación de la estación ni un expediente interno de Metro de Madrid; sería útil revisar archivos de Metro o de la Comunidad de Madrid para localizar el acto formal de nombramiento."
     },
     {

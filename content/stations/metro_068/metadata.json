@@ -54,8 +54,8 @@
       "title": "Cartas de Miguel López de Legazpi sobre su llegada a las islas Filipinas - PARES",
       "url": "https://pares.mcu.es/ParesBusquedas20/catalogo/description/121761",
       "type": "archive",
-      "relevance_en": "Archival catalogue entry for Legazpi's 1565 letters about his arrival in the Philippine Islands; useful primary-source context for the expedition, though the page returned a rate-limit error during inspection.",
-      "relevance_es": "Entrada archivística de cartas de Legazpi de 1565 sobre su llegada a las islas Filipinas; aporta contexto de fuente primaria para la expedición, aunque la página devolvió un límite de acceso durante la consulta."
+      "relevance_en": "Archival catalogue entry for Legazpi's 1565 letters about his arrival in the Philippine Islands; useful primary-source context for the expedition, though the page had an intermittent access limit.",
+      "relevance_es": "Entrada archivística de cartas de Legazpi de 1565 sobre su llegada a las islas Filipinas; aporta contexto de fuente primaria para la expedición, aunque la página tuvo un límite temporal de acceso."
     }
   ],
   "corrections": [
@@ -78,7 +78,7 @@
   ],
   "open_questions": [
     {
-      "en": "Inspect the original Madrid municipal council record from July 1926 to reconcile the secondary 14 July naming date with the official street-database existence date of 16 July 1926.",
+      "en": "Consult the original Madrid municipal council record from July 1926 to reconcile the secondary 14 July naming date with the official street-database existence date of 16 July 1926.",
       "es": "Consultar el acta municipal original de julio de 1926 para conciliar la fecha secundaria de denominación del 14 de julio con la fecha oficial de existencia del callejero, 16 de julio de 1926."
     },
     {

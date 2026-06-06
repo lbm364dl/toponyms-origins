@@ -2,7 +2,7 @@ La estación de Pirámides toma su nombre de la glorieta de las Pirámides, situ
 
 El catálogo municipal de patrimonio identifica los monumentos como obra del arquitecto Francisco Javier de Mariategui y los fecha en 1831. Fueron concebidos como hitos de estilo neoclásico tardío dentro del recorrido monumental que unía el Puente de Toledo con la Puerta de Toledo, uno de los accesos meridionales más formales de Madrid en los últimos años del reinado de Fernando VII.
 
-El topónimo anterior estaba ligado al puente. Las fuentes consultadas indican que la glorieta quedó incorporada al callejero oficial en 1903 como Glorieta del Puente de Toledo y que adoptó la denominación actual, Glorieta de las Pirámides, por acuerdo municipal del 28 de diciembre de 1944. Por tanto, los monumentos son mucho más antiguos que el nombre oficial que acabó fijando “Pirámides” para la zona.
+El topónimo anterior estaba ligado al puente. Las fuentes disponibles indican que la glorieta quedó incorporada al callejero oficial en 1903 como Glorieta del Puente de Toledo y que adoptó la denominación actual, Glorieta de las Pirámides, por acuerdo municipal del 28 de diciembre de 1944. Por tanto, los monumentos son mucho más antiguos que el nombre oficial que acabó fijando “Pirámides” para la zona.
 
 Los obeliscos no siempre han estado tal como se ven hoy. El catálogo municipal señala que la plaza sufrió varias transformaciones, que los obeliscos fueron trasladados desde su primer emplazamiento y que se perdieron otros elementos del conjunto, como esculturas de reyes, columnas dóricas y fuentes laterales. Su aspecto actual procede sobre todo de la remodelación de 1995-1996, cuando se restauraron los obeliscos y se colocaron en una isleta central ajardinada con una fuente.
 
