@@ -2,7 +2,7 @@ La Gavia station is part of the Line 1 extension through the Ensanche de Valleca
 
 Behind that avenue is the Arroyo de La Gavia. The archaeological catalogue published for the Cerro de La Gavia explains that several southeastern Madrid place names called “La Gavia” take their name from this small stream, a short tributary on the left bank of the Manzanares. The stream forms a small valley running northeast to southwest, and the highest rise near its meeting with the Manzanares became known as the Cerro de La Gavia.
 
-The word itself is descriptive. The RAE records gavia from Latin cavea, with the sense of a ditch opened in the earth for drainage or to mark property boundaries. That meaning fits a minor watercourse and a cut or hollow in the landscape, although the evidence found here supports the general lexical origin more clearly than a medieval or early-modern naming document for this exact arroyo.
+The word itself is descriptive. The RAE records gavia from Latin cavea, with the sense of a ditch opened in the earth for drainage or to mark property boundaries. That meaning fits a minor watercourse and a cut or hollow in the landscape, although the available evidence supports the general lexical origin more clearly than a medieval or early-modern naming document for this exact arroyo.
 
 La Gavia is also one of the names that connects the new Ensanche to a much older Vallecas. Archaeological work in the arroyo valley identified Paleolithic material linked to the availability of flint and to repeated use of the lower Manzanares environment. On the Cerro de La Gavia, excavations documented a Second Iron Age settlement, with occupation from the 4th century BC into the early Roman period, built on gypsum escarpments above the river landscape.
 

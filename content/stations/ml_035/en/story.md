@@ -6,4 +6,4 @@ The chronology matters. The regional project description for the Colonia Jardín
 
 The name is also a small clue to Boadilla's recent urban geography. Older stops on this part of ML3 refer to the town centre, the fairground or nearby roads; Siglo XXI belongs to the later expansion axis where the light rail, residential blocks, local services and new streets were planned together.
 
-The evidence is strong for the direct naming source: Avenida del Siglo XXI and the Siglo XXI sector. What remains less certain is the intention behind the street or sector name itself. It is reasonable to read it as a modern, future-facing name, but no municipal naming resolution or planning document inspected here explicitly states that symbolism.
+The evidence is strong for the direct naming source: Avenida del Siglo XXI and the Siglo XXI sector. What remains less certain is the intention behind the street or sector name itself. It is reasonable to read it as a modern, future-facing name, but no municipal naming resolution or planning document inspected explicitly states that symbolism.

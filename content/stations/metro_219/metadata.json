@@ -99,8 +99,8 @@
       "es": "Conviene revisar una fuente catastral, parroquial o cartográfica anterior a 1950 para determinar cuándo aparece por primera vez Pan Bendito como topónimo."
     },
     {
-      "en": "No original municipal or transport naming resolution for the station name was located in this pass.",
-      "es": "En esta revisión no se localizó el acuerdo municipal o de transporte original que fijara el nombre de la estación."
+      "en": "No original municipal or transport naming resolution for the station name was located.",
+      "es": "No se localizó en las fuentes disponibles el acuerdo municipal o de transporte original que fijara el nombre de la estación."
     }
   ],
   "missing_bilingual_markdown_fields": [],
