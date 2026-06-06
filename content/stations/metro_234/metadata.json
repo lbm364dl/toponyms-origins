@@ -53,8 +53,8 @@
   ],
   "corrections": [
     {
-      "en": "Replace named_after \"Real Conservatorio Superior de Musica de Madrid\" with \"Conservatorio Profesional de Musica de Getafe\".",
-      "es": "Sustituir named_after \"Real Conservatorio Superior de Musica de Madrid\" por \"Conservatorio Profesional de Musica de Getafe\"."
+      "en": "Replace namesake \"Real Conservatorio Superior de Musica de Madrid\" with \"Conservatorio Profesional de Musica de Getafe\".",
+      "es": "Sustituir referente \"Real Conservatorio Superior de Musica de Madrid\" por \"Conservatorio Profesional de Musica de Getafe\"."
     },
     {
       "en": "Keep the etymology type as descriptive, but specify that the descriptive landmark is a Getafe public professional music conservatory, not a Madrid higher conservatory.",

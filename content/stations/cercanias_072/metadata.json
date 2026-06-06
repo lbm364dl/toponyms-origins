@@ -68,7 +68,7 @@
       "es": "No presentar las teorías de latín/chez o árabe djebel como igual de sustentadas; aparecen en resúmenes municipales o de tradición local, mientras que el Toponomasticon ofrece el análisis especializado más sólido."
     },
     {
-      "en": "The Spanish input's named_after_es contains an English word: 'robledal of lord Echa Vela' should be normalized to 'robledal del señor Echa Vela' or, more cautiously, 'robledal asociado a Echa Vela'.",
+      "en": "The Spanish wording's named_after_es contains an English word: 'robledal of lord Echa Vela' should be normalized to 'robledal del señor Echa Vela' or, more cautiously, 'robledal asociado a Echa Vela'.",
       "es": "El named_after_es de entrada contiene una palabra inglesa: 'robledal of lord Echa Vela' debe normalizarse como 'robledal del señor Echa Vela' o, con más cautela, 'robledal asociado a Echa Vela'."
     }
   ],

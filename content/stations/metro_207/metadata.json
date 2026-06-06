@@ -53,8 +53,8 @@
   ],
   "corrections": [
     {
-      "en": "Change etymology_type from event to historical, because the name refers to a local aviation heritage landscape rather than a discrete event.",
-      "es": "Cambiar etymology_type de event a historical, porque el nombre remite a un paisaje local de memoria aeronáutica y no a un acontecimiento concreto."
+      "en": "Change classification from event to historical, because the name refers to a local aviation heritage landscape rather than a discrete event.",
+      "es": "Cambiar clasificación de event a historical, porque el nombre remite a un paisaje local de memoria aeronáutica y no a un acontecimiento concreto."
     },
     {
       "en": "Replace the claim that the station was named directly after Madrid-Cuatro Vientos Airport with a more precise claim: it most directly honored the former Aviation barracks of Campamento, with Cuatro Vientos as the broader aviation context.",

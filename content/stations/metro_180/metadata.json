@@ -50,8 +50,8 @@
       "es": "Conviene tratar la nota sobre Guadalajara/Wad al-Hayara en época islámica como contexto secundario, no como parte de la etimología directa del nombre de la estación."
     },
     {
-      "en": "The current row should cite Toponomasticon Hispaniae instead of relying mainly on Wikipedia for the river-name etymology.",
-      "es": "La fila debería citar Toponomasticon Hispaniae en lugar de apoyarse principalmente en Wikipedia para la etimología del hidrónimo."
+      "en": "The existing wording should cite Toponomasticon Hispaniae instead of relying mainly on Wikipedia for the river-name etymology.",
+      "es": "La redacción debería citar Toponomasticon Hispaniae en lugar de apoyarse principalmente en Wikipedia para la etimología del hidrónimo."
     }
   ],
   "open_questions": [
@@ -60,8 +60,8 @@
       "es": "No se localizó un documento oficial de denominación de Metro que diga expresamente que la estación recibió el nombre del río; la conclusión se basa en el nombre de la estación, su ubicación en San Fernando de Henares y el hidrónimo consolidado."
     },
     {
-      "en": "The Islamic-period Wad al-Hayara/Guadalajara tradition would benefit from a specialist medieval source if it is retained in dataset notes.",
-      "es": "La tradición sobre Wad al-Hayara/Guadalajara en época islámica debería apoyarse en una fuente medievalista especializada si se conserva en las notas del conjunto de datos."
+      "en": "The Islamic-period Wad al-Hayara/Guadalajara tradition would benefit from a specialist medieval source if it is retained in record notes.",
+      "es": "La tradición sobre Wad al-Hayara/Guadalajara en época islámica debería apoyarse en una fuente medievalista especializada si se conserva en las notas explicativas."
     }
   ],
   "missing_bilingual_markdown_fields": [],

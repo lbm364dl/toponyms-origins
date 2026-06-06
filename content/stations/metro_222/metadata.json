@@ -69,7 +69,7 @@
     },
     {
       "en": "For the transport station, the direct named-after value should remain simply Alcorcón, not the speculative meaning of Alcorcón.",
-      "es": "Para la estación de transporte, el valor directo de named_after debe seguir siendo simplemente Alcorcón, no el significado hipotético del topónimo."
+      "es": "Para la estación de transporte, el valor directo de referente debe seguir siendo simplemente Alcorcón, no el significado hipotético del topónimo."
     }
   ],
   "open_questions": [

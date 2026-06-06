@@ -1,1 +1,1 @@
-The core claim is sound: the metro station is named for the La Poveda neighbourhood in Arganda del Rey, and the place-name is best explained as a poplar-grove toponym. Some added context in the current row is useful but too broad or insufficiently tied to the station name.
+The core claim is sound: the metro station is named for the La Poveda neighbourhood in Arganda del Rey, and the place-name is best explained as a poplar-grove toponym. Some added context in the existing wording is useful but too broad or insufficiently tied to the station name.

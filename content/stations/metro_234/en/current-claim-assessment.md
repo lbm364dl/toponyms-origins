@@ -1,1 +1,1 @@
-The core claim is correct: the station name refers to the nearby Conservatorio Profesional de Musica de Getafe. The row's named_after value is wrong because it points to Madrid's Real Conservatorio Superior de Musica, a different institution.
+The core claim is correct: the station name refers to the nearby Conservatorio Profesional de Musica de Getafe. The previous wording's namesake value is wrong because it points to Madrid's Real Conservatorio Superior de Musica, a different institution.

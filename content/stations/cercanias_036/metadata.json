@@ -41,7 +41,7 @@
       "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783110233490.259/html",
       "type": "academic",
       "relevance_en": "Academic chapter in *Toponimia de España*; accessible metadata confirms publication details and DOI for García Sánchez's broader assessment of Madrid toponymy.",
-      "relevance_es": "Capítulo académico en *Toponimia de España*; los metadatos accesibles confirman los datos de publicación y el DOI de la valoración general de García Sánchez sobre la toponimia madrileña."
+      "relevance_es": "Capítulo académico en *Toponimia de España*; los datos accesibles confirman los datos de publicación y el DOI de la valoración general de García Sánchez sobre la toponimia madrileña."
     },
     {
       "title": "Ramón Menéndez Pidal, Toponimia prerrománica hispana - Open Library record",
@@ -67,8 +67,8 @@
   ],
   "corrections": [
     {
-      "en": "Do not set the named_after value as if the Celtic hazel-grove etymology were proven; use the municipality as the direct namesake and mark the deeper etymology as disputed.",
-      "es": "No conviene fijar el campo named_after como si la etimología céltica de la avellaneda estuviera demostrada; debe usarse el municipio como referente directo y marcar la etimología profunda como discutida."
+      "en": "Do not set the namesake value as if the Celtic hazel-grove etymology were proven; use the municipality as the direct namesake and mark the deeper etymology as disputed.",
+      "es": "No conviene fijar el valor de referente como si la etimología céltica de la avellaneda estuviera demostrada; debe usarse el municipio como referente directo y marcar la etimología profunda como discutida."
     },
     {
       "en": "The year 1083 should not be treated as the first written attestation of Coslada; stronger accessible sources describe it as a reconquest-context date or say the first known reference is from the reign of Fernando III, with Coslada documented by 1273 in Julio González's account.",

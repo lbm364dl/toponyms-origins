@@ -33,7 +33,7 @@
       "title": "Consorcio Regional de Transportes de Madrid: El Escorial",
       "url": "https://crtm.es/tu-transporte-publico/cercanias-renfe/estaciones/5_29/",
       "type": "official",
-      "relevance_en": "Confirms the current public transport station entry, access points in El Escorial, and Cercanías correspondence shown as C-8a.",
+      "relevance_en": "Confirms the current public transport station listing, access points in El Escorial, and Cercanías correspondence shown as C-8a.",
       "relevance_es": "Confirma la ficha actual de transporte público, los accesos en El Escorial y la correspondencia de Cercanías mostrada como C-8a."
     },
     {
@@ -82,15 +82,15 @@
   "corrections": [
     {
       "en": "The recommended named-after value should not present the oak/esculus derivation as the preferred result; Toponomasticon Hispaniae currently favours scoria/escoria.",
-      "es": "El valor recomendado de named_after no debería presentar la derivación encina/esculus como la preferida; Toponomasticon Hispaniae favorece actualmente scoria/escoria."
+      "es": "El valor recomendado de referente no debería presentar la derivación encina/esculus como la preferida; Toponomasticon Hispaniae favorece actualmente scoria/escoria."
     },
     {
-      "en": "The Spanish named_after field in the input contains untranslated English words, 'oak' and 'slag'; these should be rendered as 'encina/roble/quejigo' and 'escoria'.",
-      "es": "El campo named_after_es de entrada contiene palabras inglesas sin traducir, 'oak' y 'slag'; deberían aparecer como 'encina/roble/quejigo' y 'escoria'."
+      "en": "The Spanish namesake value in the previous wording contains untranslated English words, 'oak' and 'slag'; these should be rendered as 'encina/roble/quejigo' and 'escoria'.",
+      "es": "El valor named_after_es de partida contiene palabras inglesas sin traducir, 'oak' y 'slag'; deberían aparecer como 'encina/roble/quejigo' y 'escoria'."
     },
     {
-      "en": "For current service metadata, transport sources found during research identify the station specifically with C-8a on CRTM, while Renfe's station page also mentions C3a; the broad input line C-8 may need operational review outside the etymology task.",
-      "es": "Para los metadatos de servicio actuales, las fuentes de transporte consultadas identifican la estación específicamente con C-8a en el CRTM, mientras la página de Renfe menciona también C3a; la línea general C-8 de la entrada puede requerir revisión operativa fuera de la tarea etimológica."
+      "en": "transport sources found during research identify the station specifically with C-8a on CRTM, while Renfe's station page also mentions C3a; the broad previous wording line C-8 may need operational review outside the etymology task.",
+      "es": "Para los datos de servicio actuales, las fuentes de transporte consultadas identifican la estación específicamente con C-8a en el CRTM, mientras la página de Renfe menciona también C3a; la línea general C-8 de la entrada puede requerir revisión operativa fuera de la tarea etimológica."
     }
   ],
   "open_questions": [

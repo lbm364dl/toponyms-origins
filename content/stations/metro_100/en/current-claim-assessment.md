@@ -1,1 +1,1 @@
-The core claim is well supported: the station takes its name from Calle de Serrano, named for General Francisco Serrano y Domínguez. The row should soften or correct the constitution claim and add the street's earlier names and the 1944 station-opening context.
+The core claim is well supported: the station takes its name from Calle de Serrano, named for General Francisco Serrano y Domínguez. The wording should soften or correct the constitution claim and add the street's earlier names and the 1944 station-opening context.

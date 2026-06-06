@@ -13,7 +13,7 @@
       "url": "https://datos.madrid.es/egob/catalogo/213605-4-callejero-oficial-madrid.csv",
       "type": "official",
       "relevance_en": "Direct municipal dataset listing Avenida de la Paz as COD_VIA 570400, AVENIDA DE LA PAZ, with FECHA_DE_ALTA 26/11/1965 and current status.",
-      "relevance_es": "Conjunto de datos municipal directo que registra la avenida de la Paz como COD_VIA 570400, AVENIDA DE LA PAZ, con FECHA_DE_ALTA 26/11/1965 y estado vigente."
+      "relevance_es": "Ficha municipal directa que registra la avenida de la Paz como COD_VIA 570400, AVENIDA DE LA PAZ, con FECHA_DE_ALTA 26/11/1965 y estado vigente."
     },
     {
       "title": "Callejero Oficial del Ayuntamiento de Madrid - Relación de viales vigentes",
@@ -67,7 +67,7 @@
   ],
   "corrections": [
     {
-      "en": "Replace the row's 'officially denominated in 1991' statement with the official callejero date 26 November 1965 for Avenida de la Paz; 1991 is not supported as the naming date.",
+      "en": "Replace the previous wording's 'officially denominated in 1991' statement with the official callejero date 26 November 1965 for Avenida de la Paz; 1991 is not supported as the naming date.",
       "es": "Sustituir la frase 'recibió su denominación oficial en 1991' por la fecha del callejero oficial, 26 de noviembre de 1965, para la avenida de la Paz; 1991 no queda respaldado como fecha de denominación."
     },
     {

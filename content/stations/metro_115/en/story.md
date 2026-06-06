@@ -1,6 +1,6 @@
 Laguna is most plausibly named for a nearby local place-name: Calle de la Laguna and the older Camino de la Laguna. The station opened on Metro line 6 in 1983, and the Cercanías connection followed in 1984, so the transport name was already tied to a recognisable local label when the area was being connected more closely to Madrid's rail network.
 
-The word itself is transparent in Spanish. The RAE defines laguna as a natural deposit of water, generally fresh and smaller than a lake, and traces it to Latin lacuna. That makes the name descriptive in origin, but the safer dataset value is not simply 'a lagoon'; it is the local toponym Calle/Camino de la Laguna, whose own origin probably refers to water or low ground.
+The word itself is transparent in Spanish. The RAE defines laguna as a natural deposit of water, generally fresh and smaller than a lake, and traces it to Latin lacuna. That makes the name descriptive in origin, but the safer record value is not simply 'a lagoon'; it is the local toponym Calle/Camino de la Laguna, whose own origin probably refers to water or low ground.
 
 The older urban clue is important. Memoria de Madrid records a 1958 photograph of a pharmacy in what was then 'Camino de la Laguna, 37', today 'Calle de la Laguna, 48'. The current official street directory also lists Calle de la Laguna running through Carabanchel and Latina, which confirms that Laguna was not invented for the station.
 

@@ -54,8 +54,8 @@
       "title": "El reloj del ayuntamiento de Algeciras homenajea a diario a Paco de Lucía",
       "url": "https://www.rtve.es/noticias/20210928/reloj-del-ayuntamiento-algeciras-homenajea-diario-paco-lucia/2175860.shtml",
       "type": "press",
-      "relevance_en": "RTVE report connecting ‘Entre dos aguas’ with Algeciras as a city between the Mediterranean and the Atlantic, useful for assessing a biographical detail in the current row rather than the station naming itself.",
-      "relevance_es": "Reportaje de RTVE que relaciona ‘Entre dos aguas’ con Algeciras como ciudad entre el Mediterráneo y el Atlántico, útil para valorar un detalle biográfico de la fila actual más que el origen del nombre de la estación."
+      "relevance_en": "RTVE report connecting ‘Entre dos aguas’ with Algeciras as a city between the Mediterranean and the Atlantic, useful for assessing a biographical detail in the existing wording rather than the station naming itself.",
+      "relevance_es": "Reportaje de RTVE que relaciona ‘Entre dos aguas’ con Algeciras como ciudad entre el Mediterráneo y el Atlántico, útil para valorar un detalle biográfico de la redacción actual más que el origen del nombre de la estación."
     }
   ],
   "corrections": [
@@ -82,8 +82,8 @@
       "es": "Sería útil revisar el acuerdo formal de la Comunidad de Madrid o una publicación del BOCM sobre el acto jurídico exacto de denominación, aunque la prensa contemporánea identifica la decisión y el anuncio del Consejo de Gobierno."
     },
     {
-      "en": "Some biographical sources vary between Francisco Sánchez Gómez and Francisco Gustavo Sánchez Gómez; for public display, Francisco Sánchez Gómez is supported by Spanish cultural and library authority sources, while the fuller form can be noted only if needed.",
-      "es": "Algunas fuentes biográficas alternan entre Francisco Sánchez Gómez y Francisco Gustavo Sánchez Gómez; para uso público, Francisco Sánchez Gómez está respaldado por fuentes culturales y bibliotecarias españolas, mientras que la forma más completa puede anotarse solo si se necesita."
+      "en": "Some biographical sources vary between Francisco Sánchez Gómez and Francisco Gustavo Sánchez Gómez; for public wording, Francisco Sánchez Gómez is supported by Spanish cultural and library authority sources, while the fuller form can be noted only if needed.",
+      "es": "Algunas fuentes biográficas alternan entre Francisco Sánchez Gómez y Francisco Gustavo Sánchez Gómez; en la explicación pública, Francisco Sánchez Gómez está respaldado por fuentes culturales y bibliotecarias españolas, mientras que la forma más completa puede anotarse solo si se necesita."
     }
   ],
   "missing_bilingual_markdown_fields": [],

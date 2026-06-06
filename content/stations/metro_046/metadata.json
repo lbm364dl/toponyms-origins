@@ -53,8 +53,8 @@
   ],
   "corrections": [
     {
-      "en": "Change etymology_type from person to place for the station-level record; Soynard should be retained as the ultimate origin of the neighborhood name.",
-      "es": "Cambiar etymology_type de person a place en el registro de la estación; Soynard debe conservarse como origen último del nombre del barrio."
+      "en": "Change classification from person to place for the station-level record; Soynard should be retained as the ultimate origin of the neighborhood name.",
+      "es": "Cambiar clasificación de person a place en el registro de la estación; Soynard debe conservarse como origen último del nombre del barrio."
     },
     {
       "en": "Use the spelling Próspero Soynard y Polen, without an accent on Polen, as used in the available sources.",

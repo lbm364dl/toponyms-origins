@@ -54,7 +54,7 @@
       "title": "Ayuntamiento de Las Rozas de Madrid - El paisaje vegetal de Las Rozas de Madrid",
       "url": "https://www.lasrozas.es/WEB_CONTENT/pages/MedioAmbiente/El%20paisaje%20vegetal%20de%20Las%20Rozas%20de%20Madrid.pdf",
       "type": "official",
-      "relevance_en": "source metadata from this municipal PDF reports older forms including ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS, and LAS ROZAS DE MADRID, and links the name to rural land use.",
+      "relevance_en": "source details from this municipal PDF report older forms including ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS, and LAS ROZAS DE MADRID, and links the name to rural land use.",
       "relevance_es": "El texto del registro de este PDF municipal recoge formas antiguas como ROÇAS, ROZAS, ALAROZAS, ALAROZA, LAS ROZAS y LAS ROZAS DE MADRID, y vincula el nombre con el uso rural de la tierra."
     }
   ],
@@ -64,8 +64,8 @@
       "es": "Sustituir 'roza y quema' por 'tierras desbrozadas o roturadas para cultivo' salvo que una fuente local pruebe específicamente la quema como parte de la evidencia del topónimo."
     },
     {
-      "en": "The Spanish named_after field contains English text and should be normalized to 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'.",
-      "es": "El campo named_after_es contiene texto en inglés y debe normalizarse como 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'."
+      "en": "The Spanish namesake value contains English text and should be normalized to 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'.",
+      "es": "El valor named_after_es contiene texto en inglés y debe normalizarse como 'Las Rozas (rozas: tierras desbrozadas o roturadas para cultivo)'."
     },
     {
       "en": "Treat the Majadahonda comparison as optional context, not as proof of Las Rozas's etymology.",

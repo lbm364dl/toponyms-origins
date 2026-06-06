@@ -68,7 +68,7 @@
   "corrections": [
     {
       "en": "Use Plaza del Pradillo as the immediate named-after value, not Calle del Pradillo; the official transport and heritage context points to the square/park area in central Móstoles.",
-      "es": "Conviene usar Plaza del Pradillo como valor inmediato de named_after, no Calle del Pradillo; el contexto oficial de transporte y patrimonio apunta a la plaza/zona ajardinada del centro de Móstoles."
+      "es": "Conviene usar Plaza del Pradillo como valor inmediato de referente, no Calle del Pradillo; el contexto oficial de transporte y patrimonio apunta a la plaza/zona ajardinada del centro de Móstoles."
     },
     {
       "en": "Do not mark the early names Plaza del Perezal/Pedreçal and Pradillo del Caño as fully verified unless the original cited documents or a stronger archival publication are consulted.",

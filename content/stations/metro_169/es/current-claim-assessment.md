@@ -1,1 +1,1 @@
-La afirmacion central esta bien apoyada: Lacoma se explica mejor por Margarita Gonzalez Lacoma y por la Colonia Lacoma promovida en Peñagrande. La fila es demasiado categorica sobre su lugar de nacimiento y conviene matizar la cronologia constructiva y el papel de la sociedad Marcudos.
+La afirmacion central esta bien apoyada: Lacoma se explica mejor por Margarita Gonzalez Lacoma y por la Colonia Lacoma promovida en Peñagrande. La redacción es demasiado categorica sobre su lugar de nacimiento y conviene matizar la cronologia constructiva y el papel de la sociedad Marcudos.

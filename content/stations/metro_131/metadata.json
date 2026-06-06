@@ -71,7 +71,7 @@
       "es": "Sustituir 'toma su nombre del distrito de Ciudad Lineal' por 'toma su nombre del topónimo o área de Ciudad Lineal, derivado en última instancia del proyecto de ciudad lineal de Arturo Soria y Mata'; la estación es anterior o no debe explicarse solo mediante el distrito administrativo posterior."
     },
     {
-      "en": "The row's '15 km boulevard' wording is not supported by the checked official tourism source, which describes Calle de Arturo Soria as about six kilometres long; avoid the 15 km figure unless a stronger source is supplied.",
+      "en": "The previous wording's '15 km boulevard' wording is not supported by the checked official tourism source, which describes Calle de Arturo Soria as about six kilometres long; avoid the 15 km figure unless a stronger source is supplied.",
       "es": "La mención de un 'bulevar de 15 km' no queda respaldada por la fuente turística oficial consultada, que describe la calle de Arturo Soria como de unos seis kilómetros; conviene evitar la cifra de 15 km salvo que se aporte una fuente más sólida."
     },
     {
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "A primary Metro de Madrid archival source for the station's original 1964 naming act would further strengthen the naming_date field.",
-      "es": "Una fuente archivística primaria de Metro de Madrid sobre el acto original de denominación de 1964 reforzaría aún más el campo naming_date."
+      "en": "A primary Metro de Madrid archival source for the station's original 1964 naming act would further strengthen the naming_date value.",
+      "es": "Una fuente archivística primaria de Metro de Madrid sobre el acto original de denominación de 1964 reforzaría aún más el valor naming_date."
     },
     {
       "en": "The exact official date when the plaza name changed from Cruz de los Caídos/La Cruz to Plaza de Ciudad Lineal should be checked in municipal plenary or street-name records if that detail is needed for display.",

@@ -26,7 +26,7 @@
       "title": "Ayuntamiento de Madrid - Distrito 16 Hortaleza, Barrio 164 Pinar del Rey map",
       "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/16%20-%20Hortaleza/Barrio164.pdf",
       "type": "official",
-      "relevance_en": "Municipal mapping places San Lorenzo and Colonia San Lorenzo within the Pinar del Rey administrative barrio, correcting the input's Piovera location.",
+      "relevance_en": "Municipal mapping places San Lorenzo and Colonia San Lorenzo within the Pinar del Rey administrative barrio, correcting the previous wording's Piovera location.",
       "relevance_es": "La cartografía municipal sitúa San Lorenzo y la Colonia San Lorenzo dentro del barrio administrativo de Pinar del Rey, corrigiendo la ubicación de entrada en Piovera."
     },
     {
@@ -68,7 +68,7 @@
       "es": "La fuente directa del nombre debe ser el barrio o Colonia San Lorenzo, no una supuesta parroquia salvo que se localice posteriormente una fuente parroquial específica."
     },
     {
-      "en": "The input neighbourhood 'Piovera' appears inconsistent with municipal mapping; San Lorenzo is shown within the Pinar del Rey administrative barrio.",
+      "en": "The previous wording neighbourhood 'Piovera' appears inconsistent with municipal mapping; San Lorenzo is shown within the Pinar del Rey administrative barrio.",
       "es": "El barrio administrativo de entrada, 'Piovera', parece incoherente con la cartografía municipal; San Lorenzo aparece dentro del barrio administrativo de Pinar del Rey."
     },
     {

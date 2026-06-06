@@ -40,7 +40,7 @@
       "title": "35603 Cuatro Vientos | Adif",
       "url": "https://www.adif.es/w/35603-cuatro-vientos",
       "type": "official",
-      "relevance_en": "Current Adif station record confirming the Cuatro Vientos rail station, address, and C-5 service.",
+      "relevance_en": "Current Adif station listing confirming the Cuatro Vientos rail station, address, and C-5 service.",
       "relevance_es": "Ficha actual de Adif que confirma la estación ferroviaria de Cuatro Vientos, su dirección y el servicio C-5."
     },
     {
@@ -71,8 +71,8 @@
       "es": "La estación de Metro no se inauguró en 2006; las fuentes regionales y de transporte sitúan la apertura de la línea 10 el 11 de abril de 2003. El apeadero de Cercanías procede del ferrocarril Aluche-Móstoles de 1976."
     },
     {
-      "en": "The row should distinguish the documented old place-name 'A los Cuatro Vientos' from the inferred explanation that the name refers to winds from all four cardinal directions.",
-      "es": "La fila debe distinguir el topónimo antiguo documentado 'A los Cuatro Vientos' de la explicación inferida de que el nombre alude a vientos procedentes de los cuatro puntos cardinales."
+      "en": "The wording should distinguish the documented old place-name 'A los Cuatro Vientos' from the inferred explanation that the name refers to winds from all four cardinal directions.",
+      "es": "La redacción debe distinguir el topónimo antiguo documentado 'A los Cuatro Vientos' de la explicación inferida de que el nombre alude a vientos procedentes de los cuatro puntos cardinales."
     }
   ],
   "open_questions": [
@@ -81,7 +81,7 @@
       "es": "Conviene revisar una obra de toponimia madrileña o cartografía histórica para comprobar si explica explícitamente por qué el páramo se llamaba 'A los Cuatro Vientos'."
     },
     {
-      "en": "The exact administrative naming act for the original 1976 railway halt was not located; only later transport histories and current station records were found.",
+      "en": "The exact administrative naming act for the original 1976 railway halt was not located; only later transport histories and current station listings were found.",
       "es": "No se localizó el acto administrativo exacto de denominación del apeadero ferroviario original de 1976; solo se encontraron historias de transporte posteriores y fichas actuales de la estación."
     }
   ],

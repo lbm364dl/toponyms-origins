@@ -88,8 +88,8 @@
   ],
   "corrections": [
     {
-      "en": "Change the named_after value so it does not state the Arevaci derivation as settled fact; the direct namesake is the place Aravaca.",
-      "es": "Conviene cambiar el valor de named_after para que no presente la derivación arévaca como un hecho cerrado; el referente directo es el lugar Aravaca."
+      "en": "Change the namesake value so it does not state the Arevaci derivation as settled fact; the direct namesake is the place Aravaca.",
+      "es": "Conviene cambiar el valor de referente para que no presente la derivación arévaca como un hecho cerrado; el referente directo es el lugar Aravaca."
     },
     {
       "en": "The author in the cited Anales article is Joaquín Caridad Arias, not Caridad Arias as if Caridad were the forename.",

@@ -55,7 +55,7 @@
       "url": "https://asn.flightsafety.org/database/record.php?id=19361209-0",
       "type": "reference",
       "relevance_en": "Aviation accident database entry documenting the KLM Douglas DC-2 crash at London-Croydon on 9 December 1936 and noting Juan de la Cierva among the dead.",
-      "relevance_es": "Entrada de base de datos de accidentes aeronáuticos que documenta el accidente del Douglas DC-2 de KLM en London-Croydon el 9 de diciembre de 1936 y señala a Juan de la Cierva entre los fallecidos."
+      "relevance_es": "Entrada de ficha de accidentes aeronáuticos que documenta el accidente del Douglas DC-2 de KLM en London-Croydon el 9 de diciembre de 1936 y señala a Juan de la Cierva entre los fallecidos."
     }
   ],
   "corrections": [
@@ -68,8 +68,8 @@
       "es": "Evitar fórmulas demasiado cerradas como \"primer vuelo exitoso de una aeronave de ala rotatoria estable\" sin matizar la cronología; las fuentes difieren entre el 17 de enero de 1923 en Getafe y el 31 de enero de 1923 en Cuatro Vientos para el hito del C-4."
     },
     {
-      "en": "Use the full name Juan de la Cierva y Codorníu for the recommended named-after field, while keeping the public station name as Juan de la Cierva.",
-      "es": "Usar el nombre completo Juan de la Cierva y Codorníu en el campo recomendado de persona homenajeada, manteniendo Juan de la Cierva como nombre público de la estación."
+      "en": "Use the full name Juan de la Cierva y Codorníu for the recommended namesake value, while keeping the public station name as Juan de la Cierva.",
+      "es": "Usar el nombre completo Juan de la Cierva y Codorníu en el valor recomendado de persona homenajeada, manteniendo Juan de la Cierva como nombre público de la estación."
     }
   ],
   "open_questions": [

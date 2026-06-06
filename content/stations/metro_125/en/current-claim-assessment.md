@@ -1,1 +1,1 @@
-The core claim is verified: the station name refers to Ángel Herrera Oria. Some biographical details in the row should be tightened, especially the reported birth order and the wording about acquiring El Debate.
+The core claim is verified: the station name refers to Ángel Herrera Oria. Some biographical details in the wording should be tightened, especially the reported birth order and the wording about acquiring El Debate.

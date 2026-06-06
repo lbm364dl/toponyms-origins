@@ -1,1 +1,1 @@
-The row is broadly well supported: the station is named for the municipality, and Toponomasticon Hispaniae prefers a Romance formation meaning roughly 'dark/dusky valley'. The claim should be framed as the best-supported interpretation, not as a fully settled fact.
+The wording is broadly well supported: the station is named for the municipality, and Toponomasticon Hispaniae prefers a Romance formation meaning roughly 'dark/dusky valley'. The claim should be framed as the best-supported interpretation, not as a fully settled fact.

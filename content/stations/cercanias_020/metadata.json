@@ -72,8 +72,8 @@
       "es": "Eliminar o marcar como no verificada la afirmación de que en 1985 las excavadoras casi destruyeron los búnkeres y que el alcalde ordenó conservarlos."
     },
     {
-      "en": "The input field person_nationality contains '1995', which is a data error for a non-person descriptive station.",
-      "es": "El campo de entrada person_nationality contiene '1995', un error de datos en una estación descriptiva que no remite a una persona."
+      "en": "The previous person_nationality value contains '1995', which is a data error for a non-person descriptive station.",
+      "es": "El valor person_nationality de partida contiene '1995', un error de datos en una estación descriptiva que no remite a una persona."
     }
   ],
   "open_questions": [

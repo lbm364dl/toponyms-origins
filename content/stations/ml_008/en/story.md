@@ -6,4 +6,4 @@ The familiar explanation says that Palas de Rei comes from Latin Pallatium Regis
 
 The more colorful tradition adds a Visigothic layer: the supposed palace of King Witiza, who reigned in the early eighth century, and the story that he killed Fafila or Favila, father of Pelayo, in Palas. This should be told as tradition rather than settled fact. The Xunta/RAG Toponimia de Galicia page explicitly says the first element Palas is an etymological enigma and records alternative scholarly ideas, including non-Latin origins.
 
-So the public-facing name is quite firm at the Madrid level: Palas de Rey station takes the name of Calle de Palas de Rey. The deeper Galician story is richer and less certain: medieval forms support a royal-place reading, but the neat derivation from palatium to modern Palas and the Witiza episode remain debated or legendary.
+So the public name is quite firm at the Madrid level: Palas de Rey station takes the name of Calle de Palas de Rey. The deeper Galician story is richer and less certain: medieval forms support a royal-place reading, but the neat derivation from palatium to modern Palas and the Witiza episode remain debated or legendary.

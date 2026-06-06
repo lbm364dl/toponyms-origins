@@ -67,12 +67,12 @@
   ],
   "corrections": [
     {
-      "en": "Change the current claim from verified to probable: the station is verified as named after Plaza de Quintana, but the Manuel José Quintana dedication is not verified.",
-      "es": "Cambiar la afirmación actual de verificada a probable: la estación sí está verificada como nombre tomado de la plaza de Quintana, pero la dedicatoria a Manuel José Quintana no está verificada."
+      "en": "Change the existing explanation from verified to probable: the station is verified as named after Plaza de Quintana, but the Manuel José Quintana dedication is not verified.",
+      "es": "Cambiar la explicación actual de verificada a probable: la estación sí está verificada como nombre tomado de la plaza de Quintana, pero la dedicatoria a Manuel José Quintana no está verificada."
     },
     {
-      "en": "Recommended named_after should not be simply \"Quintana (neighbourhood)\" if the goal is etymology; use Plaza de Quintana with a note that the older source is probably Barrio or Quinta de la Quintana.",
-      "es": "El valor recomendado de named_after no debería ser solo \"Quintana (barrio)\" si se busca la etimología; conviene usar plaza de Quintana con una nota de que la fuente anterior probablemente es el Barrio o la Quinta de la Quintana."
+      "en": "Recommended namesake should not be simply \"Quintana (neighbourhood)\" if the goal is etymology; use Plaza de Quintana with a note that the older source is probably Barrio or Quinta de la Quintana.",
+      "es": "El valor recomendado de referente no debería ser solo \"Quintana (barrio)\" si se busca la etimología; conviene usar plaza de Quintana con una nota de que la fuente anterior probablemente es el Barrio o la Quinta de la Quintana."
     },
     {
       "en": "The Latin meaning of quintana is correct as linguistic background, but it should not be presented as the station's direct naming reason.",

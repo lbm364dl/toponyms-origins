@@ -75,8 +75,8 @@
       "es": "La anexión debe distinguir la fecha del decreto, 10 de noviembre de 1950, de la fecha recordada como incorporación efectiva, 20 de octubre de 1951."
     },
     {
-      "en": "The input appears to conflate Metro Vicálvaro on line 9 with the Renfe Cercanías station named Vicálvaro; Renfe states that Cercanías Vicálvaro connects with Metro Puerta de Arganda, not with Metro Vicálvaro.",
-      "es": "La fila de entrada parece mezclar la estación de Metro Vicálvaro de la línea 9 con la estación de Cercanías llamada Vicálvaro; Renfe indica que Cercanías Vicálvaro enlaza con Metro Puerta de Arganda, no con Metro Vicálvaro."
+      "en": "The previous wording appears to conflate Metro Vicálvaro on line 9 with the Renfe Cercanías station named Vicálvaro; Renfe states that Cercanías Vicálvaro connects with Metro Puerta de Arganda, not with Metro Vicálvaro.",
+      "es": "La redacción de partida parece mezclar la estación de Metro Vicálvaro de la línea 9 con la estación de Cercanías llamada Vicálvaro; Renfe indica que Cercanías Vicálvaro enlaza con Metro Puerta de Arganda, no con Metro Vicálvaro."
     }
   ],
   "open_questions": [
@@ -85,8 +85,8 @@
       "es": "Conviene consultar una fuente especializada de toponimia o el registro vaticano de 1352, citado como ASV, NI, vol. 5355 en una publicación local, para precisar la forma más antigua del nombre."
     },
     {
-      "en": "The historical railway station named Vicálvaro needs separate treatment from the 1998 Metro station if the dataset intends to model Cercanías and Metro as one interchange record.",
-      "es": "La estación ferroviaria histórica llamada Vicálvaro debe tratarse por separado de la estación de Metro de 1998 si el conjunto de datos pretende modelar Cercanías y Metro como un único registro de intercambiador."
+      "en": "The historical railway station named Vicálvaro needs separate treatment from the 1998 Metro station if the record intends to model Cercanías and Metro as one interchange record.",
+      "es": "La estación ferroviaria histórica llamada Vicálvaro debe tratarse por separado de la estación de Metro de 1998 si la explicación de la estación pretende modelar Cercanías y Metro como un único registro de intercambiador."
     }
   ],
   "missing_bilingual_markdown_fields": [],

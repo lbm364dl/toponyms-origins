@@ -59,7 +59,7 @@
     },
     {
       "en": "Use 'Feria de Madrid / Recintos Feriales de IFEMA' rather than only 'IFEMA' as the named-after value, because the station name refers to the fairgrounds destination.",
-      "es": "Usar 'Feria de Madrid / Recintos Feriales de IFEMA' en lugar de solo 'IFEMA' como named_after, porque el nombre de la estación remite al destino de los recintos feriales."
+      "es": "Usar 'Feria de Madrid / Recintos Feriales de IFEMA' en lugar de solo 'IFEMA' como referente, porque el nombre de la estación remite al destino de los recintos feriales."
     }
   ],
   "open_questions": [

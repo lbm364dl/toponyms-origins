@@ -74,8 +74,8 @@
   ],
   "corrections": [
     {
-      "en": "Change etymology_type from person to place, because the station is named for an institution/campus, not directly for Antonio López, Claudio López Bru, Tomás Gómez Carral, or another person.",
-      "es": "Cambiar etymology_type de persona a lugar, porque la estación toma el nombre de una institución/campus, no directamente de Antonio López, Claudio López Bru, Tomás Gómez Carral u otra persona."
+      "en": "Change classification from person to place, because the station is named for an institution/campus, not directly for Antonio López, Claudio López Bru, Tomás Gómez Carral, or another person.",
+      "es": "Cambiar clasificación de persona a lugar, porque la estación toma el nombre de una institución/campus, no directamente de Antonio López, Claudio López Bru, Tomás Gómez Carral u otra persona."
     },
     {
       "en": "Use 2001 as the naming/opening date unless a more specific inauguration date is later found; CRTM records the new Universidad Pontificia de Comillas stop in that year.",

@@ -46,8 +46,8 @@
   ],
   "corrections": [
     {
-      "en": "Replace the named_after value 'Puerta del Sur commercial centre (Alcorcón)' with a functional description of the Line 10-MetroSur interchange.",
-      "es": "Sustituir el valor named_after 'Centro comercial Puerta del Sur (Alcorcón)' por una descripción funcional del intercambiador entre la línea 10 y MetroSur."
+      "en": "Replace the namesake value 'Puerta del Sur commercial centre (Alcorcón)' with a functional description of the Line 10-MetroSur interchange.",
+      "es": "Sustituir el valor de referente 'Centro comercial Puerta del Sur (Alcorcón)' por una descripción funcional del intercambiador entre la línea 10 y MetroSur."
     },
     {
       "en": "Avoid implying that a commercial centre is the source of the name unless a primary naming source is later found.",

@@ -53,8 +53,8 @@
   ],
   "corrections": [
     {
-      "en": "The current line field appears incomplete for present-day service: Renfe lists Recoletos with C1, C2, C7, C8 and C10, while the input row omits C1.",
-      "es": "El campo de líneas parece incompleto para el servicio actual: Renfe enumera Recoletos con C1, C2, C7, C8 y C10, mientras que la fila de entrada omite C1."
+      "en": "The current line value appears incomplete for present-day service: Renfe lists Recoletos with C1, C2, C7, C8 and C10, while the previous wording omits C1.",
+      "es": "El campo de líneas parece incompleto para el servicio actual: Renfe enumera Recoletos con C1, C2, C7, C8 y C10, mientras que la redacción de partida omite C1."
     },
     {
       "en": "The promenade's green character should not be attributed only to the convent gardens; historical research points to planned public-works interventions along the Prado-Recoletos axis.",

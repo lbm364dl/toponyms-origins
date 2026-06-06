@@ -1,1 +1,1 @@
-The broad place-name claim is right, but the row appears to conflate the Madrid neighbourhood/park with an unsupported story about a Cecilio Rodríguez park built in 1928-1933. Stronger sources point instead to a 1950s-1960s residential estate and green area in Guindalera.
+The broad place-name claim is right, but the previous wording appears to conflate the Madrid neighbourhood/park with an unsupported story about a Cecilio Rodríguez park built in 1928-1933. Stronger sources point instead to a 1950s-1960s residential estate and green area in Guindalera.

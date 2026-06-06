@@ -76,7 +76,7 @@
       "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
       "relevance_en": "Confirms the official street gazetteer dataset and its current/historical structure, useful for future verification of naming chronology.",
-      "relevance_es": "Confirma el conjunto de datos oficial del callejero municipal y su estructura vigente/histórica, útil para verificar en el futuro la cronología de la denominación."
+      "relevance_es": "Confirma la explicación de la estación oficial del callejero municipal y su estructura vigente/histórica, útil para verificar en el futuro la cronología de la denominación."
     }
   ],
   "corrections": [

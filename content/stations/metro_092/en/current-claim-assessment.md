@@ -1,1 +1,1 @@
-The basic claim that the station name comes from San Bernardo and ultimately from Saint Bernard is supported, but the row conflates Madrid's Calle/Glorieta de San Bernardo with the Cistercian Monastery of San Bernardo in Alcalá de Henares, which was not nearby.
+The basic claim that the station name comes from San Bernardo and ultimately from Saint Bernard is supported, but the previous wording conflates Madrid's Calle/Glorieta de San Bernardo with the Cistercian Monastery of San Bernardo in Alcalá de Henares, which was not nearby.

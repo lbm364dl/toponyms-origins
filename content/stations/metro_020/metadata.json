@@ -67,7 +67,7 @@
   ],
   "corrections": [
     {
-      "en": "Use Alonso Perez de Guzman as the recommended historical form; the input's Alfonso form appears in some secondary sources but is less consistent with RAH usage.",
+      "en": "Use Alonso Perez de Guzman as the recommended historical form; the previous wording's Alfonso form appears in some secondary sources but is less consistent with RAH usage.",
       "es": "Usar Alonso Perez de Guzman como forma historica recomendada; la forma Alfonso del registro aparece en algunas fuentes secundarias, pero es menos coherente con el uso de la RAH."
     },
     {
@@ -83,7 +83,7 @@
       "es": "Tratar la escena del punal y las palabras exactas como elaboracion tradicional o legendaria, aunque el nucleo de la negativa a rendir Tarifa este atestiguado en fuentes narrativas medievales."
     },
     {
-      "en": "The input opening_year value of 1974 is not correct for this station; official and archive sources place the Line 6 opening at 13 January 1987.",
+      "en": "The previous wording opening_year value of 1974 is not correct for this station; official and archive sources place the Line 6 opening at 13 January 1987.",
       "es": "El valor opening_year de 1974 no es correcto para esta estacion; las fuentes oficiales y archivisticas situan la apertura de la linea 6 el 13 de enero de 1987."
     }
   ],

@@ -74,8 +74,8 @@
   ],
   "corrections": [
     {
-      "en": "The input field person_nationality contains 2021, but this is not a nationality; it appears to be misplaced naming-date metadata.",
-      "es": "El campo person_nationality contiene 2021, pero no es una nacionalidad; parece un dato de fecha de denominación colocado en el campo equivocado."
+      "en": "The previous person_nationality value contains 2021, but this is not a nationality; it appears to be misplaced naming-date data.",
+      "es": "El valor person_nationality contiene 2021, pero no es una nacionalidad; parece un dato de fecha de denominación colocado en el campo equivocado."
     },
     {
       "en": "The current Metro station named Atocha is the former Atocha Renfe; the older Metro station formerly called Atocha is now Estacion del Arte.",

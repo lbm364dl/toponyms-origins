@@ -75,7 +75,7 @@
       "es": "No afirmar sin matices que el vasco arantza sea simplemente la explicación más aceptada; conviene presentarla como una hipótesis filológica principal entre varias."
     },
     {
-      "en": "Correct the Spanish named_after value: it should say 'espino/espino albar', not the English gloss 'thorn/hawthorn'.",
+      "en": "Correct the Spanish namesake value: it should say 'espino/espino albar', not the English gloss 'thorn/hawthorn'.",
       "es": "Corregir el valor named_after_es: debe decir 'espino/espino albar', no la glosa inglesa 'thorn/hawthorn'."
     },
     {
@@ -85,11 +85,11 @@
   ],
   "open_questions": [
     {
-      "en": "A full dataset review should consult the exact page in Lapesa's Historia de la lengua española and the original medieval documents cited for Arauz, Aranz, Aranzuel and Aranzuech.",
-      "es": "Una revisión completa del conjunto de datos debería consultar la página exacta de la Historia de la lengua española de Lapesa y los documentos medievales originales citados para Arauz, Aranz, Aranzuel y Aranzuech."
+      "en": "A full record review should consult the exact page in Lapesa's Historia de la lengua española and the original medieval documents cited for Arauz, Aranz, Aranzuel and Aranzuech.",
+      "es": "Una revisión completa de la explicación debería consultar la página exacta de la Historia de la lengua española de Lapesa y los documentos medievales originales citados para Arauz, Aranz, Aranzuel y Aranzuech."
     },
     {
-      "en": "The CVC Rinconete page cited in the input could not be opened cleanly because of a decoding error; it should be rechecked or consulted through another archive copy.",
+      "en": "The CVC Rinconete page cited in the previous wording could not be opened cleanly because of a decoding error; it should be rechecked or consulted through another archive copy.",
       "es": "La página de Rinconete del CVC citada en la entrada no pudo abrirse correctamente durante esta consulta por un error de decodificación; debería revisarse manualmente o mediante otra copia archivada."
     },
     {

@@ -53,8 +53,8 @@
   ],
   "corrections": [
     {
-      "en": "Downgrade confidence from verified to probable unless a municipal naming record for Calle de Urgel is found.",
-      "es": "Rebajar la confianza de verificada a probable mientras no aparezca un expediente municipal de rotulación de la calle de Urgel."
+      "en": "Lower confidence from verified to probable unless a municipal naming record for Calle de Urgel is found.",
+      "es": "Bajar la confianza de verificada a probable mientras no aparezca un expediente municipal de rotulación de la calle de Urgel."
     },
     {
       "en": "Use 'Urgel/Urgell' as the named place, with the County of Urgell as strong historical context, rather than claiming the county alone as the documented dedicatee.",

@@ -67,12 +67,12 @@
   ],
   "corrections": [
     {
-      "en": "Change etymology_type from person to place; the station is directly named for a street/neighbourhood, not directly for a person or noble house.",
-      "es": "Cambiar etymology_type de person a place; la estación toma directamente el nombre de una calle/barrio, no de una persona o casa nobiliaria de forma directa."
+      "en": "Change classification from person to place; the station is directly named for a street/neighbourhood, not directly for a person or noble house.",
+      "es": "Cambiar clasificación de person a place; la estación toma directamente el nombre de una calle/barrio, no de una persona o casa nobiliaria de forma directa."
     },
     {
-      "en": "Replace named_after 'Duques de Abrantes' with 'Avenida de Abrantes / barrio de Abrantes; ultimately the Portuguese place-name Abrantes' unless a street-naming record proves the ducal dedication.",
-      "es": "Sustituir named_after 'Duques de Abrantes' por 'avenida de Abrantes / barrio de Abrantes; en último término el topónimo portugués Abrantes', salvo que un expediente de callejero pruebe la dedicatoria nobiliaria."
+      "en": "Replace namesake 'Duques de Abrantes' with 'Avenida de Abrantes / barrio de Abrantes; ultimately the Portuguese place-name Abrantes' unless a street-naming record proves the ducal dedication.",
+      "es": "Sustituir referente 'Duques de Abrantes' por 'avenida de Abrantes / barrio de Abrantes; en último término el topónimo portugués Abrantes', salvo que un expediente de callejero pruebe la dedicatoria nobiliaria."
     },
     {
       "en": "Keep the Palacio de Abrantes material as contextual, not as decisive evidence for the Carabanchel avenue or Metro station.",

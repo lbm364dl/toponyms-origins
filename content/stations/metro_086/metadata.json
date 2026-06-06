@@ -89,12 +89,12 @@
       "es": "El supuesto 'Pino de Napoleón' debe describirse como tradición o memoria local; las fuentes discrepan sobre dónde se alojó Napoleón y sobre la historia exacta del árbol."
     },
     {
-      "en": "The input's statement that Laurent first photographed the tree in 1898 needs qualification: Jean Laurent died in 1886, so an 1898 publication may have used a Laurent archive/company photograph rather than a newly taken photograph by him.",
+      "en": "The previous wording's statement that Laurent first photographed the tree in 1898 needs qualification: Jean Laurent died in 1886, so an 1898 publication may have used a Laurent archive/company photograph rather than a newly taken photograph by him.",
       "es": "La afirmación de que Laurent fotografió por primera vez el árbol en 1898 necesita matiz: Jean Laurent murió en 1886, por lo que una publicación de 1898 pudo usar una fotografía de archivo o de la casa Laurent, no una toma nueva hecha por él."
     },
     {
-      "en": "The Spanish named_after field in the input mixes languages; use 'Pinar de Chamartín (pinar de Chamartín)' or simply the Spanish place-name.",
-      "es": "El campo named_after_es de entrada mezcla idiomas; conviene usar 'Pinar de Chamartín (pinar de Chamartín)' o simplemente el topónimo español."
+      "en": "The Spanish namesake value in the previous wording mixes languages; use 'Pinar de Chamartín (pinar de Chamartín)' or simply the Spanish place-name.",
+      "es": "El valor named_after_es de partida mezcla idiomas; conviene usar 'Pinar de Chamartín (pinar de Chamartín)' o simplemente el topónimo español."
     }
   ],
   "open_questions": [

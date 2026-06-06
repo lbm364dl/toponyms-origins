@@ -61,7 +61,7 @@
   "corrections": [
     {
       "en": "Treat the immediate named-after value as the local place-name El Estrecho, not simply the Strait of Gibraltar.",
-      "es": "Conviene tratar el valor named_after inmediato como el topónimo local El Estrecho, no simplemente como el Estrecho de Gibraltar."
+      "es": "Conviene tratar el valor de referente inmediato como el topónimo local El Estrecho, no simplemente como el Estrecho de Gibraltar."
     },
     {
       "en": "Do not describe Estrecho as an official neighbourhood of Madrid; the official Tetuán barrios are Bellas Vistas, Cuatro Caminos, Castillejos, Almenara, Valdeacederas and Berruguete.",

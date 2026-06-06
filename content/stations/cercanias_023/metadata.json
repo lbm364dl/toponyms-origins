@@ -57,11 +57,11 @@
       "es": "No conviene presentar la explicación desde punctum, 'punto/cruce', como la mejor etimología; es una hipótesis popular o histórico-municipal, mientras que la toponimia académica actual prefiere el adjetivo de color."
     },
     {
-      "en": "The input confidence of 'verified' should be nuanced: the station name source is verified, but the exact older landscape noun behind Pinto is not documented.",
+      "en": "The previous wording confidence of 'verified' should be nuanced: the station name source is verified, but the exact older landscape noun behind Pinto is not documented.",
       "es": "La confianza 'verified' del registro debe matizarse: el origen inmediato del nombre de la estación está verificado, pero no está documentado el sustantivo paisajístico antiguo que habría quedado detrás de Pinto."
     },
     {
-      "en": "The Spanish named_after value should translate the gloss consistently as 'pintado/coloreado', not leave the English phrase 'painted/coloured'.",
+      "en": "The Spanish namesake value should translate the gloss consistently as 'pintado/coloreado', not leave the English phrase 'painted/coloured'.",
       "es": "El valor named_after_es debe traducir de forma coherente la glosa como 'pintado/coloreado', no dejar la frase inglesa 'painted/coloured'."
     }
   ],

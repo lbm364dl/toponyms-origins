@@ -100,8 +100,8 @@
       "es": "Los fusilamientos de 1808 deben describirse con precisión: la ficha municipal identifica cuarenta y tres víctimas enterradas en el cementerio de la Florida, mientras que también hubo ejecuciones en otros puntos de Madrid."
     },
     {
-      "en": "For current service metadata, Renfe lists C1, C7 and C10 connections, while the input line field omits C1 and Metro's Ramal even though the station functions with that interchange context.",
-      "es": "Para los metadatos de servicio actuales, Renfe indica conexiones C1, C7 y C10, mientras que el campo de líneas de entrada omite la C1 y el Ramal de Metro aunque la estación funciona en ese contexto de intercambio."
+      "en": "Renfe lists C1, C7 and C10 connections, while the previous wording line value omits C1 and Metro's Ramal even though the station functions with that interchange context.",
+      "es": "Para los datos de servicio actuales, Renfe indica conexiones C1, C7 y C10, mientras que el valor de líneas de la redacción de partida omite la C1 y el Ramal de Metro aunque la estación funciona en ese contexto de intercambio."
     }
   ],
   "open_questions": [
@@ -111,7 +111,7 @@
     },
     {
       "en": "Some art-historical discussion questions whether Goya's painted setting is a literal topographic view of the Montaña del Príncipe Pío, so public text should say the painting remembers or is titled for the event rather than treating every visual detail as documentary.",
-      "es": "Parte de la discusión histórico-artística cuestiona si el escenario pintado por Goya es una vista topográfica literal de la Montaña del Príncipe Pío, por lo que el texto público debe decir que el cuadro recuerda o se titula por el suceso, no que todos sus detalles visuales sean documentales."
+      "es": "Parte de la discusión histórico-artística cuestiona si el escenario pintado por Goya es una vista topográfica literal de la Montaña del Príncipe Pío, por lo que la explicación pública debe decir que el cuadro recuerda o se titula por el suceso, no que todos sus detalles visuales sean documentales."
     }
   ],
   "missing_bilingual_markdown_fields": [],

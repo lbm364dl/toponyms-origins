@@ -75,8 +75,8 @@
       "es": "La fecha exacta del 25 de mayo de 1964 debe tratarse con cautela: está bien asociada a los enlaces ferroviarios de Madrid, pero no se ha encontrado una fuente primaria que pruebe ese día exacto como fecha de denominación de la estación de viajeros."
     },
     {
-      "en": "Current service metadata should be reviewed: Renfe lists Pitis on C-3a, C-7 and C-8, while the input line field omits C-3a.",
-      "es": "Conviene revisar los metadatos de servicio actuales: Renfe incluye Pitis en C-3a, C-7 y C-8, mientras que el campo de líneas de entrada omite C-3a."
+      "en": "Current service details should be reviewed: Renfe lists Pitis on C-3a, C-7 and C-8, while the previous wording line value omits C-3a.",
+      "es": "Conviene revisar los datos de servicio actuales: Renfe incluye Pitis en C-3a, C-7 y C-8, mientras que el valor de líneas de la redacción de partida omite C-3a."
     }
   ],
   "open_questions": [

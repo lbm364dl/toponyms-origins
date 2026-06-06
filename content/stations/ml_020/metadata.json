@@ -67,8 +67,8 @@
   ],
   "corrections": [
     {
-      "en": "Keep the core named_after value, but avoid presenting the 1986 EEC-entry explanation as verified unless a municipal naming record is found.",
-      "es": "Conviene mantener el valor principal de named_after, pero no presentar como verificada la explicación ligada a la entrada en la CEE en 1986 salvo que aparezca un acuerdo municipal de denominación."
+      "en": "Keep the core namesake value, but avoid presenting the 1986 EEC-entry explanation as verified unless a municipal naming record is found.",
+      "es": "Conviene mantener el valor principal de referente, pero no presentar como verificada la explicación ligada a la entrada en la CEE en 1986 salvo que aparezca un acuerdo municipal de denominación."
     },
     {
       "en": "Replace the unsourced claim of “more than thirty” European country and capital streets with a sourced, more cautious formulation: the municipal street/parking list shows many nearby European-themed streets, including countries and capitals.",

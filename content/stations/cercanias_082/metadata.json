@@ -19,7 +19,7 @@
       "title": "97201 Ramón y Cajal - Adif",
       "url": "https://www.adif.es/w/97201-Ram%C3%B3n%2By%2BCajal",
       "type": "official",
-      "relevance_en": "Adif provides the official station record, address on the M-607 and operational listing for Ramón y Cajal.",
+      "relevance_en": "Adif provides the official station listing, address on the M-607 and operational listing for Ramón y Cajal.",
       "relevance_es": "Adif proporciona la ficha oficial de la estación, su dirección en la M-607 y la información operativa de Ramón y Cajal."
     },
     {
@@ -81,8 +81,8 @@
   ],
   "corrections": [
     {
-      "en": "The current row should make clear that the station is directly named for the nearby hospital, with Santiago Ramón y Cajal as the ultimate honoree.",
-      "es": "La fila actual debe aclarar que la estación toma directamente su nombre del hospital cercano, y que Santiago Ramón y Cajal es el homenajeado último."
+      "en": "The existing wording should make clear that the station is directly named for the nearby hospital, with Santiago Ramón y Cajal as the ultimate honoree.",
+      "es": "La redacción actual debe aclarar que la estación toma directamente su nombre del hospital cercano, y que Santiago Ramón y Cajal es el homenajeado último."
     },
     {
       "en": "The Nobel wording should be narrowed: the official citation was for work on the structure of the nervous system, not specifically for 'proving' neurons as later-named cells.",
@@ -93,7 +93,7 @@
       "es": "El término 'neurona' ya se había acuñado antes del Nobel de 1906; en este contexto resulta engañoso decir que esas células solo fueron llamadas neuronas posteriormente."
     },
     {
-      "en": "Current official transport sources list service by C-3a/C-3 as well as C-7 and C-8, so the line metadata may be incomplete.",
+      "en": "Current official transport sources list service by C-3a/C-3 as well as C-7 and C-8, so the line data may be incomplete.",
       "es": "Las fuentes oficiales actuales de transporte incluyen servicio C-3a/C-3 además de C-7 y C-8, por lo que el metadato de líneas puede estar incompleto."
     }
   ],

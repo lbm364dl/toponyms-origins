@@ -1,1 +1,1 @@
-La idea básica de que la estación toma el nombre de San Bernardo y, en último término, de san Bernardo está respaldada, pero la fila confunde la calle/glorieta madrileña de San Bernardo con el monasterio cisterciense de San Bernardo de Alcalá de Henares, que no estaba cerca.
+La idea básica de que la estación toma el nombre de San Bernardo y, en último término, de san Bernardo está respaldada, pero la redacción confunde la calle/glorieta madrileña de San Bernardo con el monasterio cisterciense de San Bernardo de Alcalá de Henares, que no estaba cerca.

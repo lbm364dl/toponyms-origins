@@ -1,1 +1,1 @@
-The basic claim is correct: the station is descriptively named for Terminal 4 of Madrid-Barajas airport. The row is strong on architecture, but should add the exact transport chronology and note that the airport's official name changed in 2014 to Aeropuerto Adolfo Suárez Madrid-Barajas.
+The basic claim is correct: the station is descriptively named for Terminal 4 of Madrid-Barajas airport. The wording is strong on architecture, but should add the exact transport chronology and note that the airport's official name changed in 2014 to Aeropuerto Adolfo Suárez Madrid-Barajas.

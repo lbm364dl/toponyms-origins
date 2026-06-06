@@ -1,1 +1,1 @@
-La fila actual es sustancialmente errónea: la estación no debe su nombre al pintor romántico Jenaro/Genaro Pérez Villaamil, sino a la cercana calle del Alcalde Álvarez de Villaamil, dedicada al exalcalde madrileño Sergio Álvarez Rodríguez de Villaamil.
+La redacción actual es sustancialmente errónea: la estación no debe su nombre al pintor romántico Jenaro/Genaro Pérez Villaamil, sino a la cercana calle del Alcalde Álvarez de Villaamil, dedicada al exalcalde madrileño Sergio Álvarez Rodríguez de Villaamil.

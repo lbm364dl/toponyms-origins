@@ -1,1 +1,1 @@
-The core claim is correct: the station is named for flamenco guitarist Paco de Lucía. The current row mixes relevant biography with less station-specific anecdotes and weak sources; it also carries contextual errors in the input metadata, especially the district and opening year.
+The core claim is correct: the station is named for flamenco guitarist Paco de Lucía. The existing wording mixes relevant biography with less station-specific anecdotes and weak sources; it also carries contextual errors in the previous wording metadata, especially the district and opening year.

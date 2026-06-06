@@ -19,7 +19,7 @@
       "title": "Renfe Data - Ficha de estación 19003: Alcobendas San Sebastián de los Reyes",
       "url": "https://data.renfe.com/files/estaciones/FichaEstacion19003.pdf",
       "type": "official",
-      "relevance_en": "Official station sheet confirming code 19003, the station name, Renfe Viajeros as operator, Avenida de España address, municipality field, coordinates, and C4A commercial line.",
+      "relevance_en": "Official station sheet confirming code 19003, the station name, Renfe Viajeros as operator, Avenida de España address, municipality value, coordinates, and C4A commercial line.",
       "relevance_es": "Ficha oficial de estación que confirma el código 19003, el nombre de la estación, Renfe Viajeros como explotador, la dirección en avenida de España, el municipio, las coordenadas y la línea comercial C4A."
     },
     {
@@ -78,7 +78,7 @@
       "es": "No debe afirmarse que Alcobendas signifique con certeza “colina”, “colina blanca” o “colina del corzo”; son hipótesis académicas y Toponomasticon Hispaniae califica el origen como extraordinariamente difícil e impreciso."
     },
     {
-      "en": "The earliest secure form found in the stronger sources is Alcovendas in 1208, not 1202; the input’s Fuero de Madrid reference should be checked against the actual document it intends to cite.",
+      "en": "The earliest secure form found in the stronger sources is Alcovendas in 1208, not 1202; the previous wording’s Fuero de Madrid reference should be checked against the actual document it intends to cite.",
       "es": "La forma segura más antigua encontrada en las fuentes más sólidas es Alcovendas en 1208, no 1202; conviene comprobar la referencia al Fuero de Madrid de la entrada frente al documento concreto que pretende citar."
     },
     {

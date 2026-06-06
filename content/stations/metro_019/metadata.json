@@ -74,7 +74,7 @@
   ],
   "corrections": [
     {
-      "en": "The input opening_year value 2007 is incorrect for this station; transport chronologies give 27 October 1999 as the opening of the new Eugenia de Montijo station between Carabanchel and Aluche.",
+      "en": "The previous wording opening_year value 2007 is incorrect for this station; transport chronologies give 27 October 1999 as the opening of the new Eugenia de Montijo station between Carabanchel and Aluche.",
       "es": "El valor opening_year 2007 de la entrada es incorrecto para esta estación; las cronologías de transporte dan el 27 de octubre de 1999 como apertura de la nueva estación Eugenia de Montijo entre Carabanchel y Aluche."
     },
     {

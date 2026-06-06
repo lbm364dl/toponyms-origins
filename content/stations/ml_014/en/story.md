@@ -2,7 +2,7 @@ The station name is direct and local: **Somosaguas Sur** names the southern part
 
 Behind the modern residential name is an older Madrid-area toponym. Historical accounts of Pozuelo describe San Juan de Somosaguas as one of the early hamlets or farmsteads associated with Pozuelo and Húmera. A version of the sixteenth-century Relaciones Topográficas tradition gives the older form as **San Juan de Sumas Aguas** and explains it by the many good waters found there.
 
-The linguistic reading in the existing dataset, **somo + aguas**, is plausible but should be presented carefully. The RAE records **somo** as an old Spanish word from Latin *summum*, meaning the top or highest point of hills. Toponomasticon Hispaniae does not provide a dedicated entry for Somosaguas in the material found, but it does list Somosaguas as a related place-name in its discussion of Somosierra, where the first element is connected with elevation.
+The linguistic reading in the existing record, **somo + aguas**, is plausible but should be presented carefully. The RAE records **somo** as an old Spanish word from Latin *summum*, meaning the top or highest point of hills. Toponomasticon Hispaniae does not provide a dedicated entry for Somosaguas in the material found, but it does list Somosaguas as a related place-name in its discussion of Somosierra, where the first element is connected with elevation.
 
 Water is not just a word-play here. Pozuelo’s own history repeatedly emphasizes wells and springs, and local historical writing records a now-vanished Fuente de Somosaguas with ferruginous, slightly copper-bearing water. That later spring tradition fits the old explanation of “many waters,” although it does not by itself prove the medieval etymology.
 

@@ -71,8 +71,8 @@
       "es": "No debe afirmarse como hecho que Cercedilla naciera como un puesto estacional; la fuente autorizada dice que es muy probable que gentes de Cerceda se instalaran allí de manera más o menos fija, pero sigue siendo una inferencia."
     },
     {
-      "en": "The Spanish named_after value should say 'diminutivo de Cerceda' rather than mixing English 'diminutive' into the Spanish text.",
-      "es": "El valor español de named_after debería decir 'diminutivo de Cerceda' en lugar de mezclar el inglés 'diminutive' en el texto español."
+      "en": "The Spanish namesake value should say 'diminutivo de Cerceda' rather than mixing English 'diminutive' into the Spanish text.",
+      "es": "El valor español de referente debería decir 'diminutivo de Cerceda' en lugar de mezclar el inglés 'diminutive' en el texto español."
     }
   ],
   "open_questions": [

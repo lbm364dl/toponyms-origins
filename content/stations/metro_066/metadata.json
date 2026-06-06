@@ -82,8 +82,8 @@
       "title": "Origen de Canillejas - Asociación Vecinal Amistad de Canillejas",
       "url": "https://www.avvcanillejas.org/origenes.htm",
       "type": "other",
-      "relevance_en": "Local narrative connecting Canillejas and Canillas with underground water conduits and preserving the medieval-privilege tradition found in the input row; the page has encoding issues and should be treated cautiously.",
-      "relevance_es": "Relato local que vincula Canillejas y Canillas con conducciones subterráneas de agua y conserva la tradición de privilegios medievales presente en la fila de entrada; la página tiene problemas de codificación y debe usarse con cautela."
+      "relevance_en": "Local narrative connecting Canillejas and Canillas with underground water conduits and preserving the medieval-privilege tradition found in the previous wording; the page has encoding issues and should be treated cautiously.",
+      "relevance_es": "Relato local que vincula Canillejas y Canillas con conducciones subterráneas de agua y conserva la tradición de privilegios medievales presente en la redacción de partida; la página tiene problemas de codificación y debe usarse con cautela."
     }
   ],
   "corrections": [
@@ -106,7 +106,7 @@
       "es": "Debería revisarse una fuente toponímica especializada, como una futura ficha del Toponomasticon Hispaniae o un estudio académico de la toponimia madrileña, para confirmar si Canillejas deriva realmente de canilla/canillas."
     },
     {
-      "en": "The medieval privileges attributed to Alfonso X and Alfonso XI need verification in archival or scholarly sources before being used in public display copy.",
+      "en": "The medieval privileges attributed to Alfonso X and Alfonso XI need verification in archival or scholarly sources before being used in public wording copy.",
       "es": "Los privilegios medievales atribuidos a Alfonso X y Alfonso XI necesitan verificación en fuentes archivísticas o académicas antes de incorporarse a textos públicos."
     }
   ],

@@ -69,7 +69,7 @@
       "url": "https://elpais.com/diario/1997/07/22/madrid/869570658_850215.html",
       "type": "press",
       "relevance_en": "Shows contemporary public use of 'El Pinar de Las Rozas' for the station and documents a May 1989 agreement related to station parking, helping explain why 1989 appears in secondary accounts.",
-      "relevance_es": "Muestra el uso publico contemporaneo de 'El Pinar de Las Rozas' para la estacion y documenta un convenio de mayo de 1989 relacionado con el aparcamiento, lo que ayuda a explicar la aparicion de 1989 en relatos secundarios."
+      "relevance_es": "Muestra el explicacion publica contemporaneo de 'El Pinar de Las Rozas' para la estacion y documenta un convenio de mayo de 1989 relacionado con el aparcamiento, lo que ayuda a explicar la aparicion de 1989 en relatos secundarios."
     }
   ],
   "corrections": [
@@ -78,8 +78,8 @@
       "es": "No debe afirmarse sin matices que la parada actual data de 1989; la cronologia historica ferroviaria del CRTM recoge Pinar de las Rozas en 1961, y 1989 se refiere a la finalizacion del Triangulo de Pinar y a obras relacionadas de Cercanias."
     },
     {
-      "en": "The line/service statement should be reviewed: CRTM currently lists C-8/C-8a and C-10 for the station, while Adif project material also mentions C-3a on the Pinar-Las Matas corridor; the row's narrative reference to C-3 is imprecise.",
-      "es": "La informacion de lineas/servicios debe revisarse: el CRTM lista actualmente C-8/C-8a y C-10 para la estacion, mientras que material de Adif tambien menciona C-3a en el corredor Pinar-Las Matas; la referencia narrativa de la fila a C-3 es imprecisa."
+      "en": "The line/service statement should be reviewed: CRTM currently lists C-8/C-8a and C-10 for the station, while Adif project material also mentions C-3a on the Pinar-Las Matas corridor; the previous wording's narrative reference to C-3 is imprecise.",
+      "es": "La informacion de lineas/servicios debe revisarse: el CRTM lista actualmente C-8/C-8a y C-10 para la estacion, mientras que material de Adif tambien menciona C-3a en el corredor Pinar-Las Matas; la referencia narrativa de la redacción a C-3 es imprecisa."
     },
     {
       "en": "The claim that it is one of the busiest bifurcation points in the Cercanias network was not supported by a direct traffic or operations source and should be softened or sourced.",
@@ -92,7 +92,7 @@
       "es": "Consultar expedientes historicos de estacion de Adif/Renfe o avisos oficiales de apertura para determinar la fecha exacta en que se asigno formalmente el nombre Pinar de las Rozas."
     },
     {
-      "en": "Clarify whether the public station opening, the support station recorded in 1961, and the 1964 junction works refer to the same operational facility or to successive railway configurations at the same place.",
+      "en": "Clarify whether the public station opening, the support station entryed in 1961, and the 1964 junction works refer to the same operational facility or to successive railway configurations at the same place.",
       "es": "Aclarar si la apertura publica de la estacion, la estacion de apoyo recogida en 1961 y las obras del enlace de 1964 se refieren a la misma instalacion operativa o a configuraciones ferroviarias sucesivas en el mismo lugar."
     }
   ],

@@ -1,1 +1,1 @@
-The functional explanation is well supported: Puerta del Sur is the interchange where Line 10 connects Madrid's main Metro network with MetroSur. The row's claim that it is named after a commercial centre in Alcorcón is not supported by the sources found and is likely wrong.
+The functional explanation is well supported: Puerta del Sur is the interchange where Line 10 connects Madrid's main Metro network with MetroSur. The previous wording's claim that it is named after a commercial centre in Alcorcón is not supported by the sources found and is likely wrong.

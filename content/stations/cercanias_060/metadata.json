@@ -61,8 +61,8 @@
       "title": "Toponomasticon Hispaniae - Hidronimia y lexico de origen paleoeuropeo en Galicia",
       "url": "https://toponhisp.org/index.php/gl/node/189",
       "type": "reference",
-      "relevance_en": "Bibliographic record for Edelmiro Bascuas's 2006 hydronymy book cited in the current row; useful for identifying the work, though the relevant page text was not consulted directly.",
-      "relevance_es": "Registro bibliografico de la obra de hidronimia de Edelmiro Bascuas de 2006 citada en la fila actual; sirve para identificar la obra, aunque no estuvo disponible para consulta directa la pagina relevante."
+      "relevance_en": "Bibliographic record for Edelmiro Bascuas's 2006 hydronymy book cited in the existing wording; useful for identifying the work, though the relevant page text was not consulted directly.",
+      "relevance_es": "Registro bibliografico de la obra de hidronimia de Edelmiro Bascuas de 2006 citada en la redacción actual; sirve para identificar la obra, aunque no estuvo disponible para consulta directa la pagina relevante."
     }
   ],
   "corrections": [
@@ -71,8 +71,8 @@
       "es": "Cambiar la confianza de verificada a probable para la etimologia profunda; solo esta plenamente verificado que la estacion toma el nombre del municipio."
     },
     {
-      "en": "Use Humanes de Madrid as the recommended named_after value, and treat the Paleo-European *um- explanation as a theory rather than the station's direct namesake.",
-      "es": "Usar Humanes de Madrid como valor recomendado de named_after, y tratar la explicacion paleoeuropea *um- como una teoria, no como el referente directo de la estacion."
+      "en": "Use Humanes de Madrid as the recommended namesake value, and treat the Paleo-European *um- explanation as a theory rather than the station's direct namesake.",
+      "es": "Usar Humanes de Madrid como valor recomendado de referente, y tratar la explicacion paleoeuropea *um- como una teoria, no como el referente directo de la estacion."
     },
     {
       "en": "Add the competing Latin humidus explanation, which is explicitly supported by a consulted Madrid toponymy article and by the municipal history page.",

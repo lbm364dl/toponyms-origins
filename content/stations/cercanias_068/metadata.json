@@ -68,7 +68,7 @@
       "es": "Debe evitarse decir que el nombre prueba que la torre estaba literalmente rodeada de almeces; la evidencia respalda el valor lingüístico de “lodones” como plural de lodón/almez, no una reconstrucción exacta de la vegetación alrededor de la torre."
     },
     {
-      "en": "The current claim should mention competing traditional explanations, especially the mud/lodos theory and legendary personal-name theories, but mark them as weaker than the lodón-tree explanation.",
+      "en": "The existing explanation should mention competing traditional explanations, especially the mud/lodos theory and legendary personal-name theories, but mark them as weaker than the lodón-tree explanation.",
       "es": "La explicación actual debería mencionar las teorías tradicionales alternativas, sobre todo la de los lodos y las leyendas de nombres personales, pero marcarlas como más débiles que la explicación por el árbol lodón."
     }
   ],
@@ -78,8 +78,8 @@
       "es": "Consultar el documento que sustenta la fecha municipal de 1287 para verificar la grafía exacta y el contexto de la referencia más antigua."
     },
     {
-      "en": "If a station-opening history field is needed, consult railway archival sources for the exact status and naming of the original halt or station in 1864 and later relocations.",
-      "es": "Si se necesita un campo histórico sobre la apertura ferroviaria, conviene revisar fuentes archivísticas ferroviarias para precisar el estatus y el nombre del apeadero o estación original en 1864 y sus traslados posteriores."
+      "en": "If the station-opening history needs a precise value, consult railway archival sources for the exact status and naming of the original halt or station in 1864 and later relocations.",
+      "es": "Si se necesita un valor histórico sobre la apertura ferroviaria, conviene revisar fuentes archivísticas ferroviarias para precisar el estatus y el nombre del apeadero o estación original en 1864 y sus traslados posteriores."
     }
   ],
   "missing_bilingual_markdown_fields": [],

@@ -86,8 +86,8 @@
       "es": "Los danos de la Guerra Civil en la calle de Fuencarral del centro de Madrid no son necesarios para explicar el nombre de esta estacion y deberian retirarse del resumen etimologico salvo que se traten aparte como historia de la calle."
     },
     {
-      "en": "If the dataset row combines Metro and Cercanias, note that the Renfe Fuencarral station is listed separately by Renfe at Calle Antonio Cabezón and on C4A/C4B; the name origin is shared, but the facilities should not be assumed to be a single interchange without checking the dataset model.",
-      "es": "Si la fila del conjunto de datos combina Metro y Cercanias, conviene indicar que Renfe lista la estacion de Fuencarral por separado en la calle Antonio Cabezón y en C4A/C4B; el origen del nombre es comun, pero no debe asumirse que formen un unico intercambiador sin revisar el modelo de datos."
+      "en": "If Metro and Cercanías are treated together, note that the Renfe Fuencarral station is listed separately by Renfe at Calle Antonio Cabezón and on C4A/C4B; the name origin is shared, but the facilities should not be assumed to be a single interchange without explicit support.",
+      "es": "Si Metro y Cercanías se tratan juntos, conviene indicar que Renfe lista la estacion de Fuencarral por separado en la calle Antonio Cabezón y en C4A/C4B; el origen del nombre es comun, pero no debe asumirse que formen un unico intercambiador sin revisar si deben tratarse como un único conjunto."
     }
   ],
   "open_questions": [

@@ -1,1 +1,1 @@
-La explicación de Galapagar está bien respaldada por Toponomasticon Hispaniae y por el escudo municipal. La explicación de La Navata es verosímil por nava más una forma diminutiva, pero la fila exagera la prueba disponible y debe decir prerromano, no simplemente vasco.
+La explicación de Galapagar está bien respaldada por Toponomasticon Hispaniae y por el escudo municipal. La explicación de La Navata es verosímil por nava más una forma diminutiva, pero la redacción exagera la prueba disponible y debe decir prerromano, no simplemente vasco.

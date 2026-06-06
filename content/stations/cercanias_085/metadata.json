@@ -103,8 +103,8 @@
       "es": "No presentar el significado de 'bebas' como establecido. Las fuentes disponibles apoyan Val-/Valde- como 'valle', pero dejan 'beba/bebas' en situación incierta."
     },
     {
-      "en": "Update transport metadata if the dataset tracks current services: CRTM and Renfe list Valdebebas with C-1 and C-10, although the input row only gives C-1.",
-      "es": "Actualizar los metadatos de transporte si la base de datos recoge servicios actuales: CRTM y Renfe indican Valdebebas con C-1 y C-10, aunque la fila de entrada solo recoge C-1."
+      "en": "Update transport details if current services are tracked: CRTM and Renfe list Valdebebas with C-1 and C-10, although the previous wording only gives C-1.",
+      "es": "Actualizar los datos de transporte si se recogen servicios actuales: CRTM y Renfe indican Valdebebas con C-1 y C-10, aunque la redacción de partida solo recoge C-1."
     },
     {
       "en": "Soften the claim about two artificial lagoons along the former stream course. Official park material describes ornamental channels, a reproduced wetland, a regulating basin and water-regeneration infrastructure, not a simple two-lagoon restoration of the arroyo.",

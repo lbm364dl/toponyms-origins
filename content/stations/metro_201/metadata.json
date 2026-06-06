@@ -74,12 +74,12 @@
   ],
   "corrections": [
     {
-      "en": "The current row should mention that the airport's official name has been Aeropuerto Adolfo Suárez Madrid-Barajas since the BOE order published on 26 March 2014.",
-      "es": "La fila actual debería mencionar que el nombre oficial del aeropuerto es Aeropuerto Adolfo Suárez Madrid-Barajas desde la orden publicada en el BOE el 26 de marzo de 2014."
+      "en": "The existing wording should mention that the airport's official name has been Aeropuerto Adolfo Suárez Madrid-Barajas since the BOE order published on 26 March 2014.",
+      "es": "La redacción actual debería mencionar que el nombre oficial del aeropuerto es Aeropuerto Adolfo Suárez Madrid-Barajas desde la orden publicada en el BOE el 26 de marzo de 2014."
     },
     {
-      "en": "The input line field is incomplete for the current Renfe service: Renfe's station sheet lists AEROPUERTO T-4 on commercial lines C1 and C10.",
-      "es": "El campo de línea de entrada está incompleto para el servicio actual de Renfe: la ficha de estación de Renfe incluye AEROPUERTO T-4 en las líneas comerciales C1 y C10."
+      "en": "The previous wording line value is incomplete for the current Renfe service: Renfe's station sheet lists AEROPUERTO T-4 on commercial lines C1 and C10.",
+      "es": "El valor de línea de partida está incompleto para el servicio actual de Renfe: la ficha de estación de Renfe incluye AEROPUERTO T-4 en las líneas comerciales C1 y C10."
     },
     {
       "en": "The architectural details are relevant context, but the etymology itself is simpler: the station is named for the terminal it serves, not for the architects or the Stirling Prize.",

@@ -67,7 +67,7 @@
   ],
   "corrections": [
     {
-      "en": "Set previous_names to Estadio Olímpico; the input currently leaves previous_names empty and puts the former-name note in naming_date.",
+      "en": "Set previous_names to Estadio Olímpico; the previous wording currently leaves previous_names empty and puts the former-name note in naming_date.",
       "es": "Establecer previous_names como Estadio Olímpico; la entrada actual deja previous_names vacío y coloca la nota del nombre anterior en naming_date."
     },
     {

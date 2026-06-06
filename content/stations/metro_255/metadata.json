@@ -82,7 +82,7 @@
   "corrections": [
     {
       "en": "Change the direct named-after value from only 'Villaverde Bajo' to 'Villaverde Bajo and El Cruce de Villaverde', because official construction documentation places the station in the El Cruce area at Avenida de Andalucía and the Villaverde-Vallecas road.",
-      "es": "Cambiar el valor directo de named_after de solo 'Villaverde Bajo' a 'Villaverde Bajo y El Cruce de Villaverde', porque la documentación oficial de la obra sitúa la estación en la zona de El Cruce, en la avenida de Andalucía con la carretera de Villaverde a Vallecas."
+      "es": "Cambiar el valor directo de referente de solo 'Villaverde Bajo' a 'Villaverde Bajo y El Cruce de Villaverde', porque la documentación oficial de la obra sitúa la estación en la zona de El Cruce, en la avenida de Andalucía con la carretera de Villaverde a Vallecas."
     },
     {
       "en": "Do not state 'villa viridis' as an attested historical form unless a primary medieval or archival source is found; present it instead as a transparent formation from villa plus verde, with verde from Latin viridis.",

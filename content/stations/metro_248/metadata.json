@@ -75,8 +75,8 @@
       "es": "Conviene reclasificar el origen directo como topónimo de lugar y no solo como descriptivo: la estación toma su nombre del ámbito o lugar de Valdecarros."
     },
     {
-      "en": "Use the exact opening/naming date 16 May 2007 for the station in public metadata.",
-      "es": "Debe usarse la fecha exacta de apertura y asignación del nombre, 16 de mayo de 2007, en los metadatos públicos."
+      "en": "Use the exact opening/naming date 16 May 2007 for the station in public details.",
+      "es": "Debe usarse la fecha exacta de apertura y asignación del nombre, 16 de mayo de 2007, en los datos públicos."
     }
   ],
   "open_questions": [

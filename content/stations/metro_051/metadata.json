@@ -75,8 +75,8 @@
       "es": "Conviene revisar el expediente municipal del callejero madrileño o la obra impresa Los nombres de las calles de Madrid, p. 217, para confirmar la fecha exacta en que la calle de Francos Rodríguez recibió su nombre."
     },
     {
-      "en": "A civil registry or cemetery record should be consulted if the exact death date is needed for final biographical metadata.",
-      "es": "Si se necesita fijar la fecha exacta de fallecimiento en los metadatos biográficos, habría que consultar el registro civil o documentación cementerial."
+      "en": "A civil registry or cemetery record should be consulted if the exact death date is needed for final biographical details.",
+      "es": "Si se necesita fijar la fecha exacta de fallecimiento en los datos biográficos, habría que consultar el registro civil o documentación cementerial."
     }
   ],
   "missing_bilingual_markdown_fields": [],

@@ -1,1 +1,1 @@
-The core claim is right: the station is named for Parque de Polvoranca/Parque Forestal Polvoranca in Leganés. However, calling it a regional park is imprecise, and the detailed Laurianus-Loranque-Polboranca-Belluti etymology is much more speculative than the row suggests.
+The core claim is right: the station is named for Parque de Polvoranca/Parque Forestal Polvoranca in Leganés. However, calling it a regional park is imprecise, and the detailed Laurianus-Loranque-Polboranca-Belluti etymology is much more speculative than the previous wording suggests.

@@ -74,8 +74,8 @@
   ],
   "open_questions": [
     {
-      "en": "A Metro de Madrid or CRTM internal resolution, signage order, or BOCM notice should be checked to decide whether the canonical dataset date should be 18 December 1997 or 1998.",
-      "es": "Conviene revisar una resolución interna de Metro de Madrid o del CRTM, una orden de señalización o un aviso del BOCM para decidir si la fecha canónica del conjunto de datos debe ser el 18 de diciembre de 1997 o 1998."
+      "en": "A Metro de Madrid or CRTM internal resolution, signage order, or BOCM notice should be checked to decide whether the canonical record date should be 18 December 1997 or 1998.",
+      "es": "Conviene revisar una resolución interna de Metro de Madrid o del CRTM, una orden de señalización o un aviso del BOCM para decidir si la fecha canónica de la explicación debe ser el 18 de diciembre de 1997 o 1998."
     }
   ],
   "missing_bilingual_markdown_fields": [],

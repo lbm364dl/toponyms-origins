@@ -74,8 +74,8 @@
   ],
   "corrections": [
     {
-      "en": "The input’s 'person_nationality' value of '1989' is a data-field error; this is not a person-name station.",
-      "es": "El valor '1989' en el campo 'person_nationality' de la entrada es un error de datos; no se trata de una estación nombrada por una persona."
+      "en": "The previous wording’s 'person_nationality' value of '1989' is a data error; this is not a person-name station.",
+      "es": "El valor '1989' en el valor 'person_nationality' de partida es un error de datos; no se trata de una estación nombrada por una persona."
     },
     {
       "en": "The official hospital history gives the original hospital building as 18 floors above ground and three below, not 15 floors.",

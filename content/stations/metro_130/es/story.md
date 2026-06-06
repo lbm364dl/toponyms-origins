@@ -1,4 +1,4 @@
-El nombre de la estación **Suanzes** remite a Juan Antonio Suanzes Fernández (1891-1977), ingeniero naval, militar y político estrechamente vinculado a la política industrial de la España de Francisco Franco. En el uso público del entorno, el nombre aparece asociado con el título de **marqués de Suanzes**, que le fue concedido en 1960.
+El nombre de la estación **Suanzes** remite a Juan Antonio Suanzes Fernández (1891-1977), ingeniero naval, militar y político estrechamente vinculado a la política industrial de la España de Francisco Franco. En la explicación pública del entorno, el nombre aparece asociado con el título de **marqués de Suanzes**, que le fue concedido en 1960.
 
 Suanzes nació en Ferrol, ciudad gallega de fuerte tradición naval, y se formó en el ámbito de la Armada. Su trayectoria pasó de la ingeniería naval a la industria y la política: dirigió intereses de construcción naval, se incorporó al bando de Franco durante la Guerra Civil y fue ministro de Industria y Comercio en el primer gobierno franquista de 1938. Volvió a ocupar esa cartera entre 1945 y 1951.
 

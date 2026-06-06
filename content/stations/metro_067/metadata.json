@@ -72,7 +72,7 @@
       "es": "Matizar la redacción sobre 1580: el decreto oficial dice que se cree que la primera casa fue edificada hacia esa fecha, dato conocido por el testamento del primer conde de Villamor, no que todos los detalles estén plenamente probados."
     },
     {
-      "en": "Describe the 1986 transfer carefully: official sources refer to an agreement with Madrid City Council and usufruct until Tatiana Pérez de Guzmán el Bueno’s death in 2012; some public-facing sources call it a donation, but the legal mechanism should be reviewed before using only that word.",
+      "en": "Describe the 1986 transfer carefully: official sources refer to an agreement with Madrid City Council and usufruct until Tatiana Pérez de Guzmán el Bueno’s death in 2012; some public sources call it a donation, but the legal mechanism should be reviewed before using only that word.",
       "es": "Describir con cuidado la transmisión de 1986: las fuentes oficiales hablan de un convenio con el Ayuntamiento de Madrid y usufructo hasta la muerte de Tatiana Pérez de Guzmán el Bueno en 2012; algunas fuentes divulgativas lo llaman donación, pero conviene revisar el mecanismo jurídico antes de usar solo esa palabra."
     }
   ],
@@ -82,8 +82,8 @@
       "es": "No se encontró una resolución específica de denominación de Metro de Madrid o de la autoridad de transporte; el nombre se infiere por la Quinta/parque colindante y por los registros de apertura que ya usan esa denominación."
     },
     {
-      "en": "The exact legal wording of the 1986 agreement should be checked in the original municipal file if the dataset needs to distinguish donation, exchange agreement, transfer and usufruct precisely.",
-      "es": "La redacción jurídica exacta del convenio de 1986 debería comprobarse en el expediente municipal original si la base de datos necesita distinguir con precisión donación, permuta, transmisión y usufructo."
+      "en": "The exact legal wording of the 1986 agreement should be checked in the original municipal file if the record needs to distinguish donation, exchange agreement, transfer and usufruct precisely.",
+      "es": "La redacción jurídica exacta del convenio de 1986 debería comprobarse en el expediente municipal original si la ficha necesita distinguir con precisión donación, permuta, transmisión y usufructo."
     }
   ],
   "missing_bilingual_markdown_fields": [],

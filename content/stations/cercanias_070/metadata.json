@@ -64,12 +64,12 @@
       "es": "Tratar la etimología municipal de Galapagar a partir de galápago solo como contexto; no explica el nombre de la estación San Yago."
     },
     {
-      "en": "Update the current service note: CRTM currently lists San Yago on Cercanias line C-3a, although the input row gives C-8.",
-      "es": "Actualizar la nota de servicio actual: el CRTM sitúa hoy San Yago en la línea C-3a de Cercanías, aunque la fila de entrada indica C-8."
+      "en": "Update the current service note: CRTM currently lists San Yago on Cercanias line C-3a, although the previous wording gives C-8.",
+      "es": "Actualizar la nota de servicio actual: el CRTM sitúa hoy San Yago en la línea C-3a de Cercanías, aunque la redacción de partida indica C-8."
     },
     {
       "en": "Correct the Spanish named-after text to use 'Santiago Apóstol' or 'Santiago el Mayor' instead of the English phrase 'Saint James'.",
-      "es": "Corregir el texto español de 'named_after' para usar 'Santiago Apóstol' o 'Santiago el Mayor' en lugar de la frase inglesa 'Saint James'."
+      "es": "Corregir el texto español de 'referente' para usar 'Santiago Apóstol' o 'Santiago el Mayor' en lugar de la frase inglesa 'Saint James'."
     },
     {
       "en": "Lower confidence from verified to probable unless a primary naming source for the halt is found.",

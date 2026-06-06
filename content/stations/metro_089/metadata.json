@@ -78,8 +78,8 @@
   ],
   "open_questions": [
     {
-      "en": "The public-service date for Line 2 sometimes appears as 16 June 1924 in Comunidad de Madrid material, while Metro de Madrid's station sheet gives 14 June 1924; a human editor may want to distinguish official inauguration from passenger opening if dataset policy requires one date.",
-      "es": "La fecha de servicio de la línea 2 aparece a veces como 16 de junio de 1924 en material de la Comunidad de Madrid, mientras que la ficha de Metro de Madrid da el 14 de junio de 1924; un editor humano puede querer distinguir inauguración oficial y apertura al público si la política del conjunto de datos exige una sola fecha."
+      "en": "The public-service date for Line 2 sometimes appears as 16 June 1924 in Comunidad de Madrid material, while Metro de Madrid's station sheet gives 14 June 1924; a human editor may want to distinguish official inauguration from passenger opening if record policy requires one date.",
+      "es": "La fecha de servicio de la línea 2 aparece a veces como 16 de junio de 1924 en material de la Comunidad de Madrid, mientras que la ficha de Metro de Madrid da el 14 de junio de 1924; un editor humano puede querer distinguir inauguración oficial y apertura al público si la política editorial exige una sola fecha."
     },
     {
       "en": "The exact administrative act that fixed the station's public name as Banco/Banco de España was not found; the strongest available evidence is Metro de Madrid's historical sheet showing the construction-name change.",

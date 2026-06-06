@@ -60,8 +60,8 @@
   ],
   "corrections": [
     {
-      "en": "Use the full commemorated name as Julián Besteiro Fernández, not only Julián Besteiro, in the structured named-after field where possible.",
-      "es": "Usar el nombre completo conmemorado, Julián Besteiro Fernández, y no solo Julián Besteiro, en el campo estructurado de persona cuando sea posible."
+      "en": "Use the full commemorated name as Julián Besteiro Fernández, not only Julián Besteiro, in the structured namesake value where possible.",
+      "es": "Usar el nombre completo conmemorado, Julián Besteiro Fernández, y no solo Julián Besteiro, en el valor estructurado de persona cuando sea posible."
     },
     {
       "en": "For the presidency of the Cortes, the Congress page gives exact dates: interim 14-26 July 1931 and definitive 27 July 1931-9 October 1933.",

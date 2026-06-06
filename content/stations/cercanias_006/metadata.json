@@ -61,7 +61,7 @@
       "title": "Comunidad de Madrid - Yacimiento arqueológico de la Fuente de la Mora",
       "url": "https://www.comunidad.madrid/en/patrimonio-cultural/yacimiento-arqueologico-fuente-mora",
       "type": "official",
-      "relevance_en": "Shows that the archaeological Fuente de la Mora site cited in the input is the Cerro de Fuente de la Mora in Leganés, not the Hortaleza station area.",
+      "relevance_en": "Shows that the archaeological Fuente de la Mora site cited in the previous wording is the Cerro de Fuente de la Mora in Leganés, not the Hortaleza station area.",
       "relevance_es": "Muestra que el yacimiento arqueológico Fuente de la Mora citado en la entrada es el Cerro de Fuente de la Mora de Leganés, no el entorno de la estación de Hortaleza."
     }
   ],
@@ -75,8 +75,8 @@
       "es": "El yacimiento de la Edad del Hierro citado como Fuente de la Mora está en Leganés, no cerca de la estación de Hortaleza, por lo que debe eliminarse de la explicación de esta estación o marcarse claramente como no relacionado."
     },
     {
-      "en": "Official current transport pages consulted list Fuente de la Mora as an interchange with ML1 and Cercanías C-1/C-10; the dataset line field may need review if it intends to capture all current services.",
-      "es": "Las páginas oficiales de transporte consultadas incluyen Fuente de la Mora como intercambiador con ML1 y Cercanías C-1/C-10; el campo de línea del dataset debería revisarse si pretende recoger todos los servicios actuales."
+      "en": "Official current transport pages consulted list Fuente de la Mora as an interchange with ML1 and Cercanías C-1/C-10; the line value may need review if it is meant to capture all current services.",
+      "es": "Las páginas oficiales de transporte consultadas incluyen Fuente de la Mora como intercambiador con ML1 y Cercanías C-1/C-10; el valor de línea de la ficha debería revisarse si pretende recoger todos los servicios actuales."
     }
   ],
   "open_questions": [

@@ -78,8 +78,8 @@
       "es": "Sustituir «vasco: llanura con pasto entre montañas» por «voz prerromana, comparable con el vasco naba, que significa tierra llana, sin árboles y a veces pantanosa, generalmente entre montañas»."
     },
     {
-      "en": "The Spanish named_after field contains untranslated English and should be changed to 'Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)'.",
-      "es": "El campo named_after_es contiene inglés sin traducir y debería cambiarse a «Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)»."
+      "en": "The Spanish namesake value contains untranslated English and should be changed to 'Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)'.",
+      "es": "El valor named_after_es contiene inglés sin traducir y debería cambiarse a «Galapagar (lugar abundante en galápagos) + La Navata (pequeña nava o llano local)»."
     },
     {
       "en": "Treat the La Navata diminutive explanation as probable rather than fully verified unless a specific local toponymy source is consulted.",

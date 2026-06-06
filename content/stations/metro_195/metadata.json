@@ -79,8 +79,8 @@
       "es": "La comparación con la Rambla de Barcelona no es necesaria para esta estación y debería retirarse del resumen específico, salvo como contexto general opcional."
     },
     {
-      "en": "The Spanish named_after value currently includes the English phrase 'sandy riverbed'; translate it fully if retained.",
-      "es": "El valor español de named_after contiene actualmente la frase inglesa 'sandy riverbed'; debe traducirse por completo si se conserva."
+      "en": "The Spanish namesake value currently includes the English phrase 'sandy riverbed'; translate it fully if retained.",
+      "es": "El valor español de referente contiene actualmente la frase inglesa 'sandy riverbed'; debe traducirse por completo si se conserva."
     }
   ],
   "open_questions": [

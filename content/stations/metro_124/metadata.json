@@ -75,14 +75,14 @@
       "title": "Ayuntamiento de Madrid Transparencia: Convenio APE Callejón de los Morales Sur",
       "url": "https://transparencia.madrid.es/UnidadesDescentralizadas/UrbanismoyVivienda/Urbanismo/ConveniosUrbanisticos/Ficheros/2017/CONVENIO%20APE%20CALLEJON%20DE%20LOS%20MORALES%20SUR.pdf",
       "type": "official",
-      "relevance_en": "source metadata reports a property description as Plaza Calvo Sotelo, now Plaza del Duque de Pastrana nos. 6-7; useful lead for a former place-name, but the PDF needs direct review.",
+      "relevance_en": "The accessible source notes describe the property as Plaza Calvo Sotelo, now Plaza del Duque de Pastrana nos. 6-7; useful lead for a former place-name, but the PDF needs direct review.",
       "relevance_es": "El resumen de fuente recoge una descripción de finca como Plaza Calvo Sotelo, hoy plaza del Duque de Pastrana números 6 y 7; es una pista útil sobre un nombre anterior del lugar, pero el PDF requiere revisión directa."
     }
   ],
   "corrections": [
     {
       "en": "Change the recommended direct named-after value from Ruy Gómez de Silva alone to Plaza del Duque de Pastrana / the Dukes of Pastrana, with Ruy as title-origin background.",
-      "es": "Cambiar el valor directo recomendado de named_after de Ruy Gómez de Silva solo a plaza del Duque de Pastrana / duques de Pastrana, dejando a Ruy como antecedente del título."
+      "es": "Cambiar el valor directo recomendado de referente de Ruy Gómez de Silva solo a plaza del Duque de Pastrana / duques de Pastrana, dejando a Ruy como antecedente del título."
     },
     {
       "en": "Keep the 1572 creation of the duchy, but avoid implying that the station itself was intentionally named to honor the first duke personally.",

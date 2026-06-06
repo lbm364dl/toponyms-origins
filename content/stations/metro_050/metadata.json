@@ -61,7 +61,7 @@
   "corrections": [
     {
       "en": "Downgrade the confidence from verified to probable unless a direct primary toponymic source is added.",
-      "es": "Rebajar la confianza de verificada a probable salvo que se añada una fuente toponímica primaria directa."
+      "es": "Bajar la confianza de verificada a probable salvo que se añada una fuente toponímica primaria directa."
     },
     {
       "en": "Do not present abundant sorrel growth in the exact station area as proven; present it as a plausible inference from the toponym.",

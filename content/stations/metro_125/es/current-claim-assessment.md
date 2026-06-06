@@ -1,1 +1,1 @@
-La afirmación principal queda verificada: el nombre de la estación alude a Ángel Herrera Oria. Conviene ajustar algunos detalles biográficos de la fila, sobre todo el orden de nacimiento entre sus hermanos y la formulación sobre la adquisición de El Debate.
+La afirmación principal queda verificada: el nombre de la estación alude a Ángel Herrera Oria. Conviene ajustar algunos detalles biográficos de la redacción, sobre todo el orden de nacimiento entre sus hermanos y la formulación sobre la adquisición de El Debate.

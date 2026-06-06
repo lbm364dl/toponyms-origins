@@ -1,4 +1,4 @@
-Peñagrande station is named after the Peñagrande neighbourhood in Fuencarral-El Pardo, not after a person. The name is a compact descriptive toponym: in Spanish, *peña* is a large natural stone or a rocky hill, and *grande* means large. For public display, the safest reading is therefore “large natural rock” or “large rocky hill.”
+Peñagrande station is named after the Peñagrande neighbourhood in Fuencarral-El Pardo, not after a person. The name is a compact descriptive toponym: in Spanish, *peña* is a large natural stone or a rocky hill, and *grande* means large. For public wording, the safest reading is therefore “large natural rock” or “large rocky hill.”
 
 The place name belongs to a north-western landscape that was still semi-rural before the twentieth-century expansion of Madrid. Local historical accounts describe late nineteenth-century lomas, dry-farmed fields, tracks, farmhouses and streams around what is now Peñagrande. One older map discussion places the Casa de Beacos where Peñagrande is today, showing that the modern neighbourhood name was not always the dominant label on maps.
 

@@ -82,8 +82,8 @@
       "es": "Sustituir la afirmación amplia sobre las primeras medidas contra epidemias de cólera y peste en Madrid por una formulación más respaldada: fue higienista de salud pública; su actuación durante la epidemia de cólera de 1834 en Brihuega le valió la Cruz de Epidemias; después trabajó en administración sanitaria y vacunación."
     },
     {
-      "en": "Renfe's current station page lists C1, C5 and C10 connections, while the input line field lists only C-5 and C-10 for Cercanías.",
-      "es": "La página actual de Renfe incluye conexiones C1, C5 y C10, mientras que el campo de línea de entrada solo recoge C-5 y C-10 para Cercanías."
+      "en": "Renfe's current station page lists C1, C5 and C10 connections, while the previous wording line value lists only C-5 and C-10 for Cercanías.",
+      "es": "La página actual de Renfe incluye conexiones C1, C5 y C10, mientras que el valor de línea de partida solo recoge C-5 y C-10 para Cercanías."
     }
   ],
   "open_questions": [

@@ -92,8 +92,8 @@
       "es": "Consultar el texto completo de José Antonio Ranz Yubero, 'Los nombres Arriaca, Alcarria y Guadalajara: su contexto, significado y otras particularidades', Wad-al-Hayara 18 (1991), pp. 475-480, y su Diccionario de toponimia de Guadalajara para obtener la formulación académica más sólida."
     },
     {
-      "en": "Find a primary railway document for the original 1859 station naming if the dataset needs a naming_date field; current official station pages confirm the present name but not the act or date of assignment.",
-      "es": "Localizar un documento ferroviario primario sobre la denominación original de la estación de 1859 si el conjunto de datos necesita el campo naming_date; las páginas oficiales actuales confirman el nombre vigente, pero no el acto ni la fecha de asignación."
+      "en": "Find a primary railway document for the original 1859 station naming if the naming_date value needs support; current official station pages confirm the present name but not the act or date of assignment.",
+      "es": "Localizar un documento ferroviario primario sobre la denominación original de la estación de 1859 si la explicación de la estación necesita el valor naming_date; las páginas oficiales actuales confirman el nombre vigente, pero no el acto ni la fecha de asignación."
     },
     {
       "en": "Clarify in specialist literature whether Arriaca is securely identified with the present city site or should be treated as a traditional but partly uncertain association.",

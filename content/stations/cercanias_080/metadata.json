@@ -67,8 +67,8 @@
   ],
   "corrections": [
     {
-      "en": "Use Puerto de Cotos / Puerto de los Cotos as the direct named_after value; the Carlos III boundary markers are the underlying origin of the pass name.",
-      "es": "Usar Puerto de Cotos / Puerto de los Cotos como valor directo de named_after; los mojones vinculados a Carlos III son el origen subyacente del nombre del puerto."
+      "en": "Use Puerto de Cotos / Puerto de los Cotos as the direct namesake value; the Carlos III boundary markers are the underlying origin of the pass name.",
+      "es": "Usar Puerto de Cotos / Puerto de los Cotos como valor directo de referente; los mojones vinculados a Carlos III son el origen subyacente del nombre del puerto."
     },
     {
       "en": "Avoid implying that the station name itself was assigned in 1761; that date belongs to the royal purchase and demarcation context, while the railway station opened with the 1964 extension.",

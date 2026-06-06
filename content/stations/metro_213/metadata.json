@@ -75,7 +75,7 @@
       "es": "Usar cifras de Volkswagen fechadas: Volkswagen Newsroom en 2025 indica unos 15.000 empleados para la planta de Kassel, mientras Volkswagen Careers habla de unos 16.500; ambas respaldan el contexto industrial, pero no una cifra fija atemporal."
     },
     {
-      "en": "The claim that it is one of the very few Madrid Metro stations named after a foreign city is plausible but dataset-wide rather than station-specific; it should be treated as contextual unless separately audited.",
+      "en": "The claim that it is one of the very few Madrid Metro stations named after a foreign city is plausible but record-wide rather than station-specific; it should be treated as contextual unless separately audited.",
       "es": "La afirmación de que es una de las poquísimas estaciones del Metro de Madrid con nombre de ciudad extranjera es plausible, pero depende de una revisión de toda la red; debe tratarse como contexto salvo que se audite por separado."
     }
   ],

@@ -67,8 +67,8 @@
   ],
   "corrections": [
     {
-      "en": "Downgrade confidence from verified to probable for the specific inn-origin claim; the station name is verified, but the origin of the neighborhood name is not documented by an official toponymic source.",
-      "es": "Rebajar la confianza de verificada a probable para el origen concreto en una venta; el nombre de la estación está verificado, pero el origen del topónimo del barrio no queda documentado por una fuente toponímica oficial."
+      "en": "Lower confidence from verified to probable for the specific inn-origin claim; the station name is verified, but the origin of the neighborhood name is not documented by an official toponymic source.",
+      "es": "Bajar la confianza de verificada a probable para el origen concreto en una venta; el nombre de la estación está verificado, pero el origen del topónimo del barrio no queda documentado por una fuente toponímica oficial."
     },
     {
       "en": "Remove or qualify 'Sorolla (project name)' as a previous station name unless a direct Metro planning source is found; current evidence only shows nearby Sorolla-Avenida de Asturias as an EMT bus stop name.",

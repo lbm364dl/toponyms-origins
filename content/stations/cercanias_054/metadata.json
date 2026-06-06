@@ -57,7 +57,7 @@
       "es": "No debe afirmarse que Móstoles signifique de forma definitiva 'monasterios'; conviene presentarlo como una etimología plausible entre varias."
     },
     {
-      "en": "The input's Spanish named_after value should say 'monasterios', not the English word 'monasteries'.",
+      "en": "The previous wording's Spanish namesake value should say 'monasterios', not the English word 'monasteries'.",
       "es": "El valor español named_after_es debe decir 'monasterios', no la palabra inglesa 'monasteries'."
     },
     {

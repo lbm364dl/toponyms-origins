@@ -6,4 +6,4 @@ The deeper origin is best read as a place-name. Abrantes is a Portuguese town an
 
 There is also a noble Madrid connection to the word Abrantes. The Palacio de Abrantes on Calle Mayor took its name from the Dukes of Abrantes, who acquired the building in 1842 and reshaped it in the nineteenth century; it later became the Italian Cultural Institute. This is useful context, but it is not the same as proof that the Carabanchel avenue was named after the dukes.
 
-For public display, the safest wording is that the station is named for Avenida de Abrantes and the Abrantes neighbourhood, ultimately linked to the Portuguese place-name Abrantes. The older dataset's person-type classification is too strong unless a municipal street-naming file is found that explicitly says the avenue honoured the Dukes of Abrantes.
+For public wording, the safest wording is that the station is named for Avenida de Abrantes and the Abrantes neighbourhood, ultimately linked to the Portuguese place-name Abrantes. The older record's person-type classification is too strong unless a municipal street-naming file is found that explicitly says the avenue honoured the Dukes of Abrantes.

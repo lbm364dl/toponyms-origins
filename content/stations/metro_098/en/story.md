@@ -2,7 +2,7 @@ The Metro station **Conde de Casal** takes its name from the nearby Plaza del Co
 
 The count behind the name was **Manuel Escrivá de Romaní y de la Quintana** (Madrid, 1871-1954). The Real Academia de la Historia identifies him as the XII Count of Casal and I Marquis of Alginet, and describes him as a lawyer, academic, writer, politician, and senator. He represented Toledo in the Senate during several legislatures between 1914 and 1923.
 
-His public career crossed several regimes and institutions. Street-name research by the Instituto de Estudios Madrileños records him as a Madrid councillor in 1924 and as deputy mayor in the 1940s; the Senate archive documents his parliamentary file for Toledo from 1914 to 1923. This makes the older dataset's 'Restoration-era' framing partly true, but too narrow: his municipal and cultural prominence continued well beyond the Restoration period.
+His public career crossed several regimes and institutions. Street-name research by the Instituto de Estudios Madrileños records him as a Madrid councillor in 1924 and as deputy mayor in the 1940s; the Senate archive documents his parliamentary file for Toledo from 1914 to 1923. This makes the older record's 'Restoration-era' framing partly true, but too narrow: his municipal and cultural prominence continued well beyond the Restoration period.
 
 The name also carries an art-historical thread. Escrivá de Romaní was active in cultural academies and was closely associated with the study and collecting of ceramics. The Prado's encyclopedia highlights his role in the Real Patronato del Museo del Prado, his links with the Real Academia de Bellas Artes de San Fernando, and his publications on ceramics, including work on Alcora and Toledo ceramics.
 

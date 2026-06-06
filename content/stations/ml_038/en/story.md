@@ -2,7 +2,7 @@ Plaza de Toros is a straightforward descriptive name. On the Tranvia de Parla ma
 
 The Spanish expression plaza de toros means a bullring or bullfighting arena. Historically, the word plaza also reflects the older custom of holding bullfights in public squares before purpose-built arenas became common. In Parla, the name therefore combines a generic Spanish term with a specific local landmark.
 
-The most important correction to the existing claim is that Parla's present bullring should not be described simply as a portable seasonal ring. Municipal and technical documentation identifies a Plaza de Toros Municipal built in 2003. A 2018 technical report also says the facility had serious structural defects and refers to an alternative portable bullring used for the 2017 festivities, which helps explain why portable structures appear in later local references.
+The most important correction to the existing explanation is that Parla's present bullring should not be described simply as a portable seasonal ring. Municipal and technical documentation identifies a Plaza de Toros Municipal built in 2003. A 2018 technical report also says the facility had serious structural defects and refers to an alternative portable bullring used for the 2017 festivities, which helps explain why portable structures appear in later local references.
 
 The tram context is clear. The Tranvia de Parla began public service in 2007 as a circular light-rail line around the municipality, and Plaza de Toros appears as one of its named stops in current operator and transport-consortium information. Its function as a stop name is practical: it marks a recognizable point on the southern side of the tram loop.
 

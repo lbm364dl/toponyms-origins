@@ -61,10 +61,10 @@
   "corrections": [
     {
       "en": "Use 'Paseo del Arte / Paseo del Prado museum axis' rather than 'Barrio de las Artes' as the named-after value; the official sources identify the nearby Prado, Reina Sofía and Thyssen-Bornemisza museums.",
-      "es": "Usar 'Paseo del Arte / eje museístico del Paseo del Prado' en vez de 'Barrio de las Artes' como valor de named_after; las fuentes oficiales identifican los cercanos museos del Prado, Reina Sofía y Thyssen-Bornemisza."
+      "es": "Usar 'Paseo del Arte / eje museístico del Paseo del Prado' en vez de 'Barrio de las Artes' como valor de referente; las fuentes oficiales identifican los cercanos museos del Prado, Reina Sofía y Thyssen-Bornemisza."
     },
     {
-      "en": "The input fields appear swapped or corrupted: naming_date should be 1 December 2018, previous_names should be Atocha, and person_nationality should be empty rather than '2018'.",
+      "en": "The previous wording fields appear swapped or corrupted: naming_date should be 1 December 2018, previous_names should be Atocha, and person_nationality should be empty rather than '2018'.",
       "es": "Los campos de entrada parecen intercambiados o corruptos: naming_date debe ser 1 de diciembre de 2018, previous_names debe ser Atocha y person_nationality debe quedar vacío, no '2018'."
     },
     {
@@ -74,8 +74,8 @@
   ],
   "open_questions": [
     {
-      "en": "The station history sources give 1921 for opening, but official pages vary between the Line 1 extension date and the station public-opening date; a Metro archive timetable or inauguration notice could settle the exact day for dataset precision.",
-      "es": "Las fuentes históricas dan 1921 como año de apertura, pero las páginas oficiales varían entre la fecha de inauguración del tramo de la línea 1 y la de apertura pública de la estación; un horario o aviso de inauguración del archivo de Metro permitiría fijar el día exacto con precisión de base de datos."
+      "en": "The station history sources give 1921 for opening, but official pages vary between the Line 1 extension date and the station public-opening date; a Metro archive timetable or inauguration notice could settle the exact day for record precision.",
+      "es": "Las fuentes históricas dan 1921 como año de apertura, pero las páginas oficiales varían entre la fecha de inauguración del tramo de la línea 1 y la de apertura pública de la estación; un horario o aviso de inauguración del archivo de Metro permitiría fijar el día exacto con precisión de ficha."
     },
     {
       "en": "A formal internal Metro naming resolution, if preserved, would be the strongest possible administrative source for the name assignment, although the public Community of Madrid press note and BOCM texts are already sufficient for the etymology.",

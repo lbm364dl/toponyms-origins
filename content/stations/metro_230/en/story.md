@@ -1,4 +1,4 @@
-The station name is local and literal: **Parque Europa** refers to the nearby urban park in Fuenlabrada. The current CRTM station record places the Metro access on Calle de Francia, while regional MetroSur documentation locates the station under the axis of Calle Francia near its junction with Calle Holanda.
+The station name is local and literal: **Parque Europa** refers to the nearby urban park in Fuenlabrada. The current CRTM station page places the Metro access on Calle de Francia, while regional MetroSur documentation locates the station under the axis of Calle Francia near its junction with Calle Holanda.
 
 The park itself is usually called Parque Europa, although the form **Parque de Europa** also appears in Fuenlabrada municipal material and on transport mapping. That small variation is not a different origin; it is the same place name expressed with or without the preposition. The name points to Europe as a civic and urban theme rather than to a person, battle, saint or older rural toponym.
 

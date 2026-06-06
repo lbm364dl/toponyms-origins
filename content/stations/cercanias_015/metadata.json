@@ -75,8 +75,8 @@
       "es": "La prensa contemporánea describió la apertura Atocha-Villaverde Alto de 1989 como un tramo de 10 km con cuatro nuevas estaciones, no como un tramo de 9 km."
     },
     {
-      "en": "The input row appears to place the opening year '1989' in the person_nationality field; this is metadata noise and should not be treated as a person attribute.",
-      "es": "La fila de entrada parece colocar el año de apertura '1989' en el campo person_nationality; es ruido de metadatos y no debe tratarse como atributo de una persona."
+      "en": "The previous wording appears to place the opening year '1989' in the person_nationality value; this is data noise and should not be treated as a person attribute.",
+      "es": "La redacción de partida parece colocar el año de apertura '1989' en el valor person_nationality; es ruido de datos y no debe tratarse como atributo de una persona."
     }
   ],
   "open_questions": [

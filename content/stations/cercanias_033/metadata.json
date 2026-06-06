@@ -19,7 +19,7 @@
       "title": "Adif station page: 70002 Asamblea-Entrevías",
       "url": "https://www.adif.es/w/70002-asamblea-entrev%C3%ADas",
       "type": "official",
-      "relevance_en": "Confirms Adif’s current station record, name, and location on Avenida de Entrevías.",
+      "relevance_en": "Confirms Adif’s current station listing, name, and location on Avenida de Entrevías.",
       "relevance_es": "Confirma la ficha actual de Adif, el nombre de la estación y su ubicación en la avenida de Entrevías."
     },
     {
@@ -74,7 +74,7 @@
   ],
   "corrections": [
     {
-      "en": "The input metadata has fields shifted: person_nationality contains 1998 and naming_date contains Entrevias; these should not be treated as valid person or date data.",
+      "en": "The previous wording metadata has fields shifted: person_nationality contains 1998 and naming_date contains Entrevias; these should not be treated as valid person or date data.",
       "es": "Los metadatos de entrada tienen campos desplazados: person_nationality contiene 1998 y naming_date contiene Entrevias; no deben tratarse como datos válidos de persona ni de fecha."
     },
     {

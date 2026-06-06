@@ -33,7 +33,7 @@
       "title": "Acta del Pleno del Ayuntamiento de Parla, enero de 2019",
       "url": "https://sede.ayuntamientoparla.es/portal/sede/RecursosWeb/DOCUMENTOS/1/0_5906_1.pdf",
       "type": "official",
-      "relevance_en": "source metadata of the municipal act records the designation “Bulevar Miguel Ángel Blanco” for the boulevard between Travesía Severo Ochoa and the Police Station roundabout, identified as Bulevar Sur.",
+      "relevance_en": "The municipal act records the designation “Bulevar Miguel Ángel Blanco” for the boulevard between Travesía Severo Ochoa and the Police Station roundabout, identified as Bulevar Sur.",
       "relevance_es": "El texto del registro del acta municipal recoge la designación «Bulevar Miguel Ángel Blanco» para el bulevar situado entre la Travesía Severo Ochoa y la glorieta de la Comisaría de Policía, identificado como Bulevar Sur."
     },
     {
@@ -78,7 +78,7 @@
       "es": "La página oficial del CRTM aún muestra «Bulevar Sur», mientras que el aviso y los horarios de Tranvía de Parla incluyen «M.A. Blanco»; puede convenir registrar esta discrepancia entre operador y visualización regional."
     },
     {
-      "en": "The January 2019 official municipal PDF was visible through source metadata but returned a 502 error when directly opened; archive or re-check the act from Parla’s electronic office.",
+      "en": "The January 2019 official municipal PDF was visible through available source details but returned a 502 error when directly opened; archive or re-check the act from Parla’s electronic office.",
       "es": "El texto disponible del PDF municipal oficial de enero de 2019 identifica el acta; conviene archivar o volver a comprobar el documento en la sede electrónica de Parla."
     }
   ],

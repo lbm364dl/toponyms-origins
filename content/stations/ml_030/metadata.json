@@ -75,8 +75,8 @@
       "es": "Debe matizarse la afirmación de que el espino crecía silvestre en el lugar; es una inferencia plausible a partir del topónimo, no un hecho documentado en las fuentes localizadas."
     },
     {
-      "en": "The Spanish named_after field contains a language error: it should say \"prado del espino\" or \"prado del espino blanco\", not \"prado de the hawthorn\".",
-      "es": "El campo named_after_es contiene un error de idioma: debe decir \"prado del espino\" o \"prado del espino blanco\", no \"prado de the hawthorn\"."
+      "en": "The Spanish namesake value contains a language error: it should say \"prado del espino\" or \"prado del espino blanco\", not \"prado de the hawthorn\".",
+      "es": "El valor named_after_es contiene un error de idioma: debe decir \"prado del espino\" o \"prado del espino blanco\", no \"prado de the hawthorn\"."
     },
     {
       "en": "For the word history, RAE gives espino as derived from espina; a Latin form should be expressed cautiously as ultimately related to Latin spina, not simply \"spinus\" without support.",

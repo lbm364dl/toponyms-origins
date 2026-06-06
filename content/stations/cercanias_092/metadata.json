@@ -95,8 +95,8 @@
   ],
   "corrections": [
     {
-      "en": "Downgrade the row confidence from verified to probable for the deeper etymology: the neighbourhood naming is verified, but the slash-and-burn origin is inferred.",
-      "es": "Conviene rebajar la confianza de la etimología profunda de verificada a probable: el nombre por el barrio está verificado, pero el origen por roza y quema es inferido."
+      "en": "Downgrade the previous wording confidence from verified to probable for the deeper etymology: the neighbourhood naming is verified, but the slash-and-burn origin is inferred.",
+      "es": "Conviene bajar la confianza de la etimología profunda de verificada a probable: el nombre por el barrio está verificado, pero el origen por roza y quema es inferido."
     },
     {
       "en": "Replace 'from Latin cremare' with 'from Latin cremāre' and clarify that this applies to quemar, not directly to the whole place-name.",
@@ -107,7 +107,7 @@
       "es": "Eliminar o documentar aparte la afirmación de que al menos 32 localidades españolas tienen nombres derivados de zarza; la prueba más sólida localizada es que Toponomasticon Hispaniae incluye Zarzaquemada entre topónimos cognados de tipo zarza."
     },
     {
-      "en": "Fix the Spanish named_after value: 'zarza quemada patch' mixes Spanish and English; use 'zarzal quemado' or 'terreno de zarzas quemado'.",
+      "en": "Fix the Spanish namesake value: 'zarza quemada patch' mixes Spanish and English; use 'zarzal quemado' or 'terreno de zarzas quemado'.",
       "es": "Corregir el valor named_after_es: 'zarza quemada patch' mezcla español e inglés; es preferible 'zarzal quemado' o 'terreno de zarzas quemado'."
     }
   ],

@@ -61,8 +61,8 @@
       "title": "Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo",
       "url": "https://dialnet.unirioja.es/servlet/libro?codigo=42882",
       "type": "book",
-      "relevance_en": "Bibliographic record for the Madrid toponymy work cited in the input row. The bibliographic record was found, but the La Elipa entry could not be consulted online.",
-      "relevance_es": "Registro bibliográfico de la obra de toponimia madrileña citada en la fila de entrada. El registro bibliográfico fue localizado, pero no se pudo consultar en línea la entrada de La Elipa en las fuentes disponibles."
+      "relevance_en": "Bibliographic record for the Madrid toponymy work cited in the previous wording. The bibliographic record was found, but the La Elipa entry could not be consulted online.",
+      "relevance_es": "Registro bibliográfico de la obra de toponimia madrileña citada en la redacción de partida. El registro bibliográfico fue localizado, pero no se pudo consultar en línea la entrada de La Elipa en las fuentes disponibles."
     }
   ],
   "corrections": [
@@ -75,8 +75,8 @@
       "es": "La clasificación recomendada debe ser lugar para la fuente directa del nombre de la estación, con una etimología personal probable detrás del topónimo."
     },
     {
-      "en": "The current row’s confidence should be lowered from verified to probable unless Aparisi Laporta or another primary/archival source is consulted for the exact Phelipa de Vargas claim.",
-      "es": "La confianza de la fila debe rebajarse de verificada a probable salvo que se inspeccione Aparisi Laporta u otra fuente primaria o archivística para la afirmación concreta sobre Phelipa de Vargas."
+      "en": "The existing wording's confidence should be lowered from verified to probable unless Aparisi Laporta or another primary/archival source is consulted for the exact Phelipa de Vargas claim.",
+      "es": "La confianza de la redacción debe rebajarse de verificada a probable salvo que se inspeccione Aparisi Laporta u otra fuente primaria o archivística para la afirmación concreta sobre Phelipa de Vargas."
     }
   ],
   "open_questions": [

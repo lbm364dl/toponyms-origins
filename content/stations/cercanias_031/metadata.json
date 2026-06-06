@@ -102,8 +102,8 @@
   ],
   "corrections": [
     {
-      "en": "Change named_after from 'El Goloso (military base/area in Tres Cantos)' to 'El Goloso, a pre-existing Fuencarral-El Pardo locality/toponym later associated with the military base'; the station is in Madrid, not in Tres Cantos.",
-      "es": "Cambiar named_after de 'El Goloso (base militar/zona en Tres Cantos)' a 'El Goloso, topónimo/paraje previo de Fuencarral-El Pardo asociado después a la base militar'; la estación está en Madrid, no en Tres Cantos."
+      "en": "Change namesake from 'El Goloso (military base/area in Tres Cantos)' to 'El Goloso, a pre-existing Fuencarral-El Pardo locality/toponym later associated with the military base'; the station is in Madrid, not in Tres Cantos.",
+      "es": "Cambiar referente de 'El Goloso (base militar/zona en Tres Cantos)' a 'El Goloso, topónimo/paraje previo de Fuencarral-El Pardo asociado después a la base militar'; la estación está en Madrid, no en Tres Cantos."
     },
     {
       "en": "Treat the claim that the base was inaugurated in 1951 as unverified unless a primary or stronger secondary source is added.",

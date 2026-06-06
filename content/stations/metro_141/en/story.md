@@ -2,7 +2,7 @@ Estrella station takes its name from La Estrella, the Retiro neighbourhood besid
 
 The older name behind the station is therefore a neighbourhood name, not primarily a street name. The best-supported explanation found in accessible sources says that the area's plots once belonged to, or were initially developed by, Seguros La Estrella. That corporate name then became attached to the barrio and was echoed in a street pattern full of sky-related names.
 
-This matters because the current row's 'Calle Estrella' explanation does not match Madrid's official street list for this area. The official callejero records Calle de la Estrella Polar in Retiro, while Calle de la Estrella is a separate street in the Centro district. In La Estrella itself, the surrounding names form a clear celestial cluster: Sirio, Cruz del Sur, Lira, Perseo, Piscis, Pez Volador, Pez Austral and Plaza de los Astros.
+This matters because the existing wording's 'Calle Estrella' explanation does not match Madrid's official street list for this area. The official callejero records Calle de la Estrella Polar in Retiro, while Calle de la Estrella is a separate street in the Centro district. In La Estrella itself, the surrounding names form a clear celestial cluster: Sirio, Cruz del Sur, Lira, Perseo, Piscis, Pez Volador, Pez Austral and Plaza de los Astros.
 
 The station opened on 31 January 1980, when the first section of Line 9 brought the Metro from Sainz de Baranda to Pavones. Contemporary press described the new service as serving Moratalaz and La Estrella, with five stations on the initial section: Sainz de Baranda, La Estrella, Vinateros, Artilleros and Pavones. The station name therefore reflects the neighbourhood identity already in use by the time the line arrived.
 
