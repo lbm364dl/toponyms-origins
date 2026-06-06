@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Vallecas",
   "previous_names": "The railway name Vallecas was already used by the older Vallecas station; the current station retained the name after the 1999 relocation/rebuild for the Sierra de Guadalupe interchange.",
-  "naming_date": "1859 for the original railway station name; current relocated Cercanias station retained Vallecas in 1999.",
+  "naming_date": "1859 for the original railway station name; current relocated Cercanías station retained Vallecas in 1999; Ronda de Vallecas is recorded in Madrid’s official Callejero from 29 August 1859.",
   "sources": [
     {
       "title": "Vallecas - Consorcio Regional de Transportes de Madrid",
@@ -21,6 +21,13 @@
       "type": "archive",
       "relevance_en": "Digitized historical work on the 1202 Fuero de Madrid that mentions Balecas among early place references.",
       "relevance_es": "Obra histórica digitalizada sobre el Fuero de Madrid de 1202 que menciona Balecas entre las referencias tempranas de lugar."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Ronda de Vallecas, code 502300, FECHA_DE_ALTA 29/08/1859 and FECHA_DE_BAJA 17/09/1915; Calle de Vallecas, code 439800, 28/12/1944-30/01/1967; and Avenida de la Villa de Vallecas, code 2647, FECHA_DE_ALTA 28/02/1997.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Ronda de Vallecas, código 502300, FECHA_DE_ALTA 29/08/1859 y FECHA_DE_BAJA 17/09/1915; la Calle de Vallecas, código 439800, 28/12/1944-30/01/1967; y la Avenida de la Villa de Vallecas, código 2647, FECHA_DE_ALTA 28/02/1997."
     },
     {
       "title": "El nombre de Vallecas - Vallecas VA",

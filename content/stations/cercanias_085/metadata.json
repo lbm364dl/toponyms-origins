@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Valdebebas urban area, ultimately from the Arroyo de Valdebebas / historical Valdebeba toponym",
   "previous_names": "No former station name found. Historical place-name variants found: Valdebeba, Valdebebas de Cristóbal, Valdebeba de Orgar, Valdevebas.",
-  "naming_date": "2015-12-16 (station entered service; underlying toponym is older)",
+  "naming_date": "2015-12-16 (station entered service; underlying toponym is older, with Camino de Valdebebas recorded in the official Callejero from 1 January 1964).",
   "sources": [
     {
       "title": "CRTM: Valdebebas station page",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms the opening context: the new Cercanías station served the Valdebebas neighbourhood near Ciudad Deportiva del Real Madrid and was part of line C-1 at launch.",
       "relevance_es": "Confirma el contexto de apertura: la nueva estación de Cercanías servía al barrio de Valdebebas junto a la Ciudad Deportiva del Real Madrid y pertenecía a la línea C-1 en su puesta en marcha."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino de Valdebebas, code 76600, FECHA_DE_ALTA 01/01/1964 and FECHA_DE_BAJA 01/01/2007; Camino de Valdebebas o del Palo, code 1128, 01/01/1986-01/01/2012; Camino del Arroyo de Valdebebas, code 762400, FECHA_DE_ALTA 31/12/1985; and Calle del Arroyo de Valdebebas, code 31000128, FECHA_DE_ALTA 27/07/2000.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino de Valdebebas, código 76600, FECHA_DE_ALTA 01/01/1964 y FECHA_DE_BAJA 01/01/2007; el Camino de Valdebebas o del Palo, código 1128, 01/01/1986-01/01/2012; el Camino del Arroyo de Valdebebas, código 762400, FECHA_DE_ALTA 31/12/1985; y la Calle del Arroyo de Valdebebas, código 31000128, FECHA_DE_ALTA 27/07/2000."
     },
     {
       "title": "Comunidad de Madrid press release, 7 December 2015",
@@ -117,8 +124,8 @@
       "es": "Consultar una obra especializada de toponimia madrileña, especialmente Jaime Oliver Asín, 'Historia del nombre Madrid' o estudios relacionados citados por Toponomasticon Hispaniae, para comprobar si Valdebeba aparece explicado con más detalle."
     },
     {
-      "en": "Check cadastral, archival or old-map records for Valdebeba/Valdebebas de Cristóbal and Valdebeba de Orgar to determine whether the second element may be a personal name, a hydrological term or another local word.",
-      "es": "Revisar registros catastrales, archivísticos o cartografía antigua de Valdebeba/Valdebebas de Cristóbal y Valdebeba de Orgar para determinar si el segundo elemento puede ser un nombre personal, un término hidráulico u otra voz local."
+      "en": "Check cadastral, archival or old-map records for Valdebeba/Valdebebas de Cristóbal and Valdebeba de Orgar; the official Callejero proves a Camino de Valdebebas from 1964 but does not explain the second element.",
+      "es": "Conviene revisar registros catastrales, archivísticos o cartográficos de Valdebeba/Valdebebas de Cristóbal y Valdebeba de Orgar; el Callejero oficial prueba un Camino de Valdebebas desde 1964, pero no explica el segundo elemento."
     }
   ],
   "missing_bilingual_markdown_fields": [],

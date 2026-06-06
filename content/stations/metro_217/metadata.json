@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Carabanchel Alto, the historic upper Carabanchel settlement and former municipality, now a neighbourhood area in Madrid's district of Carabanchel",
   "previous_names": "Carabanchel de Arriba; Carabanchel de Suso; Carabanchel de Arryba (historical place-name variants, not former station names)",
-  "naming_date": "18 December 2006",
+  "naming_date": "18 December 2006; Carretera de Carabanchel Alto a Cuatro Vientos is recorded in the official Callejero from 1 January 1949 and Avenida de Carabanchel Alto from 27 September 1985.",
   "sources": [
     {
       "title": "CRTM - Carabanchel Alto station page",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms Carabanchel Alto's former municipal status, its archive dates, its place in the jurisdiction of Villa y Tierra de Madrid, and annexation by decree of 9 January 1948.",
       "relevance_es": "Confirma el antiguo carácter municipal de Carabanchel Alto, las fechas de su archivo, su pertenencia a la jurisdicción de la Villa y Tierra de Madrid y su anexión por decreto de 9 de enero de 1948."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Carretera de Carabanchel Alto a Cuatro Vientos, code 84000, FECHA_DE_ALTA 01/01/1949 and FECHA_DE_BAJA 01/01/1970, and Avenida de Carabanchel Alto, code 329600, FECHA_DE_ALTA 27/09/1985, current in Carabanchel.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Carretera de Carabanchel Alto a Cuatro Vientos, código 84000, FECHA_DE_ALTA 01/01/1949 y FECHA_DE_BAJA 01/01/1970, y la Avenida de Carabanchel Alto, código 329600, FECHA_DE_ALTA 27/09/1985, vigente en Carabanchel."
     },
     {
       "title": "BOE, 31 January 1948 - Decree approving annexation of Carabanchel Bajo and Carabanchel Alto to Madrid",

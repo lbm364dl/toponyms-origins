@@ -6,7 +6,7 @@
   "recommended_etymology_type": "historical",
   "recommended_named_after": "Spanish aviation, especially the former Aviation barracks of Campamento and the nearby Cuatro Vientos aeronautical district",
   "previous_names": "Planned/press name in 2005: Avenida de la Aviación Española; opened as Aviación Española",
-  "naming_date": "2006-12-22",
+  "naming_date": "2006-12-22; Avenida de la Aviación is recorded in the official Callejero from 1 January 1970.",
   "sources": [
     {
       "title": "Abre la estación Aviación Española, que dará servicio a Campamento",
@@ -21,6 +21,13 @@
       "type": "press",
       "relevance_en": "Documents the 22 December 2006 inauguration, Line 10 location between Colonia Jardín and Cuatro Vientos, investment, accessibility, and the official inauguration event.",
       "relevance_es": "Documenta la inauguración del 22 de diciembre de 2006, su ubicación en la línea 10 entre Colonia Jardín y Cuatro Vientos, la inversión, la accesibilidad y el acto oficial."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Avenida de la Aviación, code 84000, FECHA_DE_ALTA 01/01/1970, current in Latina, and Calle de la Aviación Española, code 84200, FECHA_DE_ALTA 08/07/1959.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Avenida de la Aviación, código 84000, FECHA_DE_ALTA 01/01/1970, vigente en Latina, y la Calle de la Aviación Española, código 84200, FECHA_DE_ALTA 08/07/1959."
     },
     {
       "title": "La línea 10 de metro contará en un año con la estación Avenida de la Aviación",
@@ -71,8 +78,8 @@
       "es": "Consultar el expediente oficial de inauguración o denominación de 2006 de la Comunidad de Madrid o Metro de Madrid, si está disponible en archivo, para confirmar la justificación administrativa exacta del nombre Aviación Española."
     },
     {
-      "en": "Check municipal street-naming records for Avenida de la Aviación to determine whether the station name followed the nearby avenue, the former barracks, or both in official wording.",
-      "es": "Revisar los registros municipales del nomenclátor de la avenida de la Aviación para determinar si, en la formulación oficial, la estación tomó el nombre de la avenida cercana, de los antiguos cuarteles o de ambos."
+      "en": "Check municipal street-naming records for Avenida de la Aviación and the 2006 station file to determine whether the station name officially followed the avenue, the former barracks, or both; the Callejero records Avenida de la Aviación from 1970.",
+      "es": "Conviene revisar expedientes municipales de la Avenida de la Aviación y el expediente de la estación de 2006 para determinar si el nombre siguió oficialmente a la avenida, a los antiguos cuarteles o a ambos; el Callejero registra la Avenida de la Aviación desde 1970."
     }
   ],
   "missing_bilingual_markdown_fields": [],

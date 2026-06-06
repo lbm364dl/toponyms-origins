@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Valdebernardo, a pre-existing place-name and later neighbourhood in Vicálvaro",
   "previous_names": "No former operating name found. Secondary sources say “Lucio de Mingo” was a proposed project name, but it was not found as an official former station name.",
-  "naming_date": "1998-12-01",
+  "naming_date": "1998-12-01; Calle de Valdebernardo is recorded in the official Callejero from 28 November 1969, before the 1989 PAU-4 planning name.",
   "sources": [
     {
       "title": "CRTM: Valdebernardo station",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Madrid municipal article summarising the neighbourhood’s origins, rural context, 1985 planning framework, Vicus Albus toponymy proposals, and the 1 December 1998 opening of the Line 9 stops.",
       "relevance_es": "Artículo municipal de Madrid que resume el origen del barrio, su contexto rural, el marco del Plan General de 1985, las propuestas toponímicas de Vicus Albus y la inauguración de las paradas de la línea 9 el 1 de diciembre de 1998."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Valdebernardo, code 762525, FECHA_DE_ALTA 28/11/1969, current in district 14, barrio 1.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Valdebernardo, código 762525, FECHA_DE_ALTA 28/11/1969, vigente en el distrito 14, barrio 1."
     },
     {
       "title": "BOE-A-1989-29226: aprobación definitiva del PAU-4 “Valdebernardo norte y sur”",
@@ -99,8 +106,8 @@
       "es": "Conviene revisar expedientes de Metro de Madrid o de la Comunidad de Madrid sobre la ampliación de la línea 9 para confirmar si “Lucio de Mingo” fue propuesto oficialmente y por qué se descartó."
     },
     {
-      "en": "Check cadastral, notarial, expropriation, or land-registry records for PAU-4 Valdebernardo to verify whether Bernardo Gómez was an actual former owner or ancestor linked to the land.",
-      "es": "Conviene comprobar documentación catastral, notarial, expropiatoria o registral del PAU-4 Valdebernardo para verificar si Bernardo Gómez fue realmente un antiguo propietario o antepasado vinculado a los terrenos."
+      "en": "Check cadastral, notarial, expropriation, or land-registry records for Valdebernardo to verify whether Bernardo Gómez was an actual former owner or ancestor linked to the land; the Callejero only confirms Calle de Valdebernardo from 1969.",
+      "es": "Conviene revisar registros catastrales, notariales, de expropiación o registrales de Valdebernardo para comprobar si Bernardo Gómez fue realmente propietario o antepasado vinculado a los terrenos; el Callejero solo confirma la Calle de Valdebernardo desde 1969."
     }
   ],
   "missing_bilingual_markdown_fields": [],

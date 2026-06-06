@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Villaverde Alto, Casco Histórico de Villaverde",
   "previous_names": "Barrio administrativo: San Andrés, renamed Villaverde Alto, Casco Histórico de Villaverde in 2017. Station former names: none found.",
-  "naming_date": "Place-name Villaverde Alto used from 1954 after Villaverde's integration into Madrid; Metro station opened 21 April 2007; administrative barrio renamed 31 October 2017.",
+  "naming_date": "Place-name Villaverde Alto used from 1954 after Villaverde’s integration into Madrid; Metro station opened 21 April 2007; administrative barrio renamed 31 October 2017; the official Callejero records Carretera de Villaverde Alto on 29 September 1954.",
   "sources": [
     {
       "title": "Plan Integral de Barrio de Villaverde Alto, Ayuntamiento de Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Officially records the change of the barrio name from San Andrés to Villaverde Alto, Casco Histórico de Villaverde.",
       "relevance_es": "Registra oficialmente el cambio de denominación del barrio de San Andrés a Villaverde Alto, Casco Histórico de Villaverde."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Carretera de Villaverde Alto, code 632200, with FECHA_DE_ALTA 29/09/1954 and FECHA_DE_BAJA 29/09/1954, and Calle de Villaverde Alto, code 789310, with FECHA_DE_ALTA 31/12/1985 and FECHA_DE_BAJA 01/01/1986.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Carretera de Villaverde Alto, código 632200, con FECHA_DE_ALTA 29/09/1954 y FECHA_DE_BAJA 29/09/1954, y la Calle de Villaverde Alto, código 789310, con FECHA_DE_ALTA 31/12/1985 y FECHA_DE_BAJA 01/01/1986."
     },
     {
       "title": "Archivo municipal de Villaverde, Ayuntamiento de Madrid",

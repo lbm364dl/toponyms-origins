@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Manoteras (area/neighbourhood in Hortaleza)",
   "previous_names": "No former station name found. Older place-name forms: Las Manoteras; Casas de Las Manoteras; Las Manoteras Altas; Las Manoteras Bajas; Barranco Manoteras is reported on a 1962 IGN map by local history sources.",
-  "naming_date": "11 April 2007",
+  "naming_date": "11 April 2007; Avenida de Manoteras is recorded in the official Callejero from 1 January 1971.",
   "sources": [
     {
       "title": "Consorcio Regional de Transportes de Madrid: Manoteras",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Municipal news item for the 11 April 2007 inauguration of the Metro extensions; search extract states that line 4 gained Manoteras, Hortaleza and Pinar de Chamartín.",
       "relevance_es": "Noticia municipal sobre la inauguración del 11 de abril de 2007 de las ampliaciones de Metro; el extracto localizado indica que la línea 4 incorporó Manoteras, Hortaleza y Pinar de Chamartín."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino de Manoteras, code 381450, FECHA_DE_ALTA 31/12/1968 and FECHA_DE_BAJA 01/01/1969; Calle de Manoteras, code 459500, 01/01/1970-01/01/1999; Avenida de Manoteras, code 459550, FECHA_DE_ALTA 01/01/1971; and Camino de Manoteras, code 459600, 01/01/1982-01/01/2008.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino de Manoteras, código 381450, FECHA_DE_ALTA 31/12/1968 y FECHA_DE_BAJA 01/01/1969; la Calle de Manoteras, código 459500, 01/01/1970-01/01/1999; la Avenida de Manoteras, código 459550, FECHA_DE_ALTA 01/01/1971; y el Camino de Manoteras, código 459600, 01/01/1982-01/01/2008."
     },
     {
       "title": "Ayuntamiento de Madrid: Estudio sociodemográfico de los barrios de Madrid - PIBA, Manoteras",

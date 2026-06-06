@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Fuente de la Mora, an old Hortaleza spring/toponym preserved in Camino de la Fuente de la Mora and Avenida de la Fuente de la Mora",
   "previous_names": "Planned in the Cercanías 2009-2015 context as Manoteras; no former operating name found.",
-  "naming_date": "2007 for the ML1 station name; 2011 for the Cercanías station opening under the same name.",
+  "naming_date": "2007 for the ML1 station name; 2011 for the Cercanías station opening; official Callejero rows record Camino de la Fuente de la Mora from 1 January 1986 and Avenida de la Fuente de la Mora from 30 September 1988.",
   "sources": [
     {
       "title": "CRTM - Fuente de la Mora, Cercanías Renfe station page",
@@ -23,11 +23,11 @@
       "relevance_es": "Confirma Fuente de la Mora como estación de ML1 e intercambiador con servicios de Cercanías en la estación homónima."
     },
     {
-      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
-      "relevance_en": "Records Avenida de la Fuente de la Mora and Camino de la Fuente de la Mora in Hortaleza, supporting the street/toponym source of the station name.",
-      "relevance_es": "Recoge la Avenida de la Fuente de la Mora y el Camino de la Fuente de la Mora en Hortaleza, lo que respalda el origen viario/toponímico del nombre de la estación."
+      "relevance_en": "The official historical-vials CSV records Camino de la Fuente de la Mora, code 315900, with FECHA_DE_ALTA 01/01/1986, and Avenida de la Fuente de la Mora, code 702, with FECHA_DE_ALTA 30/09/1988, both current in Hortaleza.",
+      "relevance_es": "El CSV oficial de evolución histórica de viales registra el Camino de la Fuente de la Mora, código 315900, con FECHA_DE_ALTA 01/01/1986, y la Avenida de la Fuente de la Mora, código 702, con FECHA_DE_ALTA 30/09/1988, ambos vigentes en Hortaleza."
     },
     {
       "title": "Caminos de Hortaleza - La Historia del Pueblo de Hortaleza",
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult municipal street-naming records or older cadastral/IGN maps to locate the actual Fuente de la Mora spring and determine when the street name was formally adopted.",
-      "es": "Conviene consultar expedientes municipales de denominación de vías o mapas catastrales/IGN antiguos para localizar la fuente física y determinar cuándo se oficializó el nombre viario."
+      "en": "Consult older cadastral/IGN maps and local archival records to locate the actual Fuente de la Mora spring; the official Callejero rows only show the municipal vial records from 1986 and 1988.",
+      "es": "Conviene consultar mapas catastrales/IGN antiguos y documentación archivística local para localizar la fuente física; las filas del Callejero oficial solo muestran los registros viarios municipales de 1986 y 1988."
     },
     {
       "en": "Check Jairo J. García Sánchez's Atlas toponímico de España and any Hortaleza-specific archival material before adopting the mor- 'stones' etymology for this particular place.",

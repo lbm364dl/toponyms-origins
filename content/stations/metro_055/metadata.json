@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Carabanchel district, from the former municipalities of Carabanchel Bajo and Carabanchel Alto",
   "previous_names": "",
-  "naming_date": "5 June 1968",
+  "naming_date": "5 June 1968; Madrid’s official Callejero records Carretera de Carabanchel from 29 August 1859, Calle de Carabanchel Bajo from 29 April 1948, and Plaza de Carabanchel from 14 July 1950.",
   "sources": [
     {
       "title": "Inauguración tramo Callao-Carabanchel de línea 5",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Official district page explaining that Carabanchel originated in Carabanchel de Abajo and Carabanchel de Arriba, later Bajo and Alto, and that they were annexed to Madrid in 1948.",
       "relevance_es": "Página oficial del distrito que explica que Carabanchel tuvo su origen en Carabanchel de Abajo y Carabanchel de Arriba, después Bajo y Alto, y que fueron anexionados a Madrid en 1948."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Carretera de Carabanchel, code 332700, FECHA_DE_ALTA 29/08/1859 and FECHA_DE_BAJA 06/04/1900; Calle de Carabanchel Bajo, code 138500, FECHA_DE_ALTA 29/04/1948; Plaza de Carabanchel, code 138200, FECHA_DE_ALTA 14/07/1950; and Avenida de Carabanchel Alto, code 329600, FECHA_DE_ALTA 27/09/1985.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Carretera de Carabanchel, código 332700, FECHA_DE_ALTA 29/08/1859 y FECHA_DE_BAJA 06/04/1900; la Calle de Carabanchel Bajo, código 138500, FECHA_DE_ALTA 29/04/1948; la Plaza de Carabanchel, código 138200, FECHA_DE_ALTA 14/07/1950; y la Avenida de Carabanchel Alto, código 329600, FECHA_DE_ALTA 27/09/1985."
     },
     {
       "title": "Zonas verdes y árboles singulares: Carabanchel",

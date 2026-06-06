@@ -23,6 +23,13 @@
       "relevance_es": "Da el origen latino de canilla desde cannella, diminutivo de canna, e incluye acepciones como espita, grifo u objeto relacionado con conducciones."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino de Canillas a Canillejas, code 631800, FECHA_DE_ALTA 31/12/1953 and FECHA_DE_BAJA 01/01/1954, with additional Camino de Canillas a Canillejas rows under codes 695200 and 133400; it also records Avenida de Canillejas a Vicálvaro, code 778910, FECHA_DE_ALTA 30/04/1999, and Plaza de la Villa de Canillejas, code 521400, FECHA_DE_ALTA 12/06/2013.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino de Canillas a Canillejas, código 631800, FECHA_DE_ALTA 31/12/1953 y FECHA_DE_BAJA 01/01/1954, con filas adicionales del Camino de Canillas a Canillejas bajo los códigos 695200 y 133400; también registra la Avenida de Canillejas a Vicálvaro, código 778910, FECHA_DE_ALTA 30/04/1999, y la Plaza de la Villa de Canillejas, código 521400, FECHA_DE_ALTA 12/06/2013."
+    },
+    {
       "title": "Decreto de 24 de junio de 1949 por el que se aprueba la anexión total del término municipal y Ayuntamiento de Canillejas al de Madrid - BOE",
       "url": "https://www.boe.es/gazeta/dias/1949/07/30/pdfs/BOE-1949-211.pdf",
       "type": "official",

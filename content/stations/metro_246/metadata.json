@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Villa de Vallecas, the historic town and present Madrid district",
   "previous_names": "No confirmed former station name. Community of Madrid construction documentation uses the project/station form 'Vallecas Villa', while the public station name is 'Villa de Vallecas'.",
-  "naming_date": "March 1999",
+  "naming_date": "March 1999; Avenida de la Villa de Vallecas is recorded in the official Callejero from 28 February 1997.",
   "sources": [
     {
       "title": "Comunidad de Madrid - Prolongación de la Línea 1 a Vallecas Villa. Tramo: Miguel Hernández-Congosto",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Municipal district page confirming the 1987 split into Puente de Vallecas and Villa de Vallecas and the annexation of Vallecas to Madrid by decree of 10 November 1950.",
       "relevance_es": "Página municipal del distrito que confirma la división de 1987 en Puente de Vallecas y Villa de Vallecas y la anexión de Vallecas a Madrid por decreto de 10 de noviembre de 1950."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Avenida de la Villa de Vallecas, code 2647, FECHA_DE_ALTA 28/02/1997, current in district 18, barrio 1, and Avenida de la Villa de Vallecas Mercamadrid, code 2172, FECHA_DE_ALTA 05/05/2014.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Avenida de la Villa de Vallecas, código 2647, FECHA_DE_ALTA 28/02/1997, vigente en el distrito 18, barrio 1, y la Avenida de la Villa de Vallecas Mercamadrid, código 2172, FECHA_DE_ALTA 05/05/2014."
     },
     {
       "title": "Ayuntamiento de Madrid - Archivo municipal de Vallecas",

@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Santa Eugenia neighbourhood / Ciudad Residencial Santa Eugenia; ultimate origin contested between Saint Eugenia in the official street-name record and a reported homage to Eugenia, mother of Pistas y Obras promoters",
   "previous_names": "",
-  "naming_date": "Station opened 1989; Ciudad Residencial Santa Eugenia created 1971; Avenida de Santa Eugenia recorded 1972",
+  "naming_date": "Station opened 1989; Ciudad Residencial Santa Eugenia created 1971; Avenida de Santa Eugenia recorded in the official Callejero from 28 June 1972.",
   "sources": [
     {
       "title": "Renfe - Estación de Santa Eugenia | Rodajes Cercanías Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Provides the station code 70109, official name SANTA EUGENIA, operator Renfe Viajeros, Madrid municipality and address on Avenida Santa Eugenia.",
       "relevance_es": "Aporta el código de estación 70109, el nombre oficial SANTA EUGENIA, el explotador Renfe Viajeros, el municipio de Madrid y la dirección en la avenida Santa Eugenia."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Santa Eugenia, code 694600, FECHA_DE_ALTA 28/06/1972 and FECHA_DE_BAJA 01/01/1986, and Avenida de Santa Eugenia, code 694650, FECHA_DE_ALTA 28/06/1972, current in Villa de Vallecas.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Santa Eugenia, código 694600, FECHA_DE_ALTA 28/06/1972 y FECHA_DE_BAJA 01/01/1986, y la Avenida de Santa Eugenia, código 694650, FECHA_DE_ALTA 28/06/1972, vigente en Villa de Vallecas."
     },
     {
       "title": "Ayuntamiento de Madrid - Planes Integrales de Barrio, Villa de Vallecas",

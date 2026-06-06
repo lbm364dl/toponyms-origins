@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Glorieta/Calle/Portillo de Embajadores, ultimately the traditional Campo de Embajadores",
   "previous_names": "No former station name found. Related place/street names reported: Paseo Real de Embajadores; calle de la Dehesa de la Villa; Paseo Blanco for a later stretch; Manuel Jáimez for one prolongation from 1931 to 1941.",
-  "naming_date": "1936",
+  "naming_date": "1936; Calle de Embajadores is recorded in the official Callejero from 11 January 1835 and Glorieta de Embajadores from 11 May 1917.",
   "sources": [
     {
       "title": "Metro de Madrid Museos: Embajadores, Huellas del pasado",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Official regional transport page stating that the first Line 3 section, Embajadores-Lavapiés-Sol, opened in August 1936 and explaining the southward expansion toward Lavapiés and Embajadores.",
       "relevance_es": "Página oficial regional de transporte que indica que el primer tramo de la línea 3, Embajadores-Lavapiés-Sol, se inauguró en agosto de 1936 y explica la expansión hacia Lavapiés y Embajadores."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Embajadores, code 262000, FECHA_DE_ALTA 11/01/1835; Portillo de Embajadores, code 262100, FECHA_DE_ALTA 01/01/1916 and FECHA_DE_BAJA 11/05/1917; Glorieta de Embajadores, code 262100, FECHA_DE_ALTA 11/05/1917; Callejón de Embajadores, code 31003258, 11/01/1835-03/09/1852; and older Barranco/Arroyo de Embajadores rows.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Embajadores, código 262000, FECHA_DE_ALTA 11/01/1835; el Portillo de Embajadores, código 262100, FECHA_DE_ALTA 01/01/1916 y FECHA_DE_BAJA 11/05/1917; la Glorieta de Embajadores, código 262100, FECHA_DE_ALTA 11/05/1917; el Callejón de Embajadores, código 31003258, 11/01/1835-03/09/1852; y filas antiguas de Barranco/Arroyo de Embajadores."
     },
     {
       "title": "Juana de José Prades, Teatro clásico en el Pavón, Anales del Instituto de Estudios Madrileños",

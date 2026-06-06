@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "El Goloso (pre-existing locality/toponym in the Fuencarral-El Pardo area, later associated with the military base)",
   "previous_names": "",
-  "naming_date": "1968 (station listed as El Goloso on the Madrid-Burgos line; exact naming act not found)",
+  "naming_date": "1968 (station listed as El Goloso on the Madrid-Burgos line; exact naming act not found); Calle de El Goloso is recorded in the official Callejero from 25 May 1956.",
   "sources": [
     {
       "title": "CRTM - Estacion El Goloso",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms Adif's current station page for El Goloso, with C-4/C-4b service and address at Carretera Colmenar Viejo, km 18.",
       "relevance_es": "Confirma la ficha actual de Adif para El Goloso, con servicio C-4/C-4b y dirección en carretera de Colmenar Viejo, km 18."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de El Goloso, code 339000, FECHA_DE_ALTA 25/05/1956; Camino de El Goloso, code 1138, FECHA_DE_ALTA 01/01/1986; and Camino de la Fuente de El Goloso, code 905656, FECHA_DE_ALTA 01/01/1982.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de El Goloso, código 339000, FECHA_DE_ALTA 25/05/1956; el Camino de El Goloso, código 1138, FECHA_DE_ALTA 01/01/1986; y el Camino de la Fuente de El Goloso, código 905656, FECHA_DE_ALTA 01/01/1982."
     },
     {
       "title": "Renfe Data - Ficha Estacion 17003 El Goloso",

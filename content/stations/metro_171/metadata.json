@@ -6,7 +6,7 @@
   "recommended_etymology_type": "descriptive",
   "recommended_named_after": "Peñagrande neighbourhood/toponym, literally 'large natural rock' or 'large rocky hill'",
   "previous_names": "No previous station name found. For the area: Casa de Beacos appears on an older map discussion; the colony began as Colonia El Porvenir-Fuente la Mina, with Peñagrande reportedly added in 1919.",
-  "naming_date": "29 March 1999 opening under the current station name; Peñagrande reportedly added to the colony name in 1919.",
+  "naming_date": "29 March 1999 opening under the current station name; Peñagrande reportedly added to the colony name in 1919; Camino de Peñagrande is recorded in the official Callejero from 1 January 1972.",
   "sources": [
     {
       "title": "CRTM - Peñagrande station",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms the 29 March 1999 opening of the Valdezarza-Pitis extension, lists Peñagrande among the six stations, and explains that the project gave Metro access to Peñagrande and nearby neighbourhoods.",
       "relevance_es": "Confirma la puesta en servicio de la prolongación Valdezarza-Pitis el 29 de marzo de 1999, incluye Peñagrande entre las seis estaciones y explica que el proyecto dio acceso al Metro a Peñagrande y barrios próximos."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino de Peñagrande, code 578500, FECHA_DE_ALTA 01/01/1972 and FECHA_DE_BAJA 08/02/2006, and Avenida de Peñagrande, code 578400, FECHA_DE_ALTA 01/01/1986 and FECHA_DE_BAJA 01/01/2009.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino de Peñagrande, código 578500, FECHA_DE_ALTA 01/01/1972 y FECHA_DE_BAJA 08/02/2006, y la Avenida de Peñagrande, código 578400, FECHA_DE_ALTA 01/01/1986 y FECHA_DE_BAJA 01/01/2009."
     },
     {
       "title": "RAE Diccionario de la lengua española - peña",
@@ -85,8 +92,8 @@
       "es": "Revisar planos catastrales antiguos, hojas del IGN, expedientes urbanísticos municipales o la noticia original de 1914 para comprobar si identifican una Peña Grande concreta."
     },
     {
-      "en": "Check whether the official Callejero de Madrid or district archives contain a formal file explaining the neighbourhood name.",
-      "es": "Comprobar si el Callejero Oficial de Madrid o los archivos del distrito conservan un expediente formal que explique el nombre del barrio."
+      "en": "Check district archives or street-naming files for a formal explanation of the neighbourhood name; the Callejero rows found so far only record Camino de Peñagrande from 1972 and Avenida de Peñagrande from 1986.",
+      "es": "Conviene revisar archivos de distrito o expedientes de rotulación para encontrar una explicación formal del nombre del barrio; las filas del Callejero localizadas hasta ahora solo registran el Camino de Peñagrande desde 1972 y la Avenida de Peñagrande desde 1986."
     }
   ],
   "missing_bilingual_markdown_fields": [],

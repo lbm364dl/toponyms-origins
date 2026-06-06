@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Hortaleza, Madrid district and former municipality",
   "previous_names": "",
-  "naming_date": "2007-04-11",
+  "naming_date": "2007-04-11; Calle de Hortaleza is recorded in the official Callejero from 11 January 1835 and Carretera de Hortaleza from 1 January 1874.",
   "sources": [
     {
       "title": "Hortaleza - Ayuntamiento de Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Primary legal source approving the total annexation of the municipal term of Hortaleza to Madrid.",
       "relevance_es": "Fuente legal primaria que aprueba la anexión total del término municipal de Hortaleza al de Madrid."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Hortaleza, code 365400, FECHA_DE_ALTA 11/01/1835; Carretera de Hortaleza, code 31001654, FECHA_DE_ALTA 01/01/1874 and FECHA_DE_BAJA 22/07/1949; Carretera a la Estación de Hortaleza, code 277700, FECHA_DE_ALTA 01/01/1975; Camino de Hortaleza, code 365500, 01/01/1977-01/01/1999; and Avenida de la Gran Vía de Hortaleza, code 728, FECHA_DE_ALTA 30/05/1989.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Hortaleza, código 365400, FECHA_DE_ALTA 11/01/1835; la Carretera de Hortaleza, código 31001654, FECHA_DE_ALTA 01/01/1874 y FECHA_DE_BAJA 22/07/1949; la Carretera a la Estación de Hortaleza, código 277700, FECHA_DE_ALTA 01/01/1975; el Camino de Hortaleza, código 365500, 01/01/1977-01/01/1999; y la Avenida de la Gran Vía de Hortaleza, código 728, FECHA_DE_ALTA 30/05/1989."
     },
     {
       "title": "Archivo de Villa - Archivo municipal de Hortaleza - Ayuntamiento de Madrid",

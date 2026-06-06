@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Chamberí district / Plaza de Chamberí, ultimately associated with Chambéry in Savoy",
   "previous_names": "No former station name found; closed 22 May 1966; reopened as museum in 2008",
-  "naming_date": "17 October 1919 (station opening); Chamberí place name documented by 1761",
+  "naming_date": "17 October 1919 (station opening); Chamberí place name documented by 1761; Plaza de Chamberí is recorded in the official Callejero from 1 January 1863.",
   "sources": [
     {
       "title": "La estación de Chamberí - Museos Metro Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Provides the strongest station-specific chronology: opening on 17 October 1919, location at Plaza de Chamberí, closure on 22 May 1966, platform-length problem, and 2008 museum reopening.",
       "relevance_es": "Aporta la cronología específica más sólida de la estación: inauguración el 17 de octubre de 1919, ubicación en la plaza de Chamberí, cierre el 22 de mayo de 1966, problema de alargamiento de andenes y reapertura museística en 2008."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Plaza de Chamberí, code 227900, FECHA_DE_ALTA 01/01/1863, current in district 7, barrio 4, and Plaza de los Chisperos de Chamberí, code 31004764, FECHA_DE_ALTA 22/02/2018.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Plaza de Chamberí, código 227900, FECHA_DE_ALTA 01/01/1863, vigente en el distrito 7, barrio 4, y la Plaza de los Chisperos de Chamberí, código 31004764, FECHA_DE_ALTA 22/02/2018."
     },
     {
       "title": "Plano de Chalmandrier de 1761 - Instituto Geográfico Nacional",

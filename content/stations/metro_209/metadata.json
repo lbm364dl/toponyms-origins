@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Fuencarral, the historic village and former municipality north of Madrid",
   "previous_names": "",
-  "naming_date": "1982 for the Metro station name; sources cite the former line 8 Fuencarral-Nuevos Ministerios inauguration/opening on 9 or 10 June 1982. Earlier naming date for the Cercanias station not established.",
+  "naming_date": "1982 for the Metro station name; sources cite the former line 8 Fuencarral-Nuevos Ministerios inauguration/opening on 9 or 10 June 1982. Earlier naming date for the Cercanías station not established; Calle de Fuencarral is recorded in the official Callejero from 11 January 1835.",
   "sources": [
     {
       "title": "Archivo municipal de Fuencarral - Archivo de Villa, Ayuntamiento de Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Primary legal source for the decree approving the total annexation of Fuencarral's municipal term and council to Madrid.",
       "relevance_es": "Fuente legal primaria del decreto que aprueba la anexion total del termino municipal y Ayuntamiento de Fuencarral al de Madrid."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Fuencarral, code 313100, FECHA_DE_ALTA 11/01/1835; Camino de Fuencarral, code 313200, FECHA_DE_ALTA 01/01/1958; Ronda de Fuencarral, code 31003660, 29/08/1859-21/07/1880; and several Fuencarral road rows, including Carretera de Fuencarral a Alcobendas from 01/01/1986.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Fuencarral, código 313100, FECHA_DE_ALTA 11/01/1835; el Camino de Fuencarral, código 313200, FECHA_DE_ALTA 01/01/1958; la Ronda de Fuencarral, código 31003660, 29/08/1859-21/07/1880; y varias carreteras de Fuencarral, incluida la Carretera de Fuencarral a Alcobendas desde 01/01/1986."
     },
     {
       "title": "La creacion del Gran Madrid. Anexion de municipios limitrofes",

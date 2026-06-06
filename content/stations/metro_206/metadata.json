@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Cuatro Vientos, the area and aerodrome named from the old paramo known as 'A los Cuatro Vientos'",
   "previous_names": "",
-  "naming_date": "1976 for the Cercanias halt; 2003-04-11 for the Metro Line 10 station",
+  "naming_date": "1976 for the Cercanías halt; 2003-04-11 for the Metro Line 10 station; Carretera de Carabanchel Alto a Cuatro Vientos is recorded in the official Callejero from 1 January 1949.",
   "sources": [
     {
       "title": "BOE-A-2022-219: Incoacion BIC Torre de Senales del Aerodromo de Cuatro Vientos",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms the 1911 military commission, the arrival of troops and aircraft, and the early development of the aerodrome.",
       "relevance_es": "Confirma la comisión militar de 1911, la llegada de tropas y aviones, y el desarrollo inicial del aeródromo."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Carretera de Carabanchel Alto a Cuatro Vientos, code 84000, FECHA_DE_ALTA 01/01/1949 and FECHA_DE_BAJA 01/01/1970, plus short 1970 successor rows including Calle de la Aviación de Cuatro Vientos and Avenida de los Cuatro Vientos; it also records Carretera de los Cuatro Vientos, code 149500, 31/12/1952-01/01/1953.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Carretera de Carabanchel Alto a Cuatro Vientos, código 84000, FECHA_DE_ALTA 01/01/1949 y FECHA_DE_BAJA 01/01/1970, además de filas sucesoras breves de 1970 como Calle de la Aviación de Cuatro Vientos y Avenida de los Cuatro Vientos; también registra la Carretera de los Cuatro Vientos, código 149500, 31/12/1952-01/01/1953."
     },
     {
       "title": "La Comunidad de Madrid rinde homenaje a la aviacion espanola en la estacion de Metro de Cuatro Vientos",

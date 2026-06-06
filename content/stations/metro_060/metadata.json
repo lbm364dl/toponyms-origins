@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Chamartín, Madrid district and former municipality of Chamartín de la Rosa",
   "previous_names": "The place was formerly Chamartín de la Rosa; the Metro station is not documented with a previous Metro name. The railway station is now Madrid-Chamartín-Clara Campoamor, renamed on 2020-12-23, but the Metro station remains Chamartín.",
-  "naming_date": "1982-06-10 for the first Metro platforms at Chamartín on the former Line 8, later Line 10; Line 1 platforms opened 2007-03-30. The place-name long predates the Metro station.",
+  "naming_date": "1982-06-10 for the first Metro platforms at Chamartín on the former Line 8, later Line 10; Line 1 platforms opened 2007-03-30. The place-name long predates the Metro station; Calle de Chamartín is recorded in the official Callejero from 29 August 1859.",
   "sources": [
     {
       "title": "Chamartín | Toponomasticon Hispaniae",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Official district page documenting the rural core of Chamartín de la Rosa, the district’s late urbanization, the railway station’s importance, and annexation by decree dated 14 November 1947.",
       "relevance_es": "Página oficial del distrito que documenta el casco rural de Chamartín de la Rosa, la urbanización tardía del distrito, la importancia de la estación ferroviaria y la anexión por decreto de 14 de noviembre de 1947."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Chamartín, code 293100, FECHA_DE_ALTA 29/08/1859 and FECHA_DE_BAJA 29/12/1893; Calle de Chamartín, code 31005663, 01/01/1902-16/03/1960; Camino Alto de Chamartín, code 644800, 01/03/1924-26/03/1924; Carretera de Chamartín, code 353200, 01/01/1935-20/02/1948; Plaza Mayor de Chamartín de la Rosa, code 253900, 28/02/1948-07/04/1965; and Camino de Chamartín de la Rosa, code 227800, 31/12/1985-01/01/1986.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Chamartín, código 293100, FECHA_DE_ALTA 29/08/1859 y FECHA_DE_BAJA 29/12/1893; la Calle de Chamartín, código 31005663, 01/01/1902-16/03/1960; el Camino Alto de Chamartín, código 644800, 01/03/1924-26/03/1924; la Carretera de Chamartín, código 353200, 01/01/1935-20/02/1948; la Plaza Mayor de Chamartín de la Rosa, código 253900, 28/02/1948-07/04/1965; y el Camino de Chamartín de la Rosa, código 227800, 31/12/1985-01/01/1986."
     },
     {
       "title": "Archivo municipal de Chamartín de la Rosa - Ayuntamiento de Madrid",

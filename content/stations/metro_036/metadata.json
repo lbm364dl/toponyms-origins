@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Moncloa, the historic Madrid estate/toponym and present district area",
   "previous_names": "Station: no former station name found. Place-name context: the Madrid estate was formerly known as Fuente el Sol before becoming associated with La Monclova/La Moncloa.",
-  "naming_date": "17-07-1963",
+  "naming_date": "17-07-1963; Plaza de la Moncloa is recorded in the official Callejero from 25 October 1895 and Avenida de la Moncloa from 1 January 1928.",
   "sources": [
     {
       "title": "La Moncloa Abierta. Visita al Complejo de La Moncloa",
@@ -21,6 +21,13 @@
       "type": "book",
       "relevance_en": "Historical study, republished by the Spanish government, saying the Madrid estate was formerly Fuente el Sol and that its Moncloa name derived from possession by the Count of La Monclova and his children until 1660.",
       "relevance_es": "Estudio histórico, reeditado por el Gobierno de España, que afirma que la finca madrileña se llamaba antes Fuente el Sol y que su nombre Moncloa se debía a haber pertenecido al conde de La Monclova y a sus hijos hasta 1660."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Plaza de la Moncloa, code 514005, FECHA_DE_ALTA 25/10/1895 and FECHA_DE_BAJA 20/11/1939, plus a current Plaza de la Moncloa row with FECHA_DE_ALTA 25/01/1980; it also records Avenida de la Moncloa, code 514000, FECHA_DE_ALTA 01/01/1928.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Plaza de la Moncloa, código 514005, FECHA_DE_ALTA 25/10/1895 y FECHA_DE_BAJA 20/11/1939, además de una fila vigente de Plaza de la Moncloa con FECHA_DE_ALTA 25/01/1980; también registra la Avenida de la Moncloa, código 514000, FECHA_DE_ALTA 01/01/1928."
     },
     {
       "title": "Palacio de la Moncloa | Turismo Madrid",

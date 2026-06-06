@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Pan Bendito neighbourhood/Colonia de Pan Bendito in Carabanchel",
   "previous_names": "",
-  "naming_date": "16 November 1998",
+  "naming_date": "16 November 1998; Calle del Pan Bendito is recorded in the official Callejero from 1 January 1971 to 15 May 1991.",
   "sources": [
     {
       "title": "CRTM - Pan Bendito station page",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Documents the Line 11 project, the three original stations and the construction of the Plaza Elíptica-Pan Bendito section.",
       "relevance_es": "Documenta el proyecto de la línea 11, las tres estaciones originales y la construcción del tramo Plaza Elíptica-Pan Bendito."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle del Pan Bendito, code 561000, FECHA_DE_ALTA 01/01/1971 and FECHA_DE_BAJA 15/05/1991.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle del Pan Bendito, código 561000, FECHA_DE_ALTA 01/01/1971 y FECHA_DE_BAJA 15/05/1991."
     },
     {
       "title": "Comunidad de Madrid - La Ampliación del Metro de Madrid",
@@ -95,8 +102,8 @@
   ],
   "open_questions": [
     {
-      "en": "A cadastral, parish, or pre-1950 map source should be consulted to determine when Pan Bendito first appears as a place-name.",
-      "es": "Conviene revisar una fuente catastral, parroquial o cartográfica anterior a 1950 para determinar cuándo aparece por primera vez Pan Bendito como topónimo."
+      "en": "A cadastral, parish, or pre-1950 map source should be consulted to determine when Pan Bendito first appears as a place-name; the Callejero only confirms Calle del Pan Bendito from 1971 to 1991.",
+      "es": "Conviene consultar fuentes catastrales, parroquiales o mapas anteriores a 1950 para determinar cuándo aparece Pan Bendito como topónimo; el Callejero solo confirma la Calle del Pan Bendito entre 1971 y 1991."
     },
     {
       "en": "No original municipal or transport naming resolution for the station name was located.",

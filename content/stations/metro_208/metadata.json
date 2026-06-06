@@ -6,7 +6,7 @@
   "recommended_etymology_type": "religious",
   "recommended_named_after": "Colonia/Poblado de Absorción Virgen de Begoña, ultimately Nuestra Señora de Begoña",
   "previous_names": "",
-  "naming_date": "",
+  "naming_date": "1982 (old Line 8 station opening; exact station naming act not found); Avenida de Nuestra Señora de Begoña is recorded in the official Callejero from 27 July 1955.",
   "sources": [
     {
       "title": "CRTM - Metro station: Begoña",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Documents the Poblado de Absorción Virgen de Begoña, designed in 1957-1959 and built in 1959-1967 as part of Madrid rehousing operations.",
       "relevance_es": "Documenta el Poblado de Absorción Virgen de Begoña, diseñado en 1957-1959 y construido en 1959-1967 dentro de las operaciones de realojo de Madrid."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Avenida de Nuestra Señora de Begoña, code 537600, FECHA_DE_ALTA 27/07/1955, after a one-day Calle de la Virgen de Begoña row; it also records Calle de Nuestra Señora de Begoña rows from 1959 and 1968, Calle de Begoña from 18/12/1926, and Puente de la Virgen de Begoña from 01/01/1982.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Avenida de Nuestra Señora de Begoña, código 537600, FECHA_DE_ALTA 27/07/1955, tras una fila de un día como Calle de la Virgen de Begoña; también registra filas de Calle de Nuestra Señora de Begoña desde 1959 y 1968, Calle de Begoña desde 18/12/1926 y Puente de la Virgen de Begoña desde 01/01/1982."
     },
     {
       "title": "Ayuntamiento de Madrid - Estudio sociodemográfico de los barrios PIBA 2019",

@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Valdecarros urban development and historical place-name in Villa de Vallecas",
   "previous_names": "",
-  "naming_date": "2007-05-16",
+  "naming_date": "2007-05-16; the official Callejero records Camino Viejo de Barajas a Valdecarros from 22 July 1949 and Camino de Valdecarros from 1 January 1986.",
   "sources": [
     {
       "title": "CRTM: Valdecarros station",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Municipal source documenting Valdecarros as a major urban development in Madrid, with its boundaries and scale.",
       "relevance_es": "Fuente municipal que documenta Valdecarros como gran desarrollo urbanístico de Madrid, con sus límites y escala."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino Viejo de Barajas a Valdecarros, code 906233, FECHA_DE_ALTA 22/07/1949 and FECHA_DE_BAJA 01/01/1999; Calle de Hondo de Valdecarros, code 363950, 31/12/1985-01/01/1986; Camino de Valdecarros, code 762650, 01/01/1986-01/01/1998; and current Camino de Valdecarros, code 906332, FECHA_DE_ALTA 01/01/1986.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino Viejo de Barajas a Valdecarros, código 906233, FECHA_DE_ALTA 22/07/1949 y FECHA_DE_BAJA 01/01/1999; la Calle de Hondo de Valdecarros, código 363950, 31/12/1985-01/01/1986; el Camino de Valdecarros, código 762650, 01/01/1986-01/01/1998; y el Camino de Valdecarros vigente, código 906332, FECHA_DE_ALTA 01/01/1986."
     },
     {
       "title": "Red de Metro y Metro Ligero de la Comunidad de Madrid",
@@ -85,8 +92,8 @@
       "es": "Revisar Luis Miguel Aparisi Laporta, Toponimia madrileña: proceso evolutivo, especialmente la entrada Valdecarros, para comprobar si ofrece una cita archivística madrileña o una etimología más sólida."
     },
     {
-      "en": "Check historical cadastral maps, IGN sheets and Madrid municipal/archival records for old forms such as Valdecarros or Val de Carros in the Villa de Vallecas area.",
-      "es": "Comprobar mapas catastrales históricos, hojas del IGN y fondos municipales o archivísticos de Madrid para localizar formas antiguas como Valdecarros o Val de Carros en el área de Villa de Vallecas."
+      "en": "Check historical cadastral maps, IGN sheets and Madrid municipal/archival records for old forms such as Valdecarros or Val de Carros in the Villa de Vallecas area; the Callejero now confirms a road-name row from 1949.",
+      "es": "Conviene revisar mapas catastrales históricos, hojas IGN y documentación municipal/archivística madrileña para formas antiguas como Valdecarros o Val de Carros en Villa de Vallecas; el Callejero confirma ya una fila viaria desde 1949."
     }
   ],
   "missing_bilingual_markdown_fields": [],

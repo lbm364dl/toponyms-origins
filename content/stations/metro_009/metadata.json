@@ -6,7 +6,7 @@
   "recommended_etymology_type": "descriptive",
   "recommended_named_after": "The plaza, street, and popular district name of Lavapiés, probably from rainwater torrents in the steep southern ravine that washed or soaked pedestrians' feet",
   "previous_names": "",
-  "naming_date": "1936; the station opened with this name on the original Line 3 section, with sources differing between 8 and 9 August 1936",
+  "naming_date": "1936; the station opened with this name on the original Line 3 section, with sources differing between 8 and 9 August 1936; Calle de Lavapiés is recorded in the official Callejero from 11 January 1835 and Plaza de Lavapiés from 17 February 1865.",
   "sources": [
     {
       "title": "Museos Metro Madrid, ficha Lavapiés: Huellas del pasado",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Official regional page stating that the first Line 3 section Embajadores-Lavapiés-Sol opened on 9 August 1936.",
       "relevance_es": "Página oficial regional que indica que el primer tramo de la línea 3, Embajadores-Lavapiés-Sol, se inauguró el 9 de agosto de 1936."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Calle de Lavapiés, code 432200, FECHA_DE_ALTA 11/01/1835; Plazuela de Lavapiés, code 432300, FECHA_DE_ALTA 11/01/1835 and FECHA_DE_BAJA 17/02/1865; Plaza de Lavapiés, code 432300, FECHA_DE_ALTA 17/02/1865; and Calle del Barranco de Lavapiés, code 507700, 01/01/1835-11/01/1835.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Calle de Lavapiés, código 432200, FECHA_DE_ALTA 11/01/1835; la Plazuela de Lavapiés, código 432300, FECHA_DE_ALTA 11/01/1835 y FECHA_DE_BAJA 17/02/1865; la Plaza de Lavapiés, código 432300, FECHA_DE_ALTA 17/02/1865; y la Calle del Barranco de Lavapiés, código 507700, 01/01/1835-11/01/1835."
     },
     {
       "title": "Carlos Osorio, Lavapiés y El Rastro, extract published by Ediciones La Librería",

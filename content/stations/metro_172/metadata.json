@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Parque de las Avenidas (residential estate/urban area and municipal park in La Guindalera)",
   "previous_names": "",
-  "naming_date": "1975-03-17",
+  "naming_date": "1975-03-17; the official Callejero contains a one-day Plaza del Parque de las Avenidas row dated 18-19 October 1960.",
   "sources": [
     {
       "title": "Consorcio Regional de Transportes de Madrid: Parque de las Avenidas",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Confirms the municipal park called Parque de las Avenidas, its location in Guindalera/Salamanca, its Avenida Brasilia address, and nearby Metro access.",
       "relevance_es": "Confirma el parque municipal llamado Parque de las Avenidas, su ubicación en Guindalera/Salamanca, su dirección en la avenida de Brasilia y el acceso cercano en Metro."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Plaza del Parque de las Avenidas, code 95700, with FECHA_DE_ALTA 18/10/1960 and FECHA_DE_BAJA 19/10/1960; the one-day row is useful as an official nomenclature clue but should not be treated as a stable street-name date without the municipal file.",
+      "relevance_es": "El CSV de evolución histórica de viales registra la Plaza del Parque de las Avenidas, código 95700, con FECHA_DE_ALTA 18/10/1960 y FECHA_DE_BAJA 19/10/1960; la fila de un día es útil como indicio oficial de nomenclatura, pero no debe tratarse como fecha estable de vía sin el expediente municipal."
     },
     {
       "title": "Arquitectura de Madrid: Parque de las Avenidas",
@@ -81,8 +88,8 @@
   ],
   "open_questions": [
     {
-      "en": "A primary Metro de Madrid or municipal naming file for the 1975 station name would be useful to confirm the naming decision explicitly.",
-      "es": "Sería útil localizar un expediente primario de Metro de Madrid o municipal sobre la denominación de la estación en 1975 para confirmar explícitamente la decisión."
+      "en": "A primary Metro de Madrid or municipal naming file for the 1975 station name would be useful to confirm the naming decision explicitly; the Callejero only provides a one-day Plaza del Parque de las Avenidas row from October 1960.",
+      "es": "Sería útil un expediente primario de Metro de Madrid o municipal sobre el nombre de la estación de 1975 para confirmar la decisión de forma explícita; el Callejero solo aporta una fila de un día de Plaza del Parque de las Avenidas de octubre de 1960."
     },
     {
       "en": "The printed Diccionario Enciclopédico de Madrid by María Isabel Gea should be checked directly for its full entry and bibliography on Parque de las Avenidas.",

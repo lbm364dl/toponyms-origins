@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Vicálvaro (historic municipality and present Madrid district)",
   "previous_names": "",
-  "naming_date": "1 December 1998 for the Metro line 9 station opening with the current name; the separately named Cercanías station of Vicálvaro is older and is not the Metro line 9 stop at these coordinates.",
+  "naming_date": "1 December 1998 for the Metro line 9 station opening with the current name; the official Callejero records Camino de Vicálvaro from 1 January 1874 and later Carretera de Vicálvaro rows.",
   "sources": [
     {
       "title": "Archivo municipal de Vicálvaro - Ayuntamiento de Madrid",
@@ -21,6 +21,13 @@
       "type": "official",
       "relevance_en": "Provides the district history: annexed in 1951, later assigned to Vallecas y Ventas and Moratalaz, and made an independent district in 1987.",
       "relevance_es": "Aporta la historia del distrito: anexionado en 1951, adscrito después a Vallecas y Ventas y a Moratalaz, y convertido en distrito independiente en 1987."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "The historical-vials CSV records Camino de Vicálvaro, code 633900, FECHA_DE_ALTA 01/01/1874 and FECHA_DE_BAJA 01/01/1898; Camino Bajo de Vicálvaro, code 633900, 01/01/1898-11/11/1932; Carretera de Vicálvaro, code 233600, 01/01/1910-28/06/1961; and Carretera de Vicálvaro a Vallecas, code 2657, FECHA_DE_ALTA 10/11/1950.",
+      "relevance_es": "El CSV de evolución histórica de viales registra el Camino de Vicálvaro, código 633900, FECHA_DE_ALTA 01/01/1874 y FECHA_DE_BAJA 01/01/1898; el Camino Bajo de Vicálvaro, código 633900, 01/01/1898-11/11/1932; la Carretera de Vicálvaro, código 233600, 01/01/1910-28/06/1961; y la Carretera de Vicálvaro a Vallecas, código 2657, FECHA_DE_ALTA 10/11/1950."
     },
     {
       "title": "Estudio sociodemográfico de los barrios de Madrid - PIBA 2019, Vicálvaro",
