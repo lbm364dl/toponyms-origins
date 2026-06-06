@@ -1,4 +1,4 @@
-La estación de Acacias toma su nombre del topónimo Acacias de su entorno, especialmente del paseo de las Acacias, en Arganzuela. El callejero oficial recoge el paseo de las Acacias como vía madrileña del distrito, y la autoridad de transporte identifica la parada de Metro con el nombre de Acacias dentro de la red actual.
+La estación de Acacias toma su nombre del topónimo Acacias de su entorno, especialmente del paseo de las Acacias, en Arganzuela. El Callejero histórico oficial registra el paseo de las Acacias como vía madrileña desde el 29 de agosto de 1859 en Arganzuela, y la autoridad de transporte identifica la parada de Metro con el nombre de Acacias dentro de la red actual.
 
 Detrás del nombre de la estación hay un topónimo descriptivo de calle. En la obra clásica de 1889 *Las calles de Madrid*, Hilario Peñasco y Carlos Cambronero describieron el paseo de las Acacias y explicaron el rótulo por referencia a la acacia, árbol usado como ornamento en calles y paseos. Por eso el nombre es botánico y no conmemorativo: no consta que recuerde a una persona, una batalla, un santo o una finca concreta.
 

@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Buenos Aires, capital of Argentina, through Avenida de Buenos Aires",
   "previous_names": "No former station name found. Older local place/street names: calle de Buenos Aires documented in Puente de Vallecas in 1880; local source reports Alto de Buenos Aires on a 1929 plan.",
-  "naming_date": "Station name in use at opening on 1994-04-07; local source dates the present avenue to 1971, not independently verified in municipal naming files.",
+  "naming_date": "Station name in use at opening on 1994-04-07; Avenida de Buenos Aires is recorded in the official Callejero from 30 April 1968.",
   "sources": [
     {
       "title": "Consorcio Regional de Transportes de Madrid: Buenos Aires",
@@ -16,18 +16,18 @@
       "relevance_es": "Confirma que la estación pertenece a la línea 1 de Metro y recoge el acceso Buenos Aires en la avenida de la Albufera 140."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Avenida de Buenos Aires (COD_VIA 117400) from 30/04/1968, preceded under the same code by Avenida de Cerro de Buenos Aires and Calle de la Loma de Chiclana; current-vials-by-barrio CSV places the avenue in Puente de Vallecas.",
+      "relevance_es": "El CSV de evolución histórica registra la avenida de Buenos Aires (COD_VIA 117400) desde 30/04/1968, precedida en el mismo código por avenida de Cerro de Buenos Aires y calle de la Loma de Chiclana; el CSV de viales por barrio sitúa la avenida en Puente de Vallecas."
+    },
+    {
       "title": "Comunidad de Madrid: Prolongación de la Línea 1. Tramo Portazgo-Miguel Hernández",
       "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-1-tramo-portazgo-miguel-hernandez",
       "type": "official",
       "relevance_en": "Documents the construction of Buenos Aires station and states that the extension was inaugurated on 7 April 1994.",
       "relevance_es": "Documenta la construcción de la estación de Buenos Aires y afirma que la prolongación fue inaugurada el 7 de abril de 1994."
-    },
-    {
-      "title": "Ayuntamiento de Madrid: Callejero Oficial 2016",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
-      "type": "official",
-      "relevance_en": "Officially records Avenida de Buenos Aires as a current street in Puente de Vallecas, beginning at Avenida de la Albufera and ending at Avenida de Miguel Hernández.",
-      "relevance_es": "Registra oficialmente la avenida de Buenos Aires como vía vigente de Puente de Vallecas, desde la avenida de la Albufera hasta la avenida de Miguel Hernández."
     },
     {
       "title": "BNE Hemeroteca Digital: El Imparcial (Madrid), 10/3/1880, página 4",
@@ -70,8 +70,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the municipal street-naming file or BOAM/Pleno agreement for Avenida de Buenos Aires to confirm whether 1968 or 1971 is the formal naming or layout date.",
-      "es": "Consultar el expediente municipal de denominación o el acuerdo publicado en BOAM/Pleno sobre la avenida de Buenos Aires para confirmar si 1968 o 1971 es la fecha formal de denominación o trazado."
+      "en": "Consult the municipal street-naming file or BOAM/Pleno agreement for Avenida de Buenos Aires to confirm the official motive and explain the relationship with the earlier Avenida de Cerro de Buenos Aires row.",
+      "es": "Consultar el expediente municipal de denominación o el acuerdo publicado en BOAM/Pleno sobre la avenida de Buenos Aires para confirmar la motivación oficial y explicar la relación con la fila anterior avenida de Cerro de Buenos Aires."
     },
     {
       "en": "Independently consult the 1900 and 1929 plans cited by the local Puente de Vallecas street gazetteer to verify the identification of calle Buenos Aires, Alto de Buenos Aires, Calle Sierra del Cadí, and Calle de Juliana Sancho.",

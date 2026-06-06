@@ -16,6 +16,13 @@
       "relevance_es": "Página oficial de transporte que confirma la estación actual, su conexión con la línea 6, accesos y contexto de localización."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Plaza de la Puerta del Ángel (COD_VIA 614100) with FECHA_DE_ALTA 01/01/1898 and Paseo de la Puerta del Ángel (COD_VIA 905206) with FECHA_DE_ALTA 01/01/1986, supporting the pre-Metro local place-name.",
+      "relevance_es": "El CSV de evolución histórica registra la plaza de la Puerta del Ángel (COD_VIA 614100) con FECHA_DE_ALTA 01/01/1898 y el paseo de la Puerta del Ángel (COD_VIA 905206) con FECHA_DE_ALTA 01/01/1986, lo que respalda el topónimo local anterior al Metro."
+    },
+    {
       "title": "Memoria de Madrid: Estación de Puerta del Ángel",
       "url": "https://www.memoriademadrid.es/view/567949/estacion-de-puerta-del-angel",
       "type": "archive",

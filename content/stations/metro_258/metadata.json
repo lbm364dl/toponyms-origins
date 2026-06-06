@@ -16,18 +16,18 @@
       "relevance_es": "Atribuye oficialmente el nombre de avenida de Las Suertes a la calle provisional número 10 del Ensanche de Vallecas."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Ronda de Las Suertes (COD_VIA 905726) from 01/01/1982 and Avenida de Las Suertes (COD_VIA 31000503) from 28/06/2006 after its provisional Ensanche de Vallecas name, supporting pre-station official use of Las Suertes.",
+      "relevance_es": "El CSV de evolución histórica registra la ronda de Las Suertes (COD_VIA 905726) desde 01/01/1982 y la avenida de Las Suertes (COD_VIA 31000503) desde 28/06/2006 tras su nombre provisional del Ensanche de Vallecas, respaldando el uso oficial de Las Suertes antes de la estación."
+    },
+    {
       "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
       "url": "https://www.comunidad.madrid/transporte/ampliacion-metro-madrid",
       "type": "official",
       "relevance_en": "Documents the Congosto-Ensanche de Vallecas Line 1 extension, its 16 May 2007 service date, and the scale of the Ensanche de Vallecas development.",
       "relevance_es": "Documenta la prolongación Congosto-Ensanche de Vallecas de la línea 1, su puesta en servicio el 16 de mayo de 2007 y la escala del desarrollo del Ensanche de Vallecas."
-    },
-    {
-      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
-      "type": "official",
-      "relevance_en": "Lists Avenida de Las Suertes in Villa de Vallecas and gives its official numbering and endpoints.",
-      "relevance_es": "Incluye la avenida de Las Suertes en Villa de Vallecas y aporta su numeración y extremos oficiales."
     },
     {
       "title": "suerte - Diccionario de la lengua española, RAE-ASALE",
@@ -63,8 +63,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult municipal naming files or older cadastral/topographic maps for Vallecas to confirm whether 'Las Suertes' was an inherited rural place-name before the 2006 avenue naming.",
-      "es": "Consultar expedientes municipales de denominación o mapas catastrales/topográficos antiguos de Vallecas para confirmar si 'Las Suertes' era un topónimo rural heredado antes de la denominación de la avenida en 2006."
+      "en": "Consult older cadastral/topographic maps for Vallecas to confirm whether 'Las Suertes' was an inherited rural place-name before the official Ronda de Las Suertes row recorded from 1982.",
+      "es": "Consultar mapas catastrales/topográficos antiguos de Vallecas para confirmar si 'Las Suertes' era un topónimo rural heredado antes de la ronda de Las Suertes registrada oficialmente desde 1982."
     },
     {
       "en": "Find an official Metro de Madrid station file or planning document that explicitly states the station was named after Avenida de Las Suertes.",

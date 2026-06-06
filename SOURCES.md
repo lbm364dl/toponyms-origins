@@ -22,7 +22,7 @@ All datasets, projects, books, articles, and tools identified during research (2
 
 | # | Name | What | Format | URL |
 |---|------|------|--------|-----|
-| 10 | Callejero Oficial del Ayuntamiento | 9,139 streets, codes, coordinates | CSV/SHP | https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid |
+| 10 | Callejero Oficial del Ayuntamiento | Current and historical Madrid vials, codes, districts/barrios, and alta/baja dates | CSV/SHP/PDF | https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid |
 | 11 | Barrios municipales de Madrid | 131 neighbourhoods, boundaries | CSV/KML/SHP | https://datos.madrid.es/dataset/300496-0-barrios-madrid |
 | 12 | CRTM GTFS - Metro | Metro lines, stations, coordinates | GTFS | https://data-crtm.opendata.arcgis.com/ |
 | 13 | CRTM GTFS - Metro Ligero | ML lines, stations, coordinates | GTFS | https://data-crtm.opendata.arcgis.com/ |
@@ -67,6 +67,7 @@ For the current non-verified station lookup priority, see `research/physical-boo
 | # | Title | Author | Year | Scope |
 |---|-------|--------|------|-------|
 | 42 | Toponimia madrilena: proceso evolutivo (2 vols + CD-ROM) | Luis Miguel Aparisi Laporta | 2001-2005 | Major Madrid toponymy reference; physical/catalogue lookup |
+| 42a | La toponimia madrilena. Proceso evolutivo | Luis Miguel Aparisi Laporta | 1993 | Article in Anales IEM XXXIII, pp. 515-543; checked locally, useful for methodology/source base, not station-entry lookup |
 | 43 | Los nombres de las calles de Madrid | Maria Isabel Gea Ortigas | 1993-2020 | Street-name entries; physical/current editions |
 | 44 | Metro de Madrid: Por que sus estaciones se llaman asi? | Jose Felipe Alonso Fernandez-Checa | 2023 | Metro station-name cross-check, ISBN 978-84-9873-497-3 |
 | 45 | El alma del suburbano madrileno | Comunidad de Madrid | 2025 | First 42 Metro stations (1919-1944) |

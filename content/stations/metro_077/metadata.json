@@ -16,6 +16,13 @@
       "relevance_es": "Página oficial de transporte de la Comunidad de Madrid que confirma la puesta en servicio de la prolongación de la línea 3 el 21 de abril de 2007 y que el trazado daba servicio a los barrios de Almendrales y Las Carolinas en Usera."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Calle de los Almendrales (COD_VIA 32500) with FECHA_DE_ALTA 01/01/1949 and current status, plus a short-lived Camino de los Almendrales row from 22/07/1949 to 18/02/1953.",
+      "relevance_es": "El CSV de evolución histórica registra la calle de los Almendrales (COD_VIA 32500) con FECHA_DE_ALTA 01/01/1949 y estado vigente, además de una fila histórica de camino de los Almendrales entre 22/07/1949 y 18/02/1953."
+    },
+    {
       "title": "El alcalde asiste a la inauguración de la ampliación de la línea 3 de Metro",
       "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/El-alcalde-asiste-a-la-inauguracion-de-la-ampliacion-de-la-linea-3-de-Metro/?vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD&vgnextfmt=default&vgnextoid=2c61ad32cae02110VgnVCM1000000b205a0aRCRD",
       "type": "official",
@@ -81,8 +88,8 @@
   ],
   "open_questions": [
     {
-      "en": "Can cadastral, municipal planning, IGN map, or archive records confirm an older field name such as 'Cerro de los Almendros' or 'Los Almendrales' before the 1940s housing colony?",
-      "es": "¿Pueden confirmar fuentes catastrales, urbanísticas municipales, mapas del IGN o archivos un nombre de paraje anterior como 'Cerro de los Almendros' o 'Los Almendrales' antes de la colonia de viviendas de los años cuarenta?"
+      "en": "Can cadastral, municipal planning, IGN map, or archive records confirm an older field name such as 'Cerro de los Almendros' or 'Los Almendrales' before the official 1949 street record and the postwar housing colony?",
+      "es": "¿Pueden confirmar fuentes catastrales, urbanísticas municipales, mapas del IGN o archivos un nombre de paraje anterior como 'Cerro de los Almendros' o 'Los Almendrales' antes del registro viario oficial de 1949 y de la colonia de viviendas de posguerra?"
     },
     {
       "en": "What is the primary source for the local story that an owner sold almond-planted rural plots to migrant families around 1954?",

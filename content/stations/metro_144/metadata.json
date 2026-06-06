@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Avenida de América, Madrid; ultimately América, the American continent",
   "previous_names": "",
-  "naming_date": "26 March 1973 (station opened with current name); avenue naming date not found",
+  "naming_date": "26 March 1973 (station opened with current name); Avenida de América is recorded in the official Callejero from 11 April 1951.",
   "sources": [
     {
       "title": "CRTM - Avenida de América interchange",
@@ -14,6 +14,13 @@
       "type": "official",
       "relevance_en": "Official transport source confirming that Avenida de América connects Metro lines 4, 6, 7 and 9 with suburban and long-distance buses entering Madrid via the A-2.",
       "relevance_es": "Fuente oficial de transporte que confirma que Avenida de América conecta las líneas 4, 6, 7 y 9 de Metro con autobuses interurbanos y de largo recorrido que entran por la A-2."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Avenida de América (COD_VIA 42500) with FECHA_DE_ALTA 11/04/1951 and current status, plus an older Calle de América (COD_VIA 42400) from 21/07/1880 to 29/03/1985.",
+      "relevance_es": "El CSV de evolución histórica registra la avenida de América (COD_VIA 42500) con FECHA_DE_ALTA 11/04/1951 y estado vigente, además de una antigua calle de América (COD_VIA 42400) desde 21/07/1880 hasta 29/03/1985."
     },
     {
       "title": "CRTM - Metro station Avenida de América",
@@ -28,13 +35,6 @@
       "type": "archive",
       "relevance_en": "Preserves Metro de Madrid archival text stating that the Line 4 extension opened on 26 March 1973 with Avenida de América among its three new stations, and that the station was planned for future lines 4, 6, 7 and 9.",
       "relevance_es": "Conserva texto archivístico de Metro de Madrid que indica que la prolongación de la línea 4 abrió el 26 de marzo de 1973 con Avenida de América entre sus tres estaciones nuevas, y que la estación se proyectó para futuras líneas 4, 6, 7 y 9."
-    },
-    {
-      "title": "Ayuntamiento de Madrid - Callejero Oficial 2015",
-      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
-      "type": "official",
-      "relevance_en": "Official street directory listing Avenida de América as a Madrid road and showing its presence across several districts.",
-      "relevance_es": "Callejero oficial que recoge la avenida de América como vía madrileña y muestra su presencia en varios distritos."
     },
     {
       "title": "Comunidad de Madrid - La Línea 7 de Metro de Madrid",
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult Madrid municipal street-naming files or plenary records to identify the exact date and wording that assigned the name Avenida de América.",
-      "es": "Consultar expedientes municipales del callejero o actas plenarias de Madrid para identificar la fecha y redacción exactas que asignaron el nombre de avenida de América."
+      "en": "Consult Madrid municipal street-naming files or plenary records for 11 April 1951 to identify the exact wording and commemorative motive assigned to Avenida de América.",
+      "es": "Consultar expedientes municipales del callejero o actas plenarias de Madrid del 11 de abril de 1951 para identificar la redacción exacta y el motivo conmemorativo asignado a la avenida de América."
     },
     {
       "en": "Check historical city maps between the post-war period and the 1960s to determine whether any section had a prior official name before Avenida de América.",

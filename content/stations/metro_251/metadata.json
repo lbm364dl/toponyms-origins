@@ -16,6 +16,13 @@
       "relevance_es": "Página oficial regional de transportes que confirma la prolongación de la línea 2, la puesta en servicio el 16 de marzo de 2011 y las cuatro nuevas estaciones, incluida Alsacia."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Plaza de Alsacia (COD_VIA 2568) with FECHA_DE_ALTA 23/02/1996 and current status; current-vials-by-barrio CSV places it across Ciudad Lineal and San Blas-Canillejas.",
+      "relevance_es": "El CSV de evolución histórica registra la plaza de Alsacia (COD_VIA 2568) con FECHA_DE_ALTA 23/02/1996 y estado vigente; el CSV de viales por barrio la sitúa entre Ciudad Lineal y San Blas-Canillejas."
+    },
+    {
       "title": "Ayuntamiento de Madrid: La Línea 2 de Metro ya llega a Las Rosas",
       "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Notas-de-prensa/La-Linea-2-de-Metro-ya-llega-a-Las-Rosas/?vgnextchannel=6091317d3d2a7010VgnVCM100000dc0ca8c0RCRD&vgnextfmt=default&vgnextoid=0cfdd1c735ebe210VgnVCM1000000b205a0aRCRD",
       "type": "official",
@@ -35,13 +42,6 @@
       "type": "official",
       "relevance_en": "Official notice showing that before opening, planning documents already described the future Line 2 station as being in Plaza de Alsacia.",
       "relevance_es": "Anuncio oficial que muestra que, antes de la apertura, la documentación urbanística ya describía la futura estación de la línea 2 como situada en la plaza de Alsacia."
-    },
-    {
-      "title": "Ayuntamiento de Madrid: Callejero Oficial 2016",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
-      "type": "official",
-      "relevance_en": "Official street index listing Plaza de Alsacia in San Blas-Canillejas and describing its endpoints, supporting the plaza as an official Madrid toponym.",
-      "relevance_es": "Callejero oficial que incluye la plaza de Alsacia en San Blas-Canillejas y describe sus extremos, lo que respalda la plaza como topónimo oficial de Madrid."
     },
     {
       "title": "Encyclopaedia Britannica: Alsace",
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Find the original Ayuntamiento de Madrid street-naming file or plenary agreement for Plaza de Alsacia to confirm the exact date and official rationale.",
-      "es": "Localizar el expediente original o acuerdo plenario del Ayuntamiento de Madrid sobre la plaza de Alsacia para confirmar la fecha exacta y la motivación oficial."
+      "en": "Find the original Ayuntamiento de Madrid street-naming file or plenary agreement for Plaza de Alsacia, registered in the official Callejero from 23 February 1996, to confirm the official rationale.",
+      "es": "Localizar el expediente original o acuerdo plenario del Ayuntamiento de Madrid sobre la plaza de Alsacia, registrada en el Callejero oficial desde el 23 de febrero de 1996, para confirmar la motivación oficial."
     },
     {
       "en": "Check historical municipal street atlases or BOAM/AVM records to determine whether Plaza de Alsacia had any earlier local name before the modern urbanization.",

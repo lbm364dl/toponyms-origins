@@ -16,11 +16,11 @@
       "relevance_es": "Página oficial de transporte que confirma Congosto como estación de Metro de la línea 1 y enumera sus accesos en la calle del Congosto y la plaza de Congosto."
     },
     {
-      "title": "Ayuntamiento de Madrid, Callejero Oficial 2016",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
-      "relevance_en": "Municipal street directory documenting Calle del Congosto in Villa de Vallecas, including its numbering and route.",
-      "relevance_es": "Callejero municipal que documenta la calle del Congosto en Villa de Vallecas, con su numeración y trazado."
+      "relevance_en": "Historical-vials CSV records both Camino del Congosto (COD_VIA 2656) and Calle del Congosto (COD_VIA 208600) with FECHA_DE_ALTA 28/05/1971 and current status, plus Pasaje del Congosto from 01/01/1986.",
+      "relevance_es": "El CSV de evolución histórica registra tanto el camino del Congosto (COD_VIA 2656) como la calle del Congosto (COD_VIA 208600) con FECHA_DE_ALTA 28/05/1971 y estado vigente, además del pasaje del Congosto desde 01/01/1986."
     },
     {
       "title": "Real Academia Española, Diccionario de la lengua española: congosto",
@@ -88,8 +88,8 @@
   ],
   "open_questions": [
     {
-      "en": "A municipal street-naming file or historical gazetteer entry for Calle del Congosto should be consulted to confirm the exact local reason and date for the street name.",
-      "es": "Conviene revisar un expediente municipal de denominación viaria o una entrada histórica del callejero sobre la calle del Congosto para confirmar el motivo local exacto y la fecha del nombre de la calle."
+      "en": "A municipal street-naming file for 28 May 1971 or historical gazetteer entry for Calle/Camino del Congosto should be consulted to confirm the exact local reason for the street name.",
+      "es": "Conviene revisar un expediente municipal de denominación viaria del 28 de mayo de 1971 o una entrada histórica del callejero sobre la calle/camino del Congosto para confirmar el motivo local exacto del nombre."
     },
     {
       "en": "The relationship between the older name Barrio de Vilano and the later popular/transport use of Congosto deserves archival confirmation from EMT or district planning records.",

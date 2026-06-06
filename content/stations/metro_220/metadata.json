@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Avenida de Abrantes and the Abrantes neighbourhood; ultimately the Portuguese place-name Abrantes",
   "previous_names": "",
-  "naming_date": "1998-11-16 (station opening; street naming date not found)",
+  "naming_date": "1998-11-16 (station opening); Avenida de Abrantes is recorded in the official Callejero from 8 January 1954.",
   "sources": [
     {
       "title": "Línea 11. Tramo: Plaza Elíptica-Pan Bendito | Comunidad de Madrid",
@@ -16,11 +16,11 @@
       "relevance_es": "Página oficial regional de transportes que indica la puesta en servicio el 16 de noviembre de 1998 y que las obras discurrían paralelas a la avenida de Abrantes."
     },
     {
-      "title": "Callejero Oficial 2015 - Ayuntamiento de Madrid",
-      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
-      "relevance_en": "Confirms Avenida de Abrantes as an official Madrid street in Carabanchel and shows connected streets such as Alfonso Martínez Conde.",
-      "relevance_es": "Confirma la avenida de Abrantes como vía oficial de Madrid en Carabanchel y muestra calles conectadas como Alfonso Martínez Conde."
+      "relevance_en": "Historical-vials CSV records Avenida de Abrantes (COD_VIA 2400) with FECHA_DE_ALTA 08/01/1954 and current status; current-vials-by-barrio CSV places it in Carabanchel district barrios 5 and 7.",
+      "relevance_es": "El CSV de evolución histórica registra la avenida de Abrantes (COD_VIA 2400) con FECHA_DE_ALTA 08/01/1954 y estado vigente; el CSV de viales por barrio la sitúa en los barrios 5 y 7 del distrito de Carabanchel."
     },
     {
       "title": "Distrito 11 - Carabanchel: Barrio 117 - Abrantes | Ayuntamiento de Madrid",
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the Ayuntamiento de Madrid street-naming or callejero expediente for Avenida de Abrantes to confirm whether the official dedication was to the Portuguese town, the noble title, or another source.",
-      "es": "Consultar el expediente de denominación o callejero del Ayuntamiento de Madrid de la avenida de Abrantes para confirmar si la dedicatoria oficial fue a la ciudad portuguesa, al título nobiliario u otra fuente."
+      "en": "Consult the Ayuntamiento de Madrid street-naming expediente for Avenida de Abrantes, registered in the official Callejero from 8 January 1954, to confirm whether the official dedication was to the Portuguese town, the noble title, or another source.",
+      "es": "Consultar el expediente de denominación del Ayuntamiento de Madrid de la avenida de Abrantes, registrada en el Callejero oficial desde el 8 de enero de 1954, para confirmar si la dedicatoria oficial fue a la ciudad portuguesa, al título nobiliario u otra fuente."
     },
     {
       "en": "Check printed Madrid street-name dictionaries, such as older callejero or toponymy works, for an explicit entry on Avenida de Abrantes.",

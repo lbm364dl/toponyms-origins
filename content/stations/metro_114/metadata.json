@@ -16,6 +16,13 @@
       "relevance_es": "Fuente oficial de transporte que confirma Lucero como estación de Metro de la línea 6 y recoge sus accesos por la calle de Cebreros y la calle de las Higueras."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Calle del Lucero (COD_VIA 444000) with FECHA_DE_ALTA 01/01/1959 and current status; current-vials-by-barrio CSV places it in Latina district, barrio 3.",
+      "relevance_es": "El CSV de evolución histórica registra la calle del Lucero (COD_VIA 444000) con FECHA_DE_ALTA 01/01/1959 y estado vigente; el CSV de viales por barrio la sitúa en distrito de Latina, barrio 3."
+    },
+    {
       "title": "Comunidad de Madrid - Obras anteriores en la Línea 6 (la circular)",
       "url": "https://www.comunidad.madrid/transporte/obras-anteriores-linea-6-circular",
       "type": "official",

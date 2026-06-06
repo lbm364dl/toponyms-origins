@@ -16,6 +16,13 @@
       "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 1, la zona A y los accesos de Capitán Blanco Argibay y Aníbal en Bravo Murillo."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records COD_VIA 137000 as Calle de Valdeacederas from 01/01/1902 until 14/01/1949, then Calle del Capitán Blanco Argibay from 14/01/1949, and records Carril de Valdeacederas as an older vial name for COD_VIA 749400.",
+      "relevance_es": "El CSV de evolución histórica registra el COD_VIA 137000 como calle de Valdeacederas desde 01/01/1902 hasta 14/01/1949 y después como calle del Capitán Blanco Argibay desde 14/01/1949; también registra el carril de Valdeacederas como antiguo nombre del COD_VIA 749400."
+    },
+    {
       "title": "Memoria de Madrid - Estación de Valdeacederas",
       "url": "https://www.memoriademadrid.es/view/385749",
       "type": "archive",
@@ -74,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the Ayuntamiento de Madrid Callejero Oficial entry or historical street-naming files to confirm the 29 April 1949 renaming and any official explanation attached to the change.",
-      "es": "Consultar la entrada del Callejero Oficial del Ayuntamiento de Madrid o los expedientes históricos de denominación de calles para confirmar el cambio del 29 de abril de 1949 y cualquier explicación oficial asociada."
+      "en": "Consult the underlying municipal street-naming file for the 14 January 1949 Capitán Blanco Argibay renaming and any official explanation attached to the change.",
+      "es": "Consultar el expediente municipal de denominación del cambio a Capitán Blanco Argibay del 14 de enero de 1949 y cualquier explicación oficial asociada."
     },
     {
       "en": "Look for older cadastral records, Canal de Isabel II plans, notarial sales, or nineteenth-century maps using Valdeacederas to determine whether the name referred to a valley, a farm track, a cultivated plot, or a broader landscape feature.",

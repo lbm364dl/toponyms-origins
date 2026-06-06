@@ -16,6 +16,13 @@
       "relevance_es": "Plano histórico oficial de transporte que indica que la estación se abrió como Elvas y fue renombrada Opañel el 27-6-1983."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Camino del Opañel on 01/01/1963-29/01/1963, Calle del Arroyo Opañel from 01/01/1969, and Travesía del Opañel from 01/01/1969, supporting Opañel as an official Carabanchel vial/toponym before the Metro rename.",
+      "relevance_es": "El CSV de evolución histórica registra el Camino del Opañel entre 01/01/1963 y 29/01/1963, la calle del Arroyo Opañel desde 01/01/1969 y la travesía del Opañel desde 01/01/1969, respaldando Opañel como topónimo viario oficial de Carabanchel antes del cambio de nombre del Metro."
+    },
+    {
       "title": "CRTM - Opañel station page",
       "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_107/?idPestana=1",
       "type": "official",
@@ -88,8 +95,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult municipal street-name files, old Carabanchel gazetteers, or planning records to prove when and why the barrio or Calle Arroyo de Opañel was officially named.",
-      "es": "Revisar expedientes municipales de rotulación, nomenclátores antiguos de Carabanchel o documentos de planeamiento para probar cuándo y por qué se nombraron oficialmente el barrio o la calle Arroyo de Opañel."
+      "en": "Consult municipal street-name files, old Carabanchel gazetteers, or planning records to explain why the barrio or Calle Arroyo de Opañel received the Opañel name; the official Callejero dates do not explain the motive.",
+      "es": "Revisar expedientes municipales de rotulación, nomenclátores antiguos de Carabanchel o documentos de planeamiento para explicar por qué el barrio o la calle Arroyo de Opañel recibieron el nombre Opañel; las fechas del Callejero oficial no explican la motivación."
     },
     {
       "en": "Check high-resolution historical cartography sheet by sheet for the exact label and course of Arroyo de Opañel, beyond the general Facundo Cañada map metadata.",

@@ -16,11 +16,11 @@
       "relevance_es": "Página oficial del Consorcio Regional de Transportes que verifica el nombre actual de la estación, su presencia en la red, zona tarifaria, accesos y contexto de correspondencias."
     },
     {
-      "title": "Callejero Oficial del Ayuntamiento de Madrid 2016",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
-      "relevance_en": "Official Madrid street directory listing Paseo de las Acacias in Arganzuela and giving its endpoints, supporting the local street-name basis.",
-      "relevance_es": "Callejero oficial de Madrid que recoge el paseo de las Acacias en Arganzuela y sus extremos, apoyando la base toponímica local del nombre."
+      "relevance_en": "Historical-vials CSV records Paseo de las Acacias (COD_VIA 2900) with FECHA_DE_ALTA 29/08/1859 and current status; current-vials-by-barrio CSV places it in Arganzuela district, barrio 2.",
+      "relevance_es": "El CSV de evolución histórica registra el paseo de las Acacias (COD_VIA 2900) con FECHA_DE_ALTA 29/08/1859 y estado vigente; el CSV de viales por barrio lo sitúa en distrito de Arganzuela, barrio 2."
     },
     {
       "title": "Peñasco de la Puente, Hilario; Cambronero, Carlos. Las calles de Madrid: noticias, tradiciones y curiosidades",
@@ -81,8 +81,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult municipal street-naming files or nineteenth-century urban works records to confirm when Paseo de las Acacias was formally named and whether there was a documented acacia planting project.",
-      "es": "Revisar expedientes municipales de rotulación o documentación urbanística del siglo XIX para confirmar cuándo se nombró formalmente el paseo de las Acacias y si existió un proyecto documentado de plantación de acacias."
+      "en": "Consult municipal street-naming files or nineteenth-century urban works records to confirm whether there was a documented acacia planting project behind the Paseo de las Acacias name.",
+      "es": "Revisar expedientes municipales de rotulación o documentación urbanística del siglo XIX para confirmar si existió un proyecto documentado de plantación de acacias detrás del nombre paseo de las Acacias."
     },
     {
       "en": "Locate a Metro de Madrid station-naming file or construction document for Line 5 to confirm that the station was officially named Acacias from the outset for the paseo or barrio.",

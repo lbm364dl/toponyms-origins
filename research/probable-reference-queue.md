@@ -21,7 +21,7 @@ The categories overlap: a station may need both a map and a transport naming fil
 
 | Resource | Use for | Access |
 |---|---|---|
-| Madrid Callejero Municipal and Geoportal | Current official street names, vials, historical changes, codes, and likely street-derived station names inside Madrid municipality. | <https://www.madrid.es/go/INFORMACION-CALLEJERO> |
+| Madrid Callejero Municipal and Geoportal | Current official street names, vials, historical changes, codes, and likely street-derived station names inside Madrid municipality. | <https://www.madrid.es/go/INFORMACION-CALLEJERO>. Local ignored mirror downloaded from the CKAN API on 2026-06-06 under `research/local-sources/callejero-oficial-madrid-2026-06-01/`. |
 | Madrid Callejero file description | Explains the downloadable CSVs, including historical vial-name evolution and date fields. | <https://www.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/Callejero%20oficial%20-%20descripci%C3%B3n%20de%20ficheros.pdf> |
 | Madrid calle-name change consultation | Use after the CSV when the open question asks for a formal street-name or numbering change file. | <https://sede.madrid.es/portal/site/tramites/menuitem.62876cb64654a55e2dbd7003a8a409a0/?vgnextoid=f794d1d1a8e1b810VgnVCM1000001d4a900aRCRD&vgnextchannel=183737c190180210VgnVCM100000c90da8c0RCRD> |
 | Nomecalles, Comunidad de Madrid | Official nomenclator/callejero for municipalities outside Madrid city: Parla, Pozuelo, Boadilla, Leganés, Alcorcón, Getafe, Alcobendas, etc. | <https://web.comunidad.madrid/nomecalles_web/> |
@@ -40,8 +40,9 @@ These are not all new to the repo, but they are now useful as probable-entry sea
 
 | Lead | Best targets | Note |
 |---|---|---|
+| Aparisi Laporta, "La toponimia madrileña. Proceso evolutivo" (1993 article) | Methodology for Madrid street/toponym work; not a station-entry source. | Checked locally from the Dialnet PDF, *Anales del Instituto de Estudios Madrileños* XXXIII, pp. 515-543. It explains source base and planned fields for the later full nomenclator, but does not resolve Pitis, Coslada, Aravaca, Valdecarros, Orcasitas, Fuente de la Mora, La Elipa, or similar open entries. |
 | *Relaciones topográficas de Felipe II: Madrid*, Alfredo Alvar Ezquerra et al. | Leganés, Fuencarral, Carabanchel Alto, Somosaguas, and other old municipalities. | Google Books preview exists; physical or library lookup still needed for exact pages. UCM record: <https://produccioncientifica.ucm.es/documentos/689e238a755b275bc684ed65> |
-| Madrid official Callejero historical-vial CSVs | Ibiza, Valdeacederas, Oporto, San Cipriano, Acacias, Vinateros, Ascao, Urgel, Buenos Aires, Sierra de Guadalupe, Congosto, Las Suertes, and similar street-derived names. | Check the `FECHA_DE_ALTA`/`FECHA_DE_BAJA` history first; if dates are placeholder values, request or inspect the underlying file. |
+| Madrid official Callejero historical-vial CSVs | Already applied to a first batch of Madrid street-derived entries: Ibiza, Valdeacederas, Oporto, San Cipriano, Almendrales, Tres Olivos, Acacias, Puerta del Ángel, Lucero, Laguna, Duque de Pastrana, Bambú, Vinateros, Avenida de América, Valdezarza, Opañel, La Elipa, Ascao, Urgel, Abrantes, Buenos Aires, Sierra de Guadalupe, Congosto, Alsacia, and Las Suertes. | Use next for remaining Madrid-municipality entries where the station name is plausibly a street/plaza/road name. Treat `01/01` dates as possible placeholders unless corroborated. |
 | IGN historical layers | Fuente de la Mora, Puente Alcocer, El Goloso, Las Águilas, Almendrales, La Poveda, Tres Olivos, Montecarmelo, Las Tablas, Opañel, Valdezarza, Pan Bendito, El Bercial, Las Suertes. | Best for proving a pre-station rural paraje, bridge, road, stream, or field name. |
 | Comunidad Metro publication *Prolongación de la línea 2 del Metro de Madrid a Las Rosas* | La Elipa, Las Rosas, Alsacia, and Line 2 extension context. | Free PDF found at `BVCM006087`; use for project context, not as final etymology. |
 | Comunidad Metro publication *La ampliación del Metro de Madrid* | Valdebernardo, Alto del Arenal, and early expansion context. | Free PDF found at `BVCM006221`; useful for openings/design, usually not naming motive. |
@@ -51,6 +52,17 @@ These are not all new to the repo, but they are now useful as probable-entry sea
 | Paloma Olmedo del Rosal, *Boadilla del Monte: Historia y testimonios* | Montepríncipe and Boadilla ML3 local context. | Physical/secondhand lead; Casa del Libro record confirms the 2007 title and ISBN. |
 | Alejandro Peris Barrio, *Móstoles: de pequeña aldea a ciudad populosa* | Móstoles and Móstoles Central. | Móstoles municipal page confirms the work and editions; physical lookup still needed. |
 | José Luis García Heras / Vallecas VA material on Vallecas | Villa de Vallecas and Vallecas-related probable entries. | Useful online lead to Federico Corriente and Matilde Fernández Montes; still verify against the cited specialist source before changing confidence. |
+
+## Next Source Choices
+
+| Priority | Source | Why it is next |
+|---:|---|---|
+| 1 | Luis Miguel Aparisi Laporta, *Toponimia madrileña: proceso evolutivo* (full book/CD) | The 1993 article confirms the later full work is the real lookup target: it was designed as a structured Madrid nomenclator with current names, former names, municipal agreements, districts, barrios, and historical attestations. Highest expected payoff for Pitis, La Elipa, Valdecarros, Fuente de la Mora, Orcasitas, Valdebebas, Canillejas, and Avenida de la Paz. |
+| 2 | Madrid Callejero historical-vial CSVs and municipal naming files | First CSV batch is now applied to 25 station entries. Use the CSVs for remaining Madrid-municipality street/plaza cases, then use municipal naming files when the CSV date is a placeholder or the motive still needs explanation. |
+| 3 | IGN/CNIG historical maps and Cartoteca | Best digital-first route for inherited rural microtoponyms, bridges, roads, streams, and parajes. |
+| 4 | José Felipe Alonso Fernández-Checa, *Metro de Madrid. ¿Por qué sus estaciones se llaman así?* | Best quick Metro cross-check and still important for Pitis, but the free sample shows it is selective and not enough by itself. |
+| 5 | María Isabel Gea Ortigas, *Los nombres de las calles de Madrid* plus district-specific Gea volumes | Useful after the official Callejero pass, especially for street-derived names and district/barrio historical context. |
+| 6 | Emilio Nieto Ballester, *Breve diccionario de topónimos españoles* | Best compact philological lookup for older municipality names: Parla, Chamartín, Manoteras, Móstoles, Leganés, Aravaca/Arevaci if present. |
 
 ## Source Family Station Batches
 

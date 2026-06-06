@@ -16,6 +16,13 @@
       "relevance_es": "Crónica contemporánea que confirma la inauguración del tramo de Metro Oporto-Laguna el 1 de junio de 1983 y su ámbito de servicio en torno a Virgen de los Remedios y Caño Roto."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Camino de la Laguna under COD_VIA 429700 from 01/01/1927 to 27/02/1974 and Calle de la Laguna from 27/02/1974, supporting the street/path toponym behind the transport name.",
+      "relevance_es": "El CSV de evolución histórica registra el Camino de la Laguna en el COD_VIA 429700 desde 01/01/1927 hasta 27/02/1974 y la calle de la Laguna desde 27/02/1974, lo que respalda el topónimo viario detrás del nombre de transporte."
+    },
+    {
       "title": "Cuatro ayuntamientos madrileños piden subidas de tarifas de transportes urbanos de viajeros",
       "url": "https://elpais.com/diario/1984/01/23/madrid/443708654_850215.html",
       "type": "press",
@@ -28,13 +35,6 @@
       "type": "archive",
       "relevance_en": "Archive record stating that in 1958 the pharmacy was on the then Camino de la Laguna, 37, now Calle de la Laguna, 48; this supports an older local toponym before the station.",
       "relevance_es": "Registro de archivo que indica que en 1958 la farmacia estaba en el entonces Camino de la Laguna, 37, hoy calle de la Laguna, 48; apoya la existencia de un topónimo local anterior a la estación."
-    },
-    {
-      "title": "Callejero Oficial. Ayuntamiento de Madrid 2017",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
-      "type": "official",
-      "relevance_en": "Lists Calle de la Laguna in Carabanchel and Latina and Camino de la Laguna, confirming official street/toponym use.",
-      "relevance_es": "Recoge la calle de la Laguna en Carabanchel y Latina y el Camino de la Laguna, confirmando el uso oficial del nombre viario/toponímico."
     },
     {
       "title": "laguna | Diccionario de la lengua española | RAE-ASALE",

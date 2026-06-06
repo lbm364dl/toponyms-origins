@@ -16,11 +16,11 @@
       "relevance_es": "Confirma el nombre actual de la estación, la correspondencia con la línea 7 y el acceso en la calle de Ascao, 29."
     },
     {
-      "title": "Callejero Oficial del Ayuntamiento de Madrid 2017",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
-      "relevance_en": "Lists Calle de Ascao in Ciudad Lineal and gives its official extent from Calle del Puerto de Canfranc to Camino de Valderribas.",
-      "relevance_es": "Incluye la calle de Ascao en Ciudad Lineal y da su trazado oficial desde la calle del Puerto de Canfranc hasta el Camino de Valderribas."
+      "relevance_en": "Historical-vials CSV records Calle de Ascao (COD_VIA 79000) with FECHA_DE_ALTA 10/11/1950 and current status; current-vials-by-barrio CSV places it in Ciudad Lineal district, barrio 2.",
+      "relevance_es": "El CSV de evolución histórica registra la calle de Ascao (COD_VIA 79000) con FECHA_DE_ALTA 10/11/1950 y estado vigente; el CSV de viales por barrio la sitúa en distrito de Ciudad Lineal, barrio 2."
     },
     {
       "title": "Ayuntamiento de Madrid: Distrito 15 - Ciudad Lineal, Barrio 152 - Pueblo Nuevo map",
@@ -88,8 +88,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the original Madrid municipal street-naming file or council agreement for Calle de Ascao to confirm the intended referent and the naming date.",
-      "es": "Consultar el expediente o acuerdo municipal original de denominación de la calle de Ascao en Madrid para confirmar el referente previsto y la fecha de asignación."
+      "en": "Consult the original Madrid municipal street-naming file or council agreement for Calle de Ascao to confirm that the 10 November 1950 name was intended to refer to Bilbao's Ascao/Askao.",
+      "es": "Consultar el expediente o acuerdo municipal original de denominación de la calle de Ascao en Madrid para confirmar que el nombre del 10 de noviembre de 1950 pretendía aludir al Ascao/Askao de Bilbao."
     },
     {
       "en": "Check Manuel Basas, Calles de Bilbao: diccionario abreviado, alongside Alfonso Irigoien's cited work, to compare the older Bilbao street-history account with the Basque etymology.",

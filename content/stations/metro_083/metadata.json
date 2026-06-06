@@ -16,6 +16,13 @@
       "relevance_es": "Ficha oficial de planeamiento que identifica el API.08.05 como 'LOS TRES OLIVOS', área de plan parcial en Fuencarral, con el plan básico PP I/22 Tres Olivos fechado el 30/06/1988 y una modificación el 27/09/1993."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Camino de los Tres Olivos on 31/12/1968-01/01/1969, Calle de los Tres Olivos on 31/12/1985-01/01/1986, and Plaza de los Tres Olivos (COD_VIA 1427) from 26/07/1991, supporting official pre-station use of the toponym.",
+      "relevance_es": "El CSV de evolución histórica registra el camino de los Tres Olivos entre 31/12/1968 y 01/01/1969, la calle de los Tres Olivos entre 31/12/1985 y 01/01/1986 y la plaza de los Tres Olivos (COD_VIA 1427) desde 26/07/1991, respaldando el uso oficial del topónimo antes de la estación."
+    },
+    {
       "title": "Plan Parcial 'Los Tres Olivos' - Fundación Arquitectura COAM",
       "url": "https://www.fundacioncoam.org/media/Default%20Files/fundacion/biblioteca/revista-urbanismo/docs/revista-urbanismo-n16-pag77-81.pdf",
       "type": "academic",
@@ -75,8 +82,8 @@
       "es": "Conviene revisar el expediente original completo del Plan Parcial I-22 'Los Tres Olivos', si está disponible en archivos municipales de Madrid, para comprobar si explica por qué el sector ya se llamaba Los Tres Olivos."
     },
     {
-      "en": "Check historical cadastral maps, IGN mapping or older Fuencarral land records for an earlier rural place-name 'Los Tres Olivos' before the 1986-1988 planning process.",
-      "es": "Sería útil comprobar cartografía catastral histórica, mapas del IGN o documentación antigua de Fuencarral para localizar un topónimo rural anterior 'Los Tres Olivos' antes del planeamiento de 1986-1988."
+      "en": "Check historical cadastral maps, IGN mapping or older Fuencarral land records for an earlier rural place-name 'Los Tres Olivos' before the official Callejero's late-1968 Camino de los Tres Olivos row.",
+      "es": "Sería útil comprobar cartografía catastral histórica, mapas del IGN o documentación antigua de Fuencarral para localizar un topónimo rural anterior 'Los Tres Olivos' antes de la fila oficial de camino de los Tres Olivos de finales de 1968."
     }
   ],
   "missing_bilingual_markdown_fields": [],

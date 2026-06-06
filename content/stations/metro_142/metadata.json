@@ -16,6 +16,13 @@
       "relevance_es": "Fuente oficial de transporte que confirma la estación de Vinateros, la conexión con la línea 9, la zona tarifaria y los accesos en la calle del Camino de los Vinateros."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Camino de los Vinateros under COD_VIA 502400 on 01/01/1949 and Calle del Camino de los Vinateros (COD_VIA 790100) from 01/01/1961 with current status in Moratalaz.",
+      "relevance_es": "El CSV de evolución histórica registra el Camino de los Vinateros en el COD_VIA 502400 el 01/01/1949 y la calle del Camino de los Vinateros (COD_VIA 790100) desde 01/01/1961 con estado vigente en Moratalaz."
+    },
+    {
       "title": "ABC Madrid, 31 January 1980, front page",
       "url": "https://www.abc.es/archivo/periodicos/abc-madrid-19800131.html",
       "type": "archive",
@@ -70,8 +77,8 @@
   ],
   "open_questions": [
     {
-      "en": "A municipal street-naming file or old Ayuntamiento gazette entry for Calle/Camino de los Vinateros would be the best source to verify the precise official rationale and date for the street name.",
-      "es": "Un expediente municipal de rotulación o una publicación antigua del Ayuntamiento sobre la calle o Camino de los Vinateros sería la mejor fuente para verificar la justificación oficial exacta y la fecha del nombre viario."
+      "en": "A municipal street-naming file or old Ayuntamiento gazette entry for Calle/Camino de los Vinateros would still be needed to verify the official rationale behind the street name; the Callejero dates alone do not explain the motive.",
+      "es": "Sigue siendo necesario un expediente municipal de rotulación o una publicación antigua del Ayuntamiento sobre la calle o Camino de los Vinateros para verificar la justificación oficial del nombre viario; las fechas del Callejero no explican por sí solas la motivación."
     },
     {
       "en": "The exact relationship between the old place-name Vinateros, the road name, and the wine-trade route could be refined by consulting the original 1862 IGN/military maps, especially Biblioteca Regional de Madrid signatura Mp.VII/16.",

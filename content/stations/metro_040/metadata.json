@@ -9,18 +9,18 @@
   "naming_date": "1986; station name at opening. The Line 9 central link is variously dated 24 or 25 February 1986 in available sources.",
   "sources": [
     {
-      "title": "Callejero Oficial del Ayuntamiento de Madrid 2015",
-      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCUrbanismo/Cartografia/Callejero/ficheros/CALLEJERO%202015.pdf",
-      "type": "official",
-      "relevance_en": "Confirms Calle de Ibiza as an official street in Retiro, running from Avenida de Menéndez Pelayo to Calle del Doctor Esquerdo, and confirms nearby Calle de Menorca.",
-      "relevance_es": "Confirma la calle de Ibiza como vía oficial de Retiro, desde la avenida de Menéndez Pelayo hasta la calle del Doctor Esquerdo, y confirma la cercana calle de Menorca."
-    },
-    {
       "title": "Distrito 03 - Retiro, Barrio 34 - Ibiza map",
       "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCEstadistica/Nuevaweb/Territorio%2C%20Clima%20y%20Medio%20Ambiente/Territorio/Mapas%20de%20dist%20y%20bar/03%20-%20Retiro/Barrio034.pdf",
       "type": "official",
       "relevance_en": "Official municipal map showing the administrative barrio Ibiza in Retiro and the local street context including Calle de Ibiza and Calle de Menorca.",
       "relevance_es": "Mapa municipal oficial que muestra el barrio administrativo de Ibiza en Retiro y el contexto viario local, incluidas la calle de Ibiza y la calle de Menorca."
+    },
+    {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Calle de Ibiza (COD_VIA 370400) with FECHA_DE_ALTA 21/07/1880 and current status; current-vials-by-barrio CSV places it in district 3, barrio 4.",
+      "relevance_es": "El CSV de evolución histórica registra la calle de Ibiza (COD_VIA 370400) con FECHA_DE_ALTA 21/07/1880 y estado vigente; el CSV de viales por barrio la sitúa en distrito 3, barrio 4."
     },
     {
       "title": "La Ampliación del Metro de Madrid - Comunidad de Madrid",
@@ -88,8 +88,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the Ayuntamiento de Madrid street-naming minutes or historical callejero for 21 July 1880 to verify the exact date and wording of the Calle de Ibiza dedication.",
-      "es": "Conviene revisar las actas municipales de denominación viaria o el callejero histórico del Ayuntamiento de Madrid del 21 de julio de 1880 para verificar la fecha exacta y la redacción de la dedicatoria de la calle de Ibiza."
+      "en": "Consult the original municipal street-naming minutes for Calle de Ibiza to confirm the exact dedication wording and whether any rationale was recorded beyond the island name.",
+      "es": "Conviene revisar las actas municipales originales de denominación de la calle de Ibiza para confirmar la redacción exacta de la dedicatoria y si se consignó alguna motivación más allá del nombre de la isla."
     },
     {
       "en": "Check Metro de Madrid's original 1986 opening documentation or station-naming file to resolve the 24/25 February opening-date discrepancy.",

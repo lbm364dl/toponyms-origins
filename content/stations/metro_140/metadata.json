@@ -6,7 +6,7 @@
   "recommended_etymology_type": "place",
   "recommended_named_after": "Calle del Bambú; ultimately the bamboo plant",
   "previous_names": "",
-  "naming_date": "2007-04-11 (station opening under the current name; street naming date not found)",
+  "naming_date": "2007-04-11 (station opening under the current name); Calle del Bambú is recorded in the official Callejero from 20 February 1948.",
   "sources": [
     {
       "title": "CRTM - Estación de Metro Bambú",
@@ -16,18 +16,18 @@
       "relevance_es": "Página oficial de transporte que confirma el nombre de la estación, la correspondencia con la línea 1 y el acceso en la calle del Bambú 14."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Calle del Bambú (COD_VIA 90200) with FECHA_DE_ALTA 20/02/1948 and current status; the same code shows short-lived earlier names Carretera de Chamartín and Calle de Capitán Cortés before that date.",
+      "relevance_es": "El CSV de evolución histórica registra la calle del Bambú (COD_VIA 90200) con FECHA_DE_ALTA 20/02/1948 y estado vigente; el mismo código muestra los nombres previos de corta duración carretera de Chamartín y calle de Capitán Cortés antes de esa fecha."
+    },
+    {
       "title": "CRTM - Plano zonal de la estación de Metro de Bambú",
       "url": "https://www.crtm.es/media/5qkanrls/plano_zonal_metro_bambu.pdf",
       "type": "official",
       "relevance_en": "Official area map showing Calle del Bambú, Calle de la Yuca and nearby plant-name streets around the station.",
       "relevance_es": "Plano zonal oficial que muestra la calle del Bambú, la calle de la Yuca y otras calles próximas con nombres vegetales en torno a la estación."
-    },
-    {
-      "title": "Ayuntamiento de Madrid - Callejero Oficial del Ayuntamiento de Madrid 2017",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialAytoMadrid_mayo2017.pdf",
-      "type": "official",
-      "relevance_en": "Official gazetteer listing Calle del Bambú in Chamartín, from Avenida de Pío XII to Avenida de Burgos.",
-      "relevance_es": "Callejero oficial que recoge la calle del Bambú en Chamartín, desde la avenida de Pío XII hasta la avenida de Burgos."
     },
     {
       "title": "Ayuntamiento de Madrid - La ampliación de las líneas 4 y 1 de Metro beneficiará a 60.000 ciudadanos",
@@ -70,8 +70,8 @@
   ],
   "open_questions": [
     {
-      "en": "Consult the municipal street-naming file for Calle del Bambú to confirm the exact approval date and whether the street was deliberately named as part of a plant-name group.",
-      "es": "Revisar el expediente municipal de denominación de la calle del Bambú para confirmar la fecha exacta de aprobación y si la vía se nombró deliberadamente dentro de un grupo de nombres vegetales."
+      "en": "Consult the municipal street-naming file for Calle del Bambú to confirm whether the 20 February 1948 name was deliberately assigned as part of a botanical street-name group.",
+      "es": "Revisar el expediente municipal de denominación de la calle del Bambú para confirmar si el nombre del 20 de febrero de 1948 se asignó deliberadamente dentro de un grupo de nombres vegetales."
     }
   ],
   "missing_bilingual_markdown_fields": [],

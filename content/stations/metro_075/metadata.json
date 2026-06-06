@@ -16,18 +16,18 @@
       "relevance_es": "Indica oficialmente que la prolongación de la línea 9 se puso en servicio el 1 de diciembre de 1998, enumera San Cipriano entre las nuevas estaciones y afirma que la calle de San Cipriano da nombre a la estación."
     },
     {
+      "title": "Ayuntamiento de Madrid, Callejero oficial: historical and current vials CSVs",
+      "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
+      "type": "official",
+      "relevance_en": "Historical-vials CSV records Calle de San Cipriano (COD_VIA 663300) with FECHA_DE_ALTA 22/02/1961 and current status; current-vials-by-barrio CSV locates it in Vicálvaro district barrios 1, 2, and 3.",
+      "relevance_es": "El CSV de evolución histórica registra la calle de San Cipriano (COD_VIA 663300) con FECHA_DE_ALTA 22/02/1961 y estado vigente; el CSV de viales por barrio la sitúa en los barrios 1, 2 y 3 del distrito de Vicálvaro."
+    },
+    {
       "title": "CRTM station page: San Cipriano",
       "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_181?lang=en",
       "type": "official",
       "relevance_en": "Confirms the current Metro station, Line 9 connections, and accesses at Calle de San Cipriano numbers 44, 55, and 52.",
       "relevance_es": "Confirma la estación actual de Metro, la conexión con la línea 9 y los accesos en la calle de San Cipriano números 44, 55 y 52."
-    },
-    {
-      "title": "Callejero Oficial 2015, Ayuntamiento de Madrid",
-      "url": "https://www.madrid.es/UnidadesDescentralizadas/UDCMedios/noticias/2016/04Abril/28Jueves/Notasprensa/CallejeroOficial/ficheros/CALLEJERO%202015.pdf",
-      "type": "official",
-      "relevance_en": "Officially records Calle de San Cipriano in Vicálvaro, numbered 10-85, beginning at Calle de Ambroz and ending at Calle del Jardín de la Duquesa.",
-      "relevance_es": "Registra oficialmente la calle de San Cipriano en Vicálvaro, con numeración 10-85, desde la calle de Ambroz hasta la calle del Jardín de la Duquesa."
     },
     {
       "title": "Plano de Madrid y pueblos colindantes al empezar el siglo",
@@ -74,12 +74,8 @@
   ],
   "open_questions": [
     {
-      "en": "Locate the municipal naming file or historical street gazetteer entry for Calle de San Cipriano in Vicálvaro to confirm which Saint Cyprian was intended.",
-      "es": "Localizar el expediente municipal de denominación o una entrada histórica del callejero de la calle de San Cipriano en Vicálvaro para confirmar qué san Cipriano se quiso recordar."
-    },
-    {
-      "en": "Consult high-resolution historic cartography or local archival material to establish how early the Vicálvaro street name appears before the twentieth century.",
-      "es": "Revisar cartografía histórica en alta resolución o documentación local de archivo para determinar desde cuándo aparece el nombre de la calle de San Cipriano en Vicálvaro antes del siglo XX."
+      "en": "Locate the municipal naming file for Calle de San Cipriano, registered in the official Callejero from 22 February 1961, to confirm which Saint Cyprian was intended.",
+      "es": "Localizar el expediente municipal de denominación de la calle de San Cipriano, registrada en el Callejero oficial desde el 22 de febrero de 1961, para confirmar qué san Cipriano se quiso recordar."
     }
   ],
   "missing_bilingual_markdown_fields": [],
