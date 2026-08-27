@@ -154,15 +154,15 @@ header .subtitle {
 .home-hubs {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 8px;
+  gap: 0 24px;
   align-content: center;
+  border-top: 1px solid var(--border);
 }
 
 .home-hubs a {
-  min-height: 42px;
-  padding: 10px 12px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
+  min-height: 0;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--border);
   color: var(--text-secondary);
   font-size: 0.75rem;
   font-weight: 700;
@@ -170,7 +170,6 @@ header .subtitle {
 }
 
 .home-hubs a:hover {
-  border-color: var(--accent-border);
   color: var(--accent);
 }
 
@@ -210,9 +209,18 @@ header .subtitle {
 .collection-insights ul {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
+  gap: 0 24px;
   margin-top: 14px;
   list-style: none;
+}
+
+.collection-insights ul {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.featured-stories li,
+.collection-insights li {
+  border-top: 1px solid var(--border);
 }
 
 .featured-stories a,
@@ -220,17 +228,14 @@ header .subtitle {
   display: flex;
   min-height: 100%;
   flex-direction: column;
-  padding: 13px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
+  padding: 13px 0 16px;
   color: var(--text-secondary);
   text-decoration: none;
 }
 
-.featured-stories a:hover,
-.collection-insights li a:hover {
-  border-color: var(--accent-border);
-  background: color-mix(in srgb, var(--surface) 45%, transparent);
+.featured-stories a:hover strong,
+.collection-insights li a:hover strong {
+  color: var(--accent);
 }
 
 .featured-stories strong,
@@ -720,9 +725,9 @@ header .subtitle {
   min-height: 22px;
   padding: 0 7px;
   border: 1px solid color-mix(in srgb, var(--border-2) 72%, transparent);
-  border-radius: 999px;
+  border-radius: 2px;
   color: var(--text-muted);
-  background: color-mix(in srgb, var(--surface-2) 34%, transparent);
+  background: transparent;
   font-size: 0.61rem;
   font-weight: 800;
   letter-spacing: 0.04em;
@@ -960,7 +965,7 @@ header .subtitle {
   margin-left: 8px;
   padding: 1px 6px;
   border: 1px solid var(--border);
-  border-radius: 999px;
+  border-radius: 2px;
   color: var(--text-faint);
   font-size: 0.64rem;
   font-weight: 800;
@@ -1052,7 +1057,6 @@ header .subtitle {
   margin: 0 0 22px;
   overflow: hidden;
   border: 1px solid var(--border);
-  border-radius: var(--radius);
   background: var(--surface);
 }
 
@@ -1090,10 +1094,8 @@ header .subtitle {
 
 .quick-answer {
   margin-bottom: 28px;
-  padding: 18px 20px;
-  border: 1px solid var(--accent-border);
-  border-radius: var(--radius);
-  background: var(--accent-soft);
+  padding: 2px 0 2px 18px;
+  border-left: 2px solid var(--accent-border);
 }
 
 .quick-answer h2 {
@@ -1185,23 +1187,25 @@ header .subtitle {
 .related-stations ul {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
+  gap: 0 24px;
   margin-top: 14px;
   list-style: none;
+}
+
+.related-stations li {
+  border-top: 1px solid var(--border);
 }
 
 .related-stations a {
   display: block;
   min-height: 100%;
-  padding: 12px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
+  padding: 12px 0 15px;
   color: var(--text-secondary);
   text-decoration: none;
 }
 
-.related-stations a:hover {
-  border-color: var(--accent-border);
+.related-stations a:hover strong {
+  color: var(--accent);
 }
 
 .related-stations strong,
@@ -1237,11 +1241,10 @@ header .subtitle {
 }
 
 .collection-insights {
-  margin-top: 26px;
-  padding: 20px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: color-mix(in srgb, var(--surface) 55%, transparent);
+  margin-top: 30px;
+  padding: 24px 0 28px;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
 }
 
 .collection-insights h2 {
@@ -1260,9 +1263,14 @@ header .subtitle {
 .hub-directory {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px;
+  gap: 0 28px;
   margin-top: 24px;
   list-style: none;
+}
+
+.station-directory li,
+.hub-directory li {
+  border-top: 1px solid var(--border);
 }
 
 .station-directory a,
@@ -1270,17 +1278,14 @@ header .subtitle {
   display: flex;
   min-height: 100%;
   flex-direction: column;
-  padding: 14px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
+  padding: 14px 0 17px;
   color: var(--text-secondary);
   text-decoration: none;
 }
 
-.station-directory a:hover,
-.hub-directory a:hover {
-  border-color: var(--accent-border);
-  background: color-mix(in srgb, var(--surface) 45%, transparent);
+.station-directory a:hover strong,
+.hub-directory a:hover strong {
+  color: var(--accent);
 }
 
 .station-directory strong,
