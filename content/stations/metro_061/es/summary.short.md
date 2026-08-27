@@ -1,1 +1,1 @@
-La estacion de Colombia toma su nombre de la calle de Colombia, en el area de Hispanoamerica de Chamartin, dentro de un conjunto de vias madrilenas dedicadas a paises y lugares hispanoamericanos. Se abrio en la linea 9b en 1983 y se convirtio en transbordo con la linea 8 en 2002.
+La estación de Colombia toma su nombre de la calle de Colombia, en el área de Hispanoamérica de Chamartín, dentro de un conjunto de vías madrileñas dedicadas a países y lugares hispanoamericanos. Se abrió en la línea 9b en 1983 y se convirtió en transbordo con la línea 8 en 2002.

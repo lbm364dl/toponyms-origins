@@ -9,96 +9,96 @@
   "naming_date": "1987-01-13 (station opened with this name; exact municipal street-naming agreement not found)",
   "sources": [
     {
-      "title": "Consorcio Regional de Transportes de Madrid: Guzman el Bueno",
+      "title": "Consorcio Regional de Transportes de Madrid: Guzmán el Bueno",
       "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_122.aspx?idPestana=1",
       "type": "official",
       "relevance_en": "Confirms the current station name, Metro correspondences with lines 6 and 7, and access points including Avenida de la Reina Victoria and the Guzman el Bueno area.",
-      "relevance_es": "Confirma el nombre actual de la estacion, las correspondencias con las lineas 6 y 7 y los accesos en el entorno de la avenida de la Reina Victoria y Guzman el Bueno."
+      "relevance_es": "Confirma el nombre actual de la estación, las correspondencias con las líneas 6 y 7 y los accesos en el entorno de la avenida de la Reina Victoria y Guzmán el Bueno."
     },
     {
-      "title": "Comunidad de Madrid: La linea 6 de Metro de Madrid",
+      "title": "Comunidad de Madrid: La línea 6 de Metro de Madrid",
       "url": "https://www.comunidad.madrid/infraestructuras/linea-6-metro-madrid",
       "type": "official",
       "relevance_en": "States that the Cuatro Caminos-Ciudad Universitaria section opened on 13 January 1987 with three stations, supporting the station opening chronology.",
-      "relevance_es": "Indica que el tramo Cuatro Caminos-Ciudad Universitaria se inauguro el 13 de enero de 1987 con tres estaciones, lo que respalda la cronologia de apertura."
+      "relevance_es": "Indica que el tramo Cuatro Caminos-Ciudad Universitaria se inauguró el 13 de enero de 1987 con tres estaciones, lo que respalda la cronología de apertura."
     },
     {
-      "title": "memoriademadrid: Estacion de Guzman el Bueno",
+      "title": "memoriademadrid: Estación de Guzmán el Bueno",
       "url": "https://www.memoriademadrid.es/view/387765/estacion-de-guzman-el-bueno",
       "type": "archive",
       "relevance_en": "Municipal archive record from Metro de Madrid's photographic archive; quotes the 1986 company report noting the January 1987 opening of the Line 6 extension with Guzman el Bueno, Metropolitano, and Ciudad Universitaria.",
-      "relevance_es": "Registro del archivo municipal procedente del archivo fotografico de Metro de Madrid; cita la memoria de 1986 que menciona la apertura en enero de 1987 de la prolongacion de la linea 6 con Guzman el Bueno, Metropolitano y Ciudad Universitaria."
+      "relevance_es": "Registro del archivo municipal procedente del archivo fotografico de Metro de Madrid; cita la memoria de 1986 que menciona la apertura en enero de 1987 de la prolongación de la línea 6 con Guzmán el Bueno, Metropolitano y Ciudad Universitaria."
     },
     {
-      "title": "Comunidad de Madrid: Prolongacion de la Linea 7 de Metro de Madrid. Tramo Canal-Valdezarza",
-      "url": "https://www.comunidad.madrid/transporte/prolongacion-linea-7-metro-madrid-tramo-canal-valdezarza",
+      "title": "Comunidad de Madrid: prolongación de la Línea 7 de Metro de Madrid. Tramo Canal-Valdezarza",
+      "url": "https://www.comunidad.madrid/transporte/prolongación-linea-7-metro-madrid-tramo-canal-valdezarza",
       "type": "official",
       "relevance_en": "Confirms Line 7 entered service on this section on 12 February 1999 and that the project enabled interchange between lines 6 and 7 at Guzman el Bueno.",
-      "relevance_es": "Confirma la puesta en servicio del tramo de la linea 7 el 12 de febrero de 1999 y que la obra permitio la correspondencia entre las lineas 6 y 7 en Guzman el Bueno."
+      "relevance_es": "Confirma la puesta en servicio del tramo de la línea 7 el 12 de febrero de 1999 y que la obra permitió la correspondencia entre las líneas 6 y 7 en Guzmán el Bueno."
     },
     {
-      "title": "Real Academia de la Historia, Historia Hispanica: Alonso Perez de Guzman",
+      "title": "Real Academia de la Historia, Historia Hispanica: Alonso Pérez de Guzmán",
       "url": "https://historia-hispanica.rah.es/biografias/35416-alonso-perez-de-guzman",
       "type": "reference",
       "relevance_en": "Authoritative biography identifying Alonso Perez de Guzman, Guzman el Bueno, as lord of Sanlucar, alcaide of Tarifa, founder of the house of Niebla, born in 1256 and died at Gaucin in 1309.",
-      "relevance_es": "Biografia autorizada que identifica a Alonso Perez de Guzman, Guzman el Bueno, como senor de Sanlucar, alcaide de Tarifa y fundador de la casa de Niebla, nacido en 1256 y muerto en Gaucin en 1309."
+      "relevance_es": "Biografia autorizada que identifica a Alonso Pérez de Guzmán, Guzmán el Bueno, como señor de Sanlúcar, alcaide de Tarifa y fundador de la casa de Niebla, nacido en 1256 y muerto en Gaucin en 1309."
     },
     {
-      "title": "Calles y plazas de la ciudad: Calle Guzman el Bueno",
+      "title": "Calles y plazas de la ciudad: Calle Guzmán el Bueno",
       "url": "https://www.bibliotecaspublicas.es/dam/jcr%3Ab30a5c98-7119-4c2b-8ee1-0150e5606921/Calle_Guzman_el_Bueno.pdf",
       "type": "reference",
       "relevance_en": "Street-history PDF indicating that Madrid City Council assigned the street name Guzman el Bueno when the street began to take shape, while the exact agreement date is unknown because the file disappeared.",
-      "relevance_es": "PDF de historia de la calle que indica que el Ayuntamiento de Madrid le dio el nombre de Guzman el Bueno cuando la calle empezo a formarse, aunque se desconoce la fecha exacta del acuerdo porque desaparecio el expediente."
+      "relevance_es": "PDF de historia de la calle que indica que el Ayuntamiento de Madrid le dio el nombre de Guzmán el Bueno cuando la calle empezó a formarse, aunque se desconoce la fecha exacta del acuerdo porque desaparecio el expediente."
     },
     {
-      "title": "Hussein Fancy, 'Muslim Crusaders: Guzman el Bueno and the Limits of Secular History', Al-Masaq 30(3), 2018",
+      "title": "Hussein Fancy, 'Muslim Crusaders: Guzmán el Bueno and the Limits of Secular History', Al-Masaq 30(3), 2018",
       "url": "https://www.tandfonline.com/doi/abs/10.1080/09503110.2018.1522569",
       "type": "academic",
       "relevance_en": "Modern academic article that situates Guzman in the complex Christian-Muslim military world of the medieval Mediterranean and cites medieval evidence for the Tarifa episode while highlighting the interpretive complexity around later narratives.",
-      "relevance_es": "Articulo academico moderno que situa a Guzman en el complejo mundo militar cristiano-musulman del Mediterraneo medieval y cita testimonios medievales sobre el episodio de Tarifa, a la vez que subraya la complejidad interpretativa de los relatos posteriores."
+      "relevance_es": "artículo académico moderno que sitúa a Guzmán en el complejo mundo militar cristiano-musulman del Mediterraneo medieval y cita testimonios medievales sobre el episodio de Tarifa, a la vez que subraya la complejidad interpretativa de los relatos posteriores."
     },
     {
       "title": "Ayuntamiento de Madrid: Callejero Oficial 2016",
-      "url": "https://datos.madrid.es/FWProjects/egob/Catalogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
+      "url": "https://datos.madrid.es/FWProjects/egob/catálogo/UrbanismoInfraestructura/Ficheros/CallejeroOficialaytoMadrid_2016.pdf",
       "type": "official",
       "relevance_en": "Official street directory confirming Calle de Guzman el Bueno as a Madrid street in Chamberi and as a reference point for nearby street layout.",
-      "relevance_es": "Callejero oficial que confirma la calle de Guzman el Bueno como via madrilena de Chamberi y como referencia en la trama urbana cercana."
+      "relevance_es": "Callejero oficial que confirma la calle de Guzmán el Bueno como vía madrileña de Chamberi y como referencia en la trama urbana cercana."
     }
   ],
   "corrections": [
     {
       "en": "Use Alonso Perez de Guzman as the recommended historical form; the previous wording's Alfonso form appears in some secondary sources but is less consistent with RAH usage.",
-      "es": "Usar Alonso Perez de Guzman como forma historica recomendada; la forma Alfonso del registro aparece en algunas fuentes secundarias, pero es menos coherente con el uso de la RAH."
+      "es": "Usar Alonso Pérez de Guzmán como forma histórica recomendada; la forma Alfonso del registro aparece en algunas fuentes secundarias, pero es menos coherente con el uso de la RAH."
     },
     {
       "en": "The station should be described as named from the nearby Calle de Guzman el Bueno, not only as a direct station-level dedication.",
-      "es": "Conviene describir la estacion como denominada por la cercana calle de Guzman el Bueno, no solo como una dedicacion directa de la estacion."
+      "es": "Conviene describir la estación como denominada por la cercana calle de Guzmán el Bueno, no solo como una dedicacion directa de la estación."
     },
     {
       "en": "Replace the simplified phrase 'Moorish siege' with a more precise account: the infante Don Juan attacked Tarifa with Marinid and Nasrid/Muslim allies.",
-      "es": "Sustituir la expresion simplificada 'asedio moro' por una explicacion mas precisa: el infante don Juan ataco Tarifa con aliados benimerines y nazaries/musulmanes."
+      "es": "Sustituir la expresión simplificada 'asedio moro' por una explicación más precisa: el infante don Juan atacó Tarifa con aliados benimerines y nazaries/musulmanes."
     },
     {
       "en": "Treat the dagger scene and exact spoken words as traditional or legendary elaboration, even though the core refusal to surrender Tarifa is attested in medieval narrative sources.",
-      "es": "Tratar la escena del punal y las palabras exactas como elaboracion tradicional o legendaria, aunque el nucleo de la negativa a rendir Tarifa este atestiguado en fuentes narrativas medievales."
+      "es": "Tratar la escena del puñal y las palabras exactas como elaboracion tradicional o legendaria, aunque el núcleo de la negativa a rendir Tarifa este atestiguado en fuentes narrativas medievales."
     },
     {
       "en": "The previous wording opening_year value of 1974 is not correct for this station; official and archive sources place the Line 6 opening at 13 January 1987.",
-      "es": "El valor opening_year de 1974 no es correcto para esta estacion; las fuentes oficiales y archivisticas situan la apertura de la linea 6 el 13 de enero de 1987."
+      "es": "El valor opening_year de 1974 no es correcto para esta estación; las fuentes oficiales y archivisticas sitúan la apertura de la línea 6 el 13 de enero de 1987."
     }
   ],
   "open_questions": [
     {
       "en": "The exact Madrid City Council agreement date for naming Calle de Guzman el Bueno remains unresolved; the street-history PDF says the date is unknown because the relevant file disappeared.",
-      "es": "La fecha exacta del acuerdo del Ayuntamiento de Madrid que denomino la calle de Guzman el Bueno sigue sin resolverse; el PDF de historia de la calle indica que se desconoce porque desaparecio el expediente correspondiente."
+      "es": "La fecha exacta del acuerdo del Ayuntamiento de Madrid que denomino la calle de Guzmán el Bueno sigue sin resolverse; el PDF de historia de la calle indica que se desconoce porque desaparecio el expediente correspondiente."
     },
     {
       "en": "A station-specific naming decree was not found; the current conclusion relies on the station's location by the named street and on transport sources using that inherited name.",
-      "es": "No se ha encontrado un decreto especifico de denominacion de la estacion; la conclusion actual se basa en la ubicacion junto a la calle homonima y en las fuentes de transporte que usan ese nombre heredado."
+      "es": "No se ha encontrado un decreto especifico de denominación de la estación; la conclusion actual se basa en la ubicación junto a la calle homonima y en las fuentes de transporte que usan ese nombre heredado."
     },
     {
       "en": "The origin of the epithet 'el Bueno' is traditionally linked to Sancho IV and Tarifa, but the exact documentary status of an official royal grant of the nickname should be checked in specialist works if needed.",
-      "es": "El origen del sobrenombre 'el Bueno' se vincula tradicionalmente a Sancho IV y Tarifa, pero el estado documental exacto de una concesion regia oficial del sobrenombre deberia comprobarse en estudios especializados si se necesita."
+      "es": "El origen del sobrenombre 'el Bueno' se vincula tradicionalmente a Sancho IV y Tarifa, pero el estado documental exacto de una concesion regia oficial del sobrenombre debería comprobarse en estudios especializados si se necesita."
     }
   ],
   "missing_bilingual_markdown_fields": [],

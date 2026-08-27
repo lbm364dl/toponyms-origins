@@ -2,7 +2,7 @@ El nombre de la estación procede primero de un lugar: el Hospital Universitario
 
 Detrás del nombre del hospital está Severo Ochoa de Albornoz, nacido en Luarca, Asturias, el 24 de septiembre de 1905. Ochoa se formó como médico, llegó a ser una figura clave de la bioquímica del siglo XX y desarrolló buena parte de su carrera científica fuera de España, especialmente en Estados Unidos.
 
-La relación con el hospital es especialmente directa. La historia publicada por la Comunidad de Madrid indica que el centro empezó a prestar asistencia sanitaria en 1987 y que el doctor Severo Ochoa lo inauguró en marzo de 1988. Una crónica contemporánea de El Pais precisa que la inauguración oficial tuvo lugar el día anterior, 3 de marzo de 1988, con la presencia del vicepresidente Alfonso Guerra, el ministro de Sanidad Julian Garcia Vargas y el propio Ochoa.
+La relación con el hospital es especialmente directa. La historia publicada por la Comunidad de Madrid indica que el centro empezó a prestar asistencia sanitaria en 1987 y que el doctor Severo Ochoa lo inauguró en marzo de 1988. Una crónica contemporánea de El País precisa que la inauguración oficial tuvo lugar el día anterior, 3 de marzo de 1988, con la presencia del vicepresidente Alfonso Guerra, el ministro de Sanidad Julian Garcia Vargas y el propio Ochoa.
 
 La conexión con el Nobel es esencial para entender el homenaje. NobelPrize.org registra que Ochoa compartió el Premio Nobel de Fisiología o Medicina de 1959 con Arthur Kornberg por descubrimientos relacionados con la síntesis biológica del ácido ribonucleico y del ácido desoxirribonucleico. Esa formulación es algo más amplia y precisa que decir solamente que descubrió enzimas implicadas en la síntesis del ARN.
 

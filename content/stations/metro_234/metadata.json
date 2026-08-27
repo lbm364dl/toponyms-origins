@@ -9,62 +9,62 @@
   "naming_date": "2003-04-11",
   "sources": [
     {
-      "title": "Conservatorio Profesional de Musica de Getafe | Comunidad de Madrid",
+      "title": "Conservatorio Profesional de Música de Getafe | Comunidad de Madrid",
       "url": "https://www.comunidad.madrid/centros/conservatorio-profesional-musica-getafe",
       "type": "official",
       "relevance_en": "Identifies the exact institution, its address, its inauguration in 2000, its public regional status, its official name under Decree 42/2001, and MetroSur station \"Conservatorio\" as its metro access.",
-      "relevance_es": "Identifica la institucion exacta, su direccion, su inauguracion en 2000, su caracter publico regional, su denominacion oficial por el Decreto 42/2001 y la estacion de Metrosur \"Conservatorio\" como acceso en metro."
+      "relevance_es": "Identifica la institución exacta, su dirección, su inauguración en 2000, su carácter público regional, su denominación oficial por el Decreto 42/2001 y la estación de Metrosur \"Conservatorio\" como acceso en metro."
     },
     {
       "title": "Conservatorio | Consorcio Regional de Transportes de Madrid",
       "url": "https://www.crtm.es/tu-transporte-publico/metro/estaciones/4_224?idPestana=1",
       "type": "official",
       "relevance_en": "Provides the official CRTM station page, station access at Avenida de las Arcas del Agua, 9 in Getafe, Line 12 correspondence, and nearby transport services.",
-      "relevance_es": "Aporta la ficha oficial del CRTM de la estacion, el acceso en la avenida de las Arcas del Agua, 9 en Getafe, la correspondencia con la linea 12 y los servicios de transporte cercanos."
+      "relevance_es": "Aporta la ficha oficial del CRTM de la estación, el acceso en la avenida de las Arcas del Agua, 9 en Getafe, la correspondencia con la línea 12 y los servicios de transporte cercanos."
     },
     {
-      "title": "La Linea 12 (Metrosur) de Metro de Madrid | Comunidad de Madrid",
+      "title": "La Línea 12 (Metrosur) de Metro de Madrid | Comunidad de Madrid",
       "url": "https://www.comunidad.madrid/transporte/linea-12-metrosur-metro-madrid",
       "type": "official",
       "relevance_en": "Describes Conservatorio station as located at Avenida Arcas del Agua and Senda de Mafalda, near the conservatory, and gives station characteristics.",
-      "relevance_es": "Describe la estacion Conservatorio como situada en la avenida Arcas del Agua y la calle Senda de Mafalda, cerca del conservatorio, y ofrece caracteristicas de la estacion."
+      "relevance_es": "Describe la estación Conservatorio como situada en la avenida Arcas del Agua y la calle Senda de Mafalda, cerca del conservatorio, y ofrece caracteristicas de la estación."
     },
     {
       "title": "La Comunidad de Madrid celebra el 20 aniversario de Metrosur",
       "url": "https://www.comunidad.madrid/noticias/2023/03/31/comunidad-madrid-celebra-20o-aniversario-metrosur-homenaje-cinco-municipios-circula",
       "type": "official",
       "relevance_en": "Confirms that the 28 MetroSur stations opened on 11 April 2003 and places Line 12 in the broader southern Madrid transport project.",
-      "relevance_es": "Confirma que las 28 estaciones de Metrosur se inauguraron el 11 de abril de 2003 y situa la linea 12 dentro del proyecto de transporte del sur metropolitano."
+      "relevance_es": "Confirma que las 28 estaciones de Metrosur se inauguraron el 11 de abril de 2003 y sitúa la línea 12 dentro del proyecto de transporte del sur metropolitano."
     },
     {
-      "title": "Conservatorio Profesional de Musica | Ayuntamiento de Getafe",
+      "title": "Conservatorio Profesional de Música | Ayuntamiento de Getafe",
       "url": "https://getafe.es/placemarks/conservatorio-profesional-de-musica/",
       "type": "official",
       "relevance_en": "Municipal page confirming the conservatory's address and describing its teaching activity and facilities, reinforcing it as the local landmark behind the station name.",
-      "relevance_es": "Pagina municipal que confirma la direccion del conservatorio y describe su actividad docente e instalaciones, reforzandolo como el hito local que explica el nombre de la estacion."
+      "relevance_es": "Página municipal que confirma la dirección del conservatorio y describe su actividad docente e instalaciones, reforzandolo como el hito local que explica el nombre de la estación."
     },
     {
-      "title": "Plano zonal de la estacion de Metro Conservatorio | CRTM",
+      "title": "Plano zonal de la estación de Metro Conservatorio | CRTM",
       "url": "https://www.crtm.es/media/tw3lqrqm/plano_zonal_metro_conservatorio.pdf",
       "type": "official",
       "relevance_en": "Station-area map showing the metro access and the nearby Conservatorio Profesional de Musica in the same local context.",
-      "relevance_es": "Plano zonal de la estacion que muestra el acceso de metro y el cercano Conservatorio Profesional de Musica en el mismo contexto urbano."
+      "relevance_es": "Plano zonal de la estación que muestra el acceso de metro y el cercano Conservatorio Profesional de Música en el mismo contexto urbano."
     }
   ],
   "corrections": [
     {
       "en": "Replace namesake \"Real Conservatorio Superior de Musica de Madrid\" with \"Conservatorio Profesional de Musica de Getafe\".",
-      "es": "Sustituir referente \"Real Conservatorio Superior de Musica de Madrid\" por \"Conservatorio Profesional de Musica de Getafe\"."
+      "es": "Sustituir referente \"Real Conservatorio Superior de Música de Madrid\" por \"Conservatorio Profesional de Música de Getafe\"."
     },
     {
       "en": "Keep the etymology type as descriptive, but specify that the descriptive landmark is a Getafe public professional music conservatory, not a Madrid higher conservatory.",
-      "es": "Mantener el tipo etimologico como descriptivo, pero precisar que el hito descrito es un conservatorio profesional publico de Getafe, no un conservatorio superior madrileno."
+      "es": "Mantener el tipo etimologico como descriptivo, pero precisar que el hito descrito es un conservatorio profesional público de Getafe, no un conservatorio superior madrileño."
     }
   ],
   "open_questions": [
     {
       "en": "A formal Metro de Madrid or regional naming file for the station was not found; the naming date is inferred from the station opening date, 11 April 2003.",
-      "es": "No se encontro un expediente formal de denominacion de Metro de Madrid o de la Comunidad; la fecha de nombre se infiere de la apertura de la estacion, el 11 de abril de 2003."
+      "es": "No se encontró un expediente formal de denominación de Metro de Madrid o de la Comunidad; la fecha de nombre se infiere de la apertura de la estación, el 11 de abril de 2003."
     }
   ],
   "missing_bilingual_markdown_fields": [],

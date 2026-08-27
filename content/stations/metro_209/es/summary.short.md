@@ -1,1 +1,1 @@
-La estacion de Fuencarral toma su nombre de la antigua villa y municipio de Fuencarral, hoy integrado en el distrito de Fuencarral-El Pardo. El toponimo se explica mejor por una antigua fuente vinculada a caminos y carreteros, aunque el sentido exacto de carral no esta del todo cerrado.
+La estación de Fuencarral toma su nombre de la antigua villa y municipio de Fuencarral, hoy integrado en el distrito de Fuencarral-El Pardo. El topónimo se explica mejor por una antigua fuente vinculada a caminos y carreteros, aunque el sentido exacto de carral no está del todo cerrado.

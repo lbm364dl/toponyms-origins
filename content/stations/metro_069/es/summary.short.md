@@ -1,1 +1,1 @@
-Delicias toma su nombre del Paseo de las Delicias, un paseo arbolado del siglo XVIII que bajaba desde Atocha hacia el Manzanares. Su forma antigua, Paseo de las Delicias del Rio, aludia a un paraje de recreo junto al canal del Manzanares.
+Delicias toma su nombre del Paseo de las Delicias, un paseo arbolado del siglo XVIII que bajaba desde Atocha hacia el Manzanares. Su forma antigua, Paseo de las Delicias del Río, aludía a un paraje de recreo junto al canal del Manzanares.

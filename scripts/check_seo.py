@@ -14,6 +14,35 @@ from xml.etree import ElementTree
 
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / 'docs'
+CONTENT = ROOT / 'content' / 'stations'
+
+SPANISH_DIACRITIC_ERRORS = {
+    'academica', 'academico', 'agricola', 'ambito', 'ampliacion', 'anos',
+    'arqueologica', 'arqueologico', 'asi', 'autobus', 'catolica', 'catolico',
+    'cercanias', 'circulacion', 'conexion', 'contemporanea', 'contemporaneo',
+    'cronologia', 'decada', 'denominacion', 'deposito', 'despues', 'dia', 'dias',
+    'dificil', 'documentacion', 'ensenanza', 'ensenanzas', 'espana', 'espanol',
+    'estacion', 'etimologia', 'facil', 'ferrea', 'ferreo', 'geografica',
+    'geografico', 'historica', 'historico', 'historicas', 'historicos', 'humedo',
+    'hidronimica', 'incorporacion', 'informacion', 'inauguracion', 'investigacion',
+    'jardin', 'latin', 'linea', 'lineas', 'linguistica', 'linguistico', 'mas',
+    'numero', 'pais', 'paisajistica', 'paisajistico', 'pagina', 'poblacion',
+    'politica', 'politico', 'proposito', 'proxima', 'proximo', 'raiz', 'relacion',
+    'rio', 'rios', 'segun', 'simbolica', 'simbolico', 'tambien', 'tecnica',
+    'tecnico', 'teoria', 'toponimo', 'toponimos', 'trafico', 'tradicion',
+    'transformacion', 'ubicacion', 'ultima', 'ultimo', 'unica', 'unico',
+    'urbanizacion', 'vehiculo', 'vias',
+    'abrio', 'anadio', 'construyo', 'convirtio', 'extendio', 'inauguro', 'llego',
+    'nacio', 'permitio', 'prolongo', 'quedo', 'recibio', 'senala', 'senalo',
+    'ademas', 'anexion', 'aparicion', 'articulo', 'arboles', 'catalogo',
+    'categorica', 'debil', 'debiles', 'detras', 'enumeracion', 'expresion',
+    'filologico', 'fotografia', 'generica', 'historicamente', 'humedos',
+    'instalacion', 'invencion', 'limitacion', 'localizo', 'museistico',
+    'operacion', 'ordenacion', 'parrafo', 'patron', 'periodistica', 'preferia',
+    'prehistorica', 'promocion', 'publicacion', 'quiza', 'regeneracion',
+    'rendicion', 'resolucion', 'simbolo', 'tematica', 'television',
+    'traduccion', 'triangulo', 'urbanistico', 'util', 'vinculo',
+}
 BASE_URL = os.environ.get('SITE_BASE_URL', 'https://nombresdemadrid.es/').strip()
 if not BASE_URL.endswith('/'):
     BASE_URL += '/'
@@ -39,6 +68,7 @@ class PageParser(HTMLParser):
         self.images = []
         self.in_main = False
         self.main_words = []
+        self.main_text_parts = []
 
     def handle_starttag(self, tag, attrs):
         values = {key.lower(): value or '' for key, value in attrs}
@@ -86,6 +116,7 @@ class PageParser(HTMLParser):
             self.current_json_ld.append(data)
         if self.in_main:
             self.main_words.extend(re.findall(r'[\wÁÉÍÓÚÜÑáéíóúüñ]+', data))
+            self.main_text_parts.append(data)
 
     @property
     def title(self):
@@ -294,6 +325,15 @@ def main():
             if len(parser.main_words) < 300:
                 warnings.append(f'{route}: short main content ({len(parser.main_words)} words)')
 
+            main_text = ''.join(parser.main_text_parts)
+            leaked_markdown = (
+                r'\*\*[^*\n]+\*\*',
+                r'`[^`\n]+`',
+                r'\[[^\]\n]+\]\([^)\s]+\)',
+            )
+            if any(re.search(pattern, main_text) for pattern in leaked_markdown):
+                errors.append(f'{route}: unrendered inline Markdown in visible content')
+
         local_routes = set()
         for tag, reference in parser.references:
             target = local_target(page_url, reference)
@@ -392,6 +432,48 @@ def main():
     homepage_text = pages.get('', (None, None, ''))[2]
     if 'class="home-editorial"' not in homepage_text or 'class="featured-stories"' not in homepage_text:
         errors.append('/: homepage is missing static editorial and featured content')
+
+    for station_dir in sorted(CONTENT.glob('*')):
+        metadata_path = station_dir / 'metadata.json'
+        if metadata_path.exists():
+            metadata = json.loads(metadata_path.read_text(encoding='utf-8'))
+
+            def spanish_metadata_strings(value, key=''):
+                if isinstance(value, dict):
+                    for child_key, child in value.items():
+                        yield from spanish_metadata_strings(child, child_key)
+                elif isinstance(value, list):
+                    for child in value:
+                        yield from spanish_metadata_strings(child, key)
+                elif isinstance(value, str) and (key == 'es' or key.endswith('_es')):
+                    yield value
+
+            metadata_text = ' '.join(spanish_metadata_strings(metadata))
+            metadata_words = re.findall(r'[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+', metadata_text)
+            metadata_suspects = sorted(
+                {word.casefold() for word in metadata_words} & SPANISH_DIACRITIC_ERRORS
+            )
+            if metadata_suspects:
+                errors.append(
+                    f'{metadata_path.relative_to(ROOT)}: likely missing Spanish diacritics: '
+                    + ', '.join(metadata_suspects[:12])
+                )
+
+        for filename in ('story.md', 'summary.md', 'summary.short.md'):
+            source = station_dir / 'es' / filename
+            if not source.exists():
+                errors.append(f'{source.relative_to(ROOT)}: missing Spanish public copy')
+                continue
+            source_text = source.read_text(encoding='utf-8')
+            words = re.findall(r'[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+', source_text)
+            suspects = sorted({word.casefold() for word in words} & SPANISH_DIACRITIC_ERRORS)
+            if suspects:
+                errors.append(
+                    f'{source.relative_to(ROOT)}: likely missing Spanish diacritics: '
+                    + ', '.join(suspects[:12])
+                )
+            if len(words) >= 80 and not re.search(r'[áéíóúüñÁÉÍÓÚÜÑ]', source_text):
+                errors.append(f'{source.relative_to(ROOT)}: long Spanish copy has no diacritics')
 
     if errors:
         print(f'SEO audit failed with {len(errors)} error(s):')

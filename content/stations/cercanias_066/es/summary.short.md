@@ -1,1 +1,1 @@
-Pinar toma su nombre del entorno arbolado de pinos de Las Rozas. El nombre ferroviario tambien identifica un nudo importante donde confluyen la antigua ruta del Norte, el acceso a Chamartin y enlaces posteriores de Cercanias.
+Pinar toma su nombre del entorno arbolado de pinos de Las Rozas. El nombre ferroviario también identifica un nudo importante donde confluyen la antigua ruta del Norte, el acceso a Chamartín y enlaces posteriores de Cercanías.

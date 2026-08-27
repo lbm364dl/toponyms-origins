@@ -136,6 +136,27 @@ def truncate_text(value, limit=155):
         return value
     return value[:limit - 1].rsplit(' ', 1)[0].rstrip('.,;:') + '…'
 
+def inline_markdown_to_html(text):
+    """Render the small, safe inline-Markdown subset used by station copy."""
+    rendered = esc(text)
+    code_fragments = []
+
+    def stash_code(match):
+        code_fragments.append(f'<code>{match.group(1)}</code>')
+        return f'\x00CODE{len(code_fragments) - 1}\x00'
+
+    rendered = re.sub(r'`([^`\n]+)`', stash_code, rendered)
+    rendered = re.sub(
+        r'\[([^\]\n]+)\]\((https?://[^)\s]+)\)',
+        r'<a href="\2">\1</a>',
+        rendered,
+    )
+    rendered = re.sub(r'\*\*([^*\n]+)\*\*', r'<strong>\1</strong>', rendered)
+    rendered = re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)', r'<em>\1</em>', rendered)
+    for index, fragment in enumerate(code_fragments):
+        rendered = rendered.replace(f'\x00CODE{index}\x00', fragment)
+    return rendered
+
 def slugify(value):
     value = unicodedata.normalize('NFKD', value or '')
     value = ''.join(ch for ch in value if not unicodedata.combining(ch))
@@ -241,17 +262,17 @@ def markdown_to_html(text):
         heading = re.match(r'^(#{2,4})\s+(.+)$', lines[0])
         if heading and len(lines) == 1:
             level = min(4, len(heading.group(1)) + 1)
-            rendered.append(f'<h{level}>{esc(heading.group(2))}</h{level}>')
+            rendered.append(f'<h{level}>{inline_markdown_to_html(heading.group(2))}</h{level}>')
             continue
         if all(re.match(r'^[-*]\s+', line) for line in lines):
             item_texts = [re.sub(r'^[-*]\s+', '', line) for line in lines]
             items = ''.join(
-                f'<li>{esc(item)}</li>'
+                f'<li>{inline_markdown_to_html(item)}</li>'
                 for item in item_texts
             )
             rendered.append(f'<ul>{items}</ul>')
             continue
-        rendered.append(f'<p>{esc(" ".join(lines))}</p>')
+        rendered.append(f'<p>{inline_markdown_to_html(" ".join(lines))}</p>')
     return '\n'.join(rendered)
 
 def station_description(entry):
@@ -471,11 +492,14 @@ def source_items_html(entry):
             relevance = source.get('relevance_es') or source.get('relevance_en') or ''
             url = source.get('url')
             title_html = (
-                f'<a class="source-link source-title" href="{esc(url)}">{esc(title)}</a>'
-                if url else f'<span class="source-title">{esc(title)}</span>'
+                f'<a class="source-link source-title" href="{esc(url)}">{inline_markdown_to_html(title)}</a>'
+                if url else f'<span class="source-title">{inline_markdown_to_html(title)}</span>'
             )
             type_html = f'<span class="source-type">{esc(source.get("type"))}</span>' if source.get('type') else ''
-            relevance_html = f'<div class="source-relevance">{esc(relevance)}</div>' if relevance else ''
+            relevance_html = (
+                f'<div class="source-relevance">{inline_markdown_to_html(relevance)}</div>'
+                if relevance else ''
+            )
             items.append(f'<div class="source-item">{title_html}{type_html}{relevance_html}</div>')
         return '\n'.join(items)
 
@@ -484,7 +508,10 @@ def source_items_html(entry):
     for source in raw.split(';'):
         source = source.strip()
         if source:
-            items.append(f'<div class="source-item"><span class="source-title">{esc(source)}</span></div>')
+            items.append(
+                f'<div class="source-item"><span class="source-title">'
+                f'{inline_markdown_to_html(source)}</span></div>'
+            )
     return '\n'.join(items) or '<em>Sin fuentes registradas.</em>'
 
 def primary_nav_html(root):

@@ -1,1 +1,1 @@
-Conservatorio toma su nombre del Conservatorio Profesional de Musica de Getafe, el centro publico de ensenanzas musicales situado junto al entorno de la estacion en la avenida de las Arcas del Agua. La parada se inauguro con Metrosur el 11 de abril de 2003.
+Conservatorio toma su nombre del Conservatorio Profesional de Música de Getafe, el centro público de enseñanzas musicales situado junto al entorno de la estación en la avenida de las Arcas del Agua. La parada se inauguró con Metrosur el 11 de abril de 2003.
