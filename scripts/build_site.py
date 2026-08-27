@@ -9,17 +9,24 @@ import shutil
 import unicodedata
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlparse
 from xml.sax.saxutils import escape as xml_escape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT_PATH = Path(ROOT)
-SITE_BASE_URL = 'https://lbm364dl.github.io/toponyms-origins/'
-SITE_NAME_ES = 'Origen de nombres de estaciones de Madrid'
+SITE_BASE_URL = os.environ.get('SITE_BASE_URL', 'https://nombresdemadrid.es/').strip()
+if not SITE_BASE_URL.endswith('/'):
+    SITE_BASE_URL += '/'
+SITE_NAME_ES = 'Nombres de Madrid'
 SITE_NAME_EN = 'Madrid Station Name Origins'
 SITE_DESCRIPTION_ES = (
-    'Atlas de los orígenes de nombres de estaciones de Madrid: Metro, Cercanías, '
-    'Metro Ligero y Tranvía de Parla, con mapa, fuentes y nivel de confianza.'
+    'Descubre por qué se llaman así las estaciones de Madrid: Metro, Cercanías, '
+    'Metro Ligero y Tranvía, con fuentes y nivel de confianza.'
 )
+SITE_OWNER_NAME = os.environ.get('SITE_OWNER_NAME', 'lbm364dl').strip()
+SITE_REPOSITORY_URL = 'https://github.com/lbm364dl/toponyms-origins'
+SITE_OG_IMAGE = 'og-image.png'
+SITE_PATH_PREFIX = urlparse(SITE_BASE_URL).path.rstrip('/')
 STATION_CATEGORIES = {'metro', 'cercanias', 'metro_ligero'}
 STATION_CATEGORY_LABELS_ES = {
     'metro': 'Metro de Madrid',
@@ -127,6 +134,39 @@ def slugify(value):
 def absolute_url(path=''):
     return SITE_BASE_URL + str(path or '').lstrip('/')
 
+def site_path(path=''):
+    """Return a root-relative URL that also works under a temporary path prefix."""
+    clean_path = str(path or '').lstrip('/')
+    prefix = f'{SITE_PATH_PREFIX}/' if SITE_PATH_PREFIX else '/'
+    return prefix + clean_path
+
+def relative_root(depth):
+    return '../' * depth
+
+def network_path(entry):
+    slug = STATION_CATEGORY_SLUGS.get(entry.get('_category'), slugify(entry.get('_category')))
+    return f'redes/{slug}/'
+
+def line_path(line):
+    return f'lineas/linea-{slugify(line)}/'
+
+def district_path(district):
+    return f'distritos/{slugify(district)}/'
+
+def type_path(etymology_type):
+    plural_slugs = {
+        'person': 'personas',
+        'place': 'lugares',
+        'descriptive': 'descriptivos',
+        'historical': 'historicos',
+        'religious': 'religiosos',
+        'event': 'eventos',
+        'occupation': 'oficios',
+        'mythological': 'mitologicos',
+        'unknown': 'desconocidos',
+    }
+    return f'origenes/{plural_slugs.get(etymology_type, slugify(etymology_type))}/'
+
 def station_summary(entry, lang='es'):
     if lang == 'es':
         return (
@@ -217,6 +257,12 @@ def format_operator(value):
     )
 
 def assign_station_pages(entries):
+    name_counts = {}
+    for entry in entries:
+        if entry.get('_category') in STATION_CATEGORIES:
+            normalized_name = (entry.get('name') or '').casefold()
+            name_counts[normalized_name] = name_counts.get(normalized_name, 0) + 1
+
     used = set()
     for entry in entries:
         if entry.get('_category') not in STATION_CATEGORIES:
@@ -228,16 +274,78 @@ def assign_station_pages(entries):
             slug = f'{slug}-{STATION_CATEGORY_SLUGS.get(entry.get("_category"), entry.get("_category", ""))}'
         used.add(slug)
         entry['page_path'] = f'stations/{slug}/'
+        if name_counts.get((entry.get('name') or '').casefold(), 0) > 1:
+            entry['_title_disambiguator'] = STATION_CATEGORY_LABELS_ES.get(
+                entry.get('_category'), entry.get('_category', '')
+            )
+
+def station_title(entry):
+    name = entry.get('name', '')
+    disambiguator = entry.get('_title_disambiguator')
+    display_name = f'{name} ({disambiguator})' if disambiguator else name
+    candidates = (
+        f'¿Por qué se llama {display_name}? | {SITE_NAME_ES}',
+        f'{display_name}: origen del nombre | {SITE_NAME_ES}',
+        f'{display_name}: origen del nombre',
+    )
+    return next((candidate for candidate in candidates if len(candidate) <= 65), candidates[-1])
+
+def station_heading(entry):
+    name = entry.get('name', '')
+    disambiguator = entry.get('_title_disambiguator')
+    display_name = f'{name} ({disambiguator})' if disambiguator else name
+    return f'¿Por qué se llama {display_name}?'
+
+def entry_lines(entry):
+    return [part.strip() for part in str(entry.get('line') or '').split(';') if part.strip()]
+
+def related_stations(entry, entries, limit=6):
+    current_lines = set(entry_lines(entry))
+    scored = []
+    for other in entries:
+        if other is entry or other.get('_category') not in STATION_CATEGORIES:
+            continue
+        shared_lines = current_lines.intersection(entry_lines(other))
+        score = len(shared_lines) * 10
+        if entry.get('district') and entry.get('district') == other.get('district'):
+            score += 4
+        if entry.get('municipality') and entry.get('municipality') == other.get('municipality'):
+            score += 3
+        if entry.get('_category') == other.get('_category'):
+            score += 1
+        if score:
+            scored.append((-score, (other.get('name') or '').casefold(), other))
+    scored.sort(key=lambda item: (item[0], item[1], item[2].get('id', '')))
+    return [item[2] for item in scored[:limit]]
 
 def json_ld(data):
     return json.dumps(data, ensure_ascii=False, separators=(',', ':'))
 
+def organization_json_ld():
+    return {
+        '@type': 'Organization',
+        '@id': absolute_url('#organization'),
+        'name': SITE_NAME_ES,
+        'url': absolute_url(),
+        'logo': {
+            '@type': 'ImageObject',
+            'url': absolute_url('icon-512.png'),
+            'width': 512,
+            'height': 512,
+        },
+        'sameAs': SITE_REPOSITORY_URL,
+    }
+
 def station_json_ld(entry):
     url = absolute_url(entry['page_path'])
+    title = station_title(entry)
+    headline = station_heading(entry).rstrip('?')
+    network_label = STATION_CATEGORY_LABELS_ES.get(entry.get('_category'), 'Estaciones')
+    contained_name = entry.get('municipality') or 'Madrid'
     place = {
         '@type': 'Place',
         'name': f'Estación de {entry.get("name", "")}',
-        'containedInPlace': {'@type': 'City', 'name': 'Madrid'},
+        'containedInPlace': {'@type': 'AdministrativeArea', 'name': contained_name},
     }
     if entry.get('latitude') and entry.get('longitude'):
         place['geo'] = {
@@ -253,27 +361,47 @@ def station_json_ld(entry):
                 '@type': 'WebPage',
                 '@id': url,
                 'url': url,
-                'name': f'{entry.get("name", "")}: origen del nombre de la estación',
+                'name': title,
                 'description': station_description(entry),
                 'inLanguage': 'es',
                 'isPartOf': {'@id': absolute_url('#website')},
                 'about': {'@id': f'{url}#station'},
+                'breadcrumb': {'@id': f'{url}#breadcrumb'},
             },
             {
                 '@type': 'Article',
                 '@id': f'{url}#article',
-                'headline': f'{entry.get("name", "")}: origen del nombre de la estación',
+                'headline': headline,
                 'description': station_description(entry),
                 'inLanguage': 'es',
                 'isAccessibleForFree': True,
                 'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
                 'mainEntityOfPage': {'@id': url},
                 'about': {'@id': f'{url}#station'},
+                'author': {'@id': absolute_url('#organization')},
+                'publisher': {'@id': absolute_url('#organization')},
+                'keywords': [
+                    'toponimia de Madrid',
+                    'origen de nombres',
+                    entry.get('name', ''),
+                    network_label,
+                ],
             },
             {
                 **place,
                 '@id': f'{url}#station',
             },
+            {
+                '@type': 'BreadcrumbList',
+                '@id': f'{url}#breadcrumb',
+                'itemListElement': [
+                    {'@type': 'ListItem', 'position': 1, 'name': SITE_NAME_ES, 'item': absolute_url()},
+                    {'@type': 'ListItem', 'position': 2, 'name': 'Estaciones', 'item': absolute_url('estaciones/')},
+                    {'@type': 'ListItem', 'position': 3, 'name': network_label, 'item': absolute_url(network_path(entry))},
+                    {'@type': 'ListItem', 'position': 4, 'name': entry.get('name', ''), 'item': url},
+                ],
+            },
+            organization_json_ld(),
         ],
     }
 
@@ -302,21 +430,68 @@ def source_items_html(entry):
             items.append(f'<div class="source-item"><span class="source-title">{esc(source)}</span></div>')
     return '\n'.join(items) or '<em>Sin fuentes registradas.</em>'
 
-def station_page_html(entry):
+def primary_nav_html(root):
+    return f'''<nav class="site-nav" aria-label="Navegación principal">
+      <a href="{root}">Inicio</a>
+      <a href="{root}estaciones/">Estaciones</a>
+      <a href="{root}redes/metro/">Metro</a>
+      <a href="{root}redes/cercanias/">Cercanías</a>
+      <a href="{root}metodologia/">Metodología</a>
+      <a href="{root}sobre-el-proyecto/">Sobre el proyecto</a>
+    </nav>'''
+
+def footer_html(root):
+    return f'''<footer>
+  <div class="container footer-inner">
+    <div>
+      <strong>{esc(SITE_NAME_ES)}</strong><br>
+      <span class="footer-note">Toponimia madrileña documentada · CC-BY-SA 4.0</span>
+    </div>
+    <nav class="footer-links" aria-label="Información legal">
+      <a href="{root}metodologia/">Metodología</a>
+      <a href="{root}sobre-el-proyecto/">Quiénes somos</a>
+      <a href="{root}privacidad/">Privacidad</a>
+      <a href="{root}cookies/">Cookies</a>
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">Licencia</a>
+      <a href="{SITE_REPOSITORY_URL}">Código y datos</a>
+    </nav>
+  </div>
+</footer>'''
+
+def related_stations_html(entry, entries, root):
+    related = related_stations(entry, entries)
+    if not related:
+        return ''
+    items = []
+    for other in related:
+        summary = truncate_text(station_summary(other, 'es'), 120)
+        items.append(
+            f'<li><a href="{root}{esc(other["page_path"])}">'
+            f'<strong>{esc(other.get("name"))}</strong>'
+            f'{f"<span>{esc(summary)}</span>" if summary else ""}</a></li>'
+        )
+    return f'''<section class="related-stations" aria-labelledby="related-heading">
+      <h2 id="related-heading">Sigue explorando nombres relacionados</h2>
+      <ul>{''.join(items)}</ul>
+    </section>'''
+
+def station_page_html(entry, entries):
+    root = '../../'
     url = absolute_url(entry['page_path'])
     description = station_description(entry)
     story_html = markdown_to_html(station_story(entry))
     named_after = entry.get('named_after_es') or entry.get('named_after') or ''
-    title = f'{entry.get("name", "")}: origen del nombre de la estación | Madrid'
-    badges = ''.join(
-        f'<span class="badge">{esc(value)}</span>'
-        for value in (
-            ETYM_TYPE_LABELS_ES.get(entry.get('etymology_type'), entry.get('etymology_type')),
-            CONFIDENCE_LABELS_ES.get(entry.get('confidence'), entry.get('confidence')),
-            entry.get('line') and f'Línea {format_lines(entry.get("line"))}',
-        )
-        if value
-    )
+    title = station_title(entry)
+    type_label = ETYM_TYPE_LABELS_ES.get(entry.get('etymology_type'), entry.get('etymology_type'))
+    badges = []
+    if type_label:
+        badges.append(f'<a class="badge" href="{root}{type_path(entry.get("etymology_type"))}">{esc(type_label)}</a>')
+    confidence_label = CONFIDENCE_LABELS_ES.get(entry.get('confidence'), entry.get('confidence'))
+    if confidence_label:
+        badges.append(f'<span class="badge">{esc(confidence_label)}</span>')
+    for line in entry_lines(entry):
+        badges.append(f'<a class="badge" href="{root}{line_path(line)}">Línea {esc(line)}</a>')
+    badges = ''.join(badges)
     details = ''.join(
         f'<div class="detail-label">{label}</div><div class="detail-value">{esc(value)}</div>'
         for label, value in (
@@ -338,42 +513,50 @@ def station_page_html(entry):
 <meta name="description" content="{esc(description)}">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <link rel="canonical" href="{esc(url)}">
+<link rel="alternate" hreflang="es" href="{esc(url)}">
+<link rel="alternate" hreflang="x-default" href="{esc(url)}">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
 <meta property="og:site_name" content="{esc(SITE_NAME_ES)}">
 <meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{esc(url)}">
-<meta property="og:image" content="{esc(absolute_url('og-image.png'))}">
+<meta property="og:image" content="{esc(absolute_url(SITE_OG_IMAGE))}">
+<meta property="og:image:alt" content="Mapa tipográfico de nombres de estaciones de Madrid">
 <meta property="og:image:type" content="image/png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(description)}">
-<meta name="twitter:image" content="{esc(absolute_url('og-image.png'))}">
-<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../style.css">
+<meta name="twitter:image" content="{esc(absolute_url(SITE_OG_IMAGE))}">
+<link rel="icon" href="{root}favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="{root}manifest.webmanifest">
+<link rel="stylesheet" href="{root}style.css">
 <script type="application/ld+json">{json_ld(station_json_ld(entry))}</script>
 </head>
 <body class="station-page">
 <header>
   <div class="container station-hero">
-    <a class="back-link" href="../../">Todas las estaciones</a>
+    {primary_nav_html(root)}
+    <nav class="breadcrumbs" aria-label="Migas de pan">
+      <a href="{root}">Inicio</a><span aria-hidden="true">/</span>
+      <a href="{root}estaciones/">Estaciones</a><span aria-hidden="true">/</span>
+      <a href="{root}{network_path(entry)}">{esc(STATION_CATEGORY_LABELS_ES.get(entry.get('_category'), 'Red'))}</a><span aria-hidden="true">/</span>
+      <span aria-current="page">{esc(entry.get('name'))}</span>
+    </nav>
     <div class="hero-left">
       <span class="hero-eyebrow">{esc(station_meta(entry))}</span>
-      <h1>{esc(entry.get('name', ''))}</h1>
-      <p class="subtitle">Origen del nombre de la estación.</p>
+      <h1>{esc(station_heading(entry))}</h1>
+      <p class="subtitle">Historia y origen documentado del nombre de la estación de {esc(entry.get('name', ''))}.</p>
     </div>
   </div>
 </header>
 <main class="container station-main">
   <article class="station-article">
     <div class="entry-badges">{badges}</div>
-    <section class="etymology-summary markdown-content">
+    <p class="editorial-note">Investigación de <a href="{root}sobre-el-proyecto/">{esc(SITE_NAME_ES)}</a> · <a href="{root}metodologia/">Cómo verificamos cada origen</a></p>
+    <section class="etymology-summary markdown-content" aria-label="Origen del nombre">
       {story_html or f'<p>{esc(description)}</p>'}
     </section>
     {f'<div class="detail-grid">{details}</div>' if details else ''}
@@ -381,17 +564,10 @@ def station_page_html(entry):
       <h2>Fuentes</h2>
       {source_items_html(entry)}
     </section>
+    {related_stations_html(entry, entries, root)}
   </article>
 </main>
-<footer>
-  <div class="container footer-inner">
-    <div>
-      <strong>{esc(SITE_NAME_ES)}</strong><br>
-      <span class="footer-note">Orígenes de nombres de estaciones · CC-BY-SA 4.0</span>
-    </div>
-    <div class="footer-links"><a href="../../">Inicio</a><a href="https://creativecommons.org/licenses/by-sa/4.0/">Licencia</a></div>
-  </div>
-</footer>
+{footer_html(root)}
 </body>
 </html>
 '''
@@ -407,15 +583,384 @@ def build_station_pages(entries, out_root):
             continue
         page_dir = Path(out_root) / entry['page_path']
         page_dir.mkdir(parents=True, exist_ok=True)
-        (page_dir / 'index.html').write_text(station_page_html(entry), encoding='utf-8')
+        (page_dir / 'index.html').write_text(station_page_html(entry, entries), encoding='utf-8')
         count += 1
     return count
 
-def build_sitemap(entries, out_root):
+def collection_json_ld(title, description, path, entries=None, page_type='CollectionPage'):
+    url = absolute_url(path)
+    graph = [
+        {
+            '@type': page_type,
+            '@id': url,
+            'url': url,
+            'name': title,
+            'description': description,
+            'inLanguage': 'es',
+            'isPartOf': {'@id': absolute_url('#website')},
+            'publisher': {'@id': absolute_url('#organization')},
+        }
+    ]
+    if entries:
+        graph.append({
+            '@type': 'ItemList',
+            '@id': f'{url}#list',
+            'numberOfItems': len(entries),
+            'itemListElement': [
+                {
+                    '@type': 'ListItem',
+                    'position': index,
+                    'name': entry.get('name', ''),
+                    'url': absolute_url(entry.get('page_path', '')),
+                }
+                for index, entry in enumerate(entries, 1)
+            ],
+        })
+    graph.append(organization_json_ld())
+    return {'@context': 'https://schema.org', '@graph': graph}
+
+def directory_entries_html(entries, root):
+    items = []
+    for entry in sorted(entries, key=lambda item: ((item.get('name') or '').casefold(), item.get('id', ''))):
+        meta = station_meta(entry)
+        summary = truncate_text(station_summary(entry, 'es'), 135)
+        items.append(f'''<li>
+          <a href="{root}{esc(entry['page_path'])}">
+            <strong>{esc(entry.get('name'))}</strong>
+            <span class="directory-meta">{esc(meta)}</span>
+            {f'<span class="directory-summary">{esc(summary)}</span>' if summary else ''}
+          </a>
+        </li>''')
+    return f'<ul class="station-directory">{"".join(items)}</ul>'
+
+def link_directory_html(items, root):
+    links = ''.join(
+        f'<li><a href="{root}{esc(path)}"><strong>{esc(name)}</strong><span>{esc(description)}</span></a></li>'
+        for name, path, description in items
+    )
+    return f'<ul class="hub-directory">{links}</ul>'
+
+def content_page_html(
+    title,
+    description,
+    path,
+    body_html,
+    depth=1,
+    entries=None,
+    robots='index, follow',
+    page_type='CollectionPage',
+):
+    root = relative_root(depth)
+    url = absolute_url(path)
+    page_title = f'{title} | {SITE_NAME_ES}'
+    if len(page_title) > 65 and title.startswith('Nombres de '):
+        compact_title = title[len('Nombres de '):]
+        compact_title = compact_title[:1].upper() + compact_title[1:]
+        page_title = f'{compact_title} | {SITE_NAME_ES}'
+    schema = collection_json_ld(title, description, path, entries, page_type)
+    return f'''<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(page_title)}</title>
+<meta name="description" content="{esc(truncate_text(description, 160))}">
+<meta name="robots" content="{esc(robots)}">
+<link rel="canonical" href="{esc(url)}">
+<link rel="alternate" hreflang="es" href="{esc(url)}">
+<link rel="alternate" hreflang="x-default" href="{esc(url)}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="{esc(SITE_NAME_ES)}">
+<meta property="og:title" content="{esc(page_title)}">
+<meta property="og:description" content="{esc(truncate_text(description, 160))}">
+<meta property="og:url" content="{esc(url)}">
+<meta property="og:image" content="{esc(absolute_url(SITE_OG_IMAGE))}">
+<meta property="og:image:alt" content="Mapa tipográfico de nombres de estaciones de Madrid">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{esc(page_title)}">
+<meta name="twitter:description" content="{esc(truncate_text(description, 160))}">
+<meta name="twitter:image" content="{esc(absolute_url(SITE_OG_IMAGE))}">
+<link rel="icon" href="{root}favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="{root}manifest.webmanifest">
+<link rel="stylesheet" href="{root}style.css">
+<script type="application/ld+json">{json_ld(schema)}</script>
+</head>
+<body class="content-page">
+<header>
+  <div class="container content-hero">
+    {primary_nav_html(root)}
+    <nav class="breadcrumbs" aria-label="Migas de pan"><a href="{root}">Inicio</a><span aria-hidden="true">/</span><span aria-current="page">{esc(title)}</span></nav>
+    <span class="hero-eyebrow">Toponimia madrileña</span>
+    <h1>{esc(title)}</h1>
+    <p class="subtitle">{esc(description)}</p>
+  </div>
+</header>
+<main class="container content-main">
+  {body_html}
+</main>
+{footer_html(root)}
+</body>
+</html>
+'''
+
+def write_page(out_root, path, html_text):
+    page_dir = Path(out_root) / path
+    page_dir.mkdir(parents=True, exist_ok=True)
+    (page_dir / 'index.html').write_text(html_text, encoding='utf-8')
+
+def build_directory_pages(entries, out_root):
+    stations = [entry for entry in entries if entry.get('_category') in STATION_CATEGORIES]
+    generated = []
+
+    networks = {}
+    lines = {}
+    districts = {}
+    types = {}
+    for entry in stations:
+        networks.setdefault(entry.get('_category'), []).append(entry)
+        for line in entry_lines(entry):
+            lines.setdefault(line, []).append(entry)
+        if entry.get('district'):
+            districts.setdefault(entry['district'], []).append(entry)
+        if entry.get('etymology_type'):
+            types.setdefault(entry['etymology_type'], []).append(entry)
+
+    description = (
+        f'Índice alfabético de {len(stations)} estaciones de Metro, Cercanías, Metro Ligero y Tranvía '
+        'con el origen de cada nombre, fuentes y nivel de confianza.'
+    )
+    body = f'''<section class="page-section">
+      <h2>Todos los nombres, de la A a la Z</h2>
+      <p>Entra en cualquier estación para consultar de dónde procede su nombre, qué parte de la explicación está documentada y qué fuentes la respaldan.</p>
+      {directory_entries_html(stations, '../')}
+    </section>'''
+    write_page(out_root, 'estaciones/', content_page_html('Todas las estaciones', description, 'estaciones/', body, 1, stations))
+    generated.append('estaciones/')
+
+    network_links = []
+    for category, network_entries in sorted(networks.items(), key=lambda item: STATION_CATEGORY_LABELS_ES.get(item[0], item[0])):
+        label = STATION_CATEGORY_LABELS_ES.get(category, category)
+        path = f'redes/{STATION_CATEGORY_SLUGS.get(category, slugify(category))}/'
+        network_description = f'Origen de los nombres de {len(network_entries)} estaciones de {label}, con investigación y fuentes consultables.'
+        body = f'''<section class="page-section"><h2>Estaciones de {esc(label)}</h2><p>{esc(network_description)}</p>{directory_entries_html(network_entries, '../../')}</section>'''
+        write_page(out_root, path, content_page_html(f'Nombres de estaciones de {label}', network_description, path, body, 2, network_entries))
+        generated.append(path)
+        network_links.append((label, path, f'{len(network_entries)} estaciones documentadas'))
+    path = 'redes/'
+    body = f'<section class="page-section"><h2>Explora por red</h2>{link_directory_html(network_links, "../")}</section>'
+    write_page(out_root, path, content_page_html('Redes de transporte', 'Consulta los nombres de estaciones por red de transporte de Madrid.', path, body, 1))
+    generated.append(path)
+
+    line_links = []
+    for line, line_entries in sorted(lines.items(), key=lambda item: natural_sort_key(item[0])):
+        path = line_path(line)
+        label = f'Línea {line}'
+        line_description = f'Por qué se llaman así las {len(line_entries)} estaciones de la {label} en Madrid, con fuentes y nivel de confianza.'
+        body = f'''<section class="page-section"><h2>Origen de los nombres de la {esc(label)}</h2><p>{esc(line_description)}</p>{directory_entries_html(line_entries, '../../')}</section>'''
+        write_page(out_root, path, content_page_html(f'Nombres de estaciones de la {label}', line_description, path, body, 2, line_entries))
+        generated.append(path)
+        line_links.append((label, path, f'{len(line_entries)} estaciones'))
+    path = 'lineas/'
+    body = f'<section class="page-section"><h2>Explora por línea</h2>{link_directory_html(line_links, "../")}</section>'
+    write_page(out_root, path, content_page_html('Líneas de Metro y Cercanías', 'Índice de líneas para explorar el origen de los nombres de sus estaciones.', path, body, 1))
+    generated.append(path)
+
+    district_links = []
+    for district, district_entries in sorted(districts.items(), key=lambda item: item[0].casefold()):
+        path = district_path(district)
+        district_description = f'Origen de los nombres de {len(district_entries)} estaciones situadas en el distrito de {district}, Madrid.'
+        body = f'''<section class="page-section"><h2>Estaciones de {esc(district)}</h2><p>{esc(district_description)}</p>{directory_entries_html(district_entries, '../../')}</section>'''
+        write_page(out_root, path, content_page_html(f'Nombres de estaciones de {district}', district_description, path, body, 2, district_entries))
+        generated.append(path)
+        district_links.append((district, path, f'{len(district_entries)} estaciones'))
+    path = 'distritos/'
+    body = f'<section class="page-section"><h2>Explora por distrito</h2>{link_directory_html(district_links, "../")}</section>'
+    write_page(out_root, path, content_page_html('Distritos de Madrid', 'Explora los orígenes de nombres de estaciones por distrito madrileño.', path, body, 1))
+    generated.append(path)
+
+    type_links = []
+    for etymology_type, type_entries in sorted(types.items(), key=lambda item: ETYM_TYPE_LABELS_ES.get(item[0], item[0])):
+        label = ETYM_TYPE_LABELS_ES.get(etymology_type, etymology_type)
+        path = type_path(etymology_type)
+        type_description = f'Estaciones de Madrid cuyo nombre tiene un origen de tipo {label.lower()}: {len(type_entries)} casos documentados.'
+        body = f'''<section class="page-section"><h2>Origen {esc(label.lower())}</h2><p>{esc(type_description)}</p>{directory_entries_html(type_entries, '../../')}</section>'''
+        write_page(out_root, path, content_page_html(f'Nombres de origen {label.lower()}', type_description, path, body, 2, type_entries))
+        generated.append(path)
+        type_links.append((label, path, f'{len(type_entries)} estaciones'))
+    path = 'origenes/'
+    body = f'<section class="page-section"><h2>Explora por tipo de origen</h2>{link_directory_html(type_links, "../")}</section>'
+    write_page(out_root, path, content_page_html('Tipos de origen', 'Personas, lugares, hechos históricos, descripciones y otros orígenes de nombres de estaciones.', path, body, 1))
+    generated.append(path)
+
+    return generated
+
+def natural_sort_key(value):
+    return [int(part) if part.isdigit() else part.casefold() for part in re.split(r'(\d+)', str(value))]
+
+def build_trust_pages(out_root, station_count):
+    pages = {
+        'sobre-el-proyecto/': (
+            'Sobre Nombres de Madrid',
+            'Un proyecto independiente y abierto que documenta por qué los lugares y estaciones de Madrid se llaman así.',
+            f'''<article class="prose">
+              <h2>Un atlas abierto de los nombres de Madrid</h2>
+              <p>Nombres de Madrid es un proyecto independiente de investigación y divulgación sobre toponimia madrileña. Su primera colección reúne {station_count} estaciones de Metro, Cercanías, Metro Ligero y Tranvía de Parla.</p>
+              <p>El objetivo no es repetir una leyenda sin más, sino reconstruir la cadena completa: de la estación al lugar que le dio nombre y, desde allí, al origen histórico, lingüístico o biográfico del topónimo.</p>
+              <h2>Quién mantiene el proyecto</h2>
+              <p>El proyecto está mantenido por <a href="https://github.com/lbm364dl">{esc(SITE_OWNER_NAME)}</a>. Los datos, el historial de cambios y las fuentes de construcción del sitio pueden consultarse en el <a href="{SITE_REPOSITORY_URL}">repositorio público</a>.</p>
+              <h2>Independencia editorial</h2>
+              <p>Las fuentes se eligen por su valor documental. Una futura publicidad o colaboración comercial no decidirá qué explicaciones se publican ni su nivel de confianza.</p>
+              <h2>Correcciones y contacto</h2>
+              <p>Si encuentras un error o una fuente mejor, puedes <a href="{SITE_REPOSITORY_URL}/issues/new">abrir una propuesta de corrección</a>. Indica el nombre afectado y, si es posible, enlaza la fuente.</p>
+            </article>''',
+        ),
+        'metodologia/': (
+            'Metodología editorial',
+            'Cómo investigamos, contrastamos y clasificamos el origen de cada nombre publicado en Nombres de Madrid.',
+            '''<article class="prose">
+              <h2>Qué intentamos demostrar</h2>
+              <p>Cada entrada separa dos preguntas: de qué lugar o persona tomó el nombre la estación y de dónde procede, a su vez, ese topónimo o antropónimo. Esa separación evita convertir una asociación inmediata en una etimología no demostrada.</p>
+              <h2>Jerarquía de fuentes</h2>
+              <ol><li>Documentos oficiales, archivos, cartografía histórica y publicaciones de los operadores.</li><li>Investigación académica, diccionarios especializados y monografías.</li><li>Prensa contemporánea y publicaciones locales con autoría identificable.</li><li>Fuentes colaborativas, utilizadas como pista y contrastadas siempre que es posible.</li></ol>
+              <h2>Niveles de confianza</h2>
+              <dl class="confidence-list"><dt>Verificado</dt><dd>La cadena del nombre está respaldada por una fuente primaria o especializada suficientemente directa.</dd><dt>Probable</dt><dd>La explicación encaja con varias fuentes, pero falta una prueba directa o subsiste una alternativa razonable.</dd><dt>Incierto</dt><dd>Hay versiones enfrentadas, tradición oral o evidencia insuficiente. Se publican las dudas en lugar de ocultarlas.</dd></dl>
+              <h2>Cómo se actualiza una entrada</h2>
+              <p>Las correcciones conservan su fuente y quedan reflejadas en el historial público del proyecto. No cambiamos fechas para simular actualidad ni elevamos automáticamente una hipótesis por repetirse en muchas páginas.</p>
+              <h2>Uso de herramientas</h2>
+              <p>El procesamiento de datos y la generación del sitio se automatizan. La valoración de fuentes, las contradicciones y el nivel de confianza forman parte del trabajo editorial y deben poder auditarse.</p>
+            </article>''',
+        ),
+        'privacidad/': (
+            'Política de privacidad',
+            'Información sobre los datos técnicos y preferencias que utiliza Nombres de Madrid.',
+            '''<article class="prose">
+              <p><strong>Última actualización:</strong> 27 de agosto de 2026.</p>
+              <h2>Datos que recoge el sitio</h2>
+              <p>No hay cuentas de usuario, comentarios ni formularios. El navegador guarda únicamente la preferencia de idioma para recordar la interfaz elegida.</p>
+              <h2>Alojamiento y registros técnicos</h2>
+              <p>El proveedor de alojamiento y la red de distribución pueden tratar direcciones IP, cabeceras y registros técnicos necesarios para entregar y proteger el sitio. Esos registros no se usan aquí para crear perfiles personales.</p>
+              <h2>Mapas y recursos externos</h2>
+              <p>Al abrir el mapa, el navegador puede solicitar recursos a OpenStreetMap, CARTO y el proveedor técnico de la biblioteca cartográfica. Los enlaces a fuentes y mapas externos aplican las políticas de sus respectivos sitios.</p>
+              <h2>Publicidad y analítica</h2>
+              <p>Actualmente no se sirven anuncios ni se instala analítica publicitaria. Antes de activar cualquiera de esos servicios, esta política y el mecanismo de consentimiento se actualizarán.</p>
+              <h2>Consultas</h2>
+              <p>Las consultas sobre privacidad pueden enviarse mediante el <a href="https://github.com/lbm364dl/toponyms-origins/issues/new">canal de contacto del proyecto</a>, sin publicar datos personales sensibles.</p>
+            </article>''',
+        ),
+        'cookies/': (
+            'Política de cookies',
+            'Qué almacenamiento local y servicios externos utiliza actualmente Nombres de Madrid.',
+            '''<article class="prose">
+              <p><strong>Última actualización:</strong> 27 de agosto de 2026.</p>
+              <h2>Estado actual</h2>
+              <p>Nombres de Madrid no instala cookies publicitarias. Guarda en <code>localStorage</code> la preferencia de idioma (<code>lang</code>) para mantener la interfaz en español o inglés.</p>
+              <h2>Contenido externo</h2>
+              <p>Los mapas se cargan después de una acción del visitante y pueden implicar solicitudes técnicas a OpenStreetMap y CARTO.</p>
+              <h2>Cambios futuros</h2>
+              <p>Si se incorpora publicidad personalizada o una herramienta que requiera consentimiento, se mostrará un gestor de consentimiento compatible antes de activar esos servicios.</p>
+            </article>''',
+        ),
+    }
+    generated = []
+    for path, (title, description, body) in pages.items():
+        write_page(
+            out_root,
+            path,
+            content_page_html(title, description, path, body, 1, page_type='WebPage'),
+        )
+        generated.append(path)
+    return generated
+
+def sync_homepage_domain(out_root):
+    index_path = Path(out_root) / 'index.html'
+    text = index_path.read_text(encoding='utf-8')
+    match = re.search(r'<!-- site-base-url: (https?://[^ ]+/) -->', text)
+    if not match:
+        raise RuntimeError('docs/index.html is missing the site-base-url marker')
+    previous_url = match.group(1)
+    text = text.replace(previous_url, SITE_BASE_URL)
+    text = re.sub(
+        r'<!-- site-base-url: https?://[^ ]+/ -->',
+        f'<!-- site-base-url: {SITE_BASE_URL} -->',
+        text,
+        count=1,
+    )
+    index_path.write_text(text, encoding='utf-8')
+
+def build_auxiliary_files(out_root):
+    root = Path(out_root)
+    not_found_body = '''<article class="prose">
+      <h2>Esta dirección no existe</h2>
+      <p>Puede que el nombre haya cambiado o que el enlace esté incompleto. Vuelve al índice para buscar la estación por su nombre, línea o distrito.</p>
+      <p><a href="./estaciones/">Explorar todas las estaciones</a></p>
+    </article>'''
+    (root / '404.html').write_text(
+        content_page_html(
+            'Página no encontrada',
+            'La página solicitada no existe en Nombres de Madrid.',
+            '404.html',
+            not_found_body,
+            0,
+            robots='noindex, follow',
+            page_type='WebPage',
+        ),
+        encoding='utf-8',
+    )
+    manifest = {
+        'name': SITE_NAME_ES,
+        'short_name': SITE_NAME_ES,
+        'description': SITE_DESCRIPTION_ES,
+        'start_url': site_path(),
+        'scope': site_path(),
+        'display': 'standalone',
+        'background_color': '#101615',
+        'theme_color': '#101615',
+        'lang': 'es',
+        'icons': [
+            {'src': site_path('favicon.svg'), 'sizes': 'any', 'type': 'image/svg+xml'},
+            {'src': site_path('icon-512.png'), 'sizes': '512x512', 'type': 'image/png'},
+        ],
+    }
+    (root / 'manifest.webmanifest').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    (root / 'humans.txt').write_text(
+        f'''/* TEAM */
+Maintainer: {SITE_OWNER_NAME}
+Project: {SITE_NAME_ES}
+Repository: {SITE_REPOSITORY_URL}
+
+/* SITE */
+Language: Spanish
+Standards: HTML5, CSS, JavaScript, Schema.org
+License: CC-BY-SA 4.0
+''',
+        encoding='utf-8',
+    )
+    (root / '_headers').write_text(
+        '''/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: SAMEORIGIN
+
+/data/*
+  Cache-Control: public, max-age=3600
+
+/stations/*
+  Cache-Control: public, max-age=600
+''',
+        encoding='utf-8',
+    )
+
+def build_sitemap(entries, out_root, generated_paths=None):
     today = date.today().isoformat()
     urls = [
         (absolute_url(), today, '1.0'),
     ]
+    urls.extend(
+        (absolute_url(path), today, '0.7')
+        for path in (generated_paths or [])
+    )
     urls.extend(
         (absolute_url(entry['page_path']), today, '0.8')
         for entry in entries
@@ -564,12 +1109,18 @@ def build():
         json.dump(index_entries, f, ensure_ascii=False)
         f.write(';')
 
+    sync_homepage_domain(os.path.join(ROOT, 'docs'))
     pages_built = build_station_pages(all_entries, os.path.join(ROOT, 'docs'))
-    build_sitemap(all_entries, os.path.join(ROOT, 'docs'))
+    directory_pages = build_directory_pages(all_entries, os.path.join(ROOT, 'docs'))
+    trust_pages = build_trust_pages(os.path.join(ROOT, 'docs'), pages_built)
+    build_auxiliary_files(os.path.join(ROOT, 'docs'))
+    build_sitemap(all_entries, os.path.join(ROOT, 'docs'), directory_pages + trust_pages)
 
     print(f"Built {len(all_entries)} entries -> docs/data/entries.json + entries.js")
     print(f"Built lightweight index -> docs/data/entries_index.json + entries_index.js")
     print(f"Built {pages_built} station pages -> docs/stations/")
+    print(f"Built {len(directory_pages)} crawlable directory pages")
+    print(f"Built {len(trust_pages)} editorial and privacy pages")
     print("Built SEO files -> docs/sitemap.xml + docs/robots.txt")
     if station_content:
         merged = sum(1 for e in all_entries if e.get('has_content_entry') == 'true')

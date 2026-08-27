@@ -1,0 +1,9 @@
+/* TEAM */
+Maintainer: lbm364dl
+Project: Nombres de Madrid
+Repository: https://github.com/lbm364dl/toponyms-origins
+
+/* SITE */
+Language: Spanish
+Standards: HTML5, CSS, JavaScript, Schema.org
+License: CC-BY-SA 4.0

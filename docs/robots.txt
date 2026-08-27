@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lbm364dl.github.io/toponyms-origins/sitemap.xml
+Sitemap: https://nombresdemadrid.es/sitemap.xml

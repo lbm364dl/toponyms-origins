@@ -1,1848 +1,2188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-001-sol/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/estaciones/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/redes/cercanias/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/redes/metro-ligero/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/redes/metro/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/redes/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-1/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-2/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-3/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-4/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-5/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-6/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-7/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-8/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-9/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-10/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-11/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-12/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-1/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-2/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-3/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-4/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-4a/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-4b/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-5/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-7/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-8/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-9/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-c-10/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-ml1/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-ml2/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-ml3/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/linea-tranvia-parla/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/lineas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/arganzuela/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/barajas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/carabanchel/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/centro/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/chamartin/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/chamberi/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/ciudad-lineal/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/fuencarral-el-pardo/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/getafe/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/hortaleza/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/latina/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/moncloa-aravaca/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/moratalaz/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/puente-de-vallecas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/retiro/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/salamanca/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/san-blas-canillejas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/tetuan/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/usera/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/vicalvaro/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/villa-de-vallecas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/villaverde/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/distritos/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/descriptivos/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/eventos/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/historicos/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/lugares/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/oficios/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/personas/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/religiosos/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/origenes/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/sobre-el-proyecto/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/metodologia/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/privacidad/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/cookies/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nombresdemadrid.es/stations/metro-001-sol/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-002-gran-via/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-002-gran-via/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-003-tirso-de-molina/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-003-tirso-de-molina/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-004-la-latina/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-004-la-latina/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-005-goya/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-005-goya/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-006-arguelles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-006-arguelles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-007-chueca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-007-chueca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-008-embajadores/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-008-embajadores/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-009-lavapies/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-009-lavapies/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-010-chamberi/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-010-chamberi/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-011-callao/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-011-callao/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-012-opera/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-012-opera/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-013-principe-de-vergara/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-013-principe-de-vergara/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-014-alfonso-xiii/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-014-alfonso-xiii/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-015-gregorio-maranon/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-015-gregorio-maranon/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-016-paco-de-lucia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-016-paco-de-lucia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-017-manuela-malasana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-017-manuela-malasana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-018-principe-pio/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-018-principe-pio/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-019-eugenia-de-montijo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-019-eugenia-de-montijo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-020-guzman-el-bueno/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-020-guzman-el-bueno/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-021-alonso-martinez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-021-alonso-martinez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-022-diego-de-leon/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-022-diego-de-leon/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-023-vicente-aleixandre/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-023-vicente-aleixandre/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-024-concha-espina/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-024-concha-espina/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-025-santiago-bernabeu/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-025-santiago-bernabeu/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-026-estacion-del-arte/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-026-estacion-del-arte/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-027-feria-de-madrid/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-027-feria-de-madrid/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-028-estadio-metropolitano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-028-estadio-metropolitano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-029-atocha/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-029-atocha/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-030-piramides/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-030-piramides/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-031-tribunal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-031-tribunal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-032-noviciado/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-032-noviciado/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-033-bilbao/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-033-bilbao/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-034-quevedo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-034-quevedo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-035-islas-filipinas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-035-islas-filipinas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-036-moncloa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-036-moncloa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-037-ventas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-037-ventas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-038-manuel-becerra/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-038-manuel-becerra/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-039-o-donnell/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-039-o-donnell/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-040-ibiza/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-040-ibiza/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-041-pacifico/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-041-pacifico/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-042-menendez-pelayo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-042-menendez-pelayo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-043-rios-rosas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-043-rios-rosas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-044-iglesia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-044-iglesia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-045-cruz-del-rayo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-045-cruz-del-rayo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-046-prosperidad/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-046-prosperidad/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-047-cuatro-caminos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-047-cuatro-caminos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-048-tetuan/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-048-tetuan/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-049-estrecho/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-049-estrecho/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-050-valdeacederas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-050-valdeacederas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-051-francos-rodriguez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-051-francos-rodriguez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-052-carpetana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-052-carpetana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-053-oporto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-053-oporto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-054-vista-alegre/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-054-vista-alegre/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-055-carabanchel/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-055-carabanchel/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-056-arturo-soria/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-056-arturo-soria/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-057-esperanza/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-057-esperanza/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-058-canillas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-058-canillas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-059-mar-de-cristal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-059-mar-de-cristal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-060-chamartin/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-060-chamartin/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-061-colombia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-061-colombia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-062-nuevos-ministerios/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-062-nuevos-ministerios/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-063-ruben-dario/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-063-ruben-dario/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-064-nunez-de-balboa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-064-nunez-de-balboa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-065-barajas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-065-barajas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-066-canillejas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-066-canillejas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-067-torre-arias/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-067-torre-arias/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-068-legazpi/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-068-legazpi/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-069-delicias/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-069-delicias/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-070-mendez-alvaro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-070-mendez-alvaro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-071-palos-de-la-frontera/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-071-palos-de-la-frontera/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-072-pavones/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-072-pavones/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-073-valdebernardo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-073-valdebernardo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-074-vicalvaro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-074-vicalvaro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-075-san-cipriano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-075-san-cipriano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-076-hospital-12-de-octubre/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-076-hospital-12-de-octubre/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-077-almendrales/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-077-almendrales/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-078-usera/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-078-usera/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-079-plaza-eliptica/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-079-plaza-eliptica/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-080-puerta-de-arganda/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-080-puerta-de-arganda/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-081-arganda-del-rey/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-081-arganda-del-rey/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-082-la-poveda/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-082-la-poveda/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-083-tres-olivos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-083-tres-olivos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-084-montecarmelo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-084-montecarmelo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-085-las-tablas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-085-las-tablas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-086-pinar-de-chamartin/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-086-pinar-de-chamartin/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-087-anton-martin/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-087-anton-martin/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-088-retiro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-088-retiro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-089-banco-de-espana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-089-banco-de-espana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-090-sevilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-090-sevilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-091-santo-domingo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-091-santo-domingo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-092-san-bernardo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-092-san-bernardo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-093-canal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-093-canal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-094-ventura-rodriguez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-094-ventura-rodriguez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-095-puerta-de-toledo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-095-puerta-de-toledo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-096-acacias/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-096-acacias/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-097-marques-de-vadillo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-097-marques-de-vadillo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-098-conde-de-casal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-098-conde-de-casal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-099-sainz-de-baranda/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-099-sainz-de-baranda/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-100-serrano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-100-serrano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-101-velazquez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-101-velazquez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-102-lista/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-102-lista/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-103-colon/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-103-colon/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-104-republica-argentina/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-104-republica-argentina/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-105-alonso-cano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-105-alonso-cano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-106-cuzco/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-106-cuzco/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-107-plaza-de-castilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-107-plaza-de-castilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-108-alvarado/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-108-alvarado/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-109-puente-de-vallecas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-109-puente-de-vallecas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-110-nueva-numancia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-110-nueva-numancia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-111-portazgo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-111-portazgo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-112-puerta-del-angel/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-112-puerta-del-angel/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-113-alto-de-extremadura/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-113-alto-de-extremadura/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-114-lucero/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-114-lucero/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-115-laguna/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-115-laguna/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-116-aluche/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-116-aluche/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-117-campamento/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-117-campamento/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-118-batan/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-118-batan/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-119-lago/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-119-lago/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-120-casa-de-campo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-120-casa-de-campo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-121-plaza-de-espana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-121-plaza-de-espana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-122-ciudad-universitaria/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-122-ciudad-universitaria/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-123-pio-xii/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-123-pio-xii/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-124-duque-de-pastrana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-124-duque-de-pastrana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-125-herrera-oria/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-125-herrera-oria/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-126-barrio-del-pilar/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-126-barrio-del-pilar/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-127-ventilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-127-ventilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-128-mirasierra/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-128-mirasierra/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-129-arganzuela-planetario/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-129-arganzuela-planetario/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-130-suanzes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-130-suanzes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-131-ciudad-lineal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-131-ciudad-lineal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-132-quintana/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-132-quintana/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-133-el-carmen/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-133-el-carmen/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-134-garcia-noblejas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-134-garcia-noblejas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-135-simancas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-135-simancas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-136-las-musas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-136-las-musas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-137-san-blas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-137-san-blas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-138-pueblo-nuevo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-138-pueblo-nuevo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-139-pinar-del-rey/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-139-pinar-del-rey/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-140-bambu/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-140-bambu/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-141-estrella/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-141-estrella/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-142-vinateros/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-142-vinateros/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-143-artilleros/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-143-artilleros/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-144-avenida-de-america/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-144-avenida-de-america/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-145-cartagena/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-145-cartagena/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-146-antonio-machado/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-146-antonio-machado/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-147-valdezarza/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-147-valdezarza/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-148-colonia-jardin/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-148-colonia-jardin/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-149-opanel/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-149-opanel/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-150-rivas-vaciamadrid/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-150-rivas-vaciamadrid/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-151-julian-besteiro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-151-julian-besteiro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-152-juan-de-la-cierva/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-152-juan-de-la-cierva/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-153-alonso-de-mendoza/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-153-alonso-de-mendoza/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-154-hospital-severo-ochoa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-154-hospital-severo-ochoa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-155-reyes-catolicos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-155-reyes-catolicos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-156-manuel-de-falla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-156-manuel-de-falla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-157-marques-de-la-valdavia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-157-marques-de-la-valdavia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-158-avenida-de-la-paz/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-158-avenida-de-la-paz/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-177-san-lorenzo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-177-san-lorenzo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-160-parque-de-santa-maria/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-160-parque-de-santa-maria/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-161-hortaleza/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-161-hortaleza/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-162-manoteras/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-162-manoteras/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-163-empalme/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-163-empalme/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-182-urgel/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-182-urgel/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-165-el-capricho/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-165-el-capricho/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-166-alameda-de-osuna/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-166-alameda-de-osuna/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-167-pitis/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-167-pitis/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-168-arroyofresno/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-168-arroyofresno/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-169-lacoma/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-169-lacoma/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-188-avenida-de-la-ilustracion/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-188-avenida-de-la-ilustracion/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-171-penagrande/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-171-penagrande/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-172-parque-de-las-avenidas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-172-parque-de-las-avenidas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-173-barrio-de-la-concepcion/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-173-barrio-de-la-concepcion/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-174-ascao/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-174-ascao/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-175-barrio-del-puerto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-175-barrio-del-puerto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-176-coslada-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-176-coslada-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-195-la-rambla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-195-la-rambla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-178-san-fernando/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-178-san-fernando/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-179-jarama/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-179-jarama/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-180-henares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-180-henares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-181-hospital-del-henares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-181-hospital-del-henares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-243-buenos-aires/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-243-buenos-aires/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-159-alto-del-arenal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-159-alto-del-arenal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-244-miguel-hernandez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-244-miguel-hernandez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-245-sierra-de-guadalupe/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-245-sierra-de-guadalupe/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-246-villa-de-vallecas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-246-villa-de-vallecas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-247-congosto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-247-congosto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-164-la-gavia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-164-la-gavia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-258-las-suertes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-258-las-suertes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-248-valdecarros/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-248-valdecarros/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-249-las-rosas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-249-las-rosas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-250-avenida-de-guadalajara/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-250-avenida-de-guadalajara/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-251-alsacia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-251-alsacia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-252-la-almudena/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-252-la-almudena/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-170-la-elipa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-170-la-elipa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-253-san-fermin-orcasur/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-253-san-fermin-orcasur/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-254-ciudad-de-los-angeles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-254-ciudad-de-los-angeles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-255-villaverde-bajo-cruce/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-255-villaverde-bajo-cruce/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-256-san-cristobal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-256-san-cristobal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-257-villaverde-alto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-257-villaverde-alto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-200-aeropuerto-t1-t2-t3/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-200-aeropuerto-t1-t2-t3/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-201-aeropuerto-t4/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-201-aeropuerto-t4/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-202-rivas-urbanizaciones/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-202-rivas-urbanizaciones/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-203-rivas-futura/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-203-rivas-futura/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-204-puerta-del-sur/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-204-puerta-del-sur/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-205-joaquin-vilumbrales/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-205-joaquin-vilumbrales/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-206-cuatro-vientos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-206-cuatro-vientos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-207-aviacion-espanola/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-207-aviacion-espanola/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-208-begona/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-208-begona/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-209-fuencarral/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-209-fuencarral/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-210-ronda-de-la-comunicacion/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-210-ronda-de-la-comunicacion/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-211-la-granja/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-211-la-granja/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-212-la-moraleja/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-212-la-moraleja/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-213-baunatal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-213-baunatal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-214-hospital-infanta-sofia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-214-hospital-infanta-sofia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-215-la-fortuna/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-215-la-fortuna/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-216-la-peseta/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-216-la-peseta/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-217-carabanchel-alto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-217-carabanchel-alto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-218-san-francisco/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-218-san-francisco/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-219-pan-bendito/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-219-pan-bendito/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-220-abrantes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-220-abrantes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-221-parque-lisboa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-221-parque-lisboa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-222-alcorcon-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-222-alcorcon-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-223-parque-oeste/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-223-parque-oeste/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-224-universidad-rey-juan-carlos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-224-universidad-rey-juan-carlos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-225-mostoles-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-225-mostoles-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-226-pradillo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-226-pradillo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-227-hospital-de-mostoles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-227-hospital-de-mostoles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-228-loranca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-228-loranca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-229-hospital-de-fuenlabrada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-229-hospital-de-fuenlabrada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-230-parque-europa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-230-parque-europa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-231-fuenlabrada-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-231-fuenlabrada-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-232-parque-de-los-estados/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-232-parque-de-los-estados/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-233-arroyo-culebro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-233-arroyo-culebro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-234-conservatorio/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-234-conservatorio/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-235-getafe-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-235-getafe-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-236-el-casar/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-236-el-casar/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-237-los-espartales/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-237-los-espartales/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-238-el-bercial/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-238-el-bercial/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-239-el-carrascal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-239-el-carrascal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-240-casa-del-reloj/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-240-casa-del-reloj/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-241-leganes-central/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-241-leganes-central/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/metro-242-san-nicasio/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/metro-242-san-nicasio/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-001-recoletos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-001-recoletos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-004-chamartin-clara-campoamor/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-004-chamartin-clara-campoamor/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-006-fuente-de-la-mora/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-006-fuente-de-la-mora/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-013-doce-de-octubre/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-013-doce-de-octubre/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-014-orcasitas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-014-orcasitas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-015-puente-alcocer/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-015-puente-alcocer/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-016-san-cristobal-de-los-angeles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-016-san-cristobal-de-los-angeles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-017-san-cristobal-industrial/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-017-san-cristobal-industrial/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-018-getafe-industrial/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-018-getafe-industrial/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-019-getafe-centro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-019-getafe-centro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-020-getafe-sector-3/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-020-getafe-sector-3/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-021-las-margaritas-universidad/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-021-las-margaritas-universidad/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-023-pinto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-023-pinto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-024-valdemoro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-024-valdemoro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-025-ciempozuelos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-025-ciempozuelos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-026-aranjuez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-026-aranjuez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-027-parla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-027-parla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-029-cantoblanco-universidad/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-029-cantoblanco-universidad/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-030-alcobendas-san-sebastian-de-los-reyes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-030-alcobendas-san-sebastian-de-los-reyes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-031-el-goloso/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-031-el-goloso/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-032-colmenar-viejo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-032-colmenar-viejo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-033-asamblea-de-madrid-entrevias/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-033-asamblea-de-madrid-entrevias/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-034-el-pozo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-034-el-pozo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-035-santa-eugenia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-035-santa-eugenia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-036-coslada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-036-coslada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-037-san-fernando-de-henares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-037-san-fernando-de-henares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-038-torrejon-de-ardoz/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-038-torrejon-de-ardoz/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-039-soto-del-henares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-039-soto-del-henares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-040-la-garena/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-040-la-garena/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-041-alcala-de-henares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-041-alcala-de-henares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-042-alcala-de-henares-universidad/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-042-alcala-de-henares-universidad/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-043-meco/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-043-meco/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-044-azuqueca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-044-azuqueca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-045-guadalajara/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-045-guadalajara/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-048-las-aguilas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-048-las-aguilas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-051-alcorcon/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-051-alcorcon/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-052-san-jose-de-valderas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-052-san-jose-de-valderas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-053-las-retamas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-053-las-retamas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-054-mostoles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-054-mostoles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-055-mostoles-el-soto/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-055-mostoles-el-soto/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-056-leganes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-056-leganes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-057-parque-polvoranca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-057-parque-polvoranca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-058-fuenlabrada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-058-fuenlabrada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-059-la-serna-fuenlabrada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-059-la-serna-fuenlabrada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-060-humanes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-060-humanes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-061-aravaca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-061-aravaca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-062-el-barrial-centro-comercial-pozuelo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-062-el-barrial-centro-comercial-pozuelo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-063-pozuelo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-063-pozuelo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-064-majadahonda/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-064-majadahonda/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-065-las-rozas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-065-las-rozas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-066-pinar/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-066-pinar/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-067-las-matas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-067-las-matas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-068-torrelodones/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-068-torrelodones/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-069-galapagar-la-navata/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-069-galapagar-la-navata/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-070-san-yago/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-070-san-yago/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-071-el-escorial/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-071-el-escorial/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-072-robledo-de-chavela/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-072-robledo-de-chavela/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-073-santa-maria-de-la-alameda-peguerinos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-073-santa-maria-de-la-alameda-peguerinos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-074-los-negrales/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-074-los-negrales/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-075-alpedrete/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-075-alpedrete/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-076-collado-mediano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-076-collado-mediano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-077-los-molinos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-077-los-molinos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-078-cercedilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-078-cercedilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-079-puerto-de-navacerrada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-079-puerto-de-navacerrada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-080-cotos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-080-cotos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-081-mirasierra-paco-de-lucia/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-081-mirasierra-paco-de-lucia/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-082-ramon-y-cajal/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-082-ramon-y-cajal/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-084-tres-cantos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-084-tres-cantos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-085-valdebebas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-085-valdebebas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-086-vallecas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-086-vallecas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-088-villaverde-bajo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-088-villaverde-bajo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-090-universidad-p-comillas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-090-universidad-p-comillas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-091-valdelasfuentes/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-091-valdelasfuentes/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-092-zarzaquemada/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-092-zarzaquemada/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-093-villalba/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-093-villalba/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-094-las-zorreras/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-094-las-zorreras/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/cercanias-095-zarzalejo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/cercanias-095-zarzalejo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-003-virgen-del-cortijo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-003-virgen-del-cortijo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-004-antonio-saura/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-004-antonio-saura/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-005-alvarez-de-villaamil/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-005-alvarez-de-villaamil/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-006-blasco-ibanez/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-006-blasco-ibanez/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-007-maria-tudor/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-007-maria-tudor/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-008-palas-de-rey/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-008-palas-de-rey/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-011-prado-de-la-vega/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-011-prado-de-la-vega/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-012-colonia-de-los-angeles/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-012-colonia-de-los-angeles/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-013-prado-del-rey/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-013-prado-del-rey/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-014-somosaguas-sur/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-014-somosaguas-sur/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-015-somosaguas-centro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-015-somosaguas-centro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-016-pozuelo-oeste/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-016-pozuelo-oeste/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-017-belgica/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-017-belgica/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-018-dos-castillas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-018-dos-castillas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-019-campus-de-somosaguas/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-019-campus-de-somosaguas/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-020-avenida-de-europa/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-020-avenida-de-europa/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-021-berna/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-021-berna/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-022-estacion-de-aravaca/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-022-estacion-de-aravaca/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-023-ciudad-de-la-imagen/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-023-ciudad-de-la-imagen/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-024-jose-isbert/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-024-jose-isbert/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-025-ciudad-del-cine/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-025-ciudad-del-cine/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-026-cocheras/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-026-cocheras/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-027-retamares/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-027-retamares/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-028-monteprincipe/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-028-monteprincipe/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-029-ventorro-del-cano/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-029-ventorro-del-cano/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-030-prado-del-espino/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-030-prado-del-espino/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-031-cantabria/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-031-cantabria/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-032-ferial-de-boadilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-032-ferial-de-boadilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-033-boadilla-centro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-033-boadilla-centro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-034-nuevo-mundo/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-034-nuevo-mundo/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-035-siglo-xxi/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-035-siglo-xxi/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-036-infante-don-luis/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-036-infante-don-luis/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-037-puerta-de-boadilla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-037-puerta-de-boadilla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-038-plaza-de-toros/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-038-plaza-de-toros/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-039-julio-romero-de-torres/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-039-julio-romero-de-torres/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-040-la-ballena/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-040-la-ballena/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-041-parla-centro-bulevar-norte/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-041-parla-centro-bulevar-norte/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-042-iglesia-centro/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-042-iglesia-centro/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-043-bulevar-sur-miguel-angel-blanco/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-043-bulevar-sur-miguel-angel-blanco/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-044-reyes-catolicos/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-044-reyes-catolicos/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-045-isabel-ii/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-045-isabel-ii/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-046-parque-parla-este/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-046-parque-parla-este/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-047-avenida-sistema-solar/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-047-avenida-sistema-solar/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-048-tierra/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-048-tierra/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-049-venus/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-049-venus/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-050-estrella-polar/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-050-estrella-polar/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-051-jaime-i/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-051-jaime-i/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://lbm364dl.github.io/toponyms-origins/stations/ml-052-poligono-industrial-ciudad-de-parla/</loc>
-    <lastmod>2026-06-06</lastmod>
+    <loc>https://nombresdemadrid.es/stations/ml-052-poligono-industrial-ciudad-de-parla/</loc>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>

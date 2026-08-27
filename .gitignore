@@ -8,3 +8,4 @@ __pycache__/
 *.py[cod]
 runs/
 research/local-sources/
+.playwright-mcp/

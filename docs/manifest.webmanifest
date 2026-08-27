@@ -1,0 +1,23 @@
+{
+  "name": "Nombres de Madrid",
+  "short_name": "Nombres de Madrid",
+  "description": "Descubre por qué se llaman así las estaciones de Madrid: Metro, Cercanías, Metro Ligero y Tranvía, con fuentes y nivel de confianza.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101615",
+  "theme_color": "#101615",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

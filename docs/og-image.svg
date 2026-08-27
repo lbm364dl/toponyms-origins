@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">Origen de nombres de estaciones de Madrid</title>
-  <desc id="desc">Minimal dark preview image with Madrid transport lines and station points.</desc>
+  <title id="title">Nombres de Madrid</title>
+  <desc id="desc">Vista previa de Nombres de Madrid con líneas de transporte y puntos de estación.</desc>
   <rect width="1200" height="630" fill="#101615"/>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.82">
     <path d="M155 500 C260 410 320 390 420 300 S610 160 790 218 S948 338 1085 180" stroke="#38a3dc" stroke-width="10"/>
@@ -13,7 +13,7 @@
     <circle cx="470" cy="326" r="11"/><circle cx="782" cy="352" r="11"/><circle cx="835" cy="285" r="11"/>
     <circle cx="505" cy="322" r="11"/><circle cx="735" cy="510" r="11"/><circle cx="650" cy="395" r="11"/>
   </g>
-  <text x="90" y="150" fill="#9bc7b7" font-family="Georgia, serif" font-size="76">Origen de nombres</text>
-  <text x="90" y="232" fill="#9bc7b7" font-family="Georgia, serif" font-size="76">de estaciones de Madrid</text>
-  <text x="92" y="292" fill="#c9d4ca" font-family="Inter, Arial, sans-serif" font-size="28">Metro · Cercanías · Metro Ligero · Tranvia</text>
+  <text x="90" y="150" fill="#9bc7b7" font-family="Georgia, serif" font-size="82">Nombres de Madrid</text>
+  <text x="92" y="215" fill="#c9d4ca" font-family="Inter, Arial, sans-serif" font-size="30">Por qué cada estación se llama así</text>
+  <text x="92" y="265" fill="#c9d4ca" font-family="Inter, Arial, sans-serif" font-size="26">Metro · Cercanías · Metro Ligero · Tranvía</text>
 </svg>

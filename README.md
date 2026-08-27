@@ -2,6 +2,17 @@
 
 A comprehensive dataset documenting **why things in Madrid are named the way they are** — streets, metro stations, Cercanias stations, Metro Ligero stops, neighbourhoods, districts, plazas, and more.
 
+The public website is prepared for **[nombresdemadrid.es](https://nombresdemadrid.es/)** and is published from `docs/` with GitHub Pages. The custom domain's DNS is managed through Cloudflare.
+
+## Build and validate the website
+
+```bash
+SITE_BASE_URL=https://nombresdemadrid.es/ python3 scripts/build_site.py
+SITE_BASE_URL=https://nombresdemadrid.es/ python3 scripts/check_seo.py
+```
+
+The SEO audit checks metadata, canonicals, hreflang, structured data, sitemap coverage, internal links, and crawl depth for all generated station pages.
+
 ## Status
 
 **Phase 1: Research** (complete) — Identified 140+ sources worldwide: datasets, books, academic papers, blogs, institutional programs.

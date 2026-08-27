@@ -7,7 +7,7 @@ let lineLayer = null;
 let fullEntries = null;
 let fullEntriesPromise = null;
 let mapAssetsPromise = null;
-let currentView = 'map';
+let currentView = 'list';
 let lang = localStorage.getItem('lang') || 'es';
 let initialized = false;
 let renderLimit = 80;
@@ -24,8 +24,8 @@ const APP_ROOT_PATH = (() => {
   return path.endsWith('/') ? path : path.replace(/[^/]*$/, '');
 })();
 const SITE_TITLES = {
-  en: 'Madrid Station Name Origins',
-  es: 'Origen de nombres de estaciones de Madrid'
+  en: 'Madrid Names',
+  es: 'Nombres de Madrid'
 };
 
 const CATEGORY_LABELS = {
@@ -36,10 +36,10 @@ const CATEGORY_LABELS = {
 const I18N = {
   en: {
     siteTitle: SITE_TITLES.en,
-    pageTitle: `${SITE_TITLES.en} | Metro and Cercanías`,
-    title: 'Madrid Station<br>Name Origins',
+    pageTitle: `${SITE_TITLES.en}: station name origins`,
+    title: 'Madrid Names',
     subtitle: 'An atlas of {count} Madrid station-name origins — Metro, Cercanías, Metro Ligero & Tranvía — explaining why each station is named the way it is.',
-    eyebrow: 'Open dataset',
+    eyebrow: 'Madrid toponymy',
     searchPlaceholder: 'Search names, etymologies, people, places...',
     allStations: 'All stations', list: 'List', map: 'Map',
     allTypes: 'Types', allConfidence: 'Confidence', allLines: 'Lines',
@@ -47,7 +47,7 @@ const I18N = {
     religious: 'Religious', event: 'Event', occupation: 'Occupation', mythological: 'Mythological', unknown: 'Unknown',
     verified: 'Verified', probable: 'Probable', uncertain: 'Uncertain',
     places: 'Stations', sources: 'Sources', namedAfter: 'Named after',
-    footerTitle: 'Madrid Station Name Origins Dataset',
+    footerTitle: 'Madrid Names',
     gender: 'Gender', male: 'Male', female: 'Female', lived: 'Lived',
     profession: 'Profession', nationality: 'Nationality', district: 'District',
     neighbourhood: 'Neighbourhood', lines: 'Line(s)', opened: 'Opened',
@@ -66,10 +66,10 @@ const I18N = {
   },
   es: {
     siteTitle: SITE_TITLES.es,
-    pageTitle: `${SITE_TITLES.es} | Metro y Cercanías`,
-    title: 'Origen de nombres<br>de estaciones de Madrid',
+    pageTitle: `${SITE_TITLES.es}: origen de estaciones de Metro y Cercanías`,
+    title: 'Nombres de Madrid',
     subtitle: 'Un atlas de {count} orígenes de nombres de estaciones de Madrid — Metro, Cercanías, Metro Ligero y Tranvía — que explica por qué cada estación se llama así.',
-    eyebrow: 'Nombres de estaciones',
+    eyebrow: 'Toponimia madrileña',
     searchPlaceholder: 'Buscar nombres, etimologías, personas, lugares...',
     allStations: 'Todas', list: 'Lista', map: 'Mapa',
     allTypes: 'Tipos', allConfidence: 'Confianza', allLines: 'Líneas',
@@ -77,7 +77,7 @@ const I18N = {
     religious: 'Religioso', event: 'Evento', occupation: 'Oficio', mythological: 'Mitológico', unknown: 'Desconocido',
     verified: 'Verificado', probable: 'Probable', uncertain: 'Incierto',
     places: 'Estaciones', sources: 'Fuentes', namedAfter: 'Origen del nombre',
-    footerTitle: 'Dataset de orígenes de nombres de estaciones',
+    footerTitle: 'Nombres de Madrid',
     gender: 'Género', male: 'Masculino', female: 'Femenino', lived: 'Vivió',
     profession: 'Profesión', nationality: 'Nacionalidad', district: 'Distrito',
     neighbourhood: 'Barrio', lines: 'Línea(s)', opened: 'Inauguración',
