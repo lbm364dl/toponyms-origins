@@ -3,6 +3,7 @@
 
 import json
 import os
+import re
 import sys
 from collections import Counter, deque
 from html.parser import HTMLParser
@@ -35,6 +36,9 @@ class PageParser(HTMLParser):
         self.json_ld_parts = []
         self.in_json_ld = False
         self.current_json_ld = []
+        self.images = []
+        self.in_main = False
+        self.main_words = []
 
     def handle_starttag(self, tag, attrs):
         values = {key.lower(): value or '' for key, value in attrs}
@@ -51,6 +55,10 @@ class PageParser(HTMLParser):
         elif tag == 'script' and values.get('type', '').lower() == 'application/ld+json':
             self.in_json_ld = True
             self.current_json_ld = []
+        elif tag == 'img':
+            self.images.append(values)
+        elif tag == 'main':
+            self.in_main = True
 
         ref_attr = 'href' if tag in {'a', 'link'} else 'src' if tag in {'img', 'script', 'source'} else None
         if ref_attr and values.get(ref_attr):
@@ -66,6 +74,8 @@ class PageParser(HTMLParser):
             self.json_ld_parts.append(''.join(self.current_json_ld).strip())
             self.current_json_ld = []
             self.in_json_ld = False
+        elif tag == 'main':
+            self.in_main = False
 
     def handle_data(self, data):
         if self.in_title:
@@ -74,6 +84,8 @@ class PageParser(HTMLParser):
             self.h1_parts.append(data)
         if self.in_json_ld:
             self.current_json_ld.append(data)
+        if self.in_main:
+            self.main_words.extend(re.findall(r'[\wÁÉÍÓÚÜÑáéíóúüñ]+', data))
 
     @property
     def title(self):
@@ -146,6 +158,21 @@ def json_types(value):
     return found
 
 
+def json_nodes_of_type(value, expected_type):
+    nodes = []
+    if isinstance(value, dict):
+        kind = value.get('@type')
+        kinds = {kind} if isinstance(kind, str) else set(kind or []) if isinstance(kind, list) else set()
+        if expected_type in kinds:
+            nodes.append(value)
+        for child in value.values():
+            nodes.extend(json_nodes_of_type(child, expected_type))
+    elif isinstance(value, list):
+        for child in value:
+            nodes.extend(json_nodes_of_type(child, expected_type))
+    return nodes
+
+
 def main():
     errors = []
     warnings = []
@@ -213,21 +240,59 @@ def main():
                     errors.append(f'{route or "/"}: invalid or missing {language} hreflang')
 
         structured_types = set()
+        structured_documents = []
         if not parser.json_ld_parts:
             errors.append(f'{route or "/"}: missing JSON-LD')
         for raw_json in parser.json_ld_parts:
             try:
-                structured_types.update(json_types(json.loads(raw_json)))
+                document = json.loads(raw_json)
+                structured_documents.append(document)
+                structured_types.update(json_types(document))
             except json.JSONDecodeError as exc:
                 errors.append(f'{route or "/"}: invalid JSON-LD ({exc})')
 
+        if not noindex and route and 'BreadcrumbList' not in structured_types:
+            errors.append(f'{route}: JSON-LD missing BreadcrumbList')
+
         if route.startswith('stations/'):
-            for required in ('Article', 'Place', 'BreadcrumbList', 'Organization'):
+            for required in ('Article', 'Place', 'ImageObject', 'BreadcrumbList', 'Organization'):
                 if required not in structured_types:
                     errors.append(f'{route}: JSON-LD missing {required}')
-            for marker in ('class="breadcrumbs"', 'class="sources"', 'class="related-stations"'):
+            for marker in (
+                'class="breadcrumbs"',
+                'class="quick-answer"',
+                'class="sources"',
+                'class="related-stations"',
+            ):
                 if marker not in text:
                     errors.append(f'{route}: missing station element {marker}')
+
+            articles = []
+            for document in structured_documents:
+                articles.extend(json_nodes_of_type(document, 'Article'))
+            if len(articles) != 1:
+                errors.append(f'{route}: expected one Article node, found {len(articles)}')
+            else:
+                article = articles[0]
+                for field in ('headline', 'image', 'datePublished', 'dateModified', 'author', 'publisher'):
+                    if not article.get(field):
+                        errors.append(f'{route}: Article missing {field}')
+
+            cover_images = [
+                image for image in parser.images
+                if 'station-cover-image' in image.get('class', '').split()
+            ]
+            if len(cover_images) != 1:
+                errors.append(f'{route}: expected one station cover image, found {len(cover_images)}')
+            else:
+                cover = cover_images[0]
+                if not cover.get('alt', '').strip():
+                    errors.append(f'{route}: station cover image has empty alt text')
+                if cover.get('width') != '1200' or cover.get('height') != '675':
+                    errors.append(f'{route}: station cover image dimensions must be 1200x675')
+
+            if len(parser.main_words) < 300:
+                warnings.append(f'{route}: short main content ({len(parser.main_words)} words)')
 
         local_routes = set()
         for tag, reference in parser.references:
@@ -249,13 +314,27 @@ def main():
 
     sitemap_path = DOCS / 'sitemap.xml'
     sitemap_urls = []
+    sitemap_images = {}
     if not sitemap_path.exists():
         errors.append('Missing docs/sitemap.xml')
     else:
         try:
             sitemap = ElementTree.parse(sitemap_path)
-            namespace = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
-            sitemap_urls = [node.text.strip() for node in sitemap.findall('.//s:loc', namespace) if node.text]
+            namespace = {
+                's': 'http://www.sitemaps.org/schemas/sitemap/0.9',
+                'image': 'http://www.google.com/schemas/sitemap-image/1.1',
+            }
+            for url_node in sitemap.findall('.//s:url', namespace):
+                loc_node = url_node.find('s:loc', namespace)
+                if loc_node is None or not loc_node.text:
+                    continue
+                loc = loc_node.text.strip()
+                sitemap_urls.append(loc)
+                sitemap_images[loc] = [
+                    node.text.strip()
+                    for node in url_node.findall('image:image/image:loc', namespace)
+                    if node.text
+                ]
         except ElementTree.ParseError as exc:
             errors.append(f'Invalid sitemap.xml: {exc}')
 
@@ -298,6 +377,22 @@ def main():
     if len(station_routes) != 368:
         errors.append(f'Expected 368 station pages, found {len(station_routes)}')
 
+    station_images = sorted((DOCS / 'images' / 'stations').glob('*.png'))
+    if len(station_images) != len(station_routes):
+        errors.append(
+            f'Expected {len(station_routes)} station social images, found {len(station_images)}'
+        )
+    for route in sorted(station_routes):
+        page_url = canonical_for_route(route)
+        slug = route.rstrip('/').split('/')[-1]
+        expected_image = canonical_for_route(f'images/stations/{slug}.png')
+        if expected_image not in sitemap_images.get(page_url, []):
+            errors.append(f'{route}: station image absent from sitemap')
+
+    homepage_text = pages.get('', (None, None, ''))[2]
+    if 'class="home-editorial"' not in homepage_text or 'class="featured-stories"' not in homepage_text:
+        errors.append('/: homepage is missing static editorial and featured content')
+
     if errors:
         print(f'SEO audit failed with {len(errors)} error(s):')
         for error in errors:
@@ -309,7 +404,16 @@ def main():
         )
 
     if warnings:
-        counts = Counter('long title' if 'long title' in warning else 'long description' for warning in warnings)
+        def warning_kind(warning):
+            if 'long title' in warning:
+                return 'long title'
+            if 'long description' in warning:
+                return 'long description'
+            if 'short main content' in warning:
+                return 'short content'
+            return 'other advisory'
+
+        counts = Counter(warning_kind(warning) for warning in warnings)
         print('Advisories: ' + ', '.join(f'{count} {label}(s)' for label, count in sorted(counts.items())))
         for warning in warnings[:10]:
             print(f'  WARN  {warning}')

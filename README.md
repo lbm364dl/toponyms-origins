@@ -7,11 +7,14 @@ The public website is prepared for **[nombresdemadrid.es](https://nombresdemadri
 ## Build and validate the website
 
 ```bash
+python3 -m pip install -r requirements.txt
 SITE_BASE_URL=https://nombresdemadrid.es/ python3 scripts/build_site.py
 SITE_BASE_URL=https://nombresdemadrid.es/ python3 scripts/check_seo.py
 ```
 
-The SEO audit checks metadata, canonicals, hreflang, structured data, sitemap coverage, internal links, and crawl depth for all generated station pages.
+The build also creates a unique 1200×675 social/search image for every station. The SEO audit checks metadata, canonicals, hreflang, structured data, image discovery, sitemap coverage, internal links, and crawl depth for all generated station pages.
+
+`SITE_PUBLISHED_DATE` and `SITE_LASTMOD_DATE` default to the public launch date. Update `SITE_LASTMOD_DATE` only after a significant content, structured-data, or internal-linking change; search engines expect sitemap modification dates to be accurate.
 
 ## Status
 
