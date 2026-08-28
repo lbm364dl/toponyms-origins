@@ -6,4 +6,4 @@ La historia local de Ricardo Márquez Ruiz recoge que el campo de maniobras de a
 
 Así, Artilleros conserva de forma breve una antigua geografía militar. La estación abrió con el primer tramo de la línea 9 de Metro, entre Sainz de Baranda y Pavones, el 31 de enero de 1980, cuando Moratalaz era ya un distrito moderno y densamente urbanizado. El nombre del metro no inventó esa memoria, sino que llevó al plano de transporte una denominación viaria ya existente.
 
-La explicación mejor apoyada no es una dedicatoria a artilleros concretos ni a un regimiento, sino al topónimo creado por el antiguo campo de tiro de artillería. La corrección útil es emplear la forma completa de la calle, calle del Pico de los Artilleros, y tratar las fechas de 1861, 1907 y 1927 como datos de investigación histórica local, no como actos de denominación de Metro.
+La explicación mejor apoyada no es una dedicatoria a artilleros concretos ni a un regimiento, sino al topónimo creado por el antiguo campo de tiro de artillería.

@@ -6,4 +6,4 @@ La estación de metro llegó después. Colón abrió el 23 de marzo de 1944 como
 
 La plaza ha cambiado varias veces de forma y usos. El solar de la antigua Casa de la Moneda se transformó en los Jardines del Descubrimiento, el monumento se desplazó durante la remodelación de los años setenta, se planearon instalaciones subterráneas como el Centro Cultural de la Villa bajo la plaza, y en 2009 el monumento a Colón volvió al centro de la glorieta.
 
-La etimología, por tanto, está bien fundada, pero conviene precisar algunos datos. La estación pertenece a la línea 4 de Metro; no es una estación de la línea 8. Además, el monumento no debe atribuirse solo a Suñol: Suñol hizo la estatua, mientras que Mélida fue responsable del proyecto y del pedestal.
+La etimología, por tanto, está bien fundada. La estación pertenece a la línea 4 de Metro, no a la línea 8. El monumento tampoco es obra exclusiva de Suñol: él hizo la estatua, mientras que Mélida fue responsable del proyecto y del pedestal.

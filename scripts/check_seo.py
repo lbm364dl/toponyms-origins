@@ -5,11 +5,17 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import Counter, deque
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import unquote, urljoin, urlparse
 from xml.etree import ElementTree
+
+try:
+    from content_quality import public_tone_issues
+except ModuleNotFoundError:  # Support imports as scripts.check_seo in tests.
+    from scripts.content_quality import public_tone_issues
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,6 +49,38 @@ SPANISH_DIACRITIC_ERRORS = {
     'rendicion', 'resolucion', 'simbolo', 'tematica', 'television',
     'traduccion', 'triangulo', 'urbanistico', 'util', 'vinculo',
 }
+PUBLIC_LABEL_CORRECTIONS = {
+    'Arguelles': 'Argüelles',
+    'Calle de Alcala': 'Calle de Alcalá',
+    'Calle de Velazquez': 'Calle de Velázquez',
+    'Calle del Limon': 'Calle del Limón',
+    'Chamberi': 'Chamberí',
+    'Chamartin': 'Chamartín',
+    'Gran Via': 'Gran Vía',
+    'Lavapies': 'Lavapiés',
+    'Madrid Rio': 'Madrid Río',
+    'Malasana': 'Malasaña',
+    'Opera': 'Ópera',
+    'Puerta de Alcala': 'Puerta de Alcalá',
+    'Santiago Bernabeu': 'Santiago Bernabéu',
+    'Sáinz de Baranda': 'Sainz de Baranda',
+    'Tetuan': 'Tetuán',
+    'Vicalvaro': 'Vicálvaro',
+}
+VISIBLE_PUBLIC_SPELLING_ERRORS = {
+    'Santiago Bernabeu': 'Santiago Bernabéu',
+    'Tranvia Parla': 'Tranvía de Parla',
+}
+PRIMARY_LABEL_SPELLING_ERRORS = {
+    'Sáinz de Baranda': 'Sainz de Baranda',
+}
+RESEARCH_NAME_VARIANT_EXCEPTIONS = {
+    # The station uses the official CRTM spelling without an accent, while the
+    # person it ultimately commemorates is Pedro Sáinz de Baranda.
+    'metro_099': {'Sáinz de Baranda'},
+}
+STRUCTURED_PUBLIC_FIELDS = ('name', 'district', 'neighbourhood', 'municipality')
+SPANISH_WORD_RE = re.compile(r'[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9]+')
 BASE_URL = os.environ.get('SITE_BASE_URL', 'https://nombresdemadrid.es/').strip()
 if not BASE_URL.endswith('/'):
     BASE_URL += '/'
@@ -204,6 +242,39 @@ def json_nodes_of_type(value, expected_type):
     return nodes
 
 
+def accent_fold(value):
+    decomposed = unicodedata.normalize('NFD', str(value or '')).casefold()
+    without_marks = ''.join(
+        char for char in decomposed if unicodedata.category(char) != 'Mn'
+    )
+    return re.sub(r'[^a-z0-9]+', ' ', without_marks).strip()
+
+
+def diacritic_count(value):
+    return sum(
+        unicodedata.category(char) == 'Mn'
+        for char in unicodedata.normalize('NFD', str(value or ''))
+    )
+
+
+def more_diacritic_name_variants(name, corpus):
+    name_words = SPANISH_WORD_RE.findall(str(name or ''))
+    if not name_words:
+        return Counter()
+    corpus_words = SPANISH_WORD_RE.findall(corpus)
+    size = len(name_words)
+    folded_name = accent_fold(name)
+    name_marks = diacritic_count(name)
+    variants = Counter()
+    for index in range(len(corpus_words) - size + 1):
+        candidate = ' '.join(corpus_words[index:index + size])
+        if accent_fold(candidate) != folded_name:
+            continue
+        if diacritic_count(candidate) > name_marks:
+            variants[candidate] += 1
+    return variants
+
+
 def main():
     errors = []
     warnings = []
@@ -211,6 +282,31 @@ def main():
     indexable_canonicals = {}
     title_owners = {}
     graph = {}
+
+    entries_index_path = DOCS / 'data' / 'entries_index.json'
+    indexed_entries = []
+    if entries_index_path.exists():
+        try:
+            indexed_entries = json.loads(entries_index_path.read_text(encoding='utf-8'))
+        except json.JSONDecodeError as exc:
+            errors.append(f'{entries_index_path.relative_to(ROOT)}: invalid JSON ({exc})')
+    else:
+        errors.append(f'{entries_index_path.relative_to(ROOT)}: missing generated entry index')
+
+    indexed_station_names = {
+        entry.get('id'): entry.get('name', '')
+        for entry in indexed_entries
+        if entry.get('_category') in {'metro', 'cercanias', 'metro_ligero'}
+    }
+    for entry in indexed_entries:
+        for field in STRUCTURED_PUBLIC_FIELDS:
+            value = entry.get(field)
+            expected = PUBLIC_LABEL_CORRECTIONS.get(value)
+            if expected:
+                errors.append(
+                    f'docs/data/entries_index.json: {entry.get("id")} field {field!r} '
+                    f'uses {value!r}; expected {expected!r}'
+                )
 
     html_files = sorted(DOCS.rglob('*.html'))
     if not html_files:
@@ -223,6 +319,19 @@ def main():
         parser = PageParser()
         parser.feed(text)
         pages[route] = (path, parser, text)
+
+        visible_text = ' '.join((parser.title, parser.h1, *parser.main_text_parts))
+        for wrong, expected in VISIBLE_PUBLIC_SPELLING_ERRORS.items():
+            if re.search(rf'(?<!\w){re.escape(wrong)}(?!\w)', visible_text):
+                errors.append(
+                    f'{route or "/"}: visible text uses {wrong!r}; expected {expected!r}'
+                )
+        primary_text = ' '.join((parser.title, parser.h1))
+        for wrong, expected in PRIMARY_LABEL_SPELLING_ERRORS.items():
+            if re.search(rf'(?<!\w){re.escape(wrong)}(?!\w)', primary_text):
+                errors.append(
+                    f'{route or "/"}: title or H1 uses {wrong!r}; expected {expected!r}'
+                )
 
         if OLD_ORIGIN in text:
             errors.append(f'{route or "/"}: old GitHub Pages origin remains in HTML')
@@ -326,6 +435,10 @@ def main():
                 warnings.append(f'{route}: short main content ({len(parser.main_words)} words)')
 
             main_text = ''.join(parser.main_text_parts)
+            for label, excerpt in public_tone_issues(main_text, 'es'):
+                errors.append(
+                    f'{route}: public copy {label}: {excerpt!r}'
+                )
             leaked_markdown = (
                 r'\*\*[^*\n]+\*\*',
                 r'`[^`\n]+`',
@@ -435,8 +548,18 @@ def main():
 
     for station_dir in sorted(CONTENT.glob('*')):
         metadata_path = station_dir / 'metadata.json'
+        station_corpus = []
+        metadata = None
         if metadata_path.exists():
             metadata = json.loads(metadata_path.read_text(encoding='utf-8'))
+
+            station_id = metadata.get('id')
+            indexed_name = indexed_station_names.get(station_id)
+            if indexed_name and metadata.get('name') != indexed_name:
+                errors.append(
+                    f'{metadata_path.relative_to(ROOT)}: name {metadata.get("name")!r} '
+                    f'does not match generated index name {indexed_name!r}'
+                )
 
             def spanish_metadata_strings(value, key=''):
                 if isinstance(value, dict):
@@ -449,6 +572,7 @@ def main():
                     yield value
 
             metadata_text = ' '.join(spanish_metadata_strings(metadata))
+            station_corpus.append(metadata_text)
             metadata_words = re.findall(r'[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+', metadata_text)
             metadata_suspects = sorted(
                 {word.casefold() for word in metadata_words} & SPANISH_DIACRITIC_ERRORS
@@ -459,12 +583,27 @@ def main():
                     + ', '.join(metadata_suspects[:12])
                 )
 
+            for source_index, source_metadata in enumerate(metadata.get('sources', [])):
+                if not isinstance(source_metadata, dict):
+                    continue
+                relevance_es = source_metadata.get('relevance_es', '')
+                for label, excerpt in public_tone_issues(relevance_es, 'es'):
+                    errors.append(
+                        f'{metadata_path.relative_to(ROOT)}: sources[{source_index}].relevance_es '
+                        f'{label}: {excerpt!r}'
+                    )
+
         for filename in ('story.md', 'summary.md', 'summary.short.md'):
             source = station_dir / 'es' / filename
             if not source.exists():
                 errors.append(f'{source.relative_to(ROOT)}: missing Spanish public copy')
                 continue
             source_text = source.read_text(encoding='utf-8')
+            station_corpus.append(source_text)
+            for label, excerpt in public_tone_issues(source_text, 'es'):
+                errors.append(
+                    f'{source.relative_to(ROOT)}: public copy {label}: {excerpt!r}'
+                )
             words = re.findall(r'[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+', source_text)
             suspects = sorted({word.casefold() for word in words} & SPANISH_DIACRITIC_ERRORS)
             if suspects:
@@ -474,6 +613,20 @@ def main():
                 )
             if len(words) >= 80 and not re.search(r'[áéíóúüñÁÉÍÓÚÜÑ]', source_text):
                 errors.append(f'{source.relative_to(ROOT)}: long Spanish copy has no diacritics')
+
+        if metadata and metadata.get('name'):
+            variants = more_diacritic_name_variants(
+                metadata['name'], '\n'.join(station_corpus)
+            )
+            for allowed in RESEARCH_NAME_VARIANT_EXCEPTIONS.get(metadata.get('id'), set()):
+                variants.pop(allowed, None)
+            if sum(variants.values()) >= 2:
+                candidate, occurrences = variants.most_common(1)[0]
+                errors.append(
+                    f'{metadata_path.relative_to(ROOT)}: station name {metadata["name"]!r} '
+                    f'likely lacks diacritics; found {candidate!r} {occurrences} times '
+                    'in its Spanish research'
+                )
 
     if errors:
         print(f'SEO audit failed with {len(errors)} error(s):')

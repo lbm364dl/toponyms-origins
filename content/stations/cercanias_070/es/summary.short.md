@@ -1,1 +1,1 @@
-San Yago conserva a la vista los componentes antiguos de Santiago: sant/san más Iago o Yago, la forma romance ibérica de Jacobo/Santiago. El nombre de la estación se interpreta mejor como un topónimo religioso, aunque no se ha localizado el acto local concreto que fijó el nombre del apeadero.
+San Yago conserva a la vista los componentes antiguos de Santiago: sant/san más Iago o Yago, la forma romance ibérica de Jacobo/Santiago. El nombre de la estación se interpreta mejor como un topónimo religioso, aunque no consta el acto local concreto que fijó el nombre del apeadero.

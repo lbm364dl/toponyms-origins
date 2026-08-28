@@ -1,1 +1,1 @@
-La estación Parque Polvoranca toma el nombre del cercano Parque de Polvoranca, una gran zona verde periurbana de Leganés. El parque conserva el nombre de la antigua villa de Polvoranca, cuya etimología profunda es debatida y no debe presentarse como segura.
+La estación Parque Polvoranca toma el nombre del cercano Parque de Polvoranca, una gran zona verde periurbana de Leganés. El parque conserva el nombre de la antigua villa de Polvoranca, cuya etimología profunda sigue debatida.

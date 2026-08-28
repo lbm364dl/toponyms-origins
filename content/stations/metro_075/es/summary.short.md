@@ -1,1 +1,1 @@
-La estación de San Cipriano toma su nombre de la calle de San Cipriano, en Vicálvaro, donde se sitúan sus accesos. El nombre religioso probablemente alude a san Cipriano de Cartago, obispo y mártir del siglo III, aunque no se ha localizado el acuerdo municipal que lo precise.
+La estación de San Cipriano toma su nombre de la calle de San Cipriano, en Vicálvaro, donde se sitúan sus accesos. El nombre religioso probablemente alude a san Cipriano de Cartago, obispo y mártir del siglo III, aunque no consta el acuerdo municipal que lo precise.

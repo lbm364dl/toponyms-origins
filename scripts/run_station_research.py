@@ -28,6 +28,11 @@ import re
 import sys
 from pathlib import Path
 
+try:
+    from content_quality import public_tone_issues
+except ModuleNotFoundError:  # Support imports as scripts.run_station_research.
+    from scripts.content_quality import public_tone_issues
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 AGENT_INSTRUCTIONS = PROJECT_ROOT / ".codex" / "agents" / "station-research.md"
@@ -85,6 +90,33 @@ MARKDOWN_FIELDS = [
     ("research_note", "en", "research_note_en", "research-note.md"),
     ("research_note", "es", "research_note_es", "research-note.md"),
 ]
+
+PUBLIC_RESULT_FIELDS = {
+    'en': ('summary_short_en', 'recommended_summary_en', 'story_en'),
+    'es': ('summary_short_es', 'recommended_summary_es', 'story_es'),
+}
+
+
+def result_public_tone_issues(result: dict) -> list[str]:
+    """Validate only fields that become canonical reader-facing content."""
+    issues: list[str] = []
+    for language, fields in PUBLIC_RESULT_FIELDS.items():
+        for field in fields:
+            for label, excerpt in public_tone_issues(result.get(field, ''), language):
+                issues.append(f'{field}: {label}: {excerpt!r}')
+
+    sources = result.get('sources', [])
+    if isinstance(sources, list):
+        for source_index, source in enumerate(sources):
+            if not isinstance(source, dict):
+                continue
+            for language in ('en', 'es'):
+                field = f'relevance_{language}'
+                for label, excerpt in public_tone_issues(source.get(field, ''), language):
+                    issues.append(
+                        f'sources[{source_index}].{field}: {label}: {excerpt!r}'
+                    )
+    return issues
 
 
 def utc_now() -> str:
@@ -356,7 +388,18 @@ async def run_one(
                     "confidence": "unknown",
                     "research_note": f"no {RESULT_TAG} block returned; codex exit {proc.returncode}",
                 }
-            markdown_files = write_markdown_content(content_root, result)
+            tone_issues = result_public_tone_issues(result)
+            if tone_issues:
+                result['status'] = 'error'
+                result['public_copy_validation_errors'] = tone_issues
+                markdown_files = {}
+                print(
+                    f'  [{idx:04d}] {name:<48s} rejected public copy '
+                    f'({len(tone_issues)} tone issue(s))',
+                    flush=True,
+                )
+            else:
+                markdown_files = write_markdown_content(content_root, result)
             if markdown_files:
                 result["markdown_files"] = markdown_files
             result_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

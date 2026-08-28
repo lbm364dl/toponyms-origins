@@ -1,1 +1,1 @@
-La estación de Lucero toma su nombre del barrio de Lucero, en el distrito madrileño de Latina. El nombre del barrio ya aparece en uso municipal a mediados del siglo XX, pero no se ha localizado una explicación documental de por qué aquel asentamiento recibió ese topónimo.
+La estación de Lucero toma su nombre del barrio de Lucero, en el distrito madrileño de Latina. El nombre del barrio ya aparece en uso municipal a mediados del siglo XX, pero no consta una explicación documental de por qué aquel asentamiento recibió ese topónimo.

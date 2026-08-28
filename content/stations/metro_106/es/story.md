@@ -6,4 +6,4 @@ El entorno madrileño también forma parte de la historia. La zona de la Plaza d
 
 El Metro llegó después. Cuzco abrió el 10 de junio de 1982 dentro del tramo Fuencarral-Nuevos Ministerios de la antigua línea 8, poco antes del Mundial de Fútbol de 1982 celebrado en España. En 1998 ese trazado norte fue absorbido por la actual línea 10, por eso Cuzco se encuentra hoy entre Plaza de Castilla y Santiago Bernabéu.
 
-La etimología principal es segura: estación, plaza y ciudad peruana forman una cadena clara. El punto más delicado es la fecha exacta en que Madrid asignó el nombre a la plaza; el 21 de octubre de 1953 se repite en fuentes secundarias, pero conviene consultar el acuerdo municipal original antes de tratar esa fecha como plenamente archivística.
+La etimología principal es segura: estación, plaza y ciudad peruana forman una cadena clara. El punto más delicado es la fecha exacta en que Madrid asignó el nombre a la plaza. El 21 de octubre de 1953 se repite en fuentes secundarias, pero no está confirmado por el acuerdo municipal original.

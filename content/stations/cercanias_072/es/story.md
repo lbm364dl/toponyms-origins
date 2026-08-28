@@ -2,7 +2,7 @@ La estación de Robledo de Chavela recibe su nombre del municipio de Robledo de 
 
 El topónimo que hay detrás de la estación es un nombre de lugar compuesto. El Toponomasticon Hispaniae explica Robledo como una forma castellana relacionada con el latín roboretum, un sustantivo colectivo o abundancial para designar un robledal. Dicho de forma sencilla, la primera parte del nombre remite a un paisaje antiguamente caracterizado por robles.
 
-La segunda parte, Chavela, es el elemento más interesante y discutido. La fuente más sólida localizada, el Toponomasticon Hispaniae, la interpreta como un nombre personal medieval formado por Echa y Vela. En esa lectura, Echa se relaciona con el vasco aita a través de una forma afectiva medieval, y Vela es un nombre personal de origen germánico; el conjunto habría designado algo parecido al robledal perteneciente a un hombre llamado Echa Vela.
+La segunda parte, Chavela, es el elemento más interesante y discutido. Toponomasticon Hispaniae, la fuente más sólida disponible, la interpreta como un nombre personal medieval formado por Echa y Vela. En esa lectura, Echa se relaciona con el vasco aita a través de una forma afectiva medieval, y Vela es un nombre personal de origen germánico; el conjunto habría designado algo parecido al robledal perteneciente a un hombre llamado Echa Vela.
 
 La documentación histórica confirma que se trata de un compuesto antiguo. Toponomasticon cita formas como Robredo de Chavela en 1341, Robredo de Enchauela en 1355, Robledo de Chavela en 1454 y Robledo de Chabela en 1488. Esos ejemplos muestran también que robredo y robledo convivieron durante mucho tiempo antes de fijarse la forma moderna.
 

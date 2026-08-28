@@ -1,6 +1,6 @@
 {
   "id": "metro_099",
-  "name": "Sáinz de Baranda",
+  "name": "Sainz de Baranda",
   "status": "verified",
   "confidence": "verified",
   "recommended_etymology_type": "person",
@@ -73,6 +73,10 @@
     }
   ],
   "corrections": [
+    {
+      "en": "Use the current official station spelling Sainz de Baranda, without an accent; biographical sources write the honoree's surname as Sáinz de Baranda.",
+      "es": "Debe usarse la grafía oficial actual de la estación, Sainz de Baranda, sin tilde; las fuentes biográficas escriben el apellido de la persona homenajeada como Sáinz de Baranda."
+    },
     {
       "en": "The station did not open as a Line 6-Line 9 interchange in 1979; Line 6 opened here in October 1979 and Line 9 service at Sainz de Baranda began on 31 January 1980.",
       "es": "La estación no abrió como intercambiador de las líneas 6 y 9 en 1979; la línea 6 abrió aquí en octubre de 1979 y el servicio de la línea 9 en Sainz de Baranda comenzó el 31 de enero de 1980."

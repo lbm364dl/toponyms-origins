@@ -27,7 +27,7 @@
       "url": "https://datos.madrid.es/dataset/213605-0-callejero-oficial-madrid",
       "type": "official",
       "relevance_en": "The historical-vials CSV records Plaza del Parque de las Avenidas, code 95700, with FECHA_DE_ALTA 18/10/1960 and FECHA_DE_BAJA 19/10/1960; the one-day row is useful as an official nomenclature clue but should not be treated as a stable street-name date without the municipal file.",
-      "relevance_es": "El CSV de evolución histórica de viales registra la Plaza del Parque de las Avenidas, código 95700, con FECHA_DE_ALTA 18/10/1960 y FECHA_DE_BAJA 19/10/1960; la fila de un día es útil como indicio oficial de nomenclatura, pero no debe tratarse como fecha estable de vía sin el expediente municipal."
+      "relevance_es": "El CSV de evolución histórica de viales registra la Plaza del Parque de las Avenidas, código 95700, con FECHA_DE_ALTA 18/10/1960 y FECHA_DE_BAJA 19/10/1960. La fila de un día es un indicio oficial de nomenclatura, pero no demuestra una fecha estable de vía sin el expediente municipal."
     },
     {
       "title": "Arquitectura de Madrid: Parque de las Avenidas",

@@ -2,7 +2,7 @@ San Fermín-Orcasur no es el nombre de un único pueblo antiguo, parroquia o fin
 
 La parte San Fermín procede de la Colonia San Fermín. Los relatos locales relacionan ese nombre con Federico Mayo Gayarre, pamplonés y primer director del Instituto Nacional de la Vivienda, que dirigió la política de vivienda de posguerra durante el franquismo. La huella navarra de la colonia sigue viéndose en nombres cercanos de calles como Estafeta, Elizondo, Oteiza o Lecumberri.
 
-El santo que hay detrás de esa denominación local es San Fermín, muy asociado con Pamplona y Navarra. Conviene corregir que San Fermín no es simplemente 'el patrón de Navarra' en solitario: fuentes oficiales navarras presentan a San Fermín y San Francisco Javier como copatronos del antiguo Reino de Navarra desde 1657. En Madrid, el nombre religioso llegó por una decisión de vivienda y callejero del siglo XX, no por una ermita medieval.
+El santo que hay detrás de esa denominación local es San Fermín, muy asociado con Pamplona y Navarra. Fuentes oficiales navarras presentan a San Fermín y San Francisco Javier como copatronos del antiguo Reino de Navarra desde 1657; San Fermín no es el único patrón. En Madrid, el nombre religioso llegó por una decisión de vivienda y callejero del siglo XX, no por una ermita medieval.
 
 La parte Orcasur es más urbanística que devocional. La guía de arquitectura del COAM describe Orcasur como resultado de la remodelación de tres poblados del Instituto Nacional de la Vivienda: el Poblado Mínimo de Orcasitas, el Poblado de Absorción de Orcasitas y el Poblado Agrícola. Esa historia explica por qué Orcasur está unido a Orcasitas aunque hoy sea un barrio administrativo con identidad propia.
 

@@ -6,4 +6,4 @@ La Navata está menos documentada como etimología específica del nombre de est
 
 El contexto ferroviario importa porque el nombre actual no fue necesariamente el primer nombre usado por los viajeros. El tramo Madrid-El Escorial del ferrocarril del Norte se abrió el 9 de agosto de 1861 y más tarde quedó integrado en la red de Cercanías de Madrid. Una historia ferroviaria publicada indica que en los años noventa La Navata pasó a denominarse Galapagar-La Navata, incorporando el municipio al nombre local del apeadero.
 
-Por tanto, la redacción actual es en gran parte correcta, pero conviene matizarla. Primero, nava no debe presentarse simplemente como vasca: la Academia la considera prerromana y solo la compara con el vasco naba. Segundo, la explicación concreta de La Navata como diminutivo de nava es probable, no una prueba directa localizada en una entrada toponímica autorizada para este lugar exacto.
+Nava no es simplemente una voz vasca: la Academia la considera prerromana y solo la compara con el vasco naba. La explicación concreta de La Navata como diminutivo de nava es probable, pero no consta en una entrada toponímica autorizada para este lugar exacto.

@@ -1,1 +1,1 @@
-Sáinz de Baranda is named for the nearby Calle del Alcalde Sainz de Baranda, which honors Pedro Casto Sáinz de Baranda y Gorriti, constitutional mayor of Madrid in the crisis years of 1812 and 1820. The Line 6 station opened in 1979 and became a Line 6-Line 9 interchange in 1980.
+Sainz de Baranda is named for the nearby Calle del Alcalde Sainz de Baranda, which honors Pedro Casto Sáinz de Baranda y Gorriti, constitutional mayor of Madrid in the crisis years of 1812 and 1820. The Line 6 station opened in 1979 and became a Line 6-Line 9 interchange in 1980.

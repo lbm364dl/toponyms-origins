@@ -71,6 +71,9 @@ OPERATOR_LABELS_ES = {
     'Renfe Cercanias': 'Renfe Cercanías',
     'Tranvia de Parla': 'Tranvía de Parla',
 }
+LINE_LABELS_ES = {
+    'Tranvia Parla': 'Tranvía de Parla',
+}
 
 FILES = {
     'metro': 'data/madrid_metro_stations.csv',
@@ -280,7 +283,7 @@ def station_description(entry):
     if summary:
         return truncate_text(f'{entry.get("name", "")}: {summary}', 160)
     line = entry.get('line')
-    line_text = f' en la línea {line}' if line else ''
+    line_text = f' en la línea {format_lines(line)}' if line else ''
     return truncate_text(
         f'Por qué la estación {entry.get("name", "")}{line_text} se llama así: origen del nombre, fuentes y nivel de confianza.',
         160,
@@ -297,7 +300,11 @@ def station_meta(entry):
     return ' · '.join(str(piece) for piece in pieces if piece)
 
 def format_lines(value):
-    return ', '.join(part.strip() for part in str(value or '').split(';') if part.strip())
+    return ', '.join(
+        LINE_LABELS_ES.get(part.strip(), part.strip())
+        for part in str(value or '').split(';')
+        if part.strip()
+    )
 
 def format_operator(value):
     return '; '.join(
@@ -580,7 +587,7 @@ def station_page_html(entry, entries):
     if confidence_label:
         badges.append(f'<span class="badge">{esc(confidence_label)}</span>')
     for line in entry_lines(entry):
-        badges.append(f'<a class="badge" href="{root}{line_path(line)}">Línea {esc(line)}</a>')
+        badges.append(f'<a class="badge" href="{root}{line_path(line)}">Línea {esc(format_lines(line))}</a>')
     badges = ''.join(badges)
     detail_items = (
         ('Origen del nombre', named_after, None),
@@ -1108,7 +1115,7 @@ def build_directory_pages(entries, out_root):
     line_links = []
     for line, line_entries in sorted(lines.items(), key=lambda item: natural_sort_key(item[0])):
         path = line_path(line)
-        label = f'Línea {line}'
+        label = f'Línea {format_lines(line)}'
         line_description = f'Por qué se llaman así las {len(line_entries)} estaciones de la {label} en Madrid, con fuentes y nivel de confianza.'
         body = f'''<section class="page-section"><h2>Origen de los nombres de la {esc(label)}</h2><p>{esc(line_description)}</p>{collection_insights_html(line_entries, '../../')}{directory_entries_html(line_entries, '../../')}</section>'''
         indexable = len(line_entries) >= 3

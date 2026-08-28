@@ -6,4 +6,4 @@ El papel del rey no fue solo ceremonial. El material archivístico del centenari
 
 La estación de la línea 4 se inauguró el 26 de marzo de 1973, cuando el Metro prolongó la línea desde Diego de León hasta Alfonso XIII pasando por Avenida de América y Prosperidad. Un extracto de la memoria de Metro de Madrid conservado por Memoria de Madrid describe el nuevo tramo como una prolongación de 2.544 metros y enumera sus tres estaciones: Avenida de América, Prosperidad y Alfonso XIII.
 
-La identificación con el rey Alfonso XIII está bien respaldada, pero el relato público no debe dar a entender que esta estación formó parte de la línea inaugural de 1919. También conviene corregir una anécdota repetida de forma demasiado abreviada: los célebres 40 segundos corresponden al trayecto Cuatro Caminos-Ríos Rosas, no al viaje inaugural completo.
+La identificación con el rey Alfonso XIII está bien respaldada, pero esta estación no formó parte de la línea inaugural de 1919. Los célebres 40 segundos corresponden al trayecto Cuatro Caminos-Ríos Rosas, no al viaje inaugural completo.

@@ -6,4 +6,4 @@ El barrio moderno, sin embargo, quedó definido sobre todo por la vivienda del s
 
 Ese barrio de posguerra ayuda a entender por qué una estación inaugurada en 1975 adoptó este nombre. Para entonces Barrio de la Concepción no era solo un topónimo religioso antiguo, sino una zona urbana reconocible, con calles como Virgen del Sagrario, equipamientos próximos como el parque del Calero y los bloques de gran altura conocidos después como Las Colmenas.
 
-La interpretación más prudente es, por tanto, doble: la estación se llama así por el barrio, y el barrio conserva una denominación mariana anterior. La afirmación de que el nombre fue reforzado por una parroquia local es más débil; se ha encontrado mejor apoyo para la colonia del siglo XIX y para la promoción residencial de posguerra que para una parroquia como origen decisivo del nombre de la estación.
+La interpretación más prudente es, por tanto, doble: la estación se llama así por el barrio, y el barrio conserva una denominación mariana anterior. La colonia del siglo XIX y la promoción residencial de posguerra están mejor documentadas que la idea de una parroquia local como origen decisivo del nombre de la estación.

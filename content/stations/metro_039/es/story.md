@@ -6,4 +6,4 @@ El nombre de O'Donnell adquirió especial proyección tras la guerra hispano-mar
 
 La calle pertenece al Madrid que se expandió hacia el este tras la eliminación de la antigua cerca urbana. Esa cerca debe entenderse mejor como la Cerca de Felipe IV, un límite fiscal y administrativo de época moderna, no como una muralla medieval. El callejero oficial actual sitúa la calle de O'Donnell en los distritos de Retiro y Salamanca, de acuerdo con la posición de la estación entre esas zonas urbanas.
 
-La etimología está, por tanto, bien sustentada, con un matiz importante: Metro no bautizó la estación directamente por el estadista de forma aislada, sino que heredó el topónimo viario ya existente. No se ha encontrado ningún nombre anterior de la estación, y el nombre actual parece estar en uso desde su inauguración el 11 de octubre de 1979.
+La etimología está, por tanto, bien sustentada, con un matiz importante: Metro no bautizó la estación directamente por el estadista de forma aislada, sino que heredó el topónimo viario ya existente. No consta ningún nombre anterior de la estación, y el nombre actual parece estar en uso desde su inauguración el 11 de octubre de 1979.
