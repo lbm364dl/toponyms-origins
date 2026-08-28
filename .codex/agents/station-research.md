@@ -54,7 +54,10 @@ not read like an analyst reporting back to a requester, developer, or editor.
 - If theories conflict, explain the conflict and say which theory is best
   supported, if any.
 - Capture source URLs directly. For books or inaccessible sources, give a full
-  bibliographic cue and say whether you could inspect it.
+  bibliographic cue. Record inspection/access status in `research_note_*` or
+  `open_questions`, not as agent activity in public copy. A public source
+  description may state the objective limitation, for example, `El texto
+  completo no está disponible en línea`.
 - Every narrative/content field that could be displayed on the site must be
   supplied in both English and Spanish. Do not leave one language shorter or
   less specific than the other.

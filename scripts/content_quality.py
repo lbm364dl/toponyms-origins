@@ -18,8 +18,10 @@ SPANISH_PUBLIC_TONE_RULES = (
     (
         'references a public/editorial deliverable',
         re.compile(
-            r'\b(?:para|en) (?:una|la) (?:explicación|interpretación|redacción|presentación|versión|ficha|cartela) pública\b'
-            r'|\bde cara al público\b|\bpara (?:la|una|esta) ficha\b',
+            r'\b(?:para|en) (?:una|la) (?:etimología|explicación|interpretación|redacción|presentación|versión|ficha|cartela) pública\b'
+            r'|\b(?:lectura|redacción|relato|versión) pública\b'
+            r'|\bde cara al público\b|\bpara (?:la|una|esta) ficha\b'
+            r'|\b(?:la|esta) ficha (?:debe|debería|puede|conviene)\b',
             re.IGNORECASE,
         ),
     ),
@@ -44,6 +46,9 @@ SPANISH_PUBLIC_TONE_RULES = (
         'reports the research process',
         re.compile(
             r'\bno se (?:ha )?(?:encontrado|localizado|podido confirmar|podido verificar)\b'
+            r'|\bno (?:se )?(?:pudo|ha podido) (?:consultar|acceder)\b'
+            r'|\b(?:fuente|fuentes|documentación|referencia|referencias|evidencia|artículo|libro|registro) '
+            r'(?:más )?(?:sólida(?:s)? )?(?:consultada(?:s)?|localizada(?:s)?|revisada(?:s)?|encontrada(?:s)?)\b'
             r'|\b(?:durante|en) (?:esta|la presente) investigación\b',
             re.IGNORECASE,
         ),
@@ -61,7 +66,8 @@ SPANISH_PUBLIC_TONE_RULES = (
         'describes an editorial correction or formulation',
         re.compile(
             r'\b(?:la|una) (?:corrección|formulación) '
-            r'(?:principal|más importante|prudente|segura|sólida|adecuada)\b',
+            r'(?:principal|más importante|prudente|segura|sólida|adecuada)\b'
+            r'|\b(?:la|una) (?:lectura|redacción|formulación) recomendada\b',
             re.IGNORECASE,
         ),
     ),

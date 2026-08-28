@@ -436,6 +436,11 @@ def main():
 
             main_text = ''.join(parser.main_text_parts)
             for label, excerpt in public_tone_issues(main_text, 'es'):
+                # This is the fixed, reader-facing heading for the evidence
+                # section, not research-process narration inside station copy.
+                # Canonical source fields still receive the full rule below.
+                if excerpt.casefold() == 'fuentes consultadas':
+                    continue
                 errors.append(
                     f'{route}: public copy {label}: {excerpt!r}'
                 )
