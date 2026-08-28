@@ -524,23 +524,45 @@ header .subtitle {
 }
 
 .map-line-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 0 18px;
   margin-top: 18px;
 }
 
 .map-line-btn,
 .load-more-btn {
   min-height: 32px;
-  padding: 0 10px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-sm);
+  padding: 0;
   background: transparent;
   color: var(--text-secondary);
   cursor: pointer;
   font-size: 0.76rem;
   font-weight: 700;
+}
+
+.map-line-btn {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border: 0;
+  border-bottom: 1px solid var(--border);
+  border-radius: 0;
+  text-align: left;
+}
+
+.map-line-btn::before {
+  flex: 0 0 18px;
+  width: 18px;
+  height: 3px;
+  background: var(--line-color);
+  content: '';
+}
+
+.load-more-btn {
+  padding: 0 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
 }
 
 .map-line-btn:hover,
@@ -565,7 +587,7 @@ header .subtitle {
 }
 
 .map-container .leaflet-tile {
-  filter: brightness(1.22) contrast(0.9) saturate(0.82);
+  filter: grayscale(1) invert(0.91) brightness(0.54) contrast(1.22) sepia(0.12) hue-rotate(98deg) saturate(0.62);
 }
 
 .map-container .leaflet-control-zoom {
@@ -592,19 +614,6 @@ header .subtitle {
 
 .map-container .leaflet-control-attribution a {
   color: var(--text-muted);
-}
-
-.map-marker {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.station-dot {
-  box-sizing: border-box;
-  border: 1px solid rgba(210, 222, 214, var(--station-dot-ring-opacity, 0.28));
-  border-radius: 50%;
-  box-shadow: 0 0 0 1px rgba(5, 10, 8, 0.35);
 }
 
 .map-container .leaflet-popup-content-wrapper,

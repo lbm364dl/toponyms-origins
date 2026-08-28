@@ -4,6 +4,8 @@ let activeLine = '';
 let map = null;
 let markers = null;
 let lineLayer = null;
+let mapRenderer = null;
+let baseLayer = null;
 let fullEntries = null;
 let fullEntriesPromise = null;
 let mapAssetsPromise = null;
@@ -17,6 +19,8 @@ let modalCloseTimer = null;
 
 const DEFAULT_RENDER_LIMIT = 80;
 const RENDER_INCREMENT = 80;
+const MAP_ENTRY_LIMIT_DESKTOP = 120;
+const MAP_ENTRY_LIMIT_MOBILE = 64;
 const STATION_CATEGORIES = new Set(['metro', 'cercanias', 'metro_ligero']);
 const APP_ROOT_PATH = (() => {
   const path = window.location.pathname;
@@ -60,7 +64,7 @@ const I18N = {
     loadingEntry: 'Loading entry...',
     loadingMap: 'Loading map...',
     mapPromptTitle: 'Choose a line to open the map',
-    mapPromptBody: 'The full network stays off the home page for speed. Pick a line or narrow the list with search and filters.',
+    mapPromptBody: 'The full network is not drawn all at once. Pick a line, or narrow the list with search and filters.',
     narrowMapTitle: 'Narrow the results to map them',
     narrowMapBody: 'This selection is still too broad for a fast mobile map.',
   },
@@ -90,7 +94,7 @@ const I18N = {
     loadingEntry: 'Cargando entrada...',
     loadingMap: 'Cargando mapa...',
     mapPromptTitle: 'Elige una línea para abrir el mapa',
-    mapPromptBody: 'La red completa queda fuera de la portada para que cargue rápido. Elige una línea o acota la lista con búsqueda y filtros.',
+    mapPromptBody: 'La red completa no se dibuja de golpe. Elige una línea o acota la lista con la búsqueda y los filtros.',
     narrowMapTitle: 'Acota los resultados para mapearlos',
     narrowMapBody: 'Esta selección todavía es demasiado amplia para un mapa móvil rápido.',
   }
@@ -113,6 +117,10 @@ const LINE_COLORS = {
 
 const LOOP_LINES = new Set(['6', '12', 'Tranvia Parla']);
 const LINE_ALIAS_PARENTS = { 'C-4a': 'C-4', 'C-4b': 'C-4' };
+const LINE_DISPLAY_NAMES = {
+  en: { 'Tranvia Parla': 'Parla Tram' },
+  es: { 'Tranvia Parla': 'Tranvía de Parla' },
+};
 
 async function init() {
   normalizeDocumentLinks();
@@ -333,6 +341,9 @@ function applyLang() {
   // Update line filter first option
   const lineEl = document.getElementById('filter-line');
   if (lineEl.options[0]) lineEl.options[0].text = t('allLines');
+  [...lineEl.options].slice(1).forEach(option => {
+    option.textContent = lineDisplayName(option.value);
+  });
 }
 
 function renderStats() {
@@ -355,7 +366,7 @@ function buildLineFilter() {
   const sorted = sortLines([...lines]);
   const sel = document.getElementById('filter-line');
   sel.innerHTML = `<option value="">${t('allLines')}</option>` +
-    sorted.map(l => `<option value="${l}">${l}</option>`).join('');
+    sorted.map(l => `<option value="${escAttr(l)}">${esc(lineDisplayName(l))}</option>`).join('');
 }
 
 function sortLines(lines) {
@@ -714,7 +725,16 @@ function escAttr(s) {
 }
 
 function formatLineList(value) {
-  return String(value || '').split(';').map(v => v.trim()).filter(Boolean).join(', ');
+  return String(value || '')
+    .split(';')
+    .map(v => v.trim())
+    .filter(Boolean)
+    .map(lineDisplayName)
+    .join(', ');
+}
+
+function lineDisplayName(line) {
+  return (LINE_DISPLAY_NAMES[lang] && LINE_DISPLAY_NAMES[lang][line]) || line;
 }
 
 // Field value translations for ES mode
@@ -801,6 +821,15 @@ function renderMapView(filtered) {
   const mapEl = document.getElementById('map');
   if (!prompt || !mapEl) return;
 
+  if (!canRenderMap(filtered)) {
+    if (markers) markers.clearLayers();
+    if (lineLayer) lineLayer.clearLayers();
+    prompt.hidden = false;
+    prompt.innerHTML = mapPromptHTML(filtered);
+    mapEl.hidden = true;
+    return;
+  }
+
   if (map) {
     prompt.hidden = true;
     mapEl.hidden = false;
@@ -816,10 +845,15 @@ function renderMapView(filtered) {
   ensureMapAssets()
     .then(() => {
       if (currentView !== 'map') return;
+      const currentFiltered = getFiltered();
+      if (!canRenderMap(currentFiltered)) {
+        renderMapView(currentFiltered);
+        return;
+      }
       prompt.hidden = true;
       mapEl.hidden = false;
       if (!map) initMap();
-      updateMap(filtered);
+      updateMap(currentFiltered);
       setTimeout(() => map.invalidateSize(), 100);
     })
     .catch(() => {
@@ -829,12 +863,22 @@ function renderMapView(filtered) {
     });
 }
 
+function mapEntryLimit() {
+  return window.matchMedia('(max-width: 700px)').matches
+    ? MAP_ENTRY_LIMIT_MOBILE
+    : MAP_ENTRY_LIMIT_DESKTOP;
+}
+
+function canRenderMap(filtered) {
+  return Boolean(activeLine) || filtered.length <= mapEntryLimit();
+}
+
 function mapPromptHTML(filtered) {
-  const broad = !hasMapNarrowing();
+  const broad = filtered.length === entries.length;
   const title = broad ? t('mapPromptTitle') : t('narrowMapTitle');
   const body = broad ? t('mapPromptBody') : `${t('narrowMapBody')} ${t('showing')} ${filtered.length} ${t('entries')}.`;
-  const buttons = lineOptionsForPrompt()
-    .map(line => `<button class="map-line-btn" onclick="chooseLine('${escAttr(line)}')">${esc(line)}</button>`)
+  const buttons = lineOptionsForPrompt(filtered)
+    .map(line => `<button class="map-line-btn" style="--line-color:${escAttr(LINE_COLORS[line] || '#8a9690')}" onclick="chooseLine('${escAttr(line)}')">${esc(lineDisplayName(line))}</button>`)
     .join('');
 
   return `
@@ -846,11 +890,13 @@ function mapPromptHTML(filtered) {
   `;
 }
 
-function lineOptionsForPrompt() {
+function lineOptionsForPrompt(filtered) {
   const lines = new Set();
-  entries.forEach(e => {
-    if (activeCategory && e._category !== activeCategory) return;
+  filtered.forEach(e => {
     if (e.line) e.line.split(';').forEach(l => lines.add(l.trim()));
+  });
+  Object.entries(LINE_ALIAS_PARENTS).forEach(([alias, parent]) => {
+    if (lines.has(parent)) lines.delete(alias);
   });
   return sortLines([...lines]);
 }
@@ -859,7 +905,6 @@ function chooseLine(line) {
   activeLine = line;
   document.getElementById('filter-line').value = line;
   filtersChanged();
-  setView('map');
 }
 
 function ensureMapAssets() {
@@ -893,27 +938,27 @@ function loadStylesheetOnce(href, id) {
 }
 
 function initMap() {
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const coarsePointer = window.matchMedia('(pointer: coarse)').matches;
   map = L.map('map', {
+    preferCanvas: true,
     zoomControl: true,
-    scrollWheelZoom: true,
-  }).setView([40.42, -3.70], 12);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-    maxZoom: 19
-  }).addTo(map);
+    scrollWheelZoom: !coarsePointer,
+    fadeAnimation: !reducedMotion && !coarsePointer,
+    zoomAnimation: !reducedMotion && !coarsePointer,
+    markerZoomAnimation: false,
+  });
+  baseLayer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>',
+    maxZoom: 19,
+    detectRetina: false,
+    updateWhenIdle: true,
+    keepBuffer: 1,
+  });
+  mapRenderer = L.canvas({ padding: 0.25 });
   lineLayer = L.layerGroup().addTo(map);
   markers = L.layerGroup().addTo(map);
   map.on('zoomend', updateMarkerScale);
-}
-
-function stationIcon(color) {
-  const size = markerSizeForZoom(map ? map.getZoom() : 9);
-  return L.divIcon({
-    className: 'map-marker',
-    html: `<div class="station-dot" style="width:${size}px;height:${size}px;background:${color}"></div>`,
-    iconSize: [size, size],
-    iconAnchor: [size / 2, size / 2]
-  });
 }
 
 function stationMarkerColor(e) {
@@ -982,7 +1027,13 @@ function updateMap(filtered) {
       }
       if (coords.length >= 2) {
         const color = LINE_COLORS[lineName] || '#999';
-        L.polyline(coords, { color, weight: 3.5, opacity: 0.6 }).addTo(lineLayer);
+        L.polyline(coords, {
+          renderer: mapRenderer,
+          color,
+          weight: 3.5,
+          opacity: 0.68,
+          interactive: false,
+        }).addTo(lineLayer);
       }
     });
   });
@@ -1008,35 +1059,44 @@ function updateMap(filtered) {
       <a class="map-popup-link" href="${escAttr(href)}" onclick="event.preventDefault(); closePopupsAndOpen('${e.id}')">${t('readMore')}</a>
     `;
 
-    markers.addLayer(L.marker([lat, lng], {
-      icon: stationIcon(color),
-      stationColor: color
+    const radius = markerRadiusForZoom(map.getZoom());
+    markers.addLayer(L.circleMarker([lat, lng], {
+      renderer: mapRenderer,
+      radius,
+      color: '#101615',
+      weight: radius <= 2.5 ? 0.75 : 1.25,
+      opacity: 0.9,
+      fillColor: color,
+      fillOpacity: 0.96,
     }).bindPopup(popup));
     bounds.push([lat, lng]);
   });
 
-  if (bounds.length > 0) map.fitBounds(bounds, { padding: [20, 20], maxZoom: activeLine ? 13 : 14 });
+  if (bounds.length > 0) {
+    map.fitBounds(bounds, { padding: [20, 20], maxZoom: activeLine ? 13 : 14 });
+  } else {
+    map.setView([40.42, -3.70], 12);
+  }
+  if (baseLayer && !map.hasLayer(baseLayer)) baseLayer.addTo(map);
   updateMarkerScale();
 }
 
-function markerSizeForZoom(zoom) {
-  if (zoom <= 9) return 4;
-  if (zoom === 10) return 5;
-  if (zoom === 11) return 6;
-  if (zoom === 12) return 7;
-  if (zoom === 13) return 8;
-  return 9;
+function markerRadiusForZoom(zoom) {
+  if (zoom <= 9) return 2;
+  if (zoom === 10) return 2.5;
+  if (zoom === 11) return 3;
+  if (zoom === 12) return 3.5;
+  if (zoom === 13) return 4;
+  return 4.5;
 }
 
 function updateMarkerScale() {
   if (!map || !markers) return;
-  const size = markerSizeForZoom(map.getZoom());
-  const ringOpacity = size <= 5 ? '0.22' : '0.38';
-  const mapEl = document.getElementById('map');
-  if (mapEl) mapEl.style.setProperty('--station-dot-ring-opacity', ringOpacity);
+  const radius = markerRadiusForZoom(map.getZoom());
   markers.eachLayer(marker => {
-    const color = marker.options.stationColor;
-    if (color) marker.setIcon(stationIcon(color));
+    if (typeof marker.setRadius !== 'function') return;
+    marker.setRadius(radius);
+    marker.setStyle({ weight: radius <= 2.5 ? 0.75 : 1.25 });
   });
 }
 
