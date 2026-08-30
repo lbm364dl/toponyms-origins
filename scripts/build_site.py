@@ -29,7 +29,7 @@ SITE_REPOSITORY_URL = 'https://github.com/lbm364dl/toponyms-origins'
 SITE_OG_IMAGE = 'og-image.png'
 SITE_PATH_PREFIX = urlparse(SITE_BASE_URL).path.rstrip('/')
 SITE_PUBLISHED_DATE = os.environ.get('SITE_PUBLISHED_DATE', '2026-08-27').strip()
-SITE_LASTMOD_DATE = os.environ.get('SITE_LASTMOD_DATE', SITE_PUBLISHED_DATE).strip()
+SITE_LASTMOD_DATE = os.environ.get('SITE_LASTMOD_DATE', '2026-08-28').strip()
 FEATURED_STATION_IDS = (
     'metro_001',       # Sol
     'metro_029',       # Atocha
@@ -340,12 +340,22 @@ def station_title(entry):
     name = entry.get('name', '')
     disambiguator = entry.get('_title_disambiguator')
     display_name = f'{name} ({disambiguator})' if disambiguator else name
+    seo_title = entry.get('seo_title_es', '').strip()
+    if seo_title:
+        candidates = (
+            f'{seo_title} | {SITE_NAME_ES}',
+            seo_title,
+        )
+        return next((candidate for candidate in candidates if len(candidate) <= 65), candidates[-1])
     candidates = (
         f'¿Por qué se llama {display_name}? | {SITE_NAME_ES}',
         f'{display_name}: origen del nombre | {SITE_NAME_ES}',
         f'{display_name}: origen del nombre',
     )
     return next((candidate for candidate in candidates if len(candidate) <= 65), candidates[-1])
+
+def station_lastmod(entry):
+    return entry.get('last_modified', '').strip() or SITE_LASTMOD_DATE
 
 def station_heading(entry):
     name = entry.get('name', '')
@@ -424,7 +434,7 @@ def station_json_ld(entry):
         'description': station_description(entry),
         'image': [image_url],
         'datePublished': SITE_PUBLISHED_DATE,
-        'dateModified': SITE_LASTMOD_DATE,
+        'dateModified': station_lastmod(entry),
         'inLanguage': 'es',
         'isAccessibleForFree': True,
         'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
@@ -634,7 +644,7 @@ def station_page_html(entry, entries):
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
 <meta property="article:published_time" content="{esc(SITE_PUBLISHED_DATE)}">
-<meta property="article:modified_time" content="{esc(SITE_LASTMOD_DATE)}">
+<meta property="article:modified_time" content="{esc(station_lastmod(entry))}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{esc(title)}">
 <meta name="twitter:description" content="{esc(description)}">
@@ -1375,7 +1385,7 @@ def build_sitemap(entries, out_root, generated_paths=None):
     urls.extend(
         (
             absolute_url(entry['page_path']),
-            SITE_LASTMOD_DATE,
+            station_lastmod(entry),
             '0.8',
             absolute_url(station_image_path(entry)),
         )
@@ -1430,6 +1440,12 @@ def load_station_content():
             'corrections': meta.get('corrections', []),
             'open_questions': meta.get('open_questions', []),
         }
+        seo_title = meta.get('seo_title_es', '').strip()
+        if seo_title:
+            entry_content['seo_title_es'] = seo_title
+        last_modified = meta.get('last_modified', '').strip()
+        if last_modified:
+            entry_content['last_modified'] = last_modified
 
         field_map = {
             'recommended_etymology_type': 'etymology_type',
